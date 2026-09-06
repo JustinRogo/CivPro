@@ -1,6 +1,15 @@
-name: Publish reviewed release
+name: Deploy GitHub Pages
 on:
   workflow_dispatch:
+    inputs:
+      release:
+        description: Publication status
+        required: true
+        default: candidate
+        type: choice
+        options:
+          - candidate
+          - reviewed
 permissions:
   contents: read
   pages: write
@@ -19,7 +28,13 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npm run validate && npm test
+      - name: Build public preview
+        if: inputs.release == 'candidate'
+        run: npm run build -- --candidate
+        env:
+          FCR_SITE_URL: ${{ vars.FCR_SITE_URL }}
       - name: Build reviewed production artifact
+        if: inputs.release == 'reviewed'
         run: npm run build -- --production
         env:
           FCR_SITE_URL: ${{ vars.FCR_SITE_URL }}

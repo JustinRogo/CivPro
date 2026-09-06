@@ -16,6 +16,8 @@ All runtime links are relative or hash routes. Deploy the contents of `dist/`, i
 
 ## Production gate
 
+Public previews are supported separately from editorially approved releases. The **Deploy GitHub Pages** workflow defaults to `release: candidate`, runs the validation and browser checks, and publishes with a visible public-preview banner. It preserves `data/review.json` as a candidate and does not claim completed review. Choose `release: reviewed` only after the review below is complete.
+
 The supplied brief requires reviewed legal content before production publication. The candidate is runnable, but its complete editorial review has not been performed. `npm run build -- --production` requires `data/review.json` to contain `status: "approved"` and a `corpusSha256` matching the exact bytes of `data/provisions.json`. Record reviewer, date and supporting report; do not set approval merely to bypass the gate. Re-review relationships whenever an endpoint edition changes.
 
 Obtain the digest after completing review:
@@ -28,10 +30,10 @@ Update the About-page review status and this report to match the actual complete
 
 ## GitHub Pages
 
-1. Push the reviewed repository to the intended GitHub project. This task has not pushed or deployed anything.
+1. Push the repository to the intended GitHub project.
 2. Configure Settings → Pages → Source: GitHub Actions.
 3. Set repository variable `FCR_SITE_URL` to the final HTTPS URL.
-4. Run **Publish reviewed release** manually. It validates, tests, builds through the production gate, runs browser checks and deploys the same `dist/` artifact.
+4. Run **Deploy GitHub Pages** manually with `release: candidate` for the labeled public preview or `release: reviewed` for a release that passes the editorial approval gate. Both modes validate, test and deploy the same tested `dist/` artifact.
 5. Verify the deployed non-root URL, shared paragraph links and installed PWA. Run actual iOS checks separately and record device, OS, installation route, offline restart and recovery observations.
 
 For a different base path, also adjust the browser test baseURL and server URL together. The default deployment suite is configured for `/CivPro/`.

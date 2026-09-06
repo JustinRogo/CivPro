@@ -4,6 +4,8 @@ import Ajv from 'ajv';
 import {validate,json,sha} from './validate.mjs';
 const {provisions,sources,relationships}=await validate();
 const review=await json('data/review.json');
+const production=process.argv.includes('--production');
+if(process.argv.includes('--candidate')&&!process.env.FCR_SITE_URL)throw Error('Set FCR_SITE_URL to the final HTTPS publication URL.');
 if(process.argv.includes('--production')){
   if(review.status!=='approved'||review.corpusSha256!==sha(await readFile('data/provisions.json')))throw Error('Production publication requires a completed review bound to the canonical corpus hash. See docs/DEPLOYMENT.md.');
   if(!process.env.FCR_SITE_URL)throw Error('Set FCR_SITE_URL to the final HTTPS publication URL.');
@@ -12,6 +14,8 @@ const root=process.cwd(),output=path.resolve(root,'dist');
 if(output!==path.join(root,'dist'))throw Error('Unsafe build output');
 await rm(output,{recursive:true,force:true});await mkdir(output,{recursive:true});
 await cp('src',output,{recursive:true});await cp('public',output,{recursive:true});
+const notice=production?'':'<div class="notice" role="status" id="release-notice"><strong>Public preview.</strong> Editorial review is in progress. <a href="#/about">Review status &amp; coverage ↗</a></div>';
+await writeFile(output+'/index.html',(await readFile(output+'/index.html','utf8')).replace('<!--RELEASE_NOTICE-->',notice));
 const write=async(p,v)=>{await mkdir(path.dirname(p),{recursive:true});await writeFile(p,typeof v==='string'?v:JSON.stringify(v)+'\n')};
 const definitions=await json('data/collections.json');
 const catalog={version:1,districts:await json('data/districts.json'),collections:[],provisions:[]},artifacts=[];
@@ -29,7 +33,7 @@ for(const definition of definitions){
 await add('data/catalog.json',catalog);await add('data/sources.json',sources);
 await add('data/relationships.json',{...relationships,reverse:Object.fromEntries(provisions.map(p=>[p.id,relationships.links.filter(l=>l.from===p.id||l.to===p.id).map(l=>l.id)]))});
 await add('data/inventory.json',await json('data/inventory.json'));
-const release={version:1,id:sha(JSON.stringify(artifacts)).slice(0,16),reviewStatus:'candidate',artifacts,packages:{}};
+const release={version:1,id:sha(JSON.stringify(artifacts)).slice(0,16),reviewStatus:production?'approved':'candidate',artifacts,packages:{}};
 for(const d of catalog.districts.filter(d=>d.supported)){const id=d.id==='us'?'federal':d.id;release.packages[id]={label:d.id==='us'?'Federal collections':d.name+' collections',artifacts:artifacts.filter(a=>!a.path.startsWith('data/editions/')||d.collections.some(c=>a.path.startsWith('data/editions/'+c+'/'))).map(a=>a.path)}};
 await write(output+'/data/release.json',release);
 const site=new URL(process.env.FCR_SITE_URL||'https://example.github.io/CivPro/');if(!site.pathname.endsWith('/'))throw Error('FCR_SITE_URL must end in /');
