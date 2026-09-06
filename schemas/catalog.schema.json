@@ -1,0 +1,182 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "catalog",
+  "type": "object",
+  "properties": {
+    "version": {
+      "const": 1
+    },
+    "districts": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "name": {
+            "type": "string"
+          },
+          "collections": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "supported": {
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "id",
+          "name",
+          "collections",
+          "supported"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "collections": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "name": {
+            "type": "string"
+          },
+          "shortName": {
+            "type": "string"
+          },
+          "districtId": {
+            "type": "string",
+            "minLength": 1
+          },
+          "scopeNote": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "count": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "editions": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "collectionId": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "sourceDocumentId": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "label": {
+                  "type": "string"
+                },
+                "path": {
+                  "type": "string"
+                },
+                "searchPath": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "id",
+                "collectionId",
+                "sourceDocumentId",
+                "label",
+                "path",
+                "searchPath"
+              ],
+              "additionalProperties": false
+            }
+          }
+        },
+        "required": [
+          "id",
+          "name",
+          "shortName",
+          "districtId",
+          "scopeNote",
+          "count",
+          "editions"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "provisions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "collectionId": {
+            "type": "string",
+            "minLength": 1
+          },
+          "districtId": {
+            "type": "string",
+            "minLength": 1
+          },
+          "number": {
+            "type": "string",
+            "minLength": 1
+          },
+          "citation": {
+            "type": "string",
+            "minLength": 1
+          },
+          "title": {
+            "type": "string",
+            "minLength": 1
+          },
+          "status": {
+            "type": "string"
+          },
+          "group": {
+            "type": "string"
+          },
+          "editionId": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "required": [
+          "id",
+          "collectionId",
+          "districtId",
+          "number",
+          "citation",
+          "title",
+          "status",
+          "group",
+          "editionId"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": [
+    "version",
+    "districts",
+    "collections",
+    "provisions"
+  ],
+  "additionalProperties": false
+}

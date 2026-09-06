@@ -1,0 +1,93 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "source-document",
+  "type": "object",
+  "properties": {
+    "url": {
+      "type": "string"
+    },
+    "publisher": {
+      "type": "string"
+    },
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "name": {
+      "type": "string"
+    },
+    "path": {
+      "type": "string"
+    },
+    "sha256": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "bytes": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "retrievedAt": {
+      "type": "string"
+    },
+    "lastCurrencyReview": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "pageCount": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "editionLabel": {
+      "type": "string"
+    },
+    "publicationDate": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "effectiveDate": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "editionEvidence": {
+      "type": "object",
+      "properties": {
+        "pageIndex": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "wording": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "pageIndex",
+        "wording"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "required": [
+    "url",
+    "publisher",
+    "id",
+    "name",
+    "path",
+    "sha256",
+    "bytes",
+    "retrievedAt",
+    "lastCurrencyReview",
+    "pageCount",
+    "editionLabel",
+    "publicationDate",
+    "effectiveDate",
+    "editionEvidence"
+  ],
+  "additionalProperties": false
+}

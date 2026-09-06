@@ -1,0 +1,7 @@
+{
+  "status": "candidate",
+  "corpusSha256": null,
+  "reviewer": null,
+  "reviewedAt": null,
+  "outstanding": ["Complete independent line-by-line editorial review", "Actual iOS installation and offline verification", "Publication approval"]
+}

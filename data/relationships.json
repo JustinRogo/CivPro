@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "reviewStatus": "partial",
+  "reviewedProvisions": [],
+  "links": [
+    {
+      "id": "explicit-1",
+      "from": "ctd-civil:56",
+      "to": "federal-frcp:56",
+      "type": "explicit-citation",
+      "status": "verified",
+      "editions": [
+        "ctd-civil-0b079332554adb92",
+        "federal-frcp-bd8705fc038d87e4"
+      ],
+      "reviewer": "Codex — source citation checked; not a legal applicability determination",
+      "reviewedAt": "2026-09-06",
+      "evidence": {
+        "sourceDocumentId": "ctd-0b079332554adb92",
+        "pageIndex": 63,
+        "passage": "Federal Rule of Civil Procedure 56(c)."
+      }
+    },
+    {
+      "id": "explicit-2",
+      "from": "ctd-civil:26",
+      "to": "federal-frcp:26",
+      "type": "explicit-citation",
+      "status": "verified",
+      "editions": [
+        "ctd-civil-0b079332554adb92",
+        "federal-frcp-bd8705fc038d87e4"
+      ],
+      "reviewer": "Codex — source citation checked; not a legal applicability determination",
+      "reviewedAt": "2026-09-06",
+      "evidence": {
+        "sourceDocumentId": "ctd-0b079332554adb92",
+        "pageIndex": 41,
+        "passage": "In accordance with Fed.R.Civ.P. 26(b)"
+      }
+    },
+    {
+      "id": "explicit-3",
+      "from": "ctd-civil:26",
+      "to": "federal-frcp:16",
+      "type": "explicit-citation",
+      "status": "verified",
+      "editions": [
+        "ctd-civil-0b079332554adb92",
+        "federal-frcp-bd8705fc038d87e4"
+      ],
+      "reviewer": "Codex — source citation checked; not a legal applicability determination",
+      "reviewedAt": "2026-09-06",
+      "evidence": {
+        "sourceDocumentId": "ctd-0b079332554adb92",
+        "pageIndex": 42,
+        "passage": "pursuant to Fed.R.Civ.P. 16(b)."
+      }
+    },
+    {
+      "id": "explicit-4",
+      "from": "ctd-magistrate:72.2",
+      "to": "federal-frcp:53",
+      "type": "explicit-citation",
+      "status": "verified",
+      "editions": [
+        "ctd-magistrate-0b079332554adb92",
+        "federal-frcp-bd8705fc038d87e4"
+      ],
+      "reviewer": "Codex — source citation checked; not a legal applicability determination",
+      "reviewedAt": "2026-09-06",
+      "evidence": {
+        "sourceDocumentId": "ctd-0b079332554adb92",
+        "pageIndex": 136,
+        "passage": "Review of special master proceedings shall be in accordance with Rule 53, Fed. R. Civ. P., to the extent applicable."
+      }
+    }
+  ]
+}

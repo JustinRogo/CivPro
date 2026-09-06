@@ -1,0 +1,9 @@
+[
+  {"id":"federal-frcp","name":"Federal Rules of Civil Procedure","shortName":"Civil Procedure","districtId":"us","scopeNote":null},
+  {"id":"federal-admiralty","name":"Supplemental Admiralty & Asset Forfeiture Rules","shortName":"Admiralty & forfeiture","districtId":"us","scopeNote":"A separate supplemental collection; lettered identifiers do not collide with FRCP numbers."},
+  {"id":"federal-social","name":"Supplemental Social Security Rules","shortName":"Social Security","districtId":"us","scopeNote":"Scope is stated in Supplemental Rule 1. This collection has independent rule identifiers."},
+  {"id":"federal-support","name":"Federal Appendix & Publisher Footnotes","shortName":"Appendix & footnotes","districtId":"us","scopeNote":"The appendix of forms is abrogated. Publisher footnotes are retained separately, with page provenance. These are not complete Advisory Committee Notes."},
+  {"id":"ctd-civil","name":"Connecticut Local Civil Rules","shortName":"Local civil rules","districtId":"ctd","scopeNote":null},
+  {"id":"ctd-magistrate","name":"Connecticut Magistrate Rules","shortName":"Magistrate rules","districtId":"ctd","scopeNote":"These rules include both civil and criminal duties. The source’s full scope wording is preserved."},
+  {"id":"ctd-support","name":"Connecticut Civil Forms & Standing Orders","shortName":"Forms & standing orders","districtId":"ctd","scopeNote":"Eight supporting materials from the civil appendix. Forms are presented as source text; obtain official PDFs for filing."}
+]

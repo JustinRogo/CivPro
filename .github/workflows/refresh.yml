@@ -1,0 +1,27 @@
+name: Review official source refresh
+on:
+  workflow_dispatch:
+  # To enable scheduled review, uncomment after configuring maintainers:
+  # schedule:
+  #   - cron: '0 14 * * 1'
+permissions:
+  contents: read
+jobs:
+  acquire:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11.3'
+      - run: python scripts/acquire.py
+      - name: Compare source hashes and discovery link
+        run: python scripts/refresh-report.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: source-review-candidate
+          path: candidate/
+          retention-days: 30
+      # Changed source bytes intentionally stop at review. The source-bound
+      # profile must be reviewed before ingestion; nothing publishes here.

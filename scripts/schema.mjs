@@ -1,0 +1,16 @@
+import {mkdir,writeFile} from 'node:fs/promises';
+const string={type:'string'},id={type:'string',minLength:1},nullable={type:['string','null']},integer={type:'integer',minimum:0},strings={type:'array',items:string},hash={type:'string',pattern:'^[a-f0-9]{64}$'};
+const array=items=>({type:'array',items});
+const object=(properties,required=Object.keys(properties))=>({type:'object',properties,required,additionalProperties:false});
+const block=object({id,path:strings,type:{enum:['paragraph','history','footnote']},text:string,pages:array(integer),parent:nullable});
+const edition=object({id,collectionId:id,sourceDocumentId:id,label:string,path:string,searchPath:string});
+const provision=object({id,collectionId:id,districtId:id,number:id,citation:id,title:id,status:{enum:['active','reserved','abrogated','cross-reference']},group:string,body:array(block),history:array(block),footnotes:array(block),editionId:id,sourceDocumentId:id,sourceUrl:string,pageIndex:integer,pageSpan:{type:'array',items:integer,minItems:2,maxItems:2},printedPage:string,dates:object({amendmentDate:nullable,effectiveDate:nullable,evidence:array(object({wording:string,pages:array(integer)}))})});
+const source=object({url:string,publisher:string,id,name:string,path:string,sha256:hash,bytes:integer,retrievedAt:string,lastCurrencyReview:nullable,pageCount:integer,editionLabel:string,publicationDate:nullable,effectiveDate:nullable,editionEvidence:object({pageIndex:integer,wording:string})});
+const relationship=object({id,from:id,to:id,type:{enum:['explicit-citation','editorial-topical']},status:{enum:['candidate','verified','needs-review']},editions:strings,reviewer:string,reviewedAt:string,evidence:object({sourceDocumentId:id,pageIndex:integer,passage:id})});
+const collection=object({id,name:string,shortName:string,districtId:id,scopeNote:nullable,count:integer,editions:array(edition)});
+const nav=object({id,collectionId:id,districtId:id,number:id,citation:id,title:id,status:string,group:string,editionId:id});
+const search=object({id,collectionId:id,districtId:id,number:id,citation:id,title:id,editionId:id,text:string,history:string,notes:string});
+const artifact=object({path:id,bytes:integer,sha256:hash});
+const schemas={provision, 'source-document':source, edition, relationship, collection, district:object({id,name:string,collections:strings,supported:{type:'boolean'}}),catalog:object({version:{const:1},districts:array(object({id,name:string,collections:strings,supported:{type:'boolean'}})),collections:array(collection),provisions:array(nav)}),'search-index':array(search),'release-manifest':object({version:{const:1},id,reviewStatus:string,artifacts:array(artifact),packages:{type:'object',additionalProperties:object({label:string,artifacts:strings})}})};
+await mkdir('schemas',{recursive:true});
+for(const [name,schema]of Object.entries(schemas))await writeFile('schemas/'+name+'.schema.json',JSON.stringify({$schema:'http://json-schema.org/draft-07/schema#',title:name,...schema},null,2)+'\n');

@@ -1,0 +1,24 @@
+[
+  {
+    "url": "https://www.uscourts.gov/sites/default/files/document/federal-rules-of-civil-procedure.pdf",
+    "publisher": "United States Courts / U.S. Government Publishing Office",
+    "id": "federal-bd8705fc038d87e4",
+    "name": "federal",
+    "path": "federal-bd8705fc038d87e4fe222a7ea2e4324222c9430e2373fce56826bd2dfa2f8baf.pdf",
+    "sha256": "bd8705fc038d87e4fe222a7ea2e4324222c9430e2373fce56826bd2dfa2f8baf",
+    "bytes": 415707,
+    "retrievedAt": "2026-09-06T19:31:05.839271+00:00",
+    "lastCurrencyReview": null
+  },
+  {
+    "url": "https://www.ctd.uscourts.gov/sites/default/files/Current-Revised-Local-Rules-9.4.26.pdf",
+    "publisher": "United States District Court, District of Connecticut",
+    "id": "ctd-0b079332554adb92",
+    "name": "ctd",
+    "path": "ctd-0b079332554adb921d257f24e6bc86069fb6b5089de821af3527b766e8a8e703.pdf",
+    "sha256": "0b079332554adb921d257f24e6bc86069fb6b5089de821af3527b766e8a8e703",
+    "bytes": 798957,
+    "retrievedAt": "2026-09-06T19:31:05.844274+00:00",
+    "lastCurrencyReview": null
+  }
+]

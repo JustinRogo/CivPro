@@ -1,0 +1,286 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "provision",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "collectionId": {
+      "type": "string",
+      "minLength": 1
+    },
+    "districtId": {
+      "type": "string",
+      "minLength": 1
+    },
+    "number": {
+      "type": "string",
+      "minLength": 1
+    },
+    "citation": {
+      "type": "string",
+      "minLength": 1
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "status": {
+      "enum": [
+        "active",
+        "reserved",
+        "abrogated",
+        "cross-reference"
+      ]
+    },
+    "group": {
+      "type": "string"
+    },
+    "body": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "path": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "type": {
+            "enum": [
+              "paragraph",
+              "history",
+              "footnote"
+            ]
+          },
+          "text": {
+            "type": "string"
+          },
+          "pages": {
+            "type": "array",
+            "items": {
+              "type": "integer",
+              "minimum": 0
+            }
+          },
+          "parent": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        },
+        "required": [
+          "id",
+          "path",
+          "type",
+          "text",
+          "pages",
+          "parent"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "history": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "path": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "type": {
+            "enum": [
+              "paragraph",
+              "history",
+              "footnote"
+            ]
+          },
+          "text": {
+            "type": "string"
+          },
+          "pages": {
+            "type": "array",
+            "items": {
+              "type": "integer",
+              "minimum": 0
+            }
+          },
+          "parent": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        },
+        "required": [
+          "id",
+          "path",
+          "type",
+          "text",
+          "pages",
+          "parent"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "footnotes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "path": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "type": {
+            "enum": [
+              "paragraph",
+              "history",
+              "footnote"
+            ]
+          },
+          "text": {
+            "type": "string"
+          },
+          "pages": {
+            "type": "array",
+            "items": {
+              "type": "integer",
+              "minimum": 0
+            }
+          },
+          "parent": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        },
+        "required": [
+          "id",
+          "path",
+          "type",
+          "text",
+          "pages",
+          "parent"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "editionId": {
+      "type": "string",
+      "minLength": 1
+    },
+    "sourceDocumentId": {
+      "type": "string",
+      "minLength": 1
+    },
+    "sourceUrl": {
+      "type": "string"
+    },
+    "pageIndex": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "pageSpan": {
+      "type": "array",
+      "items": {
+        "type": "integer",
+        "minimum": 0
+      },
+      "minItems": 2,
+      "maxItems": 2
+    },
+    "printedPage": {
+      "type": "string"
+    },
+    "dates": {
+      "type": "object",
+      "properties": {
+        "amendmentDate": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "effectiveDate": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "evidence": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "wording": {
+                "type": "string"
+              },
+              "pages": {
+                "type": "array",
+                "items": {
+                  "type": "integer",
+                  "minimum": 0
+                }
+              }
+            },
+            "required": [
+              "wording",
+              "pages"
+            ],
+            "additionalProperties": false
+          }
+        }
+      },
+      "required": [
+        "amendmentDate",
+        "effectiveDate",
+        "evidence"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "required": [
+    "id",
+    "collectionId",
+    "districtId",
+    "number",
+    "citation",
+    "title",
+    "status",
+    "group",
+    "body",
+    "history",
+    "footnotes",
+    "editionId",
+    "sourceDocumentId",
+    "sourceUrl",
+    "pageIndex",
+    "pageSpan",
+    "printedPage",
+    "dates"
+  ],
+  "additionalProperties": false
+}

@@ -1,0 +1,60 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "search-index",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string",
+        "minLength": 1
+      },
+      "collectionId": {
+        "type": "string",
+        "minLength": 1
+      },
+      "districtId": {
+        "type": "string",
+        "minLength": 1
+      },
+      "number": {
+        "type": "string",
+        "minLength": 1
+      },
+      "citation": {
+        "type": "string",
+        "minLength": 1
+      },
+      "title": {
+        "type": "string",
+        "minLength": 1
+      },
+      "editionId": {
+        "type": "string",
+        "minLength": 1
+      },
+      "text": {
+        "type": "string"
+      },
+      "history": {
+        "type": "string"
+      },
+      "notes": {
+        "type": "string"
+      }
+    },
+    "required": [
+      "id",
+      "collectionId",
+      "districtId",
+      "number",
+      "citation",
+      "title",
+      "editionId",
+      "text",
+      "history",
+      "notes"
+    ],
+    "additionalProperties": false
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "relationship",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "from": {
+      "type": "string",
+      "minLength": 1
+    },
+    "to": {
+      "type": "string",
+      "minLength": 1
+    },
+    "type": {
+      "enum": [
+        "explicit-citation",
+        "editorial-topical"
+      ]
+    },
+    "status": {
+      "enum": [
+        "candidate",
+        "verified",
+        "needs-review"
+      ]
+    },
+    "editions": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "reviewer": {
+      "type": "string"
+    },
+    "reviewedAt": {
+      "type": "string"
+    },
+    "evidence": {
+      "type": "object",
+      "properties": {
+        "sourceDocumentId": {
+          "type": "string",
+          "minLength": 1
+        },
+        "pageIndex": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "passage": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "sourceDocumentId",
+        "pageIndex",
+        "passage"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "required": [
+    "id",
+    "from",
+    "to",
+    "type",
+    "status",
+    "editions",
+    "reviewer",
+    "reviewedAt",
+    "evidence"
+  ],
+  "additionalProperties": false
+}

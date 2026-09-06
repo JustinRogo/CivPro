@@ -1,0 +1,14 @@
+{
+  "adapterVersion": 1,
+  "hashes": {
+    "federal": "bd8705fc038d87e4fe222a7ea2e4324222c9430e2373fce56826bd2dfa2f8baf",
+    "ctd": "0b079332554adb921d257f24e6bc86069fb6b5089de821af3527b766e8a8e703"
+  },
+  "keepHyphens": [
+    "declaratoryjudgment",
+    "subjectmatter",
+    "thirdparty",
+    "nontranscript",
+    "SOCIALSECURITY"
+  ]
+}

@@ -1,0 +1,4 @@
+[
+  {"id":"us","name":"Federal only","collections":["federal-frcp","federal-admiralty","federal-social","federal-support"],"supported":true},
+  {"id":"ctd","name":"District of Connecticut","collections":["ctd-civil","ctd-magistrate","ctd-support"],"supported":true}
+]
