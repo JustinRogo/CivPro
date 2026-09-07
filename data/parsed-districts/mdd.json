@@ -1,0 +1,1215 @@
+{
+  "version": 1,
+  "reviewStatus": "parsed-draft",
+  "districtId": "mdd",
+  "sourceDocument": {
+    "id": "0548bdddab14f278",
+    "title": "Click here for a full-page view or to download the Local Rules.",
+    "format": "pdf",
+    "role": "primary",
+    "sourceUrl": "https://www.mdd.uscourts.gov/sites/mdd/files/LocalRules.pdf",
+    "sha256": "0548bdddab14f278b80ad91c2625837e65ad06ddfe9613107a72a0121174cae9",
+    "bytes": 990432,
+    "retrievedAt": "2026-09-07T00:01:24.212810+00:00",
+    "snapshotPath": "sources/district-snapshots/0548bdddab14f278b80ad91c2625837e65ad06ddfe9613107a72a0121174cae9.pdf",
+    "textPath": "data/source-library/0548bdddab14f278b80ad91c2625837e65ad06ddfe9613107a72a0121174cae9.json",
+    "pdfPath": "data/source-pdfs/0548bdddab14f278b80ad91c2625837e65ad06ddfe9613107a72a0121174cae9.pdf",
+    "pageCount": 157,
+    "reviewStatus": "source-document-only",
+    "blankTextPages": 0
+  },
+  "collection": {
+    "id": "mdd-civil",
+    "name": "District of Maryland Local Rules",
+    "shortName": "Local rules · draft",
+    "districtId": "mdd",
+    "scopeNote": "Civil and generally applicable local rules; unparsed supplements remain in the source library. Rule boundaries and transcription are drafts. Embedded notes, forms, and running headers may remain within rule text; subsection anchors and field-separated notes are not yet reviewed."
+  },
+  "provisions": [
+    {
+      "id": "mdd-civil:101",
+      "collectionId": "mdd-civil",
+      "districtId": "mdd",
+      "number": "101",
+      "citation": "District of Maryland · Rule 101",
+      "title": "Counsel",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-11",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 101. Counsel\n1. Who May Appear as Counsel; Who May Appear Without \nCounsel\nU.S. District Court of Maryland Local Rules (December 1, 2025)\n1\nI. CIVIL\nRULE 101. COUNSEL\n1. Who May Appear as Counsel; Who May Appear Without Counsel\na) Generally\nExcept as otherwise provided in this Rule and in L.R. 112.3 and 28 U.S.C. § 515, only \nmembers of the Bar of this Court may appear as counsel in civil cases. Individuals who are \nparties in civil cases may only represent themselves. Individuals representing themselves are \nresponsible for performing all duties imposed upon counsel by these Rules and all other \napplicable federal rules of procedure. All parties other than individuals must be represented \nby counsel.\nb) Pro Hac Vice\ni) Generally. Except as provided in subsection (v) of this Rule, the Court may permit \nany attorney who is an active member in good standing of the bar of any other United \nStates court or of the highest court of any state to appear and participate as counsel in a \nparticular civil case. Such permission shall not constitute formal admission to the Bar of \nthis Court. However, an attorney admitted pro hac vice is subject to the disciplinary \njurisdiction of this Court. Any party represented by an attorney who has been admitted pro \nhac vice must also be represented by an attorney who is, and continuously remains, an active \nmember in good standing of the Bar of this Court who shall sign all documents and, unless \nexcused by the presiding judge, be present at any court proceedings.\nii) Certification Requirement. The Motion for Admission Pro Hac Vice shall include a \ncertification as to the number of times the attorney has been admitted pro hac vice during \nthe twelve (12) months immediately preceding the filing of the motion and identify any \nother active cases in this Court in which the attorney is admitted pro hac vice.\niii) Limitation. Admission pro hac vice is not a substitute for admission to the Bar of \nthis Court, but rather is intended to facilitate occasional appearances only. Unless otherwise \nordered for good cause shown, no attorney may be admitted pro hac vice in more than three \n(3) unrelated cases in any twelve (12) month period, nor may any attorney be admitted pro \nhac vice in more than three (3) active unrelated cases at any one time.\niv) Multi-District Litigation. Attorneys in multi-district litigation cases need not be \nmembers of this Court’s Bar. Instead, an attorney may move for admission pro hac vice if \nthe attorney is a member in good standing of the bar of any United States District Court. \nFor purposes of this subsection only, attorneys requesting admission pro hac vice (1) are not \nrequired to have their admissions moved by an active member of this Court’s Bar, (2) do not",
+          "pages": [
+            10
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-12",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 101. Counsel\n1. Who May Appear as Counsel; Who May Appear Without \nCounsel\nRule 101. Counsel\n2. Withdrawal of Appearance\nU.S. District Court of Maryland Local Rules (December 1, 2025)\n2\nneed another member of this Court’s Bar to sign pleadings or enter appearances, and (3) are \nlimited to practice in this Court in only the multi-district litigation proceeding.\nv) Limitation on Maryland Attorneys. An attorney, who is an active member of the \nMaryland Bar or maintains any law office in Maryland, is ineligible for admission pro hac \nvice. For the purposes of this subsection, an attorney shall be deemed to maintain an office \nin Maryland if a Maryland address is used by that attorney on any document filed in this \nCourt for purposes of satisfying L.R. 102.1.b. However, if an attorney is a member of a law \nfirm having offices in multiple jurisdictions, an attorney who is a member of such a firm \nshall not be deemed to maintain a law office in Maryland if that attorney does not maintain a \nregular physical presence in the Maryland office of the firm. Failure of an attorney to satisfy \nthis continuing requirement may result in the revocation of the attorney’s pro hac vice \nadmission.\nc) Appearance for Obtaining Deposition Subpoenas\nUnless otherwise ordered by the Court, it shall not be necessary for counsel to be \nadmitted to the Bar of this Court in order to participate in proceedings to enforce or to \nquash any subpoena as provided by Fed. R. Civ. P. 45. However, an attorney exempted by \nthis Rule from the requirement of being admitted to the Bar of this Court is subject to the \ndisciplinary jurisdiction of this Court. \nd) Duty to Avoid Scheduling Conflicts\nBefore entering an appearance in a case, counsel must inquire whether any hearing date \nor a trial date has already been set in the case. If a date has been set and it conflicts with \ncounsel’s schedule in any respect, counsel shall not enter an appearance unless counsel first \nresolves the conflict by obtaining a continuance of one of the conflicting proceedings or, if \ncounsel is a member of a firm, obtaining the client’s consent to have another member of the \nfirm appear on the client’s behalf. After entering an appearance, counsel has a continuing \nduty to honor all scheduling commitments made to the Court.\n2. Withdrawal of Appearance\na) Individuals\nIn the case of an individual, appearance of counsel may be withdrawn only with leave of \ncourt and if (1) appearance of other counsel has been entered, or (2) withdrawing counsel \nfiles a certificate stating (a) the name and last known address of the client, and (b) that a \nwritten notice has been mailed to or otherwise served upon the client at least seven (7) days \npreviously advising the client of counsel’s proposed withdrawal and notifying the client \neither to have new counsel enter an appearance or to advise the Clerk that the client will be \nproceeding without counsel. If the withdrawal of counsel’s appearance is permitted, the ",
+          "pages": [
+            11
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-13",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 102. General Filing and Service Requirements\n2. Withdrawal of Appearance\n",
+          "pages": [
+            12
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "mdd-civil-parsed-v1-0548bdddab14f278",
+      "sourceDocumentId": "parsed-mdd-0548bdddab14f278",
+      "sourceUrl": "https://www.mdd.uscourts.gov/sites/mdd/files/LocalRules.pdf",
+      "pageIndex": 10,
+      "pageSpan": [
+        10,
+        12
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "mdd-civil:102",
+      "collectionId": "mdd-civil",
+      "districtId": "mdd",
+      "number": "102",
+      "citation": "District of Maryland · Rule 102",
+      "title": "General Filing and Service Requirements",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-13",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 102. General Filing and Service Requirements\nSignatures, Identifying Information, and Proof of Service\nU.S. District Court of Maryland Local Rules (December 1, 2025)\n3\nClerk shall notify the party that the party will be deemed to be proceeding without counsel \nunless and until new counsel enters an appearance on behalf of the party.\nb) Parties Other Than Individuals\nIn the case of any party other than an individual, including corporations, partnerships, \nunincorporated associations and government entities, appearance of counsel may be \nwithdrawn only with leave of court and if (1) appearance of other counsel has been entered, \nor (2) withdrawing counsel files a certificate stating (a) the name and last known address of\nboth the client and the resident agent or other responsible person or persons for that client, \nand (b) that the written notice has been mailed to or otherwise served upon the client at least \nseven (7) days previously advising the client of counsel’s proposed withdrawal and notifying \nit that it must have new counsel enter an appearance or be subject to the dismissal of its \nclaims and/or default judgment on claims against it. In the event that within thirty (30) days \nof the filing of the motion to withdraw, new counsel has not entered an appearance, the \nCourt may take such action, if any, that it deems appropriate, including granting the motion \nto withdraw and dismissing any affirmative claim for relief asserted by the party and/or \ndirecting the party to show cause why a default should not be entered on claims asserted \nagainst it.\nc) Automatic Termination of Appearance\nWhen no appeal has been taken from a final judgment, and upon the resolution of any \npost-judgment motion or matter under L.R. 109, the appearance of an attorney is \nautomatically deemed terminated upon the expiration of the appeal period, unless otherwise \nordered by the Court. If an appeal is taken, the appearance of the attorney is automatically \ndeemed terminated ninety (90) days after the issuance of a mandate of the Court of \nAppeals.\nRULE 102. GENERAL FILING AND SERVICE REQUIREMENTS\n1. Signatures, Identifying Information, and Proof of Service\na) Signatures\ni) Parties Represented by Counsel. When a party is represented by counsel, the Clerk \nshall accept for filing only documents signed by a member of the Bar of this Court whose \nappearance is entered on behalf of that party. Use of any of the methods for signing an \nelectronic document established by the Court, including use of an attorney’s login and \npassword to electronically file a document, constitutes the attorney’s signature on the \ndocument.\nii) Parties Appearing Without Counsel. When a party is appearing without counsel, the \nClerk will accept for filing only documents signed by that party. Attorneys who have ",
+          "pages": [
+            12
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-14",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 102. General Filing and Service Requirements\n1. Signatures, Identifying Information, and Proof of Service\nRule 102. General Filing and Service Requirements\nSignatures, Identifying Information, and Proof of Service\nU.S. District Court of Maryland Local Rules (December 1, 2025)\n4\nprepared any documents which are submitted for filing by a self-represented litigant must be \nmembers of the Bar of this Court and must sign the document, state their name, address, \ntelephone number, and their bar number assigned by this Court. Upon inquiry, all parties \nappearing without counsel must disclose the identity of any individual who has prepared, or \nassisted in preparing, any documents filed in this Court. Any attorney who prepares any \ndocument for filing in this Court by a person who is known by the attorney, or who is \nreasonably expected by the attorney, to be appearing without counsel shall be deemed \nthereby to have conferred disciplinary jurisdiction upon the Court for any alleged \nmisconduct of that attorney.\nb) Identifying Information\ni) Required on All Court Documents. At the bottom of all court documents, counsel \nand self-represented litigants shall state their name, address, telephone number, email and fax \nnumber. Counsel shall also state their bar number assigned by this Court. This is not a \nsubstitute for compliance with L.R. 101.1.b.ii and 701.3.\nii) Duty of Counsel to Notify the Clerk of Any Change in Address. Counsel must \npromptly notify the Clerk of any change of address, including email address, irrespective of \nany changes noted on a pleading or other document. This obligation is continuing and if \ncounsel fails to comply, the Court may enter an order dismissing any affirmative claims for \nrelief and may enter a default judgment.\niii) Duty of Self-Represented Litigants to Keep Current Address on File. Self￾represented litigants must file with the Clerk in every case which they have pending a \nstatement of their current address where case-related papers may be served. This obligation \nis continuing, and if any self-represented litigant fails to comply, the Court may enter an \norder dismissing any affirmative claims for relief filed by that party and may enter a default \njudgment on any claims asserted against that party.\nc) Proof of Service\nExcept as provided for in L.R. 112.1 and 112.2, all court documents other than the \noriginal complaint must bear a signed certificate signed by counsel stating that the service \nrequired by Fed. R. Civ. P. 5(a) has been made. If a document is filed electronically, the \nnotice of electronic filing constitutes a certificate of service as to all parties to whom \nelectronic notice is sent.\nd) Electronic Transmission\nElectronic filing of documents is only permitted in accordance with the policies and \nprocedures established by the Court. Electronic filing includes submission by email or by \nportable electronic media (e.g., disk, flash drive).",
+          "pages": [
+            13
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-15",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 102. General Filing and Service Requirements\n2. Format of Court Documents\nRule 102. General Filing and Service Requirements\n4. Interdivisional Filing\nU.S. District Court of Maryland Local Rules (December 1, 2025)\n5\n2. Format of Court Documents\na) Caption\nThe case caption on all court documents shall contain only a short title, consisting of the \nnames of the first plaintiff and the first defendant only, and the civil action number. This \nRule shall not apply to the original complaint (which shall contain the names and addresses \nof all parties and the county of residence of any Maryland party) or any pleading seeking to \nadd a new party (which shall contain the short caption and the name and address of the \nparties sought to be added and the county of residence of any Maryland party sought to be \nadded).\nb) Margins, Spacing, and Numbering\nAll documents filed with the Court shall not exceed 8 1/2” x 11”, with a one-inch \nmargin on all sides. Lines of text for all documents, including correspondence, shall be \ndouble-spaced except for quotations and footnotes. Pages shall be numbered at the bottom \nof every page after the first page. Typed or printed material shall appear in at least 12-point \nfont size for text and at least 10-point font size for footnotes in Times New Roman or larger \ntypeface. Documents may not be handwritten unless the filer did not have the ability to \nsubmit typed or printed material. \nc) Legibility\nNo document shall be accepted for filing unless it is legible.\n3. Issuance of Subpoenas in Self-Represented Cases\nThe Clerk shall not issue any subpoena under Fed. R. Civ. P. 45(a)(3) to any self￾represented litigant without first obtaining an order from the Court authorizing the issuance \nof the subpoena. Before entering any such order the Court may require the litigant to state \nthe reasons why the subpoena should be issued, and the Court may refuse to authorize \nissuance of the subpoena if it concludes that the subpoena imposes undue burden or \nexpense on the person subject to the subpoena or upon the U.S. Marshal or other court \nofficer who would be required to serve it under 28 U.S.C. § 1915, or is otherwise inconsistent \nwith the requirements of Fed. R. Civ. P. 26 and 45(d).\n4. Interdivisional Filing\nUnless otherwise ordered by the Court, any pleadings, motions, memoranda or other \ndocuments may be filed in either division and, if such filing is made within any applicable \ndeadline, shall be deemed to be timely.",
+          "pages": [
+            14
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 103. Institution of Suit, Pleadings, and Other Procedural Matters\n5. Electronic Orders and Documents\n",
+          "pages": [
+            15
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "mdd-civil-parsed-v1-0548bdddab14f278",
+      "sourceDocumentId": "parsed-mdd-0548bdddab14f278",
+      "sourceUrl": "https://www.mdd.uscourts.gov/sites/mdd/files/LocalRules.pdf",
+      "pageIndex": 12,
+      "pageSpan": [
+        12,
+        15
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "mdd-civil:103",
+      "collectionId": "mdd-civil",
+      "districtId": "mdd",
+      "number": "103",
+      "citation": "District of Maryland · Rule 103",
+      "title": "Institution of Suit, Pleadings, and Other Procedural Matters",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 103. Institution of Suit, Pleadings, and Other Procedural Matters\n1. Civil Cover Sheet and Extra Copies of Complaint/Designation \nof Related Cases/Claim for Relief/Limitations on Length\nU.S. District Court of Maryland Local Rules (December 1, 2025)\n6\n5. Electronic Orders and Documents\na) Entry\nThe electronic filing by a judge or the Clerk of any order, decree, judgment, proceeding, \nor other documents shall constitute entry of that document on the docket maintained by the \nClerk as well as notice to and service upon registered parties in the case under the federal \nrules of procedure. Pursuant to Fed. R. Civ. P. 79 and Fed. R. Crim. P. 55, documents filed \nunder this method are deemed to be the official court record maintained by the Clerk.\nb) Signatures\nOrders and documents issued by either a judge or the Clerk may be signed either with an \noriginal signature or an electronic signature. Any order or document filed electronically \nwithout the original signature of the judge or the Clerk has the same force and effect as if \nthe judge or the Clerk had signed a paper copy of the order or document.\nc) Paperless Orders\nAt the discretion of the presiding judge or the Clerk, an order may be entered by having \na text-only entry made on the docket. Such orders shall have the same force and effect as \nany other order.\n6. Filing When Represented by Counsel\nExcept for issues concerning the relationship between attorney and client, or unless \notherwise directed by the presiding judge, no document shall be accepted for filing by a party \nrepresented by counsel unless it is filed by counsel.\nRULE 103. INSTITUTION OF SUIT, PLEADINGS, AND OTHER \nPROCEDURAL MATTERS\n1. Civil Cover Sheet and Extra Copies of Complaint/Designation of Related \nCases/Claim for Relief/Limitations on Length\na) Civil Cover Sheet and Extra Copies of Complaint\ni) Cases Subject to Electronic Filing. The complaint, civil cover sheet and any other \ndocuments being filed should be submitted to the Clerk in accordance with the electronic \nfiling procedures adopted by the Court.\nii) Cases Exempt from Electronic Filing. When filing a complaint, counsel shall submit \nto the Clerk a complete civil cover sheet and two (2) copies of the complaint.",
+          "pages": [
+            15
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 103. Institution of Suit, Pleadings, and Other Procedural Matters\n1. Civil Cover Sheet and Extra Copies of Complaint/Designation \nof Related Cases/Claim for Relief/Limitations on Length\nRule 103. Institution of Suit, Pleadings, and Other Procedural Matters\n2. Process\nU.S. District Court of Maryland Local Rules (December 1, 2025)\n7\nb) Related Cases\ni) Designation by Plaintiff. If counsel for a plaintiff in a civil action believes that the \naction being filed and one (1) or more other civil actions or proceedings previously decided \nor pending in this Court (1) arise from the same or identical transactions, happenings, or \nevents; (2) involve the identical parties or property; (3) involve the same patent or trademark; \nor (4) for any other reason would entail substantial duplication of labor if heard by different \njudges, counsel shall indicate that fact by designating the case as a “related case” on the civil \ncover sheet. A copy of the cover sheet shall be served on all parties. \nii) Designation by Defendant. If counsel for a defendant believes that a case is related to \na prior case and that fact has not been noted on the civil cover sheet by plaintiff, counsel for \nthe defendant shall bring that information to the attention of all parties and the Clerk, and \nthe Clerk shall note it on the cover sheet and inform the judge to whom the new case has \nbeen assigned.\niii) Resolution of Disputes. Any disputes regarding the designation of a case as being \nrelated to another case shall be presented by motion to the judge to whom the new or later \ncase has been assigned.\nc) Claim for Relief\nAny pleading that states a claim for relief shall set forth each count separately and \nprovide a clear statement of the supporting facts for each count.\nd) Limitations on Length\nPleadings should be no longer than necessary and, except in removals of a state action, \nshall not exceed forty (40) pages in length. In extraordinary circumstances, parties may seek \nleave of Court to amend or supplement the initial pleading with additional pages.\n2. Process\na) Number of Copies\ni) Cases Subject to Electronic Filing. In cases subject to electronic filing, counsel shall \nsubmit to the Clerk the following number of copies when process is to be served; (a) one (1) \ncopy of any summons for each party to be served, except that in cases where the United \nStates, a federal agency or a federal employee in his official capacity is named as a defendant, \nfive (5) copies of the summons should be submitted; (b) four (4) copies of a warrant for \narrest or summons with process of maritime attachment and garnishment for tangible \nproperty or two (2) copies of such documents for intangible property; and (c) two (2) copies \nof all writs, including writs of possession, replevin, execution, garnishment, and attachment \nbefore a judgment. ",
+          "pages": [
+            16
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 103. Institution of Suit, Pleadings, and Other Procedural Matters\n2. Process\nRule 103. Institution of Suit, Pleadings, and Other Procedural Matters\n3. Disclosure of Affiliations and Financial Interest\nU.S. District Court of Maryland Local Rules (December 1, 2025)\n8\nii) Cases Exempt from Electronic Filing. In cases exempt from electronic filing, counsel \nshall submit to the Clerk the following number of copies when process is to be served: (a) \ntwo (2) copies of any summons for each party to be served, except that in cases where the \nUnited States, a federal agency, or a federal employee in his official capacity is named as a \ndefendant, six (6) copies of the summons should be submitted; (b) five (5) copies of a \nwarrant for arrest or summons with process of maritime attachment and garnishment for \ntangible property or two (2) copies of such documents for intangible property; and (c) three \n(3) copies of all writs, including writs of possession, replevin, execution, garnishment, and \nattachment before a judgment.\nb) When Served by Marshal\nUnless otherwise ordered by the Court, the United States Marshal shall not serve any \nprocess or subpoenas except the following: (a) all process for a party proceeding in forma \npauperis without counsel; (b) warrants of arrests in rem or process of maritime attachment \nand garnishment; (c) writs of possession, replevin, execution, garnishment, and attachment \nbefore a judgment; (d) process served under 28 U.S.C. § 2361; and (e) when requested by the \nplaintiff, process in suits where the plaintiff is authorized to proceed as a seaman under 28 \nU.S.C. § 1916. Unless otherwise ordered by the Court, and except for a party who is \nproceeding in forma pauperis or as a seaman under 28 U.S.C. § 1916, the Marshal may \nrequire a party to pay or secure the fees and expenses before serving any process which this \nRule requires that the Marshal serve.\nc) Waiver Procedure\nWhenever the waiver procedure under Fed. R. Civ. P. 4(d) is invoked, counsel shall \nsubmit to the Clerk a notice identifying the defendant(s) to whom the notice and request to \nwaive service of summons is being sent. The notice shall be filed upon the filing of the \ncomplaint or such later date that counsel decides to invoke the waiver procedure. Plaintiff is \nrequired to promptly file such notice, and failure to do so may result in the Court declining \nto impose costs under Fed. R. Civ. P. 4(d) absent a showing of good cause.\nd) Issuance of Summons in Self-Represented Cases\nTo ensure a summons is “properly completed” under Fed. R. Civ. P. 4(b), the Clerk shall \nnot issue a summons to any self-represented litigant without first obtaining an order from \nthe Court authorizing issuance of the summons. \n3. Disclosure of Affiliations and Financial Interest\nWhen filing an initial pleading, motion or other paper that initiates a civil action, \nincluding the removal of a state action, or promptly after learning of the information to be \ndisclosed, counsel shall file a statement (separate from any pleading, motion, or other paper) \ncontaining the following information.",
+          "pages": [
+            17
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 103. Institution of Suit, Pleadings, and Other Procedural Matters\n3. Disclosure of Affiliations and Financial Interest\nRule 103. Institution of Suit, Pleadings, and Other Procedural Matters\n5. Removal\nU.S. District Court of Maryland Local Rules (December 1, 2025)\n9\na) Corporate Affiliation\nThe identity of any parent or other affiliate of a corporate party and the description of \nthe relationship between the party and such affiliates. The identity of all members of any \nparty that is a business entity established under state law, other than a corporation; and in \ncases based on diversity jurisdiction, the state of citizenship of each member.\nb) Financial Interests in the Outcome of the Litigation\nThe identity of any corporation, unincorporated association, partnership, or other \nbusiness entity, not a party to the case, which may have any financial interest whatsoever in \nthe outcome of the litigation, and the nature of its financial interest. The term “financial \ninterest in the outcome of the litigation” includes a potential obligation of an insurance \ncompany or other person to represent or to indemnify any party to the case. Any notice \ngiven to the Clerk under this Rule shall not be considered as an admission by the insurance \ncompany or other person that it does in fact have an obligation to defend the litigation or to \nindemnify a party or as a waiver of any rights that it might have in connection with the \nsubject matter of the litigation.\n4. Security for Costs\nAny party against whom affirmative relief (other than a compulsory counterclaim) is \nfiled may file a motion requesting that the party seeking the affirmative relief give security \nfor costs if that party is not a resident of this District. Upon the filing of the motion, the \nCourt shall issue a show cause order to the party seeking affirmative relief. A party who \ndoes not show cause why such security should not be required shall deposit with the Clerk \non the date that the show cause response is due, or on such later date as may be set by the \nCourt, the sum of $150 or such higher amount as the Court determines is appropriate. The \nCourt may dismiss the claim of a party who fails to deposit the required security. This Rule \nshall not apply to any party proceeding in forma pauperis or as a seaman under 28 U.S.C.\n§ 1916.\n5. Removal\na) Certification of Filing of State Court Documents\nAny party effecting removal shall file with the notice true and legible copies of all \nprocess, pleadings, documents, and orders which have been served upon that party, along \nwith a copy of the current state court docket sheet. Within thirty (30) days thereafter the \nparty shall file true and legible copies of all other documents then on file in the state court, \ntogether with a certification from counsel that all filings in the state court action have been \nfiled in the United States District Court. In cases subject to electronic filing, the copies shall \nbe filed in accordance with the electronic filing procedures adopted by the Court.",
+          "pages": [
+            18
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 103. Institution of Suit, Pleadings, and Other Procedural Matters\n5. Removal\nRule 103. Institution of Suit, Pleadings, and Other Procedural Matters\n6. Amendments of Pleadings\nU.S. District Court of Maryland Local Rules (December 1, 2025)\n10\nb) Filing Memoranda Regarding Pending Motions\nIf a motion is pending at the time of removal as to which a legal memorandum has not \nbeen submitted, the moving party shall file a supporting memorandum within fourteen (14) \ndays of the date of removal. If at the time of removal a motion is pending as to which a \nlegal memorandum has been submitted, the party opposing the motion shall file an \nopposition memorandum on the date that the opposition memorandum was due in the state \ncourt or within fourteen (14) days of the date of removal, whichever is earlier.\nc) Disclosure of Affiliations and Financial Interest\nWithin seven (7) days after the filing of a notice of removal, all parties shall make the \ndisclosures required by L.R. 103.3.\nd) Cases Related to Bankruptcy Cases\nRemovals under 28 U.S.C. § 1452 or § 1441 in cases related to bankruptcy cases should \nbe filed with the Bankruptcy Clerk.\n6. Amendments of Pleadings\na) Original of Proposed Amendment to Accompany Motion\nWhenever a party files a motion requesting leave to file an amended pleading, the \noriginal of the proposed amended pleading shall accompany the motion. If the motion is \ngranted, an additional copy of the amended pleading need not be filed. The amended \npleading shall be deemed to have been served, for the purpose of determining the time for \nresponse under Fed. R. Civ. P. 15(a), on the date that the Court grants leave for its filing.\nb) Exhibits to Amended Pleadings\nUnless otherwise ordered by the Court, only newly added exhibits are to be attached to \nan amended pleading. However, if the amended pleading adds a new party, counsel shall \nserve all exhibits referred to in the amended pleading upon the new party.\nc) Identification of Amendments\nUnless otherwise ordered by the Court, and except in cases in which the prior pleading \nwas filed by a self-represented party, the party filing an amended pleading shall file and serve \n(1) a clean copy of the amended pleading and (2) a copy of the amended pleading in which \nstricken material has been lined through or enclosed in brackets and new material has been \nunderlined or set forth in bold-faced type.",
+          "pages": [
+            19
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 103. Institution of Suit, Pleadings, and Other Procedural Matters\n6. Amendments of Pleadings\nRule 103. Institution of Suit, Pleadings, and Other Procedural Matters\n9. Scheduling Orders\nU.S. District Court of Maryland Local Rules (December 1, 2025)\n11\nd) Requested Consent of Other Counsel\nBefore filing a motion requesting leave to file an amended pleading, counsel shall \nattempt to obtain the consent of other counsel. Counsel shall state in the motion whether \nthe consent of other counsel has been obtained.\n7. Third-Party Complaints\na) Filing\nA third-party plaintiff shall file with the Clerk only the third-party complaint itself and \nnot all the prior pleadings attached thereto.\nb) Service\nUnless otherwise ordered by the Court, a third-party plaintiff shall serve upon a third￾party defendant copies of all documents (other than notices of previously held depositions) \nwhich the parties have previously served upon one another and shall make all previously￾conducted discovery materials available for review by the third-party defendant.\n8. Dismissal for Want of Prosecution\na) Failure to Effect Service\nIf a party demanding affirmative relief has not effected service of process within ninety\n(90) days of filing the pleading seeking the affirmative relief, the Court may enter an order \nasking the party to show cause why the claim should not be dismissed. If the party fails to \nshow good cause within fourteen (14) days of the entry of the order or such other time as \nmay be set by the Court, the claim shall be dismissed without prejudice.\nb) Dormancy of Action for Nine Months\nIf no document has been filed in court in any action for more than nine (9) months, the \nCourt may enter an order asking the parties to show cause why the case should not be \ndismissed. If good cause is not shown within fourteen (14) days of the entry of the show \ncause order or such other time as may be set by the Court, the case shall be dismissed \nwithout prejudice.\n9. Scheduling Orders\na) Categories of Actions Generally Exempted from Fed. R. Civ. P. 16(b)\nAll categories of actions in which ordinarily discovery is not conducted and additional \nparties are not added are exempted from Fed. R. Civ. P. 16(b). These categories of actions \ninclude petitions filed under 28 U.S.C. § 2254, motions filed under 28 U.S.C. § 2255, social \nsecurity appeals, bankruptcy appeals, appeals on the record from administrative agencies, ",
+          "pages": [
+            20
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 104. Discovery\n9. Scheduling Orders\n",
+          "pages": [
+            21
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "mdd-civil-parsed-v1-0548bdddab14f278",
+      "sourceDocumentId": "parsed-mdd-0548bdddab14f278",
+      "sourceUrl": "https://www.mdd.uscourts.gov/sites/mdd/files/LocalRules.pdf",
+      "pageIndex": 15,
+      "pageSpan": [
+        15,
+        21
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "mdd-civil:104",
+      "collectionId": "mdd-civil",
+      "districtId": "mdd",
+      "number": "104",
+      "citation": "District of Maryland · Rule 104",
+      "title": "Discovery",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 104. Discovery\n3. Discovery to Proceed Despite Existence of Disputes\nU.S. District Court of Maryland Local Rules (December 1, 2025)\n12\nmotions to enforce arbitration awards, forfeiture actions, actions seeking enforcement of \njudgments, and mortgage or deed of trust foreclosures. In all actions in which a scheduling \norder is not entered under Fed. R. Civ. P. 16(b), the presiding judge will enter such orders as \nare necessary to assure the prompt and expeditious resolution of the litigation.\nb) Actions Exempted from the Consultation Requirement of Fed. R. Civ. P. 16(b)\nAll actions except ones which the presiding judge notifies the parties that he or she \ndesignates to be complex, e.g., antitrust, mass tort, patent infringement, RICO, and securities \nfraud actions in which all parties are represented by counsel, are exempted from the \nrequirement of Fed. R. Civ. P. 16(b) that the Court consult with counsel (or unrepresented \nparties) or await a report from the parties under Fed. R. Civ. P. 26(f) before entering a \nscheduling order. All scheduling orders, however, shall provide that any party who believes \nthat any deadline set in the scheduling order is unreasonable may request in writing a \nmodification of the order or that a conference be held for the purpose of seeking a \nmodification of the order.\nRULE 104. DISCOVERY\n1. Limitation on Number of Requests for Production and Requests for \nAdmission\nUnless otherwise ordered by the Court, or agreed upon by the parties, no party shall \nserve upon any other party, at one (1) time or cumulatively, more than thirty (30) requests for \nproduction, or more than thirty (30) requests for admission (other than requests propounded \nfor the purpose of establishing the authenticity of documents or the fact that documents \nconstitute business records), including all parts and sub-parts.\n2. Timely Written Discovery Requests Required\nInterrogatories, requests for production, motions for physical and mental examination, \nand written deposition questions must be made at a sufficiently early time to assure that they \nare answered before the expiration of the discovery deadline set by the Court. Unless \notherwise ordered by the Court, no discovery deadline will be extended because written \ndiscovery requests remain unanswered at its expiration.\n3. Discovery to Proceed Despite Existence of Disputes\nUnless otherwise ordered by the Court, the existence of a discovery dispute as to one (1) \nmatter does not justify delay in taking any other discovery.",
+          "pages": [
+            21
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 104. Discovery\n4. Conference of Counsel and Commencement of Discovery\nRule 104. Discovery\n8. Procedure Regarding Motions to Compel\nU.S. District Court of Maryland Local Rules (December 1, 2025)\n13\n4. Conference of Counsel and Commencement of Discovery\nUnless otherwise ordered by the Court or agreed upon by the parties, the conference of \ncounsel required by Fed. R. Civ. P. 26(f) need not take place and discovery shall not \ncommence and disclosures need not be made until a scheduling order is entered.\n5. Discovery Materials Not to be Filed with Court\nUnless otherwise ordered by the Court, written discovery requests, responses thereto, \nnotices of service of discovery requests or responses, depositions, and disclosures under \nFed. R. Civ. P. 26(a)(1) and (2) shall not be filed with the Court. The party propounding \nwritten discovery or taking a deposition shall be responsible for retaining the original copies \nof the discovery materials (including the certificates of service) and shall make them \navailable for inspection by any other party.\n6. Format of Responses to Interrogatories and Requests for Production\nResponses to interrogatories and requests for production shall set forth each \ninterrogatory or request followed by the answer and/or a brief statement of the grounds for \nobjection, including a citation of the main applicable authorities (if any). \n7. Conference of Counsel Required\nCounsel shall confer with one another concerning a discovery dispute and make a \nreasonable effort to resolve the differences between them. The Court will not consider any \ndiscovery motion unless the moving party has filed a certificate reciting (a) the date, time,\nand place of the discovery conference, and the names of all persons participating therein, or \n(b) counsel’s attempts to hold such a conference without success; and (c) an itemization of \nthe issues requiring resolution by the Court. A “reasonable effort” means more than \nsending an email or letter to the opposing party. It requires that the parties meet in person \nor by video or telephonic means for a reasonable period of time in a good faith effort to \nresolve the disputed matter.\n8. Procedure Regarding Motions to Compel\nThe following procedure shall be followed in litigating motions to compel answers to \ninterrogatories and requests for production or entry upon land as to which a response has \nbeen served. This procedure shall not govern motions to compel (a) answers to \ninterrogatories or to requests for production or entry upon land where no responses at all \nhave been served; (b) answers to deposition questions; or (c) responses to discovery requests \ndirected to a non-party. Such latter motions shall be filed with the Court and treated as any \nnon-discovery motion, except that, as to disputes concerning discovery directed to a non￾party, unless otherwise directed by the Court, the Court will not consider the motion until a ",
+          "pages": [
+            22
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-24",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 104. Discovery\n8. Procedure Regarding Motions to Compel\nRule 104. Discovery\n8. Procedure Regarding Motions to Compel\nU.S. District Court of Maryland Local Rules (December 1, 2025)\n14\nconference has been held under L.R. 104.8.b and a certificate has been filed under L.R. \n104.8.c.\na) Service of Motions and Memoranda\nIf a party who has propounded interrogatories or requests for production is dissatisfied \nwith the response to them and has been unable to resolve informally (by oral or written \ncommunications) any disputes with the responding party, that party shall serve a motion to \ncompel within thirty (30) days of the party’s receipt of the response. The memorandum in \nsupport of the motion shall set forth, as to each response to which the motion is directed, \nthe discovery request, the response thereto, and the asserted basis for the insufficiency of \nthe response. The memorandum shall be succinct and need not include citation to legal \nauthorities unless such citation is necessary in order to understand the issues presented. The \nopposing party shall serve a memorandum in opposition to the motion within fourteen (14) \ndays thereafter. The moving party shall serve any reply memorandum within fourteen (14) \ndays thereafter. The parties shall serve motions and memoranda under L.R. 104.8 in \naccordance with Fed. R. Civ. P. 5(a) and shall not serve them through the Court’s electronic \nfiling system nor file with the Court notices of service of the motion and memoranda. \nExtensions of time given by the parties to one another to serve any document hereunder \nneed not be approved by the Court, provided, however, that no extension of time limits set\nin any scheduling order entered by the Court shall be made without the Court’s prior \napproval.\nb) Conference of Counsel\nCounsel are encouraged to confer with one another before or immediately after a motion \nto compel is served. If they are unable to resolve their disputes, counsel must hold the \nconference required by L.R. 104.7 after serving upon one another all of the documents \nrelating to the motion to compel.\nc) Filing of Certificate of Conference and Motions and Memoranda\ni) Cases Subject to Electronic Filing. If counsel fail to resolve their differences during \ntheir conference, the party seeking to compel discovery shall file the certificate required by \nL.R. 104.7, and shall append thereto a copy of the motion and memoranda previously \nserved by the parties under L.R. 104.8.a.\nii) Cases Exempt from Electronic Filing. If counsel fail to resolve their differences \nduring their conference, the party seeking to compel discovery shall file (i) the certificate \nrequired by L.R. 104.7 and (ii) the original and two (2) copies of its motion and \nmemorandum concerning the motion to compel and three (3) copies of all other \nmemoranda concerning the motion.",
+          "pages": [
+            23
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 104. Discovery\n9. [Reserved for Future Use]\nRule 104. Discovery\n11. Fees and Costs\nU.S. District Court of Maryland Local Rules (December 1, 2025)\n15\n9. [Reserved for Future Use]\n10. Actions and Witnesses Exempted from Provisions of Fed. R. Civ. P. \n26(a)(2)(B)\nUnless otherwise ordered by the Court, a party must provide the disclosures required by \nFed. R. Civ. P. 26(a)(2)(B) only as to experts retained or specially employed by a party to \nprovide expert testimony. The disclosures need not be provided as to hybrid fact/expert \nwitnesses such as treating physicians. The party must disclose the existence of any hybrid \nfact/expert witness pursuant to Fed. R. Civ. P. 26(a)(2)(A), and disclose the subject matter on \nwhich the witness is expected to present evidence under Fed. R. Evid. 702, 703, or 705, as \nwell as a summary of the facts and opinions to which the hybrid fact/expert witness is \nexpected to testify, pursuant to Fed. R. Civ. P. 26(a)(2)(C). In addition, an adverse party may \nobtain the opinions of such witnesses (to the extent appropriate) through interrogatories, \ndocument production requests, and depositions.\n11. Fees and Costs\na) Interpretation of Fed. R. Civ. P. 26(b)(4)(E)\nUnless otherwise ordered by the Court, any reasonable fee charged by an expert for the \ntime spent in a discovery deposition and in traveling to and from the deposition shall be paid \nby the party taking the deposition. The fee charged by the expert for time spent preparing \nfor the deposition shall be paid by the party designating the expert. The expert may not \ncharge an opposing party for a discovery deposition a fee at any hourly rate higher than the \nrate that he or she charges for the preparation of his or her report. \nb) Limitation on the Amount of Fees of Treating Physician\nUnless otherwise ordered by the Court, a treating physician shall not charge a fee higher \nthan the hourly fee that he or she customarily charges for in-office patient consultation or \n$325 per hour, whichever is lower, for any work that he or she performs in connection with \nany discovery matter or for the taking of a de bene esse deposition. Any party noticing a \ndeposition of a treating physician shall (after conferring with opposing counsel) advise the \nphysician of the number of hours that will be required for the deposition (both on direct \nand cross examination). The treating physician may not charge for any hours exceeding this \nestimate, provided that the deposition is completed within the estimate, and may terminate \nthe deposition when the estimated time has elapsed.\nc) Limitation on Cost of Photocopying\nUnless otherwise ordered by the Court, the amount that a party or third-party witness \nmay charge as a photocopying expense when producing documents in response to a ",
+          "pages": [
+            24
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 104. Discovery\n11. Fees and Costs \n",
+          "pages": [
+            25
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "mdd-civil-parsed-v1-0548bdddab14f278",
+      "sourceDocumentId": "parsed-mdd-0548bdddab14f278",
+      "sourceUrl": "https://www.mdd.uscourts.gov/sites/mdd/files/LocalRules.pdf",
+      "pageIndex": 21,
+      "pageSpan": [
+        21,
+        25
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "mdd-civil:105",
+      "collectionId": "mdd-civil",
+      "districtId": "mdd",
+      "number": "105",
+      "citation": "District of Maryland · Rule 105",
+      "title": "Motions, Briefs, and Memoranda",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 105. Motions, Briefs, and Memoranda\n1. Memoranda Required; Number of Copies; Proposed Order\nU.S. District Court of Maryland Local Rules (December 1, 2025)\n16\ndiscovery request or subpoena shall not exceed the rate established by the Court for taxation \nof costs.\n12. Familiarity with Discovery Guidelines\nCounsel should be familiar with the Discovery Guidelines that are an appendix to these \nRules.\n13. Proposed Confidentiality Orders\nAny proposed confidentiality order shall include (a) a definition of confidentiality \nconsistent with Fed. R. Civ. P. 26(c); (b) a method for challenging particular designations of \nconfidentiality with the burden remaining on the party seeking confidentiality to justify it \nunder Rule 26(c); (c) a provision that whenever materials subject to the confidentiality order \n(or any pleading, motion or memorandum referring to them) are proposed to be filed in the \nCourt record under seal, the party making such filing must simultaneously submit a motion\nand accompanying order pursuant to L.R. 105.11; and (d) a provision permitting the Clerk to \nreturn to counsel or destroy any sealed material at the end of the litigation.\n14. Stipulated Order Regarding Non-Waiver of Attorney-Client Privilege and \nWork Product Protection\nCounsel should be familiar with, and should consider the applicability and propriety of \nentering into and submitting for the Court’s approval and entry, the Stipulated Order \nRegarding Non-Waiver of Attorney-Client Privilege and Work Product Protection that is \nincluded in Appendix D.\nRULE 105. MOTIONS, BRIEFS, AND MEMORANDA\n1. Memoranda Required; Number of Copies; Proposed Order\nAny motion and opposition to a motion shall be filed with the Clerk and be \naccompanied by a memorandum setting forth the reasoning and authorities in support of it\nand a proposed order. \na) Cases Subject to Electronic Filing\nThe motion and any opposition or reply, memorandum, and any exhibits or attachments \nmust be filed electronically in accordance with the procedures adopted by the Court. When \nthe number of pages for the main document plus attachments total 15 pages or more, one \ncourtesy paper copy of these documents must be submitted to the Clerk. This courtesy \ncopy should be received by the Clerk within 48 hours of the electronic filing of the \ndocument, excluding weekends, legal holidays, and days the Court is closed. A paper copy \nof the notice of electronic filing should also be attached to the front of the courtesy copy.",
+          "pages": [
+            25
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 105. Motions, Briefs, and Memoranda\n1. Memoranda Required; Number of Copies; Proposed Order\nRule 105. Motions, Briefs, and Memoranda\n3. Limitations on Length\nU.S. District Court of Maryland Local Rules (December 1, 2025)\n17\nAny document which, because of its length or any other reason, is not filed electronically \nmust be accompanied by the number of copies required by L.R. 105.1.b.\nb) Cases Exempt from Electronic Filing\nThe original and one (1) copy of all motions and memoranda shall be filed, except that \ntwo (2) copies of discovery motions and memoranda shall be filed. If, however, counsel \nconsiders it impractical to file a copy of voluminous exhibits appended to a motion or \nmemorandum, counsel may contact the judge to whom the case is assigned to ask \npermission not to file such a copy.\n2. Filing Schedule\na) General\nAll motions must be filed within deadlines set by the Court. Unless otherwise ordered \nby the Court, all memoranda in opposition to a motion shall be filed within fourteen (14)\ndays of the service of the motion and any reply memoranda within fourteen (14) days after \nservice of the opposition memoranda. Unless otherwise ordered by the Court, surreply \nmemoranda are not permitted to be filed.\nb) Last-minute Filing Prohibited\nIn no event, unless otherwise ordered by the Court, is any memorandum to be filed after \n4:00 p.m. on the afternoon before the last business day preceding the day on which the \nproceeding to which the memorandum relates is to be held. For example, a memorandum \nrelating to a proceeding to be held on a Monday must be filed by 4:00 p.m. the previous \nThursday.\nc) Where More Than One Party Plans to File Summary Judgment Motions\nIn a two-party case, if both parties intend to file summary judgment motions, counsel \nare to agree among themselves which party is to file the initial motion. After that motion \nhas been filed, the other party shall file a cross-motion accompanied by a single \nmemorandum (both opposing the first party’s motion and in support of its own cross￾motion), the first party shall then file an opposition/reply, and the second party may then file \na reply. If more than two (2) parties intend to file motions in a multi-party case, counsel \nshall submit a proposed briefing schedule when submitting their status report.\n3. Limitations on Length\nUnless otherwise ordered by the Court, memoranda in support of a motion or in \nopposition thereto and trial briefs shall not exceed thirty (30) pages, and reply memoranda \nshall not exceed fifteen (15) pages, inclusive of footnotes but exclusive of (a) affidavits and ",
+          "pages": [
+            26
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 105. Motions, Briefs, and Memoranda\n3. Limitations on Length\nRule 105. Motions, Briefs, and Memoranda\n9. Motions for Extension of Time\nU.S. District Court of Maryland Local Rules (December 1, 2025)\n18\nexhibits, (b) tables of contents and citations, and (c) addenda containing statutes, rules, \nregulations, and similar material.\n4. When Table of Contents Required\nA table of contents shall be included in any memorandum or brief exceeding fifteen (15) \npages in length.\n5. Exhibits\nParties are responsible for ensuring all exhibits are clear and well organized. When \nappropriate, parties should facilitate the Court’s review of exhibits to include, for example, \nhighlighting key language. If any motion, memorandum, or brief is accompanied by more \nthan five (5) exhibits, the exhibits shall be tabbed and indexed, with cross-references to the \npage numbers that relate to each exhibit.\n6. Hearings\nCounsel may (but need not) file a request for hearing. Unless otherwise ordered by the \nCourt, however, all motions shall be decided on the memoranda without a hearing.\n7. Trial Briefs\nUnless otherwise ordered by the Court, counsel may (but need not) submit trial briefs. \n8. Motions for Sanctions\na) Not to be Filed as a Matter of Course\nThe Court expects that motions for sanctions will not be filed as a matter of course. \nThe Court will consider in appropriate cases imposing sanctions upon parties who file\nunjustified sanctions motions.\nb) Responses Required Only Upon Court Order\nUnless otherwise ordered by the Court, a party need not respond to any motion filed \nunder Fed. R. Civ. P. 11 or 28 U.S.C. § 1927. The Court shall not grant any motion without \nrequesting a response.\n9. Motions for Extension of Time\nBefore filing a motion to postpone any proceeding or to extend the time for the filing of \nany document or the taking of any other required action, counsel shall attempt to obtain the \nconsent of other counsel and shall give notice of the motion to other counsel a reasonable \ntime before presentation of the motion to the Court. Counsel shall state in the motion ",
+          "pages": [
+            27
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 105. Motions, Briefs, and Memoranda\n9. Motions for Extension of Time\nRule 105. Motions, Briefs, and Memoranda\n12. Amicus Briefs\nU.S. District Court of Maryland Local Rules (December 1, 2025)\n19\nwhether the consent of other counsel has been obtained. Where counsel deems it \nreasonably practicable, counsel also shall try to obtain the consent of an unrepresented party.\n10. Motions to Reconsider\nExcept as otherwise provided in Fed. R. Civ. P. 50, 52, 59, or 60, any motion to \nreconsider any order issued by the Court shall be filed with the Clerk not later than fourteen \n(14) days after entry of the order.\n11. Sealing\nAny motion seeking the sealing of pleadings, motions, exhibits, or other documents to \nbe filed in the Court record shall include (a) proposed reasons supported by specific factual \nrepresentations to justify the sealing and (b) an explanation why alternatives to sealing would \nnot provide sufficient protection. The Court will not rule upon the motion until at least \nfourteen (14) days after it is entered on the public docket to permit the filing of objections \nby interested parties. Materials that are the subject of the motion shall remain temporarily \nsealed pending a ruling by the Court. If the motion is denied, the party making the filing \nwill be given an opportunity to withdraw the materials. Upon termination of the action, \nsealed materials will be disposed of in accordance with L.R. 113.\n12. Amicus Briefs\na) When Permitted\nThe United States or its officer or agency or a state may file an amicus brief without the \nconsent of the parties or leave of court. Any other amicus curiae may file a brief only by \nsubmitting a motion to obtain leave of court.\nb) Motion for Leave to File\nThe motion must be accompanied by the proposed brief and state: (1) the movant’s \ninterest; (2) the reason why an amicus brief is desirable and why the matters asserted are \nrelevant to the disposition of the case; (3) which party’s filing the brief supports, if any; (4) \nwhether a party’s counsel authored the brief in whole or part; and (5) whether a party or its \ncounsel contributed money to fund the preparation and/or submission of the brief.\nc) Contents and Form\nThe brief shall be no more than 15 pages and otherwise comply with L.R. 102.2, 105.1, \n105.4, and 105.5.",
+          "pages": [
+            28
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 105. Motions, Briefs, and Memoranda\n12. Amicus Briefs\n",
+          "pages": [
+            29
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "mdd-civil-parsed-v1-0548bdddab14f278",
+      "sourceDocumentId": "parsed-mdd-0548bdddab14f278",
+      "sourceUrl": "https://www.mdd.uscourts.gov/sites/mdd/files/LocalRules.pdf",
+      "pageIndex": 25,
+      "pageSpan": [
+        25,
+        29
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "mdd-civil:106",
+      "collectionId": "mdd-civil",
+      "districtId": "mdd",
+      "number": "106",
+      "citation": "District of Maryland · Rule 106",
+      "title": "Pretrial Procedure",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 106. Pretrial Procedure\n2. Contents of Pretrial Order\nU.S. District Court of Maryland Local Rules (December 1, 2025)\n20\nd) Requested Relief\nThe Court will not consider amici requests for relief that are different from or in \naddition to the relief, if any, requested by the party whose brief the amici supports.\ne) Time for Filing\nThe motion and accompanying proposed brief must be filed, except with permission of \nthe Court, no later than seven days after the filing of the principal brief of the party being \nsupported, or, if it is not filed in support of a party’s filing, then within seven days of the\nfiling of the opening brief.\nf) Reply Brief\nAmici will not file a reply unless requested by the Court.\ng) Proceedings\nAmici may not participate in oral argument, hearings, or conference calls unless \nrequested by the Court.\nh) Disclosure of Corporate Affiliation\nIf the amicus curiae is a corporation, it must file a disclosure statement like that required \nof parties by L.R. 103.3.a.\nRULE 106. PRETRIAL PROCEDURE\n1. When Pretrial Order Required\nA pretrial order must be submitted in all cases except the following: (a) prisoner habeas \ncorpus petitions, (b) prisoner civil rights cases, (c) collection cases brought by the United \nStates, (d) land condemnation cases, (e) in rem forfeiture actions brought by the United \nStates, (f) administrative appeals brought against the Secretary of the Department of Health \nand Human Services, (g) foreclosure actions, (h) petitions brought by the United States to \nenforce a summons of the Internal Revenue Service, (i) appeals from rulings of the \nBankruptcy Court, and (j) suits to enforce or quash subpoenas.\n2. Contents of Pretrial Order\nA proposed pretrial order shall contain the following:\na. A brief statement of facts that each plaintiff proposes to prove in support \nof that plaintiff ’s claims, together with a listing of the separate legal \ntheories relied upon in support of each claim.",
+          "pages": [
+            29
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 106. Pretrial Procedure\n2. Contents of Pretrial Order\nRule 106. Pretrial Procedure\n2. Contents of Pretrial Order\nU.S. District Court of Maryland Local Rules (December 1, 2025)\n21\nb. A brief statement of facts that each defendant proposes to prove or rely \nupon as a defense thereto, together with a listing of the separate legal \ntheories relied upon in support of each affirmative defense.\nc. Similar statements as to any counterclaim, crossclaim, or third-party claim.\nd. Any amendments required of the pleadings.\ne. Any issue in the pleadings that is to be abandoned.\nf. Stipulations of fact or, if the parties are unable to agree, requested \nstipulations of fact.\ng. The details of the damages claimed or any other relief sought as of the \ndate of the pretrial conference.\nh. A listing of each document or other exhibit, including summaries of other \nevidence, other than those expected to be used solely for impeachment, \nseparately identifying those which each party expects to offer and those \nwhich each party may offer if the need arises. The listing shall indicate \nwhich exhibits the parties agree may be offered in evidence without the \nusual authentication. This requirement may be met by attaching an exhibit \nlist to the pretrial order.\ni. A list for each party of the name, address, and telephone number of each \nwitness, other than those expected to be called solely for impeachment, \nseparately identifying those whom the party expects to present and those \nwhom the party may call if the need arises.\nj. A list for each party of the name and specialties of experts the party \nproposes to call as witnesses including hybrid fact/expert witnesses such as \ntreating physicians.\nk. A list of the pages and/or lines of any portion of a deposition to be \noffered in a party’s case in chief or any counter-designations under Fed. R. \nCiv. P. 32(a)(4).\nl. Any other pretrial relief, including a reference to pending motions, which is \nrequested.\nm. Any other matters added by the Court.",
+          "pages": [
+            30
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 106. Pretrial Procedure\n3. Responsibility for Preparing Pretrial Order\nRule 106. Pretrial Procedure\n6. Pretrial Conference\nU.S. District Court of Maryland Local Rules (December 1, 2025)\n22\n3. Responsibility for Preparing Pretrial Order\nThe plaintiff shall prepare the first draft of the pretrial order covering all matters which \nthe plaintiff proposes to include in the pretrial order. Unless otherwise ordered by the Court \nor agreed upon by counsel, the plaintiff shall serve a copy of a draft upon opposing counsel \nfourteen (14) days before the proposed pretrial order is due to be filed. Unless otherwise \nordered by the Court or agreed upon by counsel, opposing counsel shall serve any proposed \nrevisions and additions upon plaintiff ’s counsel at least seven (7) days before the order is due \nto be filed. If counsel are unable to agree upon any particular provision of the proposed \norder, counsel for each party shall submit to the judge by the filing date a draft proposal on \nthe provision in dispute.\n4. Submission of Pretrial Order\na) Time\nUnless otherwise ordered by the Court, the pretrial order shall be submitted to the judge \nseven (7) days before the pretrial conference is to be held.\nb) Submission Procedure\ni) Cases Subject to Electronic Filing. The proposed pretrial order should be filed in \naccordance with the Court’s electronic filing procedures.\nii) Cases Exempt from Electronic Filing. The original and one (1) copy of the pretrial \norder shall be submitted.\nc) Fed. R. Civ. P. 26(a)(3) Disclosures\nSubmission of a pretrial order containing the information required by L.R. 106.2 within \nthe time limits prescribed by L.R. 106.3 and L.R. 106.4 shall be deemed to constitute \ncompliance with Fed. R. Civ. P. 26(a)(3).\n5. Approval and Entry of Pretrial Order\nAfter approving the pretrial order, the judge shall have the approval entered on the \ndocket. \n6. Pretrial Conference\nThe pretrial conference shall be attended by at least one (1) of the attorneys for each of \nthe parties who will actually participate in the trial. Attorneys attending the conference shall \nbe familiar with all aspects of the case and shall confer with their clients before the \nconference to obtain authority from them to enter into stipulations. If the case involves ",
+          "pages": [
+            31
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 106. Pretrial Procedure\n6. Pretrial Conference\nRule 106. Pretrial Procedure\n8. Jury Instructions, Voir Dire Questions, and Special Verdict \nForms\nU.S. District Court of Maryland Local Rules (December 1, 2025)\n23\nnumerous exhibits, counsel shall be prepared to discuss proposals for the orderly \npresentation of the exhibits at trial.\n7. Pretrial Preparation of Exhibits\na) Pretrial Numbering\nPrior to trial, counsel shall attach tags to all exhibits clearly identifying their proponent \nand number. Tags may be obtained from the Clerk. Counsel shall file with the Clerk and \nserve upon opposing counsel at least one (1) business day prior to the scheduled trial date an \nexhibit list. Counsel shall retain the exhibits until they are presented at trial. This Rule does \nnot apply to exhibits to be used solely for impeachment.\nb) Pretrial Review of Exhibits\nPrior to trial, counsel shall meet for the purpose of reviewing and making available for \ncopying one another’s proposed exhibits, except those to be used solely for impeachment. \nAll exhibits which are proffered at trial shall be precisely the same in form and substance as \nthe exhibits which were made available for review and copying prior to trial unless counsel \notherwise indicates to opposing counsel.\n8. Jury Instructions, Voir Dire Questions, and Special Verdict Forms\na) Submission Procedure\ni) Cases Subject to Electronic Filing. Unless otherwise ordered, proposed jury \ninstructions, voir dire questions, and special verdict forms should be filed electronically.\nii) Cases Exempt from Electronic Filing. Unless otherwise ordered, the original and \ntwo (2) copies of proposed instructions, voir dire questions, and special verdict forms shall \nbe filed with the Clerk.\nb) Contents of Proposed Instructions\nProposed instructions shall be numbered and shall set forth in a separate paragraph or \non a separate page a citation to any authorities upon which they are based. Counsel may \nsubmit any proposed instructions which they deem appropriate, but unless otherwise \nordered by the Court, counsel need not submit proposed instructions on general matters not \nparticular to the case. Upon request, the Court shall provide to counsel a copy of its \ncustomary general instructions prior to the instructions submission deadline.",
+          "pages": [
+            32
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 107. Trial\n1. [Reserved for Future Use]\n",
+          "pages": [
+            33
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "mdd-civil-parsed-v1-0548bdddab14f278",
+      "sourceDocumentId": "parsed-mdd-0548bdddab14f278",
+      "sourceUrl": "https://www.mdd.uscourts.gov/sites/mdd/files/LocalRules.pdf",
+      "pageIndex": 29,
+      "pageSpan": [
+        29,
+        33
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "mdd-civil:107",
+      "collectionId": "mdd-civil",
+      "districtId": "mdd",
+      "number": "107",
+      "citation": "District of Maryland · Rule 107",
+      "title": "Trial",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 107. Trial\n5. Exhibits\nU.S. District Court of Maryland Local Rules (December 1, 2025)\n24\nRULE 107. TRIAL\n1. [Reserved for Future Use]\n2. Postponements – Client Consent Required\nNo motion seeking the postponement of any trial shall be made by any counsel without \nthe knowledge and consent of the client whom that counsel represents.\n3. Subpoenas – When Served by Marshal\nAs provided in L.R. 103.2.b, unless ordered by the Court, the United States Marshal shall \nnot serve trial subpoenas except for a party who is proceeding in forma pauperis without\ncounsel.\n4. Imposition of Jury Costs for Late Settlement\nExcept for good cause shown, whenever the settlement of an action tried by a jury \ncauses a trial to be postponed, canceled, or terminated before a verdict, all juror costs shall \nbe imposed upon the parties unless counsel has notified the Court and the Clerk’s Office of \nthe settlement at least one (1) full business day prior to the day on which the trial is \nscheduled to begin. The costs shall be assessed equally against the parties and their counsel \nunless otherwise ordered by the Court.\n5. Exhibits\na) Pretrial Numbering and Exchange of Exhibits\nCounsel are to number exhibits prior to trial in accordance with L.R. 106.7.a. At trial, \ncounsel need not hand to other counsel for review any exhibit which prior to trial was made \navailable for review and copying in accordance with L.R. 106.7.b.\nb) Admission into Evidence\nUnless otherwise ordered by the Court, or unless counsel requests that a particular \nexhibit be marked for identification only, whenever an exhibit number is first mentioned by \ncounsel during the examination of a witness at trial, the exhibit shall be deemed to be \nadmitted into evidence unless opposing counsel then asserts an objection to it.\nc) Circulation to Jury\nThe Court may permit counsel to circulate exhibits among the jurors at trial. However, \nif such permission is granted, counsel shall be expected to continue with questioning of the \nwitness while the exhibit is being circulated unless the Court otherwise orders. Counsel shall \nnot abuse this procedure by seeking to circulate exhibits at the conclusion of the \nexamination.",
+          "pages": [
+            33
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 107. Trial\n5. Exhibits \nRule 107. Trial\n9. Courtroom Etiquette\nU.S. District Court of Maryland Local Rules (December 1, 2025)\n25\nd) Disposition\n[See L.R. 113]\n6. Obligation to Anticipate Evidentiary Objections\nCounsel are under an obligation to anticipate evidentiary objections and, whenever \npossible, bring them to the attention of the Court before they are formally asserted so that \nthey can be resolved when the jurors are not present.\n7. Exclusion of Witnesses\nWitnesses need not be excluded unless a party invokes the exclusion of witness rule. \n“Exclusion of witness rule” means that only parties (or the designated representatives of\nparties), their counsel, and expert witnesses approved by the Court may be present in the \ncourtroom during the course of trial and that no person may directly or indirectly advise a \nwitness (other than a party or expert witness) of what the testimony of another witness has \nbeen. Subject to this constraint, counsel may prepare their witnesses for trial during the \ncourse of trial.\n8. Time Limitations\na) Presentations to Jury\nUnless otherwise ordered by the Court, no opening statement or closing argument \n(including rebuttal argument) shall exceed one (1) hour. \nb) Presentation of Evidence\nIn cases which it deems exceptional, the Court may, after consultation with counsel and \ngiving respect to their views, impose in advance, reasonable time limitations on presentation \nof evidence.\n9. Courtroom Etiquette\na) Counsel to Stand When Addressing Court\nUnless otherwise permitted by the Court, counsel shall stand whenever addressing the \nCourt except in stating brief evidentiary objections.\nb) Movement in the Courtroom\ni) Generally. Unless otherwise ordered by the Court, counsel may conduct their \nexamination of witnesses from any reasonable location in the well of the Court. ",
+          "pages": [
+            34
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 107. Trial\n9. Courtroom Etiquette\nRule 107. Trial\n14. Speaking with Witness on the Stand\nU.S. District Court of Maryland Local Rules (December 1, 2025)\n26\nii) Approaching Witnesses. Unless otherwise ordered by the Court, counsel may \napproach a witness to show an exhibit without prior approval of the Court but may not do \nso for any other reason.\nc) Persons to be Referred to by Surname\nUnless otherwise ordered by the Court, counsel shall refer by surname to all parties, \nwitnesses or other persons whose names may be mentioned during the course of trial \n(except persons under the age of 18). \n10. One Attorney Per Witness\nOnly one (1) attorney for each party may conduct the examination of any witness. Only \nthat attorney may object to questions asked by opposing counsel during the examination of \nthat witness. \n11. Examination of Witnesses\na) Order of Questioning and Argument\nUnless otherwise ordered by the Court, co-parties represented by different counsel will \nexamine witnesses and present argument in the order in which they are named in the \ncomplaint, and third-party defendants will examine witnesses after defendants have done so.\nb) Limitation on Redundant Cross-Examination\nIn cases involving parties who share common interests, the judge may order that counsel \nfor those parties designate one (1) of themselves as “lead counsel” for each witness. The \ncounsel so designated shall be the only counsel authorized to conduct cross-examination \nconcerning matters which relate to the common interests shared by the parties.\n12. [Reserved for Future Use]\n13. Witnesses Excused at Conclusion of Testimony\nUnless counsel otherwise so indicate, a witness shall be excused at the conclusion of the \nwitness’s testimony.\n14. Speaking with Witness on the Stand\nUnless otherwise ordered by the Court, during all breaks and recesses counsel may speak \nwith a witness while conducting a direct examination of the witness but (with the exceptions \nnoted below) may not discuss testimony with the witness, including a party, while the witness \nis on cross, re-direct, or re-cross examination. Notwithstanding the foregoing, unless \notherwise ordered by the Court, counsel representing a defendant in a criminal case may ",
+          "pages": [
+            35
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-37",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 107. Trial\n14. Speaking with Witness on the Stand\n",
+          "pages": [
+            36
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "mdd-civil-parsed-v1-0548bdddab14f278",
+      "sourceDocumentId": "parsed-mdd-0548bdddab14f278",
+      "sourceUrl": "https://www.mdd.uscourts.gov/sites/mdd/files/LocalRules.pdf",
+      "pageIndex": 33,
+      "pageSpan": [
+        33,
+        36
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "mdd-civil:108",
+      "collectionId": "mdd-civil",
+      "districtId": "mdd",
+      "number": "108",
+      "citation": "District of Maryland · Rule 108",
+      "title": "Judgments",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-37",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 108. Judgments\n1. Judgment by Confession\nU.S. District Court of Maryland Local Rules (December 1, 2025)\n27\nconfer with the defendant during breaks and recesses, and a non-party witness may confer \nwith the witness’s own counsel at any time.\n15. Mistrial and Imposition of Costs for Unfair Conduct\nIf any witness volunteers unfairly prejudicial testimony not fairly responsive to the \nquestion asked, or if counsel commits any prejudicial error during the course of trial \n(including failing to advise a witness of evidence which the Court has ruled is inadmissible \nwith the result that the witness refers to such evidence), the Court may order a mistrial and \nimpose upon the responsible person all jury costs thus far incurred.\n16. Interviews of Jurors\nUnless permitted by the presiding judge, no attorney or party shall directly or through an \nagent interview or question any juror, alternate juror, or prospective juror with respect to \nthat juror’s jury service.\nRULE 108. JUDGMENTS\n1. Judgment by Confession\na) Complaint, Related Documents, and Attachments\nA complaint requesting the entry of judgment by confession shall be filed by the \nplaintiff accompanied by the written instrument authorizing the confession of judgment and \nentitling the plaintiff to a claim for liquidated damages and supported by an affidavit made \nby the plaintiff or someone on that party’s behalf stating the specific circumstances of the \ndefendant’s execution of said instrument and including, where known, the age and education \nof the defendant, and further including the amount due thereunder, and the post office \naddress (including street address if needed to effect mail delivery) of the defendant.\nb) Review by Court Regarding Entry of Judgment\nUpon review of the aforesaid documents, the Court may direct the entry of judgment \nupon a finding that the aforesaid documents prima facie establish (1) a voluntary, knowing, \nand intelligent waiver by the defendant of the right to notice and a prejudgment hearing on \nthe merits of the claim of the plaintiff for liquidated damages and (2) a meritorious claim of \nthe plaintiff for liquidated damages against the defendant.*\n*Pursuant to Maryland law, “unfair, abusive, or deceptive trade practices” include “use of a contract related to \na consumer transaction which contains a confessed judgment clause that waives the consumer’s right to assert \na legal defense to an action.” MD Code, Commercial Law, § 13-301(12).",
+          "pages": [
+            36
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-38",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 108. Judgments\n1. Judgment by Confession\nRule 108. Judgments\n1. Judgment by Confession\nU.S. District Court of Maryland Local Rules (December 1, 2025)\n28\nc) Notice to Defendants\nImmediately upon the entry of a judgment pursuant to paragraph (b) above, the Clerk \nshall issue a notice for the defendant notifying said party of the entry of the judgment and \nrequiring defendant to appear in the cause wherein it is entered within thirty (30) days or \nsuch other time as may be required by statute or rule after the service of the notice and \nshow, if such be the case, that said party did not voluntarily, knowingly, and intelligently \nwaive the right to notice and a prejudgment hearing on the merits of the claim, or otherwise \nshow cause why the judgment should be vacated, opened, or modified.\nd) Application to Vacate Judgment\nApplication to vacate, open, or modify the judgment must be made by motion within \nthirty (30) days after service of the notice, or such other time as may be required by statute \nor rule. The motion shall be made on the ground that the defendant has a meritorious \ndefense to the cause of action. It shall set forth fully the facts relied on for such defense. A \ncopy of the motion shall be served on the plaintiff or his attorney. If no application is \nmade within the time allowed, the judgment shall be final.\ne) Determination of Motion\nThe motion shall be considered and determined as promptly as possible by the Court. \nIf the evidence presented establishes that there are substantial and sufficient grounds for an \nactual controversy as to the merits of the case, the Court shall order the judgment by \nconfession vacated, opened, or modified, with leave to the defendant to file a pleading, and \nthe case shall stand for trial. If the evidence does not establish that there are substantial and \nsufficient grounds for actual controversy as to the merits of the case, the judgment shall \nstand to the same extent as a final judgment.\nf) Failure to Effect Service\nIf the notice issued under section (c) is not served despite reasonable efforts to effect \nservice, the Court, upon petition of the plaintiff setting forth an account of the efforts \nmade to effect service, shall provide for notice to the defendant in the manner provided by \nstatute or rule.\ng) Address of Defendant Unknown\nWhere the affidavit indicates that the address of the defendant is unknown, a judgment \nshall not be entered except upon order of Court, and the Court shall provide notice to the \ndefendant pursuant to statute or rule.",
+          "pages": [
+            37
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 108. Judgments\n1. Judgment by Confession\n",
+          "pages": [
+            38
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "mdd-civil-parsed-v1-0548bdddab14f278",
+      "sourceDocumentId": "parsed-mdd-0548bdddab14f278",
+      "sourceUrl": "https://www.mdd.uscourts.gov/sites/mdd/files/LocalRules.pdf",
+      "pageIndex": 36,
+      "pageSpan": [
+        36,
+        38
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "mdd-civil:109",
+      "collectionId": "mdd-civil",
+      "districtId": "mdd",
+      "number": "109",
+      "citation": "District of Maryland · Rule 109",
+      "title": "Post-Trial Proceedings",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 109. Post-Trial Proceedings\n1. Bill of Costs\nU.S. District Court of Maryland Local Rules (December 1, 2025)\n29\nh) Entry of Judgment by Confession\nExcept as authorized by this Rule, judgment by confession shall be entered only upon \norder of Court, after such notice and upon such terms as the Court may direct.\ni) Sale on Execution upon Judgment by Confession\nUnless otherwise ordered by the Court, a sale on execution upon a judgment by \nconfession shall not be made until after judgment has become final under sections (c), (d), \nand (e) of this Rule.\n2. Default\na) Entry of Default\nTo obtain an entry of default pursuant to Fed. R. Civ. P. 55(a), the plaintiff must file a \nwritten request with the Court. This request shall contain the last known address of the \ndefendant. Promptly upon the entry of default, the Clerk shall mail the entry of default to \nthe defendant at the address stated in the request and to the defendant’s attorney of record, \nif any, together with a notice informing the defendant that default has been entered and that \nthe defendant may move to vacate the entry of default within 30 days.\nb) Default Judgment\nTo obtain a default judgment pursuant to Fed. R. Civ. P. 55(b), the plaintiff must file a \nwritten request with the Court supported by an affidavit stating whether the defendant is a \nminor, an incompetent person, or in military service, with supporting facts pursuant to 50 \nU.S.C. § 3931(b)(1). If it appears that the defendant is a minor or an incompetent person, \nthe Court shall not enter a default judgment unless a general guardian, conservator, or other \nfiduciary has appeared on behalf of the defendant. If it appears that the defendant is in \nmilitary service, the Court shall not enter a default judgment until after it appoints an \nattorney to represent the defendant pursuant to 50 U.S.C. § 3931(b)(2).\nRULE 109. POST-TRIAL PROCEEDINGS\n1. Bill of Costs\na) Time for Filing\nUnless provided by L.R. 109.2.c or otherwise ordered by the Court, a bill of costs shall \nbe filed within fourteen (14) days of the expiration of time allowed for appeal of a final \njudgment or, if a notice of appeal is filed, within fourteen (14) days of the issuance of the \nmandate by the Court of Appeals. A bill for additional costs incurred on review by the \nSupreme Court taxable in this Court shall be filed within fourteen (14) days of the entry of ",
+          "pages": [
+            38
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-40",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 109. Post-Trial Proceedings\n1. Bill of Costs\nRule 109. Post-Trial Proceedings\n2. Motions Requesting Attorneys’ Fees\nU.S. District Court of Maryland Local Rules (December 1, 2025)\n30\njudgment by the Supreme Court. Non-compliance with these time limits shall be deemed a \nwaiver of costs.\nb) Contents\nIn any case where any costs other than the fee for filing the action are being requested, \nthe bill of costs shall be supported by affidavit and accompanied by a memorandum setting \nforth the grounds and authorities supporting the request. Any vouchers or bills supporting \nthe cost being requested shall be attached as exhibits.\nc) Objections\nA party objecting to any requested costs shall submit a memorandum in opposition to \nthe request within the time permitted by L.R. 105.2. If no such memorandum is filed within \nthe required time, the Clerk may, without notice or hearing, tax all of the requested costs.\n2. Motions Requesting Attorneys’ Fees\na) Time for Filing\nUnless otherwise provided by statute, L.R. 109.2.c, or otherwise ordered by the Court, \nany motion requesting the award of attorneys’ fees must be filed within fourteen (14) days \nof the entry of judgment. The memorandum required by L.R. 109.2.b must be filed within \nthirty-five (35) days from the date the motion is filed, or (unless otherwise ordered by the \nCourt) in the event an appeal is taken from the underlying judgment, within fourteen (14) \ndays of the issuance of the mandate of the Court of Appeals. Any opposition to the \nmotion shall be filed within fourteen (14) days of service of the memorandum. Non￾compliance with these time limits shall be deemed to be a waiver of any claim for attorneys’ \nfees.\nb) Contents\nAny motion requesting the award of attorneys’ fees must be supported by a \nmemorandum setting forth the nature of the case, the claims as to which the party prevailed, \nthe claims as to which the party did not prevail, a detailed description of the work \nperformed broken down by hours or fractions thereof expended on each task, the attorney’s \ncustomary fee for such like work, the customary fee for like work prevailing in the attorney’s \ncommunity, a listing of any expenditures for which reimbursement is sought, any additional \nfactors which are required by the case law, and any additional factors that the attorney wishes \nto bring to the Court’s attention. If the Rules and Guidelines for Determining Attorneys’ \nFees in Certain Cases contained in Appendix B to these Rules are applicable, any motion for \nattorneys’ fees also shall be prepared in accordance with such Rules and Guidelines.",
+          "pages": [
+            39
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-41",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 109. Post-Trial Proceedings\n2. Motions Requesting Attorneys’ Fees\n",
+          "pages": [
+            40
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "mdd-civil-parsed-v1-0548bdddab14f278",
+      "sourceDocumentId": "parsed-mdd-0548bdddab14f278",
+      "sourceUrl": "https://www.mdd.uscourts.gov/sites/mdd/files/LocalRules.pdf",
+      "pageIndex": 38,
+      "pageSpan": [
+        38,
+        40
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "mdd-civil:111",
+      "collectionId": "mdd-civil",
+      "districtId": "mdd",
+      "number": "111",
+      "citation": "District of Maryland · Rule 111",
+      "title": "Settlement Orders",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-41",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 111. Settlement Orders\nU.S. District Court of Maryland Local Rules (December 1, 2025)\n31\nc) Social Security Cases\nThe provisions of L.R. 109.2.a and 109.2.b shall apply to motions requesting an award \nof attorneys’ fees with the following exception and additions: (i) the motion must be filed \nwithin thirty (30) days of the date of the Notice of Award letter sent to the claimant and the \nattorney at the conclusion of the Social Security Administration’s past-due benefit \ncalculation and (ii) the motion may not seek any award of fees for representation of the \nclaimant in administrative proceedings. \nRULE 110. APPEAL\n1. Bonds\na) Amount\nUnless otherwise ordered by the Court, the amount of any supersedeas bond filed to \nstay execution of a money judgment pending appeal shall be 120% of the amount of the \njudgment plus an additional $500 to cover costs on appeal.\nb) Waiver for State and Municipal Agencies\nUnless otherwise ordered by the Court, the state of Maryland, any of its political \nsubdivisions, and any agents thereof shall not be required to post a supersedeas or appeal \nbond.\nRULE 111. SETTLEMENT ORDERS\nWhen the Court has been notified by counsel that a case has been settled, the Court may \nenter an order dismissing the case and providing for the payment of costs. Such an order of \ndismissal shall be without prejudice to the right of a party to move for good cause to reopen \nthe case within a time set by the Court if the settlement is not consummated. Alternatively, \nthe Court, upon being notified by counsel that a case has been settled, may require counsel \nto submit within sixty (60) days a proposed order providing for settlement, in default of \nwhich the Court may enter such judgment or other order as may be deemed appropriate. An \norder entered pursuant to this Rule means that the entire case, including all claims, counter￾claims, cross-claims, third-party claims, and claims for attorneys’ fees and costs has been \nsettled, unless otherwise stated in the order.",
+          "pages": [
+            40
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-42",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 112. Special Proceedings\n1. Habeas Corpus Petitions\n",
+          "pages": [
+            41
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "mdd-civil-parsed-v1-0548bdddab14f278",
+      "sourceDocumentId": "parsed-mdd-0548bdddab14f278",
+      "sourceUrl": "https://www.mdd.uscourts.gov/sites/mdd/files/LocalRules.pdf",
+      "pageIndex": 40,
+      "pageSpan": [
+        40,
+        41
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "mdd-civil:112",
+      "collectionId": "mdd-civil",
+      "districtId": "mdd",
+      "number": "112",
+      "citation": "District of Maryland · Rule 112",
+      "title": "Special Proceedings",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-42",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 112. Special Proceedings\n1. Habeas Corpus Petitions\nU.S. District Court of Maryland Local Rules (December 1, 2025)\n32\nRULE 112. SPECIAL PROCEEDINGS\n1. Habeas Corpus Petitions\na) Applicability of General Rules\nPetitions for habeas corpus filed pursuant to 28 U.S.C. § 2254 and motions filed pursuant \nto 28 U.S.C. § 2255 shall be governed, respectively, by the Rules Governing § 2254 Cases in \nthe United States District Courts and the Rules Governing § 2255 Proceedings in the United \nStates District Courts.\nb) Return of Insufficient Petitions\nThe Clerk of the Court may, upon court order, return petitions that do not comply with \nRules 2 and 3 of the above Rules but shall retain a copy of them as required by said Rules.\nc) Form\nPetitions shall be filed on forms as they are approved from time to time by order of the \nCourt.\nd) Filing Fee for § 2254 Actions\nA filing fee of $5.00 shall be required for 28 U.S.C. § 2254 actions unless the Court \nauthorizes the petitioner to proceed in forma pauperis. The Court generally will not \nauthorize a petitioner who has $25.00 or more available after payment of the fee to proceed \nin forma pauperis.\ne) No Responses to § 2255 Motions Required Without Court Order\nThe Government need not respond to a motion filed under 28 U.S.C. § 2255 unless \nrequested by the Court.\nf) Filing\nAll communications shall be directed to and filed with the Clerk. At the time of filing a \npetition or motion under 28 U.S.C. § 2241, 28 U.S.C. § 2254, or 28 U.S.C. § 2255, self￾represented prisoners must provide the Clerk’s Office with one service copy of the petition \nor motion.\ng) Service\nAll court documents—other than the original petition or motion—filed by self￾represented prisoners under 28 U.S.C. § 2241, 28 U.S.C. § 2254, or 28 U.S.C. § 2255 are \ndeemed “filed electronically” for L.R. 102.1.c purposes at the time the documents are \nelectronically docketed by the Clerk’s Office. For any response to a document filed ",
+          "pages": [
+            41
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-43",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 112. Special Proceedings\n1. Habeas Corpus Petitions\nRule 112. Special Proceedings\n3. Multi-District Litigation\nU.S. District Court of Maryland Local Rules (December 1, 2025)\n33\nelectronically under this paragraph, any deadline for filing a response will be calculated from \nthe date the document is electronically docketed by the Clerk’s Office.\n2. Prisoner Civil Rights Actions\na) Forms\nAll self-represented civil rights actions brought by inmates of penal institutions shall be \nfiled on forms approved from time to time by order of the Court. Petitions to proceed in \nforma pauperis shall likewise be filed on forms approved from time to time by the Court. \nThe Court may authorize penal institutions to produce, stock, or distribute such approved \nforms.\nb) Filing and Service\nAll communications shall be directed to and filed with the Clerk. At the time of filing \nthe complaint, self-represented prisoners must provide the Clerk’s Office with a service copy \nof the complaint as to each defendant.\nc) Service\ni) As to all defendants represented by counsel, all court documents—other than the \noriginal complaint—filed by self-represented prisoners in civil rights actions are deemed \n“filed electronically” for L.R. 102.1.c purposes at the time the documents are electronically \ndocketed by the Clerk’s Office. For any response to a document filed electronically under \nthis paragraph, any deadline for filing a response will be calculated from the date the \ndocument is electronically docketed by the Clerk’s Office.\nii) As to all defendants not represented by counsel, self-represented prisoners are \nresponsible for serving a copy of all documents filed with the Court upon a defendant in \naccordance with Fed. R. Civ. P. 5. Self-represented prisoners are solely responsible both for \ndetermining which defendants are represented and for ensuring unrepresented defendants \nare served with a copy of any document filed with the Court.\n3. Multi-District Litigation\na) Numbering and Docketing\nA group of actions transferred to this District under 28 U.S.C. § 1407 shall be given the \ncomposite number previously assigned by the Multi-District Panel. Individual actions within \nthe group shall be given specific civil action numbers. ",
+          "pages": [
+            42
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-44",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 112. Special Proceedings\n3. Multi-District Litigation\n",
+          "pages": [
+            43
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "mdd-civil-parsed-v1-0548bdddab14f278",
+      "sourceDocumentId": "parsed-mdd-0548bdddab14f278",
+      "sourceUrl": "https://www.mdd.uscourts.gov/sites/mdd/files/LocalRules.pdf",
+      "pageIndex": 41,
+      "pageSpan": [
+        41,
+        43
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "mdd-civil:113",
+      "collectionId": "mdd-civil",
+      "districtId": "mdd",
+      "number": "113",
+      "citation": "District of Maryland · Rule 113",
+      "title": "Disposition of Exhibits and Sealed Materials",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-44",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 113. Disposition of Exhibits and Sealed Materials\n1. Trial and Hearing Exhibits\nU.S. District Court of Maryland Local Rules (December 1, 2025)\n34\nb) Counsel Need Not be a Member of the Bar of This Court\nCounsel representing a party in a transferred action need not be a member of the Bar of \nthis Court but shall follow L.R. 101.b.iv for moving for admission pro hac vice. Parties in \nmulti-district litigation cases need not have counsel who have been admitted to the Bar of \nthis Court.\nc) Notification of Address\nUpon receipt of an order of transfer, all counsel in the transferred action shall notify the \nClerk of their names, addresses, telephone numbers, and email addresses. \n4. Condemnation Cases – Request for Immediate Possession\nA plaintiff in a condemnation case seeking immediate possession of land shall submit a \nstatement reciting (a) whether or not the land is improved and, if so, a specific description \nof the improvements; (b) whether or not the land is occupied and, if so, the name and \naddress of the occupant; and (c) whether the owner and the occupant consent to plaintiff ’s \ntaking immediate possession.\n5. Review of Jeopardy Assessments\nAll actions arising under 26 U.S.C. § 7429 shall bear the designation “Review of Jeopardy \nAssessment” on the complaint next to the style of the case. A proposed show cause order \nshall be submitted with the complaint, and the Clerk shall immediately bring the action to \nthe attention of the Court. Failure to comply with this Rule may result in dismissal of the \naction.\nRULE 113. DISPOSITION OF EXHIBITS AND SEALED MATERIALS\n1. Trial and Hearing Exhibits\na) Pending Appeal\nUnless otherwise ordered by the Court, at the conclusion of a trial or a hearing, the \nClerk shall return all exhibits to counsel who submitted them. It is the responsibility of \ncounsel to maintain the exhibits until the time for filing a notice of appeal has expired, or, in \nthe event an appeal is taken, until the appeal is concluded. Upon request by counsel for \nanother party or the Court, counsel having custody of the exhibits must make them available \nfor inspection. Upon request, counsel must transmit the exhibits to the appellate court.\nb) Upon Final Termination of Action\nWithin thirty (30) days of the final termination of an action, counsel may request the \nreturn of any trial and hearing exhibits which are in the custody of the Clerk. If any counsel ",
+          "pages": [
+            43
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-45",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 113. Disposition of Exhibits and Sealed Materials \n1. Trial and Hearing Exhibits\nRule 113. Disposition of Exhibits and Sealed Materials\n4. Non-Electronically Submitted Administrative Records\nU.S. District Court of Maryland Local Rules (December 1, 2025)\n35\nfails to request the return of exhibits, the Court may direct the return, destruction, or other \ndisposition of the exhibits.\n2. Firearms, Contraband, and Currency\nIn any action to which the United States is a party, the United States shall maintain \ncustody throughout the proceedings of any firearms, contraband, or currency which have \nbeen presented as exhibits and shall be responsible for their safekeeping.\n3. Sealed Materials Other Than Trial and Hearing Exhibits\nWithin thirty (30) days of the final termination of an action, counsel may request the \nreturn of any sealed materials other than trial and hearing exhibits or request that the \nmaterials be unsealed. If counsel fails to request the return or unsealing of any sealed \nmaterials, the Court may direct the return, destruction, or other disposition of the materials.\n4. Non-Electronically Submitted Administrative Records\nAfter thirty (30) days’ notice, the Clerk may destroy or otherwise dispose of any non￾electronically submitted administrative records offered by any party, whether or not received \ninto evidence, when the time for appeal expires or the mandate on appeal issues, unless \notherwise ordered by the Court.",
+          "pages": [
+            44
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "mdd-civil-parsed-v1-0548bdddab14f278",
+      "sourceDocumentId": "parsed-mdd-0548bdddab14f278",
+      "sourceUrl": "https://www.mdd.uscourts.gov/sites/mdd/files/LocalRules.pdf",
+      "pageIndex": 43,
+      "pageSpan": [
+        43,
+        44
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    }
+  ],
+  "evidence": [
+    {
+      "number": "101",
+      "heading": "Rule 101. Counsel",
+      "page": 11,
+      "offset": 80,
+      "slices": [
+        {
+          "page": 11,
+          "start": 80,
+          "end": 2845,
+          "sha256": "746fd0349c05aa41d92be52f9b6a690b43bf55086dc66e5754d27d3780ab1748"
+        },
+        {
+          "page": 12,
+          "start": 0,
+          "end": 2991,
+          "sha256": "19fcdad9941021c9a386b9ed730862f97663bc125eb321cc86028128715adf93"
+        },
+        {
+          "page": 13,
+          "start": 0,
+          "end": 78,
+          "sha256": "763f5320422289b6878fff5ec17b860a39c7c89c2bc56a2ea8bf1ca4057c63db"
+        }
+      ]
+    },
+    {
+      "number": "102",
+      "heading": "Rule 102. General Filing and Service Requirements",
+      "page": 13,
+      "offset": 78,
+      "slices": [
+        {
+          "page": 13,
+          "start": 78,
+          "end": 2895,
+          "sha256": "99a916d97e9e34819343cc8eb2a5186908142a276d4fd20a85bc930accd0aa6a"
+        },
+        {
+          "page": 14,
+          "start": 0,
+          "end": 2941,
+          "sha256": "7da4cc145aa48bcb19275bda006cda2bc5e32592bab9e220101d8501b8bb6367"
+        },
+        {
+          "page": 15,
+          "start": 0,
+          "end": 2482,
+          "sha256": "b7b61151ed900ef94449e521db623af8fb3e81b28e50d771ff59b18ab890de66"
+        },
+        {
+          "page": 16,
+          "start": 0,
+          "end": 106,
+          "sha256": "f1df014d0708f3b9dbaedcf16dd9292665f24dda06dd063c064e2dc470d9a6a0"
+        }
+      ]
+    },
+    {
+      "number": "103",
+      "heading": "Rule 103. Institution of Suit, Pleadings, and Other Procedural Matters",
+      "page": 16,
+      "offset": 106,
+      "slices": [
+        {
+          "page": 16,
+          "start": 106,
+          "end": 2341,
+          "sha256": "f965c23d6c7af2fe7443ac784d89a3a32829d269009b70d50fbefb92a90507de"
+        },
+        {
+          "page": 17,
+          "start": 0,
+          "end": 2845,
+          "sha256": "1426b3bd43880a78ab1d7ab040da8ddf9761084888db9bfbf3db9e274538a720"
+        },
+        {
+          "page": 18,
+          "start": 0,
+          "end": 3109,
+          "sha256": "76830b4c38a4800c3d6adbd0e1a1883efe0ebaa95c8a39b3b329b622d544c3af"
+        },
+        {
+          "page": 19,
+          "start": 0,
+          "end": 3040,
+          "sha256": "533ba8f82e170bd015945374586c00e0706e1d9a6d9706108de78876b2b3c9d7"
+        },
+        {
+          "page": 20,
+          "start": 0,
+          "end": 2395,
+          "sha256": "57e40d7591f48dbc217336b2a309b81c4e7e333ee3596819a3a3334e0b6a182f"
+        },
+        {
+          "page": 21,
+          "start": 0,
+          "end": 2428,
+          "sha256": "7f8d805c3bad0d3dc42da473ad4be5ccb56a3efb1cacffcee2a2ce558c2be9c9"
+        },
+        {
+          "page": 22,
+          "start": 0,
+          "end": 41,
+          "sha256": "f8452ac638dcb2ad1b8aa8277a06cfc32c1a1645364090fc1e7bf7cc79e03b17"
+        }
+      ]
+    },
+    {
+      "number": "104",
+      "heading": "Rule 104. Discovery",
+      "page": 22,
+      "offset": 41,
+      "slices": [
+        {
+          "page": 22,
+          "start": 41,
+          "end": 2564,
+          "sha256": "96b8cba3f9cc4e1f80441cba75b46db7ca14fe5627da1d3714f63b919a5ceb88"
+        },
+        {
+          "page": 23,
+          "start": 0,
+          "end": 2931,
+          "sha256": "beaac3a886f8267bf1e7c73b0387b821ec2ece410da3b67e5a3157b60ce06cfe"
+        },
+        {
+          "page": 24,
+          "start": 0,
+          "end": 2850,
+          "sha256": "49a114682ef51b4619ac740b7fe3e870112ff8a419f1566aa77692019b54ca6b"
+        },
+        {
+          "page": 25,
+          "start": 0,
+          "end": 2792,
+          "sha256": "517189fe54121899dc0e34b7dc2a14cf12b502ecd3d132ac81f1ed0bcb472d62"
+        },
+        {
+          "page": 26,
+          "start": 0,
+          "end": 40,
+          "sha256": "43fbbdc68210824e55f9740f9e3c3ac68ec59abf41eee7602ec7ba2c453b3829"
+        }
+      ]
+    },
+    {
+      "number": "105",
+      "heading": "Rule 105. Motions, Briefs, and Memoranda",
+      "page": 26,
+      "offset": 40,
+      "slices": [
+        {
+          "page": 26,
+          "start": 40,
+          "end": 2535,
+          "sha256": "ced9bba69bb8910f303b9069e50443442fad7214db21d944ae62c91c3f6444e1"
+        },
+        {
+          "page": 27,
+          "start": 0,
+          "end": 2604,
+          "sha256": "e4f0a92cc01180cbef4e87b740554b0d3b06fdfd1493e6ef1e2d01c034698f0d"
+        },
+        {
+          "page": 28,
+          "start": 0,
+          "end": 2090,
+          "sha256": "1786ff5a3fbbf5dad9fec9eb33427c424e6eb70ae3ec7a83a856ae7287f7547f"
+        },
+        {
+          "page": 29,
+          "start": 0,
+          "end": 2303,
+          "sha256": "4793eb76c9ac56ac353f3290dd5a6c5fcbac4545a312b1eb11fd69d7b0ddfcde"
+        },
+        {
+          "page": 30,
+          "start": 0,
+          "end": 59,
+          "sha256": "c92a1842000ffddf452522aa3b1872ec2d358430b01fb47201ba7a1bf4bc0b6a"
+        }
+      ]
+    },
+    {
+      "number": "106",
+      "heading": "Rule 106. Pretrial Procedure",
+      "page": 30,
+      "offset": 59,
+      "slices": [
+        {
+          "page": 30,
+          "start": 59,
+          "end": 2015,
+          "sha256": "f6620a309f12b47044db4868e50dfb657c5dd700b9078bf54806c017120f9cb3"
+        },
+        {
+          "page": 31,
+          "start": 0,
+          "end": 2002,
+          "sha256": "f17b1a394325e9a4dae9e604554383cc60512a31acd7aef91d4b2236b4587b53"
+        },
+        {
+          "page": 32,
+          "start": 0,
+          "end": 2280,
+          "sha256": "615cfb01fe5408bd21bab115fe29d0b13e87ec60b093a6ec5dd5e5fd42940e09"
+        },
+        {
+          "page": 33,
+          "start": 0,
+          "end": 2299,
+          "sha256": "447bb0d24fdf78c6aa14bddf30487d7f27cf5e8f65630a4b17a93bfd278e3fba"
+        },
+        {
+          "page": 34,
+          "start": 0,
+          "end": 45,
+          "sha256": "e657ea8648a450b791d31851e84f32b84812b70c76ee4b1ecc2fd490c067320b"
+        }
+      ]
+    },
+    {
+      "number": "107",
+      "heading": "Rule 107. Trial",
+      "page": 34,
+      "offset": 45,
+      "slices": [
+        {
+          "page": 34,
+          "start": 45,
+          "end": 2234,
+          "sha256": "ae195a6368c0c5e15a29c8362372a0f3d943f88edfd944e3bc294aa909428223"
+        },
+        {
+          "page": 35,
+          "start": 0,
+          "end": 1838,
+          "sha256": "6c8eb965dd9d90014778c30758ac1cb4f7b86b078bf55894209086811f049742"
+        },
+        {
+          "page": 36,
+          "start": 0,
+          "end": 2234,
+          "sha256": "452c69cc27806c28bef8e80cffd69c7ed8d0f08864f87fe185631ea751111807"
+        },
+        {
+          "page": 37,
+          "start": 0,
+          "end": 55,
+          "sha256": "823e22204f8782d58d55aa71563f38381867f98ee297684c1580af6726383ca3"
+        }
+      ]
+    },
+    {
+      "number": "108",
+      "heading": "Rule 108. Judgments",
+      "page": 37,
+      "offset": 55,
+      "slices": [
+        {
+          "page": 37,
+          "start": 55,
+          "end": 2519,
+          "sha256": "83b923f9da97098f21d1407b03620c98ef6757288babe608f871fa9abddaf9ce"
+        },
+        {
+          "page": 38,
+          "start": 0,
+          "end": 2547,
+          "sha256": "3d3f890cb316d9327add717c9c2bb9eb1d3814d87f0f81944afd88f7cc5ededc"
+        },
+        {
+          "page": 39,
+          "start": 0,
+          "end": 46,
+          "sha256": "cd0f997a154043b72f05628ccda230d0ed3f5f8900ac579ba75ee45e58d4b1c2"
+        }
+      ]
+    },
+    {
+      "number": "109",
+      "heading": "Rule 109. Post-Trial Proceedings",
+      "page": 39,
+      "offset": 46,
+      "slices": [
+        {
+          "page": 39,
+          "start": 46,
+          "end": 2435,
+          "sha256": "ce9c89439087b88a7e17b062b6941e7746391bf7b78a99fcc1ea33afeed455de"
+        },
+        {
+          "page": 40,
+          "start": 0,
+          "end": 2605,
+          "sha256": "79ab3fbce1248f01e9a61c6baaeeaf99585a95dee402c09204d61a07c98b0f76"
+        },
+        {
+          "page": 41,
+          "start": 0,
+          "end": 71,
+          "sha256": "916a01195f6c3145e584abe437680a80cae046324edf701f9f108afef866e67b"
+        }
+      ]
+    },
+    {
+      "number": "111",
+      "heading": "Rule 111. Settlement Orders",
+      "page": 41,
+      "offset": 71,
+      "slices": [
+        {
+          "page": 41,
+          "start": 71,
+          "end": 2077,
+          "sha256": "d4ccbcbe837f34e9a2a5355ce21d7ed56c9890ddb1c3daefb2eb0272a6c7285c"
+        },
+        {
+          "page": 42,
+          "start": 0,
+          "end": 57,
+          "sha256": "b21664de0afc6252e1415315685a2c82611e50314cfc2d69c3eaf436cc886e05"
+        }
+      ]
+    },
+    {
+      "number": "112",
+      "heading": "Rule 112. Special Proceedings",
+      "page": 42,
+      "offset": 57,
+      "slices": [
+        {
+          "page": 42,
+          "start": 57,
+          "end": 2018,
+          "sha256": "32bc24c504b5933f51a3f159cb6ad7394560a09d0722c073f63dd483d6fa5235"
+        },
+        {
+          "page": 43,
+          "start": 0,
+          "end": 2244,
+          "sha256": "14ff80b4c41c25daa5080d67c1dd0c10ccd47db851f03220b5c2204874aa0550"
+        },
+        {
+          "page": 44,
+          "start": 0,
+          "end": 59,
+          "sha256": "18214b34f8b9dd741695e5ffb59b2654f256cf55fbead1e35773d10bc64a3ac5"
+        }
+      ]
+    },
+    {
+      "number": "113",
+      "heading": "Rule 113. Disposition of Exhibits and Sealed Materials",
+      "page": 44,
+      "offset": 59,
+      "slices": [
+        {
+          "page": 44,
+          "start": 59,
+          "end": 2476,
+          "sha256": "1ae9d71fbd2e3bbe76e6c314e3a9ef627def4e10ad2bfb25d213ce819519c9fe"
+        },
+        {
+          "page": 45,
+          "start": 0,
+          "end": 1454,
+          "sha256": "3dc1561a672254a738e7d2dc08e2b90b760bba3c86f948a4d8e8a37fa78f21d5"
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "startPage": 11,
+    "startOffset": 80,
+    "endPage": 45,
+    "endOffset": 1454,
+    "ruleCount": 12,
+    "tocReconciled": false,
+    "editorialReviewComplete": false,
+    "currencyReviewed": false,
+    "flags": [
+      "Source extraction contains unresolved characters; consult the original publication."
+    ],
+    "excluded": "Source material outside the recorded range remains available in the district source library."
+  },
+  "transcriptionSha256": "33c80fd09bc51816c07a16f52f308e03f3b41e880596a6b850d5053298e2ea63"
+}

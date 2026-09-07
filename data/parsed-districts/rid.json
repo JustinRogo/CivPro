@@ -1,0 +1,2357 @@
+{
+  "version": 1,
+  "reviewStatus": "parsed-draft",
+  "districtId": "rid",
+  "sourceDocument": {
+    "id": "7f03a8fca5401c94",
+    "title": "Local Rules",
+    "format": "pdf",
+    "role": "primary",
+    "sourceUrl": "https://www.rid.uscourts.gov/sites/rid/files/documents/Approved%20Dec%202024%20Rules.pdf",
+    "sha256": "7f03a8fca5401c942b3bbb962180aa9d352237aa3a18be9a89f381d3d98c038e",
+    "bytes": 767720,
+    "retrievedAt": "2026-09-07T00:02:10.957109+00:00",
+    "snapshotPath": "sources/district-snapshots/7f03a8fca5401c942b3bbb962180aa9d352237aa3a18be9a89f381d3d98c038e.pdf",
+    "textPath": "data/source-library/7f03a8fca5401c942b3bbb962180aa9d352237aa3a18be9a89f381d3d98c038e.json",
+    "pdfPath": "data/source-pdfs/7f03a8fca5401c942b3bbb962180aa9d352237aa3a18be9a89f381d3d98c038e.pdf",
+    "pageCount": 179,
+    "reviewStatus": "source-document-only",
+    "blankTextPages": 2
+  },
+  "collection": {
+    "id": "rid-civil",
+    "name": "District of Rhode Island Local Rules",
+    "shortName": "Local rules · draft",
+    "districtId": "rid",
+    "scopeNote": "Civil and generally applicable local rules; unparsed supplements remain in the source library. Rule boundaries and transcription are drafts. Embedded notes, forms, and running headers may remain within rule text; subsection anchors and field-separated notes are not yet reviewed."
+  },
+  "provisions": [
+    {
+      "id": "rid-civil:5",
+      "collectionId": "rid-civil",
+      "districtId": "rid",
+      "number": "5",
+      "citation": "District of Rhode Island · Rule 5",
+      "title": "FORM AND FILING OF DOCUMENTS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-83",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Cv 5 FORM AND FILING OF DOCUMENTS \n(a) Form and Content of Documents. All documents filed in a civil case shall be on 8½\" x 11\" \npaper and shall include the following: \n(1) Captions. Any pleading or other document asserting a claim or counterclaim of any \ntype shall include the full caption showing the names of all parties. Documents filed \nafter a case is docketed shall also include the name, case number and initial(s) of the \njudge to whom the case has been assigned. \n(2) Titles. All documents shall bear a title that concisely states the precise nature of the \ndocument and identifies the party filing it.\n(3) Format; Page Numbering. Unless otherwise provided or ordered by the Court, all \ndocuments shall be double-spaced and typed in at least 12-point font. Footnotes shall \nbe in at least 10-point font and may be single-spaced. Where a document is more \nthan one page in length, the pages shall be numbered at the bottom center of each \npage. \n(4) Jury Demand. Any pleading containing a demand for a jury trial shall set forth the \ndemand to the right of the caption, below the case number. \n(5) Signing of Pleadings. All documents filed on behalf of a party shall be signed by \ncounsel representing the party on whose behalf the document is filed, or in the case of \nparties proceeding pro se, by the party himself or herself. The name, address and \ntelephone number of the individual signing the document shall be typed or printed \nbelow the signature. Documents filed by attorneys also shall bear the attorney’s bar \nnumber, and the name, address, fax number and e-mail address of the attorney’s law \nfirm. \n(b) Civil Cover Sheet. Any person filing a complaint in a civil case or any other document that \nrequires a file to be opened shall contemporaneously file a completed civil cover sheet \ndescribing the type of case and identifying any related case previously filed or pending in this \nCourt. The Clerk may reclassify a case if the cover sheet does not accurately describe its \ntype. Cover sheets shall be provided by the Clerk upon request. \n(1) Related Case. A party initiating a civil case shall identify any cases previously filed \nor pending in this Court on the civil cover sheet that involve: \n (A) some or all of the same parties; and \n (B) the same or substantially similar issues of fact. ",
+          "pages": [
+            82
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-84",
+          "path": [],
+          "type": "paragraph",
+          "text": "U.S. DISTRICT COURT RULES -- RULES APPLICABLE TO CIVIL PROCEEDINGS \n68 \n(2) Ongoing Duty. After the assignment of a civil case pursuant to LR Gen 105, counsel \nshall promptly notify the Court if they identify a related case as defined in LR Cv \n5(b)(1) to avoid unnecessary duplication of judicial effort. \n(c) Filing Fee. Any applicable filing fee prescribed by law shall be paid to the Clerk at the time \nof filing. If payment is made by check, the check shall be made payable to \"Clerk, United \nStates District Court.\" \n(d) Discovery Documents. Unless otherwise ordered by the Court, disclosures made under Fed. \nR. Civ. P. 26(a)(1)-(3), notices of deposition, deposition transcripts, interrogatories, requests \nfor production, requests for admission, and answers and responses thereto, shall not be filed \nwith the Court. The parties in possession of such documents shall be responsible for \npreserving them and making them available for use at trial and/or for other purposes required \nby the Court. \n(e) Subpoenas. Subpoenas, including proofs of service, shall not be filed with the Court, unless \notherwise ordered by the Court or required by the Federal Rules of Civil Procedure. The \nparties in possession of such documents shall be responsible for preserving them and making \nthem available for use at trial and/or for other purposes required by the Court. \n(f) Place for Filing Documents. The original and all copies of any document filed with the \nCourt that is part of the record in a case shall be filed with the Clerk. Such documents shall \nnot be filed in a judge’s chambers, unless otherwise required by these Rules or authorized by \nthat judge. The Clerk will retain and docket original documents and will forward copies to \nthe judicial officer to whom the case has been assigned. \nEffective 4/1/24: §(b) amended. Effective 12/1/17: §(b) amended and comment removed. Effective 12/1/15: §(b) \namended and comment added. Effective 12/1/11: (b) amended. Effective 10/1/09: New §(e) added, and old §(e) \nredesignated §(f). Effective 1/5/09: §(a)(3) amended. Effective 3/17/08: §§(a)(3) and (d) amended. \nCROSS-REFERENCES\nSee LR Cv 5.1 (Proof of Service of Summons and Other Documents), LR Cv 5.2 (Notice by \nPublication), LR Cv 7 (Motions and Other Papers) and LR Cv 56 (Motions for Summary Judgment). \nSee also LR Cr 57 (form and filing of documents and use of cover sheets in criminal cases); and \n28 U.S.C.§1914(a) (governing filing fee for civil actions). ",
+          "pages": [
+            83
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-85",
+          "path": [],
+          "type": "paragraph",
+          "text": "U.S. DISTRICT COURT RULES -- RULES APPLICABLE TO CIVIL PROCEEDINGS \n69 \n",
+          "pages": [
+            84
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "rid-civil-parsed-v1-7f03a8fca5401c94",
+      "sourceDocumentId": "parsed-rid-7f03a8fca5401c94",
+      "sourceUrl": "https://www.rid.uscourts.gov/sites/rid/files/documents/Approved%20Dec%202024%20Rules.pdf",
+      "pageIndex": 82,
+      "pageSpan": [
+        82,
+        84
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "rid-civil:5.1",
+      "collectionId": "rid-civil",
+      "districtId": "rid",
+      "number": "5.1",
+      "citation": "District of Rhode Island · Rule 5.1",
+      "title": "PROOF OF SERVICE OF SUMMONS AND OTHER DOCUMENTS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-85",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Cv 5.1 PROOF OF SERVICE OF SUMMONS AND OTHER DOCUMENTS \n(a) Summons. Unless service is waived, proof of service of a summons must be filed with the \nCourt within 14 days after service is made. Except for service by a United States marshal or \ndeputy marshal, the proof of service must consist of an affidavit by the person who made \nservice certifying:\n(1) the date and manner of service; \n(2) the names of the persons served; and \n(3) the addresses of the persons served. \n(b) Certificates of Service as to Filings Other Than the Summons. Unless a document is \nserved through the ECF system, any document filed after the complaint required to be served \nby other means must contain a certificate of service stating: \n(1) the date and manner of service; \n(2) the names of the persons served; and \n(3) the addresses of the places of delivery, as appropriate for the manner of \nservice. \nThe certificate of service shall be affixed to the documents filed with the Court. \nEffective 12/1/18: §(b) amended. Effective 12/2/13: §(a)(1) amended; and §(a)(2)-(3) and §(b) added. Effective \n1/15/13: §(b) deleted. Effective 12/1/11: §§(b)(2) and (4) amended 12/1/2011. The numerical references in this rule \nwere altered as part of the restyling of numerical references throughout the Local Rules. Effective 1/3/11: §(a)(1) \namended. Effective 10/1/09: §(a)(1) amended. Effective 1/5/09: §(b)(2) amended. \nCROSS-REFERENCES\nSee LR Cv 5 (Form and Filing of Documents) and LR Cv 5.2 (Notice by Publication). \n ",
+          "pages": [
+            84
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-86",
+          "path": [],
+          "type": "paragraph",
+          "text": "U.S. DISTRICT COURT RULES -- RULES APPLICABLE TO CIVIL PROCEEDINGS \n70 \n",
+          "pages": [
+            85
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "rid-civil-parsed-v1-7f03a8fca5401c94",
+      "sourceDocumentId": "parsed-rid-7f03a8fca5401c94",
+      "sourceUrl": "https://www.rid.uscourts.gov/sites/rid/files/documents/Approved%20Dec%202024%20Rules.pdf",
+      "pageIndex": 84,
+      "pageSpan": [
+        84,
+        85
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "rid-civil:5.2",
+      "collectionId": "rid-civil",
+      "districtId": "rid",
+      "number": "5.2",
+      "citation": "District of Rhode Island · Rule 5.2",
+      "title": "NOTICE BY PUBLICATION",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-86",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Cv 5.2 NOTICE BY PUBLICATION\n Whenever notice by publication is required, proof of publication shall be in the form of an \naffidavit that provides: \n(1) a copy of the notice as published; \n(2) the date(s) of publication; and \n(3) the name of the newspaper or other periodical in which the notice was published and \nthe page number on which the notice appeared. ",
+          "pages": [
+            85
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-87",
+          "path": [],
+          "type": "paragraph",
+          "text": "U.S. DISTRICT COURT RULES -- RULES APPLICABLE TO CIVIL PROCEEDINGS \n71 \n",
+          "pages": [
+            86
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "rid-civil-parsed-v1-7f03a8fca5401c94",
+      "sourceDocumentId": "parsed-rid-7f03a8fca5401c94",
+      "sourceUrl": "https://www.rid.uscourts.gov/sites/rid/files/documents/Approved%20Dec%202024%20Rules.pdf",
+      "pageIndex": 85,
+      "pageSpan": [
+        85,
+        86
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "rid-civil:7",
+      "collectionId": "rid-civil",
+      "districtId": "rid",
+      "number": "7",
+      "citation": "District of Rhode Island · Rule 7",
+      "title": "MOTIONS AND OTHER PAPERS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-87",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Cv 7 MOTIONS AND OTHER PAPERS\n(a) In General.\n(1) Request for Relief. A request for a court order must be made by motion. A motion \nmust be in writing unless made during a hearing or trial or if the Court permits \notherwise.\n(2) Contents of a Motion. \n(A) Grounds and Relief Sought. All motions must state with particularity the \ngrounds for seeking an order, the relief sought, and the legal argument \nnecessary to support it. \n(B) Accompanying Documents. A separate memorandum of law need not be \nfiled. However, if a party chooses to file a memorandum of law, it must be \nserved as an attachment to the motion and not as a separate docket entry. \n(3) Response. Any party may file a response to a motion, the contents of which are \ngoverned by LR Cv 7(a)(2). The response must be filed within 14 days after service \nof the motion unless the Court shortens or extends the time. \n(4) Reply to Response. Although the filing of a reply is not required, any reply to a \nresponse must be filed within 7 days after service of the response. A reply shall not \npresent matters that do not relate to the response, or reargue or expand upon the \narguments made in support of the motion. \n(5) Sur-replies. Sur-replies may only be filed with prior leave of Court. \n(b) Record Citations in Administrative Appeals. Any motion, response or reply filed in a case \ninvolving an appeal from the ruling or determination of an administrative tribunal, including \nbut not limited to Social Security disability determinations, shall include all pertinent \ncitations to the administrative record.\n(c) Need for Hearing. All motions and responses shall contain a statement by counsel as to \nwhether oral argument and/or an evidentiary hearing is requested; and, if so, the estimated \ntime that will be required. \nEffective 12/1/17: §(a) amended; §§(b), (c) and (d)(1)-(3) deleted; §(d)(4) redesignated as (b); and §(e) redesignated as \n(c). Effective 12/1/11: The numerical references in this rule were altered as part of the restyling of numerical references \nthroughout the Local Rules. Effective 12/1/09: §§(b)(1) and (b)(2) amended. Effective 1/5/09: Title and §(d)(1) \namended. Effective 3/17/08: §§(b)(1), (b)(2), (c) and (d)(1) amended, and §(d)(4) added. ",
+          "pages": [
+            86
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-88",
+          "path": [],
+          "type": "paragraph",
+          "text": "U.S. DISTRICT COURT RULES -- RULES APPLICABLE TO CIVIL PROCEEDINGS \n72 \nCROSS-REFERENCES \nSee LR Gen 102 (Motions to Seal); LR Cv 37 (Motions to Compel Discovery), LR Cv 56 (Motions \nfor Summary Judgment), LR Cv 72 and LR Cr 57.2 (Objections to Reports and Recommendations); \nLR Cr 12 (Discovery Motions in Criminal Cases); and LR Cr 47 (Motions and Other Papers). \nSee generally Fed. R. Civ. P. 6(a) (computation of time); LR Gen 303 (Special Filing Requirements). \n____________________\n",
+          "pages": [
+            87
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "rid-civil-parsed-v1-7f03a8fca5401c94",
+      "sourceDocumentId": "parsed-rid-7f03a8fca5401c94",
+      "sourceUrl": "https://www.rid.uscourts.gov/sites/rid/files/documents/Approved%20Dec%202024%20Rules.pdf",
+      "pageIndex": 86,
+      "pageSpan": [
+        86,
+        87
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "rid-civil:9",
+      "collectionId": "rid-civil",
+      "districtId": "rid",
+      "number": "9",
+      "citation": "District of Rhode Island · Rule 9",
+      "title": "REQUEST FOR EMERGENCY/EXPEDITED RELIEF",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-88",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Cv 9 REQUEST FOR EMERGENCY/EXPEDITED RELIEF \n OR FOR THREE-JUDGE DISTRICT COURT \nWhen a document is filed containing a request for a temporary restraining order, any other form of \nemergency relief, or the appointment of a three-judge court, such request shall be noted in all capital \nletters on the first page to the right of, or immediately beneath, the case caption, and shall set forth \nthe basis for the request. \nIn addition, the party making the request shall promptly communicate the request to the deputy clerk \nfor the judge to whom the case is assigned. \nEffective 12/1/17: Rule amended. \nCROSS-REFERENCES\nSee LR Cv 7 (Motions and Other Papers).\n____________________\n",
+          "pages": [
+            87
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "rid-civil-parsed-v1-7f03a8fca5401c94",
+      "sourceDocumentId": "parsed-rid-7f03a8fca5401c94",
+      "sourceUrl": "https://www.rid.uscourts.gov/sites/rid/files/documents/Approved%20Dec%202024%20Rules.pdf",
+      "pageIndex": 87,
+      "pageSpan": [
+        87,
+        87
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "rid-civil:9.1",
+      "collectionId": "rid-civil",
+      "districtId": "rid",
+      "number": "9.1",
+      "citation": "District of Rhode Island · Rule 9.1",
+      "title": "NOTICE OF RELATED ACTIONS OR PROCEEDINGS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-88",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Cv 9.1 NOTICE OF RELATED ACTIONS OR PROCEEDINGS\nWhenever a case pending in this Court involves a claim, occurrence, or event which is at issue in a \nproceeding pending before another tribunal, any party or counsel having knowledge of such other \nproceeding shall promptly file a “Notice of Related Proceedings.” Such notice shall identify the \nother proceeding, the tribunal before which it is pending, and the claim, occurrence, or event \npending before that tribunal. ",
+          "pages": [
+            87
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-89",
+          "path": [],
+          "type": "paragraph",
+          "text": "U.S. DISTRICT COURT RULES -- RULES APPLICABLE TO CIVIL PROCEEDINGS \n73 \n",
+          "pages": [
+            88
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "rid-civil-parsed-v1-7f03a8fca5401c94",
+      "sourceDocumentId": "parsed-rid-7f03a8fca5401c94",
+      "sourceUrl": "https://www.rid.uscourts.gov/sites/rid/files/documents/Approved%20Dec%202024%20Rules.pdf",
+      "pageIndex": 87,
+      "pageSpan": [
+        87,
+        88
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "rid-civil:15",
+      "collectionId": "rid-civil",
+      "districtId": "rid",
+      "number": "15",
+      "citation": "District of Rhode Island · Rule 15",
+      "title": "MOTIONS TO AMEND",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-89",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Cv 15 MOTIONS TO AMEND\nA motion to amend a pleading shall be filed in accordance with LR Cv 7, explain how the amended \npleading differs from the original and why the amendment is necessary, and be accompanied by a \ncomplete and signed copy of the proposed amended pleading. If the motion to amend is granted, the \nClerk shall file the proposed amended pleading. \nEffective 12/1/19: Rule amended. Effective 12/1/17: Rule amended. \nCROSS-REFERENCE\nSee LR Cv 7 (Motions and Other Papers). \n____________________ \n",
+          "pages": [
+            88
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "rid-civil-parsed-v1-7f03a8fca5401c94",
+      "sourceDocumentId": "parsed-rid-7f03a8fca5401c94",
+      "sourceUrl": "https://www.rid.uscourts.gov/sites/rid/files/documents/Approved%20Dec%202024%20Rules.pdf",
+      "pageIndex": 88,
+      "pageSpan": [
+        88,
+        88
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "rid-civil:16",
+      "collectionId": "rid-civil",
+      "districtId": "rid",
+      "number": "16",
+      "citation": "District of Rhode Island · Rule 16",
+      "title": "INITIAL SCHEDULING CONFERENCE",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-89",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Cv 16 INITIAL SCHEDULING CONFERENCE \n(a) Initial Scheduling Conference. The initial scheduling conference referred to in Fed. R. Civ. \nP. 16(a) may be conducted by the district judge to whom a case is assigned, or the magistrate \njudge assigned to the case. \n(b) Statement of Claims. At least 7 days before the conference, counsel for each party asserting \na claim (including a counterclaim and/or cross claim) shall file with the Court a brief (2-3 \npage) written statement listing the elements, with a short description of the facts in support \nthereof, that must be proven in order to prevail on that claim or counterclaim. \n(c) Attendance of Counsel. Lead counsel and any local counsel are required to attend the \nconference, unless explicitly excused by the Court prior to the conference. \nEffective 12/1/11: The numerical references in this rule were altered as part of the restyling of numerical references \nthroughout the Local Rules. Effective 1/3/11: §(b) amended. Effective 12/1/09: §(b) amended. Effective 3/17/08: §(b) \n(re: topics to be addressed at scheduling conference) deleted; §(c) amended and redesignated as §(b); §(d) redesignated \nas §(c). \nCROSS-REFERENCES\nSee LR Cv 26 (Discovery). \nSee also LR Gen 206(c)(notices to counsel) and LR 206(d) (designation of lead counsel). ",
+          "pages": [
+            88
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-90",
+          "path": [],
+          "type": "paragraph",
+          "text": "U.S. DISTRICT COURT RULES -- RULES APPLICABLE TO CIVIL PROCEEDINGS \n74 \n",
+          "pages": [
+            89
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "rid-civil-parsed-v1-7f03a8fca5401c94",
+      "sourceDocumentId": "parsed-rid-7f03a8fca5401c94",
+      "sourceUrl": "https://www.rid.uscourts.gov/sites/rid/files/documents/Approved%20Dec%202024%20Rules.pdf",
+      "pageIndex": 88,
+      "pageSpan": [
+        88,
+        89
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "rid-civil:23",
+      "collectionId": "rid-civil",
+      "districtId": "rid",
+      "number": "23",
+      "citation": "District of Rhode Island · Rule 23",
+      "title": "CLASS ACTIONS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-90",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Cv 23 CLASS ACTIONS\nAny pleading asserting a claim by or against a class shall: \n(a) bear, next to the caption, the designation “Class Action”; and \n(b) contain a section entitled “Class Action Allegations” immediately after the allegation \nof jurisdictional grounds, which section shall contain: \n(1) a reference to the specific provision(s) in Rule 23(b) of the Federal Rules of \nCivil Procedure under which it is claimed that the action may be brought as a \nclass action; and \n(2) sufficient allegations to support the claim that the action may be brought as a \nclass action, including but not limited to: \n(A) the number or approximate number of the members of the class; \n(B) a description of who is in the class; \n(C) the basis upon which it is claimed that the party asserting the claim \nwill fairly and adequately protect the interest of the class, or, if the \nclaim is asserted against a class, that the named members of the class \nwill fairly and adequately protect the interests of that class; and \n(D) the questions of law or fact claimed to be common to the class. \nEffective 3/17/08: §(b) amended. ",
+          "pages": [
+            89
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-91",
+          "path": [],
+          "type": "paragraph",
+          "text": "U.S. DISTRICT COURT RULES -- RULES APPLICABLE TO CIVIL PROCEEDINGS \n75 \n",
+          "pages": [
+            90
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "rid-civil-parsed-v1-7f03a8fca5401c94",
+      "sourceDocumentId": "parsed-rid-7f03a8fca5401c94",
+      "sourceUrl": "https://www.rid.uscourts.gov/sites/rid/files/documents/Approved%20Dec%202024%20Rules.pdf",
+      "pageIndex": 89,
+      "pageSpan": [
+        89,
+        90
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "rid-civil:26",
+      "collectionId": "rid-civil",
+      "districtId": "rid",
+      "number": "26",
+      "citation": "District of Rhode Island · Rule 26",
+      "title": "DISCOVERY",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-91",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Cv 26 DISCOVERY\n(a) Discovery Conference. Unless the Court otherwise orders, within 14 days after the last \nanswer or responsive pleading has been filed by all parties against whom claims have been \nasserted, the parties shall confer for the purposes specified by Fed. R. Civ. P. 26(f); provided, \nhowever, that if in lieu of an answer, a motion is filed that, if granted, would dispose of the \nentire case, the time for the parties’ conference may be deferred until not later than 14 days \nafter such answer or pleading is thereafter filed. \n(b) Discovery Plan. Counsel may, but are not required to, present any written discovery plan. \nHowever, counsel shall be prepared to present any discovery plan verbally at the initial Rule \n16 conference. \n(c) Close of Discovery. Unless the Court otherwise orders, pretrial discovery must be \ncompleted by the discovery closure date. However, the parties may agree that specified \ndiscovery which has been initiated before the discovery closure date may be completed \nsubsequent to that date, so long as such completion does not affect the pretrial schedule or \nany trial date established by the Court. \n(d) Requests for Admission. Requests for admission may be served following the discovery \nclosure date with leave of court, upon motion which includes the proposed requests. \n(e) Service of Discovery by Electronic Means. Service of discovery by electronic means is \npermitted.\nEffective 12/2/13: §(e) added. Effective 12/1/11: §(d) added. The numerical references in this rule were altered as part \nof the restyling of numerical references throughout the Local Rules. Effective 1/3/11: §(c) amended. Effective 12/1/09: \n§(a) amended. Effective 3/17/08: §(c) added. \nCROSS-REFERENCES\nSee also LR Cv 5(d) (regarding the filing of discovery documents), LR Cv 16 (initial scheduling \nconference), LR Cv 33 (interrogatories), LR Cv 34 (requests for production), LR Cv 36 \n(admissions), and LR Cv 37 (Motions to Compel Discovery). ",
+          "pages": [
+            90
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-92",
+          "path": [],
+          "type": "paragraph",
+          "text": "U.S. DISTRICT COURT RULES -- RULES APPLICABLE TO CIVIL PROCEEDINGS \n76 \n",
+          "pages": [
+            91
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "rid-civil-parsed-v1-7f03a8fca5401c94",
+      "sourceDocumentId": "parsed-rid-7f03a8fca5401c94",
+      "sourceUrl": "https://www.rid.uscourts.gov/sites/rid/files/documents/Approved%20Dec%202024%20Rules.pdf",
+      "pageIndex": 90,
+      "pageSpan": [
+        90,
+        91
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "rid-civil:30",
+      "collectionId": "rid-civil",
+      "districtId": "rid",
+      "number": "30",
+      "citation": "District of Rhode Island · Rule 30",
+      "title": "DEPOSITIONS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-92",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Cv 30 DEPOSITIONS \n(a) Place of Deposition. Unless the parties otherwise stipulate, the Court hereby orders, \npursuant to Fed. R. Civ. P. 30(b)(4), that the deposition of an individual or entity located \noutside the District of Rhode Island be taken remotely. \nEffective 4/1/24: Rule added. \n____________________ \n",
+          "pages": [
+            91
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "rid-civil-parsed-v1-7f03a8fca5401c94",
+      "sourceDocumentId": "parsed-rid-7f03a8fca5401c94",
+      "sourceUrl": "https://www.rid.uscourts.gov/sites/rid/files/documents/Approved%20Dec%202024%20Rules.pdf",
+      "pageIndex": 91,
+      "pageSpan": [
+        91,
+        91
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "rid-civil:33",
+      "collectionId": "rid-civil",
+      "districtId": "rid",
+      "number": "33",
+      "citation": "District of Rhode Island · Rule 33",
+      "title": "INTERROGATORIES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-92",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Cv 33 INTERROGATORIES\n(a) Filing. Except in connection with motions to compel answers or more responsive answers, \nneither interrogatories nor answers or objections to interrogatories shall be filed with the \nCourt. \n(b) Objections. Each objection and the grounds therefor shall be stated separately under each \nindividual request. When an objection is made to any interrogatory, or sub-part thereof, it \nshall state with specificity all grounds upon which the objecting party relies. Any ground not \nstated in an objection shall be deemed waived. The requirement that the grounds for \nobjecting be stated with specificity under each individual request precludes the consideration \nof any generic general objections. \nEffective 12/1/19: §(b) deleted and §(c) redesignated as (b). Effective 12/1/18: §(c) amended. Effective 1/5/09: §(c) \nadded. \nCROSS-REFERENCES\nSee LR Cv 5(d) (filing of discovery documents), LR Cv 26 (Discovery), and LR Cv 37 (Motions to \nCompel Discovery). ",
+          "pages": [
+            91
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-93",
+          "path": [],
+          "type": "paragraph",
+          "text": "U.S. DISTRICT COURT RULES -- RULES APPLICABLE TO CIVIL PROCEEDINGS \n77 \n",
+          "pages": [
+            92
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "rid-civil-parsed-v1-7f03a8fca5401c94",
+      "sourceDocumentId": "parsed-rid-7f03a8fca5401c94",
+      "sourceUrl": "https://www.rid.uscourts.gov/sites/rid/files/documents/Approved%20Dec%202024%20Rules.pdf",
+      "pageIndex": 91,
+      "pageSpan": [
+        91,
+        92
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "rid-civil:34",
+      "collectionId": "rid-civil",
+      "districtId": "rid",
+      "number": "34",
+      "citation": "District of Rhode Island · Rule 34",
+      "title": "REQUESTS FOR PRODUCTION",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-93",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Cv 34 REQUESTS FOR PRODUCTION\n(a) Filing. Except in connection with motions to compel production, neither requests for \nproduction nor responses or objections thereto shall be filed with the Court. \n(b) Objections. Each objection and the grounds therefor shall be stated separately under each \nindividual request. When an objection is made to any request, or sub-part thereof, it shall \nstate with specificity all grounds upon which the objecting party relies. Any ground not \nstated in an objection shall be deemed waived. The requirement that the grounds for \nobjecting be stated with specificity under each individual request precludes the consideration \nof any generic general objections.\nEffective 12/1/19: §(b) deleted and §(c) redesignated as (b). Effective 12/1/18: §(c) amended. Effective 12/1/11: The \nnumerical references in this rule were altered as part of the restyling of numerical references throughout the Local Rules. \nCROSS-REFERENCES\nSee LR Cv 5(d) (filing of discovery documents), LR Cv 26 (Discovery), and LR Cv 37 (Motions to \nCompel Discovery). \n____________________ \n",
+          "pages": [
+            92
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "rid-civil-parsed-v1-7f03a8fca5401c94",
+      "sourceDocumentId": "parsed-rid-7f03a8fca5401c94",
+      "sourceUrl": "https://www.rid.uscourts.gov/sites/rid/files/documents/Approved%20Dec%202024%20Rules.pdf",
+      "pageIndex": 92,
+      "pageSpan": [
+        92,
+        92
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "rid-civil:36",
+      "collectionId": "rid-civil",
+      "districtId": "rid",
+      "number": "36",
+      "citation": "District of Rhode Island · Rule 36",
+      "title": "REQUESTS FOR ADMISSION",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-93",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Cv 36 REQUESTS FOR ADMISSION \n(a) Filing. Except in connection with motions to compel further responses, neither requests for \nadmissions nor responses or objections to requests for admissions shall be filed with the \nCourt. \n (b) Objections. When an objection is made to any request, or sub-part thereof, it shall state with \nspecificity under each individual request all grounds upon which the objecting party relies. \nAny ground not stated in an objection shall be deemed waived. The requirement that the \ngrounds for objecting be stated with specificity under each individual request precludes the \nconsideration of any generic general objections. \nEffective 12/1/19: §(b) deleted and §(c) amended and redesignated as (b).\nCROSS-REFERENCES\nSee LR Cv 5(d) (filing of discovery documents), LR Cv 26 (Discovery), and LR Cv 37 (Motions to \nCompel Discovery). \n ",
+          "pages": [
+            92
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-94",
+          "path": [],
+          "type": "paragraph",
+          "text": "U.S. DISTRICT COURT RULES -- RULES APPLICABLE TO CIVIL PROCEEDINGS \n78 \n",
+          "pages": [
+            93
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "rid-civil-parsed-v1-7f03a8fca5401c94",
+      "sourceDocumentId": "parsed-rid-7f03a8fca5401c94",
+      "sourceUrl": "https://www.rid.uscourts.gov/sites/rid/files/documents/Approved%20Dec%202024%20Rules.pdf",
+      "pageIndex": 92,
+      "pageSpan": [
+        92,
+        93
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "rid-civil:37",
+      "collectionId": "rid-civil",
+      "districtId": "rid",
+      "number": "37",
+      "citation": "District of Rhode Island · Rule 37",
+      "title": "MOTIONS TO COMPEL DISCOVERY",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-94",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Cv 37 MOTIONS TO COMPEL DISCOVERY\n(a) Form. A motion to compel a response or further response to an interrogatory, request for \nproduction, or request for admission shall state the interrogatory or request, the response \nmade, if any, and the reasons why the movant maintains that the response is inadequate. \nMotions to compel shall comply with the requirements of LR Cv 7. \n(b) Time for Compliance. When a motion to compel discovery is granted, the required \nresponse shall be provided within 21 days or such other time as the Court may order. \nEffective 12/1/11: The numerical references in this rule were altered as part of the restyling of numerical references \nthroughout the Local Rules. Effective 12/1/09: §(b) amended.\nCROSS-REFERENCES\nSee LR Cv 7 (Motions and Other Papers), LR Cv 26 (Discovery), LR Cv 33 (Interrogatories), LR Cv \n34 (Requests for Production) and LR Cv 36 (Requests for Admission). ",
+          "pages": [
+            93
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-95",
+          "path": [],
+          "type": "paragraph",
+          "text": "U.S. DISTRICT COURT RULES -- RULES APPLICABLE TO CIVIL PROCEEDINGS \n79 \n",
+          "pages": [
+            94
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "rid-civil-parsed-v1-7f03a8fca5401c94",
+      "sourceDocumentId": "parsed-rid-7f03a8fca5401c94",
+      "sourceUrl": "https://www.rid.uscourts.gov/sites/rid/files/documents/Approved%20Dec%202024%20Rules.pdf",
+      "pageIndex": 93,
+      "pageSpan": [
+        93,
+        94
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "rid-civil:39",
+      "collectionId": "rid-civil",
+      "districtId": "rid",
+      "number": "39",
+      "citation": "District of Rhode Island · Rule 39",
+      "title": "OPENING STATEMENTS; USE OF RECORDED TESTIMONY;",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-95",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Cv 39 OPENING STATEMENTS; USE OF RECORDED TESTIMONY; \nTIME LIMITS \n(a) Opening Statements. An opening statement shall not be argumentative and shall not exceed \n30 minutes unless otherwise permitted by the Court. Counsel for a defendant may make an \nopening statement either after the opening statement of the plaintiff or after the plaintiff has \nrested. Counsel for a defendant may not make an opening statement after the plaintiff has \nrested unless evidence will be presented on behalf of that defendant.\n(b) Recorded Conversations or Testimony. \n(1) At least 14 days prior to empanelment, counsel for any party that proposes to offer a \nrecorded conversation or any portion thereof as evidence shall furnish the Court and \ncounsel with: \n(A) a chronologically arranged list showing the date of, participants in, and \napproximate playing time of each such recording; and \n(B) a transcript of each such conversation. \n(2) Before offering any recorded conversation, counsel shall edit out footage that \ncontains no audible discussion or contains irrelevant material so that the jury will not \nbe required to listen for protracted periods of time to portions of recordings that \nprovide little or no assistance in determining the pertinent facts. In order to achieve \nthat objective, counsel shall meet and confer, in advance, in an effort to resolve any \ndisputes with respect to editing. \n(3) Within 7 days after such transcripts have been furnished or such other period of time \nas the Court may allow, counsel for any party disputing the audibility, completeness, \nor admissibility of any such recording or the accuracy of such transcript shall file an \nobjection identifying the recording and/or transcript or the particular portion to which \nobjection is being made as well as the nature of and grounds for the objection. In the \ncase of an objection that any portion of a recorded conversation has been omitted, the \nparty making such objection shall set forth the omitted portion(s) of the recording(s) \ntogether with a statement explaining why the omitted portion(s) should be included. \n(4) Any objections to the accuracy or completeness of transcripts shall be accompanied \nby copies of the transcripts objected to on which proposed deletions and corrections \nare noted. \n(5) Any dispute regarding editing and/or the accuracy of transcripts shall be called to the \nCourt’s attention promptly. \n(6) Failure to comply with the provisions of this subsection (b) may be considered by the \nCourt as a waiver by the proponent of the right to offer the recorded conversation(s) \nat issue; or, alternatively, as a waiver of the right to object to admission of the ",
+          "pages": [
+            94
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-96",
+          "path": [],
+          "type": "paragraph",
+          "text": "U.S. DISTRICT COURT RULES -- RULES APPLICABLE TO CIVIL PROCEEDINGS \n80 \nrecorded conversation(s) and/or to dispute the accuracy or completeness of the \ntranscript, as the case may be. \n(c) Time Limits.\n(1) The Court, in its discretion, may limit the time for any trial, hearing, or other \nproceeding, for any argument, or for the examination of any witness or completing \nthe examination of any witness in such manner and upon such terms as may be just \nunder the circumstances. \n(2) Upon request by a party, the Court, in its discretion, may extend any time limits \nestablished pursuant to paragraph (c)(1) of this Rule. In determining whether to \nextend such time limits, the Court may consider: \n(A) whether the party has adequately explained the purposes for which the \nadditional time would be used and why the additional evidence or argument to \nbe presented is essential to fairly decide the matter; \n(B) whether the party has effectively and efficiently made full use of the time \nallocated to that party; and \n(C) any other matters that may be relevant. \nEffective 12/1/11: The numerical references in this rule were altered as part of the restyling of numerical references \nthroughout the Local Rules. Effective 12/1/09: §(b)(1) amended.\nCROSS-REFERENCES\nSee LR Cr 23 (Opening Statements; Use of Recorded Testimony; Time Limits in criminal cases). ",
+          "pages": [
+            95
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-97",
+          "path": [],
+          "type": "paragraph",
+          "text": "U.S. DISTRICT COURT RULES -- RULES APPLICABLE TO CIVIL PROCEEDINGS \n81 \n",
+          "pages": [
+            96
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "rid-civil-parsed-v1-7f03a8fca5401c94",
+      "sourceDocumentId": "parsed-rid-7f03a8fca5401c94",
+      "sourceUrl": "https://www.rid.uscourts.gov/sites/rid/files/documents/Approved%20Dec%202024%20Rules.pdf",
+      "pageIndex": 94,
+      "pageSpan": [
+        94,
+        96
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "rid-civil:39.4",
+      "collectionId": "rid-civil",
+      "districtId": "rid",
+      "number": "39.4",
+      "citation": "District of Rhode Island · Rule 39.4",
+      "title": "SETTLEMENT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-97",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Cv 39.4 SETTLEMENT\n(a) Settlements on Behalf of Minors or Incompetents. In order to obtain court approval of any \nsettlement on behalf of a minor or incompetent, a motion for approval must be filed and \napproved by the Court. Motions for approval shall be accompanied by the following: \n(1) a report from the guardian, guardian ad litem or next friend explaining why the \nproposed settlement is in the best interest of the minor or incompetent and should be \napproved; \n(2) a statement setting forth the terms of the settlement and precisely how and to whom \nthe settlement proceeds will be distributed, including the amounts to be paid to \ncounsel as fees and/or reimbursement for expenses incurred; \n(3) a copy of any settlement agreement and/or release that is to be executed on behalf of \nthe minor or incompetent; \n(4) an explanation as to how the proceeds payable to the minor or incompetent are to be \nsafeguarded to ensure that they will be applied to his or her benefit; \n(5) a copy of any trust or other document establishing the method by which the funds \npayable to the minor or incompetent will be safeguarded to ensure that any amounts \npayable to the minor or incompetent will be applied for the minor’s or incompetent’s \nbenefit; and \n(6) in personal injury cases, a complete description of the injuries sustained, whether any \nof them are permanent, copies of all relevant medical reports, and an itemized \nstatement of all past and future medical expenses that may have been or are likely to \nbe incurred. \nThe documents referred to in paragraphs (4) - (6) may be filed under seal if necessary to \nsafeguard the privacy of the minor or incompetent person. \nEffective 12/1/19: §(a)-(b) deleted; §(c) redesignated as (a). Effective 12/1/11: The numerical references in this rule \nwere altered as part of the restyling of numerical references throughout the Local Rules. Effective 12/1/09: §§(a) and (b) \namended. \nCROSS-REFERENCES\nSee LR Cv 54 (Costs) and LR Gen 102 (filing of documents containing confidential information). ",
+          "pages": [
+            96
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-98",
+          "path": [],
+          "type": "paragraph",
+          "text": "U.S. DISTRICT COURT RULES -- RULES APPLICABLE TO CIVIL PROCEEDINGS \n82 \n",
+          "pages": [
+            97
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "rid-civil-parsed-v1-7f03a8fca5401c94",
+      "sourceDocumentId": "parsed-rid-7f03a8fca5401c94",
+      "sourceUrl": "https://www.rid.uscourts.gov/sites/rid/files/documents/Approved%20Dec%202024%20Rules.pdf",
+      "pageIndex": 96,
+      "pageSpan": [
+        96,
+        97
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "rid-civil:41",
+      "collectionId": "rid-civil",
+      "districtId": "rid",
+      "number": "41",
+      "citation": "District of Rhode Island · Rule 41",
+      "title": "DISMISSALS FOR LACK OF PROSECUTION",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-98",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Cv 41 DISMISSALS FOR LACK OF PROSECUTION\nThe Court may issue an order to show cause at any time as to why the case should not be dismissed \nfor lack of prosecution. If good cause is not shown within the time prescribed by the show cause \norder, the Court may dismiss the case. \nEffective 12/1/19: Rule amended. \nCROSS-REFERENCES\nSee LR Cv 5.1 (Proof of Service of Summons and Other Documents). ",
+          "pages": [
+            97
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-99",
+          "path": [],
+          "type": "paragraph",
+          "text": "U.S. DISTRICT COURT RULES -- RULES APPLICABLE TO CIVIL PROCEEDINGS \n83 \n",
+          "pages": [
+            98
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "rid-civil-parsed-v1-7f03a8fca5401c94",
+      "sourceDocumentId": "parsed-rid-7f03a8fca5401c94",
+      "sourceUrl": "https://www.rid.uscourts.gov/sites/rid/files/documents/Approved%20Dec%202024%20Rules.pdf",
+      "pageIndex": 97,
+      "pageSpan": [
+        97,
+        98
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "rid-civil:47",
+      "collectionId": "rid-civil",
+      "districtId": "rid",
+      "number": "47",
+      "citation": "District of Rhode Island · Rule 47",
+      "title": "EMPANELMENT OF AND COMMUNICATION WITH JURORS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-99",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Cv 47 EMPANELMENT OF AND COMMUNICATION WITH JURORS \n(a) In General. Jury empanelment shall be conducted in the manner determined by the \npresiding judicial officer and prescribed by any applicable statutes or rules of civil procedure. \n(b) Voir Dire Questions. If and when directed by the Court, counsel shall submit a list of any \nquestions that counsel requests the Court to ask prospective jurors during voir dire \nexamination. Proposed questions for the jury voir dire shall be served and submitted to the \nCourt at least 5 days prior to empanelment. \n(c) Challenges. Challenges of individual prospective jurors for cause shall be made on the \nrecord but out of the hearing of the other prospective jurors. At the discretion of the Court, \nchallenges may be made orally or by executing challenge slips and presenting them to the \nClerk. \n(1) Unless the Court otherwise orders, in any case in which there is a single plaintiff and \na single defendant entitled to an equal number of peremptory challenges, the \nchallenges shall be exercised alternately and one by one, with the plaintiff exercising \nthe first challenge. \n(2) In any other case, the order of challenges shall be determined by the Court. \n(d) Communication with Jurors. Unless otherwise permitted by the Court, no attorney, party, \nor agent of an attorney or party shall communicate directly or indirectly with a juror during \nor after the trial of a case.\nEffective 12/1/11: The numerical references in this rule were altered as part of the restyling of numerical references \nthroughout the Local Rules. Effective 12/1/09: §(b) amended.\nCROSS-REFERENCES\nSee LR Gen 107.1(g) (transcripts of petit jury empanelments), and LR Cr 24 (Empanelment of and \nCommunication with Jurors in criminal cases).\nAs to restrictions on communications with jurors, see United States v. O’Brien, 972 F.2d 12 (1st Cir. \n1992)(unauthorized communications between persons associated with case and jurors deemed \npresumptively prejudicial) and United States v. Kepreos, 759 F.2d 961 (1st Cir.), cert. denied 474 \nU.S. 901 (1985)(post-verdict communications with jurors prohibited unless under supervision of \ncourt in extraordinary circumstances). ",
+          "pages": [
+            98
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-100",
+          "path": [],
+          "type": "paragraph",
+          "text": "U.S. DISTRICT COURT RULES -- RULES APPLICABLE TO CIVIL PROCEEDINGS \n84 \n",
+          "pages": [
+            99
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "rid-civil-parsed-v1-7f03a8fca5401c94",
+      "sourceDocumentId": "parsed-rid-7f03a8fca5401c94",
+      "sourceUrl": "https://www.rid.uscourts.gov/sites/rid/files/documents/Approved%20Dec%202024%20Rules.pdf",
+      "pageIndex": 98,
+      "pageSpan": [
+        98,
+        99
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "rid-civil:51",
+      "collectionId": "rid-civil",
+      "districtId": "rid",
+      "number": "51",
+      "citation": "District of Rhode Island · Rule 51",
+      "title": "WAIVER OF JURY INSTRUCTIONS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-100",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Cv 51 WAIVER OF JURY INSTRUCTIONS \nThe failure to submit a request for instructions or an objection to a requested instruction in \naccordance with the orders of the Court may be deemed a waiver of the right to make such request or \nobjection and/or a waiver of any claim or defense for which no request was submitted. \nCROSS-REFERENCES \nSee LR Cv 5(a)(4) (demand for jury trial). \n \n____________________ \n",
+          "pages": [
+            99
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "rid-civil-parsed-v1-7f03a8fca5401c94",
+      "sourceDocumentId": "parsed-rid-7f03a8fca5401c94",
+      "sourceUrl": "https://www.rid.uscourts.gov/sites/rid/files/documents/Approved%20Dec%202024%20Rules.pdf",
+      "pageIndex": 99,
+      "pageSpan": [
+        99,
+        99
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "rid-civil:53",
+      "collectionId": "rid-civil",
+      "districtId": "rid",
+      "number": "53",
+      "citation": "District of Rhode Island · Rule 53",
+      "title": "ADR REFERRALS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-100",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Cv 53 ADR REFERRALS\nReferrals of cases for alternative dispute resolution proceedings shall be in accordance with the \nCourt’s Alternative Dispute Resolution Plan, which Plan is hereby incorporated in these Rules. ",
+          "pages": [
+            99
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-101",
+          "path": [],
+          "type": "paragraph",
+          "text": "U.S. DISTRICT COURT RULES -- RULES APPLICABLE TO CIVIL PROCEEDINGS \n85 \n",
+          "pages": [
+            100
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "rid-civil-parsed-v1-7f03a8fca5401c94",
+      "sourceDocumentId": "parsed-rid-7f03a8fca5401c94",
+      "sourceUrl": "https://www.rid.uscourts.gov/sites/rid/files/documents/Approved%20Dec%202024%20Rules.pdf",
+      "pageIndex": 99,
+      "pageSpan": [
+        99,
+        100
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "rid-civil:54",
+      "collectionId": "rid-civil",
+      "districtId": "rid",
+      "number": "54",
+      "citation": "District of Rhode Island · Rule 54",
+      "title": "COSTS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-101",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Cv 54 COSTS \n(a) Timing of Request. Within 14 days after entry of judgment, a party seeking an award of \ncosts shall file and serve on all other parties a bill of costs. Failure to file a bill of costs \nwithin that time shall constitute a waiver of any claim for costs unless the Court otherwise \norders, for good cause shown. \n(b) Form of Request.\n(1) A bill of costs shall be prepared on forms provided by the Clerk’s Office and shall \nspecify each item of costs claimed. \n(2) A bill of costs shall be supported by a memorandum of law and an affidavit that: \n(A) the amounts listed in the bill of costs are correct; and \n(B) all services reflected in the bill of costs were actually performed and were \nnecessary to the presentation of the applicant’s case; and \n(C) all disbursements reflected in the bill of costs represent obligations actually \nincurred and necessary to the presentation of the applicant’s case; and \n(D) all costs are properly claimed and allowable. \n(c) Taxation by Clerk. The taxation of costs shall be in accordance with Fed. R. Civ. P. \n54(d)(1). The Clerk shall notify all parties of the costs allowed. \n(d) Motion to Review the Clerk’s Action. The taxation of costs by the Clerk shall be final \nunless modified by the Court. Any challenge to the costs taxed by the Clerk shall be in the \nform of a motion, which motion shall be served and filed within 7 days after notification \npursuant to subsection (c) of this Rule, and shall state the reason for the challenge and the \nauthorities upon which the moving party relies. Within 7 days of the filing of the motion, \nany party objecting to the motion may file a response. \n(e) Resolution of Motion. Within 14 days after a motion to review the Clerk’s action is filed, \nall interested parties shall meet and confer in an effort to resolve the motion. The meeting \nshall be initiated by the moving party, who shall notify the Court promptly as to whether the \nissues have been resolved. If all issues have been resolved, the parties shall promptly submit \na proposed order. If all issues have not been resolved, the Court will make a final \ndetermination with respect to the taxation of costs. \nEffective 12/1/17: §(d) amended. Effective 12/1/16: §(c) amended. Effective 12/1/11: The numerical references in this \nrule were altered as part of the restyling of numerical references throughout the Local Rules. Effective 1/3/11: §§(a)-(e) \namended. Effective 6/16/10: Notice of Errata correcting §§(a), (d), and (e). Effective 12/1/09: §§(a), (d), and (e) \namended. \nCROSS-REFERENCES\nSee 28 U.S.C. §1924 (affidavit in support of each item of costs). See also LR Cv 54.1 (Attorneys’ \nFees); LR Cv 62 (Bonds); and LR Cv 65.1 (Security and Sureties). ",
+          "pages": [
+            100
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-102",
+          "path": [],
+          "type": "paragraph",
+          "text": "U.S. DISTRICT COURT RULES -- RULES APPLICABLE TO CIVIL PROCEEDINGS \n86 \n",
+          "pages": [
+            101
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "rid-civil-parsed-v1-7f03a8fca5401c94",
+      "sourceDocumentId": "parsed-rid-7f03a8fca5401c94",
+      "sourceUrl": "https://www.rid.uscourts.gov/sites/rid/files/documents/Approved%20Dec%202024%20Rules.pdf",
+      "pageIndex": 100,
+      "pageSpan": [
+        100,
+        101
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "rid-civil:55",
+      "collectionId": "rid-civil",
+      "districtId": "rid",
+      "number": "55",
+      "citation": "District of Rhode Island · Rule 55",
+      "title": "DEFAULT AND DEFAULT JUDGMENT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-102",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Cv 55 DEFAULT AND DEFAULT JUDGMENT\n(a) Default. The Clerk shall enter a default upon an application by a party that conforms to the \nrequirements of Fed. R. Civ. P. 55(a). \n(b) Default Judgment. Not less than 14 days after filing of a motion for entry of default \njudgment made against a party not represented by counsel, the moving party shall file with \nthe Court a certification that: \n(1) The party against whom a default judgment is sought is not in the military service of \nthe United States as defined by the Servicemembers Civil Relief Act of 2003, as \namended; and \n(2) Notice of the motion was sent to the party against whom the judgment is sought by \nfirst class mail and certified mail, return receipt requested, at the address where the \nparty was served with process, and the party’s last known address, if different. The \ncertificate shall include the return receipt, or, if unavailable, a statement of the \nmeasures taken to attempt service and verify receipt by the defaulted party. \nEffective 12/1/16: §§(a), (b), and (c) deleted; new §§(a) and (b) added. Effective 12/2/13: §(c) amended. \nCROSS-REFERENCE\nSee LR Cv 5.2 (Notice by Publication). ",
+          "pages": [
+            101
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-103",
+          "path": [],
+          "type": "paragraph",
+          "text": "U.S. DISTRICT COURT RULES -- RULES APPLICABLE TO CIVIL PROCEEDINGS \n87 \n",
+          "pages": [
+            102
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "rid-civil-parsed-v1-7f03a8fca5401c94",
+      "sourceDocumentId": "parsed-rid-7f03a8fca5401c94",
+      "sourceUrl": "https://www.rid.uscourts.gov/sites/rid/files/documents/Approved%20Dec%202024%20Rules.pdf",
+      "pageIndex": 101,
+      "pageSpan": [
+        101,
+        102
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "rid-civil:56",
+      "collectionId": "rid-civil",
+      "districtId": "rid",
+      "number": "56",
+      "citation": "District of Rhode Island · Rule 56",
+      "title": "MOTIONS FOR SUMMARY JUDGMENT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-103",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Cv 56 MOTIONS FOR SUMMARY JUDGMENT\n(a) Statement of Undisputed Facts.\n(1) A motion for summary judgment shall be accompanied by a separate Statement of \nUndisputed Facts that concisely sets forth all facts that the movant contends are \nundisputed and entitle the movant to judgment as a matter of law. \n(2) The Statement of Undisputed Facts shall be a separate filing, not an attachment to the \nmotion for summary judgment. Each “fact” shall be set forth in a separate, numbered \nparagraph and shall identify the evidence establishing that fact, including the page \nand line of any document to which reference is made, unless opposing counsel has \nexpressly acknowledged that the fact is undisputed. \n(3) For purposes of a motion for summary judgment, any fact alleged in the movant’s \nStatement of Undisputed Facts shall be deemed admitted unless expressly denied or \notherwise controverted by a party objecting to the motion. An objecting party that is \ncontesting the movant’s Statement of Undisputed Facts shall file a Statement of \nDisputed Facts, which shall be numbered correspondingly to the Statement of \nUndisputed Facts, and which shall identify the evidence establishing the dispute, in \naccordance with the requirements of paragraph (a)(2). \n(4) If an objecting party contends that there are additional undisputed facts not contained \nin the moving party’s statement of undisputed facts which preclude summary \njudgment, that party shall file a separate Statement of Undisputed Facts setting forth \nsuch additional undisputed facts. Such statement shall be prepared in accordance \nwith the requirements of paragraph (a)(2), except that the additional undisputed facts \nshall be numbered consecutively to the moving party’s undisputed facts. \n(5) If an objecting party files a separate statement of additional undisputed facts and the \nmovant contests any of those facts, the movant shall file a separate statement setting \nforth what additional facts are disputed, numbered correspondingly to the opposing \nparty's additional undisputed facts, at the same time it files its reply pursuant to LR \nCv 7. \n(b) Supporting Documents. Unless otherwise requested or permitted by the Court, only the \nrelevant portion(s) of documents submitted in support of or in opposition to a motion for \nsummary judgment shall be included in the attachments. \n(c) Successive Motions. No party shall file more than one motion for summary judgment unless \nthe Court otherwise permits for good cause shown. \n(d) Objections and Replies. The timing and filing of objections and replies in connection with \nmotions for summary judgment shall be governed by LR Cv 7, unless otherwise directed by \nthe Court. ",
+          "pages": [
+            102
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-104",
+          "path": [],
+          "type": "paragraph",
+          "text": "U.S. DISTRICT COURT RULES -- RULES APPLICABLE TO CIVIL PROCEEDINGS \n88 \nEffective 12/1/17: §(a)(1),(2), and (5) amended. Effective 1/3/11: §(d) added. Effective 1/5/09: §§(a)(2) and (a)(4) \namended; §(a)(5) added. Effective 4/10/08: §§(a)(1) and (a)(4) amended. Effective 3/17/08: §§(a)(3) and (a)(4) \namended. \nCROSS-REFERENCE \nSee LR Cv 7 (Motions and Other Papers). \n____________________\n",
+          "pages": [
+            103
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "rid-civil-parsed-v1-7f03a8fca5401c94",
+      "sourceDocumentId": "parsed-rid-7f03a8fca5401c94",
+      "sourceUrl": "https://www.rid.uscourts.gov/sites/rid/files/documents/Approved%20Dec%202024%20Rules.pdf",
+      "pageIndex": 102,
+      "pageSpan": [
+        102,
+        103
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "rid-civil:58.1",
+      "collectionId": "rid-civil",
+      "districtId": "rid",
+      "number": "58.1",
+      "citation": "District of Rhode Island · Rule 58.1",
+      "title": "SATISFACTION OF JUDGMENTS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-104",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Cv 58.1 SATISFACTION OF JUDGMENTS\n(a) Entry by Clerk. Satisfaction of a money judgment shall be entered by the clerk without \norder of the court: \n(1) upon payment into Court of the amount of the judgment, plus any costs taxed, interest \nadded, and any fees due; \n(2) upon the filing of a satisfaction of judgment by the judgment creditor, or the \ncreditor’s attorney; \n(3) if the judgment is in favor of the United States, upon the filing of a satisfaction of \njudgment executed by the United States Attorney; or \n(4) upon registration of a certified copy of a satisfaction of judgment entered in another \ndistrict court. \n(b) Payment Into Court. When satisfaction is made by payment of money into court, that fact \nshall be noted in the entry of satisfaction. \nCROSS-REFERENCE \nSee LR Cv 69 (Writs of Execution; Related Proceedings) ",
+          "pages": [
+            103
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-105",
+          "path": [],
+          "type": "paragraph",
+          "text": "U.S. DISTRICT COURT RULES -- RULES APPLICABLE TO CIVIL PROCEEDINGS \n89 \n",
+          "pages": [
+            104
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "rid-civil-parsed-v1-7f03a8fca5401c94",
+      "sourceDocumentId": "parsed-rid-7f03a8fca5401c94",
+      "sourceUrl": "https://www.rid.uscourts.gov/sites/rid/files/documents/Approved%20Dec%202024%20Rules.pdf",
+      "pageIndex": 103,
+      "pageSpan": [
+        103,
+        104
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "rid-civil:62",
+      "collectionId": "rid-civil",
+      "districtId": "rid",
+      "number": "62",
+      "citation": "District of Rhode Island · Rule 62",
+      "title": "BONDS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-105",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Cv 62 BONDS\nUnless the Court otherwise orders, a bond staying execution of a money judgment shall be in the \namount of the judgment, plus an additional 10% of that amount to cover interest and any award for \ndelay, plus an amount established by law or directed by the Court to cover costs. \nEffective 12/1/19: Rule amended to remove the word “supersedeas.” Effective 12/1/11: The numerical references in this \nrule were altered as part of the restyling of numerical references throughout the Local Rules. \nCROSS-REFERENCE\nSee LR Cv 54 (Costs) and LR Cv 65.1 (Security and Sureties). ",
+          "pages": [
+            104
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-106",
+          "path": [],
+          "type": "paragraph",
+          "text": "U.S. DISTRICT COURT RULES -- RULES APPLICABLE TO CIVIL PROCEEDINGS \n90 \n",
+          "pages": [
+            105
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "rid-civil-parsed-v1-7f03a8fca5401c94",
+      "sourceDocumentId": "parsed-rid-7f03a8fca5401c94",
+      "sourceUrl": "https://www.rid.uscourts.gov/sites/rid/files/documents/Approved%20Dec%202024%20Rules.pdf",
+      "pageIndex": 104,
+      "pageSpan": [
+        104,
+        105
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "rid-civil:65.1",
+      "collectionId": "rid-civil",
+      "districtId": "rid",
+      "number": "65.1",
+      "citation": "District of Rhode Island · Rule 65.1",
+      "title": "SECURITY AND SURETIES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-106",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Cv 65.1 SECURITY AND SURETIES\n(a) Security. Except as otherwise provided by law or by order of the Court, a bond or similar \nundertaking must be secured by: \n(1) the deposit of cash or obligations of the United States in the amount of the bond; or \n(2) the guaranty of a company or corporation holding a certificate of authority from the \nSecretary of the Treasury pursuant to 31 U.S.C. § 9304 et seq; or \n(3) the guaranty of an individual resident of this District who owns and pledges as \nsecurity real property in which such individual has equity that exceeds the amount of \nthe bond. \n(b) Individual Sureties. An individual acting as surety pursuant to paragraph (a)(3) of this rule \nshall execute and file an affidavit that includes: \n(1) the individual's full name, occupation, and residential and business addresses; and \n(2) a statement that the affiant will not encumber or dispose of the property while the \nbond remains in effect; and \n(3) a statement from the clerk of the city or town wherein the property is located setting \nforth the assessed value of the property, or, alternatively, an appraisal by a licensed \nappraiser; and \n(4) a title report from a member of the bar of the state in which the property is located \ncertifying that such individual is the record owner of the property and listing the \namount(s) of all liens and mortgages on the property, including all but the current \nyear's real estate taxes. \n(c) Members of the Bar and Court Officers Ineligible. No member of the bar or officer or \nemployee of the Court may be surety or guarantor of any bond or undertaking in any \nproceeding in this Court. \n(d) Execution of Bond. Except as otherwise provided by law, it shall be sufficient if a bond or \nsimilar undertaking is executed by the surety or sureties alone, and not by the party on whose \nbehalf such security is provided. \n(e) Approval of Bond. Except as otherwise provided by law, the Clerk may approve a bond the \namount of which has been fixed by the Court or by statute or rule and which is secured in the \nmanner provided by subsections (a)(1) - (a)(3) of this Rule. ",
+          "pages": [
+            105
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-107",
+          "path": [],
+          "type": "paragraph",
+          "text": "U.S. DISTRICT COURT RULES -- RULES APPLICABLE TO CIVIL PROCEEDINGS \n91 \n(f) Service. The party on whose behalf a bond is given shall promptly after approval and filing \nof the bond serve a copy of it on all other parties to the proceeding. \n(g) Modification of Bond. The amount or terms of a bond or similar undertaking may be \nchanged at any time as justice requires, by order of the Court on its own motion or on motion \nof a party. \nCROSS-REFERENCES\nSee LR Cv 62 (Bonds) and LR Cv 65.2 (Security for Costs). \n___________________\n",
+          "pages": [
+            106
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "rid-civil-parsed-v1-7f03a8fca5401c94",
+      "sourceDocumentId": "parsed-rid-7f03a8fca5401c94",
+      "sourceUrl": "https://www.rid.uscourts.gov/sites/rid/files/documents/Approved%20Dec%202024%20Rules.pdf",
+      "pageIndex": 105,
+      "pageSpan": [
+        105,
+        106
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "rid-civil:65.2",
+      "collectionId": "rid-civil",
+      "districtId": "rid",
+      "number": "65.2",
+      "citation": "District of Rhode Island · Rule 65.2",
+      "title": "SECURITY FOR COSTS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-107",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Cv 65.2 SECURITY FOR COSTS\n(a) Security for Costs. The Court may require any party to furnish security for costs in an \namount and on such terms as are just. The Court may modify an order to furnish security for \ncosts at any time. \n(b) Failure to Furnish Security. The failure of a party to furnish security for costs, after being \ndirected to do so, may be grounds for an involuntary dismissal under Fed. R. Civ. P. 41(b), or \nan entry of default under Fed. R. Civ. P. 55.\nCROSS-REFERENCES\nSee LR Cv 54 (Costs) and 65.1 (Security and Sureties). \n ",
+          "pages": [
+            106
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-108",
+          "path": [],
+          "type": "paragraph",
+          "text": "U.S. DISTRICT COURT RULES -- RULES APPLICABLE TO CIVIL PROCEEDINGS \n92 \n",
+          "pages": [
+            107
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "rid-civil-parsed-v1-7f03a8fca5401c94",
+      "sourceDocumentId": "parsed-rid-7f03a8fca5401c94",
+      "sourceUrl": "https://www.rid.uscourts.gov/sites/rid/files/documents/Approved%20Dec%202024%20Rules.pdf",
+      "pageIndex": 106,
+      "pageSpan": [
+        106,
+        107
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "rid-civil:67",
+      "collectionId": "rid-civil",
+      "districtId": "rid",
+      "number": "67",
+      "citation": "District of Rhode Island · Rule 67",
+      "title": "DEPOSIT AND WITHDRAWAL OF FUNDS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-108",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Cv 67 DEPOSIT AND WITHDRAWAL OF FUNDS \n(a) Receipt of Funds.\n(1) Court Order Required. No funds shall be sent to the Court or its officers for \ndeposit into the registry of the Court without an order signed by the presiding judge. \nThe party making the deposit shall serve the order permitting the deposit or transfer \non the Clerk of Court. \n(2) Deposit with the Treasurer of the United States. Unless otherwise ordered, all \nfunds ordered to be paid to the Court or its officers shall be deposited with the \nTreasurer of the United States in the name and to the credit of this Court pursuant to \n28 U.S.C. §2041 through the depositories designated by the Treasury to accept such \ndeposit on its behalf.\n(b) Investment of Registry Funds. \n(1) Court Registry Investment System (CRIS). Unless otherwise ordered, funds on \ndeposit with the Court ordered to be placed in some form of interest-bearing account \nin accordance with Fed. R. Civ. P. 67 will be placed in the Court Registry Investment \nSystem (CRIS) administered through the Administrative Office of the United States \nCourts. The Director of the Administrative Office of the United States Courts is \ndesignated as custodian for all CRIS funds. \n Deposits made with the CRIS will be pooled with those on deposit with the Treasury \nto the credit of other courts in the CRIS and used to purchase Government Account \nSeries securities through the Bureau of Public Debt, which will be held at the \nTreasury in an account in the name and to the credit of the Director of the \nAdministrative Office of the United States Courts. \n(2) Interest-Bearing Funds. A separate account for each case will be established in the \nCRIS Liquidity Fund titled in the name of the case giving rise to the investment in the \nfund. Income generated from fund investments will be distributed to each case based \nupon the ratio each account's principal and earnings has to the aggregate principal and \nincome total in the fund after the CRIS maintenance fee described in (c) has been \napplied. Reports showing the interest earned and the principal amounts contributed in \neach case will be prepared and distributed to each court participating in the CRIS and \nmade available to litigants and/or their counsel. \n(3) Interpleader Funds. Interpleader funds deposited under 28 U.S.C. §1335 are \nconsidered a “Disputed Ownership Fund” (DOF), a taxable entity that requires tax \nadministration. Unless otherwise ordered by the Court, interpleader funds shall be \ndeposited in the DOF established within the CRIS. The custodian shall be \nresponsible for meeting all DOF tax administration requirements, and is authorized \nand directed to deduct the DOF fee on assets on deposit in the DOF for management \nof investments and tax administration. The custodian is further authorized and \ndirected to withhold and pay federal taxes due on behalf of the DOF. ",
+          "pages": [
+            107
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-109",
+          "path": [],
+          "type": "paragraph",
+          "text": "U.S. DISTRICT COURT RULES -- RULES APPLICABLE TO CIVIL PROCEEDINGS \n93 \n For each interpleader case, an account shall be established in the CRIS Disputed \nOwnership Fund, titled in the name of the case giving rise to the deposit invested in \nthe fund. Income generated from fund investments will be distributed to each case \nafter the DOF fee described in (c) has been applied and tax withholdings have been \ndeducted from the fund. Reports showing the interest earned and the principal \namounts contributed in each case will be available through the FedInvest/CMS \napplication for each court participating in the CRIS and made available to litigants \nand/or their counsel. On appointment of an administrator authorized to incur expenses \non behalf of the DOF in a case, the case DOF funds should be transferred to another \ninvestment account directed by court order. \n(c) Maintenance of Interest-Bearing Funds \n(1) Non-DOF Maintenance Fees. The custodian is authorized and directed to deduct a \nfee of an annualized 10 basis points on assets on deposit for all CRIS funds, \nexcluding the case funds held in the DOF, for the management of investments in the \nCRIS. The fee is assessed from interest earnings to the pool before a pro rata \ndistribution of earnings is made to individual accounts. \n (2) DOF Maintenance Fees. The custodian is authorized and directed to deduce the \nDOF fee of an annualized 20 basis points on assets on deposit in the DOF for \nmanagement of investments and tax administration. The DOF fee is assessed from \ninterest earning to the pool before a pro rata distribution of earnings is made to \nindividual accounts. \n(d) Disbursement of Funds. \n(1) Disbursement of Interest Bearing Funds. No interest-bearing funds may be paid \nout of the registry except by order of the Court. The custodian shall disburse all \nregistry principal and income, if applicable, less the registry fee assessment, pursuant \nto the Court’s order. Any such order shall set forth the funds in question and name(s) \nof the payee(s). \n(2) Disbursement of Non-Interest Bearing Funds. No non-interest bearing funds may \nbe paid out of the registry except by order of the Court. Any such order shall set forth \nthe funds in question and name(s) of the payee(s).\nEffective 12/1/17: §(a)(1)-(2) amended, and §(a)(3) deleted; §§(b)-(c) amended; and new §(d) added. Effective 12/1/11: \n§(c) amended. Effective 3/17/08: §(b) amended. \nCROSS-REFERENCES \nSee LR Cv 7 (Motions and Other Papers). \nSee also 28 U.S.C. §§2041-2043 (deposit and withdrawal of court registry funds). ",
+          "pages": [
+            108
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-110",
+          "path": [],
+          "type": "paragraph",
+          "text": "U.S. DISTRICT COURT RULES -- RULES APPLICABLE TO CIVIL PROCEEDINGS \n94 \n",
+          "pages": [
+            109
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "rid-civil-parsed-v1-7f03a8fca5401c94",
+      "sourceDocumentId": "parsed-rid-7f03a8fca5401c94",
+      "sourceUrl": "https://www.rid.uscourts.gov/sites/rid/files/documents/Approved%20Dec%202024%20Rules.pdf",
+      "pageIndex": 107,
+      "pageSpan": [
+        107,
+        109
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "rid-civil:69",
+      "collectionId": "rid-civil",
+      "districtId": "rid",
+      "number": "69",
+      "citation": "District of Rhode Island · Rule 69",
+      "title": "WRITS OF EXECUTION",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-110",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Cv 69 WRITS OF EXECUTION\n(a) Execution. Except where stayed by statute, rule or order of the Court, a party in whose favor \njudgment has been entered may execute on the judgment 14 days after judgment has been \nentered on a form provided by the Clerk’s Office. \n(b) Requests for Writ of Execution. A request for a writ of execution shall be accompanied by \nan affidavit that states: \n(1) the amount due on the judgment and an explanation of how that amount has been \ncalculated; \n(2) that a demand for payment has been made and refused; and \n(3) what efforts have been made to recover the judgment. \n(c) Return of Execution. An officer to whom a writ of execution is delivered shall make return \nthereon to the clerk within the time prescribed in the writ unless the Court otherwise directs. \nIf no time is prescribed, the return shall be made immediately after execution or, if execution \nis not made, within 60 days after delivery. \nWhen a sale is made pursuant to a writ of execution, the return shall be made within 30 days \nafter the sale unless a different time is prescribed by law or by the Court. \nEffective 12/1/11: The numerical references in this rule were altered as part of the restyling of numerical references \nthroughout the Local Rules. Effective 1/3/11: §(a) amended. Effective 12/1/09: §(a) amended. \nCROSS-REFERENCE\nSee LR Cv 58.1 (Satisfaction of Judgments). ",
+          "pages": [
+            109
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-111",
+          "path": [],
+          "type": "paragraph",
+          "text": "U.S. DISTRICT COURT RULES -- RULES APPLICABLE TO CIVIL PROCEEDINGS \n95 \n",
+          "pages": [
+            110
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "rid-civil-parsed-v1-7f03a8fca5401c94",
+      "sourceDocumentId": "parsed-rid-7f03a8fca5401c94",
+      "sourceUrl": "https://www.rid.uscourts.gov/sites/rid/files/documents/Approved%20Dec%202024%20Rules.pdf",
+      "pageIndex": 109,
+      "pageSpan": [
+        109,
+        110
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "rid-civil:72",
+      "collectionId": "rid-civil",
+      "districtId": "rid",
+      "number": "72",
+      "citation": "District of Rhode Island · Rule 72",
+      "title": "AUTHORITY OF MAGISTRATE JUDGES IN CIVIL CASES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-111",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Cv 72 AUTHORITY OF MAGISTRATE JUDGES IN CIVIL CASES \n(a) Authority and Duties. A full-time or recalled magistrate judge shall perform any duties \nassigned by the Court or by a district judge and, in doing so, may exercise all powers \nconferred upon full-time magistrate judges pursuant to 28 U.S.C. § 636. \n(b) Vacating Referrals. A district judge who has referred any matter to a magistrate judge may, \nin his or her discretion, vacate the reference at any time. \n(c) Objections to Rulings on Nondispositive Matters.\n(1) Time for Objections; Failure to File. An objection to an order or other ruling by a \nmagistrate judge in a nondispositive matter referred under Fed. R. Civ. P. 72(a) shall \nbe filed and served within 14 days after such order or ruling is served. The objecting \nparty shall also order a transcript of any evidentiary hearing(s) before the magistrate \njudge within the same 14-day period. Failure to file specific objections and order the \ntranscript in a timely manner constitute waiver of the right to review by the district \njudge and the right to appeal the Court’s decision. \n(2) Content of Objections. An objection to a magistrate judge’s order or ruling in a \nnondispositive matter shall set forth the basis of the objection and comply with LR Cv \n7. \n(3) Responses and Replies. A response to an objection shall be served and filed within \n14 days after the objection is served. The objecting party may serve and file a reply \nto the response within 7 days thereafter. Unless otherwise permitted or required by \nthe Court, nothing further shall be filed in support of or in response to an objection to \na magistrate judge’s order or ruling. Any response and/or reply shall comply with LR \nCv 7. \n (d) Objections to Reports and Recommendations. \n(1) Time for Objections; Failure to File. Any objection to a Report and \nRecommendation by a magistrate judge shall be filed and served within 14 days after \nsuch Report and Recommendation is served on the objecting party. The objecting \nparty shall also order a transcript of any evidentiary hearing(s) before the magistrate \njudge within the same 14-day period. Failure to file specific objections and order the \ntranscript in a timely manner constitutes waiver of the right to review by the district \njudge and the right to appeal the Court’s decision. \n(2) Content of Objections. An objection to a magistrate judge’s Report and \nRecommendation shall specify the findings and/or recommendations to which \nobjection is made and the basis for the objection. The objection shall comply with \nLR Cv 7. ",
+          "pages": [
+            110
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-112",
+          "path": [],
+          "type": "paragraph",
+          "text": "U.S. DISTRICT COURT RULES -- RULES APPLICABLE TO CIVIL PROCEEDINGS \n96 \n(3) Responses and Replies. A response to an objection shall be served and filed within \n14 days after the objection is served. The objecting party may serve and file a reply \nto the response within 7 days thereafter. Unless otherwise permitted or required by \nthe Court, nothing further shall be filed in support of or in opposition to an objection \nto a magistrate judge’s Report and Recommendation. Any response and/or reply \nshall comply with LR Cv 7. \nEffective 12/1/17: §§(c)(2) and (d)(2) amended. Effective 12/15/14: §§(c)(3) and (d)(3) amended. Effective 12/2/13: \n§§(c)(1)-(3) amended. Effective 12/1/11: §§(c)(1), (c)(2), (d)(1), and (d)(2) amended. The numerical references in this \nrule were altered as part of the restyling of numerical references throughout the Local Rules. Effective 12/1/09: §§(c)(1), \n(c)(3), (d)(1), and (d)(3) amended. Effective 10/1/09: §§(c)(1) and (d)(1) amended. \nCROSS-REFERENCES\nSee LR Cv 73 (Consent to Order of Reference), and LR Cr 57.2 (Duties of magistrate judge in \ncriminal matters). \nSee also: Fed.R.Civ.P. 72 and 73; and 28 U.S.C. §636 (setting forth jurisdiction and duties of \nmagistrate judges). ",
+          "pages": [
+            111
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-113",
+          "path": [],
+          "type": "paragraph",
+          "text": "U.S. DISTRICT COURT RULES -- RULES APPLICABLE TO CIVIL PROCEEDINGS \n97 \n",
+          "pages": [
+            112
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "rid-civil-parsed-v1-7f03a8fca5401c94",
+      "sourceDocumentId": "parsed-rid-7f03a8fca5401c94",
+      "sourceUrl": "https://www.rid.uscourts.gov/sites/rid/files/documents/Approved%20Dec%202024%20Rules.pdf",
+      "pageIndex": 110,
+      "pageSpan": [
+        110,
+        112
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "rid-civil:73",
+      "collectionId": "rid-civil",
+      "districtId": "rid",
+      "number": "73",
+      "citation": "District of Rhode Island · Rule 73",
+      "title": "CONSENT TO ORDER OF REFERENCE",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-113",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Cv 73 CONSENT TO ORDER OF REFERENCE \n(a) Trial by Magistrate Judge. A full-time or recalled magistrate judge may conduct a jury or \nnon-jury trial in a civil case if all parties consent and the district judge to whom the case has \nbeen assigned approves. \n(b) Notification of Option to Consent.\n(1) When a civil action or notice of removal is filed, the Clerk, with the permission of the \ndistrict judge to whom the case is assigned, shall give written notice to the parties of \nthe option to consent to a trial before, or other disposition of the case by, a magistrate \njudge and shall provide the parties with a consent form. The notice shall inform the \nparties that they are free to withhold consent without adverse consequences, and that \nthe executed form must be returned within the time specified in the notice issued by \nthe Clerk. \n(2) At any time thereafter, the district judge to whom the case has been assigned may \nagain authorize the Clerk to advise the parties of their opportunity to consent to a trial \nbefore, or other disposition of the case by, a magistrate judge, in which case the Clerk \nshall send a similar notice to the parties. \n(3) A district judge or magistrate judge shall not be informed of a party’s response to the \nClerk’s notification unless all parties have consented to a trial before a magistrate \njudge. \nEffective 12/1/18: §(b)(1) amended. Effective 12/1/17: §(b)(1) amended. Effective 12/1/11: The numerical references \nin this rule were altered as part of the restyling of numerical references throughout the Local Rules. \nCROSS-REFERENCES \nSee LR Gen 303(c)(3) (Consent to Proceed Before a Magistrate Judge filed conventionally), and LR \nCv 72 (magistrate judge authority in civil cases).\nSee also 28 U.S.C. §636(c) (setting forth jurisdiction and duties of magistrate judges), and Fed .R. \nCiv. P. 73. ",
+          "pages": [
+            112
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-114",
+          "path": [],
+          "type": "paragraph",
+          "text": "U.S. DISTRICT COURT RULES -- RULES APPLICABLE TO CIVIL PROCEEDINGS \n98 \n",
+          "pages": [
+            113
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "rid-civil-parsed-v1-7f03a8fca5401c94",
+      "sourceDocumentId": "parsed-rid-7f03a8fca5401c94",
+      "sourceUrl": "https://www.rid.uscourts.gov/sites/rid/files/documents/Approved%20Dec%202024%20Rules.pdf",
+      "pageIndex": 112,
+      "pageSpan": [
+        112,
+        113
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "rid-civil:78",
+      "collectionId": "rid-civil",
+      "districtId": "rid",
+      "number": "78",
+      "citation": "District of Rhode Island · Rule 78",
+      "title": "HEARINGS BY VIDEOCONFERENCE",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-114",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Cv 78 HEARINGS BY VIDEOCONFERENCE \nAt the discretion of the presiding judge, video conferencing may be used to conduct proceedings \nin civil cases. If a video conference proceeding is authorized by the presiding judge, and the \nproceeding would otherwise be open to the public, the Clerk’s Office shall make video and audio \nof the proceeding available as directed by the judge. \nEffective 4/1/24: Rule added. \n____________________ \n",
+          "pages": [
+            113
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "rid-civil-parsed-v1-7f03a8fca5401c94",
+      "sourceDocumentId": "parsed-rid-7f03a8fca5401c94",
+      "sourceUrl": "https://www.rid.uscourts.gov/sites/rid/files/documents/Approved%20Dec%202024%20Rules.pdf",
+      "pageIndex": 113,
+      "pageSpan": [
+        113,
+        113
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "rid-civil:81",
+      "collectionId": "rid-civil",
+      "districtId": "rid",
+      "number": "81",
+      "citation": "District of Rhode Island · Rule 81",
+      "title": "REMOVAL FROM STATE COURT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-114",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Cv 81 REMOVAL FROM STATE COURT \n(a) It is the responsibility of the party filing the notice of removal to ensure that the state \ncourt record is filed with the Court. Within 14 days after filing a notice of removal, the party \nfiling the notice shall do whatever is necessary to enable the clerk of the state court to \nassemble and electronically transmit a certified copy of the docket sheet and all documents \nfiled in the case being removed. \n(b) The Court may direct the party filing the notice to furnish and to file certified copies of the \ndocket sheet and all documents filed in the case being removed if the clerk of the state court \nis unable to electronically transmit the record or if the record is unusually voluminous. \nEffective 12/1/15: §§(a)(1)-(2) and (b)(1)-(2) deleted, and new (a) and (b) added. Effective 12/1/11: The numerical \nreferences in this rule were altered as part of the restyling of numerical references throughout the Local Rules. Effective \n12/1/09: §(b) amended.\nCROSS-REFERENCES \nSee LR Gen 201(b)(3) (attorney appearances in removal cases). \n28 U.S.C. §1441 et seq. (governing removal of cases from state court). \n ",
+          "pages": [
+            113
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-115",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL ADMIRALTY RULES ",
+          "pages": [
+            114
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-116",
+          "path": [],
+          "type": "paragraph",
+          "text": "[THIS PAGE INTENTIONALLY LEFT BLANK] ",
+          "pages": [
+            115
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-117",
+          "path": [],
+          "type": "paragraph",
+          "text": "U.S. DISTRICT COURT RULES -- LOCAL ADMIRALTY RULES \n101 \nLAR A AUTHORITY AND SCOPE\n(1) Authority. The local admiralty rules of the United States District Court for the District of \nRhode Island (“the Court”) are promulgated by a majority of the judges as authorized by and \nsubject to the limitations of Fed. R. Civ. P. 83. \n(2) Scope. The local admiralty rules apply only to civil actions that are governed by Rule A of \nthe Supplemental Rules for Admiralty or Maritime Claims and Asset Forfeiture Actions. All \nother local rules are applicable in these cases, but to the extent that another local rule is \ninconsistent with the applicable local admiralty rule, the local admiralty rule governs. \n(3) Citation. The local admiralty rules may be cited by the letters \"LAR\" and the capital letter \nand numbers in parentheses that appear at the beginning of each section. The capital letter is \nintended to associate the local admiralty rule with the Supplemental Rule that bears the same \ncapital letter. \n(4) Definitions. In addition to the definitions in LR Gen 101(f), the following definitions shall \napply: \n(a) \"Supplemental Rule\" followed by a capital letter, e.g., Supplemental Rule C, means \na Supplemental Rule for Admiralty or Maritime Claims and Asset Forfeiture \nActions; \n(b) \"Keeper\" means any person or entity appointed by the Marshal to take physical \ncustody of and maintain the vessel or other property under arrest or attachment; \n(c) \"Substitute custodian\" means the individual who or entity that, upon motion and \norder of the Court, assumes the duties of the Marshal or keeper with respect to the \nvessel or other property that is arrested or attached. \nEffective 1/15/13: Rule added. ",
+          "pages": [
+            116
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "rid-civil-parsed-v1-7f03a8fca5401c94",
+      "sourceDocumentId": "parsed-rid-7f03a8fca5401c94",
+      "sourceUrl": "https://www.rid.uscourts.gov/sites/rid/files/documents/Approved%20Dec%202024%20Rules.pdf",
+      "pageIndex": 113,
+      "pageSpan": [
+        113,
+        116
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    }
+  ],
+  "evidence": [
+    {
+      "number": "5",
+      "heading": "LR Cv 5 FORM AND FILING OF DOCUMENTS",
+      "page": 83,
+      "offset": 72,
+      "slices": [
+        {
+          "page": 83,
+          "start": 72,
+          "end": 2395,
+          "sha256": "2c2906607825ff965e6d87dc0a57262a3ef2d88b01b2ad5323d66e11bcbafe69"
+        },
+        {
+          "page": 84,
+          "start": 0,
+          "end": 2475,
+          "sha256": "54f16e81f3f1be430ab6d0d7bf41b3d8727e471389082272d1d3ee0f22f5cb2e"
+        },
+        {
+          "page": 85,
+          "start": 0,
+          "end": 72,
+          "sha256": "a04587c0f8f7bd0c87314740bb89475561bbef588d92d09e74c6d6b0bd5b3c26"
+        }
+      ]
+    },
+    {
+      "number": "5.1",
+      "heading": "LR Cv 5.1 PROOF OF SERVICE OF SUMMONS AND OTHER DOCUMENTS",
+      "page": 85,
+      "offset": 72,
+      "slices": [
+        {
+          "page": 85,
+          "start": 72,
+          "end": 1573,
+          "sha256": "ea107a664ca79abf332e6d9ffa80afa92a42de5424a25fb347b2349f60c213f8"
+        },
+        {
+          "page": 86,
+          "start": 0,
+          "end": 72,
+          "sha256": "e8fd46fd03b38ad928a11f3d6c62b695505441a8ef5ac9585c486dbfe2ca3e09"
+        }
+      ]
+    },
+    {
+      "number": "5.2",
+      "heading": "LR Cv 5.2 NOTICE BY PUBLICATION",
+      "page": 86,
+      "offset": 72,
+      "slices": [
+        {
+          "page": 86,
+          "start": 72,
+          "end": 436,
+          "sha256": "adbda33cd5a47d9ccaa01f1ac4a0a2fb683e1025ea8671dcd35987acbeae43a0"
+        },
+        {
+          "page": 87,
+          "start": 0,
+          "end": 72,
+          "sha256": "3958fdad768e10ac2198890b8643f15fff85af7db3627298dbda476961b0ca09"
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "heading": "LR Cv 7 MOTIONS AND OTHER PAPERS",
+      "page": 87,
+      "offset": 72,
+      "slices": [
+        {
+          "page": 87,
+          "start": 72,
+          "end": 2314,
+          "sha256": "cd5b9e251da4825361d21a33afd7086fb7c4fc8ec852302af879d3f8cde14dff"
+        },
+        {
+          "page": 88,
+          "start": 0,
+          "end": 488,
+          "sha256": "af0e5287f6ce6b374548c8a03d5a1e0988872d42806d2f237b6e4fee103087c0"
+        }
+      ]
+    },
+    {
+      "number": "9",
+      "heading": "LR Cv 9 REQUEST FOR EMERGENCY/EXPEDITED RELIEF",
+      "page": 88,
+      "offset": 488,
+      "slices": [
+        {
+          "page": 88,
+          "start": 488,
+          "end": 1170,
+          "sha256": "4d66854ce43b356109b2cfb048031672fe201059702bde47e620db3f53a1e24f"
+        }
+      ]
+    },
+    {
+      "number": "9.1",
+      "heading": "LR Cv 9.1 NOTICE OF RELATED ACTIONS OR PROCEEDINGS",
+      "page": 88,
+      "offset": 1170,
+      "slices": [
+        {
+          "page": 88,
+          "start": 1170,
+          "end": 1643,
+          "sha256": "5553358c85274ab9ee2eb416020042139b45e52e70ac38acf5f28dbd8f33868e"
+        },
+        {
+          "page": 89,
+          "start": 0,
+          "end": 72,
+          "sha256": "f8f90ea705e2ceac32d7817967889e39d24a31dcbe20eaa21abce070eaf80d1a"
+        }
+      ]
+    },
+    {
+      "number": "15",
+      "heading": "LR Cv 15 MOTIONS TO AMEND",
+      "page": 89,
+      "offset": 72,
+      "slices": [
+        {
+          "page": 89,
+          "start": 72,
+          "end": 585,
+          "sha256": "59327faf509ab73adba404b134636f8252cdd3164ef4614e66fe1d63d0c1fb2a"
+        }
+      ]
+    },
+    {
+      "number": "16",
+      "heading": "LR Cv 16 INITIAL SCHEDULING CONFERENCE",
+      "page": 89,
+      "offset": 585,
+      "slices": [
+        {
+          "page": 89,
+          "start": 585,
+          "end": 1884,
+          "sha256": "65c430250df90d388f0d1a3226df02ab3f57fc3f5d9f187518d7da5bff384803"
+        },
+        {
+          "page": 90,
+          "start": 0,
+          "end": 72,
+          "sha256": "1b67c988d5d0fd4dcc29d23d29e1328963433688de8efde4a1fde91dfd60cb8c"
+        }
+      ]
+    },
+    {
+      "number": "23",
+      "heading": "LR Cv 23 CLASS ACTIONS",
+      "page": 90,
+      "offset": 72,
+      "slices": [
+        {
+          "page": 90,
+          "start": 72,
+          "end": 1187,
+          "sha256": "cb0d9f400436e584fe45e2c04141308874f14acba0d1a8891deec051bcd5f1dc"
+        },
+        {
+          "page": 91,
+          "start": 0,
+          "end": 72,
+          "sha256": "71bc2b316c51ee35bdef65588739f95d4d29f54a5b604ccb1199310e2a38f01f"
+        }
+      ]
+    },
+    {
+      "number": "26",
+      "heading": "LR Cv 26 DISCOVERY",
+      "page": 91,
+      "offset": 72,
+      "slices": [
+        {
+          "page": 91,
+          "start": 72,
+          "end": 2047,
+          "sha256": "dd718b7248bb371f16b9301db64cd07bf79bd375b62be966477c67d8cf8e76ca"
+        },
+        {
+          "page": 92,
+          "start": 0,
+          "end": 72,
+          "sha256": "332d4093e2e95f8485d751d73de0550e8ed8c3f8765da546641799b206f14510"
+        }
+      ]
+    },
+    {
+      "number": "30",
+      "heading": "LR Cv 30 DEPOSITIONS",
+      "page": 92,
+      "offset": 72,
+      "slices": [
+        {
+          "page": 92,
+          "start": 72,
+          "end": 389,
+          "sha256": "74e2fc8d719a0a71e3436510c6027fb997a1c00b9df34a5365302544f0872694"
+        }
+      ]
+    },
+    {
+      "number": "33",
+      "heading": "LR Cv 33 INTERROGATORIES",
+      "page": 92,
+      "offset": 389,
+      "slices": [
+        {
+          "page": 92,
+          "start": 389,
+          "end": 1369,
+          "sha256": "de6e95e75a949e58cb0cef431c091b49fbc2516c727956f384e9ddb96f17eb57"
+        },
+        {
+          "page": 93,
+          "start": 0,
+          "end": 72,
+          "sha256": "c1567c2dc981c6cc0e5f29a9f13a603863f362c06d9ff9f5c684d0420fbe48af"
+        }
+      ]
+    },
+    {
+      "number": "34",
+      "heading": "LR Cv 34 REQUESTS FOR PRODUCTION",
+      "page": 93,
+      "offset": 72,
+      "slices": [
+        {
+          "page": 93,
+          "start": 72,
+          "end": 1167,
+          "sha256": "fa8743571e9fb29eb946c57b6bc37a13ebbd3817b6f335c8e348721ee0a5aea1"
+        }
+      ]
+    },
+    {
+      "number": "36",
+      "heading": "LR Cv 36 REQUESTS FOR ADMISSION",
+      "page": 93,
+      "offset": 1167,
+      "slices": [
+        {
+          "page": 93,
+          "start": 1167,
+          "end": 2031,
+          "sha256": "0e585870c6949ff14ffe6d69765b75027d7d55deb10da1b01e9a5c01ad41e819"
+        },
+        {
+          "page": 94,
+          "start": 0,
+          "end": 72,
+          "sha256": "40b4247ea571bd78468429d18eb4254093e8b36372fa33d907504b61ba740f4b"
+        }
+      ]
+    },
+    {
+      "number": "37",
+      "heading": "LR Cv 37 MOTIONS TO COMPEL DISCOVERY",
+      "page": 94,
+      "offset": 72,
+      "slices": [
+        {
+          "page": 94,
+          "start": 72,
+          "end": 985,
+          "sha256": "4a27ecd9f578cf042e6a1608f1462e0408b1230cd4eeda9a2fd360addd25b674"
+        },
+        {
+          "page": 95,
+          "start": 0,
+          "end": 72,
+          "sha256": "539581cb5f0afca8fc4b2cb49406c2fcbd95af8c3b086df2e805886603dd488f"
+        }
+      ]
+    },
+    {
+      "number": "39",
+      "heading": "LR Cv 39 OPENING STATEMENTS; USE OF RECORDED TESTIMONY;",
+      "page": 95,
+      "offset": 72,
+      "slices": [
+        {
+          "page": 95,
+          "start": 72,
+          "end": 2743,
+          "sha256": "58fc0cc93b2878a5ed51891c43bb84ad918c0098ae2f222fb21513b784e83c68"
+        },
+        {
+          "page": 96,
+          "start": 0,
+          "end": 1358,
+          "sha256": "2f844f5373e2d02f6207ee4b34020f026495b33e65d321926fa5d13d53c440fc"
+        },
+        {
+          "page": 97,
+          "start": 0,
+          "end": 72,
+          "sha256": "2fdf1e51c5a278a1da69bd64759eedae7b7417700cc97f58751ed772218da991"
+        }
+      ]
+    },
+    {
+      "number": "39.4",
+      "heading": "LR Cv 39.4 SETTLEMENT",
+      "page": 97,
+      "offset": 72,
+      "slices": [
+        {
+          "page": 97,
+          "start": 72,
+          "end": 2117,
+          "sha256": "e6ef6bf80888cd54e60bc0d0e7dab7948406563762d8b7367fb0e0fff04dc8af"
+        },
+        {
+          "page": 98,
+          "start": 0,
+          "end": 72,
+          "sha256": "9528bbd766e4eeb67e1baad211b9fca2d2038facc4bfb590570ef77ee277129c"
+        }
+      ]
+    },
+    {
+      "number": "41",
+      "heading": "LR Cv 41 DISMISSALS FOR LACK OF PROSECUTION",
+      "page": 98,
+      "offset": 72,
+      "slices": [
+        {
+          "page": 98,
+          "start": 72,
+          "end": 469,
+          "sha256": "0815869419d04778e3d19a9049473c4623f63f1fa80fc0d4f0291d6f5d706e36"
+        },
+        {
+          "page": 99,
+          "start": 0,
+          "end": 72,
+          "sha256": "870818aaec5b657094289fd64f6cdf0c01c889d1987f482d35e7f80820d7d3d9"
+        }
+      ]
+    },
+    {
+      "number": "47",
+      "heading": "LR Cv 47 EMPANELMENT OF AND COMMUNICATION WITH JURORS",
+      "page": 99,
+      "offset": 72,
+      "slices": [
+        {
+          "page": 99,
+          "start": 72,
+          "end": 2267,
+          "sha256": "e94e56217be16129283e0d7d5636085c3ef5c9da53c1e19f827b48713d8ce5da"
+        },
+        {
+          "page": 100,
+          "start": 0,
+          "end": 72,
+          "sha256": "68402fab577968a2a51ef43e0c33f5656cd9bb192b0e650df5e0a87949cc2358"
+        }
+      ]
+    },
+    {
+      "number": "51",
+      "heading": "LR Cv 51 WAIVER OF JURY INSTRUCTIONS",
+      "page": 100,
+      "offset": 72,
+      "slices": [
+        {
+          "page": 100,
+          "start": 72,
+          "end": 480,
+          "sha256": "768b13ea19320fd9c185bebba33082ba0d1e2e485782b47b4052dfb8796ae668"
+        }
+      ]
+    },
+    {
+      "number": "53",
+      "heading": "LR Cv 53 ADR REFERRALS",
+      "page": 100,
+      "offset": 480,
+      "slices": [
+        {
+          "page": 100,
+          "start": 480,
+          "end": 697,
+          "sha256": "fab82380c169dc246055211233700bfacda50fc2b59996220374cb3cad390807"
+        },
+        {
+          "page": 101,
+          "start": 0,
+          "end": 72,
+          "sha256": "09578be726e6f2325c7e03ad085c3a97d02aeb5ea3148a163edade9d3a8228cd"
+        }
+      ]
+    },
+    {
+      "number": "54",
+      "heading": "LR Cv 54 COSTS",
+      "page": 101,
+      "offset": 72,
+      "slices": [
+        {
+          "page": 101,
+          "start": 72,
+          "end": 2797,
+          "sha256": "9607ae97a3fafdf045cdad4b9c293da520385774b37054f1012e51ca649a5d38"
+        },
+        {
+          "page": 102,
+          "start": 0,
+          "end": 72,
+          "sha256": "4a73e8759cc6a52a224c027d0b535df33f3b9ae81e6db3320239b42863ff90c5"
+        }
+      ]
+    },
+    {
+      "number": "55",
+      "heading": "LR Cv 55 DEFAULT AND DEFAULT JUDGMENT",
+      "page": 102,
+      "offset": 72,
+      "slices": [
+        {
+          "page": 102,
+          "start": 72,
+          "end": 1238,
+          "sha256": "ce56a42b15d9662660564ebb334157988e92586fbf60350864366da9c96482b6"
+        },
+        {
+          "page": 103,
+          "start": 0,
+          "end": 72,
+          "sha256": "795b7f83d456a202bfd19992e9711f780848c178f627a4a14aacc3893338e4f7"
+        }
+      ]
+    },
+    {
+      "number": "56",
+      "heading": "LR Cv 56 MOTIONS FOR SUMMARY JUDGMENT",
+      "page": 103,
+      "offset": 72,
+      "slices": [
+        {
+          "page": 103,
+          "start": 72,
+          "end": 2769,
+          "sha256": "ce56942147d4f13926d3eb1017f85ffae3e571fed5d178e88c717585efdce70a"
+        },
+        {
+          "page": 104,
+          "start": 0,
+          "end": 391,
+          "sha256": "bc846bd3f9c372b31327aff298eef3472b87f3f58bfe03aa02b201db7824c222"
+        }
+      ]
+    },
+    {
+      "number": "58.1",
+      "heading": "LR Cv 58.1 SATISFACTION OF JUDGMENTS",
+      "page": 104,
+      "offset": 391,
+      "slices": [
+        {
+          "page": 104,
+          "start": 391,
+          "end": 1229,
+          "sha256": "5756f701c089dc2d758c0f515bd339abcb9f8d748909dd8932aba7cc6ca669aa"
+        },
+        {
+          "page": 105,
+          "start": 0,
+          "end": 72,
+          "sha256": "d3ee3efe955e8d2132c6871d8f202fbc15e0e2907202775afac42616e10043a0"
+        }
+      ]
+    },
+    {
+      "number": "62",
+      "heading": "LR Cv 62 BONDS",
+      "page": 105,
+      "offset": 72,
+      "slices": [
+        {
+          "page": 105,
+          "start": 72,
+          "end": 658,
+          "sha256": "328c07e97cf653e9af564cd898c386c7b7aa7e11d761f377c9f3cba2165c92ec"
+        },
+        {
+          "page": 106,
+          "start": 0,
+          "end": 72,
+          "sha256": "c9acf55c11695aad4aefdaf4e649aaca0dbff7ae2f8bc01a7dc9f65e15bf4ab9"
+        }
+      ]
+    },
+    {
+      "number": "65.1",
+      "heading": "LR Cv 65.1 SECURITY AND SURETIES",
+      "page": 106,
+      "offset": 72,
+      "slices": [
+        {
+          "page": 106,
+          "start": 72,
+          "end": 2185,
+          "sha256": "8536369df832ec1bd181c0812b9e1b23953b3894ee099787d545d865cc98d9f1"
+        },
+        {
+          "page": 107,
+          "start": 0,
+          "end": 532,
+          "sha256": "d4c6780fdcd5962f8aa68e69ed59d9887937264a53b7e82d201b0174038a2df0"
+        }
+      ]
+    },
+    {
+      "number": "65.2",
+      "heading": "LR Cv 65.2 SECURITY FOR COSTS",
+      "page": 107,
+      "offset": 532,
+      "slices": [
+        {
+          "page": 107,
+          "start": 532,
+          "end": 1084,
+          "sha256": "0e6af51b5decea8900f99cbf1c784ef84a18eb311fb61d646ae3c309df96b876"
+        },
+        {
+          "page": 108,
+          "start": 0,
+          "end": 72,
+          "sha256": "c16ca340893584c2e71614e39c6353b3a17effef545232d204f7fb9188b97629"
+        }
+      ]
+    },
+    {
+      "number": "67",
+      "heading": "LR Cv 67 DEPOSIT AND WITHDRAWAL OF FUNDS",
+      "page": 108,
+      "offset": 72,
+      "slices": [
+        {
+          "page": 108,
+          "start": 72,
+          "end": 2953,
+          "sha256": "2fa174837f3c61737cb55f6dffb926a11fc578be7f4fd779998404a3c40bab3e"
+        },
+        {
+          "page": 109,
+          "start": 0,
+          "end": 2567,
+          "sha256": "b46b8fd40428fd3f3b1c1b1d2d1f76ac4c101a48318fb6afa7b5dfa3466db335"
+        },
+        {
+          "page": 110,
+          "start": 0,
+          "end": 72,
+          "sha256": "5814a6670ee952ace029c23521b6e3519fe5e1059ac53d2a39d07abdd10ce57e"
+        }
+      ]
+    },
+    {
+      "number": "69",
+      "heading": "LR Cv 69 WRITS OF EXECUTION",
+      "page": 110,
+      "offset": 72,
+      "slices": [
+        {
+          "page": 110,
+          "start": 72,
+          "end": 1456,
+          "sha256": "a9af4805eb7995a3743c8e84b9276bf45d07dcccbb1e40b176a43ce2db278ba9"
+        },
+        {
+          "page": 111,
+          "start": 0,
+          "end": 72,
+          "sha256": "03a2940f2a2ca5aa6ee4ee0e3067db52751aecbeec656eaf51386ce96e07b544"
+        }
+      ]
+    },
+    {
+      "number": "72",
+      "heading": "LR Cv 72 AUTHORITY OF MAGISTRATE JUDGES IN CIVIL CASES",
+      "page": 111,
+      "offset": 72,
+      "slices": [
+        {
+          "page": 111,
+          "start": 72,
+          "end": 2648,
+          "sha256": "a8769981331cb82522913c4871e10b09259fb156c1f871bbd95da95f5e9c3010"
+        },
+        {
+          "page": 112,
+          "start": 0,
+          "end": 1222,
+          "sha256": "9c48f94a00d02db464bc5564cd29aa9cc156f7952a9e5845a1391b67cf875032"
+        },
+        {
+          "page": 113,
+          "start": 0,
+          "end": 72,
+          "sha256": "c6dcf8030712ac49f5a44de871c2ac138b6a856edbbb7ada38ea8caaf7f0855f"
+        }
+      ]
+    },
+    {
+      "number": "73",
+      "heading": "LR Cv 73 CONSENT TO ORDER OF REFERENCE",
+      "page": 113,
+      "offset": 72,
+      "slices": [
+        {
+          "page": 113,
+          "start": 72,
+          "end": 1921,
+          "sha256": "e4c8c4b9f01ae7e72869a2b6a8d409881641b097b0c4a3da254dafd51a2abe14"
+        },
+        {
+          "page": 114,
+          "start": 0,
+          "end": 72,
+          "sha256": "d767257cb9b96c301cb87a0b718d8adb27fe97f6147e2c3cd062b4b4fcae4efd"
+        }
+      ]
+    },
+    {
+      "number": "78",
+      "heading": "LR Cv 78 HEARINGS BY VIDEOCONFERENCE",
+      "page": 114,
+      "offset": 72,
+      "slices": [
+        {
+          "page": 114,
+          "start": 72,
+          "end": 508,
+          "sha256": "b314d3b2a68a2e3f3c648a689f44efbc4fdde867065fca47fab913bd153c83c8"
+        }
+      ]
+    },
+    {
+      "number": "81",
+      "heading": "LR Cv 81 REMOVAL FROM STATE COURT",
+      "page": 114,
+      "offset": 508,
+      "slices": [
+        {
+          "page": 114,
+          "start": 508,
+          "end": 1664,
+          "sha256": "95bb6013ba566dc61943143adf0b97cc586bf58d58488bb2c5952f2385f706a6"
+        },
+        {
+          "page": 115,
+          "start": 0,
+          "end": 22,
+          "sha256": "18ea48c80ff948591ce67468bb2dc4bf86ffb70a0f1c2162a99a5a9cc0aba469"
+        },
+        {
+          "page": 116,
+          "start": 0,
+          "end": 37,
+          "sha256": "2f0e637e835f5ce8ba4c0d090173bc4051ab41035d77ad40371ab961f9a9e1f7"
+        },
+        {
+          "page": 117,
+          "start": 0,
+          "end": 1706,
+          "sha256": "82f0c4b3ffbfea8210fc517ec94baafa65bf752c702f56e8ca927d9d7cd00d93"
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "startPage": 83,
+    "startOffset": 72,
+    "endPage": 117,
+    "endOffset": 1706,
+    "ruleCount": 34,
+    "tocReconciled": false,
+    "editorialReviewComplete": false,
+    "currencyReviewed": false,
+    "flags": [],
+    "excluded": "Source material outside the recorded range remains available in the district source library."
+  },
+  "transcriptionSha256": "5c9fa94378c43603853ce4277b07e9411dd63482bc779b828c80a070a35191b1"
+}

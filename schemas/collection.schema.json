@@ -64,6 +64,11 @@
         ],
         "additionalProperties": false
       }
+    },
+    "parseStatus": {
+      "enum": [
+        "parsed-draft"
+      ]
     }
   },
   "required": [

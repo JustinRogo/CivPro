@@ -1,0 +1,4759 @@
+{
+  "version": 1,
+  "reviewStatus": "parsed-draft",
+  "districtId": "txnd",
+  "sourceDocument": {
+    "id": "46a817694c28c417",
+    "title": "Civil Rules (PDF)",
+    "format": "pdf",
+    "role": "primary",
+    "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+    "sha256": "46a817694c28c41732b91b2b672fe23ee08ad28f8c633a97534312a1b1f29dba",
+    "bytes": 277235,
+    "retrievedAt": "2026-09-07T00:02:25.849638+00:00",
+    "snapshotPath": "sources/district-snapshots/46a817694c28c41732b91b2b672fe23ee08ad28f8c633a97534312a1b1f29dba.pdf",
+    "textPath": "data/source-library/46a817694c28c41732b91b2b672fe23ee08ad28f8c633a97534312a1b1f29dba.json",
+    "pdfPath": "data/source-pdfs/46a817694c28c41732b91b2b672fe23ee08ad28f8c633a97534312a1b1f29dba.pdf",
+    "pageCount": 36,
+    "reviewStatus": "source-document-only",
+    "blankTextPages": 0
+  },
+  "collection": {
+    "id": "txnd-civil",
+    "name": "Northern District of Texas Local Rules",
+    "shortName": "Local rules · draft",
+    "districtId": "txnd",
+    "scopeNote": "Civil and generally applicable local rules; unparsed supplements remain in the source library. Rule boundaries and transcription are drafts. Embedded notes, forms, and running headers may remain within rule text; subsection anchors and field-separated notes are not yet reviewed."
+  },
+  "provisions": [
+    {
+      "id": "txnd-civil:1.1",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "1.1",
+      "citation": "Northern District of Texas · Rule 1.1",
+      "title": "Definitions.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-8",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 1.1 Definitions.\nUnless the context indicates a contrary intention, the following definitions apply in these \nrules:\n(a) Court. The word “court” means the district judges of the United States District \nCourt for the Northern District of Texas, as a collective body.\n(b) Presiding Judge. The term “presiding judge” means the judge to whom a case is \nassigned. The word “judge” includes district judges and magistrate judges. \n(c) Attorney. The word “attorney” means either:\n(1) a person licensed to practice law by the highest court of any state or the \nDistrict of Columbia; or\n(2) a party proceeding pro se in any civil action.\n(d) Clerk. The word “clerk” means the clerk of this court.\n(e) Discovery Materials. The term “discovery materials” means notices of and \ndepositions upon oral examination or written questions, interrogatories, requests for \ndocuments and things, requests for inspection or to permit entry upon land, requests for \nadmission, and answers and responses thereto, and disclosures made in compliance with \nFed. R. Civ. P. 26(a)(1) or (2).\n(f) ECF. The term “ECF” means electronic case filing and refers to the court’s web￾based document filing system that allows a document to be transmitted, signed, or verified \nby electronic means in a manner that is consistent with technical standards established by \nthe Judicial Conference of the United States.\n(g) Judge’s Copy. The term “judge’s copy” means a paper copy of an original \npleading, motion, or other paper that is submitted for use by the presiding judge.",
+          "pages": [
+            7
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-9",
+          "path": [],
+          "type": "paragraph",
+          "text": "Effective September 1, 2026\n2\n",
+          "pages": [
+            8
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 7,
+      "pageSpan": [
+        7,
+        8
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:3.1",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "3.1",
+      "citation": "Northern District of Texas · Rule 3.1",
+      "title": "Filing Complaint by Electronic Means.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-9",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 3.1 Filing Complaint by Electronic Means. \nA plaintiff may file a complaint by electronic means by following the procedures set forth \nin the ECF Administrative Procedures Manual. The complaint must be accompanied by:\n(a) a civil cover sheet;\n(b) the required filing fee or the appropriate application to proceed without prepayment \nof fees; and\n(c) a separately signed certificate of interested persons—in a form approved by the \nclerk—that contains—in addition to the information required by Fed. R. Civ. P. \n7.1(a)—a complete list of all persons, associations of persons, firms, partnerships, \ncorporations, guarantors, insurers, affiliates, parent or subsidiary corporations, or \nother legal entities that are financially interested in the outcome of the case. If a \nlarge group of persons or firms can be specified by a generic description, individual \nlisting is not necessary.\n",
+          "pages": [
+            8
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 8,
+      "pageSpan": [
+        8,
+        8
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:3.2",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "3.2",
+      "citation": "Northern District of Texas · Rule 3.2",
+      "title": "Filing Complaint on Paper.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-9",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 3.2 Filing Complaint on Paper.\nTo file a complaint on paper, a plaintiff must provide the clerk:\n(a) an original of the complaint;\n(b) a copy of the complaint and a completed civil summons form for each defendant to \nbe served;\n(c) a civil cover sheet;\n(d) the required filing fee or the appropriate application to proceed without prepayment \nof fees; and \n(e) a separately signed certificate of interested persons—in a form approved by the \nclerk—that contains—in addition to the information required by Fed. R. Civ. P. \n7.1(a)—a complete list of all persons, associations of persons, firms, partnerships, \ncorporations, guarantors, insurers, affiliates, parent or subsidiary corporations, or \nother legal entities that are financially interested in the outcome of the case. If a \nlarge group of persons or firms can be specified by a generic description, individual \nlisting is not necessary.\n",
+          "pages": [
+            8
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 8,
+      "pageSpan": [
+        8,
+        8
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:3.3",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "3.3",
+      "citation": "Northern District of Texas · Rule 3.3",
+      "title": "Filing Complaint in Related Case; Notice of Related Case.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-9",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 3.3 Filing Complaint in Related Case; Notice of Related Case.\n(a) Notice Requirement. When a plaintiff files a complaint and there is a related \ncase, as defined by LR 3.3(b)(1), (b)(2), or (b)(3), the complaint must be \naccompanied by a notice of related case. The notice must state the style and civil \naction number of the related case, the name of the presiding judge, whether the case ",
+          "pages": [
+            8
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-10",
+          "path": [],
+          "type": "paragraph",
+          "text": "Effective September 1, 2026\n3\nis pending, and, if the case has been dismissed or remanded, the date of the final \njudgment or order remanding the case.\n(b) Related Case Defined. A “related case” is any civil action\n(1) that the plaintiff dismissed with the intent or for the purpose of obtaining a \ndifferent assigned presiding judge and that is being refiled through the \ncomplaint;\n(2) that the plaintiff dismissed under Fed. R. Civ. P. 41(a)(1) by notice of \ndismissal, and that is being refiled through the complaint without changing \nthe parties, or after adding or omitting one or more parties;\n(3) that—to the best of the plaintiff’s or removing party’s knowledge, \ninformation, and belief, formed after an inquiry reasonable under the \ncircumstances—arises from a common nucleus of operative fact with the \ncase being filed or removed, regardless whether the related case is a pending \ncase; or\n(4) that was remanded and, regardless whether one or more parties or one or \nmore claims or defenses have changed, is being removed again.\n(c) Effect of Failure to File Notice of Related Case. A plaintiff who does not file a \nnotice of related case under LR 3.3(a), and a removing party who does not file a notice of \nrelated case under LR 81.1(a)(3), certifies that there is no related case, as defined in LR \n3.3(b), to the case being filed or removed.\n",
+          "pages": [
+            9
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 8,
+      "pageSpan": [
+        8,
+        9
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:4.1",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "4.1",
+      "citation": "Northern District of Texas · Rule 4.1",
+      "title": "Proof of Service or of Waiver of Service.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-10",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 4.1 Proof of Service or of Waiver of Service.\nProof of service or of waiver of service must be made by filing with the clerk the summons \nand any supporting documentation required or allowed by Fed. R. Civ. P. 4, or an executed waiver.\n",
+          "pages": [
+            9
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 9,
+      "pageSpan": [
+        9,
+        9
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:4.2",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "4.2",
+      "citation": "Northern District of Texas · Rule 4.2",
+      "title": "Marshal’s Fees. [REPEALED]",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-10",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 4.2 Marshal’s Fees. [REPEALED]\n",
+          "pages": [
+            9
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 9,
+      "pageSpan": [
+        9,
+        9
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:5.1",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "5.1",
+      "citation": "Northern District of Texas · Rule 5.1",
+      "title": "Filing and Serving Pleadings, Motions, or Other Papers.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-10",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 5.1 Filing and Serving Pleadings, Motions, or Other Papers.\n(a) Filing with the Clerk. A pleading, motion, or other paper that the Federal Rules \nof Civil Procedure permit or require to be filed, or that the court orders to be filed, that is \nsubmitted on paper, must be filed with the clerk’s office for the appropriate division. \nUnless the presiding judge agrees to accept it for filing, the pleading, motion, or other paper \nmust not be sent directly to the presiding judge. \n(b) Original and Judge’s Copy Required. An original and one judge’s copy of each \npleading, motion, or other paper that is submitted on paper must be filed with the clerk. If ",
+          "pages": [
+            9
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-11",
+          "path": [],
+          "type": "paragraph",
+          "text": "Effective September 1, 2026\n4\na pleading, motion, or other paper is filed by electronic means, the judge’s copy must be \nsubmitted following procedures set forth in the ECF Administrative Procedures Manual.\n(c) Document Containing More Than One Pleading, Motion, or Other Paper. \nExcept for a proposed order or judgment, a document may contain more than one pleading, \nmotion, or other paper. Any such document must clearly identify each included pleading, \nmotion, or other paper in its title. \n(d) Serving by Electronic Means. [REPEALED]\n(e) Electronic Filing Required. Unless the presiding judge otherwise directs, an \nattorney—other than a prisoner pro se party—must file any pleading (except a complaint), \nmotion, or other paper by electronic means, subject to the restrictions and requirements of \nthe ECF Administrative Procedures Manual. A party may, for cause, move to be excused \nfrom the requirement of electronic filing.\n(f) Registration as an ECF User Required. Unless excused for cause, an attorney—\nother than a prisoner pro se party— must register as an ECF user within 14 days of the date \nthe attorney appears in a case, following the registration procedures set forth in the ECF \nAdministrative Procedures Manual.\n",
+          "pages": [
+            10
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 9,
+      "pageSpan": [
+        9,
+        10
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:5.2",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "5.2",
+      "citation": "Northern District of Texas · Rule 5.2",
+      "title": "Filing Discovery Materials.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-11",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 5.2 Filing Discovery Materials.\n(a) Discovery Materials Not to be Filed. [REPEALED]\n(b) Deposition Notices Not to be Filed. [REPEALED]\n(c) Filing Discovery Materials for Use in Discovery Proceedings. A motion that \nrelates to a discovery proceeding must only contain the portions of the discovery materials \nin dispute. \n(d) Filing Discovery Materials for Use in Pretrial Motions. When discovery \nmaterials are necessary for consideration of a pretrial motion, a party shall file only the \nportions of discovery on which that party relies to support or oppose the motion.\n",
+          "pages": [
+            10
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 10,
+      "pageSpan": [
+        10,
+        10
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:5.3",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "5.3",
+      "citation": "Northern District of Texas · Rule 5.3",
+      "title": "Prisoner’s Civil Rights Complaints.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-11",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 5.3 Prisoner’s Civil Rights Complaints.\nA prisoner’s complaint alleging violations of civil rights under 28 U.S.C. § 1331 or § 1343 \nmust be filed in accordance with the current miscellaneous order establishing procedures for such \nactions.\n",
+          "pages": [
+            10
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 10,
+      "pageSpan": [
+        10,
+        10
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:5.4",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "5.4",
+      "citation": "Northern District of Texas · Rule 5.4",
+      "title": "Post-Conviction Relief.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-11",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 5.4 Post-Conviction Relief.\nA prisoner application, motion, or petition filed under 28 U.S.C. § 2241, § 2254, or § 2255 \nmust be filed in accordance with the current miscellaneous order establishing procedures for such \napplications, motions, or petitions.",
+          "pages": [
+            10
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-12",
+          "path": [],
+          "type": "paragraph",
+          "text": "Effective September 1, 2026\n5\n",
+          "pages": [
+            11
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 10,
+      "pageSpan": [
+        10,
+        11
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:6.1",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "6.1",
+      "citation": "Northern District of Texas · Rule 6.1",
+      "title": "Time Deemed Filed.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-12",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 6.1 Time Deemed Filed.\nA pleading, motion, or other paper that is filed by electronic means before midnight central \ntime of any day will be deemed filed on that day. A pleading, motion, or other paper that is filed \non paper before the clerk’s office is scheduled to close on any day will be deemed filed on that \nday.\n",
+          "pages": [
+            11
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 11,
+      "pageSpan": [
+        11,
+        11
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:7.1",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "7.1",
+      "citation": "Northern District of Texas · Rule 7.1",
+      "title": "Motion Practice.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-12",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 7.1 Motion Practice. \nUnless specifically controlled by another local rule or otherwise directed by the presiding \njudge, motion practice is controlled by subsection (h) of this rule. In addition, the parties must \ncomply with the following:\n(a) Conference. Before filing a motion, an attorney for the moving party must confer \nwith an attorney for each party affected by the requested relief to determine whether the \nmotion is opposed. Conferences are not required for motions to dismiss, motions for \njudgment on the pleadings, motions for summary judgment, motions for new trial, or when \na conference is not possible.\n(b) Certificate of Conference. \n(1) Each motion for which a conference is required must include a certificate \nof conference indicating that the motion is unopposed or opposed. \n(2) If a motion is opposed, the certificate must state that a conference was held, \nindicate the date of conference and the identities of the attorneys conferring, \nand explain why agreement could not be reached.\n(3) If a conference was not held, the certificate must explain why it was not \npossible to confer, in which event the motion will be presumed to be \nopposed.\n(c) Proposed Order. Except for an opposed motion that is submitted on paper, each \nmotion must be accompanied by a proposed order that is set forth separately. An agreed \nproposed order must be signed by the attorneys or parties. \n(d) Brief. An opposed motion must be accompanied by a brief that sets forth the \nmoving party’s contentions of fact and/or law, and argument and authorities, unless a brief \nis not required by subsection (h) of this rule. A response to an opposed motion must be \naccompanied by a brief that sets forth the responding party’s contentions of fact and/or \nlaw, and argument and authorities. A responding party is not required to file a brief in \nopposition to a motion for which a brief is not required by subsection (h) of this rule. \n(e) Time for Response and Brief. A response and brief to an opposed motion must \nbe filed within 21 days from the date the motion is filed.",
+          "pages": [
+            11
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-13",
+          "path": [],
+          "type": "paragraph",
+          "text": "Effective September 1, 2026\n6\n(f) Time for Reply Briefs. Unless otherwise directed by the presiding judge, a party \nwho has filed an opposed motion may file a reply brief within 14 days from the date the \nresponse is filed.\n(g) No Oral Argument. Unless otherwise directed by the presiding judge, oral \nargument on a motion will not be held.",
+          "pages": [
+            12
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-14",
+          "path": [],
+          "type": "paragraph",
+          "text": "Effective September 1, 2026\n7\n(h) Uniform Requirements on Motion Practice.\nB - Brief required (not required with agreed motion)\nC - Certificate of conference required\nMOTION (to/for) B C\nAMEND X\nCHANGE OF VENUE X X\nCOMPEL X X\nCONSOLIDATION X X\nCONTINUANCE X\nDISMISS X\nEXTEND TIME X\nINTERVENE X X\nJUDGMENT AS A MATTER OF LAW X\nJUDGMENT ON PLEADINGS X\nLEAVE TO FILE X X\nLIMINE X X\nMORE DEFINITE STATEMENT X X\nNEW TRIAL X\nPRELIMINARY INJUNCTION X X\nPRODUCE DOCUMENTS X X\nPROTECTIVE ORDER X X\nQUASH X X\nREMAND X X\nSANCTIONS X X\nSTAY X X\nSTRIKE X X\nSUBSTITUTE COUNSEL X\nSUMMARY JUDGMENT X\nNOTE: If a motion is not listed, a brief and certificate of conference are required.",
+          "pages": [
+            13
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-15",
+          "path": [],
+          "type": "paragraph",
+          "text": "Effective September 1, 2026\n8\n(i) Requirement of Appendix; Appendix Requirements.\n(1) A party who relies on materials—including depositions, documents, \nelectronically stored information, affidavits, declarations, \nstipulations, admissions, interrogatory answers, or other materials—\nto support or oppose a motion must include the materials in an \nappendix.\n(2) The appendix must be assembled as a self-contained document, \nseparate from the motion, response, reply, and brief.\n(3) Each page of the appendix must measure 8½ x 11 inches. Non￾documentary materials (e.g., videotapes and other physical \nmaterials) and oversized materials (e.g., maps and schematic \ndrawings) that are included in the appendix must be placed in an \nenvelope that measures 9 x 12 inches.\n(4) Each page of the appendix must be numbered legibly in the lower, \nright-hand corner. The first page must be numbered as \"1,\" and \nsucceeding pages must be numbered sequentially through the last \npage of the entire appendix (i.e., the numbering system must not re￾start with each succeeding document in the appendix). An envelope \nthat contains non-documentary or oversized materials must be \nnumbered as if it were a single page.\n",
+          "pages": [
+            14
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 11,
+      "pageSpan": [
+        11,
+        14
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:7.2",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "7.2",
+      "citation": "Northern District of Texas · Rule 7.2",
+      "title": "Briefs.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-15",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 7.2 Briefs.\n(a) General Form. A brief must be printed, typewritten, or presented in some other \nlegible form. The brief must be on an 8½-by-11-inch page. The font size must be 12-point \nor larger. The text must be double-spaced, but quotations more than two lines long may \nbe indented and single-spaced. Headings and footnotes may be single-spaced. Margins \nmust be at least one inch on all four sides. Page numbers may be placed in the margins, \nbut no text may appear there.\n(b) Amicus Briefs. An amicus brief may not be filed without leave of the presiding \njudge. The brief must specifically set forth the interest of the amicus curiae in the outcome \nof the litigation.\n(c) Length. Unless another local civil rule provides otherwise, a brief must not exceed \n25 pages (excluding the table of contents and table of authorities). A reply brief must not \nexceed 10 pages. Permission to file a brief in excess of these page limitations will be \ngranted by the presiding judge only for extraordinary and compelling reasons. ",
+          "pages": [
+            14
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "Effective September 1, 2026\n9\n(d) Tables of Contents and Authorities. A brief in excess of 10 pages must contain:\n(1) a table of contents with page references; and\n(2) an alphabetically arranged table of cases, statutes, and other authorities \ncited, with page references to the location of all citations. \n(e) Citations to Appendix. If a party’s motion or response is accompanied by an\nappendix, the party’s brief must include citations to each page of the appendix that supports \neach assertion that the party makes concerning any documentary or non-documentary \nmaterials on which the party relies to support or oppose the motion.\n(f) Disclosure of Use of Generative Artificial Intelligence. \n(1) A brief prepared using generative artificial intelligence must disclose this \nfact on the first page under the heading “Use of Generative Artificial \nIntelligence.” If the presiding judge so directs, the party filing the brief must \ndisclose the specific parts prepared using generative artificial intelligence. \n(2) “Generative Artificial Intelligence” means a computer tool (whether \nreferred to as “Generative Artificial Intelligence” or by another name) that \nis capable of generating new content (such as images and text) in response \nto a submitted prompt (such as a query) by learning from a large reference \ndatabase of examples.\n(3) A party who files a brief that does not contain the disclosure required by \nsubsection (f)(1) of this rule certifies that no part of the brief was prepared \nusing generative artificial intelligence.\n",
+          "pages": [
+            15
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 14,
+      "pageSpan": [
+        14,
+        15
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:7.3",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "7.3",
+      "citation": "Northern District of Texas · Rule 7.3",
+      "title": "Confirmation of Informal Leave of Court.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 7.3 Confirmation of Informal Leave of Court.\nWhen a presiding judge informally grants leave, such as an extension of time to file a \nresponse, an attorney for the party to whom leave is granted must file a document confirming the \nleave and must serve the document on all other parties.\n",
+          "pages": [
+            15
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 15,
+      "pageSpan": [
+        15,
+        15
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:7.4",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "7.4",
+      "citation": "Northern District of Texas · Rule 7.4",
+      "title": "Certificate of Interested Persons.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 7.4 Certificate of Interested Persons.\nThe initial responsive pleading or motion filed in lieu of a responsive pleading that a \ndefendant files in a civil action must be accompanied by a separately signed certificate of interested \npersons that complies with LR 3.1(c) or 3.2(e). If the defendant concurs in the accuracy of another \nparty’s previously filed certificate, the defendant may adopt that certificate.",
+          "pages": [
+            15
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "Effective September 1, 2026\n10\n",
+          "pages": [
+            16
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 15,
+      "pageSpan": [
+        15,
+        16
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:7.5",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "7.5",
+      "citation": "Northern District of Texas · Rule 7.5",
+      "title": "Page Limits in Death Penalty Habeas Cases.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 7.5 Page Limits in Death Penalty Habeas Cases. \nIn any post-conviction proceeding seeking to vacate or set aside a death sentence, the \nfollowing page limits (excluding pages that contain a table of contents and table of authorities) \napply: \n(a) the application, motion, or petition, and any supporting brief memorandum \n(whether filed contemporaneously with—or after—the application, motion, or \npetition), must not exceed 100 pages in total;\n(b) the answer to the application, motion, or petition, and any supporting brief or \nmemorandum (whether filed contemporaneously with, or after, the answer), must \nnot exceed 100 pages in total; and \n(c) the reply, and any supporting brief or memorandum (whether filed \ncontemporaneously with, or after, the reply), must not exceed 25 pages in total. \n",
+          "pages": [
+            16
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 16,
+      "pageSpan": [
+        16,
+        16
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:9.1",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "9.1",
+      "citation": "Northern District of Texas · Rule 9.1",
+      "title": "Social Security and Black Lung Cases. [REPEALED]",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 9.1 Social Security and Black Lung Cases. [REPEALED]\n",
+          "pages": [
+            16
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 16,
+      "pageSpan": [
+        16,
+        16
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:10.1",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "10.1",
+      "citation": "Northern District of Texas · Rule 10.1",
+      "title": "Required Form.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 10.1 Required Form.\nIn addition to the requirements of the Federal Rules of Civil Procedure, each pleading, \nmotion, or other paper must:\n(a) contain on its face a title clearly identifying each included pleading, motion, or \nother paper;\n(b) contain a signature block that sets forth the attorney’s bar number for the \njurisdiction in which the attorney is admitted to practice, and a facsimile number \nand e-mail address where information may be sent to the attorney;\n(c) use a page size of 8½ x 11 inches; \n(d) be typed, printed, or legibly handwritten on numbered pages; and\n(e) when submitted on paper, unless otherwise provided by the local civil rules or order \nof the presiding judge, be two-hole punched at the top and either stapled in the \nupper, left-hand corner or secured with a durable fastener at the top.\n",
+          "pages": [
+            16
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 16,
+      "pageSpan": [
+        16,
+        16
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:11.1",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "11.1",
+      "citation": "Northern District of Texas · Rule 11.1",
+      "title": "Electronic Signature.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 11.1 Electronic Signature.\n(a) What Constitutes Electronic Signature. [REPEALED]\n(b) Requirements for Electronic Signature. [REPEALED]",
+          "pages": [
+            16
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "Effective September 1, 2026\n11\n(c) Certification of Signature of Another Person. By submitting a document by \nelectronic means and representing the consent of another person on the document, an \nattorney who submits the document certifies that the document has been properly signed.\n(d) Requirements for Another Person’s Electronic Signature. An attorney who \nsubmits a document by electronic means that is signed by another person—including by a \nmoving party under LR 40.1—must:\n(1) include a scanned image of the other person’s signature, or represent the \nconsent of the other person in a manner permitted or required by the \npresiding judge; and\n(2) maintain the signed paper copy of the document for one year after final \ndisposition of the case.\n",
+          "pages": [
+            17
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 16,
+      "pageSpan": [
+        16,
+        17
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:12.1",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "12.1",
+      "citation": "Northern District of Texas · Rule 12.1",
+      "title": "Motion for More Definite Statement. [REPEALED]",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 12.1 Motion for More Definite Statement. [REPEALED]\n",
+          "pages": [
+            17
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 17,
+      "pageSpan": [
+        17,
+        17
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:15.1",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "15.1",
+      "citation": "Northern District of Texas · Rule 15.1",
+      "title": "Motions to Amend.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 15.1 Motions to Amend.\n(a) When Filed on Paper. When a party files a motion for leave to file an amended \npleading that, if leave is granted, will be filed on paper, the party must attach a copy of the \nproposed amended pleading as an exhibit to the motion. The party must also submit with \nthe motion an original and a judge's copy of the proposed pleading. The original and \njudge’s copy must neither be physically attached to the motion nor made exhibits to the \nmotion. The original of the proposed pleading must contain the original signature of the \nsigning attorney. If leave is granted, the clerk will file the original of the amended pleading.\n(b) When Filed by Electronic Means. When a party files by electronic means a \nmotion for leave to file an amended pleading, the party must attach the proposed amended \npleading to the motion as an exhibit. If leave is granted, the amended pleading will be \ndeemed filed as of the date of the order granting leave, or as otherwise specified by the \npresiding judge, and the clerk will file a copy of the amended pleading.\n",
+          "pages": [
+            17
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 17,
+      "pageSpan": [
+        17,
+        17
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:16.1",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "16.1",
+      "citation": "Northern District of Texas · Rule 16.1",
+      "title": "Exemptions from Pretrial Scheduling and Management.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 16.1 Exemptions from Pretrial Scheduling and Management.\nThe following categories of cases are exempt from the scheduling and planning \nrequirements of Fed. R. Civ. P. 16(b):\n(a) actions for social security benefits, including appeals from decisions of the\nSecretary of Health and Human Services, and black lung cases subject to LR 9.1;\n(b) prisoner civil rights complaints filed pursuant to 42 U.S.C. § 1981 et seq.;\n(c) forfeiture actions;",
+          "pages": [
+            17
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "Effective September 1, 2026\n12\n(d) cases filed by the United States Attorney for collection of promissory notes\npayable to the United States or any government agency;\n(e) bankruptcy appeals;\n(f) cases involving pro se plaintiffs;\n(g) habeas corpus complaints filed pursuant to 28 U.S.C. § 2254 or § 2255;\n(h) petitions for enforcement of an Internal Revenue Service summons;\n(i) actions for review of the administrative action of any federal agency; and\n(j) all cases not reported by the clerk for statistical purposes as filed cases.\n",
+          "pages": [
+            18
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 17,
+      "pageSpan": [
+        17,
+        18
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:16.2",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "16.2",
+      "citation": "Northern District of Texas · Rule 16.2",
+      "title": "Authority of Magistrate Judges as to Scheduling Orders.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 16.2 Authority of Magistrate Judges as to Scheduling Orders.\nUnless the presiding judge otherwise directs, a magistrate judge shall have the authority \nunder Fed. R. Civ. P. 16(b) to enter and modify scheduling orders.\n",
+          "pages": [
+            18
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 18,
+      "pageSpan": [
+        18,
+        18
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:16.3",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "16.3",
+      "citation": "Northern District of Texas · Rule 16.3",
+      "title": "Settlement.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 16.3 Settlement. \n(a) Settlement Negotiations. Parties in a civil action must make good-faith efforts to \nsettle. Settlement negotiations must begin at the earliest possible time, well in advance of \nany pretrial conference.\n(b) Settlement Conferences. A judge will be available for settlement discussions. In \nnonjury cases the presiding judge will not discuss settlement figures unless requested to do \nso by all concerned parties.\n",
+          "pages": [
+            18
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 18,
+      "pageSpan": [
+        18,
+        18
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:16.4",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "16.4",
+      "citation": "Northern District of Texas · Rule 16.4",
+      "title": "Pretrial Order.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 16.4 Pretrial Order.\nUnless otherwise directed by the presiding judge, a pretrial order must be submitted to the \npresiding judge at least 14 days before the scheduled date for trial. All attorneys are responsible \nfor preparing the pretrial order, which must contain the following:\n(a) a summary of the claims and defenses of each party;\n(b) a statement of stipulated facts;\n(c) a list of contested issues of fact;\n(d) a list of contested issues of law;\n(e) an estimate of the length of trial;",
+          "pages": [
+            18
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "Effective September 1, 2026\n13\n(f) a list of any additional matters that might aid in the disposition of the case;\n(g) the signature of each attorney; and\n(h) a place for the date and the signature of the presiding judge.\n",
+          "pages": [
+            19
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 18,
+      "pageSpan": [
+        18,
+        19
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:23.1",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "23.1",
+      "citation": "Northern District of Texas · Rule 23.1",
+      "title": "Complaint.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 23.1 Complaint. \n A complaint alleging a class action must bear in its title the designation “COMPLAINT￾CLASS ACTION” and must contain a separate heading entitled “Class Action Allegations.”\n",
+          "pages": [
+            19
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 19,
+      "pageSpan": [
+        19,
+        19
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:23.2",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "23.2",
+      "citation": "Northern District of Texas · Rule 23.2",
+      "title": "Motion for Certification; Briefs.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 23.2 Motion for Certification; Briefs.\nWithin 90 days of filing a class action complaint, or at such other time as the presiding \njudge by order directs, an attorney for the plaintiff must move for certification. A brief must \naccompany the motion for certification and must specifically set out the following:\n(a) the appropriate sections of Fed. R. Civ. P. 23 under which the suit is properly \nmaintainable as a class action;\n(b) specific factual allegations concerning the alleged class, including:\n(1) the approximate number of class members;\n(2) the definition of the class and any subclasses;\n(3) the distinguishing and common characteristics of class members, such \nas geography, time, and common financial incentives;\n(4) questions of law and fact that are common to the class; and\n(5) in actions asserting a class under Fed. R. Civ. P. 23(b)(3), allegations \nconcerning the findings required by that section;\n(c) the basis of the named plaintiff’s claim to be an adequate representative of the class, \nincluding financial responsibility to fund the action;\n(d) the basis for determining any required jurisdictional amount;\n(e) the type and estimated expense of notice to be given to class members and the \nsource of funds from which notice costs will be paid;\n(f) the discovery necessary for a class certification hearing and the estimated time \nnecessary for such discovery; and\n(g) all arrangements for payment of plaintiffs’ attorney’s fees",
+          "pages": [
+            19
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "Effective September 1, 2026\n14\n",
+          "pages": [
+            20
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 19,
+      "pageSpan": [
+        19,
+        20
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:23.3",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "23.3",
+      "citation": "Northern District of Texas · Rule 23.3",
+      "title": "Class Notice Responses.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 23.3 Class Notice Responses.\n(a) Once a case is conditionally certified as a class action and the presiding judge \nrequires that notice be given to potential class members, the following rules apply:\n(1) if there are fewer than 1,000 potential class members, the presiding judge \nmay require that notification responses be sent directly to the clerk; but\n(2) if there are 1,000 or more potential class members, the presiding judge may \nrequire that notification responses be sent to a United States Postal Service \nbox in the name of the clerk. Plaintiff must pay the fees for the box, but \nsuch fees will be taxed as costs. \n(b) The presiding judge may name an individual to collect, account for, and tabulate \nnotice responses. Plaintiff must pay such individual a reasonable fee for these services, as \ndetermined by the presiding judge, but such fee will be taxed as costs. \n",
+          "pages": [
+            20
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 20,
+      "pageSpan": [
+        20,
+        20
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:26.1",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "26.1",
+      "citation": "Northern District of Texas · Rule 26.1",
+      "title": "Initial Disclosures Not Required. [REPEALED]",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 26.1 Initial Disclosures Not Required. [REPEALED]\n",
+          "pages": [
+            20
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 20,
+      "pageSpan": [
+        20,
+        20
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:26.2",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "26.2",
+      "citation": "Northern District of Texas · Rule 26.2",
+      "title": "Exchanging Exhibits, Exhibit Lists, and Witness Lists; Designating Deposition",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 26.2 Exchanging Exhibits, Exhibit Lists, and Witness Lists; Designating Deposition \nExcerpts.\n(a) Exchanging Exhibits. All exhibits that a party intends to offer at trial, except \nthose offered solely for impeachment, must be marked with gummed labels or tags that \nidentify them by the exhibit number under which they will be offered at trial, and must be \nexchanged with opposing parties at least 14 days before the scheduled date for trial. When \npracticable, a copy of such exhibits must be furnished to the presiding judge at a time and \nin a manner prescribed by the presiding judge.\n(b) Exchanging Exhibit and Witness Lists. At least 14 days before the scheduled \ntrial date, the parties must file with the clerk and deliver to opposing parties and the court \nreporter, separate lists of exhibits and witnesses, except those offered solely for \nimpeachment.\n(c) Designating Deposition Excerpts. The parties must designate, in lists delivered \nto opposing parties and filed with the clerk at least 14 days before the scheduled trial date, \nthe portions of any depositions to be offered at trial. \n",
+          "pages": [
+            20
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 20,
+      "pageSpan": [
+        20,
+        20
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:40.1",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "40.1",
+      "citation": "Northern District of Texas · Rule 40.1",
+      "title": "Motions for Continuance.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 40.1 Motions for Continuance.\nA motion for continuance of a trial setting must be signed by the moving party as well as \nby the party’s attorney of record. Unless the presiding judge orders otherwise, the granting of a \nmotion for continuance will not extend or revive any deadline that has already expired in a case.",
+          "pages": [
+            20
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "Effective September 1, 2026\n15\n",
+          "pages": [
+            21
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 20,
+      "pageSpan": [
+        20,
+        21
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:41.1",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "41.1",
+      "citation": "Northern District of Texas · Rule 41.1",
+      "title": "Order of Dismissal. [REPEALED]",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 41.1 Order of Dismissal. [REPEALED]\n",
+          "pages": [
+            21
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 21,
+      "pageSpan": [
+        21,
+        21
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:42.1",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "42.1",
+      "citation": "Northern District of Texas · Rule 42.1",
+      "title": "Motions to Consolidate.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 42.1 Motions to Consolidate.\nMotions to consolidate civil actions, and all briefs and other papers concerning \nconsolidation, must be served on an attorney for each party in each case sought to be consolidated. \nAfter consolidation, all pleadings, motions, or other papers must only bear the caption of the first \ncase filed. All post-consolidation filings must also bear the legend “(Consolidated with [giving \nthe docket numbers of all the other cases]).”\n",
+          "pages": [
+            21
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 21,
+      "pageSpan": [
+        21,
+        21
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:47.1",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "47.1",
+      "citation": "Northern District of Texas · Rule 47.1",
+      "title": "Contact with Jurors.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 47.1 Contact with Jurors.\nA party, attorney, or representative of a party or attorney, shall not, before or after trial, \ncontact any juror, prospective juror, or the relatives, friends, or associates of a juror or prospective \njuror, unless explicitly permitted to do so by the presiding judge.\n",
+          "pages": [
+            21
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 21,
+      "pageSpan": [
+        21,
+        21
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:51.1",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "51.1",
+      "citation": "Northern District of Texas · Rule 51.1",
+      "title": "Requested Jury Charge. [REPEALED]",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 51.1 Requested Jury Charge. [REPEALED]\n",
+          "pages": [
+            21
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 21,
+      "pageSpan": [
+        21,
+        21
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:52.1",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "52.1",
+      "citation": "Northern District of Texas · Rule 52.1",
+      "title": "Proposed Findings in Nonjury Cases.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 52.1 Proposed Findings in Nonjury Cases.\nUnless otherwise directed by the presiding judge, at least 14 days before trial in all nonjury \ncases, each party must file with the clerk and serve on opposing parties proposed findings of fact \nand conclusions of law. The parties must submit such amendments to the proposed findings of \nfact and conclusions of law as the presiding judge directs.\n",
+          "pages": [
+            21
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 21,
+      "pageSpan": [
+        21,
+        21
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:53.1",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "53.1",
+      "citation": "Northern District of Texas · Rule 53.1",
+      "title": "Briefing Practice for Objections and Motions Concerning Orders, Reports,",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 53.1 Briefing Practice for Objections and Motions Concerning Orders, Reports, \nand Recommendations of Masters.\n(a) Brief. Objections or a motion filed under Fed. R. Civ. P. 53(f)(2) must be \naccompanied by a brief that sets forth the party’s contentions of fact and/or law, and \nargument and authorities, and complies with LR 7.2.\n(b) Response Brief. A response brief to objections or a motion filed under Fed. R. \nCiv. P. 53(f)(2) must comply with LR 7.2 and be filed within 21 days from the date the \nobjections or motion is filed.\n(c) Reply Brief. Unless otherwise directed by the presiding judge, a party who files \nobjections or a motion under Fed. R. Civ. P 53(f)(2) may file a reply brief within 14 days \nfrom the date the response brief is filed. The brief must comply with LR 7.2.\n(d) Appendix Required. A party who relies on materials—including depositions, \ndocuments, electronically stored information, affidavits, declarations, stipulations, \nadmissions, interrogatory answers, or other materials—to support or oppose objections or ",
+          "pages": [
+            21
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "Effective September 1, 2026\n16\na motion filed under Fed. R. Civ. P. 53(f)(2) must include the materials in an appendix that \ncomplies with LR 7.1(i)(2)-(4).\n(e) Preparing the Record. A party who files objections or a motion under Fed. R. \nCiv. P. 53(f)(2) is responsible for preparing the record and—if necessary for disposition of \nthe objections or motion—obtaining a hearing transcript. Unless otherwise directed by the \npresiding judge, the transcript must be filed contemporaneously with the objections or \nmotion.\n",
+          "pages": [
+            22
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 21,
+      "pageSpan": [
+        21,
+        22
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:54.1",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "54.1",
+      "citation": "Northern District of Texas · Rule 54.1",
+      "title": "Time for Filing Bill of Costs.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 54.1 Time for Filing Bill of Costs.\nA party awarded costs by final judgment or by judgment that a presiding judge directs be \nentered as final under Fed. R. Civ. P. 54(b) must apply to the clerk for taxation of such costs by \nfiling a bill of costs in a form approved by the clerk. Unless otherwise provided by statute or by \norder of the presiding judge, the bill of costs must be filed with the clerk and served on any party \nentitled to such service no later than 14 days after the clerk enters the judgment on the docket.\n",
+          "pages": [
+            22
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 22,
+      "pageSpan": [
+        22,
+        22
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:55.1",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "55.1",
+      "citation": "Northern District of Texas · Rule 55.1",
+      "title": "Failure to Obtain Default Judgment.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 55.1 Failure to Obtain Default Judgment.\nIf a defendant has been in default for 90 days, the presiding judge may require the plaintiff \nto move for entry of a default and a default judgment. If the plaintiff fails to do so within the \nprescribed time, the presiding judge will dismiss the action, without prejudice, as to that defendant.\n",
+          "pages": [
+            22
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 22,
+      "pageSpan": [
+        22,
+        22
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:55.2",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "55.2",
+      "citation": "Northern District of Texas · Rule 55.2",
+      "title": "Default Judgments by the United States. [REPEALED]",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 55.2 Default Judgments by the United States. [REPEALED]\n",
+          "pages": [
+            22
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 22,
+      "pageSpan": [
+        22,
+        22
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:55.3",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "55.3",
+      "citation": "Northern District of Texas · Rule 55.3",
+      "title": "Request for Entry of Default by Clerk.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 55.3 Request for Entry of Default by Clerk.\nBefore the clerk is required to enter a default, the party requesting such entry must file with \nthe clerk a written request for entry of default, submit a proposed form of entry of default, and file \nany other materials required by Fed. R. Civ. P. 55(a).\n",
+          "pages": [
+            22
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 22,
+      "pageSpan": [
+        22,
+        22
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:56.1",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "56.1",
+      "citation": "Northern District of Texas · Rule 56.1",
+      "title": "Motion Practice Not Modified Generally.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 56.1 Motion Practice Not Modified Generally.\nExcept as expressly modified, the motion practice prescribed by LR 7.1-7.3 is not affected \nby LR 56.2-56.7.\n",
+          "pages": [
+            22
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 22,
+      "pageSpan": [
+        22,
+        22
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:56.2",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "56.2",
+      "citation": "Northern District of Texas · Rule 56.2",
+      "title": "Limits on Time for Filing and Number of Motions.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 56.2 Limits on Time for Filing and Number of Motions. \n(a) Time for Filing. Unless otherwise directed by the presiding judge, no motion for \nsummary judgment may be filed within 90 days of the trial setting.\n(b) Number. Unless otherwise directed by the presiding judge, or permitted by law, a \nparty may file no more than one motion for summary judgment.",
+          "pages": [
+            22
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-24",
+          "path": [],
+          "type": "paragraph",
+          "text": "Effective September 1, 2026\n17\n",
+          "pages": [
+            23
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 22,
+      "pageSpan": [
+        22,
+        23
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:56.3",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "56.3",
+      "citation": "Northern District of Texas · Rule 56.3",
+      "title": "Content of Motion.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-24",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 56.3 Content of Motion. \n(a) Except as provided in subsection (b) of this rule, a motion for summary judgment \nmust, in addition to the contents required by Fed. R. Civ. P. 56(a),\n(1) on the first page, under the heading “summary,” state concisely the elements \nof each claim or defense as to which summary judgment is sought, and\n(2) if the motion is accompanied by an appendix and it is necessary to cite \nsupport for an assertion about the absence or presence of a genuine dispute \nof fact, comply with LR 56.5(c).\n(b) A moving party may satisfy the requirements of subsection (a) of this rule by stating \nin its motion that each of the required matters will be set forth in the party’s brief.\n(c) If a moving party seeks summary judgment on fewer than all claims or defenses, \nthe motion must be styled as a motion for partial summary judgment. \n(d) A motion for summary judgment must not contain argument and authorities.\n",
+          "pages": [
+            23
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 23,
+      "pageSpan": [
+        23,
+        23
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:56.4",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "56.4",
+      "citation": "Northern District of Texas · Rule 56.4",
+      "title": "Content of Response.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-24",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 56.4 Content of Response. \n(a) Except as provided in subsection (b) of this rule, a response to a motion for \nsummary judgment must\n(1) state in reasonably concise terms why the responding party opposes the \nmotion, and \n(2) if the response is accompanied by an appendix and it is necessary to cite \nsupport for an assertion about the absence or presence of a genuine dispute \nof fact, comply with LR 56.5(c).\n(b) A responding party may satisfy the requirements of subsection (a) of this rule by \nstating in its response that each of the required matters will be set forth in the party’s brief. \n(c) A response to a motion for summary judgment must not contain argument and \nauthorities.\n",
+          "pages": [
+            23
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 23,
+      "pageSpan": [
+        23,
+        23
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:56.5",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "56.5",
+      "citation": "Northern District of Texas · Rule 56.5",
+      "title": "Requirement of Brief; Briefing Requirements.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-24",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 56.5 Requirement of Brief; Briefing Requirements. \n(a) Brief Required. A summary judgment motion and a response must be \naccompanied by a brief that sets forth the argument and authorities on which the party \nrelies in support of or opposition to a motion, and must contain the matters required by LR \n56.3(a) or LR 56.4(a) if the party has opted to comply with those rules by including the \nrequired matters in its brief. Notwithstanding LR 5.1(c), the brief must be filed as a \nseparate document from the motion or response that it supports.",
+          "pages": [
+            23
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "Effective September 1, 2026\n18\n(b) Length of Briefs. The requirements of LR 7.2 apply to briefs filed pursuant to LR \n56.5(a), except that, excluding the table of contents and table of authorities, the length of a \nprincipal brief must not exceed 50 pages and a reply brief must not exceed 25 pages. The \npresiding judge, by order or other appropriate notice issued in a civil action, may restrict \nthe length of briefs to fewer pages than are permitted by this rule.\n(c) Citations to Appendix. When citing materials in the record, as required by Fed. \nR. Civ. P. 56(c)(1)(A) or (B), a party must support each assertion by citing each relevant \npage of its own or the opposing party’s appendix.\n",
+          "pages": [
+            24
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 23,
+      "pageSpan": [
+        23,
+        24
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:56.6",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "56.6",
+      "citation": "Northern District of Texas · Rule 56.6",
+      "title": "Requirement of Appendix; Appendix Requirements.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 56.6 Requirement of Appendix; Appendix Requirements. \n(a) Appendix Required. A party who relies on materials in the record—including \ndepositions, documents, electronically stored information, affidavits, declarations, \nstipulations, admissions, interrogatory answers, or other materials— to support or oppose \na motion for summary judgment must include the materials in an appendix.\n(b) Appendix Requirements. \n(1) The appendix must be assembled as a self-contained document, separate \nfrom the motion and brief or response and brief.\n(2) Each page of the appendix must measure 8½ x 11 inches. Non-documentary \nmaterials (e.g., videotapes and other physical materials) and oversized \nmaterials (e.g., maps and schematic drawings) that are included in the \nappendix must be placed in an envelope that measures 9 x 12 inches.\n(3) Each page of the appendix must be numbered legibly in the lower, right￾hand corner. The first page must be numbered as “1,” and succeeding pages \nmust be numbered sequentially through the last page of the entire appendix \n(i.e., the numbering system must not re-start with each succeeding \ndocument in the appendix). An envelope that contains non-documentary or \noversized materials must be numbered as if it were a single page.\n",
+          "pages": [
+            24
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 24,
+      "pageSpan": [
+        24,
+        24
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:56.7",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "56.7",
+      "citation": "Northern District of Texas · Rule 56.7",
+      "title": "Limit on Supplemental Materials.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 56.7 Limit on Supplemental Materials. \nExcept for the motions, responses, replies, briefs, and appendixes required by these rules, \na party may not, without the permission of the presiding judge, file supplemental pleadings, briefs, \nauthorities, or evidence.\n",
+          "pages": [
+            24
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 24,
+      "pageSpan": [
+        24,
+        24
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:58.1",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "58.1",
+      "citation": "Northern District of Texas · Rule 58.1",
+      "title": "Proposed Judgments.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 58.1 Proposed Judgments.\nEach proposed judgment must be set forth on a separate document.\n",
+          "pages": [
+            24
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 24,
+      "pageSpan": [
+        24,
+        24
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:62.1",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "62.1",
+      "citation": "Northern District of Texas · Rule 62.1",
+      "title": "Supersedeas Bond. [REPEALED]",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 62.1 Supersedeas Bond. [REPEALED]",
+          "pages": [
+            24
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "Effective September 1, 2026\n19\n",
+          "pages": [
+            25
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 24,
+      "pageSpan": [
+        24,
+        25
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:62.2",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "62.2",
+      "citation": "Northern District of Texas · Rule 62.2",
+      "title": "Stay of Inter-District Transfer Order.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 62.2 Stay of Inter-District Transfer Order.\nUnless all affected parties consent to the transfer, an order that transfers a case to a district \ncourt outside of the Fifth Circuit is stayed for 21 days from the date the order is entered on the \ndocket.\n",
+          "pages": [
+            25
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 25,
+      "pageSpan": [
+        25,
+        25
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:67.1",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "67.1",
+      "citation": "Northern District of Texas · Rule 67.1",
+      "title": "Deposit of Money in Court Registry. [REPEALED]",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 67.1 Deposit of Money in Court Registry. [REPEALED]\n",
+          "pages": [
+            25
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 25,
+      "pageSpan": [
+        25,
+        25
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:71A.1",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "71A.1",
+      "citation": "Northern District of Texas · Rule 71A.1",
+      "title": "Condemnation of Property.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 71A.1 Condemnation of Property.\nWhere the United States files separate condemnation actions and a single declaration of \ntaking relating to the separate actions, the clerk may establish a master file for the declaration of \ntaking. The single declaration in such master file shall constitute a filing of the declaration in each \nindividual action to which it relates.\n",
+          "pages": [
+            25
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 25,
+      "pageSpan": [
+        25,
+        25
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:72.1",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "72.1",
+      "citation": "Northern District of Texas · Rule 72.1",
+      "title": "Briefing Practice Concerning Objections to Magistrate Judge Orders in",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 72.1 Briefing Practice Concerning Objections to Magistrate Judge Orders in \nNondispositive Matters.\n(a) Brief. Objections filed under Fed. R. Civ. P. 72(a) must be accompanied by a brief \nthat sets forth the party’s contentions of fact and/or law, and argument and authorities, and \ncomplies with LR 7.2.\n(b) Response Brief. A response brief to objections filed under Fed. R. Civ. P. 72(a) \nmust comply with LR 7.2 and be filed within 21 days from the date the objections are filed.\n(c) Reply Brief. Unless otherwise directed by the presiding judge, a party who files \nobjections under Fed. R. Civ. P. 72(a) may file a reply brief within 14 days from the date \nthe response brief is filed. The brief must comply with LR 7.2.\n(d) Appendix Required. A party who relies on materials—including depositions, \ndocuments, electronically stored information, affidavits, declarations, stipulations, \nadmissions, interrogatory answers, or other materials—to support or oppose objections \nfiled under Fed. R. Civ. P. 72(a) must include the materials in an appendix that complies \nwith LR 7.1(i)(2)-(4).\n(e) Preparing the Record. A party who files objections under Fed. R. Civ. P. 72(a) \nis responsible for preparing the record and – if necessary for disposition of the objections \n– obtaining a hearing transcript. Unless otherwise directed by the presiding judge, the \ntranscript must be filed contemporaneously with the objections.\n",
+          "pages": [
+            25
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 25,
+      "pageSpan": [
+        25,
+        25
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:72.2",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "72.2",
+      "citation": "Northern District of Texas · Rule 72.2",
+      "title": "Briefing Practice Concerning Objections to Magistrate Judge",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 72.2 Briefing Practice Concerning Objections to Magistrate Judge \nRecommendations on Dispositive Motions and Prisoner Petitions.",
+          "pages": [
+            25
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "Effective September 1, 2026\n20\n(a) Brief. Objections filed under Fed. R. Civ. P. 72(b)(2) must be accompanied by a \nbrief that sets forth the party’s contentions of fact and/or law, and argument and authorities, \nand complies with LR 7.2.\n(b) Response Brief. A response brief to objections filed under Fed. R. Civ. P. 72(b)(2) \nmust comply with LR 7.2.\n(c) Reply Brief. Unless otherwise directed by the presiding judge, a party who files \nobjections under Fed. R. Civ. P. 72(b)(2) may file a reply brief within 14 days from the \ndate the response brief is filed. The brief must comply with LR 7.2.\n(d) Appendix Required. A party who relies on materials—including depositions, \ndocuments, electronically stored information, affidavits, declarations, stipulations, \nadmissions, interrogatory answers, or other materials—to support or oppose objections \nfiled under Fed. R. Civ. P. 72(b)(2) must include the materials in an appendix that complies \nwith LR 7.1(i)(2)-(4).\n(e) Preparing the Record. A party who files objections under Fed. R. Civ. P. 72(b)(2) \nis responsible for preparing the record and – if necessary for disposition of the objections \n– obtaining a hearing transcript. Unless otherwise directed by the presiding judge, the \ntranscript must be filed contemporaneously with the objections.\n",
+          "pages": [
+            26
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 25,
+      "pageSpan": [
+        25,
+        26
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:77.1",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "77.1",
+      "citation": "Northern District of Texas · Rule 77.1",
+      "title": "Notice of Orders and Judgments.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 77.1 Notice of Orders and Judgments.\n(a) Furnishing Copies of Orders and Judgments. Unless the presiding judge \notherwise directs, the clerk shall furnish a copy of each order and judgment to counsel of \nrecord by first class mail or by electronic transmission. Where a party is represented by \nmore than one attorney of record, the attorney designated in accordance with LR 77.1(b) \nor (c) shall receive copies of orders and judgments and distribute them to co-counsel for \nthe same party who have not received a notice of electronic filing from ECF.\n(b) Designation of Counsel to Receive Orders and Judgments. The clerk shall \ndesignate an attorney to receive copies of orders and judgments, in the following manner:\n(1) the first attorney to sign a plaintiff’s complaint;\n(2) the first attorney to sign a defendant’s initial responsive pleading;\n(3) the first attorney to sign a removing party’s notice of removal, and the first \nattorney listed on the civil cover sheet and/or supplemental civil cover sheet \nfor the remaining parties; and\n(4) the first attorney listed on the bankruptcy docket sheet for each party in a \nbankruptcy withdrawal or bankruptcy appeal. ",
+          "pages": [
+            26
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "Effective September 1, 2026\n21\n(c) Change in Designation of Counsel. If the attorney designated to receive orders\nand judgments desires that another attorney be substituted for this purpose, the attorney \nmust request substitution in the manner prescribed by the clerk.\n",
+          "pages": [
+            27
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 26,
+      "pageSpan": [
+        26,
+        27
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:79.1",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "79.1",
+      "citation": "Northern District of Texas · Rule 79.1",
+      "title": "Case Files.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 79.1 Case Files.\n(a) Official Record. The electronic version of a document maintained on ECF, or the \npaper version of a document not so maintained, is the official record of the court.\n(b) Inspection of Files. Except as otherwise limited by rule or by court order, the \nelectronic portion of an original file in a pending or closed case shall be available for public \ninspection in the clerk’s office. The paper portion of an original file shall be available in \nthe division where the case is filed, unless the file has been removed to a federal records \ncenter. The clerk shall not release the paper portion of a file from the clerk’s custody \nwithout the permission of the presiding judge, or except as permitted by subsection (d) of \nthis rule.\n(c) Inspection of Closed Files. [REPEALED]\n(d) Copies of Files. Upon request, the clerk shall provide copies of the contents of \ncase files, including transcripts of oral depositions and court proceedings. The clerk shall \ncharge the fee established by the court for this service. When large numbers of copies are \nrequested, the clerk is authorized to release the file to a commercial copying service, and \nto direct that the copy fee be paid directly to the service by the requesting party. \n",
+          "pages": [
+            27
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 27,
+      "pageSpan": [
+        27,
+        27
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:79.2",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "79.2",
+      "citation": "Northern District of Texas · Rule 79.2",
+      "title": "Disposition of Exhibits.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 79.2 Disposition of Exhibits.\n(a) Release While Case Pending. Without an order from the presiding judge, no \nexhibit in the custody of the court may be removed from the clerk’s office while the case \nis pending.\n(b) Removal or Destruction After Final Disposition of Case. All exhibits in the \ncustody of the court must be removed from the clerk’s office within 60 days after final \ndisposition of a case. The attorney who introduced the exhibits shall be responsible for \ntheir removal. Any exhibit not removed within the 60-day period may be destroyed or \notherwise disposed of by the clerk.\n",
+          "pages": [
+            27
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 27,
+      "pageSpan": [
+        27,
+        27
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:79.3",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "79.3",
+      "citation": "Northern District of Texas · Rule 79.3",
+      "title": "Sealed Documents.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 79.3 Sealed Documents. \n(a) A party may file under seal any document that a statute or rule requires or permits \nto be so filed. The term “document,” as used in this rule, means any pleading, motion, \nother paper, or physical item that the Federal Rules of Civil Procedure permit or require to \nbe filed.",
+          "pages": [
+            27
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "Effective September 1, 2026\n22\n(b) If no statute or rule requires or permits a document to be filed under seal, a party\nmay file a document under seal only on motion and by permission of the presiding judge.\n(c) When a party files a motion for leave to file a document under seal, the party may \nfile the motion under seal and must attach the proposed sealed document as an exhibit. If \nleave is granted, the sealed document will be deemed filed s of the date of the order granting \nleave, or as otherwise specified by the presiding judge, and the clerk will file a copy of the \nsealed document.\n",
+          "pages": [
+            28
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 27,
+      "pageSpan": [
+        27,
+        28
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:79.4",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "79.4",
+      "citation": "Northern District of Texas · Rule 79.4",
+      "title": "Disposition of Sealed Documents.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 79.4 Disposition of Sealed Documents. \nUnless the presiding judge otherwise directs, all sealed documents maintained on paper \nwill be deemed unsealed 60 days after final disposition of a case. A party that desires that such a \ndocument remain sealed must move for this relief before the expiration of the 60-day period. The \nclerk may store, transfer, or otherwise dispose of unsealed documents according to the procedure \nthat governs publicly available court records.\n",
+          "pages": [
+            28
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 28,
+      "pageSpan": [
+        28,
+        28
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:80.1",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "80.1",
+      "citation": "Northern District of Texas · Rule 80.1",
+      "title": "Court Reporter’s Fees. [REPEALED]",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 80.1 Court Reporter’s Fees. [REPEALED]\n",
+          "pages": [
+            28
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 28,
+      "pageSpan": [
+        28,
+        28
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:81.1",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "81.1",
+      "citation": "Northern District of Texas · Rule 81.1",
+      "title": "Required Form of Documents to be Filed Upon Removal.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 81.1 Required Form of Documents to be Filed Upon Removal. \n(a) The party or parties that remove a civil action from state court must provide the \nfollowing to the clerk for filing:\n(1) a completed civil cover sheet;\n(2) a supplemental civil cover sheet; and\n(3) if there is a “related case,” as defined by LR 3.3(b)(3) or (b)(4), a notice of \nrelated case that complies with LR 3.3(a); and\n(4) a notice of removal with a copy of each of the following attached to both\nthe original and the judge’s copy—\n(A) an index of all documents that clearly identifies each document and \nindicates the date the document was filed in state court;\n(B) a copy of the docket sheet in the state court action;\n(C) each document filed in the state court action, except discovery \nmaterial (if filed on paper, each document must be individually \ntabbed and arranged in chronological order according to the state \ncourt file date; if filed by electronic means, each document must be \nfiled as a separate attachment); and",
+          "pages": [
+            28
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "Effective September 1, 2026\n23\n(D) a separately signed certificate of interested persons that complies \nwith LR 3.1(c) or 3.2(e). \n(b) If the documents listed in subsection (a) of this rule are filed on paper, they must \nbe two-hole punched at the top, and either stapled in the upper, left-hand corner or secured \nat the top with durable fasteners if too thick to staple. If these documents are too \nvoluminous to be filed as a single unit, each unit must be secured in the manner required \nby this subsection (b) and must contain a cover sheet that identifies the case by its caption \nand by the civil action number assigned by the clerk. \n",
+          "pages": [
+            29
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 28,
+      "pageSpan": [
+        28,
+        29
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:81.2",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "81.2",
+      "citation": "Northern District of Texas · Rule 81.2",
+      "title": "Certificate of Interested Persons.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 81.2 Certificate of Interested Persons.\nWithin 21 days after the notice of removal is filed, the plaintiff shall file a separately signed \ncertificate of interested persons that complies with LR 3.1(c) or 3.2(e). If the plaintiff concurs in \nthe accuracy of another party’s previously filed certificate, the plaintiff may adopt that certificate.\n",
+          "pages": [
+            29
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 29,
+      "pageSpan": [
+        29,
+        29
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:83.1",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "83.1",
+      "citation": "Northern District of Texas · Rule 83.1",
+      "title": "Application of Rules by a Presiding Judge.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 83.1 Application of Rules by a Presiding Judge.\nNotwithstanding the local civil rules, a presiding judge may direct the parties to proceed in \nany manner that the judge deems just and expeditious.\n",
+          "pages": [
+            29
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 29,
+      "pageSpan": [
+        29,
+        29
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:83.2",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "83.2",
+      "citation": "Northern District of Texas · Rule 83.2",
+      "title": "Miscellaneous and Special Orders.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 83.2 Miscellaneous and Special Orders.\nThe clerk shall maintain in each division a copy of all miscellaneous and special orders \nadopted by the court and shall make these orders available for inspection and copying.\n",
+          "pages": [
+            29
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 29,
+      "pageSpan": [
+        29,
+        29
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:83.3",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "83.3",
+      "citation": "Northern District of Texas · Rule 83.3",
+      "title": "Assignment of Cases.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 83.3 Assignment of Cases.\nThe district judges shall determine the method by which all cases are assigned to individual \njudges. \n",
+          "pages": [
+            29
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 29,
+      "pageSpan": [
+        29,
+        29
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:83.4",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "83.4",
+      "citation": "Northern District of Texas · Rule 83.4",
+      "title": "Conduct of Attorneys at Trial or Hearing.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 83.4 Conduct of Attorneys at Trial or Hearing.\nUnless the presiding judge otherwise directs, during a trial or hearing, attorneys must:\n(a) stand when making objections or otherwise addressing the presiding judge;\n(b) use the lectern while examining or cross-examining witnesses;\n(c) when examining a witness, refrain from making statements, comments, or remarks\nbefore or after asking a question;\n(d) limit to one attorney for each party the examination or cross-examination of a\nwitness; and",
+          "pages": [
+            29
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "Effective September 1, 2026\n24\n(e) in making an objection, state plainly and briefly the grounds for objecting and not\noffer argument unless requested by the presiding judge.\n",
+          "pages": [
+            30
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 29,
+      "pageSpan": [
+        29,
+        30
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:83.4.1",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "83.4.1",
+      "citation": "Northern District of Texas · Rule 83.4.1",
+      "title": "Compliance with Standards of Litigation Conduct.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 83.4.1 Compliance with Standards of Litigation Conduct.\nAn attorney appearing in a civil action must comply with the standards of litigation conduct \nadopted in Dondi Properties Corp. v. Commerce Savings & Loan Ass’n, 121 F.R.D. 284 (N.D. \nTex. 1988) (en banc).\n",
+          "pages": [
+            30
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 30,
+      "pageSpan": [
+        30,
+        30
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:83.5",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "83.5",
+      "citation": "Northern District of Texas · Rule 83.5",
+      "title": "Clerk’s Fees. [REPEALED]",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 83.5 Clerk’s Fees. [REPEALED]\n",
+          "pages": [
+            30
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 30,
+      "pageSpan": [
+        30,
+        30
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:83.6",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "83.6",
+      "citation": "Northern District of Texas · Rule 83.6",
+      "title": "Applications to Proceed In Forma Pauperis.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 83.6 Applications to Proceed In Forma Pauperis.\nA party desiring to proceed without prepayment of fees or costs must complete the \nappropriate form and file it with the clerk.\n",
+          "pages": [
+            30
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 30,
+      "pageSpan": [
+        30,
+        30
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:83.7",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "83.7",
+      "citation": "Northern District of Texas · Rule 83.7",
+      "title": "Admission of Attorneys.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 83.7 Admission of Attorneys.\nAttorneys must fulfill the following requirements to be admitted to practice in this court:\n(a) Eligibility for Admission. Any attorney licensed to practice law by the Supreme \nCourt of Texas, or by the highest court of any state or the District of Columbia, may be \nadmitted to the bar of this court if the attorney is of good personal and professional \ncharacter and is a member in good standing of the bar where the attorney is licensed.\n(b) Procedure for Admission. Attorneys desiring admission to the bar of this court \nmust complete an application for admission, to be approved by a district judge, and except \nas provided in subsection (c) of this rule, be introduced by a member in good standing of\nthe bar of this court, and take the required oath or affirmation before a judge of this court. \nAfter the oath or affirmation is administered, and the applicant has paid the appropriate fee, \nthe clerk shall issue a certificate stating that the attorney is admitted to practice before this \ncourt.\n(c) Admission Before Judges of Other Districts. Any nonresident attorney who has \ncompleted all requirements for admission to the bar of this court may, with the approval of \na district judge of the division where the application is pending, have the oath of admission\nadministered by a judge in another district. The nonresident attorney must file the oath \nwith the clerk and pay the appropriate fee before the attorney’s name will be added to the \nroll of attorneys for this district.\n(d) Admission is Discretionary. All admissions to practice before this court shall be \ndiscretionary with the district judge reviewing the application for admission. ",
+          "pages": [
+            30
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "Effective September 1, 2026\n25\n",
+          "pages": [
+            31
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 30,
+      "pageSpan": [
+        30,
+        31
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:83.8",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "83.8",
+      "citation": "Northern District of Texas · Rule 83.8",
+      "title": "Loss of Membership and Discipline of Attorneys.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 83.8 Loss of Membership and Discipline of Attorneys.\n(a) Loss of Membership. A member of the bar of this court is subject to suspension \nor disbarment by the court under the following circumstances:\n(1) if for any reason other than nonpayment of dues, failure to meet continuing \nlegal education requirements, or voluntary resignation unrelated to a \ndisciplinary proceeding or problem, an attorney loses, either temporarily or \npermanently, the right to practice law before:\n(A) the courts of the State of Texas;\n(B) the highest court of any other state or the District of Columbia; or\n(C) any federal court; or\n(2) if an attorney fails to maintain the right to practice law before the highest\ncourt of at least one state or the District of Columbia, unless the member’s \nfailure to maintain such right results from nonpayment of dues or failure to \nmeet continuing legal education requirements.\n(b) Grounds for Disciplinary Action. A presiding judge, after giving opportunity to \nshow cause to the contrary, may take any appropriate disciplinary action against a member \nof the bar for:\n(1) conduct unbecoming a member of the bar;\n(2) failure to comply with any rule or order of this court;\n(3) unethical behavior;\n(4) inability to conduct litigation properly;\n(5) conviction by any court of a felony or crime involving dishonesty or false \nstatement; or\n(6) having been publicly or privately disciplined by any court, bar, court \nagency or committee.\n(c) Appeal of Disciplinary Action [REPEALED]\n(d) Reporting by Members. Any member of the bar of this court who has:\n(1) lost or relinquished, temporarily or permanently, the right to practice in any \ncourt of record;\n(2) been disciplined, publicly or privately, by any court, bar, court agency, \nor committee; or",
+          "pages": [
+            31
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "Effective September 1, 2026\n26\n(3) been convicted of a felony or crime involving dishonesty or false statement, \nshall promptly report such fact in writing to the clerk, supplying full details \nand copies of all pertinent documents reflecting, or explaining, such action.\n(e) Unethical Behavior. The term “unethical behavior,” as used in this rule, means\nconduct undertaken in or related to a civil action in this court that violates the Texas \nDisciplinary Rules of Professional Conduct.\n(f) Readmission. An attorney applying for readmission to the bar of this court must \nsubmit an application for readmission, together with the following materials:\n(1) a full disclosure concerning the attorney’s loss or relinquishment of \nmembership in the bar of this court; and\n(2) all information required by subsection (d) of this rule concerning facts that \noccurred prior to the date of application for readmission.\n(g) Appointment of Counsel. A presiding judge shall have the right to appoint any \nmember of the court’s bar to assist in the handling of any proceeding contemplated by or \nresulting from this rule. An attorney appointed under this rule shall perform as requested \nunless relieved from doing so. An attorney desiring relief from appointment must move\nfor such relief, which will be granted only upon a showing of good cause.\n(h) Reciprocal Discipline.\ni. A member of the bar who is subject to suspension or disbarment under LR \n83.8(a) must be given written notice by the chief judge, or by a district judge \ndesignated by the chief judge, that the court intends to suspend or disbar the \nmember. The notice must identify the ground for imposing reciprocal \ndiscipline and provide the member an opportunity to show cause, within the \ntime prescribed by the notice, why the member should not be suspended or \ndisbarred.\nii. If the member does not respond to the notice, or responds but does not \noppose reciprocal discipline, the chief judge or a designee district judge may \nenter an appropriate order after the prescribed time for a response expires \nor the response is received.\niii. If the member responds and, in whole or in part, opposes reciprocal \ndiscipline, the chief judge, or a district judge designated by the chief judge, \nmust designate three district judges to hear the matter. The decision of a \nmajority of the three-judge panel concerning the appropriate discipline shall \nbe the final ruling of this court.",
+          "pages": [
+            32
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "Effective September 1, 2026\n27\n",
+          "pages": [
+            33
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 31,
+      "pageSpan": [
+        31,
+        33
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:83.9",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "83.9",
+      "citation": "Northern District of Texas · Rule 83.9",
+      "title": "Attorneys Not Admitted to Practice Before this Court.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 83.9 Attorneys Not Admitted to Practice Before this Court.\n(a) Eligibility to Appear. An attorney who is licensed to practice law by the highest \ncourt of any state or the District of Columbia, but who is not admitted to practice before \nthis court, may represent a party in proceedings in this court only by permission of the \npresiding judge. \n(b) Application to Appear. Unless exempted by LR 83.11, an attorney who is not \nadmitted to practice in this court, who desires to appear as counsel in a case, and who is \neligible pursuant to subsection (a) of this rule to appear, shall apply for admission pro hac \nvice on a court-approved form and pay the applicable fee to the clerk. \n(c) Regulation of Attorneys Admitted Pro Hac Vice. By appearing in any case, an \nattorney becomes subject to the rules of this court.\n",
+          "pages": [
+            33
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 33,
+      "pageSpan": [
+        33,
+        33
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:83.10",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "83.10",
+      "citation": "Northern District of Texas · Rule 83.10",
+      "title": "Requirement of Local Counsel.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 83.10 Requirement of Local Counsel.\n(a) Local Counsel Required. Unless exempted under LR 83.10(c) or by LR 83.11, \nlocal counsel is required in all cases where an attorney appearing in a case does not reside \nor maintain the attorney’s principal office in this district. “Local counsel” means a member \nof the bar of this court who resides or maintains the attorney’s principal office in this \ndistrict. If the presiding judge so orders, local counsel may be subject to requirements such \nas residing or maintaining the attorney’s principal office within a specified distance from \nthe courthouse in which the case is pending.\n(b) Duties of Local Counsel. Local counsel must be able to perform, on behalf of the \nparty represented, any duty required by the presiding judge or the local civil rules of this \ncourt.\n(c) Exemption from Local Counsel Requirement. The presiding judge may exempt \na party from the local counsel requirement in a case pending before the judge.\n",
+          "pages": [
+            33
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 33,
+      "pageSpan": [
+        33,
+        33
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:83.11",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "83.11",
+      "citation": "Northern District of Texas · Rule 83.11",
+      "title": "Exemption from Admission to Practice, and from Requirement of Local",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 83.11 Exemption from Admission to Practice, and from Requirement of Local \nCounsel, for Attorneys Appearing on Behalf of the United States Justice \nDepartment or the Attorney General of the State of Texas.\nUnless the presiding judge otherwise directs, an attorney appearing on behalf of the United \nStates Justice Department or the Attorney General of the State of Texas, and who is eligible \npursuant to LR 83.9(a) to appear in this court, shall be exempt from the requirements of LR 83.9(b) \nand 83.10, but shall otherwise be subject to all requirements applicable to attorneys who have been \ngranted leave to appear pro hac vice.\n",
+          "pages": [
+            33
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 33,
+      "pageSpan": [
+        33,
+        33
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:83.12",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "83.12",
+      "citation": "Northern District of Texas · Rule 83.12",
+      "title": "Withdrawal or Substitution of Attorney.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 83.12 Withdrawal or Substitution of Attorney.\n(a) Except as provided in subsection (b), (c), or (d) of this rule, an attorney desiring to \nwithdraw in any case must file a motion to withdraw. This motion must, in addition to the ",
+          "pages": [
+            33
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "Effective September 1, 2026\n28\nmatters required by LR 7.1, specify the reasons requiring withdrawal and provide the name \nand address of the succeeding attorney. If the succeeding attorney is not known, the motion \nmust set forth the name, address, and telephone number of the client and either bear the \nclient’s signature approving withdrawal or state specifically why, after due diligence, the \nattorney was unable to obtain the client’s signature.\n(b) When an Assistant United States Attorney enters an appearance in a case, another \nAssistant United States Attorney may replace the attorney by filing a notice of substitution \nthat identifies the attorney being replaced. Unless the presiding judge otherwise directs, \nthe notice effects the withdrawal of the attorney being replaced.\n(c) When the Federal Public Defender is appointed to represent a party and an Assistant \nFederal Public Defender enters an appearance in the case, another Assistant Federal Public \nDefender may replace the attorney who has entered an appearance by filing a notice of \nsubstitution that identifies the attorney being replaced. Unless the presiding judge \notherwise directs, the notice effects the withdrawal of the attorney being replaced.\n(d) When an attorney desiring to withdraw is to be replaced simultaneously, the \nsucceeding attorney must file a motion to substitute counsel. If the presiding judge grants \nthe motion, the order effects both the substitution of the succeeding attorney and the \nwithdrawal of the attorney being replaced. This subsection (d) does not supersede \nsubsection (b) or (c) of this rule. \n",
+          "pages": [
+            34
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 33,
+      "pageSpan": [
+        33,
+        34
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:83.13",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "83.13",
+      "citation": "Northern District of Texas · Rule 83.13",
+      "title": "Change of Contact Information or Name.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 83.13 Change of Contact Information or Name.\n(a) Attorney Who is Not a Registered User of ECF. When an attorney who is not a \nregistered user of ECF changes the attorney’s business address, e-mail address, telephone \nnumber, facsimile number, or name, the attorney must promptly notify the clerk, using the \napproved method, and the presiding judge, in writing, in each pending case. \n(b) Attorney Who is a Registered User of ECF. When an attorney who is a registered \nuser of ECF changes the attorney’s business address, e-mail address, telephone number, \nfacsimile number, or name, the attorney must promptly change this information in ECF, \nfollowing procedures set forth in the ECF Administrative Procedures Manual.\n",
+          "pages": [
+            34
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 34,
+      "pageSpan": [
+        34,
+        34
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:83.14",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "83.14",
+      "citation": "Northern District of Texas · Rule 83.14",
+      "title": "Parties Proceeding Pro Se.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 83.14 Parties Proceeding Pro Se.\nAny party proceeding on the party’s own behalf is considered pro se. Pro se parties must \nread and follow the local civil rules of this court and the Federal Rules of Civil Procedure. \n",
+          "pages": [
+            34
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 34,
+      "pageSpan": [
+        34,
+        34
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:83.15",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "83.15",
+      "citation": "Northern District of Texas · Rule 83.15",
+      "title": "Attorney as a Witness. [REPEALED]",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 83.15 Attorney as a Witness. [REPEALED]",
+          "pages": [
+            34
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "Effective September 1, 2026\n29\n",
+          "pages": [
+            35
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 34,
+      "pageSpan": [
+        34,
+        35
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:83.16",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "83.16",
+      "citation": "Northern District of Texas · Rule 83.16",
+      "title": "Dress and Conduct.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 83.16 Dress and Conduct.\nAll persons present in a courtroom where a trial, hearing, or other proceeding is in progress \nmust dress and conduct themselves in a manner demonstrating respect for the court. The presiding \njudge shall have the discretion to establish appropriate standards of dress and conduct.\n",
+          "pages": [
+            35
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 35,
+      "pageSpan": [
+        35,
+        35
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:83.17",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "83.17",
+      "citation": "Northern District of Texas · Rule 83.17",
+      "title": "Weapons Forbidden.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 83.17 Weapons Forbidden.\nFirearms and other weapons are prohibited in areas of buildings designated for court use. \nSuch weapons may be carried by the United States Marshal, the marshal’s deputies, courtroom \nsecurity personnel, and other law enforcement officers to whom a presiding judge has given \nauthority.\n",
+          "pages": [
+            35
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 35,
+      "pageSpan": [
+        35,
+        35
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txnd-civil:83.18",
+      "collectionId": "txnd-civil",
+      "districtId": "txnd",
+      "number": "83.18",
+      "citation": "Northern District of Texas · Rule 83.18",
+      "title": "Photographs, Broadcasting, Recording, and Television Forbidden.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 83.18 Photographs, Broadcasting, Recording, and Television Forbidden.\nExcept as the presiding judge permits under the authority of a United States statute, a \nFederal Rule of Civil Procedure, a policy adopted by the Judicial Conference of the United States, \nor an order of The Judicial Council of the Fifth Circuit, no person may photograph, electronically \nrecord, televise, or broadcast a judicial proceeding. This rule shall not apply to ceremonial \nproceedings or electronic recordings by an official court reporter or other authorized court \npersonnel.",
+          "pages": [
+            35
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txnd-civil-parsed-v1-46a817694c28c417",
+      "sourceDocumentId": "parsed-txnd-46a817694c28c417",
+      "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+      "pageIndex": 35,
+      "pageSpan": [
+        35,
+        35
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    }
+  ],
+  "evidence": [
+    {
+      "number": "1.1",
+      "heading": "LR 1.1 Definitions.",
+      "page": 8,
+      "offset": 119,
+      "slices": [
+        {
+          "page": 8,
+          "start": 119,
+          "end": 1657,
+          "sha256": "fccdac38f5ad3510a6ab2bdefb1d23b34ca57a8c7d9804f1fa244af625577547"
+        },
+        {
+          "page": 9,
+          "start": 0,
+          "end": 30,
+          "sha256": "b15621d958691dd0d1cbe349c45eec449c6c27f26f00b4f5eb6b8c0c17ee53a9"
+        }
+      ]
+    },
+    {
+      "number": "3.1",
+      "heading": "LR 3.1 Filing Complaint by Electronic Means.",
+      "page": 9,
+      "offset": 30,
+      "slices": [
+        {
+          "page": 9,
+          "start": 30,
+          "end": 917,
+          "sha256": "38b830737ea0a0319c5849b2b17663b26f1bd1a549b9b89cec67da95d389b95f"
+        }
+      ]
+    },
+    {
+      "number": "3.2",
+      "heading": "LR 3.2 Filing Complaint on Paper.",
+      "page": 9,
+      "offset": 917,
+      "slices": [
+        {
+          "page": 9,
+          "start": 917,
+          "end": 1815,
+          "sha256": "72270b9498db693f9803c1e3564be49042fe8213598fc56bad11841a50e6c77c"
+        }
+      ]
+    },
+    {
+      "number": "3.3",
+      "heading": "LR 3.3 Filing Complaint in Related Case; Notice of Related Case.",
+      "page": 9,
+      "offset": 1815,
+      "slices": [
+        {
+          "page": 9,
+          "start": 1815,
+          "end": 2208,
+          "sha256": "912d3c717dcf08492ff9b552bea116c3a7164142421f3de8dfd62236e460f5ba"
+        },
+        {
+          "page": 10,
+          "start": 0,
+          "end": 1358,
+          "sha256": "61c40fc9cce74a585efce317f6023d3bd9023089f2d9088e6c2ee0b2e31d49cb"
+        }
+      ]
+    },
+    {
+      "number": "4.1",
+      "heading": "LR 4.1 Proof of Service or of Waiver of Service.",
+      "page": 10,
+      "offset": 1358,
+      "slices": [
+        {
+          "page": 10,
+          "start": 1358,
+          "end": 1597,
+          "sha256": "359b3b5e35b5dc0409e1f550fd973b40601d281bebdaafaae104ac69ba7fe740"
+        }
+      ]
+    },
+    {
+      "number": "4.2",
+      "heading": "LR 4.2 Marshal’s Fees. [REPEALED]",
+      "page": 10,
+      "offset": 1597,
+      "slices": [
+        {
+          "page": 10,
+          "start": 1597,
+          "end": 1631,
+          "sha256": "0b0cdd5ce6f181421e697369c85c986b6acc0f4c14d6865b398b08daacd2dfac"
+        }
+      ]
+    },
+    {
+      "number": "5.1",
+      "heading": "LR 5.1 Filing and Serving Pleadings, Motions, or Other Papers.",
+      "page": 10,
+      "offset": 1631,
+      "slices": [
+        {
+          "page": 10,
+          "start": 1631,
+          "end": 2289,
+          "sha256": "93e954f8d38b9473388403837cc8f8e77c230a2ba7b6e6fe207ea14e4d78c2a3"
+        },
+        {
+          "page": 11,
+          "start": 0,
+          "end": 1234,
+          "sha256": "039fc6bee8a935d0c284d3dd6f44668e4628d183a0c53c3ff4e84b30dfb71c6f"
+        }
+      ]
+    },
+    {
+      "number": "5.2",
+      "heading": "LR 5.2 Filing Discovery Materials.",
+      "page": 11,
+      "offset": 1234,
+      "slices": [
+        {
+          "page": 11,
+          "start": 1234,
+          "end": 1809,
+          "sha256": "61a6cb0e689bf9cf1e48c978ba05053b62987e1d35c5226f057a53dbf49a365d"
+        }
+      ]
+    },
+    {
+      "number": "5.3",
+      "heading": "LR 5.3 Prisoner’s Civil Rights Complaints.",
+      "page": 11,
+      "offset": 1809,
+      "slices": [
+        {
+          "page": 11,
+          "start": 1809,
+          "end": 2053,
+          "sha256": "488c96862fe2117093ea2f59d37aed830afd45b24cc23a6d4b99416c376985b0"
+        }
+      ]
+    },
+    {
+      "number": "5.4",
+      "heading": "LR 5.4 Post-Conviction Relief.",
+      "page": 11,
+      "offset": 2053,
+      "slices": [
+        {
+          "page": 11,
+          "start": 2053,
+          "end": 2312,
+          "sha256": "90b4d878d44845dd5a2ccd806e6b67b62981c5f1e4dc63875ab7d0dc907f5b87"
+        },
+        {
+          "page": 12,
+          "start": 0,
+          "end": 30,
+          "sha256": "32ecca9d8e82e88a493b353e96923fbdb1fbd841d9263afc284fd552362f99da"
+        }
+      ]
+    },
+    {
+      "number": "6.1",
+      "heading": "LR 6.1 Time Deemed Filed.",
+      "page": 12,
+      "offset": 30,
+      "slices": [
+        {
+          "page": 12,
+          "start": 30,
+          "end": 353,
+          "sha256": "4d93c7da8e5168034978c9748993f9242c682a214500b81a806db02ccfb7ca75"
+        }
+      ]
+    },
+    {
+      "number": "7.1",
+      "heading": "LR 7.1 Motion Practice.",
+      "page": 12,
+      "offset": 353,
+      "slices": [
+        {
+          "page": 12,
+          "start": 353,
+          "end": 2431,
+          "sha256": "d2a0ae6d1402943bb5ae75f4b2419c9def85ff44f35985ce2c03a91e43adccbd"
+        },
+        {
+          "page": 13,
+          "start": 0,
+          "end": 340,
+          "sha256": "03c916951de4b3d1397006411665e3a49cda53db50347a0e82c973943fb2567b"
+        },
+        {
+          "page": 14,
+          "start": 0,
+          "end": 668,
+          "sha256": "8293a38437626737df816ca5ee98304bae9345c894b8dccfab422f327b5552e3"
+        },
+        {
+          "page": 15,
+          "start": 0,
+          "end": 1201,
+          "sha256": "faf8dbb48b144b1ace78b037214e1fb564a90b68ab45ec680816a8cf4acc5bc3"
+        }
+      ]
+    },
+    {
+      "number": "7.2",
+      "heading": "LR 7.2 Briefs.",
+      "page": 15,
+      "offset": 1201,
+      "slices": [
+        {
+          "page": 15,
+          "start": 1201,
+          "end": 2229,
+          "sha256": "e0e819800aa82a81bb074754975d50e1feda444017cb992ebfe67341624eedf1"
+        },
+        {
+          "page": 16,
+          "start": 0,
+          "end": 1541,
+          "sha256": "aedb41ce91187e018e96952e95379861d23e50889f3a1586fff736d556fc2a2b"
+        }
+      ]
+    },
+    {
+      "number": "7.3",
+      "heading": "LR 7.3 Confirmation of Informal Leave of Court.",
+      "page": 16,
+      "offset": 1541,
+      "slices": [
+        {
+          "page": 16,
+          "start": 1541,
+          "end": 1831,
+          "sha256": "e764271504bea2de74163866b6e915953dfa3db3a488e631abd23c0363037ba7"
+        }
+      ]
+    },
+    {
+      "number": "7.4",
+      "heading": "LR 7.4 Certificate of Interested Persons.",
+      "page": 16,
+      "offset": 1831,
+      "slices": [
+        {
+          "page": 16,
+          "start": 1831,
+          "end": 2246,
+          "sha256": "5ba383166a4fa37771c92c68ae1c7caff7eaec82f98727994987fc20047dbbde"
+        },
+        {
+          "page": 17,
+          "start": 0,
+          "end": 31,
+          "sha256": "77b11f34695ca0149f9d7547b5e4b90d00876367db319ac68c640b596e767500"
+        }
+      ]
+    },
+    {
+      "number": "7.5",
+      "heading": "LR 7.5 Page Limits in Death Penalty Habeas Cases.",
+      "page": 17,
+      "offset": 31,
+      "slices": [
+        {
+          "page": 17,
+          "start": 31,
+          "end": 831,
+          "sha256": "d5d237718eadb57f264db10c7f34c1962541ebfb594378b4ecc552bd2b70c04e"
+        }
+      ]
+    },
+    {
+      "number": "9.1",
+      "heading": "LR 9.1 Social Security and Black Lung Cases. [REPEALED]",
+      "page": 17,
+      "offset": 831,
+      "slices": [
+        {
+          "page": 17,
+          "start": 831,
+          "end": 887,
+          "sha256": "a92d661e1f6fc67b492857272009e13af86e5589b5ea00a4683114fc1b983514"
+        }
+      ]
+    },
+    {
+      "number": "10.1",
+      "heading": "LR 10.1 Required Form.",
+      "page": 17,
+      "offset": 887,
+      "slices": [
+        {
+          "page": 17,
+          "start": 887,
+          "end": 1712,
+          "sha256": "aee445eebb1cf8399d1e6a12aea5c979240412b5a2ff7999ce6e315ccdde8ada"
+        }
+      ]
+    },
+    {
+      "number": "11.1",
+      "heading": "LR 11.1 Electronic Signature.",
+      "page": 17,
+      "offset": 1712,
+      "slices": [
+        {
+          "page": 17,
+          "start": 1712,
+          "end": 1849,
+          "sha256": "0232a824afcb13c2649c977591e77017c92f80311ed3c606520768930068baf5"
+        },
+        {
+          "page": 18,
+          "start": 0,
+          "end": 753,
+          "sha256": "e1611f29dbf5224986e9b449a78b2a0b1d5db6e0c36d104510fc11b64828f70b"
+        }
+      ]
+    },
+    {
+      "number": "12.1",
+      "heading": "LR 12.1 Motion for More Definite Statement. [REPEALED]",
+      "page": 18,
+      "offset": 753,
+      "slices": [
+        {
+          "page": 18,
+          "start": 753,
+          "end": 808,
+          "sha256": "09a7fb87fa4f3f3d9c562cda3ef5b91558708898423a971f5af3426c9481cd69"
+        }
+      ]
+    },
+    {
+      "number": "15.1",
+      "heading": "LR 15.1 Motions to Amend.",
+      "page": 18,
+      "offset": 808,
+      "slices": [
+        {
+          "page": 18,
+          "start": 808,
+          "end": 1885,
+          "sha256": "0d2f7a0c7383fde0f5d05c75b326c53cdfa3cbd95b931eae26612211ecbdd8ee"
+        }
+      ]
+    },
+    {
+      "number": "16.1",
+      "heading": "LR 16.1 Exemptions from Pretrial Scheduling and Management.",
+      "page": 18,
+      "offset": 1885,
+      "slices": [
+        {
+          "page": 18,
+          "start": 1885,
+          "end": 2329,
+          "sha256": "468fa646602738c3cbca2c2013c82b1f9158afabccdc55829c5be9c77dbca7fa"
+        },
+        {
+          "page": 19,
+          "start": 0,
+          "end": 535,
+          "sha256": "99bce2db24f18a2d6cda136c841e0c59d866ebde2cbcf8971ab5166554c4593b"
+        }
+      ]
+    },
+    {
+      "number": "16.2",
+      "heading": "LR 16.2 Authority of Magistrate Judges as to Scheduling Orders.",
+      "page": 19,
+      "offset": 535,
+      "slices": [
+        {
+          "page": 19,
+          "start": 535,
+          "end": 757,
+          "sha256": "61aba666c4f168b4b25b8600ee1ddb6fd2fe531a7411f4f1479231b58fb60ff6"
+        }
+      ]
+    },
+    {
+      "number": "16.3",
+      "heading": "LR 16.3 Settlement.",
+      "page": 19,
+      "offset": 757,
+      "slices": [
+        {
+          "page": 19,
+          "start": 757,
+          "end": 1194,
+          "sha256": "ec0bd6f08f542e69f7735f1c5cb511e695aca7bb47d3f3c34676859fa79f08f0"
+        }
+      ]
+    },
+    {
+      "number": "16.4",
+      "heading": "LR 16.4 Pretrial Order.",
+      "page": 19,
+      "offset": 1194,
+      "slices": [
+        {
+          "page": 19,
+          "start": 1194,
+          "end": 1691,
+          "sha256": "1128d673b752fc400b333b45252d6fb05e10aceaa7a3587f5f81e2927cdffee4"
+        },
+        {
+          "page": 20,
+          "start": 0,
+          "end": 222,
+          "sha256": "45eb46023bafe095c295dc02092d2649915338bb24a1f9aaa6b2a09f29c4d08a"
+        }
+      ]
+    },
+    {
+      "number": "23.1",
+      "heading": "LR 23.1 Complaint.",
+      "page": 20,
+      "offset": 222,
+      "slices": [
+        {
+          "page": 20,
+          "start": 222,
+          "end": 416,
+          "sha256": "52ed225e4ab7bb68becd821f3e50722a216759c3064a6a1e8b26e8964855b350"
+        }
+      ]
+    },
+    {
+      "number": "23.2",
+      "heading": "LR 23.2 Motion for Certification; Briefs.",
+      "page": 20,
+      "offset": 416,
+      "slices": [
+        {
+          "page": 20,
+          "start": 416,
+          "end": 1871,
+          "sha256": "319890ca8987ecc79496f1eb77a744b33063e9013f9356d95ecfbceb670fce48"
+        },
+        {
+          "page": 21,
+          "start": 0,
+          "end": 31,
+          "sha256": "12a7ad165818cc6f4d276665987f5ee1073e145f57ea31742bafbd1086f8cb8a"
+        }
+      ]
+    },
+    {
+      "number": "23.3",
+      "heading": "LR 23.3 Class Notice Responses.",
+      "page": 21,
+      "offset": 31,
+      "slices": [
+        {
+          "page": 21,
+          "start": 31,
+          "end": 913,
+          "sha256": "5840d8eb262358f22c0e16b91e97846a175139e197cfa53111d5ed5fc6bc5247"
+        }
+      ]
+    },
+    {
+      "number": "26.1",
+      "heading": "LR 26.1 Initial Disclosures Not Required. [REPEALED]",
+      "page": 21,
+      "offset": 913,
+      "slices": [
+        {
+          "page": 21,
+          "start": 913,
+          "end": 966,
+          "sha256": "0c8b4df15978bf7996564f97225f1d7c18fe3cbdbbc455e4a4e3d0b9aa54c081"
+        }
+      ]
+    },
+    {
+      "number": "26.2",
+      "heading": "LR 26.2 Exchanging Exhibits, Exhibit Lists, and Witness Lists; Designating Deposition",
+      "page": 21,
+      "offset": 966,
+      "slices": [
+        {
+          "page": 21,
+          "start": 966,
+          "end": 2072,
+          "sha256": "de64e22530e0dc299dcfc7b73ab8a4247ac8d40df09b8ec424700dab056abcf7"
+        }
+      ]
+    },
+    {
+      "number": "40.1",
+      "heading": "LR 40.1 Motions for Continuance.",
+      "page": 21,
+      "offset": 2072,
+      "slices": [
+        {
+          "page": 21,
+          "start": 2072,
+          "end": 2392,
+          "sha256": "599656235a386ee1da1c6e6e380782d2d8ac524844bf47e86918fcb8321d3d10"
+        },
+        {
+          "page": 22,
+          "start": 0,
+          "end": 31,
+          "sha256": "445c1d7f80a57c7652b89e679d5b272628be1f7d323fd201e6953e227b78d74f"
+        }
+      ]
+    },
+    {
+      "number": "41.1",
+      "heading": "LR 41.1 Order of Dismissal. [REPEALED]",
+      "page": 22,
+      "offset": 31,
+      "slices": [
+        {
+          "page": 22,
+          "start": 31,
+          "end": 70,
+          "sha256": "94675f9a9f03d1a6de62d238276c8e658e4b1e4121f4acaaa2398b831551ca69"
+        }
+      ]
+    },
+    {
+      "number": "42.1",
+      "heading": "LR 42.1 Motions to Consolidate.",
+      "page": 22,
+      "offset": 70,
+      "slices": [
+        {
+          "page": 22,
+          "start": 70,
+          "end": 531,
+          "sha256": "b581ae727cc22c6437098242557aa49e84cd6829410be4084e5e7fb576995441"
+        }
+      ]
+    },
+    {
+      "number": "47.1",
+      "heading": "LR 47.1 Contact with Jurors.",
+      "page": 22,
+      "offset": 531,
+      "slices": [
+        {
+          "page": 22,
+          "start": 531,
+          "end": 830,
+          "sha256": "be03becdac0e567ed5d9ad79c16dad1334e7533504f43e93a1bcaffe87873a42"
+        }
+      ]
+    },
+    {
+      "number": "51.1",
+      "heading": "LR 51.1 Requested Jury Charge. [REPEALED]",
+      "page": 22,
+      "offset": 830,
+      "slices": [
+        {
+          "page": 22,
+          "start": 830,
+          "end": 872,
+          "sha256": "9a16e53298017faeb52fd79a7b5f34bcc30f1c40c77efedf5ef0ed1368979d9c"
+        }
+      ]
+    },
+    {
+      "number": "52.1",
+      "heading": "LR 52.1 Proposed Findings in Nonjury Cases.",
+      "page": 22,
+      "offset": 872,
+      "slices": [
+        {
+          "page": 22,
+          "start": 872,
+          "end": 1265,
+          "sha256": "be499a0dc85c138be86fba88ad92ee4a7cf7f975e910d4071d1ba556dc50b954"
+        }
+      ]
+    },
+    {
+      "number": "53.1",
+      "heading": "LR 53.1 Briefing Practice for Objections and Motions Concerning Orders, Reports,",
+      "page": 22,
+      "offset": 1265,
+      "slices": [
+        {
+          "page": 22,
+          "start": 1265,
+          "end": 2313,
+          "sha256": "847ca250c3500b52df1874f40e8929b1289a8017cfef171fc436cc7ebf2b1273"
+        },
+        {
+          "page": 23,
+          "start": 0,
+          "end": 520,
+          "sha256": "06885c376781534df0574c03e9300ba3b4464319723acbeff39265f99126baee"
+        }
+      ]
+    },
+    {
+      "number": "54.1",
+      "heading": "LR 54.1 Time for Filing Bill of Costs.",
+      "page": 23,
+      "offset": 520,
+      "slices": [
+        {
+          "page": 23,
+          "start": 520,
+          "end": 1049,
+          "sha256": "33af15614e3736a5d36950d04b4cac98b69c6542ca0f3a6a43ed37ac8be7d427"
+        }
+      ]
+    },
+    {
+      "number": "55.1",
+      "heading": "LR 55.1 Failure to Obtain Default Judgment.",
+      "page": 23,
+      "offset": 1049,
+      "slices": [
+        {
+          "page": 23,
+          "start": 1049,
+          "end": 1390,
+          "sha256": "d0ffa726e181faacd86440c65a06694c4b7cabac956508a00fa7d1d48f9f3165"
+        }
+      ]
+    },
+    {
+      "number": "55.2",
+      "heading": "LR 55.2 Default Judgments by the United States. [REPEALED]",
+      "page": 23,
+      "offset": 1390,
+      "slices": [
+        {
+          "page": 23,
+          "start": 1390,
+          "end": 1449,
+          "sha256": "dc34bf0908a95b032fd10801f5cb45204606933546699c93494d6e08f7202701"
+        }
+      ]
+    },
+    {
+      "number": "55.3",
+      "heading": "LR 55.3 Request for Entry of Default by Clerk.",
+      "page": 23,
+      "offset": 1449,
+      "slices": [
+        {
+          "page": 23,
+          "start": 1449,
+          "end": 1752,
+          "sha256": "dac1056a891b3c9b1324892b0a9776f8ea7b0b2c7e7a3a1f39820dbbed655c9f"
+        }
+      ]
+    },
+    {
+      "number": "56.1",
+      "heading": "LR 56.1 Motion Practice Not Modified Generally.",
+      "page": 23,
+      "offset": 1752,
+      "slices": [
+        {
+          "page": 23,
+          "start": 1752,
+          "end": 1909,
+          "sha256": "641f93b0c83a1c419874a5413c3be4cfb039e77a6b8e19792315ebc70e616a8b"
+        }
+      ]
+    },
+    {
+      "number": "56.2",
+      "heading": "LR 56.2 Limits on Time for Filing and Number of Motions.",
+      "page": 23,
+      "offset": 1909,
+      "slices": [
+        {
+          "page": 23,
+          "start": 1909,
+          "end": 2266,
+          "sha256": "202c85c29478237485aa0e9dd7fe44c59e44b39c19c02d0deaaf92c58bf279ea"
+        },
+        {
+          "page": 24,
+          "start": 0,
+          "end": 31,
+          "sha256": "bd773a76c30e57f05289b4a79dfcfe6e6549ee739b368af64d80a6b58a3a2255"
+        }
+      ]
+    },
+    {
+      "number": "56.3",
+      "heading": "LR 56.3 Content of Motion.",
+      "page": 24,
+      "offset": 31,
+      "slices": [
+        {
+          "page": 24,
+          "start": 31,
+          "end": 961,
+          "sha256": "d5e8d95c32b39e7562cf7342f307f201508d935a25d2446d6e065aa7aad27ce3"
+        }
+      ]
+    },
+    {
+      "number": "56.4",
+      "heading": "LR 56.4 Content of Response.",
+      "page": 24,
+      "offset": 961,
+      "slices": [
+        {
+          "page": 24,
+          "start": 961,
+          "end": 1652,
+          "sha256": "b7a965c2b02e1479cd0bfa5b43929084422e2c2d90f3db5dc646b03b90c900dc"
+        }
+      ]
+    },
+    {
+      "number": "56.5",
+      "heading": "LR 56.5 Requirement of Brief; Briefing Requirements.",
+      "page": 24,
+      "offset": 1652,
+      "slices": [
+        {
+          "page": 24,
+          "start": 1652,
+          "end": 2198,
+          "sha256": "655603d3e79185e14f274c93c801d34e2fa3588d6317e35f139157eb88244a16"
+        },
+        {
+          "page": 25,
+          "start": 0,
+          "end": 695,
+          "sha256": "5b7bfa00f375f24958577d7ca80f2340ae11045d04ac8b9742ab5f3b8dccdfc3"
+        }
+      ]
+    },
+    {
+      "number": "56.6",
+      "heading": "LR 56.6 Requirement of Appendix; Appendix Requirements.",
+      "page": 25,
+      "offset": 695,
+      "slices": [
+        {
+          "page": 25,
+          "start": 695,
+          "end": 1956,
+          "sha256": "5f3a0b32c60c7492d9ead1f853e3f511f093145e39057ee7f2644f98c98c33d6"
+        }
+      ]
+    },
+    {
+      "number": "56.7",
+      "heading": "LR 56.7 Limit on Supplemental Materials.",
+      "page": 25,
+      "offset": 1956,
+      "slices": [
+        {
+          "page": 25,
+          "start": 1956,
+          "end": 2219,
+          "sha256": "cba2364b074e0d1a2721415a8f2a181019d3734ba0d72377868e5fbadbc624b2"
+        }
+      ]
+    },
+    {
+      "number": "58.1",
+      "heading": "LR 58.1 Proposed Judgments.",
+      "page": 25,
+      "offset": 2219,
+      "slices": [
+        {
+          "page": 25,
+          "start": 2219,
+          "end": 2312,
+          "sha256": "b69cf38e3915bc187478daac6f8e6dce4d8f5f3ed1fc40ea1ab03feda6770971"
+        }
+      ]
+    },
+    {
+      "number": "62.1",
+      "heading": "LR 62.1 Supersedeas Bond. [REPEALED]",
+      "page": 25,
+      "offset": 2312,
+      "slices": [
+        {
+          "page": 25,
+          "start": 2312,
+          "end": 2348,
+          "sha256": "0d49a84ecb96ce86cb7a27b5f26c0a8907c064dece56c46191d4f69be02fc7e7"
+        },
+        {
+          "page": 26,
+          "start": 0,
+          "end": 31,
+          "sha256": "c20f2777e29ab9a09f42679745765c4b6f9f692acb27d7ac0e8613e23099402b"
+        }
+      ]
+    },
+    {
+      "number": "62.2",
+      "heading": "LR 62.2 Stay of Inter-District Transfer Order.",
+      "page": 26,
+      "offset": 31,
+      "slices": [
+        {
+          "page": 26,
+          "start": 31,
+          "end": 285,
+          "sha256": "d8aacbff19a09fda6b5dc71a43c5399093b1d0ec112988026545bba6fb96b4fa"
+        }
+      ]
+    },
+    {
+      "number": "67.1",
+      "heading": "LR 67.1 Deposit of Money in Court Registry. [REPEALED]",
+      "page": 26,
+      "offset": 285,
+      "slices": [
+        {
+          "page": 26,
+          "start": 285,
+          "end": 340,
+          "sha256": "7a3a19c418f4f68cb0f3234f88927b263d339671836ccf90b348e64b879f9b34"
+        }
+      ]
+    },
+    {
+      "number": "71A.1",
+      "heading": "LR 71A.1 Condemnation of Property.",
+      "page": 26,
+      "offset": 340,
+      "slices": [
+        {
+          "page": 26,
+          "start": 340,
+          "end": 711,
+          "sha256": "c18e5c70477cca2812d777d228bcb5c4c1c3a7309f4e6e1a24b8bd2ab4793db2"
+        }
+      ]
+    },
+    {
+      "number": "72.1",
+      "heading": "LR 72.1 Briefing Practice Concerning Objections to Magistrate Judge Orders in",
+      "page": 26,
+      "offset": 711,
+      "slices": [
+        {
+          "page": 26,
+          "start": 711,
+          "end": 2137,
+          "sha256": "f891add93a44bcb622e734a9e235a9ff20b5e04ed13e8dee6abd37b35a079795"
+        }
+      ]
+    },
+    {
+      "number": "72.2",
+      "heading": "LR 72.2 Briefing Practice Concerning Objections to Magistrate Judge",
+      "page": 26,
+      "offset": 2137,
+      "slices": [
+        {
+          "page": 26,
+          "start": 2137,
+          "end": 2268,
+          "sha256": "d56eba438ba8a19fec6a2b00a2683b7d6e303fd0c1f9ce13e494b88f6c65c0d3"
+        },
+        {
+          "page": 27,
+          "start": 0,
+          "end": 1302,
+          "sha256": "9dbc61e1b73f9138124038ac08b80bb3123a1f6c9ad7bab63c8f5335820f5f8d"
+        }
+      ]
+    },
+    {
+      "number": "77.1",
+      "heading": "LR 77.1 Notice of Orders and Judgments.",
+      "page": 27,
+      "offset": 1302,
+      "slices": [
+        {
+          "page": 27,
+          "start": 1302,
+          "end": 2475,
+          "sha256": "a1e4642419a577eb804c5b9fdbf8dffe3c40230294468acdab8f1030a418d634"
+        },
+        {
+          "page": 28,
+          "start": 0,
+          "end": 270,
+          "sha256": "b492721f5cb32c2b2dc75faa7778ef228f7205fac745c23f6424c0d424fbb118"
+        }
+      ]
+    },
+    {
+      "number": "79.1",
+      "heading": "LR 79.1 Case Files.",
+      "page": 28,
+      "offset": 270,
+      "slices": [
+        {
+          "page": 28,
+          "start": 270,
+          "end": 1517,
+          "sha256": "192ba920a6e3863b0e9604887981a44cdee9b71a03aa88d4b3ea56942aea2642"
+        }
+      ]
+    },
+    {
+      "number": "79.2",
+      "heading": "LR 79.2 Disposition of Exhibits.",
+      "page": 28,
+      "offset": 1517,
+      "slices": [
+        {
+          "page": 28,
+          "start": 1517,
+          "end": 2113,
+          "sha256": "39d3676e2d5fbcc7c1200e07c74a61aa0b419d045e396bdb16c99248af42d9c6"
+        }
+      ]
+    },
+    {
+      "number": "79.3",
+      "heading": "LR 79.3 Sealed Documents.",
+      "page": 28,
+      "offset": 2113,
+      "slices": [
+        {
+          "page": 28,
+          "start": 2113,
+          "end": 2420,
+          "sha256": "ac7aa342e04db4fce940f3938096cebd32129d07ca1c64b546b1bd0aa433defc"
+        },
+        {
+          "page": 29,
+          "start": 0,
+          "end": 596,
+          "sha256": "43d3626e20a12bb7b4f70a2468f7f6502e8961d12e45705b63419d72912a2f1b"
+        }
+      ]
+    },
+    {
+      "number": "79.4",
+      "heading": "LR 79.4 Disposition of Sealed Documents.",
+      "page": 29,
+      "offset": 596,
+      "slices": [
+        {
+          "page": 29,
+          "start": 596,
+          "end": 1070,
+          "sha256": "49bd9af4dd5897611f81e2fd4d8b7d4e063809771150b62bc80832c809c15e03"
+        }
+      ]
+    },
+    {
+      "number": "80.1",
+      "heading": "LR 80.1 Court Reporter’s Fees. [REPEALED]",
+      "page": 29,
+      "offset": 1070,
+      "slices": [
+        {
+          "page": 29,
+          "start": 1070,
+          "end": 1112,
+          "sha256": "bb1193c1560f09aaf16d4ea0ba143f2e8dcafbac74d034ea403d9bf644684d27"
+        }
+      ]
+    },
+    {
+      "number": "81.1",
+      "heading": "LR 81.1 Required Form of Documents to be Filed Upon Removal.",
+      "page": 29,
+      "offset": 1112,
+      "slices": [
+        {
+          "page": 29,
+          "start": 1112,
+          "end": 2114,
+          "sha256": "d3fe97526b496aabd8625657214a935a1a376f0b6167330723759b0359828dca"
+        },
+        {
+          "page": 30,
+          "start": 0,
+          "end": 642,
+          "sha256": "153ae60ec677fdd1e0a61724330117cbb36321f91b6a6471343590e5732e0b57"
+        }
+      ]
+    },
+    {
+      "number": "81.2",
+      "heading": "LR 81.2 Certificate of Interested Persons.",
+      "page": 30,
+      "offset": 642,
+      "slices": [
+        {
+          "page": 30,
+          "start": 642,
+          "end": 991,
+          "sha256": "1f79f92e89f6e708c4e7031d40363c18c9d6f3408b640c9763dd1e47ceea6173"
+        }
+      ]
+    },
+    {
+      "number": "83.1",
+      "heading": "LR 83.1 Application of Rules by a Presiding Judge.",
+      "page": 30,
+      "offset": 991,
+      "slices": [
+        {
+          "page": 30,
+          "start": 991,
+          "end": 1191,
+          "sha256": "65449d30cfa4a7edcf8b8f8943f2b6ca89f86c72902fdc0128a8322b4272962c"
+        }
+      ]
+    },
+    {
+      "number": "83.2",
+      "heading": "LR 83.2 Miscellaneous and Special Orders.",
+      "page": 30,
+      "offset": 1191,
+      "slices": [
+        {
+          "page": 30,
+          "start": 1191,
+          "end": 1410,
+          "sha256": "784608671c98892e4e8f434f43851f091db15a506272a146f4e700f3237420aa"
+        }
+      ]
+    },
+    {
+      "number": "83.3",
+      "heading": "LR 83.3 Assignment of Cases.",
+      "page": 30,
+      "offset": 1410,
+      "slices": [
+        {
+          "page": 30,
+          "start": 1410,
+          "end": 1542,
+          "sha256": "62d2690b816caddab3d1cc46a63cabb5b5a4279ef44fdd33751f16ee2864ba22"
+        }
+      ]
+    },
+    {
+      "number": "83.4",
+      "heading": "LR 83.4 Conduct of Attorneys at Trial or Hearing.",
+      "page": 30,
+      "offset": 1542,
+      "slices": [
+        {
+          "page": 30,
+          "start": 1542,
+          "end": 2038,
+          "sha256": "5d6acf3d37921cee193e984cee63b83f3419a1eb02035ada481125917b6bda20"
+        },
+        {
+          "page": 31,
+          "start": 0,
+          "end": 175,
+          "sha256": "91569fa9d3eb4f49780976039a4d94846fb8a5cd8a9f172ecc86aa61c3b937fb"
+        }
+      ]
+    },
+    {
+      "number": "83.4.1",
+      "heading": "LR 83.4.1 Compliance with Standards of Litigation Conduct.",
+      "page": 31,
+      "offset": 175,
+      "slices": [
+        {
+          "page": 31,
+          "start": 175,
+          "end": 440,
+          "sha256": "15b9dcdadee0ce016b744c5b92dd7ce6f67a82b5c861a51703984875e36e4b70"
+        }
+      ]
+    },
+    {
+      "number": "83.5",
+      "heading": "LR 83.5 Clerk’s Fees. [REPEALED]",
+      "page": 31,
+      "offset": 440,
+      "slices": [
+        {
+          "page": 31,
+          "start": 440,
+          "end": 473,
+          "sha256": "8be73bf49f724ae8c1dc2b7785ff0e9040304e73167cf6506caf3e97f5aca881"
+        }
+      ]
+    },
+    {
+      "number": "83.6",
+      "heading": "LR 83.6 Applications to Proceed In Forma Pauperis.",
+      "page": 31,
+      "offset": 473,
+      "slices": [
+        {
+          "page": 31,
+          "start": 473,
+          "end": 652,
+          "sha256": "0f5993974fb4527764d020fc2182b13d71417f1ad02d4683548131f5f2708888"
+        }
+      ]
+    },
+    {
+      "number": "83.7",
+      "heading": "LR 83.7 Admission of Attorneys.",
+      "page": 31,
+      "offset": 652,
+      "slices": [
+        {
+          "page": 31,
+          "start": 652,
+          "end": 2343,
+          "sha256": "4565ae7c343433f254f3a4c8b99077363832768983c3e983e15a87f4c364b8af"
+        },
+        {
+          "page": 32,
+          "start": 0,
+          "end": 31,
+          "sha256": "04d9fee2ca4d0ec7bb889dc7f7d9e559fe29ae4bf649a0d29aa6aa62301c271a"
+        }
+      ]
+    },
+    {
+      "number": "83.8",
+      "heading": "LR 83.8 Loss of Membership and Discipline of Attorneys.",
+      "page": 32,
+      "offset": 31,
+      "slices": [
+        {
+          "page": 32,
+          "start": 31,
+          "end": 1800,
+          "sha256": "8301d36facdbb23a633ebe6e692cf28eadb5a5ccc49efc9f6c33fd42809c6e3d"
+        },
+        {
+          "page": 33,
+          "start": 0,
+          "end": 2435,
+          "sha256": "8b28d974f616a9714bf39635fb39b0933500dab328d714337f6cbe96e1254dea"
+        },
+        {
+          "page": 34,
+          "start": 0,
+          "end": 31,
+          "sha256": "1551a4d4e1b47aaeef1f3b176ce5dbf70ca0ddd5b5c5d5df4b0c143239861508"
+        }
+      ]
+    },
+    {
+      "number": "83.9",
+      "heading": "LR 83.9 Attorneys Not Admitted to Practice Before this Court.",
+      "page": 34,
+      "offset": 31,
+      "slices": [
+        {
+          "page": 34,
+          "start": 31,
+          "end": 853,
+          "sha256": "271a7a5cdece80585de8a838ab44f160db91e64e7489adcb35b57159d48ed4ad"
+        }
+      ]
+    },
+    {
+      "number": "83.10",
+      "heading": "LR 83.10 Requirement of Local Counsel.",
+      "page": 34,
+      "offset": 853,
+      "slices": [
+        {
+          "page": 34,
+          "start": 853,
+          "end": 1827,
+          "sha256": "a491158e5222c8e1f64bcc63fcde5d2b55c07b28c223787f5be3c6993d1d92e0"
+        }
+      ]
+    },
+    {
+      "number": "83.11",
+      "heading": "LR 83.11 Exemption from Admission to Practice, and from Requirement of Local",
+      "page": 34,
+      "offset": 1827,
+      "slices": [
+        {
+          "page": 34,
+          "start": 1827,
+          "end": 2463,
+          "sha256": "d5f989c28a7e40565a05c884b68e3996b2b9b9ba1d8cfe7d6f56996ce7bec87b"
+        }
+      ]
+    },
+    {
+      "number": "83.12",
+      "heading": "LR 83.12 Withdrawal or Substitution of Attorney.",
+      "page": 34,
+      "offset": 2463,
+      "slices": [
+        {
+          "page": 34,
+          "start": 2463,
+          "end": 2695,
+          "sha256": "efb94cf4d3970d8aea08bee21ee9b53454d9d4c3cc821d9a4b5a79c095e25ad0"
+        },
+        {
+          "page": 35,
+          "start": 0,
+          "end": 1611,
+          "sha256": "39b1ed6540579bc543dffcbb89103ddcab4ea0eaf2e0de5e59f015354a0ddfd7"
+        }
+      ]
+    },
+    {
+      "number": "83.13",
+      "heading": "LR 83.13 Change of Contact Information or Name.",
+      "page": 35,
+      "offset": 1611,
+      "slices": [
+        {
+          "page": 35,
+          "start": 1611,
+          "end": 2334,
+          "sha256": "ef1436894b9ee764eab619b5d5e1678dce91fac581cd1842f785fe0b884df421"
+        }
+      ]
+    },
+    {
+      "number": "83.14",
+      "heading": "LR 83.14 Parties Proceeding Pro Se.",
+      "page": 35,
+      "offset": 2334,
+      "slices": [
+        {
+          "page": 35,
+          "start": 2334,
+          "end": 2555,
+          "sha256": "c93333c273dd1c2825fd5b91ce23e20ccdaa673507aee4e3648b6f25256830a9"
+        }
+      ]
+    },
+    {
+      "number": "83.15",
+      "heading": "LR 83.15 Attorney as a Witness. [REPEALED]",
+      "page": 35,
+      "offset": 2555,
+      "slices": [
+        {
+          "page": 35,
+          "start": 2555,
+          "end": 2597,
+          "sha256": "7908dec3b076e256d9d76e6d1922f0a6c443dce1843712eb1b9339840261404a"
+        },
+        {
+          "page": 36,
+          "start": 0,
+          "end": 31,
+          "sha256": "0b33f77e1964fa471ad0946a341b9de9a762e7ffa12b9790da7a6811b53ec927"
+        }
+      ]
+    },
+    {
+      "number": "83.16",
+      "heading": "LR 83.16 Dress and Conduct.",
+      "page": 36,
+      "offset": 31,
+      "slices": [
+        {
+          "page": 36,
+          "start": 31,
+          "end": 341,
+          "sha256": "e67714b9b2b6c8bf482ab2c990184f2036dfad139d69b8742e3db5ddcd2d7383"
+        }
+      ]
+    },
+    {
+      "number": "83.17",
+      "heading": "LR 83.17 Weapons Forbidden.",
+      "page": 36,
+      "offset": 341,
+      "slices": [
+        {
+          "page": 36,
+          "start": 341,
+          "end": 656,
+          "sha256": "a0d36fbcf45e592fbfe13bbd3bba11163102f8e9914982ed5c1984e929d4f546"
+        }
+      ]
+    },
+    {
+      "number": "83.18",
+      "heading": "LR 83.18 Photographs, Broadcasting, Recording, and Television Forbidden.",
+      "page": 36,
+      "offset": 656,
+      "slices": [
+        {
+          "page": 36,
+          "start": 656,
+          "end": 1217,
+          "sha256": "809d193398e1475309e13cc3157904b779e7000251275143dce7bf21420ece8b"
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "startPage": 8,
+    "startOffset": 119,
+    "endPage": 36,
+    "endOffset": 1217,
+    "ruleCount": 82,
+    "tocReconciled": false,
+    "editorialReviewComplete": false,
+    "currencyReviewed": false,
+    "flags": [
+      "Source extraction contains unresolved characters; consult the original publication."
+    ],
+    "excluded": "Source material outside the recorded range remains available in the district source library."
+  },
+  "transcriptionSha256": "07bad63391858d891a1a422fd6de6a94b23bbd9511b6fbe644718a8d2230ca06"
+}

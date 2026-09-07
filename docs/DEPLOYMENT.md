@@ -20,7 +20,9 @@ Public previews are supported separately from editorially approved releases. The
 
 The supplied brief requires reviewed legal content before production publication. The candidate is runnable, but its complete editorial review has not been performed. `npm run build -- --production` requires `data/review.json` to contain `status: "approved"` and a `corpusSha256` matching the exact bytes of `data/provisions.json`. The nationwide source library additionally requires `sourceCorpusSha256`: SHA-256 over the concatenated bytes of `data/source-library.json` followed by each file in `data/source-library/` in sorted filename order. Review both the source index and extracted text; the canonical-only approval cannot approve nationwide content. Record reviewer, date and supporting report; do not set approval merely to bypass the gate. Re-review relationships whenever an endpoint edition changes.
 
-Obtain the digest after completing review:
+Parsed district content additionally requires `parsedCorpusSha256`: SHA-256 over the concatenated bytes of `sources/district-parse-profiles.json`, followed by the JSON files directly inside `data/parsed-districts/` in sorted filename order. This binds approval to the heading profiles, records, coverage, source metadata, and page-slice evidence. The validator separately checks saved transcription hashes and original snapshot hashes. Draft status and incomplete review flags must be resolved through the content review workflow; successful mechanical checks alone do not establish editorial approval.
+
+Obtain the canonical digest after completing review:
 
 ```sh
 node --input-type=module -e "import {readFileSync} from 'node:fs'; import {createHash} from 'node:crypto'; console.log(createHash('sha256').update(readFileSync('data/provisions.json')).digest('hex'))"

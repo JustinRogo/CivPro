@@ -1,0 +1,4747 @@
+{
+  "version": 1,
+  "reviewStatus": "parsed-draft",
+  "districtId": "nmd",
+  "sourceDocument": {
+    "id": "f8526a99a16fdf00",
+    "title": "Local Rules of CIVIL Procedure for the District of New Mexico",
+    "format": "pdf",
+    "role": "primary",
+    "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+    "sha256": "f8526a99a16fdf0019d2648b388cc1554df02e8faab433aec9b0304868a1bf6f",
+    "bytes": 504674,
+    "retrievedAt": "2026-09-07T00:01:44.841372+00:00",
+    "snapshotPath": "sources/district-snapshots/f8526a99a16fdf0019d2648b388cc1554df02e8faab433aec9b0304868a1bf6f.pdf",
+    "textPath": "data/source-library/f8526a99a16fdf0019d2648b388cc1554df02e8faab433aec9b0304868a1bf6f.json",
+    "pdfPath": "data/source-pdfs/f8526a99a16fdf0019d2648b388cc1554df02e8faab433aec9b0304868a1bf6f.pdf",
+    "pageCount": 45,
+    "reviewStatus": "source-document-only",
+    "blankTextPages": 0
+  },
+  "collection": {
+    "id": "nmd-civil",
+    "name": "District of New Mexico Local Rules",
+    "shortName": "Local rules · draft",
+    "districtId": "nmd",
+    "scopeNote": "Civil and generally applicable local rules; unparsed supplements remain in the source library. Rule boundaries and transcription are drafts. Embedded notes, forms, and running headers may remain within rule text; subsection anchors and field-separated notes are not yet reviewed."
+  },
+  "provisions": [
+    {
+      "id": "nmd-civil:1.1",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "1.1",
+      "citation": "District of New Mexico · Rule 1.1",
+      "title": "Title and Citation.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-15",
+          "path": [],
+          "type": "paragraph",
+          "text": "1.1 Title and Citation. These are the Local Civil Rules of the United States District Court for \nthe District of New Mexico. The proper citation is: \"D.N.M.LR-Civ.____.\"\n",
+          "pages": [
+            14
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 14,
+      "pageSpan": [
+        14,
+        14
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:1.2",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "1.2",
+      "citation": "District of New Mexico · Rule 1.2",
+      "title": "Effective Date.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-15",
+          "path": [],
+          "type": "paragraph",
+          "text": "1.2 Effective Date. These rules take effect on July 1, 2011.\n",
+          "pages": [
+            14
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 14,
+      "pageSpan": [
+        14,
+        14
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:1.3",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "1.3",
+      "citation": "District of New Mexico · Rule 1.3",
+      "title": "Application of Rules.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-15",
+          "path": [],
+          "type": "paragraph",
+          "text": "1.3 Application of Rules. \n(a) In General. These rules apply to civil proceedings.\n(b) Relationship to Prior Rules; Actions Pending on Effective Date. These rules \nsupersede all previous local civil rules and govern all actions pending on or filed after \ntheir effective date, unless the Court otherwise orders.\n",
+          "pages": [
+            14
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 14,
+      "pageSpan": [
+        14,
+        14
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:1.4",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "1.4",
+      "citation": "District of New Mexico · Rule 1.4",
+      "title": "Rule of Construction.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-15",
+          "path": [],
+          "type": "paragraph",
+          "text": "1.4 Rule of Construction. The format of these rules coincides with the numbering and content \nof the Federal Rules of Civil Procedure (\"FED. R. CIV. P.\"). These rules should be \nconstrued consistently with the Federal Rules of Civil Procedure.\n",
+          "pages": [
+            14
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 14,
+      "pageSpan": [
+        14,
+        14
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:1.5",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "1.5",
+      "citation": "District of New Mexico · Rule 1.5",
+      "title": "Definitions.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-15",
+          "path": [],
+          "type": "paragraph",
+          "text": "1.5 Definitions. In these rules: \n(a) \"Clerk\" refers to the District Court Clerk for this District, a deputy clerk, or any of \nthe Clerk's offices located in Albuquerque, Santa Fe and Las Cruces.\n(b) \"Court\" or \"Judge\" refers to a United States District Judge or United States \nMagistrate Judge.\n(c) \"day\" refers to a calendar day.\n(d) \"District\" refers to the United States District Court for the District of New Mexico.\n(e) \"document\" refers to a pleading, motion or paper.\n(f) \"electronic transmission\" includes, but is not limited to: facsimile, electronic mail, \nor other electronic data transmission.\n(g) \"Federal Bar\" refers to members of the bar of the United States District Court for the \nDistrict of New Mexico.\n(h) \"party\" refers to a party or attorney representing the party.\n(i) \"pro se party\" refers to a party appearing in an action without an attorney.",
+          "pages": [
+            14
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "2\n",
+          "pages": [
+            15
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 14,
+      "pageSpan": [
+        14,
+        15
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:1.6",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "1.6",
+      "citation": "District of New Mexico · Rule 1.6",
+      "title": "Bankruptcy Cases.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "1.6 Bankruptcy Cases.\n(a) Bankruptcy Matters Other Than Appeals. \n• The local rules of the United States Bankruptcy Court for this District govern \npractice and procedure in all bankruptcy matters except appeals.\n• Every paper in a non-appeal matter is filed with the Clerk of the Bankruptcy Court.\n(b) Bankruptcy Appeals.\n• Every paper in a bankruptcy appeal, except those papers required to be filed with \nthe Clerk of the Bankruptcy Court, pursuant to the FED. R. BANKR. P., is filed with \nthe Clerk.\n• Bankruptcy appeal briefs must conform with D.N.M.LR-Civ. 7.4 and 7.5.\n",
+          "pages": [
+            15
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 15,
+      "pageSpan": [
+        15,
+        15
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:1.7",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "1.7",
+      "citation": "District of New Mexico · Rule 1.7",
+      "title": "Waiver of Rules.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "1.7 Waiver of Rules. These rules may be waived by a Judge to avoid injustice.\nII. COMMENCEMENT OF ACTION; SERVICE AND FILING\nRULE 3. Commencement of Action.\n",
+          "pages": [
+            15
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 15,
+      "pageSpan": [
+        15,
+        15
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:3.1",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "3.1",
+      "citation": "District of New Mexico · Rule 3.1",
+      "title": "Civil Cover Sheet.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "3.1 Civil Cover Sheet. \n• A civil cover sheet form, available from the Clerk, must be completed and attached to the \npleading initiating a civil action. This requirement is for administrative purposes, and \ninformation appearing on the civil cover sheet will have no legal effect in the action.\n• The Clerk will file the initiating paper even if it is submitted without the completed cover \nsheet. The Clerk will give written notice of the deficiency and deadline for correcting \nthe deficiency. The Court may dismiss the action, without prejudice, for failure to cure \nthe deficiency.\n• A pro se party filing a civil action need not complete the cover sheet.\n",
+          "pages": [
+            15
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 15,
+      "pageSpan": [
+        15,
+        15
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:3.2",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "3.2",
+      "citation": "District of New Mexico · Rule 3.2",
+      "title": "Notification of Multidistrict Litigation. A party filing a paper involving an action subject",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "3.2 Notification of Multidistrict Litigation. A party filing a paper involving an action subject \nto pre-trial proceeding before the Judicial Panel on Multidistrict Litigation (see 28 U.S.C. \n§ 1407) must, at the time of filing, submit:\n(a) a written description of the nature of the case; and\n(b) a list of the titles and numbers of all related cases filed in this District.\n",
+          "pages": [
+            15
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 15,
+      "pageSpan": [
+        15,
+        15
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:3.3",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "3.3",
+      "citation": "District of New Mexico · Rule 3.3",
+      "title": "Fees.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "3.3 Fees. The filing fee may be paid by cash or check or charged to a credit card. A pro se\nparty or attorney may move for leave to proceed in forma pauperis.\nRULE 4. Process.\n",
+          "pages": [
+            15
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 15,
+      "pageSpan": [
+        15,
+        15
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:4.1",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "4.1",
+      "citation": "District of New Mexico · Rule 4.1",
+      "title": "Summons. A party must prepare the summons on a form available from the Clerk.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "4.1 Summons. A party must prepare the summons on a form available from the Clerk. ",
+          "pages": [
+            15
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "3\nRULE 5. Filing and Service.\n",
+          "pages": [
+            16
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 15,
+      "pageSpan": [
+        15,
+        16
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:5.1",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "5.1",
+      "citation": "District of New Mexico · Rule 5.1",
+      "title": "Electronic Filing and Service. [Effective 12/1/2014]",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "5.1 Electronic Filing and Service. [Effective 12/1/2014]\n(a) Requirement and Procedure. Except for documents filed by pro se parties, or as \notherwise ordered by the Court, electronic filing is mandatory. Electronic filing must \nbe performed through the court’s electronic filing system (CM/ECF). Faxing, email or \nany other form of electronic submission does not constitute electronic filing and will \nnot be accepted by the Clerk. Registration, technical, and procedural guidelines for e￾filing are set out in the Court's CM/ECF Administrative Procedures Manual.\n(b) Service by Electronic Filing. Electronic filing constitutes service for purposes of \nFED. R. CIV. P. 5, except as to parties excused from electronic filing by Federal rules, \nthese rules, or Court order. Electronic service is complete on transmission. \n(c) Timing. Unless otherwise specified by rule or ordered by the Court, an electronic \ndocument is considered filed on the date of the electronic transfer, including weekends \nand holidays. A filing day is defined as 12:00:00 a.m. to midnight. The time and date \nof filing are reflected in the Court's Notice of Electronic Filing.\n",
+          "pages": [
+            16
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 16,
+      "pageSpan": [
+        16,
+        16
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:5.2",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "5.2",
+      "citation": "District of New Mexico · Rule 5.2",
+      "title": "Paper Filing and Service.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "5.2 Paper Filing and Service. In cases where electronic filing is not required under\nFed.R.Civ.P. 5.1, an original and two copies of a paper, including a document that initiates \nan action, must be filed with the Clerk. Copies of filed documents must be served on all \nparties. In consolidated actions, parties in all companion cases must be served.\nIII. PLEADINGS, MOTIONS AND OTHER PAPERS\nRULE 7. Motion Practice.\n",
+          "pages": [
+            16
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 16,
+      "pageSpan": [
+        16,
+        16
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:7.1",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "7.1",
+      "citation": "District of New Mexico · Rule 7.1",
+      "title": "Writing Requirement; Opposition.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "7.1 Writing Requirement; Opposition.\n(a) A motion must be in writing and state with particularity the grounds and the relief \nsought. A party may adopt by reference another party's motion or other paper by \nmaking specific reference to the filing date and docket number of such motion or other \npaper. Movant must determine whether a motion is opposed, and a motion that omits \nrecitation of a good-faith request for concurrence may be summarily denied. In pro se\ninmate cases, movant need not determine whether the motion is opposed. An \nattorney's motion to withdraw from representation of a party must follow the \nprocedure provided in D.N.M.LR-Civ. 83.8.\n(b) A motion, response, or reply must include a certificate of service on each party. \nThe failure of a party to file and serve a response in opposition to a motion within the \ntime prescribed for doing so constitutes consent to grant the motion. The failure to \nfile and serve a reply in support of a motion within the time prescribed for doing so \nconstitutes consent that briefing on the motion is complete.",
+          "pages": [
+            16
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "4\n",
+          "pages": [
+            17
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 16,
+      "pageSpan": [
+        16,
+        17
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:7.2",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "7.2",
+      "citation": "District of New Mexico · Rule 7.2",
+      "title": "Unopposed Motions; Case Management Deadlines.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "7.2 Unopposed Motions; Case Management Deadlines. An unopposed motion must be \naccompanied by a proposed order approved by each party, in accordance with the procedure \nset by the assigned Judge. A non-dispositive motion which alters or affects case \nmanagement deadlines requires approval of the assigned Judge, as provided in \nD.N.M.LR-Civ. 16.1. \n",
+          "pages": [
+            17
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 17,
+      "pageSpan": [
+        17,
+        17
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:7.3",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "7.3",
+      "citation": "District of New Mexico · Rule 7.3",
+      "title": "Form of Motion and Related Evidence.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "7.3 Form of Motion and Related Evidence. \n(a) A motion, response or reply must cite authority in support of the legal positions \nadvanced. Movant’s authority may be submitted in a separate brief filed and served \ncontemporaneously with the motion.\n(b) Parties must submit evidence, in the form of declarations, affidavits, deposition \nexcerpts, or other documents, in support of allegations of fact.\n",
+          "pages": [
+            17
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 17,
+      "pageSpan": [
+        17,
+        17
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:7.4",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "7.4",
+      "citation": "District of New Mexico · Rule 7.4",
+      "title": "Timing of and Restrictions on Responses and Replies.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "7.4 Timing of and Restrictions on Responses and Replies. \n(a) Timing. A response must be served and filed within fourteen (14) calendar days \nafter service of the motion. A reply must be served and filed within fourteen (14) \ncalendar days after service of the response. These time periods are computed in \naccordance with FED. R. CIV. P. 6(a) and (d) and may be extended by agreement of all \nparties. For each agreed extension, the party requesting the extension must file a \nnotice identifying the new deadline and the document (response or reply) to be filed. \nIf an extension of time is opposed, the party seeking the extension must file a separate \nmotion within the applicable fourteen (14) day period. An extension of briefing time \nmust not interfere with established case management deadlines.\n(b) Surreply. The filing of a surreply requires leave of the Court.\n(c) Expedited Briefing. When the Court orders an expedited briefing schedule, briefs \nand any supporting papers must be served on each party by the most expeditious \nreasonable method of service. \n(d) Cases With Briefing Schedule Set by Court (Bankruptcy or Social Security \nAppeals). The parties will be given a briefing schedule by the Clerk or by the Court. \nTiming of responses and replies must conform with the briefing schedule unless all \nparties agree otherwise. \n(e) Notice of Completion. Upon completion of briefing, the movant must file a notice \ncertifying that the motion is ready for decision and identifying the motion and all \nrelated filings by date of filing and docket number.",
+          "pages": [
+            17
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "5\n",
+          "pages": [
+            18
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 17,
+      "pageSpan": [
+        17,
+        18
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:7.5",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "7.5",
+      "citation": "District of New Mexico · Rule 7.5",
+      "title": "Length of Motion, Response and Reply.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "7.5 Length of Motion, Response and Reply. The length of a motion or, if a separate brief is \nfiled in support of a motion, the combined length of a motion and supporting brief, must not \nexceed twenty-seven (27) double-spaced pages. A response must not exceed \ntwenty-four (24) double-spaced pages. A reply must not exceed twelve (12) double-spaced \npages. Unless otherwise ordered, these page limits apply to non-motion briefs, e.g., merits \nbriefs in Social Security or bankruptcy appeals and proceedings under 28 U.S.C. §§ 2241, \n2254, and 2255. Page limits on exhibits are governed by D.N.M.LR-Civ. 10.5.\n",
+          "pages": [
+            18
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 18,
+      "pageSpan": [
+        18,
+        18
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:7.6",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "7.6",
+      "citation": "District of New Mexico · Rule 7.6",
+      "title": "Oral Argument.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "7.6 Oral Argument.\n(a) When Allowed. A party may (but need not) request oral argument on any motion. \nUnless otherwise ordered by the Court, however, all motions will be decided on the \nbriefs without a hearing.\n(b) Hearing by Telephone Conference. The Court may conduct hearings by telephone \nconference. \n",
+          "pages": [
+            18
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 18,
+      "pageSpan": [
+        18,
+        18
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:7.7",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "7.7",
+      "citation": "District of New Mexico · Rule 7.7",
+      "title": "Withdrawal of Documents. A party may withdraw a document from consideration by the",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "7.7 Withdrawal of Documents. A party may withdraw a document from consideration by the \nCourt by filing and serving a notice of withdrawal which specifically identifies the \ndocument being withdrawn. Withdrawal requires consent of all other parties or approval of \nthe Court. \n",
+          "pages": [
+            18
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 18,
+      "pageSpan": [
+        18,
+        18
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:7.8",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "7.8",
+      "citation": "District of New Mexico · Rule 7.8",
+      "title": "Citation of Supplemental Authorities.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "7.8 Citation of Supplemental Authorities.\n(a) If controlling authority comes to a party's attention after the party's brief has been \nfiled, or after oral argument but before decision, a party must promptly file a \"Notice \nof Supplemental Authorities,\" setting forth the citations. \n(b) If pertinent and significant authorities come to a party's attention after the party's brief \nhas been filed, or after oral argument but before decision, a party may promptly file a \n\"Notice of Supplemental Authorities,\" setting forth the citations. \n(c) The Notice must state the reasons for the supplemental citations, referring either to the \npage of the brief or to a point argued orally. The body of the Notice must not exceed \n350 words. Any response must be filed within seven (7) days of the filing of the \nNotice and will be limited to 350 words. No reply to the response will be permitted.\nRULE 10. Form of Documents.\n",
+          "pages": [
+            18
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 18,
+      "pageSpan": [
+        18,
+        18
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:10.1",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "10.1",
+      "citation": "District of New Mexico · Rule 10.1",
+      "title": "Form. A paper presented for filing must be on size 8 ½ by 11 inch white, opaque,",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "10.1 Form. A paper presented for filing must be on size 8 ½ by 11 inch white, opaque, \nunglazed paper of good quality and be typewritten or printed on one side without \ninterlineations. The typewritten text of all documents must be at least 12 pitch, and type \nmust be of letter quality. The left, right, and bottom margins must be at least 1 inch, the top \nmargin must be at least 1½ inches. Except for footnotes and quotations, the text of all \ndocuments must be double spaced. The first page of each document must have the case file \nnumber and initials of the assigned Judges.",
+          "pages": [
+            18
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "6\n",
+          "pages": [
+            19
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 18,
+      "pageSpan": [
+        18,
+        19
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:10.2",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "10.2",
+      "citation": "District of New Mexico · Rule 10.2",
+      "title": "Titles of Documents.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "10.2 Titles of Documents. The title of a document must clearly identify its substance and any \nfiled document to which it responds or is connected.\n",
+          "pages": [
+            19
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 19,
+      "pageSpan": [
+        19,
+        19
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:10.3",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "10.3",
+      "citation": "District of New Mexico · Rule 10.3",
+      "title": "Filing of Non-Conforming Documents.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "10.3 Filing of Non-Conforming Documents.\n(a) Acceptance of Documents. The Clerk will not refuse to file any document because it \nis not in proper form.\n(b) Signature. A paper filed without signature will be stricken unless it is signed within \nfourteen (14) days after the omission is called to the party's attention.\n(c) Non-Conforming Documents. The Clerk will give to the submitting party written \nnotice of a deficiency and deadline for correcting the deficiency. The Clerk will also \nprovide any applicable forms and instruction sheets. Failure to remedy a deficiency \nor to show good cause for non-compliance within forty-five (45) days from the date of \nnotice may result in striking of the document or dismissal of the action without \nprejudice in accordance with D.N.M.LR-Civ. 41.2.\n",
+          "pages": [
+            19
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 19,
+      "pageSpan": [
+        19,
+        19
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:10.4",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "10.4",
+      "citation": "District of New Mexico · Rule 10.4",
+      "title": "Attachments to Pleadings.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "10.4 Attachments to Pleadings. Exhibits are not attached to a pleading unless the documents \nattached form the basis for the action or defense.\n",
+          "pages": [
+            19
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 19,
+      "pageSpan": [
+        19,
+        19
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:10.5",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "10.5",
+      "citation": "District of New Mexico · Rule 10.5",
+      "title": "Page Limit for Exhibits.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "10.5 Page Limit for Exhibits. All exhibits to a motion, response or reply, including excerpts \nfrom a deposition, must not exceed a total of fifty (50) pages, unless all parties agree\notherwise1\n. If agreement cannot be reached, then the party seeking to exceed the page limit \nmust file a motion in accordance with D.N.M.LR-Civ. 7. A party may file only those pages \nof an exhibit which are to be brought to the Court's attention. A page from a condensed \ndeposition transcript (containing four pages of testimony) will be considered one page for \npurposes of this rule.\n",
+          "pages": [
+            19
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 19,
+      "pageSpan": [
+        19,
+        19
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:10.6",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "10.6",
+      "citation": "District of New Mexico · Rule 10.6",
+      "title": "Identifying Portions of Exhibits.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "10.6 Identifying Portions of Exhibits. The portions of an exhibit the party wishes to bring to \nthe Court's attention must be marked, e.g., by brackets, shading, or underlining, in the \noriginal, the copy for the Court and the copy for each party. Marking must be apparent on \nexhibits that are scanned and filed and/or served electronically so that, when printed in hard \ncopy, the reader can clearly see what is marked to read and the text can be easily read. This \nrule applies equally to parties who are excused from electronic filing.\n",
+          "pages": [
+            19
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 19,
+      "pageSpan": [
+        19,
+        19
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:10.7",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "10.7",
+      "citation": "District of New Mexico · Rule 10.7",
+      "title": "Non-duplication of Exhibits.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "10.7 Non-duplication of Exhibits. An exhibit should be submitted only once and may later be \nreferred to by document title and filing date. An exhibit may be submitted more than once, \nhowever, if the submitting party wishes to bring to the Court's attention portions of the \nexhibit different from those previously marked under D.N.M.LR-Civ. 10.6.\n1 The CM/ECF application limits the file size of each document. The maximum file size \nand techniques for submitting documents that exceed this limitation are described in the \nCM/ECF Administrative Procedures Manual which can be found on the Court's web site.",
+          "pages": [
+            19
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "7\nRULE 11. Signing of Documents.\n",
+          "pages": [
+            20
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 19,
+      "pageSpan": [
+        19,
+        20
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:11.1",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "11.1",
+      "citation": "District of New Mexico · Rule 11.1",
+      "title": "Signatures.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "11.1 Signatures. The Court will treat a duplicate signature as an original signature, and a \ndocument filed or served by electronic transmission is considered signed in accordance with \nFED. R. CIV. P. ll(a).\nRULE 15. Amended and Supplemental Pleadings.\n",
+          "pages": [
+            20
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 20,
+      "pageSpan": [
+        20,
+        20
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:15.1",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "15.1",
+      "citation": "District of New Mexico · Rule 15.1",
+      "title": "Motion to Amend Pleading. A proposed amendment to a pleading must accompany the",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "15.1 Motion to Amend Pleading. A proposed amendment to a pleading must accompany the \nmotion to amend.\nRULE 16. Pre-trial Procedures.\n",
+          "pages": [
+            20
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 20,
+      "pageSpan": [
+        20,
+        20
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:16.1",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "16.1",
+      "citation": "District of New Mexico · Rule 16.1",
+      "title": "Joint Status Report. A Joint Status Report form is available at the Clerk's office and",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "16.1 Joint Status Report. A Joint Status Report form is available at the Clerk's office and \nonline. Following the FED. R. CIV. P. 26(f) meet-and-confer conference, the parties must \ncomplete the Joint Status Report. The parties must file the completed Report at least seven \n(7) days before the scheduling conference, or as ordered by the Court. After the filing of \nthe Joint Status Report, the Court will enter a scheduling order setting all pre-trial case \nmanagement deadlines. Modification of any deadline in the Court's scheduling orders, \nwhether or not opposed, requires a showing of good cause and Court approval.\n",
+          "pages": [
+            20
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 20,
+      "pageSpan": [
+        20,
+        20
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:16.2",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "16.2",
+      "citation": "District of New Mexico · Rule 16.2",
+      "title": "Settlement Conferences.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "16.2 Settlement Conferences.\n(a) In every civil case the parties must participate in a settlement conference with a Judge \nunless otherwise ordered by the Court. Cases excepted from this rule are listed under \nD.N.M.LR-Civ. 16.3.\n(b) In every bankruptcy adversary proceeding filed in Bankruptcy Court, the parties must \nparticipate in a settlement conference with members of the bankruptcy facilitation \npanel unless otherwise ordered by the Bankruptcy Court.\n(c) For each party, at least two persons must attend settlement conferences:\n• the attorney who will try the case; and\n• the party or designated representative with final settlement authority, other than an \nattorney of record.\n(d) A request to be excused must be made in writing to the Court at least seven (7) days \nbefore the conference or as ordered by the Court.\n(e) Evidence of settlement offers made, and of statements made, at the settlement \nconference, regardless of whether made in written, oral or graphic form, will be \ninadmissible as provided in FED. R. EVID. 408. Statements which are made by any \nparty to the Judge who is conducting the settlement conference, and which are \nidentified by that party as confidential, will not be disclosed by the Judge to any other \nparty. The Judge who is conducting the settlement conference may not reveal to the \ntrial Judge any information about offers made, or about statements made, by any party \nat the settlement conference, other than whether the case was or was not settled.",
+          "pages": [
+            20
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "8\n(f) Within seven (7) days of notice of assignment of a member of the bankruptcy \nfacilitation panel to facilitate an adversary proceeding in Bankruptcy Court, any party \nmay move the Court to disqualify the panel member based on the standards set forth in \n28 U.S.C. § 455.\n",
+          "pages": [
+            21
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 20,
+      "pageSpan": [
+        20,
+        21
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:16.3",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "16.3",
+      "citation": "District of New Mexico · Rule 16.3",
+      "title": "Exclusion From Pre-trial Case Management.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "16.3 Exclusion From Pre-trial Case Management. The following types of cases are excluded \nfrom pre-trial case management procedures described in D.N.M.LR-Civ. 16 unless the \nparties request, or the assigned Judge determines, that the case should be governed by this \nrule:\n(a) Government Collections Actions (150-153);\n(b) Condemnation Actions (210);\n(c) Rent, Lease and Ejectment (230);\n(d) Prisoner Petitions (463, 510-555);\n(e) Statutory Penalty Actions (610-690);\n(f) Bankruptcy Appeals and Withdrawals (422-423);\n(g) Social Security Reviews (861-865);\n(h) Federal Tax Suits (870-871, 875);\n(i) State Reapportionment (400);\n(j) Commerce/ICC Rate (450);\n(k) Deportation (460);\n(l) Selective Service (810);\n(m) Freedom of Information Act (895);\n(n) Food Stamp Denial (891);\n(o) Proceedings to compel arbitration or to confirm or set aside arbitration awards;\n(p) Proceedings to compel the giving of testimony or production of documents under a \nsubpoena or summons issued by an officer, agency or instrumentality of the \nUnited States not provided with authority to compel compliance;\n(q) Proceedings to compel the giving of testimony or production of documents in this \nDistrict:\n(1) in connection with discovery;\n(2) in connection with testimony de bene esse;\n(3) for perpetuation of testimony; or\n(4) for use in a matter pending or contemplated in another U. S. District Court;\n(r) Proceedings requesting only injunctive or other emergency relief; and\n(s) Proceedings involving water rights matters.\nV. DISCOVERY\nRULE 26. Discovery.\n",
+          "pages": [
+            21
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 21,
+      "pageSpan": [
+        21,
+        21
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:26.1",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "26.1",
+      "citation": "District of New Mexico · Rule 26.1",
+      "title": "Form of Discovery Requests.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "26.1 Form of Discovery Requests.\n(a) Requirements of Serving Party. ",
+          "pages": [
+            21
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "9\n(1) Space to Respond. When a party serves discovery requests (interrogatories, \nrequests for production, and requests for admissions) upon any other party \nelectronically, such discovery requests must be in a form that allows the recipient \nto copy or transfer the text of the document into the written response, or permits \nthe written response to be typed directly into the document, and thus avoids the \nneed to retype the text. If the serving party elects not to use the electronic form, the \ndiscovery requests must be prepared in such a fashion that sufficient space for \ninsertion of the written responses is provided after each interrogatory/request or \nsub-part thereof.\n(2) Numbering. Regardless of the number of sets, a party must sequentially number\nall interrogatories, requests for production, or requests for admissions. For \nexample, the first set of interrogatories is numbered 1-10; the same party's second \nset of interrogatories is numbered 11-20, etc.\n(b) Requirements of Responding Party. The party answering, responding or objecting \nto a discovery request must either set forth the answer, response or objection in the \nspace provided or quote fully each interrogatory or request before any answer, \nresponse or objection.\n",
+          "pages": [
+            22
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 21,
+      "pageSpan": [
+        21,
+        22
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:26.2",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "26.2",
+      "citation": "District of New Mexico · Rule 26.2",
+      "title": "Certification of Service.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "26.2 Certification of Service. The following documents must be served, but not filed with the \nClerk. Only a certificate indicating the date of service is filed.\n(a) interrogatories;\n(b) requests for production or inspection;\n(c) requests for admissions;\n(d) responses to (a)-(c);\n(e) initial disclosures as described in FED. R. CIV. P. 26(a)(1); and \n(f) expert witness reports as described in FED. R. CIV. P. 26(a)(2).\n",
+          "pages": [
+            22
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 22,
+      "pageSpan": [
+        22,
+        22
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:26.3",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "26.3",
+      "citation": "District of New Mexico · Rule 26.3",
+      "title": "Required Disclosures.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "26.3 Required Disclosures. All provisions of FED. R. CIV. P. 26 are applicable to actions in \nthis District, unless specifically exempted by local rule.\n(a) Exemptions from Initial Disclosures. The following are exempted:\n(1) all disclosure in cases excluded from case management procedures by D.N.M.LR￾Civ. 16.3; and\n(2) disclosure of experts having knowledge of the case who are used for the sole \npurpose of case preparation and not as witnesses.\n(b) Exemption from Expert Report Disclosure. Unless otherwise ordered by the \nCourt, a party must provide the written reports required by Fed. R. Civ. P. 26(a)(2)(B) \nonly as to experts retained or specially employed by a party to provide expert \ntestimony. Such reports need not be provided as to hybrid fact/expert witnesses such \nas treating physicians. The party must disclose the existence of any hybrid fact/expert \nwitness pursuant to Fed. R. Civ. P. 26(a)(2)(A) and disclose the subject matter on \nwhich the expert witness is expected to present evidence under Fed. R. Evid. 702, 703, \nor 705, as well as a summary of the facts and opinions to which the hybrid fact/expert \nwitness is expected to testify, pursuant to Fed. R. Civ. 26(a)(2)(C).",
+          "pages": [
+            22
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-24",
+          "path": [],
+          "type": "paragraph",
+          "text": "10\n(c) Exemption When Joint Status Report Filed. When required disclosures have\npreviously been made in the Joint Status Report pursuant to D.N.M.LR-Civ. 16.1, the \nrequired disclosures pursuant to FED. R. CIV. P. 26 may incorporate portions of the \nJoint Status Report.\n(d) Required Initial Disclosure. In all cases in which the physical or mental medical \ncondition of a party is an issue, the party whose condition is an issue must make a \ngood faith effort to produce the following information that the disclosing party may \nuse to support its claims or defenses, unless solely for impeachment:\n(1) a list of the name, address and phone number of any healthcare provider, including \nwithout limitation, any physicians, dentists, chiropractors, mental health \ncounselors, clinics and hospitals which have treated the party within the last five \n(5) years preceding the date of the occurrence set forth in the pleadings and \ncontinuing through the current date;\n(2) all records of such healthcare providers which are already in that party's \npossession, which will be made available for inspection and copying by all other \nparties to the action;\n(3) for each healthcare provider, a signed authorization to release medical records \nform, as set forth in Appendix \"A.\" Within fourteen (14) days after receiving \nmedical records by use of these authorization forms, a party must make the records \navailable for inspection and copying by all other parties to the action.\n(e) Duties in Responding to Initial Disclosures. When information, records or a release \nsubject to this rule is withheld on a claim that it is privileged or subject to objection, or \nthat disclosure is prohibited by regulation or statute, the claim must be made expressly \nin writing and must be supported by a description of the nature of the documents, or\nthings not produced that is sufficient to enable the demanding party to contest the \nclaim.\n",
+          "pages": [
+            23
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 22,
+      "pageSpan": [
+        22,
+        23
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:26.4",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "26.4",
+      "citation": "District of New Mexico · Rule 26.4",
+      "title": "Timing of Discovery and Initial Disclosures.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-24",
+          "path": [],
+          "type": "paragraph",
+          "text": "26.4 Timing of Discovery and Initial Disclosures.\n(a) Discovery. A party may not seek discovery under these rules or the Federal Rules of \nCivil Procedure before the parties have conferred as required by FED. R. CIV. P. 26(f) \nexcept by agreement of all parties or by Court order.\n(b) Party Entering Case After Initial Scheduling Conference. A party first served or \njoined after the Initial Scheduling Conference must meet all established case \nmanagement deadlines. If the deadline for initial disclosures has passed, the party \nmust comply with FED. R. CIV. P. 26(a)(1). \n",
+          "pages": [
+            23
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 23,
+      "pageSpan": [
+        23,
+        23
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:26.5",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "26.5",
+      "citation": "District of New Mexico · Rule 26.5",
+      "title": "Changing Discovery Limitations.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-24",
+          "path": [],
+          "type": "paragraph",
+          "text": "26.5 Changing Discovery Limitations.\n(a) General Limits. The Court, sua sponte or on motion by a party, may change the \nlimitations on discovery imposed by federal or local rule and may fashion discovery to \nmeet special circumstances.\n(b) Number of Interrogatories. Unless otherwise ordered by the Court, to serve more \ninterrogatories than are allowed by FED. R. CIV. P. 33, a party must file a motion in \naccordance with D.N.M.LR-Civ. 7, which sets forth the proposed interrogatories and \nexplains why they are necessary. ",
+          "pages": [
+            23
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "11\n",
+          "pages": [
+            24
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 23,
+      "pageSpan": [
+        23,
+        24
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:26.6",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "26.6",
+      "citation": "District of New Mexico · Rule 26.6",
+      "title": "Objections to Discovery. A party served with objections to:",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "26.6 Objections to Discovery. A party served with objections to:\n• an interrogatory;\n• request for production or inspection; or\n• request for admission\nmust proceed under D.N.M.LR-Civ. 37.1 within twenty-one (21) days of service of an \nobjection unless the response specifies that documents will be produced or inspection\nallowed. In this case, the party must proceed under D.N.M.LR-Civ. 37.1 within twenty-one \n(21) days after production or inspection of the documents. \nFailure to proceed within this time period constitutes acceptance of the objection. For good \ncause, the Court may, sua sponte or on motion by a party, change the twenty-one (21) day \nperiod.\nRULE 30. Depositions.\n",
+          "pages": [
+            24
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 24,
+      "pageSpan": [
+        24,
+        24
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:30.1",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "30.1",
+      "citation": "District of New Mexico · Rule 30.1",
+      "title": "Notice of Deposition.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "30.1 Notice of Deposition. Counsel must confer in good faith regarding scheduling of \ndepositions before serving notice of deposition. Service of notice of deposition in \naccordance with FED. R. CIV. P. 30(b) must be made at least fourteen (14) days before the \nscheduled deposition. Proof of service of notice to take a deposition is not filed with the \nClerk except when the adequacy or content of the notice is the basis for a motion, or \nresponse to a motion, relating to FED. R. CIV. P. 30 or 31. The time for serving notice may \nbe shortened by agreement of all parties or by Court order.\n",
+          "pages": [
+            24
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 24,
+      "pageSpan": [
+        24,
+        24
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:30.2",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "30.2",
+      "citation": "District of New Mexico · Rule 30.2",
+      "title": "Non-Appearance at Deposition.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "30.2 Non-Appearance at Deposition. Failure of a deponent to appear at the time and place \ndesignated may be regarded as a willful failure to appear pursuant to FED. R. CIV. P. 37(d) \nor contemptible conduct pursuant to FED. R. CIV. P. 45(e),\n• unless a motion for protective order and a notice of non-appearance are served at least \nseven (7) days before the scheduled deposition; or\n• if the Court finds the motion for protective order is frivolous or for dilatory purposes.\n",
+          "pages": [
+            24
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 24,
+      "pageSpan": [
+        24,
+        24
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:30.3",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "30.3",
+      "citation": "District of New Mexico · Rule 30.3",
+      "title": "Filing of Depositions.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "30.3 Filing of Depositions. Deposition transcripts are not filed unless otherwise ordered.\n",
+          "pages": [
+            24
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 24,
+      "pageSpan": [
+        24,
+        24
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:30.4",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "30.4",
+      "citation": "District of New Mexico · Rule 30.4",
+      "title": "Filing of Certificate of Completion of Deposition. A certificate of completion of",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "30.4 Filing of Certificate of Completion of Deposition. A certificate of completion of \ndeposition is not filed unless otherwise ordered.\n",
+          "pages": [
+            24
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 24,
+      "pageSpan": [
+        24,
+        24
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:30.5",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "30.5",
+      "citation": "District of New Mexico · Rule 30.5",
+      "title": "Deposition Fees. A court reporter must certify in a deposition transcript the reporter's fees",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "30.5 Deposition Fees. A court reporter must certify in a deposition transcript the reporter's fees \nfor the deposition.\n",
+          "pages": [
+            24
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 24,
+      "pageSpan": [
+        24,
+        24
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:30.6",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "30.6",
+      "citation": "District of New Mexico · Rule 30.6",
+      "title": "Final Disposition of Deposition Transcripts.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "30.6 Final Disposition of Deposition Transcripts. After final disposition of a civil action, the \nClerk will return to the submitting party all depositions filed.\nRULE 37. Failure to Make Disclosure or Cooperate in Discovery.",
+          "pages": [
+            24
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "12\n",
+          "pages": [
+            25
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 24,
+      "pageSpan": [
+        24,
+        25
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:37.1",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "37.1",
+      "citation": "District of New Mexico · Rule 37.1",
+      "title": "Relief Sought in Protective Order and Motion to Compel. A party seeking relief",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "37.1 Relief Sought in Protective Order and Motion to Compel. A party seeking relief \npursuant to FED. R. CIV. P. 26(c) or 37(a) must attach to the motion a copy of:\n(a) the interrogatory, request for production or inspection, relevant portion of deposition \ntranscript, or request for admission; and\n(b) the response or objection thereto. \nThe motion must comply with the requirements of D.N.M.LR-Civ. 7.\n",
+          "pages": [
+            25
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 25,
+      "pageSpan": [
+        25,
+        25
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:37.2",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "37.2",
+      "citation": "District of New Mexico · Rule 37.2",
+      "title": "Time to Respond. A party must respond to a discovery request within the time specified",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "37.2 Time to Respond. A party must respond to a discovery request within the time specified \nin the Court order compelling discovery. Absent a specific designation of time in the order, \na party must respond within the time allowed for response to the original request.\n",
+          "pages": [
+            25
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 25,
+      "pageSpan": [
+        25,
+        25
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:37.3",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "37.3",
+      "citation": "District of New Mexico · Rule 37.3",
+      "title": "Compliance with Discovery Order Pending Appeal of the Order. A party's duty to",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "37.3 Compliance with Discovery Order Pending Appeal of the Order. A party's duty to \ncomply with a discovery order is not stayed by filing an appeal from or objection to the \norder, unless otherwise ordered.\nVI. TRIALS\nRULE 40. Trial Continuances. \n",
+          "pages": [
+            25
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 25,
+      "pageSpan": [
+        25,
+        25
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:40.1",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "40.1",
+      "citation": "District of New Mexico · Rule 40.1",
+      "title": "Continuances.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "40.1 Continuances. Good cause must be shown for continuance of a trial.\nRULE 41. Dismissal of Action Without Prejudice.\n",
+          "pages": [
+            25
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 25,
+      "pageSpan": [
+        25,
+        25
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:41.1",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "41.1",
+      "citation": "District of New Mexico · Rule 41.1",
+      "title": "Dismissal for Want of Prosecution. A civil action may be dismissed if, for a period of",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "41.1 Dismissal for Want of Prosecution. A civil action may be dismissed if, for a period of \nninety (90) days, no steps are taken to move the case forward. The Clerk will give written \nnotice that the action may be dismissed thirty (30) days after the date of the notice, unless \ngood cause is shown.\n",
+          "pages": [
+            25
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 25,
+      "pageSpan": [
+        25,
+        25
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:41.2",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "41.2",
+      "citation": "District of New Mexico · Rule 41.2",
+      "title": "Non-Conforming Papers.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "41.2 Non-Conforming Papers. An action filed with any non-conforming paper may be \ndismissed, without prejudice, for failure to remedy the deficiency within forty-five (45) \ndays of entry of notice in accordance with D.N.M.LR-Civ. 10.3(c).\nVII. JUDGMENT\nRULE 54. Judgment; Costs.\n",
+          "pages": [
+            25
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 25,
+      "pageSpan": [
+        25,
+        25
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:54.1",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "54.1",
+      "citation": "District of New Mexico · Rule 54.1",
+      "title": "Motion to Tax Costs. A motion to tax costs must be filed and served on each party within",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "54.1 Motion to Tax Costs. A motion to tax costs must be filed and served on each party within \nthirty (30) days of entry of judgment. Failure to file and serve within this time period \nconstitutes waiver of a claim to costs. The motion must comply with the requirements of \nD.N.M.LR-Civ. 7 and must include:\n• an itemized cost bill documenting costs and including receipts as required by rule or \nstatute; and",
+          "pages": [
+            25
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "13\n• a party's affidavit that the costs are allowable by law, correctly stated and necessary to the \nlitigation. \n",
+          "pages": [
+            26
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 25,
+      "pageSpan": [
+        25,
+        26
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:54.2",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "54.2",
+      "citation": "District of New Mexico · Rule 54.2",
+      "title": "Taxable Costs.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "54.2 Taxable Costs.\n(a) Transcripts. The cost of an original transcript of a court proceeding is taxable when \nrequested by a party and authorized by the Court before transcription.\n(b) Deposition Costs. \n(1) Reporter's Transcript Fees. The reporter's charge for the original or a copy of a \ndeposition transcript is taxable when the deposition is reasonably necessary to the \nlitigation.\n(2) Reasonably Necessary to the Litigation. A deposition is reasonably necessary \nto the litigation when:\n(A) a substantial portion of the deposition is admitted into evidence or used at trial \nfor impeachment purposes;\n(B) the deposition is used by the Court in ruling on a motion for summary \njudgment; or\n(C) the Court so determines.\n(c) Witness Costs.\n(1) Lay Witness.\n(A) The rates for witness fees, mileage and subsistence are set by statute and are \ntaxable if the witness testifies at trial or at a deposition found reasonably \nnecessary to the litigation.\n(B) The witness will be paid the smaller of:\n(i) mileage for the distance from the witness's residence to court; or\n(ii) the per diem rate specified by 28 U.S.C. § 1821.\n(C) The request for witness costs must be itemized, separating:\n• witness fees;\n• mileage; and\n• allowance for subsistence.\n(D) A party will not receive a witness fee, mileage or allowance for subsistence.\n(2) Expert Witness Fees. An expert witness fee is not taxable under 28 U.S.C. \n§1920 unless the Court, sua sponte or on motion by a party, appoints the expert \nand approves the fee amount. An expert witness not appointed by the Court will \nbe paid the same fee as a lay witness.\n(d) Interpreter and Translator Fees. An interpreter's fee or translator's fee is taxable if:\n(1) the cost of the witness, whose testimony is interpreted or translated, is taxable; or\n(2) the translated document is admitted into evidence.\n(e) Copies of Papers. The cost for copying an exhibit is taxable when the exhibit is \nrequested by the Court or when the copy is admitted into evidence in place of an \noriginal.\n(f) Maps, Charts, Models, Photographs, Summaries, Computations and Statistical \nSummaries. The cost of a photograph, 8\" x 10\" in size or less, is taxable if the ",
+          "pages": [
+            26
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "14\nphotograph is admitted into evidence. The following costs are not taxable unless the \nCourt otherwise orders:\n• photographs larger than 8\" x 10\";\n• costs of models; or\n• the cost of compiling summaries, computations or statistical comparisons.\n",
+          "pages": [
+            27
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 26,
+      "pageSpan": [
+        26,
+        27
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:54.3",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "54.3",
+      "citation": "District of New Mexico · Rule 54.3",
+      "title": "Costs in Comparative Fault Cases.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "54.3 Costs in Comparative Fault Cases. In comparative fault cases, each party is taxed a \npercentage of the total taxable costs. The percentage of costs taxed need not equal the \npercentage of a party's fault; distribution of costs is left to the Court's discretion.\n",
+          "pages": [
+            27
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 27,
+      "pageSpan": [
+        27,
+        27
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:54.4",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "54.4",
+      "citation": "District of New Mexico · Rule 54.4",
+      "title": "Jury Cost Assessment.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "54.4 Jury Cost Assessment. All jury costs, mileage and per diem allowances are taxed equally \nto all parties when a jury trial is settled or otherwise disposed of:\n• in advance of trial\n• during trial, but prior to verdict.\nNo assessment will be made if the Clerk is notified of the settlement before 12:00 noon on \nthe business day before the action is set for trial or if good cause is shown.\n",
+          "pages": [
+            27
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 27,
+      "pageSpan": [
+        27,
+        27
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:54.5",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "54.5",
+      "citation": "District of New Mexico · Rule 54.5",
+      "title": "Application for Award of Attorney's Fees.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "54.5 Application for Award of Attorney's Fees.\n(a) Filing of Motion. A motion for attorney's fees not brought pursuant to the Equal \nAccess to Justice Act, 28 U.S.C. § 2412(d), must be filed and served within thirty (30) \ndays after entry of judgment. Failure to file and serve within this time constitutes \nwaiver of a claim to attorney's fees. Movant must submit supporting authority and \nevidence (affidavits and time records). The motion must comply with \nD.N.M.LR-Civ. 7.\n(b) Time Records. An attorney must keep concurrent time records in 42 U.S.C. § 1983 \ncases and in other actions where there is a potential for an award of attorney fees. \nTime records are kept by the attorney and are not filed until after final judgment unless \notherwise ordered.",
+          "pages": [
+            27
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "15\nRULE 56. Summary Judgment.\n",
+          "pages": [
+            28
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 27,
+      "pageSpan": [
+        27,
+        28
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:56.1",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "56.1",
+      "citation": "District of New Mexico · Rule 56.1",
+      "title": "Summary Judgment Procedures.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "56.1 Summary Judgment Procedures.\n(a) Time for Filing. Unless otherwise ordered by the Court, motions for summary \njudgment will not be considered unless filed within the deadline set in the Rule 16 \nScheduling Order.\n(b) Statement of Material Facts. The moving party must file with the motion a written \nmemorandum containing a short, concise statement of the reasons in support of the \nmotion with a list of authorities relied upon (the “Memorandum”). A party opposing \nthe motion must file a response containing a short, concise statement of the reasons in \nopposition to the motion with authorities. The moving party may file a written reply \nwith authorities.\n• The Memorandum must set out a concise statement of all of the material facts as to \nwhich the movant contends no genuine issue exists. The facts must be numbered\nand must refer with particularity to those portions of the record upon which the \nmovant relies.\n• The response must contain a concise statement of the material facts cited by the \nmovant as to which the non-movant contends a genuine issue does exist. Each \nfact in dispute must be numbered, must refer with particularity to those portions \nof the record upon which the non-movant relies, and must state the number of the \nmovant's fact that is disputed. All material facts set forth in the Memorandum\nwill be deemed undisputed unless specifically controverted. The response may set \nforth additional facts other than those which respond to the Memorandum which \nthe non-movant contends are material to the resolution of the motion. Each \nadditional fact must be lettered and must refer with particularity to those portions \nof the record upon which the non-movant relies.\n• The reply must contain a concise statement of those facts set forth in the response \nwhich the movant disputes or to which the movant asserts an objection. Each fact \nmust be lettered, must refer with particularity to those portions of the record upon \nwhich the movant relies, and must state the letter of the non-movant's fact. All \nmaterial facts set forth in the response will be deemed undisputed unless \nspecifically controverted.\nRULE 58. Entry of Judgment.\n",
+          "pages": [
+            28
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 28,
+      "pageSpan": [
+        28,
+        28
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:58.1",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "58.1",
+      "citation": "District of New Mexico · Rule 58.1",
+      "title": "Final Judgment Based Upon a Negotiable Instrument. A negotiable instrument that is",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "58.1 Final Judgment Based Upon a Negotiable Instrument. A negotiable instrument that is \nthe basis of a final judgment must accompany the judgment. The instrument must be:\n• filed as an exhibit upon entry of judgment;\n• merged into the judgment and marked as merged; and\n• marked with the docket number of the action.\nThe instrument may be delivered to a party only by Court order.\n",
+          "pages": [
+            28
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 28,
+      "pageSpan": [
+        28,
+        28
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:58.2",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "58.2",
+      "citation": "District of New Mexico · Rule 58.2",
+      "title": "Proposed Orders and Judgments.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "58.2 Proposed Orders and Judgments.",
+          "pages": [
+            28
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "16\n(a) Approval of Order or Judgment. An order or judgment reflecting the Court's \ndecision and prepared by the prevailing party, submitted in accordance with the \nprocedure set by the assigned Judge, will be entered if:\n(1) all parties approve the order;\n(2) a copy of the order or judgment served on each party is not objected to within \nseven (7) days of service; or\n(3) good cause is shown.\n(b) Entry of Order or Judgment. An original order or judgment will be filed in lieu of \nmaking an entry in an order or judgment book. This procedure satisfies the notice of \nentry requirement of FED. R. CIV. P. 77(d).\nVIII. PROVISIONAL AND FINAL REMEDIES\nRULE 65. Sureties.\n",
+          "pages": [
+            29
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 28,
+      "pageSpan": [
+        28,
+        29
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:65.1",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "65.1",
+      "citation": "District of New Mexico · Rule 65.1",
+      "title": "Bonds and Other Sureties.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "65.1 Bonds and Other Sureties.\n(a) Attorney as Surety. An attorney may not act as a surety for any cost or bond in a \ncase where the attorney has entered an appearance.\n(b) Bond for Costs on Appeal. The Court may require an appellant to file a bond or \nprovide other security in a form and amount necessary to ensure payment of costs on \nappeal.\n(c) Corporate Sureties. A surety company must be duly qualified to conduct business in \nNew Mexico and hold a certificate of authority from the United States Secretary of the \nTreasury. An agent executing a bond from a surety company must attach a power of \nattorney to the bond.\n(d) Supersedeas Bonds.\n(1) The amount of a supersedeas bond must cover the judgment, interest and allowable \ncosts. Interest will be computed at the current rate of United States Treasury \nobligations. A party seeking approval of the bond must file a motion that \ncomplies with the requirements of D.N.M.LR-Civ. 7.\n(2) The United States, any state, or any of their political subdivisions, officers or \nagents need not post a supersedeas bond or other undertaking to secure payment of \ncosts on appeal. ",
+          "pages": [
+            29
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "17\nRULE 67. Deposit in Court.\n",
+          "pages": [
+            30
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 29,
+      "pageSpan": [
+        29,
+        30
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:67.1",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "67.1",
+      "citation": "District of New Mexico · Rule 67.1",
+      "title": "Disbursements from Court Registry.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "67.1 Disbursements from Court Registry.\n(a) By Court Order. A party must provide the Court with the following information to \nbe integrated into a Court order before disbursement of funds will be made:\n• the payee's name, address and Social Security number or tax identification number;\n• the amount of principal; and\n• the amount of interest.\n(b) Court Registry Fees. The Clerk will deduct a fee from interest earned on interest \nbearing funds in the Court Registry. The Judicial Conference of the United States \nauthorizes this fee, and the amount is set by the Director of the Administrative Office \nof the U. S. Courts. A fee schedule is available from the Clerk.\nIX. SPECIAL PROCEEDINGS\nRULE 72. Objection to Non-dispositive Pre-trial Matters.\n",
+          "pages": [
+            30
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 30,
+      "pageSpan": [
+        30,
+        30
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:72.1",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "72.1",
+      "citation": "District of New Mexico · Rule 72.1",
+      "title": "Procedure.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "72.1 Procedure. Objections to a non-dispositive pre-trial matter decided by a pre-trial \nMagistrate Judge will follow the procedures and requirements set forth in D.N.M.LR-Civ. \n7.3, 7.4 and 7.5.\nRULE 73. United States Magistrate Judges.\n",
+          "pages": [
+            30
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 30,
+      "pageSpan": [
+        30,
+        30
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:73.1",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "73.1",
+      "citation": "District of New Mexico · Rule 73.1",
+      "title": "Direct Assignment of Civil Cases.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "73.1 Direct Assignment of Civil Cases.\n(a) Allocation of Civil Case Assignments. Civil cases excluding prisoner cases and \nbankruptcy appeals may be randomly assigned to a Magistrate Judge as the trial \nMagistrate Judge (hereinafter \"trial Magistrate Judge\") to preside over all dispositive \nmotions, evidentiary hearings and trial; the Court will determine the percentage of \ncivil cases to be assigned to each trial Magistrate Judge. For every civil case, \nexcluding Social Security appeals, a Magistrate Judge will be assigned as pre-trial \nMagistrate Judge (hereinafter \"pre-trial Magistrate Judge\") to preside over all \nnon-dispositive pre-trial matters in accordance with FED. R. CIV. P. 72(a). The pre￾trial Magistrate Judge will also conduct settlement conferences in all civil cases \npursuant to D.N.M. LR-Civ. 16.2 .\n(b) Consent to Proceed Before a Trial Magistrate Judge. In a case assigned to a trial \nMagistrate Judge, each party's attorney will receive notice in the form of an NEF \n(\"Notice of Electronic Filing\") stating in part, that the case \"has been randomly \nassigned to a U. S. Magistrate Judge to conduct dispositive proceedings in this matter, \nincluding motions and trial.\" A party proceeding pro se will receive the notice and a \nform entitled, \"Consent / Refusal to Proceed Before a U. S. Magistrate Judge\" \n(available at www.nmd.uscourts.gov and at the Clerk's Office). Consent or non￾consent will be by text only notice filed by a party's attorney or by a completed ",
+          "pages": [
+            30
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "18\nconsent/refusal form submitted to the Clerk by a party proceeding pro se. Unless \notherwise notified by the Clerk's Office or the Court, consent by each party must be \nmade no later than twenty-one (21) days after the entry of the original Order setting \nthe Rule 16 Initial Scheduling Conference.\n(c) Refusal to Proceed Before a Trial Magistrate Judge. A party's failure to timely \nindicate consent will be considered that party's refusal of consent to proceed before the \nassigned trial Magistrate Judge. If a party explicitly or implicitly refuses consent, the \nassigned trial Magistrate Judge will be replaced by a randomly assigned District Judge. \nThe assigned pre-trial Magistrate Judge will remain the same.\n(d) Recusal by A Trial Magistrate Judge. An assigned trial Magistrate Judge may \ndecline to hear the case if it is determined that the case would interfere with the \nefficient and effective processing of cases within the Magistrate Judge's jurisdiction or \nif a conflict arises. Upon recusal by an assigned trial Magistrate Judge, the Clerk will \nrandomly reassign the case to another trial Magistrate Judge. If the recusal occurs \nbefore entry of the Order setting the Rule 16 Initial Scheduling Conference, the \nprocedures in (b) and (c) will be followed. If the recusal occurs after entry of the \nOrder setting the Rule 16 Initial Scheduling Conference, the parties will have fourteen \n(14) days from the date a new trial Magistrate Judge is randomly assigned to consent \nor not consent to the newly assigned trial Magistrate Judge. Failure to timely consent \nwill result in the case being randomly reassigned to a District Judge.\n",
+          "pages": [
+            31
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 30,
+      "pageSpan": [
+        30,
+        31
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:73.2",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "73.2",
+      "citation": "District of New Mexico · Rule 73.2",
+      "title": "Consent to Proceed Before a Pre-Trial Magistrate Judge.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "73.2 Consent to Proceed Before a Pre-Trial Magistrate Judge.\n(a) Designation of Magistrate Judge on Cases Not Assigned to a Trial Magistrate \nJudge. By consent of all parties, the assigned pre-trial Magistrate Judge may preside \nover any dispositive matter, including trial.\n(b) Form of Consent. Parties wishing to consent must jointly complete and submit a \nform entitled \"Notice, Consent, and Reference of a Dispositive Motion (or Civil \nAction) to a Magistrate Judge\" (available at www.nmd.uscourts.gov). \n(c) If the parties consent to the originally assigned pre-trial Magistrate Judge as the trial \njudge, another Magistrate Judge will be assigned to the case as the pre-trial Magistrate \nJudge.\n",
+          "pages": [
+            31
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 31,
+      "pageSpan": [
+        31,
+        31
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:73.3",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "73.3",
+      "citation": "District of New Mexico · Rule 73.3",
+      "title": "Appeal of Final Judgment or Order.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "73.3 Appeal of Final Judgment or Order. If the parties consent to proceed before the assigned \ntrial Magistrate Judge, or consent to have the assigned pre-trial Magistrate Judge preside \nover a dispositive matter, including trial, the appeal of a final judgment will be to the United \nStates Court of Appeals for the Tenth Circuit.",
+          "pages": [
+            31
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "19\n",
+          "pages": [
+            32
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 31,
+      "pageSpan": [
+        31,
+        32
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:73.4",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "73.4",
+      "citation": "District of New Mexico · Rule 73.4",
+      "title": "Consent to Settlement Conference Conducted by a Magistrate Judge or Bankruptcy",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "73.4 Consent to Settlement Conference Conducted by a Magistrate Judge or Bankruptcy \nJudge. The parties, by unanimous agreement, may request a particular Magistrate Judge, \nwho is not the trial or pre-trial Magistrate Judge, or a Bankruptcy Judge, to conduct a \nsettlement conference.\nX. DISTRICT COURTS AND CLERKS\nRULE 79. Custody of Files and Exhibits.\n",
+          "pages": [
+            32
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 32,
+      "pageSpan": [
+        32,
+        32
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:79.1",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "79.1",
+      "citation": "District of New Mexico · Rule 79.1",
+      "title": "Removal of Pleadings and Other Papers From Court File. A Court order is required to",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "79.1 Removal of Pleadings and Other Papers From Court File. A Court order is required to \nremove any contents of a Court file.\n",
+          "pages": [
+            32
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 32,
+      "pageSpan": [
+        32,
+        32
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:79.2",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "79.2",
+      "citation": "District of New Mexico · Rule 79.2",
+      "title": "Return of Exhibits in Civil Actions.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "79.2 Return of Exhibits in Civil Actions. In civil cases, the Clerk will return all exhibits after \nthe trial to the party who introduced same in evidence to be retained until the judgment is \nfinal. Such parties will be responsible for producing the exhibits if required for an appeal \nrecord.\n",
+          "pages": [
+            32
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 32,
+      "pageSpan": [
+        32,
+        32
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:79.3",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "79.3",
+      "citation": "District of New Mexico · Rule 79.3",
+      "title": "Fees for Copies of Documents.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "79.3 Fees for Copies of Documents. The Clerk will charge the statutory fee to provide copies \nof documents. A person who requests that copies be mailed must provide a pre-addressed, \nstamped envelope, unless otherwise approved by the Clerk.\nXI. GENERAL PROVISIONS\nRULE 81. General Provisions.\n",
+          "pages": [
+            32
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 32,
+      "pageSpan": [
+        32,
+        32
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:81.1",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "81.1",
+      "citation": "District of New Mexico · Rule 81.1",
+      "title": "Removed Actions.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "81.1 Removed Actions.\n(a) Removal From State Court. A party removing an action under 28 U.S.C. § 1446 \nmust file with the Clerk legible copies of records and proceedings from the state court \naction within twenty-eight (28) days after filing notice of removal. The expense of \nobtaining and filing copies may be taxed as costs in the action.\n(b) Remand to State Court or Other Forum. When an action is remanded, the Clerk \nwill transmit to the state court administrator or appropriate official in another forum, \nthe court file and a certified copy of the order of remand.\nRULE 83. Miscellaneous Rules.\n",
+          "pages": [
+            32
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 32,
+      "pageSpan": [
+        32,
+        32
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:83.1",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "83.1",
+      "citation": "District of New Mexico · Rule 83.1",
+      "title": "Courtroom and Courthouse Decorum.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "83.1 Courtroom and Courthouse Decorum.\n(a) Prohibition Against Cameras, Cellular Telephones with Cameras, Transmitters, \nReceivers, and Recording Equipment. No cameras, cellular telephones with \ncameras, transmitters, receivers or recording equipment may be brought into or used in \nany courtroom or court environs. Environs include:\n• the entire floor where a courtroom is located;",
+          "pages": [
+            32
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "20\n• the entire floor where the grand jury meets; and\n• the entire floor where a chambers of any Magistrate or District Judge is located.\n(b) Authority to Impound Equipment. The U. S. Marshals Service may impound the \nabove-described equipment brought into the courtroom or its environs.\n(c) Exemptions from Prohibition. The prohibitions of this rule do not apply to:\n(1) a stenographic or recording device used by an official court reporter or other \nauthorized court personnel;\n(2) equipment brought into court during investiture, ceremonial or naturalization \nproceedings;\n(3) a telephone or pager if turned off while court is in session;\n(4) a lap-top computer as long as it does not make noise or interfere with court \nproceedings and it is not used to record or transmit court proceedings;\n(5) a note-taking or other device required because of a person's disability; or\n(6) attorneys and jurors with cellular telephones with cameras, but prohibit the use of \nthe camera or recording features while in the courtroom or court environs; or\n(7) court orders authorizing the use of such equipment.\n",
+          "pages": [
+            33
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 32,
+      "pageSpan": [
+        32,
+        33
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:83.2",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "83.2",
+      "citation": "District of New Mexico · Rule 83.2",
+      "title": "Bar Admission, Membership and Dues. [Effective 12/1/2014]",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "83.2 Bar Admission, Membership and Dues. [Effective 12/1/2014]\n(a) Application. An applicant for admission to the bar of this court must be licensed by \nthe highest court of a state, federal territory, or the District of Columbia, be on active \nstatus in a state, federal territory, or the District of Columbia, and be a member of the \nbar in good standing in all courts and jurisdictions where the applicant has been\nadmitted. Each applicant must complete the application form available from the \nClerk, be approved by the Clerk, pay the admission fee to the Clerk, and take the \nprescribed oath. A fee schedule is available at the Clerk’s Office. The admission fee \nis deposited into the Treasury of the United States as mandated by the Judicial \nConference of the United States.\n(b) Consent to Jurisdiction; Certification of Familiarity with Local Rules. An \nattorney who applies for admission to the bar of this court:\n(1) consents to this court’s exercise of disciplinary jurisdiction over any alleged \nmisconduct;\n(2) certifies familiarity with the local rules of this court; and\n(3) certifies familiarity with the Rules of Professional Conduct adopted by the \nSupreme Court of New Mexico and adopted by this court in D.N.M.LR-Civ. \n",
+          "pages": [
+            33
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 33,
+      "pageSpan": [
+        33,
+        33
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:83.9",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "83.9",
+      "citation": "District of New Mexico · Rule 83.9",
+      "title": "Rule 83.9",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "83.9.\n(c) Member in Good Standing. An attorney admitted to the bar of this court must \nremain in good standing in all courts where admitted. In good standing means not \nsuspended or disbarred by any court for any reason. An attorney whose suspension or \ndisbarment has been stayed by order of the disciplining court prior to the effective \ndate of the suspension or disbarment remains in good standing. An attorney who is \nnot in good standing may not practice before the bar of this court or continue to be an \nattorney of record in any pending case. On notice to this court of lack of good ",
+          "pages": [
+            33
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "21\nstanding from the suspending or disbarring jurisdiction, the clerk of this court shall \nmake a notation in the court record of such lack of good standing.\n(d) Relief From Rule of Good Standing.\n(1) Applications. An attorney who seeks relief from the rule of good standing in \nsubdivision (c) must file a request for relief.\n(2) Standards. It is presumed that discipline imposed by another court against a \nmember of the bar of this court is appropriate. To obtain relief, the attorney so \ndisciplined has the burden to establish by clear and convincing evidence:\n(A) that the procedure resulting in discipline by the court was so lacking in \nnotice or opportunity to be heard as to deny due process,\n(B) that the application of the good standing rules in subdivision (c) would \nresult in grave injustice, or\n(C) that the kind of misconduct warrants substantially less severe \ndiscipline.\n(3) Reinstatement by Original Disciplining Court. An attorney who has been \nreinstated or readmitted by the original disciplining court, but who remains \nsuspended or disbarred in a different court for the same conduct as that at \nissue in the original disciplining court, may apply for reinstatement or \nreadmission pursuant to D.N.M.LR-Civ. 83.10(b) and is not disqualified by \nthe requirement that an attorney be in good standing in all courts where \nadmitted.\n(e) Resignation. An attorney may resign from the bar of this court only if the attorney \nis in good standing, is not counsel of record in a pending case, and is not the subject \nof any disciplinary proceeding before this court.\n(f) When Self-Reporting is Required. An attorney who has been admitted to the bar \nof this court must notify the clerk of the court in the following circumstances:\n(1) Eligibility. The attorney must remain a licensed member in active status and \nin good standing of the bar of at least one state, federal territory, or the \nDistrict of Columbia. If at any time these eligibility criteria are not met, the \nattorney must, within 14 days after the attorney receives notice of the change \nin status, notify the clerk of this court of the change in status and the reason \nfor the change.\n(2) Suspension or Disbarment by Another Court. If the attorney is suspended \nor disbarred for any reason by any court, the attorney must, within 14 days of \nthe date the disciplinary order enters, give written notice to the clerk of this \ncourt of the terms of discipline, the name and address of the court imposing \nthe discipline, and the effective date of the disciplinary action. An order of \nsuspension or disbarment that is stayed or appealed must be reported.\n(3) Resignation Pending Investigation of Misconduct. If the attorney resigns \nfrom the bar of any other federal or state court while an investigation into \nallegations of misconduct is pending, the attorney must, within 14 days of the ",
+          "pages": [
+            34
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "22\nresignation, give to the clerk of this court written notice of the resignation and \nthe fact that an investigation was pending.\n(4) Pending Charges. If the attorney is charged in any court with a crime as \ndefined in D.N.M.LR-Civ. 83.13, the attorney must, within 14 days after the \nattorney receives notice that the charge has been filed, notify the clerk of this \ncourt in writing of the charge.\n(5) Conviction. If the attorney is convicted of a crime as defined in D.N.M.LR￾Civ. 83.13, the attorney must, within 14 days of the conviction, provide the \nclerk of this court written notice of the conviction, including the terms of the \nconviction, the court entering the conviction, and the date of conviction. In \naddition, the attorney must, within 14 days of the conviction becoming final \nwith no further right of direct appeal, notify the clerk of this court that the \nconviction has become final. The definition of conviction in D.N.M.LR-Civ. \n83.13(b) applies to this paragraph.\n(g) Effect of Failure To Self-Report. Failure to self-report is a separate cause for \ndisciplinary action. However, a failure to self-report an administrative suspension for \nfailure to pay an annual registration fee or to comply with mandatory continuing legal \neducation requirements does not constitute separate cause for further disciplinary \naction by this court.\n(h) Bar Dues. Following admission, a member of the Federal Bar must pay dues to the \nClerk on or before January 31 in every odd numbered year.\n(i) Failure to Pay Dues. An attorney who fails to pay dues on time will be put on \ndelinquent status and will not be allowed to practice in this District. The attorney will \nbe reinstated upon payment of the delinquent dues.\n(j) Temporary Waiver of Membership. An eligible attorney who has applied for \nmembership, but has not yet been admitted, may seek leave of the Court to represent \na party in a specific action.\n",
+          "pages": [
+            35
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 33,
+      "pageSpan": [
+        33,
+        35
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:83.3",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "83.3",
+      "citation": "District of New Mexico · Rule 83.3",
+      "title": "Appearance of Attorneys Licensed Outside the District. [Effective 1/1/2012] An",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "83.3 Appearance of Attorneys Licensed Outside the District. [Effective 1/1/2012] An \nattorney who is not a member of the Federal Bar may appear in an action, and may file and \nserve documents electronically either by associating with a member of the Federal Bar or by \napplying to be admitted under these rules: \n(a) Association. The non-member attorney must associate with a member of the Federal \nBar as follows: \n(1) the Federal Bar member must sign the first pleading, certify that the non-member \nattorney is a member in good standing of the bar of a state, a territory, or the \nDistrict of Columbia, accept service, and continue in the action unless another \nFederal Bar member is substituted; and\n(2) the non-member attorney must pay to the Clerk $100 for each case in which the \nnon-member attorney appears; or",
+          "pages": [
+            35
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-37",
+          "path": [],
+          "type": "paragraph",
+          "text": "23\n(b) Admission. The non-member attorney must apply to practice in accordance with \nD.N.M.LR-Civ. 83.2.\n",
+          "pages": [
+            36
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 35,
+      "pageSpan": [
+        35,
+        36
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:83.4",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "83.4",
+      "citation": "District of New Mexico · Rule 83.4",
+      "title": "Entry of Appearance.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-37",
+          "path": [],
+          "type": "paragraph",
+          "text": "83.4 Entry of Appearance. \n(a) Individual Attorney. To participate in a pending proceeding, an attorney must enter \nan appearance or obtain leave of the Court to sign and file any pleading, motion, or \nother document. The attorney must:\n• be eligible to appear under D.N.M.LR-Civ. 83.2 or 83.3;\n• file a written entry of appearance which includes the attorney's name, firm name, \naddress, telephone number, electronic address, and facsimile number; and\n• sign the initial pleading or motion filed on behalf of a party.\n(b) Appearance by Law Firm (Including Governmental Entity or Agency Attorney's \nOffice and Public Defenders). Entry of appearance by a law firm allows any \nmember of that firm to participate in the action; however, each attorney in the firm \nwishing to receive documents from the Clerk must make a written entry of appearance \nin the action. A member of a firm may file a withdrawal of appearance from a \nparticular case without meeting the requirements of D.N.M.LR-Civ. 83.8, provided \nthat at least one member remains in the case.\n(c) Limited Entry of Appearance. An attorney may not appear in a limited manner as \nprovided in N.M.R. PROF'L CONDUCT 16-303(E) except by Court order. \n",
+          "pages": [
+            36
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 36,
+      "pageSpan": [
+        36,
+        36
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:83.5",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "83.5",
+      "citation": "District of New Mexico · Rule 83.5",
+      "title": "Appearance by Party. A party who is represented by an attorney may not personally",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-37",
+          "path": [],
+          "type": "paragraph",
+          "text": "83.5 Appearance by Party. A party who is represented by an attorney may not personally \nmake any filings, other than a notice of appeal, or represent himself or herself unless \notherwise ordered.\n",
+          "pages": [
+            36
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 36,
+      "pageSpan": [
+        36,
+        36
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:83.6",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "83.6",
+      "citation": "District of New Mexico · Rule 83.6",
+      "title": "Change of Address.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-37",
+          "path": [],
+          "type": "paragraph",
+          "text": "83.6 Change of Address. All attorneys of record and parties appearing pro se have a \ncontinuing duty to notify the Clerk, in writing, of any change in their firm name, mailing \naddresses, telephone numbers, facsimile numbers, or electronic addresses. \n",
+          "pages": [
+            36
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 36,
+      "pageSpan": [
+        36,
+        36
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:83.7",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "83.7",
+      "citation": "District of New Mexico · Rule 83.7",
+      "title": "Representation of Corporation, Partnership or Business Entity Other Than a Natural",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-37",
+          "path": [],
+          "type": "paragraph",
+          "text": "83.7 Representation of Corporation, Partnership or Business Entity Other Than a Natural \nPerson. A corporation, partnership or business entity other than a natural person must be \nrepresented by an attorney authorized to practice before this Court.\n",
+          "pages": [
+            36
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 36,
+      "pageSpan": [
+        36,
+        36
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:83.8",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "83.8",
+      "citation": "District of New Mexico · Rule 83.8",
+      "title": "Withdrawal of Appearance.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-37",
+          "path": [],
+          "type": "paragraph",
+          "text": "83.8 Withdrawal of Appearance. In addition to the provisions of D.N.M.LR-Civ. 83.4(b), an \nattorney may withdraw from an action as follows:\n(a) Unopposed Motion to Withdraw. The motion to withdraw and proposed order must \nindicate consent of the client represented by the withdrawing attorney and:\n• notice of appointment of substitute attorney; or\n• a statement of the client's intention to appear pro se and the client's address and \ntelephone number; or\n• if the client is a corporation, partnership or business entity other than a natural \nperson, the client's address and telephone number.",
+          "pages": [
+            36
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-38",
+          "path": [],
+          "type": "paragraph",
+          "text": "24\n(b) Contested Motion to Withdraw. The attorney must file and serve on all parties, \nincluding the client, a motion to withdraw. The attorney must give notice in the \nmotion that objections must be served and filed within fourteen (14) days from date of \nservice of the motion and that failure to object within this time constitutes consent to \ngrant the motion.\n(c) Party is Corporation, Partnership or Business Entity Other Than a Natural \nPerson. A motion to withdraw from representation of a corporation, partnership or \nbusiness entity other than a natural person must include a notice that the corporation, \npartnership or business entity other than a natural person can appear only with an \nattorney. Absent entry of appearance by a new attorney, any filings made by the \ncorporation, partnership or business entity other than a natural person may be stricken \nand default judgment or other sanctions imposed.\n83.9 Rules of Professional Conduct. The Rules of Professional Conduct adopted by the \nSupreme Court of the State of New Mexico apply except as otherwise provided by local \nrule or by Court order. See, e.g., D.N.M.LR-Civ. 83.4(c). Lawyers appearing in this \nDistrict must comply with the section for lawyers of \"A Creed of Professionalism of the \nNew Mexico Bench and Bar.\"\n",
+          "pages": [
+            37
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 36,
+      "pageSpan": [
+        36,
+        37
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:83.10",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "83.10",
+      "citation": "District of New Mexico · Rule 83.10",
+      "title": "Attorney Discipline.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-38",
+          "path": [],
+          "type": "paragraph",
+          "text": "83.10 Attorney Discipline. \n(a) Disbarment or Suspension of an Attorney. The Court, sua sponte or upon \ndetermining that a member of the Bar of this District Court has been disciplined, \nsuspended or disbarred by any state or has been convicted of a felony, may \ndiscipline, suspend or disbar the attorney. The Chief District Judge will appoint a \npanel of federal judges who may include Article III Judges, Magistrate Judges and \nBankruptcy Judges, to review any state disciplinary proceedings or felony \nconvictions and, if necessary, conduct a hearing to determine whether discipline, \nsuspension or disbarment is appropriate.\n(b) Procedure for Readmission. An attorney disbarred or suspended must file a \nwritten application setting forth, in detail, the grounds for readmission. An \nattorney disbarred or suspended under (a) who files a certification that the \nconviction has been vacated or reversed, may seek readmission review in \naccordance with the procedures in (a) to determine if disbarment or suspension \nmay be appropriate even though the conviction has been vacated or reversed. \n",
+          "pages": [
+            37
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 37,
+      "pageSpan": [
+        37,
+        37
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:83.11",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "83.11",
+      "citation": "District of New Mexico · Rule 83.11",
+      "title": "Clinical Law Student Practice. A law student participating in the clinical program at",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-38",
+          "path": [],
+          "type": "paragraph",
+          "text": "83.11 Clinical Law Student Practice. A law student participating in the clinical program at \nthe University of New Mexico School of Law may, under the control and direction of the \ndean of the law school, represent a party. A member of the Federal Bar, designated by \nthe dean, must actively supervise the student and sign any pleading, motion or other \npaper prepared by the student. An order authorizing the student's appearance must be \nfiled before the student appears in court.",
+          "pages": [
+            37
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "25\n",
+          "pages": [
+            38
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 37,
+      "pageSpan": [
+        37,
+        38
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:83.12",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "83.12",
+      "citation": "District of New Mexico · Rule 83.12",
+      "title": "Complaints of Judicial Misconduct or Disability. A person may lodge a complaint",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "83.12 Complaints of Judicial Misconduct or Disability. A person may lodge a complaint \nagainst a Judge in accordance with 28 U.S.C. § 351, et seq. by obtaining a complaint \nform from the Clerk and filing with:\nCircuit Executive\nUnited States Court of Appeals for the Tenth Circuit\nByron White U. S. Courthouse\n1823 Stout Street\nDenver, Colorado 80257\n",
+          "pages": [
+            38
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 38,
+      "pageSpan": [
+        38,
+        38
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmd-civil:83.13",
+      "collectionId": "nmd-civil",
+      "districtId": "nmd",
+      "number": "83.13",
+      "citation": "District of New Mexico · Rule 83.13",
+      "title": "Conviction of Crime. [Effective 12/1/2014]",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "83.13 Conviction of Crime. [Effective 12/1/2014]\n(a) Crime. As used in these rules, a crime for which discipline may be imposed is any \nfelony, i.e., a crime punishable by a term of imprisonment of more than one year; any \nlesser crime that reflects adversely on the honesty, trustworthiness or fitness of the \nattorney in other respects; or any crime a necessary element of which, as determined \nby the statutory or common law definition of the crime, involves interference with the \nadministration of justice, false swearing, misrepresentation, fraud, deceit, bribery, \nextortion, misappropriation, theft, or an attempt, conspiracy or solicitation to commit \na crime.\n(b) Conviction. As used in these rules, a conviction includes a verdict of guilty, a plea \nof guilty, or a plea of nolo contendere, regardless of whether entry of judgment of \nconviction or imposition of sentence is suspended or deferred by the court.\n(c) Duty of the Clerk. After receiving notice of a conviction of a member of the bar of \nthis court for a crime as defined in subdivision (a), the clerk must immediately notify \nthe Chief Judge and the attorney. \n(d) Interim Suspension.\n(1) General Procedure. The Chief Judge may place an attorney on interim \nsuspension immediately on proof of a conviction of the attorney for a crime as \ndefined in subdivision (a), regardless of the pendency of any appeal. \nAlternatively, the Chief Judge may refer the attorney to a panel of judges for \ninvestigation and recommendation pursuant to D.N.M.LR-Civ.83.10(a).\n(2) Opportunity to Object. The attorney may submit in writing any objection \nthat establishes that the suspension may not properly be ordered, such as proof \nthat the crime did not constitute a crime as defined in subdivision (a) or that \nthe attorney is not the individual convicted.\n(3) Termination. On a written showing by the attorney of extraordinary \ncircumstances, the Chief Judge may vacate an order of suspension. ",
+          "pages": [
+            38
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmd-civil-parsed-v1-f8526a99a16fdf00",
+      "sourceDocumentId": "parsed-nmd-f8526a99a16fdf00",
+      "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+      "pageIndex": 38,
+      "pageSpan": [
+        38,
+        38
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    }
+  ],
+  "evidence": [
+    {
+      "number": "1.1",
+      "heading": "1.1 Title and Citation. These are the Local Civil Rules of the United States District Court for",
+      "page": 15,
+      "offset": 150,
+      "slices": [
+        {
+          "page": 15,
+          "start": 150,
+          "end": 320,
+          "sha256": "8ba242e855d89fc48e738e4c0670c2b787c1f3d1065a91fe145043d8a346b321"
+        }
+      ]
+    },
+    {
+      "number": "1.2",
+      "heading": "1.2 Effective Date. These rules take effect on July 1, 2011.",
+      "page": 15,
+      "offset": 320,
+      "slices": [
+        {
+          "page": 15,
+          "start": 320,
+          "end": 381,
+          "sha256": "33ebefa99c9bc823abd9d10e2190020a869dbdfab09855346301b83ff9cf8ceb"
+        }
+      ]
+    },
+    {
+      "number": "1.3",
+      "heading": "1.3 Application of Rules.",
+      "page": 15,
+      "offset": 381,
+      "slices": [
+        {
+          "page": 15,
+          "start": 381,
+          "end": 693,
+          "sha256": "1dfbd7ccc5b50d10d0f3312b26ebf2604fe054bef7d8bf4507d527c0577337ff"
+        }
+      ]
+    },
+    {
+      "number": "1.4",
+      "heading": "1.4 Rule of Construction. The format of these rules coincides with the numbering and content",
+      "page": 15,
+      "offset": 693,
+      "slices": [
+        {
+          "page": 15,
+          "start": 693,
+          "end": 937,
+          "sha256": "9e4e6c98fbaa3a4cc339d96d24c62040d0bec3a752688dc03447c402a3c4c40f"
+        }
+      ]
+    },
+    {
+      "number": "1.5",
+      "heading": "1.5 Definitions. In these rules:",
+      "page": 15,
+      "offset": 937,
+      "slices": [
+        {
+          "page": 15,
+          "start": 937,
+          "end": 1806,
+          "sha256": "c4fa3d19367e184763f30a8c686f9f7da4daaa7852e7d88951ab597f32929647"
+        },
+        {
+          "page": 16,
+          "start": 0,
+          "end": 2,
+          "sha256": "53c234e5e8472b6ac51c1ae1cab3fe06fad053beb8ebfd8977b010655bfdd3c3"
+        }
+      ]
+    },
+    {
+      "number": "1.6",
+      "heading": "1.6 Bankruptcy Cases.",
+      "page": 16,
+      "offset": 2,
+      "slices": [
+        {
+          "page": 16,
+          "start": 2,
+          "end": 578,
+          "sha256": "9775cd59f0064ce817fe65326cab0a8dee9f2986fbc568241ccbb29b5cacff0c"
+        }
+      ]
+    },
+    {
+      "number": "1.7",
+      "heading": "1.7 Waiver of Rules. These rules may be waived by a Judge to avoid injustice.",
+      "page": 16,
+      "offset": 578,
+      "slices": [
+        {
+          "page": 16,
+          "start": 578,
+          "end": 735,
+          "sha256": "e82882ae89d1f354046aae98b99553db0ec27fbf7fec2475a3080b9d42a33141"
+        }
+      ]
+    },
+    {
+      "number": "3.1",
+      "heading": "3.1 Civil Cover Sheet.",
+      "page": 16,
+      "offset": 735,
+      "slices": [
+        {
+          "page": 16,
+          "start": 735,
+          "end": 1395,
+          "sha256": "9c49f7d55b43107b2d08234749152e84246be5993bd2c8a9c58e59a3048e4ef7"
+        }
+      ]
+    },
+    {
+      "number": "3.2",
+      "heading": "3.2 Notification of Multidistrict Litigation. A party filing a paper involving an action subject",
+      "page": 16,
+      "offset": 1395,
+      "slices": [
+        {
+          "page": 16,
+          "start": 1395,
+          "end": 1771,
+          "sha256": "6a3e12b63a80a353cbcf0efe691bac126c602667aa2b514d4a3a329297215bed"
+        }
+      ]
+    },
+    {
+      "number": "3.3",
+      "heading": "3.3 Fees. The filing fee may be paid by cash or check or charged to a credit card. A pro se",
+      "page": 16,
+      "offset": 1771,
+      "slices": [
+        {
+          "page": 16,
+          "start": 1771,
+          "end": 1947,
+          "sha256": "73180afbef61f012f9c6906426f1004d55ea76e1f9ca556af3bfa83dcc70cbd2"
+        }
+      ]
+    },
+    {
+      "number": "4.1",
+      "heading": "4.1 Summons. A party must prepare the summons on a form available from the Clerk.",
+      "page": 16,
+      "offset": 1947,
+      "slices": [
+        {
+          "page": 16,
+          "start": 1947,
+          "end": 2029,
+          "sha256": "bdd472ebfdac69873d575707c654a8827ef7718c7ab0636404311152e1e870b5"
+        },
+        {
+          "page": 17,
+          "start": 0,
+          "end": 30,
+          "sha256": "9b46e228331255bfbd362cca3e1afe5c2a5b692b5d9017d53a7e18536f60511b"
+        }
+      ]
+    },
+    {
+      "number": "5.1",
+      "heading": "5.1 Electronic Filing and Service. [Effective 12/1/2014]",
+      "page": 17,
+      "offset": 30,
+      "slices": [
+        {
+          "page": 17,
+          "start": 30,
+          "end": 1183,
+          "sha256": "0fe4d3da74c35511c19ebdea6e7c76cbddf4d4214b34a4164e19b2aea938ace7"
+        }
+      ]
+    },
+    {
+      "number": "5.2",
+      "heading": "5.2 Paper Filing and Service. In cases where electronic filing is not required under",
+      "page": 17,
+      "offset": 1183,
+      "slices": [
+        {
+          "page": 17,
+          "start": 1183,
+          "end": 1599,
+          "sha256": "872b8df777d7524d297453afa7674554ae2e49f9a552cc9209027072d212e097"
+        }
+      ]
+    },
+    {
+      "number": "7.1",
+      "heading": "7.1 Writing Requirement; Opposition.",
+      "page": 17,
+      "offset": 1599,
+      "slices": [
+        {
+          "page": 17,
+          "start": 1599,
+          "end": 2668,
+          "sha256": "1a3925329e97358f2abefa33c8dee51f2277276c5b6fa6ee4ca2091dc336ce38"
+        },
+        {
+          "page": 18,
+          "start": 0,
+          "end": 2,
+          "sha256": "7de1555df0c2700329e815b93b32c571c3ea54dc967b89e81ab73b9972b72d1d"
+        }
+      ]
+    },
+    {
+      "number": "7.2",
+      "heading": "7.2 Unopposed Motions; Case Management Deadlines. An unopposed motion must be",
+      "page": 18,
+      "offset": 2,
+      "slices": [
+        {
+          "page": 18,
+          "start": 2,
+          "end": 352,
+          "sha256": "64e83abd79faa8b5fd1aef618a5a97e08e38af4769564a43778da138040f4637"
+        }
+      ]
+    },
+    {
+      "number": "7.3",
+      "heading": "7.3 Form of Motion and Related Evidence.",
+      "page": 18,
+      "offset": 352,
+      "slices": [
+        {
+          "page": 18,
+          "start": 352,
+          "end": 752,
+          "sha256": "02de44b832d19abd115a533f4c741ee8aaeb627c4cab47ed6b0a9f8d8b2ad5d4"
+        }
+      ]
+    },
+    {
+      "number": "7.4",
+      "heading": "7.4 Timing of and Restrictions on Responses and Replies.",
+      "page": 18,
+      "offset": 752,
+      "slices": [
+        {
+          "page": 18,
+          "start": 752,
+          "end": 2318,
+          "sha256": "aea86f94bacee3e3e3781bcce2092524635f21c8952f102c04cffaad5da16100"
+        },
+        {
+          "page": 19,
+          "start": 0,
+          "end": 2,
+          "sha256": "f0b5c2c2211c8d67ed15e75e656c7862d086e9245420892a7de62cd9ec582a06"
+        }
+      ]
+    },
+    {
+      "number": "7.5",
+      "heading": "7.5 Length of Motion, Response and Reply. The length of a motion or, if a separate brief is",
+      "page": 19,
+      "offset": 2,
+      "slices": [
+        {
+          "page": 19,
+          "start": 2,
+          "end": 611,
+          "sha256": "8502f44a60c51e96863c4e730ed00cd88bdc5f18eda0cef15298db45fb1042f3"
+        }
+      ]
+    },
+    {
+      "number": "7.6",
+      "heading": "7.6 Oral Argument.",
+      "page": 19,
+      "offset": 611,
+      "slices": [
+        {
+          "page": 19,
+          "start": 611,
+          "end": 918,
+          "sha256": "72e9242785f65aae716837246c576b1745590e26ff45741cc95aa319ace0c13a"
+        }
+      ]
+    },
+    {
+      "number": "7.7",
+      "heading": "7.7 Withdrawal of Documents. A party may withdraw a document from consideration by the",
+      "page": 19,
+      "offset": 918,
+      "slices": [
+        {
+          "page": 19,
+          "start": 918,
+          "end": 1195,
+          "sha256": "f09b21e0c349707b070607941d8112fa197c309ee03c99cbb4f264180906f852"
+        }
+      ]
+    },
+    {
+      "number": "7.8",
+      "heading": "7.8 Citation of Supplemental Authorities.",
+      "page": 19,
+      "offset": 1195,
+      "slices": [
+        {
+          "page": 19,
+          "start": 1195,
+          "end": 2110,
+          "sha256": "48baff6a1fbe09fe15cee0b92d5b64a57e9072d983895578ca68bba5b04691fd"
+        }
+      ]
+    },
+    {
+      "number": "10.1",
+      "heading": "10.1 Form. A paper presented for filing must be on size 8 ½ by 11 inch white, opaque,",
+      "page": 19,
+      "offset": 2110,
+      "slices": [
+        {
+          "page": 19,
+          "start": 2110,
+          "end": 2690,
+          "sha256": "3c6ae81d9c16293e665d4a8acd004c990f3aa36846f6658a2d1d5f5b3315be6d"
+        },
+        {
+          "page": 20,
+          "start": 0,
+          "end": 2,
+          "sha256": "06e9d52c1720fca412803e3b07c4b228ff113e303f4c7ab94665319d832bbfb7"
+        }
+      ]
+    },
+    {
+      "number": "10.2",
+      "heading": "10.2 Titles of Documents. The title of a document must clearly identify its substance and any",
+      "page": 20,
+      "offset": 2,
+      "slices": [
+        {
+          "page": 20,
+          "start": 2,
+          "end": 150,
+          "sha256": "6825e4c8907fb8011982b8dcc560dc8a7d87649ae66879fe47fff69e5871bfbb"
+        }
+      ]
+    },
+    {
+      "number": "10.3",
+      "heading": "10.3 Filing of Non-Conforming Documents.",
+      "page": 20,
+      "offset": 150,
+      "slices": [
+        {
+          "page": 20,
+          "start": 150,
+          "end": 942,
+          "sha256": "0df1630fd88251b6cb85fe4448618e46a7b0aa3f98d154816d1fa8c918d78a24"
+        }
+      ]
+    },
+    {
+      "number": "10.4",
+      "heading": "10.4 Attachments to Pleadings. Exhibits are not attached to a pleading unless the documents",
+      "page": 20,
+      "offset": 942,
+      "slices": [
+        {
+          "page": 20,
+          "start": 942,
+          "end": 1086,
+          "sha256": "0482a854c0679eae2cd18a590afae7d656d0dff89209620452f844f5787a670c"
+        }
+      ]
+    },
+    {
+      "number": "10.5",
+      "heading": "10.5 Page Limit for Exhibits. All exhibits to a motion, response or reply, including excerpts",
+      "page": 20,
+      "offset": 1086,
+      "slices": [
+        {
+          "page": 20,
+          "start": 1086,
+          "end": 1658,
+          "sha256": "1ffc036476a5c4d8cb78fd5ebefff16846fc969244bd0b1636d5a50efcfbccd9"
+        }
+      ]
+    },
+    {
+      "number": "10.6",
+      "heading": "10.6 Identifying Portions of Exhibits. The portions of an exhibit the party wishes to bring to",
+      "page": 20,
+      "offset": 1658,
+      "slices": [
+        {
+          "page": 20,
+          "start": 1658,
+          "end": 2198,
+          "sha256": "a30e6538cd10622cb93b98140e0e13dfa350c62c460e07c45a8d60d30a5ef0d3"
+        }
+      ]
+    },
+    {
+      "number": "10.7",
+      "heading": "10.7 Non-duplication of Exhibits. An exhibit should be submitted only once and may later be",
+      "page": 20,
+      "offset": 2198,
+      "slices": [
+        {
+          "page": 20,
+          "start": 2198,
+          "end": 2807,
+          "sha256": "030428467c0ffebcc21fc8ee25902b12651e49e6edc5ad8d7cc4f4e5ab825ea2"
+        },
+        {
+          "page": 21,
+          "start": 0,
+          "end": 33,
+          "sha256": "7963cbc344bc967d9a4851179c762dba18204a3903209a628487529c72976ce3"
+        }
+      ]
+    },
+    {
+      "number": "11.1",
+      "heading": "11.1 Signatures. The Court will treat a duplicate signature as an original signature, and a",
+      "page": 21,
+      "offset": 33,
+      "slices": [
+        {
+          "page": 21,
+          "start": 33,
+          "end": 287,
+          "sha256": "062a13b50cbfaff1d4aa39f5c6dcd1705635a784faed0f961cd39499fddbecc6"
+        }
+      ]
+    },
+    {
+      "number": "15.1",
+      "heading": "15.1 Motion to Amend Pleading. A proposed amendment to a pleading must accompany the",
+      "page": 21,
+      "offset": 287,
+      "slices": [
+        {
+          "page": 21,
+          "start": 287,
+          "end": 421,
+          "sha256": "459b605eba64af7fd74645c2e2353b22fbc57db447e62f4f2bd201b4125fa9aa"
+        }
+      ]
+    },
+    {
+      "number": "16.1",
+      "heading": "16.1 Joint Status Report. A Joint Status Report form is available at the Clerk's office and",
+      "page": 21,
+      "offset": 421,
+      "slices": [
+        {
+          "page": 21,
+          "start": 421,
+          "end": 1045,
+          "sha256": "973dd6771c99246792c539c8e5c56ae88445f6dbba88703de85f076bbf4276be"
+        }
+      ]
+    },
+    {
+      "number": "16.2",
+      "heading": "16.2 Settlement Conferences.",
+      "page": 21,
+      "offset": 1045,
+      "slices": [
+        {
+          "page": 21,
+          "start": 1045,
+          "end": 2541,
+          "sha256": "7306c4ce6a08e25d8fd6c9eff72c9357212886f7bfaebab117050a6654add47a"
+        },
+        {
+          "page": 22,
+          "start": 0,
+          "end": 276,
+          "sha256": "0032289dec3dde11b20995b853fd7eaf95c02ff08738ce87ad99496da2d64fa1"
+        }
+      ]
+    },
+    {
+      "number": "16.3",
+      "heading": "16.3 Exclusion From Pre-trial Case Management. The following types of cases are excluded",
+      "page": 22,
+      "offset": 276,
+      "slices": [
+        {
+          "page": 22,
+          "start": 276,
+          "end": 1814,
+          "sha256": "3fefa8f72048dd7a664dcae4b0c5aaec7bade9c9894986af4945237b290739cb"
+        }
+      ]
+    },
+    {
+      "number": "26.1",
+      "heading": "26.1 Form of Discovery Requests.",
+      "page": 22,
+      "offset": 1814,
+      "slices": [
+        {
+          "page": 22,
+          "start": 1814,
+          "end": 1882,
+          "sha256": "f5602017824aefdf7873f06baba5c6c8f2f1edfa6cfa79d28a8bc3c381c6ab52"
+        },
+        {
+          "page": 23,
+          "start": 0,
+          "end": 1249,
+          "sha256": "e58df8d8c05b0439e1ca626f471cf05d02087e448b315f8f9a92777f13dbc452"
+        }
+      ]
+    },
+    {
+      "number": "26.2",
+      "heading": "26.2 Certification of Service. The following documents must be served, but not filed with the",
+      "page": 23,
+      "offset": 1249,
+      "slices": [
+        {
+          "page": 23,
+          "start": 1249,
+          "end": 1670,
+          "sha256": "0058c35127384fb7f1547bd364b57d583f33acdd14f5a0b12b6d4016896f219f"
+        }
+      ]
+    },
+    {
+      "number": "26.3",
+      "heading": "26.3 Required Disclosures. All provisions of FED. R. CIV. P. 26 are applicable to actions in",
+      "page": 23,
+      "offset": 1670,
+      "slices": [
+        {
+          "page": 23,
+          "start": 1670,
+          "end": 2871,
+          "sha256": "50677e6a821743d69344927870b3cae04fb9aae689a8f18a2fad9115c26047f7"
+        },
+        {
+          "page": 24,
+          "start": 0,
+          "end": 1921,
+          "sha256": "20f904593b1037186ac466f9406011c4bdb3228f92258fda8ef20607b89823f1"
+        }
+      ]
+    },
+    {
+      "number": "26.4",
+      "heading": "26.4 Timing of Discovery and Initial Disclosures.",
+      "page": 24,
+      "offset": 1921,
+      "slices": [
+        {
+          "page": 24,
+          "start": 1921,
+          "end": 2496,
+          "sha256": "77c655b26d6cb81d72eeb0e5482212d0d45ba27bd9ae219eb7670314ebfecfc5"
+        }
+      ]
+    },
+    {
+      "number": "26.5",
+      "heading": "26.5 Changing Discovery Limitations.",
+      "page": 24,
+      "offset": 2496,
+      "slices": [
+        {
+          "page": 24,
+          "start": 2496,
+          "end": 3021,
+          "sha256": "eddccdcc30bc63768408bc9541a066615472635516fdb1f619005f7e5422551b"
+        },
+        {
+          "page": 25,
+          "start": 0,
+          "end": 3,
+          "sha256": "25d4f2a86deb5e2574bb3210b67bb24fcc4afb19f93a7b65a057daa874a9d18e"
+        }
+      ]
+    },
+    {
+      "number": "26.6",
+      "heading": "26.6 Objections to Discovery. A party served with objections to:",
+      "page": 25,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 25,
+          "start": 3,
+          "end": 689,
+          "sha256": "e726191cf148e92dd62959bea3406d85ad20b023f4dcf729f833a8048f02816e"
+        }
+      ]
+    },
+    {
+      "number": "30.1",
+      "heading": "30.1 Notice of Deposition. Counsel must confer in good faith regarding scheduling of",
+      "page": 25,
+      "offset": 689,
+      "slices": [
+        {
+          "page": 25,
+          "start": 689,
+          "end": 1284,
+          "sha256": "5ac724ab501d4d9a892f9f6a8d6673b5778873ecf1524d8866cf72bc0e133047"
+        }
+      ]
+    },
+    {
+      "number": "30.2",
+      "heading": "30.2 Non-Appearance at Deposition. Failure of a deponent to appear at the time and place",
+      "page": 25,
+      "offset": 1284,
+      "slices": [
+        {
+          "page": 25,
+          "start": 1284,
+          "end": 1760,
+          "sha256": "81773f2aa825d81a5255d833e662877be195b39a28eb4299ac9110d03cfa9cdf"
+        }
+      ]
+    },
+    {
+      "number": "30.3",
+      "heading": "30.3 Filing of Depositions. Deposition transcripts are not filed unless otherwise ordered.",
+      "page": 25,
+      "offset": 1760,
+      "slices": [
+        {
+          "page": 25,
+          "start": 1760,
+          "end": 1851,
+          "sha256": "39daabfca16d4ea763c5333ea75bdc5867f6104fd25bab66e82114651e74e188"
+        }
+      ]
+    },
+    {
+      "number": "30.4",
+      "heading": "30.4 Filing of Certificate of Completion of Deposition. A certificate of completion of",
+      "page": 25,
+      "offset": 1851,
+      "slices": [
+        {
+          "page": 25,
+          "start": 1851,
+          "end": 1989,
+          "sha256": "ea436d1cc30f30731b09217ee9d692db9a04a71cd34466def02b739dfeb444e2"
+        }
+      ]
+    },
+    {
+      "number": "30.5",
+      "heading": "30.5 Deposition Fees. A court reporter must certify in a deposition transcript the reporter's fees",
+      "page": 25,
+      "offset": 1989,
+      "slices": [
+        {
+          "page": 25,
+          "start": 1989,
+          "end": 2109,
+          "sha256": "536db6e5db2b37f8639052a52282e7a6323ecdd4b00aca07adefc4b8cd99f50e"
+        }
+      ]
+    },
+    {
+      "number": "30.6",
+      "heading": "30.6 Final Disposition of Deposition Transcripts. After final disposition of a civil action, the",
+      "page": 25,
+      "offset": 2109,
+      "slices": [
+        {
+          "page": 25,
+          "start": 2109,
+          "end": 2334,
+          "sha256": "fad0018be43071249aeb0c03277a53ff501bb3a5006711b11d26ebe438cc0b08"
+        },
+        {
+          "page": 26,
+          "start": 0,
+          "end": 3,
+          "sha256": "a1fb50e6c86fae1679ef3351296fd6713411a08cf8dd1790a4fd05fae8688164"
+        }
+      ]
+    },
+    {
+      "number": "37.1",
+      "heading": "37.1 Relief Sought in Protective Order and Motion to Compel. A party seeking relief",
+      "page": 26,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 26,
+          "start": 3,
+          "end": 408,
+          "sha256": "3a8a6beb1dc0dd3ed4930bd75933c7a168badc1c9c15b27529a2d396524191f6"
+        }
+      ]
+    },
+    {
+      "number": "37.2",
+      "heading": "37.2 Time to Respond. A party must respond to a discovery request within the time specified",
+      "page": 26,
+      "offset": 408,
+      "slices": [
+        {
+          "page": 26,
+          "start": 408,
+          "end": 678,
+          "sha256": "5bb8192128f23fa4a7beedc1736c22bb603eb77710ab1d6dce315d85e66f7252"
+        }
+      ]
+    },
+    {
+      "number": "37.3",
+      "heading": "37.3 Compliance with Discovery Order Pending Appeal of the Order. A party's duty to",
+      "page": 26,
+      "offset": 678,
+      "slices": [
+        {
+          "page": 26,
+          "start": 678,
+          "end": 927,
+          "sha256": "bda08308fe8939f50ccab45cb56cee4bd33a7edb06910bed2cf87c99b50895d5"
+        }
+      ]
+    },
+    {
+      "number": "40.1",
+      "heading": "40.1 Continuances. Good cause must be shown for continuance of a trial.",
+      "page": 26,
+      "offset": 927,
+      "slices": [
+        {
+          "page": 26,
+          "start": 927,
+          "end": 1047,
+          "sha256": "eaaa03751abf0d225c5a7991717b8f49c20a7b373e722fba8bc0060852303ef6"
+        }
+      ]
+    },
+    {
+      "number": "41.1",
+      "heading": "41.1 Dismissal for Want of Prosecution. A civil action may be dismissed if, for a period of",
+      "page": 26,
+      "offset": 1047,
+      "slices": [
+        {
+          "page": 26,
+          "start": 1047,
+          "end": 1348,
+          "sha256": "41c88189313e47fe0ca3123343b2ab878e5a1632e7bc693323195355cf222f70"
+        }
+      ]
+    },
+    {
+      "number": "41.2",
+      "heading": "41.2 Non-Conforming Papers. An action filed with any non-conforming paper may be",
+      "page": 26,
+      "offset": 1348,
+      "slices": [
+        {
+          "page": 26,
+          "start": 1348,
+          "end": 1627,
+          "sha256": "350d5b32d061162fe35e5b10552656b773926de868c91642c4f03bccb1f90159"
+        }
+      ]
+    },
+    {
+      "number": "54.1",
+      "heading": "54.1 Motion to Tax Costs. A motion to tax costs must be filed and served on each party within",
+      "page": 26,
+      "offset": 1627,
+      "slices": [
+        {
+          "page": 26,
+          "start": 1627,
+          "end": 2036,
+          "sha256": "2d89c164581dedad5c4f196e4cd10b4d814e918e57d972000e6c499e1d52ced1"
+        },
+        {
+          "page": 27,
+          "start": 0,
+          "end": 114,
+          "sha256": "1e46100c64c1dea6369c7d288e03857795ee40b9b9b22bb5bdce6fb6581755fe"
+        }
+      ]
+    },
+    {
+      "number": "54.2",
+      "heading": "54.2 Taxable Costs.",
+      "page": 27,
+      "offset": 114,
+      "slices": [
+        {
+          "page": 27,
+          "start": 114,
+          "end": 2300,
+          "sha256": "21ce0d9659d48a32106e252577323e0ef7aa38f0be3b0abfdeb9715047b96e89"
+        },
+        {
+          "page": 28,
+          "start": 0,
+          "end": 247,
+          "sha256": "12f5f9ac09fe374ec0d5e8ab034536794d9c7c3bb40a4fed217bf7ecfe9db0d6"
+        }
+      ]
+    },
+    {
+      "number": "54.3",
+      "heading": "54.3 Costs in Comparative Fault Cases. In comparative fault cases, each party is taxed a",
+      "page": 28,
+      "offset": 247,
+      "slices": [
+        {
+          "page": 28,
+          "start": 247,
+          "end": 514,
+          "sha256": "c0954af0f09b8866dd1700d18b9c5b6b2c5f00898edce7281fce48ae43d7734d"
+        }
+      ]
+    },
+    {
+      "number": "54.4",
+      "heading": "54.4 Jury Cost Assessment. All jury costs, mileage and per diem allowances are taxed equally",
+      "page": 28,
+      "offset": 514,
+      "slices": [
+        {
+          "page": 28,
+          "start": 514,
+          "end": 909,
+          "sha256": "c399ee6666b0216da51471e642b3f62e9ec961eff3cc3b37a99d425ffc38e09a"
+        }
+      ]
+    },
+    {
+      "number": "54.5",
+      "heading": "54.5 Application for Award of Attorney's Fees.",
+      "page": 28,
+      "offset": 909,
+      "slices": [
+        {
+          "page": 28,
+          "start": 909,
+          "end": 1666,
+          "sha256": "b1df81321a163556ba57036b8c0a558b3866809e192758c8320b187cd214392d"
+        },
+        {
+          "page": 29,
+          "start": 0,
+          "end": 30,
+          "sha256": "1bac134c3501bf20b1ab0dfda15ecd2719dc73ddef0971629d11947a86199db3"
+        }
+      ]
+    },
+    {
+      "number": "56.1",
+      "heading": "56.1 Summary Judgment Procedures.",
+      "page": 29,
+      "offset": 30,
+      "slices": [
+        {
+          "page": 29,
+          "start": 30,
+          "end": 2199,
+          "sha256": "7661cbfa73904a3be3e164cbfca8ec2c119f935b25f4260121544110004db0b8"
+        }
+      ]
+    },
+    {
+      "number": "58.1",
+      "heading": "58.1 Final Judgment Based Upon a Negotiable Instrument. A negotiable instrument that is",
+      "page": 29,
+      "offset": 2199,
+      "slices": [
+        {
+          "page": 29,
+          "start": 2199,
+          "end": 2581,
+          "sha256": "cb02e2d5ccda74ee65f66e626c26184d1662a397326baa85bf1f48ecb844487e"
+        }
+      ]
+    },
+    {
+      "number": "58.2",
+      "heading": "58.2 Proposed Orders and Judgments.",
+      "page": 29,
+      "offset": 2581,
+      "slices": [
+        {
+          "page": 29,
+          "start": 2581,
+          "end": 2616,
+          "sha256": "a1eb8e3706c6c5acd7a397d53703d56315774ddc9526bf86cc6b6795cfa84f32"
+        },
+        {
+          "page": 30,
+          "start": 0,
+          "end": 669,
+          "sha256": "332c3d82f04f537068d429fda5b64df3ee18bbc784abe7ef1dea5c65d3625dc3"
+        }
+      ]
+    },
+    {
+      "number": "65.1",
+      "heading": "65.1 Bonds and Other Sureties.",
+      "page": 30,
+      "offset": 669,
+      "slices": [
+        {
+          "page": 30,
+          "start": 669,
+          "end": 1797,
+          "sha256": "6f6119698868ef6495a847a2bd0f49cff19b7db26a5084d6f90c0dd3f2f85504"
+        },
+        {
+          "page": 31,
+          "start": 0,
+          "end": 30,
+          "sha256": "a94903a1315b293d815b7759a027a375409f4bab024cdc8cf586b4e5dcce1804"
+        }
+      ]
+    },
+    {
+      "number": "67.1",
+      "heading": "67.1 Disbursements from Court Registry.",
+      "page": 31,
+      "offset": 30,
+      "slices": [
+        {
+          "page": 31,
+          "start": 30,
+          "end": 779,
+          "sha256": "db45049f5922e5a5ac5ca98ca1c2a89d013cc9db3df8215957ceda00f31fad3b"
+        }
+      ]
+    },
+    {
+      "number": "72.1",
+      "heading": "72.1 Procedure. Objections to a non-dispositive pre-trial matter decided by a pre-trial",
+      "page": 31,
+      "offset": 779,
+      "slices": [
+        {
+          "page": 31,
+          "start": 779,
+          "end": 1017,
+          "sha256": "20411495b1535780b0735d6e96fd4162181436e6214ebd29223a2093f4a430e3"
+        }
+      ]
+    },
+    {
+      "number": "73.1",
+      "heading": "73.1 Direct Assignment of Civil Cases.",
+      "page": 31,
+      "offset": 1017,
+      "slices": [
+        {
+          "page": 31,
+          "start": 1017,
+          "end": 2512,
+          "sha256": "22dee64073133b7dc4c0ceb78b8ae729a8bbe8649a2175b7103d30a516eaa36f"
+        },
+        {
+          "page": 32,
+          "start": 0,
+          "end": 1653,
+          "sha256": "c3f695df85e7902ff39141a7b6792022b8a686b1b32dc1b437c14e290b5fd730"
+        }
+      ]
+    },
+    {
+      "number": "73.2",
+      "heading": "73.2 Consent to Proceed Before a Pre-Trial Magistrate Judge.",
+      "page": 32,
+      "offset": 1653,
+      "slices": [
+        {
+          "page": 32,
+          "start": 1653,
+          "end": 2354,
+          "sha256": "c93fa0cb578d471380205069b96aa4e63feecb972ee7a5d4df3c212a882d9fa6"
+        }
+      ]
+    },
+    {
+      "number": "73.3",
+      "heading": "73.3 Appeal of Final Judgment or Order. If the parties consent to proceed before the assigned",
+      "page": 32,
+      "offset": 2354,
+      "slices": [
+        {
+          "page": 32,
+          "start": 2354,
+          "end": 2685,
+          "sha256": "f6b01180a991c26153dedb06623cd95004339af02ffbab0a2316707e0395ec01"
+        },
+        {
+          "page": 33,
+          "start": 0,
+          "end": 3,
+          "sha256": "a9742eb8ee320e006666aef25ae9aeed948247f3125c9cafa7cf97b7e7467dd5"
+        }
+      ]
+    },
+    {
+      "number": "73.4",
+      "heading": "73.4 Consent to Settlement Conference Conducted by a Magistrate Judge or Bankruptcy",
+      "page": 33,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 33,
+          "start": 3,
+          "end": 358,
+          "sha256": "8b3cd6e048f3b2607b96740194fc2ef1ed0b2eb4e297b3326d7b9686b77b0e08"
+        }
+      ]
+    },
+    {
+      "number": "79.1",
+      "heading": "79.1 Removal of Pleadings and Other Papers From Court File. A Court order is required to",
+      "page": 33,
+      "offset": 358,
+      "slices": [
+        {
+          "page": 33,
+          "start": 358,
+          "end": 485,
+          "sha256": "5a7de205b6b604e4ac51e210ef1a8ae8475178fd8e14392f4ef1b73176e0cb6c"
+        }
+      ]
+    },
+    {
+      "number": "79.2",
+      "heading": "79.2 Return of Exhibits in Civil Actions. In civil cases, the Clerk will return all exhibits after",
+      "page": 33,
+      "offset": 485,
+      "slices": [
+        {
+          "page": 33,
+          "start": 485,
+          "end": 780,
+          "sha256": "b1d23fbdc9b37f46e95d2535de4965c88b1b23a952208ee7755cba54c289a6b1"
+        }
+      ]
+    },
+    {
+      "number": "79.3",
+      "heading": "79.3 Fees for Copies of Documents. The Clerk will charge the statutory fee to provide copies",
+      "page": 33,
+      "offset": 780,
+      "slices": [
+        {
+          "page": 33,
+          "start": 780,
+          "end": 1073,
+          "sha256": "6d462a1a2c102643ce06887f6e1606b527d6d8bda134df0478d44e6aacb4b349"
+        }
+      ]
+    },
+    {
+      "number": "81.1",
+      "heading": "81.1 Removed Actions.",
+      "page": 33,
+      "offset": 1073,
+      "slices": [
+        {
+          "page": 33,
+          "start": 1073,
+          "end": 1676,
+          "sha256": "6a114b9e79988d4d0e64dbacd58be446e2be5b4a54a7bd2dad91c6091e75ed89"
+        }
+      ]
+    },
+    {
+      "number": "83.1",
+      "heading": "83.1 Courtroom and Courthouse Decorum.",
+      "page": 33,
+      "offset": 1676,
+      "slices": [
+        {
+          "page": 33,
+          "start": 1676,
+          "end": 2058,
+          "sha256": "6916a604ac4b15f3ee28658097a6f9addbf32f3eef89e26402408f327ceea50a"
+        },
+        {
+          "page": 34,
+          "start": 0,
+          "end": 1099,
+          "sha256": "cf1f178df9d1e96fd7437514ff17112ada8f956ff2d9490f29bc30c7b3ec4436"
+        }
+      ]
+    },
+    {
+      "number": "83.2",
+      "heading": "83.2 Bar Admission, Membership and Dues. [Effective 12/1/2014]",
+      "page": 34,
+      "offset": 1099,
+      "slices": [
+        {
+          "page": 34,
+          "start": 1099,
+          "end": 2338,
+          "sha256": "f8683af827c11d4aa8e90b6239c53cb5e2d80ae8bf81e272dfa6cd710aaa5021"
+        }
+      ]
+    },
+    {
+      "number": "83.9",
+      "heading": "83.9.",
+      "page": 34,
+      "offset": 2338,
+      "slices": [
+        {
+          "page": 34,
+          "start": 2338,
+          "end": 2930,
+          "sha256": "ae5e24c5702cf9878e56acee3a9151042a9e9cb635c9f2a8a2b2ae8e853ae3f6"
+        },
+        {
+          "page": 35,
+          "start": 0,
+          "end": 2869,
+          "sha256": "281cae30e483fc1e7953113967580e9b3f74960ce2bfc1e985eafaf6c1cc847f"
+        },
+        {
+          "page": 36,
+          "start": 0,
+          "end": 1920,
+          "sha256": "170b04fa1e15c79e73a5e373ab2177bd206f0be787dd0d9b8c742ad0caad222a"
+        }
+      ]
+    },
+    {
+      "number": "83.3",
+      "heading": "83.3 Appearance of Attorneys Licensed Outside the District. [Effective 1/1/2012] An",
+      "page": 36,
+      "offset": 1920,
+      "slices": [
+        {
+          "page": 36,
+          "start": 1920,
+          "end": 2738,
+          "sha256": "b9e43da58bcb2884e8fd96eb83ac068ed27d48f112f0ce95b26e2b12fcdcf534"
+        },
+        {
+          "page": 37,
+          "start": 0,
+          "end": 105,
+          "sha256": "8ac4ec3dfa006b95739e9c190d563db69529eb77302b1525ff99bf790f6bf9ae"
+        }
+      ]
+    },
+    {
+      "number": "83.4",
+      "heading": "83.4 Entry of Appearance.",
+      "page": 37,
+      "offset": 105,
+      "slices": [
+        {
+          "page": 37,
+          "start": 105,
+          "end": 1309,
+          "sha256": "bebcbd9cfd3e139884bc506e1cbd05874da5c94829c419220e9c1e082dc94124"
+        }
+      ]
+    },
+    {
+      "number": "83.5",
+      "heading": "83.5 Appearance by Party. A party who is represented by an attorney may not personally",
+      "page": 37,
+      "offset": 1309,
+      "slices": [
+        {
+          "page": 37,
+          "start": 1309,
+          "end": 1505,
+          "sha256": "49b66e1222e66a9a43ad370e33766630f516b1dd78237e2ae4d17fcbdca268b1"
+        }
+      ]
+    },
+    {
+      "number": "83.6",
+      "heading": "83.6 Change of Address. All attorneys of record and parties appearing pro se have a",
+      "page": 37,
+      "offset": 1505,
+      "slices": [
+        {
+          "page": 37,
+          "start": 1505,
+          "end": 1757,
+          "sha256": "217bf1e9ef51d55ac10affa5d3eafc5889935514943c4164700d856ef02f4381"
+        }
+      ]
+    },
+    {
+      "number": "83.7",
+      "heading": "83.7 Representation of Corporation, Partnership or Business Entity Other Than a Natural",
+      "page": 37,
+      "offset": 1757,
+      "slices": [
+        {
+          "page": 37,
+          "start": 1757,
+          "end": 2006,
+          "sha256": "cf2362f64dee5c0445d56c56289ab56de701b8cd6bd078ef9e2db0bfbc4bfa73"
+        }
+      ]
+    },
+    {
+      "number": "83.8",
+      "heading": "83.8 Withdrawal of Appearance. In addition to the provisions of D.N.M.LR-Civ. 83.4(b), an",
+      "page": 37,
+      "offset": 2006,
+      "slices": [
+        {
+          "page": 37,
+          "start": 2006,
+          "end": 2600,
+          "sha256": "1aa95e0719a849f8be47ba59d448b651ecdb5044767b78015e93b69e0834a645"
+        },
+        {
+          "page": 38,
+          "start": 0,
+          "end": 1292,
+          "sha256": "45bd13d6ca7d7425741f5bafd32bca70220150708dc0ee63f47d14706402cbff"
+        }
+      ]
+    },
+    {
+      "number": "83.10",
+      "heading": "83.10 Attorney Discipline.",
+      "page": 38,
+      "offset": 1292,
+      "slices": [
+        {
+          "page": 38,
+          "start": 1292,
+          "end": 2388,
+          "sha256": "6d8d3bd71d9da4ef9086a73968e5dd8a11c61f16ff150ead587e709036d4d86e"
+        }
+      ]
+    },
+    {
+      "number": "83.11",
+      "heading": "83.11 Clinical Law Student Practice. A law student participating in the clinical program at",
+      "page": 38,
+      "offset": 2388,
+      "slices": [
+        {
+          "page": 38,
+          "start": 2388,
+          "end": 2870,
+          "sha256": "ec419550cd324a076b9117101b11f5de5feff4a60070ad698814ed88d50019ce"
+        },
+        {
+          "page": 39,
+          "start": 0,
+          "end": 3,
+          "sha256": "64aeb9975f234becd55bb4635e6e2f2da7a6b7bf0a896f0c07763bdfbfb31420"
+        }
+      ]
+    },
+    {
+      "number": "83.12",
+      "heading": "83.12 Complaints of Judicial Misconduct or Disability. A person may lodge a complaint",
+      "page": 39,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 39,
+          "start": 3,
+          "end": 354,
+          "sha256": "0d018d78eb8a6ea01c17d7e35a37d626f615de2cc1025f9664b0ec8dafa3fa12"
+        }
+      ]
+    },
+    {
+      "number": "83.13",
+      "heading": "83.13 Conviction of Crime. [Effective 12/1/2014]",
+      "page": 39,
+      "offset": 354,
+      "slices": [
+        {
+          "page": 39,
+          "start": 354,
+          "end": 2308,
+          "sha256": "5c810ccd54f391e8ba10a0fc9eeef6ab46e64d925c90077ab62d8f7834501856"
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "startPage": 15,
+    "startOffset": 150,
+    "endPage": 39,
+    "endOffset": 2308,
+    "ruleCount": 83,
+    "tocReconciled": false,
+    "editorialReviewComplete": false,
+    "currencyReviewed": false,
+    "flags": [
+      "Source extraction contains unresolved characters; consult the original publication."
+    ],
+    "excluded": "Source material outside the recorded range remains available in the district source library."
+  },
+  "transcriptionSha256": "92f427c4573181224362e9776ffc3365f4320b51955b09665e1d2c1e0046cccf"
+}

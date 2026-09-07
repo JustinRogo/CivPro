@@ -1,0 +1,4191 @@
+{
+  "version": 1,
+  "reviewStatus": "parsed-draft",
+  "districtId": "okwd",
+  "sourceDocument": {
+    "id": "ec602e29b4e91d0f",
+    "title": "Local Rules",
+    "format": "pdf",
+    "role": "primary",
+    "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+    "sha256": "ec602e29b4e91d0f87f3a0549dcb0141e0f4cd40cdaecbe6ccd95daf3fdeee81",
+    "bytes": 859738,
+    "retrievedAt": "2026-09-07T00:02:00.587721+00:00",
+    "snapshotPath": "sources/district-snapshots/ec602e29b4e91d0f87f3a0549dcb0141e0f4cd40cdaecbe6ccd95daf3fdeee81.pdf",
+    "textPath": "data/source-library/ec602e29b4e91d0f87f3a0549dcb0141e0f4cd40cdaecbe6ccd95daf3fdeee81.json",
+    "pdfPath": "data/source-pdfs/ec602e29b4e91d0f87f3a0549dcb0141e0f4cd40cdaecbe6ccd95daf3fdeee81.pdf",
+    "pageCount": 108,
+    "reviewStatus": "source-document-only",
+    "blankTextPages": 0
+  },
+  "collection": {
+    "id": "okwd-civil",
+    "name": "Western District of Oklahoma Local Rules",
+    "shortName": "Local rules · draft",
+    "districtId": "okwd",
+    "scopeNote": "Civil and generally applicable local rules; unparsed supplements remain in the source library. Rule boundaries and transcription are drafts. Embedded notes, forms, and running headers may remain within rule text; subsection anchors and field-separated notes are not yet reviewed."
+  },
+  "provisions": [
+    {
+      "id": "okwd-civil:1.1",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "1.1",
+      "citation": "Western District of Oklahoma · Rule 1.1",
+      "title": "Purpose and Scope of Rules.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-15",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR1.1 Purpose and Scope of Rules.\nThese local civil rules are promulgated to supplement the Federal Rules of Civil \nProcedure with local court procedure. Appendix I contains a listing of General Orders which \nare available from the court clerk or on the court’s website,www.okwd.uscourts.gov.\n",
+          "pages": [
+            14
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 14,
+      "pageSpan": [
+        14,
+        14
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:1.2",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "1.2",
+      "citation": "Western District of Oklahoma · Rule 1.2",
+      "title": "Rules of Procedure.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-15",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR1.2 Rules of Procedure.\n(a) The rules of procedure in any proceeding in this court shall be as prescribed \nby the laws of the United States, the rules of the Supreme Court of the United States, the \nFederal Rules of Civil Procedure, the Federal Rules of Criminal Procedure, any applicable \nrules of the United States Court of Appeals for the Tenth Circuit, and these localrules.\n(b) Where in any proceeding or in any instance there is no applicable rule of \nprocedure, a judge may prescribe the same.\n(c) The trial judge has discretion in any civil or criminal case to waive any \nrequirement of these local rules when the administration of justice requires.\n(d) These local rulesshall be known asthe Local Civil Rules of the United States \nDistrict Court for the Western District of Oklahoma. They may be cited as “LCvR.”\nA. LOCAL CIVIL RULES",
+          "pages": [
+            14
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "2\nII. COMMENCEMENT OF ACTION AND SERVICE OF\nPROCESS. \n",
+          "pages": [
+            15
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 14,
+      "pageSpan": [
+        14,
+        15
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:3.1",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "3.1",
+      "citation": "Western District of Oklahoma · Rule 3.1",
+      "title": "Civil Cover Sheet and Format of Initiating Document.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR3.1 Civil Cover Sheet and Format of Initiating Document.\nEvery complaint or other document initiating a civil action must be accompanied by\na completed civil coversheet(FormJS-44), available from the court clerk’s office or on the \ncourt’s website. This requirement is solely for administrative purposes and matters \nappearing only on the civil cover sheet will have no legal effect in the action.\nIf the complaint or other initiating document is submitted without a completed civil \ncover sheet, the Clerk must file the complaint or other initiating document as of the date \nreceived and promptly give notice of the omission of the civil cover sheet to the party \ninitiating the federal court action.\nCounsel and pro se litigants are required to number each party separately in the \ncaption of the initiating document, plaintiffs consecutively and defendants consecutively. \nPro se litigants are also required to complete the form furnished by the court for issuance \nof summons.\n",
+          "pages": [
+            15
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 15,
+      "pageSpan": [
+        15,
+        15
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:3.2",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "3.2",
+      "citation": "Western District of Oklahoma · Rule 3.2",
+      "title": "Payment of Filing Fees.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR3.2 Payment of Filing Fees.\n(a) Electronically-Filed Cases. New civil cases are considered filed as of the date \nthey are received in newcases@okwd.uscourts.gov regardless of when they are entered into \nCM/ECF. If the initiating party intends to proceed in forma pauperis, an application to do \nso must be submitted to the new cases mailbox at the time the initiating documents are \nsubmitted; otherwise, filing fees must be paid in full within 3 business days of filing a civil \naction, suit, or proceeding, or the matter may be subject to dismissal without prejudice. \n(b) Conventionally-Filed Cases. For all other civil cases, a civil action, suit, or \nproceeding is considered filed as of the date it is received by the Clerk’s Office regardless \nof when it is entered into CM/ECF. If the initiating party intends to proceed in forma \npauperis, an application to do so must be submitted at the time the initiating documents are \nsubmitted; otherwise, filing fees must be paid in full within 3 business days of filing a civil ",
+          "pages": [
+            15
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "3\naction, suit, or proceeding, or the matter may be subject to dismissal without prejudice. \n",
+          "pages": [
+            16
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 15,
+      "pageSpan": [
+        15,
+        16
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:3.3",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "3.3",
+      "citation": "Western District of Oklahoma · Rule 3.3",
+      "title": "In Forma Pauperis Applications.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR3.3 In Forma Pauperis Applications.\n(a) An applicant who seeksleave to proceed without prepayment of the filing fees \nmust, at the time of initiating the civil action, suit, or proceeding, submit an application to \nproceed in forma pauperis on forms approved by this court and supplied by the clerk upon \nrequest. Failure to use such form or to furnish the court with the equivalent information \nrequired by the form will result in the application beingstricken.\n(b) In the case of a prisoner, such application must also include a certificate \nexecuted by an authorized officer of the appropriate penal institution stating: (1) the amount \nof money or securities currently on deposit to the prisoner’s credit in any institutional \naccount; (2) the average monthly deposits to the prisoner’s account for the 6-month period \nimmediately preceding the filing of the action; and (3) the average monthly balance in the \nprisoner’s account for the 6-month period immediately preceding the filing of theaction.\n(c) In the event the prisoner has been in more than one penal institution during the \n6-month period immediately preceding the filing of the action, the prisoner must obtain the \nrequired certificate from the appropriate official at each institution.\n(d) Pending the court’s ruling on the application, the civil action, suit, or \nproceeding will be deemed conditionally filed.\n(e) In the event the application is granted, the formal filing of the pleadingswill \nrelate back to the date the pleadings were conditionally filed. In the event the application is \ndenied, the filing party shall have 21 days, unless a different time is specified by the court, \nwithin which to pay the required filing fees. Upon payment of the filing fees within this \nperiod, the formal filing of the pleadings shall relate back to the date the pleadings were \nconditionally filed. Failure to pay the filing fees by the date specified, to seek a timely \nextension within which to make the payment, or to show cause in writing by the date \nspecified for paymentshall be cause for dismissal of the action without prejudice to refiling.",
+          "pages": [
+            16
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "4\n",
+          "pages": [
+            17
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 16,
+      "pageSpan": [
+        16,
+        17
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:3.4",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "3.4",
+      "citation": "Western District of Oklahoma · Rule 3.4",
+      "title": "Partial Filing Fees.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR3.4 Partial Filing Fees.\n(a) Failure of any applicant to paythe initial partialfiling fee or any other payment \nordered by the court by the date specified, to seek a timely extension within which to make \nthe payment, or to show cause in writing by that date why the applicant cannot paythe fee \nshall be cause for dismissal of the action without prejudice to refiling. In no event, however, \nshall an applicant be prohibited from bringing a civil action for the reason that the applicant \ndoes not have any assets or present means to pay the initial partial filing fee.\n(b) Unless otherwise directed by the court, service of process will not issue until \nthe applicant has paid the initial partial filing fee ordered by the court.\n",
+          "pages": [
+            17
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 17,
+      "pageSpan": [
+        17,
+        17
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:3.5",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "3.5",
+      "citation": "Western District of Oklahoma · Rule 3.5",
+      "title": "InFormaPauperisApplications byPersonsFilingHabeasCorpusActions",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR3.5 InFormaPauperisApplications byPersonsFilingHabeasCorpusActions\nUnder 28 U.S.C. § 2241, § 2254, or § 2255. \nIn forma pauperis applications by persons filing habeas corpus actions under 28\n§§ 2241, 2254, or 2255 are not governed by the Prison Litigation Reform Act and \nconsequently will be addressed by the court in its discretion. Any order granting an in \nforma pauperis application by a person filing a habeas corpus action may include a \nrequirement that the applicant pay a partial filing fee and/or periodic monthly payments as \nthe court determines reasonable until the full filing fee is paid.\n",
+          "pages": [
+            17
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 17,
+      "pageSpan": [
+        17,
+        17
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:3.6",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "3.6",
+      "citation": "Western District of Oklahoma · Rule 3.6",
+      "title": "Copyright, Trademark, and Patent Cases.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR3.6 Copyright, Trademark, and Patent Cases.\nComplaints filed in copyright, trademark, and patent cases shall cite therein the \ncopyright registration number, trademark number, or patent number. If such number is \nunavailable at the time of filing, the complaint shall recite a serial number or other \nidentification number obtained from the Registrar of Copyrights or the Commissioner of \nPatents and Trademarks.\n",
+          "pages": [
+            17
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 17,
+      "pageSpan": [
+        17,
+        17
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:3.7",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "3.7",
+      "citation": "Western District of Oklahoma · Rule 3.7",
+      "title": "Notice of Related or Companion Cases.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR3.7 Notice of Related or Companion Cases.\n(a) Attorneys for the plaintiff and defendant, as well as any pro se litigant, shall \nfile a written notice with the court if they are aware, after reasonable inquiry, of any ",
+          "pages": [
+            17
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "5\ncompanion or related case(s) filed in any court involving (1) common property, (2) common \nissues of fact or growing out of the same transaction, or (3) validity or infringement of the \nsame patent, copyright, or trademark. The notice of related or companion case should \nprovide the name of the court, the judge, and the case number(s) of the related or companion \ncase(s).\n(b) The term “companion case” includes: a case refiled after dismissal; a case \ninvolving the identical legal issue in the same or similar factual setting as one previously \ndismissed though now brought by different counsel with different parties; cases arising out \nofthe same accident, incident, ortransaction involving the same orsimilar proof; a case filed \nfor recovery of judgment after an earlier case brought to perpetuate testimony; a case \ntransferred to or refiled in this district following enforcement of a foreign subpoena in the \ncase within this district; appeals arising out of the same bankruptcy proceeding; civil \nlitigation arising out of a criminal activity where the criminal case has already been tried \n(including a motion filed pursuant to 28 U.S.C. § 2255).\n",
+          "pages": [
+            18
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 17,
+      "pageSpan": [
+        17,
+        18
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:4.1",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "4.1",
+      "citation": "Western District of Oklahoma · Rule 4.1",
+      "title": "Appointment of Authorized Process Servers.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR4.1 Appointment of Authorized Process Servers.\nIn addition to any judge or magistrate judge of this court, the clerk of this court or the \nchief deputy clerk is authorized to issue orders appointing any sheriff or deputy sheriff or\nauthorized process server in any state or territory of the United States to serve any civil \nprocess issued out of this court. A party requesting that a person be authorized to serve civil \nprocess should prepare a written request, stating the name of the person desired to be \nappointed, and an order for the clerk or chief deputy clerk to sign designating such person \nas the one authorized to serve process in any given case.\n",
+          "pages": [
+            18
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 18,
+      "pageSpan": [
+        18,
+        18
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:4.2",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "4.2",
+      "citation": "Western District of Oklahoma · Rule 4.2",
+      "title": "Returns of Service.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR4.2 Returns of Service. \nProof of service by the server’s affidavit must be filed with the Clerk’s Office within \n14 days of service. ",
+          "pages": [
+            18
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "6\nIII. SERVING AND FILING PLEADINGS AND OTHER PAPERS. \n",
+          "pages": [
+            19
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 18,
+      "pageSpan": [
+        18,
+        19
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:5.1",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "5.1",
+      "citation": "Western District of Oklahoma · Rule 5.1",
+      "title": "Filing by Electronic Means.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR5.1 Filing by Electronic Means.\nPursuant to Fed. R. Civ. P. 5(d)(3), the clerk will accept papers filed, signed, or \nverified by electronic means that are consistent with technical standards, if any, that the \nJudicial Conference of the United States establishes. Papersfiled by electronic meansshall\nbe governed by the court’s Electronic Case Filing Policies and Procedures Manual (ECF\nPolicy Manual) and orders of the court. Electronic case filing is mandatory except as\nspecifically exempted in the ECF Policy Manual.\n",
+          "pages": [
+            19
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 19,
+      "pageSpan": [
+        19,
+        19
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:5.2",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "5.2",
+      "citation": "Western District of Oklahoma · Rule 5.2",
+      "title": "Format of Papers Presented for Filing.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR5.2 Format of Papers Presented for Filing.\n(a) All papers presented to the clerk forfiling byelectronicmeans orin paperform \nshall be double-spaced, if typewritten, using only one side of the paper and a paper size of \n8 1/2 inches wide by 11 inches long. All papers shall be clearly legible. All pleadings, \nmotions, and briefs shall be formatted in accordance with LCvR7.1(c), (d) &(e).\n(b) Anything that must be filed in paper rather than electronic format (asset forth \nin the ECF Policy Manual) shall be stapled or otherwise semi-permanently fastened without \nthe use of paper clips, binder clips, or rubber bands. Unless otherwise stated in these local \nrules, only the original of papers presented to the clerk for filing in paper form shall be \nsubmitted.\n(c) If an electronically filed document, together with attachments, exhibits, or \nappendices, including sealed exhibits related to the filing, exceeds 40 pages, the filing party \nmust comply with requirements specified by ECF Policy Manual II.A(5) for providing the \nCourt with a paper copy of the electronically filed document. \n",
+          "pages": [
+            19
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 19,
+      "pageSpan": [
+        19,
+        19
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:5.2.1",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "5.2.1",
+      "citation": "Western District of Oklahoma · Rule 5.2.1",
+      "title": "Redaction ofOfficialTranscriptsPrior toRemoteElectronicAvailability.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR5.2.1 Redaction ofOfficialTranscriptsPrior toRemoteElectronicAvailability.\n(a) Responsibility for Identifying Personal Data Identifiers to Be Redacted \nfrom Transcripts. Once an official transcript is filed with the court clerk, the attorneysin \nthe case and pro se parties are responsible for identifying the personal data identifiers that \nmust be redacted from filings pursuant to Fed. R. Civ. P. 5.2. Unless otherwise ordered by ",
+          "pages": [
+            19
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "7\nthe court, the attorney for a party and each pro se party are responsible for identifying \nredactions required in the following portions of the transcript:\n(1) opening and closing statements made on that party’sbehalf;\n(2) statements of the party; and\n(3) the testimony of any witnesses called by the party.\nThe court may also direct that an attorney or pro se party be responsible for identifying \nredactions in other portions of an official transcript.\n(b) Redaction Request. To request redaction of personal data identifiersfrom an \nofficial transcript, the attorney or pro se party must file a redaction request, using theform \nin Appendix VII, within 21 days of the filing of the transcript. The requestshall identify the \nredactions to be made with respect to:\n(1) SocialSecuritynumbers and taxpayer-identification numbers: use only \nthe last four digits;\n(2) financial account numbers: use only the last four digits;\n(3) dates of birth: use only the year; and\n(4) a minor’s name: redact in the manner that most effectively shields the \nidentity of the minor in the context of the proceeding.\n(c) Request for Additional Redactions. For any redactions to a transcript other \nthan the personal data identifierslisted above, a separate Motion for Redaction must be filed \nwithin 21 days of the filing of the transcript, unless otherwise ordered by theCourt.\n",
+          "pages": [
+            20
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 19,
+      "pageSpan": [
+        19,
+        20
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:5.2.2",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "5.2.2",
+      "citation": "Western District of Oklahoma · Rule 5.2.2",
+      "title": "Filings Made Under Seal.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR5.2.2 Filings Made Under Seal. \nLeave of court is required to file a document or a portion of a document under seal, \nwhich shall be requested by filing a motion and submitting a proposed order granting the \nrelief. The motion requesting leave should not ordinarily be filed under seal and therefore \nshould state only in a general way the reason for the request (i.e., the document contains \nprivileged, sensitive, or personal information). \nWhen filing any document, including exhibits, under seal, the filer must include the \nwords “FILED UNDER SEAL” in or above the caption. See Western District of Oklahoma ",
+          "pages": [
+            20
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "8\nElectronic Filing Policies & Procedures Manual.\n",
+          "pages": [
+            21
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 20,
+      "pageSpan": [
+        20,
+        21
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:5.3",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "5.3",
+      "citation": "Western District of Oklahoma · Rule 5.3",
+      "title": "Fax Filing.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR5.3 Fax Filing.\n(a) Papers shall not be directly faxed to the clerk unless authorized by thecourt.\n(b) Electronically faxed or scanned papers, including the signature page, may be \npresented in paper form to the clerk forfiling if they otherwise complywith the requirements \nstated in LCvR5.2.\n",
+          "pages": [
+            21
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 21,
+      "pageSpan": [
+        21,
+        21
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:5.4",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "5.4",
+      "citation": "Western District of Oklahoma · Rule 5.4",
+      "title": "Change of Address.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR5.4 Change of Address.\n All papers shall contain the name, mailing address, daytime telephone number, fax \nnumber, and e-mail address, if any, of the attorney or pro se litigant. If any of this \ninformation changes, the attorney or pro se litigant must notify the court by filing the form \nprovided by the clerk and serving a copy on opposing counsel or pro se parties. Paperssent \nbythe court will be deemed delivered if sent to the last known address given to the court.\n",
+          "pages": [
+            21
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 21,
+      "pageSpan": [
+        21,
+        21
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:5.5",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "5.5",
+      "citation": "Western District of Oklahoma · Rule 5.5",
+      "title": "Proposed Orders.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR5.5 Proposed Orders.\nIf a proposed order is submitted to the court, it must also be served on other counsel \nof record and pro se parties prior to, or contemporaneously with, the filing of the related \nmotion.\n",
+          "pages": [
+            21
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 21,
+      "pageSpan": [
+        21,
+        21
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:6.1",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "6.1",
+      "citation": "Western District of Oklahoma · Rule 6.1",
+      "title": "Fixed Date Deadlines for Court Filings.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR6.1 Fixed Date Deadlines for Court Filings.\nUnless the court orders otherwise, if a filing must be made by or on a particular date \n(e.g., “due on August 1”), and that date is a Saturday, Sunday, legal holiday, or day when the \nclerk’s office is inaccessible, then the time for filing is extended to the first accessible day \nthat is not a Saturday, Sunday, or legal holiday. In applying this rule, the terms used areto \nbe given the same meaning as they have in the provisions of Fed. R. Civ. P. 6(a) governing \ndeadlines that are expressed as periods of time to be computed.\n",
+          "pages": [
+            21
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 21,
+      "pageSpan": [
+        21,
+        21
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:6.2",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "6.2",
+      "citation": "Western District of Oklahoma · Rule 6.2",
+      "title": "Meaning of “Inaccessible.”",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR6.2 Meaning of “Inaccessible.”\nFor purposes of Fed. R. Civ. P. 6(a)(3) and LCvR6.1, the clerk’s office is \n“inaccessible” when it is not open for public business due to inclement weather or other ",
+          "pages": [
+            21
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "9\nconditions such as power outages or security lock-downs, notwithstanding that electronic \nfiling procedures may still be available. If the clerk’s office is inaccessible for any part of \na day under this rule, it is deemed to be inaccessible for the entire day. To the extent \npossible, the clerk’s office will post closings on the court’s website. Thisrule governs only \nthe effect of physical inaccessibility of the clerk’s office, not technical failures of the court’s \nCM/ECF system, for which separate provision is made in the ECF Manual, Section II.F.1.\n",
+          "pages": [
+            22
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 21,
+      "pageSpan": [
+        21,
+        22
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:6.3",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "6.3",
+      "citation": "Western District of Oklahoma · Rule 6.3",
+      "title": "Requests for Extension of Time.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR6.3 Requests for Extension of Time.\nAll motions for extension of time shall state: (1) the date the act is due to occur \nwithout the requested extension; (2) whether previous motions for extensions have been \nmade and the disposition of said requested extensions; (3) specific reasons for such \nrequested extension to include an explanation why the act was not done within the \noriginally allotted time; (4) whether the opposing counsel or party agrees or objects to the \nrequested extension; (5) the impact, if any, on the scheduled trial or other deadlines; and \n(6) the precise relief requested by the motion. All such motions shall be accompanied by \na proposed order for the court’s use if such relief is granted. The proposed order, which \nshall not differ in any respect from the relief requested in the motion, shall state specifically \nthe events being extended and the new dates for the deadlines.\nIV. PLEADINGS AND MOTIONS. \n",
+          "pages": [
+            22
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 22,
+      "pageSpan": [
+        22,
+        22
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:7.1",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "7.1",
+      "citation": "Western District of Oklahoma · Rule 7.1",
+      "title": "Motion Practice.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR7.1 Motion Practice.\n(a) Filing. No attached pleadings, motions, or other papers shall be removedfor \nfiling from an original motion or request. Nor shall pleadings, motions, or other papers be \nheld by the clerk for filing, awaiting leave to do so.\n(b) Title of Motions and Briefs. Each motion and brief shall be clearly titled to \nidentify on whose behalf it is presented. Each brief shall be clearly titled to showwhether \nit is opening, response, reply, orsupplemental; the particular motion or proceeding to which \nitrelates; and the party or parties on whose behalfit is presented. Ifthere aremultiple parties\nor if there are cross-claimants or intervenors, references to them shall include the name ",
+          "pages": [
+            22
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-24",
+          "path": [],
+          "type": "paragraph",
+          "text": "10\n(which may be abbreviated) of the particular party to whom reference is made.\n(c) Format of Motions. Each motion filed shall be a separate document, except \nwhere otherwise allowed by law, these rules, or court order. A response to a motion may not \nalso include a motion or a cross-motion made by the responding party. If a party responding \nto a motion files a cross-motion or other closely-related motion concurrently with the filing \nof the response, the brief in support of the cross-motion or other closely-related motion may \nbe combined with the responsive brief.\n(d) Font Size and Margins. For all pleadings, motions, and briefsthe printstyle, \nincluding footnotes, shall not be lessthan 13-point type, and marginsshall be a minimum of \none inch on the top, bottom, and sides. Additionally, these documentsshall complywith the \nformat requirements in LCvR5.2.\n(e) Length and Format of Opening and Response Briefs. Briefs shall not, \nwithout leave of court, exceed 30 pages as to opening and response summary judgment \nbriefs, and 25 pages asto all others. Motionsfor leave to file oversized briefsshallstate the \nrequested number of pages and shall be filed no later than one business day prior to the date \nthe brief is due.\nCover page, table of contents, table of authorities, signature block, certificate of \nservice, and exhibits do not count toward any page limitation prescribed herein. Quotations \nlonger than two lines may be indented and single-spaced. Headings and footnotes may be \nsingle-spaced.\nBriefs longer than 15 pages shall be accompanied by an indexed table of contents \nshowing headings orsub-headings and an indexed table of statutes, rules, ordinances, cases, \nand other authorities cited.\n(f) Authority. Any authority not readily available, including statutes foreign to \nthe jurisdiction and ordinances which are relied upon by a party, shall be cited and quoted \nin or attached to the brief of the party.\n(g) Timing of Response Briefs. Each party opposing a motion shall file a \nresponse within 21 days after the date the motion wasfiled. Anymotion that is not opposed \nwithin 21 days may, in the discretion of the court, be deemed confessed. The court may ",
+          "pages": [
+            23
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "11\nshorten or lengthen the time in which to respond.\n(h) Reply and Supplemental Briefs. Reply briefs are optional and not \nencouraged. Unless otherwise prohibited by the court, a reply to new matter raised in the \nresponse may be filed within 7 days after the date the response wasfiled. Reply briefs shall \nnot be used to reargue the points and authoritiesincluded in the opening brief. Reply briefs \nshall be limited to 10 pages in length unless otherwise authorized by the court and shall \ncomply with the format requirements ofLCvR7.1(e).\nSupplemental briefs may be filed only upon motion and leave of court.\n(i) Factual Matters Not Part of the Record. Factual statements or documents \nappearing only in briefs shall not be deemed to be a part of the record in the case, unless \nspecifically permitted by the court.\n(j) Motions Not Requiring Briefs. No brief is required by either movant or \nrespondent unless otherwise directed by the court, with respect to the following motions:\n(1) motionsfor extension of time or a continuance of any proceeding before the court; (2) to \namend pleadings; (3) to file supplemental pleadings; (4) to appoint next friend or guardian\nad litem; (5) for substitution of parties; (6) for motionsto compel discovery responses when \nno response has been made; (7) to amend briefs; (8) to file supplemental motions, briefs, or \nother papers; and (9)to file an oversized briefin compliance with subsection (e) above. Said \nmotions not requiring briefs shall state whether opposing counsel agrees or objects to the \nrequest,shall include as a separate section under the heading “Relief Requested” a statement \nof the precise relief requested by the motion, and shall be accompanied by a proposed order \nsetting forth the relief requested which shall not differ in any respect from the relief \nrequested in the motion. The proposed order shall also be served in accordance with \nLCvR5.5.\n(k) Motion and Brief as One Document. A motion and brief in support may be \nfiled as one document if identified as such in the title of the document.\n(l) Supplemental Authority. If authority directly relevant to an issue raised in \na pending motion is issued after a party’s final brief on that motion has been filed, the party \nmay file a Notice of Supplemental Authority, attaching the new authority, without leave of ",
+          "pages": [
+            24
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "12\ncourt. The Notice of Supplemental Authority shall not contain any argument but may \nidentify the proposition in filed briefs to which the authority is relevant. If a party desires \nto present argument regarding the new authority, the party must apply for leave to file a \nsupplemental brief.\n(m) Exhibits,Attachments, and Appendices. Unnecessarilyvoluminous exhibits, \nattachments, and appendicesto filingsshould be avoided. Afilershould submit as an exhibit \nor attachment only excerpts of documentsthat are relevant to the matter under consideration. \nExcerpted material must be clearly and prominently identified assuch and, upon request, the \nfiler must promptly provide to any requesting party, including the court, the full document \nfrom which the excerpt was taken. No response or reply brief shall include an exhibit or \nattachment that is already included with the motion under consideration; reference shall \ninstead be made to the exhibit or attachment to the motion under consideration, using the \nECF Document Number.\n",
+          "pages": [
+            25
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 22,
+      "pageSpan": [
+        22,
+        25
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:7.1.1",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "7.1.1",
+      "citation": "Western District of Oklahoma · Rule 7.1.1",
+      "title": "Disclosure Statement.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR7.1.1 Disclosure Statement.\nA party formed as a limited liability company (“LLC”) or partnership shall, \nconcurrently with itsfirstfiling in the case, file a separate “Disclosure Statement Identifying \nConstituents of LLC or Partnership,” identifying the LLC’s members or the partnership’s \npartners, as applicable. If any party hasinvoked federal jurisdiction on the basis of diversity \nof citizenship with the LLC or partnership, the disclosure statement shall also affirmatively \nstate whether any of the members or partners are citizens of the adversary’s alleged state of \ncitizenship. The LLC or partnership must promptly file a supplemental statement if any \nrequired information changes. The court may relieve a party of some or all of the \nrequirements of this rule for good cause.\n",
+          "pages": [
+            25
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 25,
+      "pageSpan": [
+        25,
+        25
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:7.2",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "7.2",
+      "citation": "Western District of Oklahoma · Rule 7.2",
+      "title": "Briefs for Bankruptcy Appeals.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR7.2 Briefs for Bankruptcy Appeals.\n(a) For a bankruptcy appeal, the appellant shall serve and file its brief within 21 \ndays after the transmission of the record to the clerk of the district court. The appellee shall \nserve and file its brief within 21 days afterservice ofthe brief of the appellant. The appellant \nmay serve and file a reply brief within 14 days after service of the brief of the appellee.",
+          "pages": [
+            25
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "13\nUnless otherwise stated in this local rule, briefs for an appeal from the bankruptcy court are \ngoverned by the rules found at LCvR7.1.\n(b) Unless otherwise ordered by the court, oral argument as required by Fed. R. \nBankr. P. 8012 is excused.\n",
+          "pages": [
+            26
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 25,
+      "pageSpan": [
+        25,
+        26
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:9.1",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "9.1",
+      "citation": "Western District of Oklahoma · Rule 9.1",
+      "title": "Notice Requirement for 3-Judge Court.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR9.1 Notice Requirement for 3-Judge Court.\nIn any action or proceeding which a plaintiff believes is required to be heard by a 3-\njudge court under 28 U.S.C. § 2284, the plaintiff shall file with the complaint a separate \nnotice, or the equivalent thereto, to the court,stating that a 3-judge court isrequested. If the \nplaintiff fails to give such notice, every other party shall file such notice, provided that as \nsoon as a notice is filed by any party, all other parties are relieved of this obligation.\n",
+          "pages": [
+            26
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 26,
+      "pageSpan": [
+        26,
+        26
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:9.2",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "9.2",
+      "citation": "Western District of Oklahoma · Rule 9.2",
+      "title": "Actions Brought by Incarcerated Persons.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR9.2 Actions Brought by Incarcerated Persons.\n(a) Use ofForms. Petitionsforwrits of habeas corpus,motionsto vacate sentence \npursuant to 28 U.S.C. § 2255, and civil rights complaints pursuant to 42 U.S.C. § 1983 or\nBivens v. Six Unknown Named Agents, 403 U.S. 388 (1971), by persons in state or federal \ncustody, shall be on forms provided by the clerk of this court upon request. Failure to use \nsaid forms or to supply the court with the equivalent information required by the forms will \nresult in the pleading being ordered stricken.\n(b) Submission to the Court Clerk. If tendered for filing by mail, petitions, \nmotions, or complaints shall be addressed to the clerk of the court at an address designated \nby the clerk.\n(c) Responsive Pleading. The filing of such petition, motion, or complaint shall \nnot require an answer or other responsive pleading unless the court ordersotherwise.\n",
+          "pages": [
+            26
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 26,
+      "pageSpan": [
+        26,
+        26
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:15.1",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "15.1",
+      "citation": "Western District of Oklahoma · Rule 15.1",
+      "title": "Amended and Supplemented Pleadings.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR15.1 Amended and Supplemented Pleadings.\nA party moving under Fed. R. Civ. P. 15(a)(2) to amend a pleading, or under Fed. \nR. Civ. P. 15(d) to supplement a pleading, must attach the proposed pleading as an exhibit \nto the motion. The motion shall state: (1) the deadline date established by the scheduling\norder, if any, and (2) whether any other party objects to the motion.",
+          "pages": [
+            26
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "14\nUnless the court orders otherwise, a party who has been granted leave to amend or \nsupplement must file the new pleading - which shall not differ from the proposed pleading \npreviously submitted to the court - within 7 days. The pleading must be served on each \nnewly-added party in accordance with Fed.R. Civ. P. 4, and on each previously-served party \nin accordance with Fed. R. Civ. P. 5.\n",
+          "pages": [
+            27
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 26,
+      "pageSpan": [
+        26,
+        27
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:16.1",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "16.1",
+      "citation": "Western District of Oklahoma · Rule 16.1",
+      "title": "Pretrial Procedures.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR16.1 Pretrial Procedures.\n(a) Parties’ Initial Conference and Preparation for Status and Scheduling \nConference.\n(1) Parties’ Initial Conference. In cases not exempt under subparagraph \n(b)(1) of this rule, counsel with authority to make appropriate decisions and any \nunrepresented parties shall confer, including as required by Fed. R. Civ. P. 26(f)(1), to \ndiscuss the issues set forth in: (A) Fed. R. Civ. P. 26(f)(2) and (3); (B) the form Joint Status \nReport and Discovery Plan provided as Appendix II to these rules; and (C) the form \nScheduling Order provided as Appendix III to these rules, or, alternatively, any specialized \nscheduling order to be requested by the parties. Prior to this conference, counsel for any \nrepresented party shall discusssettlement and alternative dispute resolution procedures with \nhis or her client.\n(2) Preparation and Submission of Joint Status Report and Discovery \nPlan. Itshall be the duty of the plaintiff to arrange the preparation and filing of a Joint Status \nReport and Discovery Plan, following the form provided as Appendix II, and the duty of all \nother parties to jointly participate in the preparation of that document and ensure itsfiling. \nUnless otherwise ordered by the court, the parties shall prepare, sign jointly, and file as a \nsingle document their Joint Status Report and Discovery Plan with the clerk of the court not \nlater than 7 days prior to the status and schedulingconference.\n(3) Relief from Certain Requirements. The court may order on its own \nmotion, or at a party’srequest,relief fromthe timing requirementsin Fed.R.Civ. P. 26(f)(1),\n(2) and/or LCvR 16.1(a)(2), if there is good cause for that relief.\n(b) Status and Scheduling Conference and Scheduling Order.",
+          "pages": [
+            27
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "15\n(1) Exempted Actions. Unless specifically directed by the court, the \nrequirements in Fed. R. Civ. P. 16(b) shall not apply in the following categories of cases: \nthose cases exempted from initial disclosures under Fed. R. Civ. P. 26(a)(1)(B), social \nsecurity appeals, bankruptcy appeals, and actions commenced by the United States for \nforfeiture and/or debt collection.\n(2) Timing. In cases not exempt undersubparagraph (b)(1) ofthisrule, and \nat the discretion of the assigned judge, upon the filing of an appearance by a defendant or \nnotice that a defendant has been served, the case will be placed on a regular monthly docket\nfor the administration of a status and scheduling conference. Unless otherwise ordered, the \nconference will be held on a date that will allow the issuance of a scheduling order in \naccordance with the time limits of Fed. R. Civ. P. 16(b)(2).\n(3) Delay. The court may order on its own motion, or at a party’s request, \ndelay of the status and scheduling conference and the scheduling order if there is good cause \nfor the delay. Circumstances that may constitute good cause include but are not limitedto: \nthe existence of an unserved defendant in a multi-defendant case, a pending motion to join \na party, and a pending motion under Fed. R. Civ. P. 12(b) that if granted would significantly \nalter the scope and duration of discovery and/or pretrial litigation in thecase.\n(4) Required Attendance. Counsel with authority to make appropriate \ndecisions and any unrepresented parties shall attend any status and scheduling conference \nrequired by the court. When justified by the circumstances, the court may allow counsel or \na partyto participate in such conference bytelephone. Counsel and anyunrepresented parties \nshall be prepared to discuss all relevant matters enumerated in Fed. R. Civ. P. 16(b)(3) and \n(c)(2), as well as the parties’ Joint Status Report and DiscoveryPlan.\n(c) Final Pretrial Report.\n(1) Preparation and Submission of Final Pretrial Report. Itshall be the \nduty of the plaintiff to arrange the preparation and filing of a Final Pretrial Report, following \nthe form provided as Appendix IV to these rules, and the duty of all other parties to jointly \nparticipate in the preparation of that document and ensure its filing. Unless otherwise \nordered by the court, the partiesshall prepare,sign jointly, and file as a single document their ",
+          "pages": [
+            28
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "16\nFinal Pretrial Report with the clerk of court on or before the first dayof the month that the \ncase is scheduled for trial. Further, the parties shall submit, in accordance with the court’s \nECF procedures, a proposed order approving the Final PretrialReport.\n(2) Approval. When approved by the assigned judge, the Final Pretrial \nReport shall constitute an order of the court as to all matters containedtherein.\n(d) Authorization of Alternative Dispute Resolution. The court authorizes \nalternative dispute resolutionmethods,includingmediation,judicialsettlement conferences, \nand summary jury trials.\n",
+          "pages": [
+            29
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 27,
+      "pageSpan": [
+        27,
+        29
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:16.2",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "16.2",
+      "citation": "Western District of Oklahoma · Rule 16.2",
+      "title": "Judicial Settlement Conferences.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR16.2 Judicial Settlement Conferences.\n(a) Scheduling. Parties may individually or jointly request that a case be referred \nfor a judicial settlement conference. The court may also refer the case for a judicial \nsettlement conference with or without a request from a party. Whether a case will be \nautomaticallyreferred to a judicialsettlement conference varies bydistrictjudge. The parties \nshould refer to the rules and/or procedures of the district judge assigned to the case for more \ninformation.\n(b) Required Attendance.\n(1) Named Parties. Each named party shall attend the conference, \nregardless of the availability of insurance. If any party is not a natural person, a \nrepresentative of that party with knowledge of the relevant facts shall attend the settlement \nconference.\n(2) GovernmentalBody. If approval by a GovernmentalBodyisrequired \nby law to authorize settlement, attendance of at least one current member of the \nGovernmental Body is required. “Governmental Body” as used in this subsection (b)(2) \nmeans a governmental boardof directors,trustees, commissioners,managers,or othersimilar \nofficers.\n(3) Insurers and/or Subrogors. Insurers and/or subrogors of any party \nshall attend the conference. Counsel for any such party is responsible for notifying the \ninsurer and/or subrogor of thisrequirement.",
+          "pages": [
+            29
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "17\n(4) Lead Trial Counsel. Lead trial counsel for each named party shall \nattend the conference.\n(c) Required Settlement Authority. Except as otherwise provided in\nLCvR16.2(b)(2), each party must attend with full settlement authority, as defined in the \nsettlement conference order. That authority may not be delegated to outside counsel.\n(d) Settlement Conference Statements. Unless otherwise ordered, each party \nshall submit a settlement conference statement to the assigned settlement judge and serve \ncounsel for all other parties at least 3 business days before the conference. A cover sheet in \nthe form prescribed in Appendix VI shall be submitted with the statement. The statement \nshall not exceed 5 pages double-spaced and shallsetforth the relevant positions ofthe parties \nconcerning factual issues, legal issues, and relief requested. The statement and coversheet \nshall not be filed in the case or made part of the courtfile.\n(e) Required Discussions Prior to the Settlement Conference. Prior to the \nsettlement conference, the attorneys shall discuss settlement and other forms of alternative \ndispute resolution with their respective clients and opposing counsel (or pro se parties). The \nhistory of the negotiations shall be stated in the cover sheet to the settlement conference \nstatement.\n(f) Confidentiality and Limitations of Use of Settlement Information. All \ncommunications made in connection with a settlement conference, other than as stated \nbelow,shall be considered confidential. Unless otherwise permitted under Fed.R. Evid. 408\nor any other provision of federal law, communications made in connection with a judicial \nsettlement conference may not be used by any party in the trial of the case. Any motion by \ncounsel or reports by the settlement judge, including those concerning noncompliance with \nthe local rules, shall not violate confidentiality.\n(g) Requests for Relief. A request for relief from any aspect of this rule shall be \nmade to the settlement judge in the manner set forth in the settlement conferenceorder.\n(h) Sanctions. Failure to comply with any provision of thisrule or the settlement \nconference order may result in the imposition ofsanctions.",
+          "pages": [
+            30
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "18\n",
+          "pages": [
+            31
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 29,
+      "pageSpan": [
+        29,
+        31
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:16.3",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "16.3",
+      "citation": "Western District of Oklahoma · Rule 16.3",
+      "title": "Court-Ordered Mediation.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR16.3 Court-Ordered Mediation.\n(a) Selection of the Mediator. In a mediation ordered by the court, the parties \nmay select any mediator that they agree upon. \n(b) RequiredAttendance. Unless otherwise directed bythe designatedmediator, \nthe following shall attend any mediation ordered by thecourt:\n(1) Named Parties. Each named party shall attend the mediation, \nregardless of the availability of insurance. If any party is not a natural person, a \nrepresentative of that party with knowledge of the relevant facts shall attend the mediation.\n(2) GovernmentalBody. If approval by a GovernmentalBody isrequired \nby law to authorize settlement, attendance of at least one current member of the \nGovernmental Body is required. “Governmental Body” as used in this subsection (b)(2) \nmeans agovernmental boardof directors,trustees, commissioners,managers,orothersimilar \nofficers.\n(3) Insurers and/or Subrogors. Insurers and/or subrogors of any party \nshall attend the mediation. Counselfor any such party isresponsible for notifying the insurer \nand/or subrogor of this requirement.\n(4) Lead Trial Counsel. Lead trial counsel for each named party shall \nattend the mediation.\n(c) RequiredSettlementAuthority. Unless otherwise directed bythe designated \nmediator, each party must attend a court-ordered mediation with full settlement authority.\n(1) Definition of “Full Settlement Authority” for the Plaintiff. For a \nplaintiff, such representative must have final settlement authority, in the representative’s \ndiscretion, to authorize dismissal of the case with prejudice or to accept a settlement amount \ndown to the defendant’s last offer.\n(2) Definition of “Full Settlement Authority” for the Defendant. For \na defendant, the term “full settlement authority” requires the defendant to have final\nsettlement authority to commit the party to pay, in the representative’s discretion, an amount \nup to the plaintiff’s prayer or up to the plaintiff’s last demand, whichever islower.",
+          "pages": [
+            31
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "19\n(d) Mediation Statements. Unless otherwise directed bythe designatedmediator \nin a court-ordered mediation:\n(1) each party shall submit a mediation statement to the assigned mediator \nand serve counsel for all other parties at least 3 business days before the mediation,and\n(2) the statementshall not exceed 5 pages double-spaced and shallsetforth \nthe relevant positions of the parties concerning factual issues, legal issues, and relief \nrequested.\n(e) MediatorReport. Unless otherwise ordered,the partiesshall ensure the filing \nof the mediator’s report in a court-ordered mediation. The filing shall be on the form \napproved by the court no later than 7 days after completion of the mediation.\n(f) Confidentiality. All communicationsmade in connectionwitha court-ordered \nmediation, other than as stated below, shall be considered confidential. Unless otherwise \npermitted under Fed. R. Evid. 408 or any other provision of federal law, communications \nmade in connection with a court-ordered mediation may not be used by any party in the trial \nof the case. Any motion by counsel or reports by the designated mediator, including those \nconcerning noncompliance with the local rules, shall not violateconfidentiality.\n(g) Sanctions. In a court-ordered mediation,failure to complywith any provision \nof this rule may result in the imposition ofsanctions.\nV. PARTIES.\n",
+          "pages": [
+            32
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 31,
+      "pageSpan": [
+        31,
+        32
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:17.1",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "17.1",
+      "citation": "Western District of Oklahoma · Rule 17.1",
+      "title": "Parties Who Are Not Natural Persons.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR17.1 Parties Who Are Not Natural Persons.\nParties who are not natural persons may not appear pro se.\n",
+          "pages": [
+            32
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 32,
+      "pageSpan": [
+        32,
+        32
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:21.1",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "21.1",
+      "citation": "Western District of Oklahoma · Rule 21.1",
+      "title": "Notice of Bankruptcy Filing.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR21.1 Notice of Bankruptcy Filing.\nIn the event a party to a civil case files bankruptcy, or an involuntary bankruptcy \nproceeding is commenced against a party, counsel orthe party, if pro se,shall notify the court\nwithin 7 days of the filing of said bankruptcy by filing a formal notice in the civil case, with \nproof of service to all parties.",
+          "pages": [
+            32
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "20\nVI. DEPOSITIONS AND DISCOVERY. \n",
+          "pages": [
+            33
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 32,
+      "pageSpan": [
+        32,
+        33
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:26.1",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "26.1",
+      "citation": "Western District of Oklahoma · Rule 26.1",
+      "title": "Discovery Plans.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR26.1 Discovery Plans.\nThe discovery plan required by Fed. R. Civ. P. 26(f) shall be included in the Joint \nStatus Report and Discovery Plan referenced in LCvR16.1.\n",
+          "pages": [
+            33
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 33,
+      "pageSpan": [
+        33,
+        33
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:26.2",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "26.2",
+      "citation": "Western District of Oklahoma · Rule 26.2",
+      "title": "Impact on Discovery From Removal.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR26.2 Impact on Discovery From Removal.\nFor procedures addressing the impact of removal on discovery, see LCvR81.2(c).\n",
+          "pages": [
+            33
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 33,
+      "pageSpan": [
+        33,
+        33
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:26.3",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "26.3",
+      "citation": "Western District of Oklahoma · Rule 26.3",
+      "title": "Discovery to Begin When Case Is at Issue Unlessthe Parties Agree or the",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR26.3 Discovery to Begin When Case Is at Issue Unlessthe Parties Agree or the\nCourt Orders Otherwise.\n(a) Subject to the exceptions set forth in subsections (b) and (c) of this rule, if a \nmotion has been made pursuant to Fed. R Civ. P. 12(b), no party may seek discovery from \nany source before that motion has been decided and all moving parties have filed an answer \nor been dismissed from the case.\n(b) The parties may stipulate that discovery is permitted prior to the time period\nset forth in subsection (a) of this rule, either generally or with respect to a specificsubject, \nparty, or nonparty.\n(c) Any party may move that discovery be permitted prior to the time period set \nforth in subsection (a) of this rule. Such request shall be made by written motion in \naccordance with LCvR7.1 and LCvR37.1. While the motion may be made at any time, it is \ngenerally contemplated that it will be filed at the time ofsubmission of the parties’ Discovery \nPlan and addressed during the Status and SchedulingConference.\n",
+          "pages": [
+            33
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 33,
+      "pageSpan": [
+        33,
+        33
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:30.1",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "30.1",
+      "citation": "Western District of Oklahoma · Rule 30.1",
+      "title": "Depositions.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR30.1 Depositions.\n(a) Subject to an order of the court entered for cause shown enlarging or \nshortening the time:",
+          "pages": [
+            33
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "21\n(1) A subpoena to compel a witness to attend a deposition as contemplated \nby Fed. R. Civ. P. 30(a)(1) shall be served on the witness at least 14 days prior to the date of \nthe deposition; and\n(2) Reasonable notice to parties as contemplated by Fed. R. Civ. P. 30(b)(1)\nfor the taking of depositions shall be 14 days.\n(b) No deposition shall extend beyond 5:00 p.m. or be taken on a weekend or \nholiday without an agreement in writing signed by all interested attorneys or acknowledged \non the record by all interested attorneys or an order of the court. Extensions of this time \nlimitation shall be freely given in the event of obstructive or uncooperative conduct on the \npart of the witness or opposing counsel, or otherwise in the interests ofjustice.\n",
+          "pages": [
+            34
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 33,
+      "pageSpan": [
+        33,
+        34
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:33.1",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "33.1",
+      "citation": "Western District of Oklahoma · Rule 33.1",
+      "title": "Interrogatories.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR33.1 Interrogatories.\nEach answer to an interrogatory shall be immediately preceded bythe interrogatory \nbeing answered.\n",
+          "pages": [
+            34
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 34,
+      "pageSpan": [
+        34,
+        34
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:36.1",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "36.1",
+      "citation": "Western District of Oklahoma · Rule 36.1",
+      "title": "Admissions.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR36.1 Admissions.\nWithout leave of court or written stipulation of the parties, the number of requests for \nadmissions for each party is limited to 25.\n",
+          "pages": [
+            34
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 34,
+      "pageSpan": [
+        34,
+        34
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:37.1",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "37.1",
+      "citation": "Western District of Oklahoma · Rule 37.1",
+      "title": "Informal Conference to Settle Discovery Disputes.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR37.1 Informal Conference to Settle Discovery Disputes.\nWith respect to all motions or objections relating to discovery pursuant to Fed. \nR. Civ. P. 26 through 37 and 45, this court shall refuse to hear any such motion or objection\nunless counsel for movant first advises the court in writing that counsel personally have met\nand conferred in good faith and, after a sincere attemptto resolve differences, have been unable \nto reach an accord. However, no personal conference shall be required where the movant’s\ncounsel represents to the court in writing that movant’s counsel has conferred with opposing \ncounsel by telephone and (1) the motion or objection arises from failure to timely make a\ndiscovery response, or (2) distance between counsels’ offices renders a personal\nconference infeasible. When the locations of counsels’ offices, which will be stated with",
+          "pages": [
+            34
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "22\nparticularity by movant, are in the same city or within 30 miles of each other, a personal \nconference is always deemed feasible as to distance.\nVII. TRIALS.\n",
+          "pages": [
+            35
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 34,
+      "pageSpan": [
+        34,
+        35
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:39.1",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "39.1",
+      "citation": "Western District of Oklahoma · Rule 39.1",
+      "title": "Opening Statements and Closing Arguments.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR39.1 Opening Statements and Closing Arguments.\nThe court will determine specific time limits for opening statements and closing \narguments on a case-by-case basis.\n",
+          "pages": [
+            35
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 35,
+      "pageSpan": [
+        35,
+        35
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:39.2",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "39.2",
+      "citation": "Western District of Oklahoma · Rule 39.2",
+      "title": "Courtroom Decorum.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR39.2 Courtroom Decorum.\nEach judge will direct parties, either orally or by written statement, regarding \nappropriate and proper courtroom decorum.\n",
+          "pages": [
+            35
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 35,
+      "pageSpan": [
+        35,
+        35
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:39.3",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "39.3",
+      "citation": "Western District of Oklahoma · Rule 39.3",
+      "title": "Taking of Photographs or Use of Electronic Devices, Audio/Video",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR39.3 Taking of Photographs or Use of Electronic Devices, Audio/Video \nRecorders.\n(a) The following are prohibited in the Western District of Oklahoma: \n(1) Photographing or video and/or audio recording in the courtrooms and \ncommon areas of the courthouse (i.e. the corridors and other areas outside the courtrooms) \nor livestreaming video and/or audio in such locations. \n(2) Photographing or video and/or audio recording any court proceeding \nfrom a location outside the courthouse in conjunction with remote audio or video access or \nproceedings or livestreaming video and/or audio under such circumstances; and\n(3) Video and/or audio recording of conversations, in person or remote, \nincluding telephone conversations, with judges or employees of the Western District of \nOklahoma. \n(b) The court prohibits the use of cellular telephones, pagers, or other electronic \ncommunication devices in the courtroom. When possession of such devices in the courthouse \nis authorized pursuant to Misc. 22, In re: Electronic Device Policy (October 6, 2020), such",
+          "pages": [
+            35
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-37",
+          "path": [],
+          "type": "paragraph",
+          "text": "23\ndevices may be carried on the person within a courtroom only if the device is turned off ornon￾auditory.\n(c) A judge is authorized to make an exception to these prohibitions, including for \nthe use of electronic means for the presentation of evidence or the perpetuation of a record, \nfor court events, ceremonial occasions, or other gatherings. \n",
+          "pages": [
+            36
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 35,
+      "pageSpan": [
+        35,
+        36
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:39.4",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "39.4",
+      "citation": "Western District of Oklahoma · Rule 39.4",
+      "title": "Use of Exhibits at Trial.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-37",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR39.4 Use of Exhibits at Trial.\n(a) Marking and Disclosure. Unless otherwise ordered, all exhibits and \ndocuments which are to be introduced in evidence are to be marked for identification, which\nshall include the case number, and physically exchanged or exhibited to opposing counsel at \nleast 3 business days before submission of the pretrial report.\n(b) Withdrawal. Unless otherwise ordered by the court, all exhibitsintroduced in\nevidence in the trial of the case shall be withdrawn at the close of trial and remain in the \ncustody of the party introducing the evidence. The court may order the party introducing \nexhibits which are bulky, heavy, firearms, or controlled substances to retain custody of such \nexhibits during the trial. Any such order shall provide for preservation of the exhibit as justice \nmay require.\n(c) Photographs for Appeal. Exhibits, diagrams, charts, and drawings on a \nblackboard may, under the supervision of the court, be photographed for use on appeal or \notherwise.\n",
+          "pages": [
+            36
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 36,
+      "pageSpan": [
+        36,
+        36
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:40.1",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "40.1",
+      "citation": "Western District of Oklahoma · Rule 40.1",
+      "title": "Assignment of Cases for Trial.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-37",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR40.1 Assignment of Cases for Trial.\nThe placing of actions upon the trial calendar will be as announced at status and \nscheduling conference, unless trial setting is not required.\n",
+          "pages": [
+            36
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 36,
+      "pageSpan": [
+        36,
+        36
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:43.1",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "43.1",
+      "citation": "Western District of Oklahoma · Rule 43.1",
+      "title": "List of Witnesses and Exhibits in Civil Cases.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-37",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR43.1 List of Witnesses and Exhibits in Civil Cases.\nAt the commencement of the trial of a civil case or any civil proceeding in which \nwitnesses and exhibits are utilized, the attorneys shall submit to the judge, the courtroom \ndeputy, and the court reporter a typewritten list, on the form provided by the clerk, of the ",
+          "pages": [
+            36
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-38",
+          "path": [],
+          "type": "paragraph",
+          "text": "24\nwitnesses they expect to call in their case in chief and the exhibits they intend to introduce.\n",
+          "pages": [
+            37
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 36,
+      "pageSpan": [
+        36,
+        37
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:45.1",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "45.1",
+      "citation": "Western District of Oklahoma · Rule 45.1",
+      "title": "Subpoenas to Nonparties to Produce Documents.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-38",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR45.1 Subpoenas to Nonparties to Produce Documents.\n(a) Seven Days Advance Notice to Other Parties. The notice required by Fed.\nR. Civ. P. 45(a)(4), with the attached subpoena, shall be filed at least 7 days before the \nsubpoena is served on the person to whom it is directed.\n(b) Motion for Protective Order. Within 7 days from the filing of the notice \nprovided in LCvR45.1(a), any party may file a motion to preclude service of the subpoena, in \nwhole or in part, on any ground for which a protective order may be sought. If amotion\nunder this rule is timely filed, the subpoena shall not be served on the person to whom it is \ndirected until the motion is determined.\n(c) Other Remedies Unaffected. Failure to file a motion under LCvR45.1(b) does \nnot preclude any party or person from invoking other remedies, such as a subsequent motion \nfor protective order or a motion to quash or to modify the subpoena under Fed. R. Civ. P.\n45(d).\n",
+          "pages": [
+            37
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 37,
+      "pageSpan": [
+        37,
+        37
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:47.1",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "47.1",
+      "citation": "Western District of Oklahoma · Rule 47.1",
+      "title": "Attorney Communication with Jurors.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-38",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR47.1 Attorney Communication with Jurors.\nAt no time, including after a case has been completed, may attorneys approach or \nspeak to jurors regarding the case unless authorized by the court, upon written motion.\nVIII. JUDGMENT.\n",
+          "pages": [
+            37
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 37,
+      "pageSpan": [
+        37,
+        37
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:54.1",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "54.1",
+      "citation": "Western District of Oklahoma · Rule 54.1",
+      "title": "Costs.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-38",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR54.1 Costs.\nA prevailing party who seeks to recover costs against an unsuccessful party pursuant to \n28 U.S.C. § 1920 shall file a bill of costs on the form provided by the clerk and support the \nsame with a brief. The bill of costs and brief shall be filed not more than 14 days after entry \nof judgment. Any request shall be a separate document from a motion for legal fees. The\nverified bill of costs shall have endorsed thereon proof of service upon the opposing party.\nThe prevailing party shall provide either receipts, documents, or an affidavit in support of the \nrequested itemized costs. Objections to the bill of costs, with supporting brief, must be filed ",
+          "pages": [
+            37
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "25\nwithin 14 days from the date the bill of costs was filed.\nAfter consideration of the bill of costs and any objections, the clerk will make a\ndisposition and ruling on the bill of costs allowing or disallowing the items in whole or in \npart. If a bill of costs is properly and timely filed and no written objection thereto is filed\nwithin the time herein specified, the claimed costs may be allowed in full.\n",
+          "pages": [
+            38
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 37,
+      "pageSpan": [
+        37,
+        38
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:54.2",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "54.2",
+      "citation": "Western District of Oklahoma · Rule 54.2",
+      "title": "Civil Attorney’s Fees.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR54.2 Civil Attorney’s Fees.\nA motion for recovery of legal fees with brief shall be a separate document from the \nbill of costs and its brief. The briefshould be accompanied byan affidavitstating the amount of \ntime spent on the case, the hourly fee claimed by the attorney, the hourly fee usually charged \nby the attorney if this differs from the amount claimed in the case, and any other pertinent\nfactors. Objections to the allowance of attorney’s fees must be filed within 14 days from the \ndate the motion for attorney’s fees isfiled.\n",
+          "pages": [
+            38
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 38,
+      "pageSpan": [
+        38,
+        38
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:54.3",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "54.3",
+      "citation": "Western District of Oklahoma · Rule 54.3",
+      "title": "Non-Binding Arbitration or Other ADR of Attorney’s Fee Disputes.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR54.3 Non-Binding Arbitration or Other ADR of Attorney’s Fee Disputes.\nAfter the court determines that the prevailing party is entitled to recover attorney’s \nfees against the unsuccessful party, the court may refer the matter to arbitration regarding the \nreasonable amountof attorney’sfee awardable inthe casewhen theparties consenttoreferral of \nthe issue to arbitration.\nArbitration proceedings under thisrule shall be conducted according to the procedures \nset forth in 28 U.S.C. § 651, et seq., including the provisions regarding arbitration awards \nand judgments and trial de novo. In the event either party demands a trial de novo, the court \nmay take evidence in any manner the court deems proper including, in its discretion and \nnotwithstanding any rule to the contrary, review of any transcripts of the arbitration \nproceeding.\nCounsel may also stipulate in writing to waiver of the right to trial de novo following \nthe award and elect to proceed in voluntary binding arbitration. Any other ADR process may \nbe selected and agreed to by the parties, if appropriate.",
+          "pages": [
+            38
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-40",
+          "path": [],
+          "type": "paragraph",
+          "text": "26\n",
+          "pages": [
+            39
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 38,
+      "pageSpan": [
+        38,
+        39
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:55.1",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "55.1",
+      "citation": "Western District of Oklahoma · Rule 55.1",
+      "title": "Application for Clerk’s Entry of Default .",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-40",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR55.1 Application for Clerk’s Entry of Default .\nNo application for a clerk’s entry of default shall be entertained against an individual \ndefendant absent an affidavit in compliance with the Servicemembers Civil Relief Act.\n",
+          "pages": [
+            39
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 39,
+      "pageSpan": [
+        39,
+        39
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:56.1",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "56.1",
+      "citation": "Western District of Oklahoma · Rule 56.1",
+      "title": "Summary Judgment Procedure.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-40",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR56.1 Summary Judgment Procedure.\n(a) Absent leave of court, each party may file only one motion under Fed. \nR. Civ. P. 56.\n(b) The brief in support of a motion for summary judgment (or partial summary \njudgment) shall begin with a section stating the material facts to which the movant contends \nno genuine dispute exists. The facts shall be set forth in concise, numberedparagraphs.\n(c) The brief in opposition to a motion for summary judgment (or partial summary \njudgment)shall begin with a section responding, by correspondingly numbered paragraph, to \nthe facts that the movant contends are not in dispute and shall state any fact that is disputed.\nSeparately, the brief in opposition may, in concise, numbered paragraphs,state any additional \nfacts the nonmovant contends preclude judgment as a matter of law. The nonmovant shall\nnot present facts that are not material to an issue raised by the movant.\n(d) Each individual statement by the movant or nonmovant pursuant to \nsubparagraph (b) or (c) of this rule shall be followed by citation, with particularity, to any \nevidentiarymaterial that the party presentsin support of its position pursuant to Fed.R.Civ. P.\n56(c).\n(e) Allmaterialfactssetforth in the statement ofmaterialfacts ofthemovantmay be\ndeemed admitted for the purpose of summary judgment unless specifically controverted by \nthe nonmovant using the procedures set forth in thisrule.\n",
+          "pages": [
+            39
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 39,
+      "pageSpan": [
+        39,
+        39
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:62.1",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "62.1",
+      "citation": "Western District of Oklahoma · Rule 62.1",
+      "title": "Stays Pending Disposition of Motions After Judgment.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-40",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR62.1 Stays Pending Disposition of Motions After Judgment.\nUnless otherwise directed by the court, all proceedings to enforce a judgment are \nstayed pending the disposition of the following motions:\n(a) new trial or to alter or amend a judgment made pursuant to Fed. R. Civ. P. 59;\n(b) relief from judgment or order made pursuant to Fed. R. Civ. P. 60;",
+          "pages": [
+            39
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-41",
+          "path": [],
+          "type": "paragraph",
+          "text": "27\n(c) judgment as a matter of law made pursuant to Fed. R. Civ. P. 50;or\n(d) to amend the findings or for additional findings made pursuant to Fed. \nR. Civ. P. 52(b).\n",
+          "pages": [
+            40
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 39,
+      "pageSpan": [
+        39,
+        40
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:62.2",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "62.2",
+      "citation": "Western District of Oklahoma · Rule 62.2",
+      "title": "Bonds and Other Security.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-41",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR62.2 Bonds and Other Security.\n(a) Scope of Rule. Whenever a security, bond, or undertaking is required by \nfederalstatute, the FederalRules ofCivil Procedure, or by an order ofthe court, and the form or \namount thereof is not otherwise specified in or determined by the statute, rule, or order, the \namount and form thereof shall be as provided by this localrule.\n(b) Security for Costs. On its own motion or upon motion of a party ininterest, \nthe court may at any time order any party to give security, bond, or undertaking in such \namount as the court may order for the payment of costs or for performance of other \nconditions or requirements imposed in an action orproceeding.\n(c) Corporate Surety. No security, bond, or undertaking with corporate surety \nshall be accepted or approved unless (1) the corporate surety is in compliance with the \nprovisions of 31 U.S.C. §§ 9301-09, and (2) there is on file with the clerk a duly authenticated\npower of attorney appointing the agents or officers executing such obligation to act on behalf \nof the corporate surety. If an agent or officer so appointed is removed, resigns, dies, or\nbecomes disabled, the corporate surety shall notify the court in writing.\n(d) Cash or Negotiable Bonds of the United States. In lieu of corporate surety, a\nparty may deposit with the clerk the required amount in lawful money or negotiable bonds of \nthe United States accompanied by a written instrument, to be approved by the court, executed \nand acknowledged by the party and setting forth the conditions upon which the deposit is \nmade. Where the true owner is other than the party making the deposit, the instrument shall \nso state and shall also be executed and acknowledged by the true owner. Upon exoneration \nof the deposit, it may be returned by the clerk to the named true owner, after application to\nclaims of the United States in the proceedings and to proper fees of the marshal and clerk.\n(e) Submission to Jurisdiction - Agent for Service of Process. Notwithstanding \nany provision of a security instrument to the contrary, every surety or depositor of security is ",
+          "pages": [
+            40
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-42",
+          "path": [],
+          "type": "paragraph",
+          "text": "28\nsubjected to the jurisdiction of this court. The clerk of the court is irrevocablyappointed \nagent upon whomanypapers affecting the surety’s or depositor’sliabilitymaybe served, and\nconsents that liability shall be joint and several, that judgment may be entered in accordance \nwith the obligation simultaneously with judgment against the principal, and that execution \nmay thereupon issue against the appropriateproperty.\n(f) Further Security for Justification of Personal Sureties. Upon reasonable \nnotice to the party presenting the security, any other party for whose benefit it is presented \nmay apply to the court at any time for further or different security or for an order requiring \npersonal sureties to justify.\n(g) Court Officers Not Allowed as Sureties. Unless a party to the action, no \nclerk, marshal, member of the bar, or other officer of this court will be accepted as surety, \neither directly or indirectly, on any bond or undertaking in any action or proceeding in this \ncourt.\nIX. PROVISIONAL AND FINAL REMEDIES. \n",
+          "pages": [
+            41
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 40,
+      "pageSpan": [
+        40,
+        41
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:67.1",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "67.1",
+      "citation": "Western District of Oklahoma · Rule 67.1",
+      "title": "Deposit and Withdrawal of Funds in Court.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-42",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR67.1 Deposit and Withdrawal of Funds in Court.\n(a) All money paid into court in accordance with Fed. R. Civ. P. 67 will be invested \nin the Court Registry Investment System (CRIS). \n(b) Prior to release of any funds deposited with the court, the requesting party must \nobtain an order from the court directing that funds be disbursed and provide to the Court Clerk \nthe address and taxpayer identification number of all recipients. \n",
+          "pages": [
+            41
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 41,
+      "pageSpan": [
+        41,
+        41
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:67.2",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "67.2",
+      "citation": "Western District of Oklahoma · Rule 67.2",
+      "title": "Disbursement of Registry Funds.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-42",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR67.2 Disbursement of Registry Funds.\nAll checks drawn by the clerk of this court on deposits made in the registry of the \ncourt shall be made payable to the order of the payee or payees as the name or names thereof \nshall appear in the orders of this court providing for distribution.\nDisbursementsfrom the registry of the courtshall be made immediately upon receipt of\nthe order for disbursement and after the Social Security or tax identification number of the \npayee has been orally communicated to the court clerk financial administrator, except in ",
+          "pages": [
+            41
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-43",
+          "path": [],
+          "type": "paragraph",
+          "text": "29\ncases where it is necessary to allow time for a check or draft to clear or in cases where an \norder is appealable and must be held until the time for appeal has expired.\nX. SPECIAL PROCEEDINGS.\n",
+          "pages": [
+            42
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 41,
+      "pageSpan": [
+        41,
+        42
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:73.1",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "73.1",
+      "citation": "Western District of Oklahoma · Rule 73.1",
+      "title": "Magistrate Judges - Consent Authority.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-43",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR73.1 Magistrate Judges - Consent Authority.\n(a) With the consent of the parties, each full-time United States magistrate judge \nappointed by this court is specifically designated to exercise the authority and jurisdiction \nprovided by 28 U.S.C. § 636(c) and Fed. R. Civ. P. 73 to conduct any or all proceedings in a\njury or non-jury civil matter and to order the entry of judgment in the case.\n(b) The parties may consent to magistrate judge jurisdiction at any time during the \npendency of a case.\n(c) The joint form of consent shall be executed by the parties unless one of the \nparties is a pro se prisoner, in which case separate consent forms may be submitted.\n(d) After the consent form has been executed and filed, the clerk shall transmit it to \nthe assigned district judge for approval and reference of the case to the assigned magistrate \njudge for all further proceedings.\nXI. DISTRICT COURTS AND CLERKS. \n",
+          "pages": [
+            42
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 42,
+      "pageSpan": [
+        42,
+        42
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:78.1",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "78.1",
+      "citation": "Western District of Oklahoma · Rule 78.1",
+      "title": "Oral Arguments.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-43",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR78.1 Oral Arguments.\nOral arguments or hearings on motions or objections will not be conducted unless \nordered by the court.\nXII. GENERAL PROVISIONS.\n",
+          "pages": [
+            42
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 42,
+      "pageSpan": [
+        42,
+        42
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:81.1",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "81.1",
+      "citation": "Western District of Oklahoma · Rule 81.1",
+      "title": "Removed Actions - Demand for Jury Trial.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-43",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR81.1 Removed Actions - Demand for Jury Trial.\nUnless demanded in the state court, trial by jury is waived in any case removed from a\nstate court unless a demand for a jury trial isfiled and served within 14 days after the notice of \nremoval is filed if the party is the one who filed the removal, or if not the one whofiled the \nremoval, within 14 days after receiving service of the notice ofremoval.",
+          "pages": [
+            42
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-44",
+          "path": [],
+          "type": "paragraph",
+          "text": "30\n",
+          "pages": [
+            43
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 42,
+      "pageSpan": [
+        42,
+        43
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:81.2",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "81.2",
+      "citation": "Western District of Oklahoma · Rule 81.2",
+      "title": "Removed Actions - Documents to Be Filed; Status of PendingMotions.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-44",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR81.2 Removed Actions - Documents to Be Filed; Status of PendingMotions.\n(a) Filing of State Court Docket Sheet. In addition to the items required by 28\nU.S.C. § 1446, which must be submitted with a notice of removal, the removing party shall \ninclude a copy of the state court docketsheet.\n(b) Motions Pending in State Court at the Time of Removal. Any motion \npending at the time of removal will be considered withdrawn unless, within 30 days of \nremoval, the moving party files a notice of pending motion and attaches copies of: (1) the \noriginal motion filed in state court, and (2) all responses, replies, or other papersfiled in state \ncourt that are necessary to adjudicate the motion. The court may require that any such \nmotion, response, reply, or other paper be refiled in conformity with the Federal Rules of \nCivil Procedure or the Local Civil Rules.\n(c) Pending Discovery Request Following Removal. In the absence of a \ncontrary stipulation or court order, discovery pending in state court at the time of removal is \nconsidered void.\n",
+          "pages": [
+            43
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 43,
+      "pageSpan": [
+        43,
+        43
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:81.3",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "81.3",
+      "citation": "Western District of Oklahoma · Rule 81.3",
+      "title": "Removed Actions - Bankruptcy.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-44",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR81.3 Removed Actions - Bankruptcy.\nA notice of removal from state court filed pursuant to Fed. R. Bankr. P. 9027 shall be \nfiled with the bankruptcy clerk. All such removed claims and causes of action are hereby \nreferred to the appropriate bankruptcy judge to be heard and, unless withdrawn by a district \njudge, such bankruptcy judge shall enter appropriate orders and judgments, subject to review \nby a district judge or appeal to a district judge as appropriate under 28 U.S.C. §§ 157 and 158\nand the Federal Rules of Bankruptcy Procedure.\n",
+          "pages": [
+            43
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 43,
+      "pageSpan": [
+        43,
+        43
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:81.4",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "81.4",
+      "citation": "Western District of Oklahoma · Rule 81.4",
+      "title": "Bankruptcy Cases.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-44",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR81.4 Bankruptcy Cases.\n(a) Matters Referred to the Bankruptcy Judges.\n(1) Pursuant to 28 U.S.C. § 157(a), all cases under Title 11 of the United \nStates Code and any and all proceedings arising under Title 11 or arising in or related to a case \nunder Title 11 shall be and are hereby referred to the bankruptcy judges for this district.",
+          "pages": [
+            43
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-45",
+          "path": [],
+          "type": "paragraph",
+          "text": "31\n(2) The bankruptcy judges shall hear and determine all cases under Title 11 \nand all core proceedings arising under Title 11 or arising in a case under Title 11, and may \nenter appropriate orders and judgments, subject to review under 28 U.S.C. § 158; provided, \nhowever, that personal injury tort and wrongful death claims shall be tried in the district court \nin accordance with 28 U.S.C. § 157(b)(5).\n(3) The bankruptcy judges may hear a proceeding that is not a core \nproceeding but that is related to a case under Title 11. Resolution of such matters shall be \ngoverned by 28 U.S.C. § 157(c).\n(b) Motions to Abstain or for Withdrawal of the Reference.\n(1) Motions to abstain from hearing a particular proceeding pursuant to 28\nU.S.C. § 1334(c) shall be first presented to and heard by the bankruptcy judge and shall be \ngoverned by Fed. R. Bankr. P. 5011 and 9014.\n(2) Motions for withdrawal of the reference of a bankruptcy case, adversary \nproceeding, or contested matter (collectively, a “Bankruptcy Proceeding”) shall be filed with \nthe clerk of the bankruptcy court, along with the required filing fee, and shall be governed by\nFed. R. Bankr. P. 5011 and 9014. The motion shall address the authority of the bankruptcy \ncourt to adjudicate the claims asserted in the Bankruptcy Proceeding, including: (i) whether \nthe Bankruptcy Proceeding is a core proceeding under 28 U.S.C. § 157(b) or a proceeding that \nis otherwise related to a case under Title 11, and (ii) whether the bankruptcy court has the \nconstitutional authority to enter a final order and judgment on the claims asserted in the \nBankruptcy Proceeding.\n(3) To be timely under 28 U.S.C. § 157(d), motions for withdrawal of the \nreference of a bankruptcy case shall be filed and served within 14 days after the first meeting \nof creditors is concluded in the case, and motions for withdrawal of the reference of an \nadversary proceeding or a contested mattershall be filed and served within 30 days of the time \nthe movant files its first pleading. Failure to timely move for withdrawal of the reference of \na Bankruptcy Proceeding shall constitute a waiver of any right to trial by jury of the claims \nasserted in the Bankruptcy Proceeding and, in light of the opportunity to refuse occasioned by\n§ 157 and thisrule, a knowing and voluntary consent to the adjudication of those claimsin the ",
+          "pages": [
+            44
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-46",
+          "path": [],
+          "type": "paragraph",
+          "text": "32\nbankruptcy court.\n(4) Responses to motions for withdrawal shall be filed with thebankruptcy \nclerk within 14 daysfromfiling of the motion. Repliesshall be filed within 7 days of the filing \nof any response.\n(5) Upon receipt of any motion for withdrawal of the reference of a \nBankruptcy Proceeding and any response thereto, the bankruptcy judge, within a time period \nreasonable under the circumstances of the matter,shall issue a written recommendation on the \nmotion to the district court.\n(c) Appeals. All appeals from final judgments, orders, and decrees of bankruptcy \njudges and, with appropriate leave,frominterlocutoryorders and decrees of bankruptcy judges \nshall be taken in the manner prescribed by 28 U.S.C. § 158 and Part VIII of the Federal Rules\nof Bankruptcy Procedure.\n(d) MattersReferredto theBankruptcy JudgesPrior toTransfer totheDistrict \nCourt or Bankruptcy Appellate Panel. The bankruptcy judges shall hear and enter \nappropriate orders on all motions related to appeals prior to the entry of the appeal on the \ndocket in the district court or bankruptcy appellate panel, and shall hear all motions related to \na motion for withdrawal of the reference prior to the entry of the certificate of transmittal of \nsuch motion for withdrawal on the docket of the bankruptcy court. Any orders entered by the \nbankruptcy judges during these time periods are subject to appropriate review or appeal \npursuant to 28 U.S.C. §§ 157 and 158 and the Federal Rules of BankruptcyProcedure.\n(e) Submission of Papers, Records, or Files by the Bankruptcy Court. The \nbankruptcy clerk shall submit the papers, records, or file of a case or proceeding to the district \nclerk or bankruptcy appellate panel clerk under the following circumstances: (1) after the \nexpiration of the time for filing objections pursuant to Fed. R. Bankr. P. 9033(b); (2) upon \nreceipt of an order by a district judge pursuant to 28 U.S.C. § 157(d); (3) upon issuance of a \nrecommendation by the bankruptcy judge on a motion for withdrawal; (4) upon the \ndetermination by a bankruptcy judge that a proceeding is one in which a personal injurytort\nor wrongful death claim is to be tried in the district court pursuant to 28 U.S.C. § 157(b)(5);",
+          "pages": [
+            45
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-47",
+          "path": [],
+          "type": "paragraph",
+          "text": "33\nor (5) when the record is complete for purposes of appeal pursuant to Fed. R. Bankr. P.\n8007(b).\n(f) Assignment of District Judges. The district court clerk shall assign a district \njudge to the submitted matter or proceeding in accordance with the usualsystem for assigning \ncivil cases, unless a prior assignment of a related matter requires assignment of the newly \nsubmitted matter or proceeding to a particular districtjudge.\n(g) Jury Trials. In accordance with 28 U.S.C. § 157(e), if the right to a jury trial \nappliesin a proceeding that may be heard by a bankruptcyjudge, each of the bankruptcy judges \nfor this district is hereby specially designated to exercise such jurisdiction and to conductsuch \njury trials.\n",
+          "pages": [
+            46
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 43,
+      "pageSpan": [
+        43,
+        46
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:83.1",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "83.1",
+      "citation": "Western District of Oklahoma · Rule 83.1",
+      "title": "Committee on Local Civil Rules.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-47",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR83.1 Committee on Local Civil Rules.\nA Committee on Local Civil Rules comprised of members of the bar and judiciaryof \nthis court and the court clerk or the court clerk’s designee shall be appointed by the court. \nSuch committee shall accept comments and recommendations regarding the local civilrules \nfrom any member of the bar of this court or anyother interested person.\n",
+          "pages": [
+            46
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 46,
+      "pageSpan": [
+        46,
+        46
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:83.2",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "83.2",
+      "citation": "Western District of Oklahoma · Rule 83.2",
+      "title": "Attorneys.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-47",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR83.2 Attorneys.\n(a) Roll of Attorneys. The bar of this courtshall consist of those attorneys admitted \nto practice before this court who have taken the prescribed oath and who have signed the roll \nof attorneys of this judicial district.\n(b) Committee on Admissions and Grievances. There is hereby constituted a \nCommittee on Admissions and Grievances, consisting of 5 members of the bar of this court, \nwho shall be appointed by the judges of this court.\n(c) Procedure for Admission. Every applicant for admission shall file with the \nclerk, on a form prescribed by the court, a written petition for admission, which shall be \nreferred immediately to the Committee on Admissions and Grievances for investigation into\nthe applicant’s qualifications and fitnessto be admitted to the bar ofthis court. TheCommittee \nshall report itsrecommendationsin writing to the clerk of this court. Upon a favorable report ",
+          "pages": [
+            46
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-48",
+          "path": [],
+          "type": "paragraph",
+          "text": "34\nof the Committee, the applicant may be admitted. Twice each year, following theOklahoma \nState Bar Association Swearing-In Ceremonies before the Supreme Court of Oklahoma, an \nadmission ceremony will be scheduled by this court. All applicants are directed to attend the \nadmissions ceremony, unless excused by the court. Individual judges may,from time to time, \nin emergency situations and upon special request, admit individual lawyers who have been \napproved by the committee.\n(d) Eligibility. Any member of the bar of the Supreme Court of the United States, \nor of any United States Court of Appeals, or of any District Court of the United States, or a \nmember in good standing of the bar of the highest court of any state of the United States, is \neligible for admission to the bar of this court.\n(e) Reciprocity. Any attorney who is a member in good standing of any other \nFederal court and has practiced at least one year may be admitted by reciprocity, provided \nthe attorney submits a written petition for admission, attaches a certificate of good standing \nissued within the past six months, pays the admissions fee, and complies with subsection (a). \nSuch applications shall be forwarded to the Committee for review. If after two weeks no \nmember of the Committee raises an objection, the application will be processed by the Court. \nApplicants admitted on a certificate of good standing without objection by the Committee \nare not required to attend an admission ceremony but are encouraged to do so. Such \napplicants may be sworn in individually by making arrangements with the Attorney \nAdmissions Deputy in the clerk’s office.\n(f) Attorneys for the United States. Attorneys who are employed or retained by \nthe United States or its agencies may practice in this court in all cases or proceedings in which \nthey represent the United States, an agency or corporation of the United States, or anofficer \nor employee of the United States.\n(g) Admission Pro Hac Vice. Any attorney who is eligible for admission to the bar \nof this court may, in the discretion of a judge of this court, be granted temporary admission to \npractice in a pending case. Attorneysrequesting such admission are required to attach to their \nmotion a completed Request for Admission Pro Hac Vice form provided by the court clerk’s \noffice along with the required fee. Counsel admitted pro hac vice shall electronically file an ",
+          "pages": [
+            47
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-49",
+          "path": [],
+          "type": "paragraph",
+          "text": "35\nentry of appearance consistent with LCvR83.4.\n",
+          "pages": [
+            48
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 46,
+      "pageSpan": [
+        46,
+        48
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:83.3",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "83.3",
+      "citation": "Western District of Oklahoma · Rule 83.3",
+      "title": "Association of Local Counsel.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-49",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR83.3 Association of Local Counsel.\n(a) Responsibilities of Non-Resident Counsel. When representing a party in this \ncourt, any attorney who is not a resident of, and does not maintain an office in, Oklahoma shall \nshow association with an attorney who is personally appearing in the action and who is a \nresident of Oklahoma and maintains a law office within the State of Oklahoma, and who has \nbeen duly and regularly admitted to practice in thiscourt.\n(b) Responsibilities of Local Counsel. It is the responsibility of local counsel \nappearing in any civil case to file the motion of the non-resident attorney to be admitted pro \nhac vice and to certify in the motion that the non-resident attorney is a member in good \nstanding of the bar of the highest court of the state where the non-resident attorney resides or \nislicensed. The local attorney shallsign the first pleading filed and shall continue in the case \nunless other local counsel is substituted. Any notice, pleading, or other paper may beserved \nupon the local attorney with the same effect as if personally served on the non-resident \nattorney.\n(c) Relieffrom this Rule. Relief fromthisrule is within the court’s discretion upon \nmotion establishing financial hardship,special qualifications of non-resident counsel, or other \ngood cause, provided that out-of-state counsel certifies familiarity with the local civil court \nrules.\n",
+          "pages": [
+            48
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 48,
+      "pageSpan": [
+        48,
+        48
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:83.4",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "83.4",
+      "citation": "Western District of Oklahoma · Rule 83.4",
+      "title": "Appearance of Counsel.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-49",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR83.4 Appearance of Counsel.\nAn attorney appearing for a party in a civil case shall enter an appearance by signing \nand filing an entry of appearance on the form prescribed by the clerk of this court. This entry \nof appearance shall include a certification that the attorney is admitted to practice in this court. \nIn addition, the entry of appearance shallstate whether the attorney isregistered in thisCourt’s \nElectronic Case Filing System.\nIn the event a partyshould change counsel or add counsel, the new or additional counsel \nfor such party shall enter an appearance by signing and filing an entry of appearance on the ",
+          "pages": [
+            48
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-50",
+          "path": [],
+          "type": "paragraph",
+          "text": "36\nform prescribed by the clerk of this court.\n",
+          "pages": [
+            49
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 48,
+      "pageSpan": [
+        48,
+        49
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:83.5",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "83.5",
+      "citation": "Western District of Oklahoma · Rule 83.5",
+      "title": "Attorney Withdrawal From Case.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-50",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR83.5 Attorney Withdrawal From Case.\nIn civil cases, attorneys of record shall not withdraw from the case except by leave of \nthe judge to whom the case is assigned, upon reasonable notice to the client and all other \nparties who have appeared in the case. Withdrawal of counsel may be granted subject to the \nconditionsstated by the court, including the condition thatsubsequent papers may continue to \nbe served upon counsel for forwarding purposes or upon the clerk of the court, as the court \nmay direct, unless and until the client appears by other counsel or pro se, and any notice to the \nclient shall so state and any filed consent of the client shall soacknowledge.\n",
+          "pages": [
+            49
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 49,
+      "pageSpan": [
+        49,
+        49
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "okwd-civil:83.6",
+      "collectionId": "okwd-civil",
+      "districtId": "okwd",
+      "number": "83.6",
+      "citation": "Western District of Oklahoma · Rule 83.6",
+      "title": "Discipline by the Court.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-50",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR83.6 Discipline by the Court.\n(a) Discipline by Other Courts; Criminal Convictions. Whenever it appears to \nthe court that any member admitted to practice in this court, including those persons admitted\npro hac vice,hasbeen suspended, disbarred,orresignedpending disciplinaryproceedingsfrom \nthe practice of law by the Supreme Court of Oklahoma or by any other court of competent \njurisdiction or has been convicted of a felony or any crime involving moral turpitude in any \ncourt, such disbarment, suspension, or conviction shall operate as an automatic disbarment of \nthe attorney’s right to practice in this court, and an order of disbarment shall be issued by the \ncourt. The order of disbarment shall remain in effect unless, within 30 days from the date of \nthe order of disbarment, the attorney has, by motion to the court, shown good cause as to why \ndisbarment should not be imposed.\n(b) Requirement to Self-Report. Any attorney subject to this rule must notify the \ncourt within 14 days of any such conviction, suspension, disbarment, or resignation. The \nnotification must be in writing to the Clerk of Court. Failure to self-report is a separate cause \nfor disciplinary action; however, a failure to self-report an administrative suspension for \nfailure to pay an annual registration fee or to comply with mandatory continuing legal \neducation requirements shall not constitute separate cause for further disciplinary action by ",
+          "pages": [
+            49
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-51",
+          "path": [],
+          "type": "paragraph",
+          "text": "37\nthis Court.\n(c) Standard Governing Attorney Conduct. The court adopts the Oklahoma \nRules of Professional Conduct as adopted and amended from time to time by the Supreme \nCourt of Oklahoma as the standard governing attorney conduct in this court.\n(d) Misconduct. Complaints of professional misconduct, including those referred \nby judges,shall be submitted to the ChiefJudge in writing and shallstate with particularity the \ncircumstances out of which the charges arose. Complaints submitted by counsel are subject \nto Fed. R. Civ. P. 11. All other complaints of professional misconduct, except those submitted \nby judicial officers of this court, shall be under oath.\nUpon receipt of a complaint regarding the professional conduct of an attorney, \nthe Chief Judge or the designee of the Chief Judge shall determinewhether:\n(1) The inquiry should be terminated because the question raised is \nunsupported or insubstantial;\n(2) The alleged professional misconduct justifies further inquiry and, for \nmembers of the Oklahoma Bar Association, the matter should be referred to the Office of the \nGeneral Counsel of the Oklahoma Bar Association for investigation and prosecution by that \nOffice, if warranted;\n(3) The alleged professional misconduct warrants consideration of prompt \ndisciplinary action by this court regarding the attorney’sright to practice before the Court, and \nthe matter should be referred to the Court’s Committee on Discipline for investigation, \nnotwithstanding concurrent reference of the matter to the Office of the General Counsel of the \nOklahoma Bar Association;\n(4) The alleged professional misconduct of an attorney not a member of the \nOklahoma Bar Association justifies further inquiry by the court and should be referred to a \ncommittee on discipline appointed bythe courtforinvestigation. Anyattorneywhose conduct \nin this court is under investigation by the Committee on Discipline shall not be admitted pro \nhac vice until the pending investigation is concluded.\nUpon determination that an action is appropriate under subsections (c)(2), (3), \nor (4) above, the Chief Judge or the designee of the Chief Judge shall provide a copy of the ",
+          "pages": [
+            50
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-52",
+          "path": [],
+          "type": "paragraph",
+          "text": "38\nwritten allegations to the attorney whose conduct is the subject of the complaint. Nothing \nherein contained in this rule shall limit the right of an individual judge to refer a matter to any \nbar association for disciplinary action or otherwise address thematter.\n(e) Right to a Hearing. Except as provided in subsection (a) above, this courtshall \nnot impose anydisciplinaryaction affecting an attorney’sright to practice before the court until \nafter a hearing on the matter has been held before a 3-judge panel as designated by the Chief \nJudge and upon a showing of good cause. In no instance shall a judge who referred the charge \nof misconductsit on the 3-judge panel. The attorney may waive the right to a hearing. At the\nhearing, the attorney whose conduct is the subject of the complaint shall be afforded an \nopportunity to appear in person and/or by counsel, to present oral and documentary evidence, \nto compel the attendance of witnesses or the production of documents, to cross-examine \nwitnesses, and to present argument orally or in writing. If not called by the attorney whose \nconduct is being investigated, it is within the discretion of the 3-judge panel to call the \ncomplaining party to appear at the hearing. This rule shall not apply to sanctions, penalties, \nor other restrictionsimposed by a judge which are applicable only to a particular case pending \nbefore that judge.\n(f) Sanctions. Discipline by this court may include disbarment, suspension from \npractice for a definite time, reprimand, or other discipline which the court deems proper. \nReferral of a complaint to the Office of the General Counsel of the Oklahoma Bar Association \nforinvestigation shall not constitute such discipline asto entitle the attorneyto a hearing in this \ncourt on the propriety of the referral.\n(g) Committee onDiscipline. TheCommittee on Admissions andGrievancesshall \nact as the Committee on Discipline. The Committee shall have the power to investigate all \ncharges of professional misconduct referred to it by the Chief Judge. At the request of the \nCommittee, the clerk shall issue subpoenas and subpoenas ducestecum as may be required by \nthe investigation.\nThe Committee shall complete itsinvestigation within 8 weeksfrom the date of referral \nfrom theChiefJudge. Upon good cause shown, theCommittee may obtain extensions of time \nfor investigation.",
+          "pages": [
+            51
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-53",
+          "path": [],
+          "type": "paragraph",
+          "text": "39\nAt the close of the investigation, the Committee shall make a written report to the Chief \nJudge stating the discipline or other action recommended by the Committee. All disciplinary \nproceedings shall be in camera unless the 3-judge panel shall directotherwise.\n(h) Contempt of Court. Disciplinary proceedings under this rule shall not affect \nor be affected by any proceeding for contempt under Title 18 of the United States Code or \nunder Fed. R. Crim. P. 42.\n(i) Unauthorized Practice. Any person who, before admission to the bar of this \ncourt, or who, during disbarment orsuspension, exercises any of the privileges bestowed upon \nmembers of this bar, or who pretends to be entitled to such privileges, shall be guilty of \ncontempt of this court and shall be subject to punishment therefor and shall be subject to any \nother discipline which the court may impose.\n(j) Reinstatement. Persons disbarred from practice before this court may not \npetition for reinstatement within 3 years following disbarment or within 2 years following an \nadverse decision upon a previous petition for reinstatement; provided, however, that a person \ndisbarred under subsection (a) may apply for reinstatement at any time upon being reinstated \nby the Oklahoma Bar Association. Personssuspended indefinitely mustsatisfy all conditions \nto reinstatement imposed by the court at the time ofsuspension.",
+          "pages": [
+            52
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "okwd-civil-parsed-v1-ec602e29b4e91d0f",
+      "sourceDocumentId": "parsed-okwd-ec602e29b4e91d0f",
+      "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+      "pageIndex": 49,
+      "pageSpan": [
+        49,
+        52
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    }
+  ],
+  "evidence": [
+    {
+      "number": "1.1",
+      "heading": "LCvR1.1 Purpose and Scope of Rules.",
+      "page": 15,
+      "offset": 110,
+      "slices": [
+        {
+          "page": 15,
+          "start": 110,
+          "end": 405,
+          "sha256": "8d1dc5c9e7bacb2b871dbe84b43327fb88c1020e27399f80935270f0b2c1594c"
+        }
+      ]
+    },
+    {
+      "number": "1.2",
+      "heading": "LCvR1.2 Rules of Procedure.",
+      "page": 15,
+      "offset": 405,
+      "slices": [
+        {
+          "page": 15,
+          "start": 405,
+          "end": 1251,
+          "sha256": "eb1b9f22be47b0ed1fb327fe22b7ae2b325c5383a69108bb0b2497e0443d9d0e"
+        },
+        {
+          "page": 16,
+          "start": 0,
+          "end": 54,
+          "sha256": "f5d376d4b2d97b28d7f50f481a7b1ca518701d82e0adc88ed8cf392f6a262181"
+        }
+      ]
+    },
+    {
+      "number": "3.1",
+      "heading": "LCvR3.1 Civil Cover Sheet and Format of Initiating Document.",
+      "page": 16,
+      "offset": 54,
+      "slices": [
+        {
+          "page": 16,
+          "start": 54,
+          "end": 1039,
+          "sha256": "8aa5f356e8847acc474558d3b304791b1c4f7a06af5364d3182c69432d1dd57c"
+        }
+      ]
+    },
+    {
+      "number": "3.2",
+      "heading": "LCvR3.2 Payment of Filing Fees.",
+      "page": 16,
+      "offset": 1039,
+      "slices": [
+        {
+          "page": 16,
+          "start": 1039,
+          "end": 2072,
+          "sha256": "3b8c4b02df3187876462d8bc3bdb1aa1a25fb317af504bf00c21f6b32331551b"
+        },
+        {
+          "page": 17,
+          "start": 0,
+          "end": 93,
+          "sha256": "2a0ac8f4c596bbb4e6dd9c2bc6f195887e8289f554798aed01cb70b866ff0d9d"
+        }
+      ]
+    },
+    {
+      "number": "3.3",
+      "heading": "LCvR3.3 In Forma Pauperis Applications.",
+      "page": 17,
+      "offset": 93,
+      "slices": [
+        {
+          "page": 17,
+          "start": 93,
+          "end": 2213,
+          "sha256": "58c6f53ef1bfaf65bc115dd57237db3b9ccc6684a9efc0f5f30ff6d44ddd5fea"
+        },
+        {
+          "page": 18,
+          "start": 0,
+          "end": 2,
+          "sha256": "7de1555df0c2700329e815b93b32c571c3ea54dc967b89e81ab73b9972b72d1d"
+        }
+      ]
+    },
+    {
+      "number": "3.4",
+      "heading": "LCvR3.4 Partial Filing Fees.",
+      "page": 18,
+      "offset": 2,
+      "slices": [
+        {
+          "page": 18,
+          "start": 2,
+          "end": 738,
+          "sha256": "c809fd5ccdf7d83ed624ef543af6fdf5959f30c84608d9e7942fff89e4db704d"
+        }
+      ]
+    },
+    {
+      "number": "3.5",
+      "heading": "LCvR3.5 InFormaPauperisApplications byPersonsFilingHabeasCorpusActions",
+      "page": 18,
+      "offset": 738,
+      "slices": [
+        {
+          "page": 18,
+          "start": 738,
+          "end": 1347,
+          "sha256": "02c7076ef2eccbf0012ea38deac70ff68d429b1963fe05c04ac7cb3402c7415c"
+        }
+      ]
+    },
+    {
+      "number": "3.6",
+      "heading": "LCvR3.6 Copyright, Trademark, and Patent Cases.",
+      "page": 18,
+      "offset": 1347,
+      "slices": [
+        {
+          "page": 18,
+          "start": 1347,
+          "end": 1764,
+          "sha256": "3cef3e36de29c598f6111a4cc87a2c140e47a2e8df832e73c2023b46e686aa99"
+        }
+      ]
+    },
+    {
+      "number": "3.7",
+      "heading": "LCvR3.7 Notice of Related or Companion Cases.",
+      "page": 18,
+      "offset": 1764,
+      "slices": [
+        {
+          "page": 18,
+          "start": 1764,
+          "end": 1985,
+          "sha256": "627659b7ece12497cb2f0f428e0e0d4fda9e6fcce6b4347099a886619f3a33b2"
+        },
+        {
+          "page": 19,
+          "start": 0,
+          "end": 1162,
+          "sha256": "76be44197936ad2f97d4351b28b9633b02f1954419342bb23848367120a3d5b3"
+        }
+      ]
+    },
+    {
+      "number": "4.1",
+      "heading": "LCvR4.1 Appointment of Authorized Process Servers.",
+      "page": 19,
+      "offset": 1162,
+      "slices": [
+        {
+          "page": 19,
+          "start": 1162,
+          "end": 1827,
+          "sha256": "edabd3a4623f9e7e8b6057134d87ffe4ecd4b0ea5e9fd2e2a11b8b087e18e00e"
+        }
+      ]
+    },
+    {
+      "number": "4.2",
+      "heading": "LCvR4.2 Returns of Service.",
+      "page": 19,
+      "offset": 1827,
+      "slices": [
+        {
+          "page": 19,
+          "start": 1827,
+          "end": 1965,
+          "sha256": "806deb7bd2cbde84d244c1c9f55f076f3c36998a6125205fd7b864cbcc2122a6"
+        },
+        {
+          "page": 20,
+          "start": 0,
+          "end": 55,
+          "sha256": "169849edabe2c0efe22a00d62c04745f262295e771397272d4a20889d1e51e98"
+        }
+      ]
+    },
+    {
+      "number": "5.1",
+      "heading": "LCvR5.1 Filing by Electronic Means.",
+      "page": 20,
+      "offset": 55,
+      "slices": [
+        {
+          "page": 20,
+          "start": 55,
+          "end": 580,
+          "sha256": "9e064475f1eca98bcc6e531d96430f84dc2176e479243ccab7e5d81ed496870c"
+        }
+      ]
+    },
+    {
+      "number": "5.2",
+      "heading": "LCvR5.2 Format of Papers Presented for Filing.",
+      "page": 20,
+      "offset": 580,
+      "slices": [
+        {
+          "page": 20,
+          "start": 580,
+          "end": 1678,
+          "sha256": "d38c73794aa3af1e90bc53a040631d38849d267e20ebf905a1f3746cfc85be30"
+        }
+      ]
+    },
+    {
+      "number": "5.2.1",
+      "heading": "LCvR5.2.1 Redaction ofOfficialTranscriptsPrior toRemoteElectronicAvailability.",
+      "page": 20,
+      "offset": 1678,
+      "slices": [
+        {
+          "page": 20,
+          "start": 1678,
+          "end": 2115,
+          "sha256": "e264141e78d50d81179aeebb77b016a2c71fe5bcb1b589921a7b9f6277d0d6f7"
+        },
+        {
+          "page": 21,
+          "start": 0,
+          "end": 1363,
+          "sha256": "2759d7cd5618292446cd726bec840ce2c2f8771948a3a3b09953d3b18441f91d"
+        }
+      ]
+    },
+    {
+      "number": "5.2.2",
+      "heading": "LCvR5.2.2 Filings Made Under Seal.",
+      "page": 21,
+      "offset": 1363,
+      "slices": [
+        {
+          "page": 21,
+          "start": 1363,
+          "end": 1979,
+          "sha256": "28af6f7ea3e052e516700d01a105b5080cee6c0f36116416957b0817f9569a92"
+        },
+        {
+          "page": 22,
+          "start": 0,
+          "end": 50,
+          "sha256": "6e9fbbeb42c8cfa9063ca5a127bffba7ee9ffff472b89d8755d6eb5ec3792734"
+        }
+      ]
+    },
+    {
+      "number": "5.3",
+      "heading": "LCvR5.3 Fax Filing.",
+      "page": 22,
+      "offset": 50,
+      "slices": [
+        {
+          "page": 22,
+          "start": 50,
+          "end": 348,
+          "sha256": "2113d85566eb1114bb83660394e48e69b30a9ac096abbee20c5c6f765afdd598"
+        }
+      ]
+    },
+    {
+      "number": "5.4",
+      "heading": "LCvR5.4 Change of Address.",
+      "page": 22,
+      "offset": 348,
+      "slices": [
+        {
+          "page": 22,
+          "start": 348,
+          "end": 825,
+          "sha256": "a2ee5e630cf18f6e0da278f8d3fadbe678bec291a2dda976e27f6d4bec244e61"
+        }
+      ]
+    },
+    {
+      "number": "5.5",
+      "heading": "LCvR5.5 Proposed Orders.",
+      "page": 22,
+      "offset": 825,
+      "slices": [
+        {
+          "page": 22,
+          "start": 825,
+          "end": 1039,
+          "sha256": "f03b644d58b2f7eb25150abb947d023a47830d76f99a53f06421e472803e74d5"
+        }
+      ]
+    },
+    {
+      "number": "6.1",
+      "heading": "LCvR6.1 Fixed Date Deadlines for Court Filings.",
+      "page": 22,
+      "offset": 1039,
+      "slices": [
+        {
+          "page": 22,
+          "start": 1039,
+          "end": 1620,
+          "sha256": "3e2466de86c3af6b64f9579526d714867e215645f74d73a0da09943f05c9c4fa"
+        }
+      ]
+    },
+    {
+      "number": "6.2",
+      "heading": "LCvR6.2 Meaning of “Inaccessible.”",
+      "page": 22,
+      "offset": 1620,
+      "slices": [
+        {
+          "page": 22,
+          "start": 1620,
+          "end": 1820,
+          "sha256": "4e8071cfb231191b04522ee44ec4022c0182ab417e580f1a32109cb213216750"
+        },
+        {
+          "page": 23,
+          "start": 0,
+          "end": 562,
+          "sha256": "f1f66075ad7615710f7520cfa45db61b785fb7580d9246194312826f4c008c60"
+        }
+      ]
+    },
+    {
+      "number": "6.3",
+      "heading": "LCvR6.3 Requests for Extension of Time.",
+      "page": 23,
+      "offset": 562,
+      "slices": [
+        {
+          "page": 23,
+          "start": 562,
+          "end": 1502,
+          "sha256": "5ed939fc9f418f931342df439a8e36261cfc926674e3f0594ead4f7c69b8f641"
+        }
+      ]
+    },
+    {
+      "number": "7.1",
+      "heading": "LCvR7.1 Motion Practice.",
+      "page": 23,
+      "offset": 1502,
+      "slices": [
+        {
+          "page": 23,
+          "start": 1502,
+          "end": 2212,
+          "sha256": "be343d8fecc9799a0fcf67e66d19af807e4493560fd194155fcc9c0f64477c75"
+        },
+        {
+          "page": 24,
+          "start": 0,
+          "end": 2194,
+          "sha256": "fa3ac8b682055c88957b03f041fc49f7c6ec157d012c344016264ac40953b2bc"
+        },
+        {
+          "page": 25,
+          "start": 0,
+          "end": 2337,
+          "sha256": "a088ab480e7c93f3135eb6a2c47819afb6938fd19583c58ac57b6ef458752859"
+        },
+        {
+          "page": 26,
+          "start": 0,
+          "end": 1035,
+          "sha256": "9eac226b63fe09218a3932ec09e0dc7f7072bf5c0e6caef31b7cd1207c38609a"
+        }
+      ]
+    },
+    {
+      "number": "7.1.1",
+      "heading": "LCvR7.1.1 Disclosure Statement.",
+      "page": 26,
+      "offset": 1035,
+      "slices": [
+        {
+          "page": 26,
+          "start": 1035,
+          "end": 1830,
+          "sha256": "f982e68b6afa814b94b58216bad303517607c764246c8d5e4c125b37feabfb24"
+        }
+      ]
+    },
+    {
+      "number": "7.2",
+      "heading": "LCvR7.2 Briefs for Bankruptcy Appeals.",
+      "page": 26,
+      "offset": 1830,
+      "slices": [
+        {
+          "page": 26,
+          "start": 1830,
+          "end": 2241,
+          "sha256": "11a1af3132ca2552ec21b9344e53cd2908da65cb1c5f164a9eb21146efb7072a"
+        },
+        {
+          "page": 27,
+          "start": 0,
+          "end": 247,
+          "sha256": "1657382c394d87efcae646e210a2df00b7b728ca5506997530e47d6c6a863e73"
+        }
+      ]
+    },
+    {
+      "number": "9.1",
+      "heading": "LCvR9.1 Notice Requirement for 3-Judge Court.",
+      "page": 27,
+      "offset": 247,
+      "slices": [
+        {
+          "page": 27,
+          "start": 247,
+          "end": 758,
+          "sha256": "5131da19140c9691175557aebcf0831688e8b96dd8012961c6796e42af7eef0a"
+        }
+      ]
+    },
+    {
+      "number": "9.2",
+      "heading": "LCvR9.2 Actions Brought by Incarcerated Persons.",
+      "page": 27,
+      "offset": 758,
+      "slices": [
+        {
+          "page": 27,
+          "start": 758,
+          "end": 1653,
+          "sha256": "e02185e461bf7f40004a3edb12c1f0ecb78fc41e87b496c6499961ed6ca5701f"
+        }
+      ]
+    },
+    {
+      "number": "15.1",
+      "heading": "LCvR15.1 Amended and Supplemented Pleadings.",
+      "page": 27,
+      "offset": 1653,
+      "slices": [
+        {
+          "page": 27,
+          "start": 1653,
+          "end": 2032,
+          "sha256": "5b8865fb4f8ae49c5de5a4668268486d189b29fac630619dbf6586674be3d861"
+        },
+        {
+          "page": 28,
+          "start": 0,
+          "end": 395,
+          "sha256": "2b109b3884a7547b2611eb1c8eaa4e629ad58381015d408375c73d7998aeb48c"
+        }
+      ]
+    },
+    {
+      "number": "16.1",
+      "heading": "LCvR16.1 Pretrial Procedures.",
+      "page": 28,
+      "offset": 395,
+      "slices": [
+        {
+          "page": 28,
+          "start": 395,
+          "end": 2138,
+          "sha256": "59a9aeed81200a377bf65d04a7724cc840b2380492aa04c7421768dd9f09adec"
+        },
+        {
+          "page": 29,
+          "start": 0,
+          "end": 2399,
+          "sha256": "64cee6155f13dc949d717ca81503f9f5bddbab6fbbf158936ae4c160d79d2a62"
+        },
+        {
+          "page": 30,
+          "start": 0,
+          "end": 606,
+          "sha256": "1cbc892733a81d7eaa700ddab3139bf5d36fd08cd5a12a5ffe4f99745e2f3489"
+        }
+      ]
+    },
+    {
+      "number": "16.2",
+      "heading": "LCvR16.2 Judicial Settlement Conferences.",
+      "page": 30,
+      "offset": 606,
+      "slices": [
+        {
+          "page": 30,
+          "start": 606,
+          "end": 1933,
+          "sha256": "9c4e47d656cba4c3771f09d573ec16ab1e5bf90d6c47f258406bdcf82541ed41"
+        },
+        {
+          "page": 31,
+          "start": 0,
+          "end": 2200,
+          "sha256": "68ba9f846ce2cb5364ffa35dbcc7d6fb25734ff1a5a262e3dd55bb4817947d37"
+        },
+        {
+          "page": 32,
+          "start": 0,
+          "end": 3,
+          "sha256": "7ee29791fc17e986b97128845622b077fb45e349fdb80523fac9dba879b4ad60"
+        }
+      ]
+    },
+    {
+      "number": "16.3",
+      "heading": "LCvR16.3 Court-Ordered Mediation.",
+      "page": 32,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 32,
+          "start": 3,
+          "end": 1982,
+          "sha256": "f176096d2c2d0e99fae9e54a54097f94fc49f7aa1df1d085563bd5768697e68b"
+        },
+        {
+          "page": 33,
+          "start": 0,
+          "end": 1372,
+          "sha256": "32f6b486f4465e55b4d08ef93035214608f4afeb9d03b0a96da3c2e1176bd4bc"
+        }
+      ]
+    },
+    {
+      "number": "17.1",
+      "heading": "LCvR17.1 Parties Who Are Not Natural Persons.",
+      "page": 33,
+      "offset": 1372,
+      "slices": [
+        {
+          "page": 33,
+          "start": 1372,
+          "end": 1477,
+          "sha256": "3bff116ea8d5fc28a61063cdf63f0464319d5550fb53ec6280184b0927ef39bd"
+        }
+      ]
+    },
+    {
+      "number": "21.1",
+      "heading": "LCvR21.1 Notice of Bankruptcy Filing.",
+      "page": 33,
+      "offset": 1477,
+      "slices": [
+        {
+          "page": 33,
+          "start": 1477,
+          "end": 1825,
+          "sha256": "ea507293dbc949434dc4b9250374b8f2767717f6265b569c9c8d37d91b677920"
+        },
+        {
+          "page": 34,
+          "start": 0,
+          "end": 35,
+          "sha256": "ec483d463f7a52b7a9cfe023f575b113ae6c4609179242b17d840f3f5a42b298"
+        }
+      ]
+    },
+    {
+      "number": "26.1",
+      "heading": "LCvR26.1 Discovery Plans.",
+      "page": 34,
+      "offset": 35,
+      "slices": [
+        {
+          "page": 34,
+          "start": 35,
+          "end": 203,
+          "sha256": "46c6bc711f5368fd2f72a15e2b1f475fc41eb3bb10c5a88b1442bf912b3776c7"
+        }
+      ]
+    },
+    {
+      "number": "26.2",
+      "heading": "LCvR26.2 Impact on Discovery From Removal.",
+      "page": 34,
+      "offset": 203,
+      "slices": [
+        {
+          "page": 34,
+          "start": 203,
+          "end": 325,
+          "sha256": "c3b84a616e18d88b8410c5594ea58a0a816064958cbe20b55188f7bdefa95c28"
+        }
+      ]
+    },
+    {
+      "number": "26.3",
+      "heading": "LCvR26.3 Discovery to Begin When Case Is at Issue Unlessthe Parties Agree or the",
+      "page": 34,
+      "offset": 325,
+      "slices": [
+        {
+          "page": 34,
+          "start": 325,
+          "end": 1347,
+          "sha256": "217ac4c642d0eb530d0bdc151a0882c685daff8cde4c5b5953d280c70cdd7ed2"
+        }
+      ]
+    },
+    {
+      "number": "30.1",
+      "heading": "LCvR30.1 Depositions.",
+      "page": 34,
+      "offset": 1347,
+      "slices": [
+        {
+          "page": 34,
+          "start": 1347,
+          "end": 1464,
+          "sha256": "e85d1654695d98a0bc7b06acf4f22c9e3a079b8c4e8020ac77cb60738fdaf0f2"
+        },
+        {
+          "page": 35,
+          "start": 0,
+          "end": 759,
+          "sha256": "e56f6eeabee40d6d5127e61ca94e58bebbe14e1343bd57f5cf855e5e9e011137"
+        }
+      ]
+    },
+    {
+      "number": "33.1",
+      "heading": "LCvR33.1 Interrogatories.",
+      "page": 35,
+      "offset": 759,
+      "slices": [
+        {
+          "page": 35,
+          "start": 759,
+          "end": 884,
+          "sha256": "5aa1c701e2ff05403d84cada10bd495e79a92e3b3f2c7216a549043a6bde2e9a"
+        }
+      ]
+    },
+    {
+      "number": "36.1",
+      "heading": "LCvR36.1 Admissions.",
+      "page": 35,
+      "offset": 884,
+      "slices": [
+        {
+          "page": 35,
+          "start": 884,
+          "end": 1039,
+          "sha256": "62c9632481b15dc7c0632a00b8fdf51d33599c6bbebba6faa9ad1263267f448f"
+        }
+      ]
+    },
+    {
+      "number": "37.1",
+      "heading": "LCvR37.1 Informal Conference to Settle Discovery Disputes.",
+      "page": 35,
+      "offset": 1039,
+      "slices": [
+        {
+          "page": 35,
+          "start": 1039,
+          "end": 1909,
+          "sha256": "768b90572a82639c6408a11150a5883c5281d3f44ae8f147806d446ade02fcad"
+        },
+        {
+          "page": 36,
+          "start": 0,
+          "end": 161,
+          "sha256": "0e32db5f1239a71f93808037543f3fc21fd9d17329712644d23a4908e9fa0055"
+        }
+      ]
+    },
+    {
+      "number": "39.1",
+      "heading": "LCvR39.1 Opening Statements and Closing Arguments.",
+      "page": 36,
+      "offset": 161,
+      "slices": [
+        {
+          "page": 36,
+          "start": 161,
+          "end": 329,
+          "sha256": "345c655679e658f1884653ecdcba1dcdc1e940ac116a01359cb2cc589416e18c"
+        }
+      ]
+    },
+    {
+      "number": "39.2",
+      "heading": "LCvR39.2 Courtroom Decorum.",
+      "page": 36,
+      "offset": 329,
+      "slices": [
+        {
+          "page": 36,
+          "start": 329,
+          "end": 481,
+          "sha256": "b1168ac7fd72c4e97d67a50967cc57bcc9bd9cd76d3c862307dff3c2bf0c5926"
+        }
+      ]
+    },
+    {
+      "number": "39.3",
+      "heading": "LCvR39.3 Taking of Photographs or Use of Electronic Devices, Audio/Video",
+      "page": 36,
+      "offset": 481,
+      "slices": [
+        {
+          "page": 36,
+          "start": 481,
+          "end": 1539,
+          "sha256": "d137dfd5c7a2ce44f4a2ef7faec4971c5a0176d4a016da1b723610827df961a2"
+        },
+        {
+          "page": 37,
+          "start": 0,
+          "end": 350,
+          "sha256": "38a6952903369064240fabcf3a5aede5ccba5e3533648d9e334e5be539a9b4cd"
+        }
+      ]
+    },
+    {
+      "number": "39.4",
+      "heading": "LCvR39.4 Use of Exhibits at Trial.",
+      "page": 37,
+      "offset": 350,
+      "slices": [
+        {
+          "page": 37,
+          "start": 350,
+          "end": 1355,
+          "sha256": "5f6d61d1ebe4f85d6ecd596fb7f1a9ed093072b567b6243e5543e011098bec22"
+        }
+      ]
+    },
+    {
+      "number": "40.1",
+      "heading": "LCvR40.1 Assignment of Cases for Trial.",
+      "page": 37,
+      "offset": 1355,
+      "slices": [
+        {
+          "page": 37,
+          "start": 1355,
+          "end": 1539,
+          "sha256": "54c1cc52d2c8cca658383f5e0d22b7814dad099682ee39d066791e3d1d31e846"
+        }
+      ]
+    },
+    {
+      "number": "43.1",
+      "heading": "LCvR43.1 List of Witnesses and Exhibits in Civil Cases.",
+      "page": 37,
+      "offset": 1539,
+      "slices": [
+        {
+          "page": 37,
+          "start": 1539,
+          "end": 1864,
+          "sha256": "0199913d61e5c6cf5fd2fa62f9939bcd9ebba08264c9bb59fa6948f29dfa771f"
+        },
+        {
+          "page": 38,
+          "start": 0,
+          "end": 99,
+          "sha256": "89bec52992d495928ccc845b24fd33a23f5eacadfc2450b9a8138638d834ac96"
+        }
+      ]
+    },
+    {
+      "number": "45.1",
+      "heading": "LCvR45.1 Subpoenas to Nonparties to Produce Documents.",
+      "page": 38,
+      "offset": 99,
+      "slices": [
+        {
+          "page": 38,
+          "start": 99,
+          "end": 1043,
+          "sha256": "7160fce89765329e9f3bf416315cfe54a1465a38d19c2e6ef0941e456ffdc94d"
+        }
+      ]
+    },
+    {
+      "number": "47.1",
+      "heading": "LCvR47.1 Attorney Communication with Jurors.",
+      "page": 38,
+      "offset": 1043,
+      "slices": [
+        {
+          "page": 38,
+          "start": 1043,
+          "end": 1274,
+          "sha256": "a99f7e84fb497ae546b53845ebdbc8ef84569aaf6fa9cd233bb0c7fa40ad028c"
+        }
+      ]
+    },
+    {
+      "number": "54.1",
+      "heading": "LCvR54.1 Costs.",
+      "page": 38,
+      "offset": 1274,
+      "slices": [
+        {
+          "page": 38,
+          "start": 1274,
+          "end": 1946,
+          "sha256": "00640c47ffca4156dffe8730b66ec2c5e73370a393e731b038e484afd4825ab1"
+        },
+        {
+          "page": 39,
+          "start": 0,
+          "end": 410,
+          "sha256": "c81cc933a9edfc2cba946b762287852d94cbc09b38127c4808494b4fac4e19f5"
+        }
+      ]
+    },
+    {
+      "number": "54.2",
+      "heading": "LCvR54.2 Civil Attorney’s Fees.",
+      "page": 39,
+      "offset": 410,
+      "slices": [
+        {
+          "page": 39,
+          "start": 410,
+          "end": 954,
+          "sha256": "0b4c2be1b7590be451a3e43dc1465ba277c6826fc241607dc88b3b90ad113f8f"
+        }
+      ]
+    },
+    {
+      "number": "54.3",
+      "heading": "LCvR54.3 Non-Binding Arbitration or Other ADR of Attorney’s Fee Disputes.",
+      "page": 39,
+      "offset": 954,
+      "slices": [
+        {
+          "page": 39,
+          "start": 954,
+          "end": 2035,
+          "sha256": "3cd075540a79fe5d4c7269bfabbb1753fb6aed1710b3c61018c79b7da5828e88"
+        },
+        {
+          "page": 40,
+          "start": 0,
+          "end": 3,
+          "sha256": "20d2add851bf39edcc6b5e830930f962db7e19dffa2cab8610eed551eda6c302"
+        }
+      ]
+    },
+    {
+      "number": "55.1",
+      "heading": "LCvR55.1 Application for Clerk’s Entry of Default .",
+      "page": 40,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 40,
+          "start": 3,
+          "end": 231,
+          "sha256": "c66f271435da7cfb916579bd5194a2c7b76725d193c229984ef4a5d8a3ee3446"
+        }
+      ]
+    },
+    {
+      "number": "56.1",
+      "heading": "LCvR56.1 Summary Judgment Procedure.",
+      "page": 40,
+      "offset": 231,
+      "slices": [
+        {
+          "page": 40,
+          "start": 231,
+          "end": 1641,
+          "sha256": "3d5b2c6bf52091fa28de7e1b25b83696ddebac4da7adbf499d2dbb370698562d"
+        }
+      ]
+    },
+    {
+      "number": "62.1",
+      "heading": "LCvR62.1 Stays Pending Disposition of Motions After Judgment.",
+      "page": 40,
+      "offset": 1641,
+      "slices": [
+        {
+          "page": 40,
+          "start": 1641,
+          "end": 1996,
+          "sha256": "5efaebaf9956325e3693d3061953499e19f3ea87deb83946cd2f784696d1fd80"
+        },
+        {
+          "page": 41,
+          "start": 0,
+          "end": 168,
+          "sha256": "b9fb5a11db9ab0742ba3636a45a9158bc3f5c969885a95fd5977db6e9e04c2a1"
+        }
+      ]
+    },
+    {
+      "number": "62.2",
+      "heading": "LCvR62.2 Bonds and Other Security.",
+      "page": 41,
+      "offset": 168,
+      "slices": [
+        {
+          "page": 41,
+          "start": 168,
+          "end": 2285,
+          "sha256": "78d3abd95aef968c4e0aee71a102db7ed1737b898e82a95945a5b68695dbde6c"
+        },
+        {
+          "page": 42,
+          "start": 0,
+          "end": 1038,
+          "sha256": "f8ad20a0ea38b90bbc0a36a600fd2457a4a6fb5d54b49ac2f4022ab3000ccdf2"
+        }
+      ]
+    },
+    {
+      "number": "67.1",
+      "heading": "LCvR67.1 Deposit and Withdrawal of Funds in Court.",
+      "page": 42,
+      "offset": 1038,
+      "slices": [
+        {
+          "page": 42,
+          "start": 1038,
+          "end": 1475,
+          "sha256": "613f3e667666fdb9c894b6715930f3e62878a5a16b95fadc62209b11617556fa"
+        }
+      ]
+    },
+    {
+      "number": "67.2",
+      "heading": "LCvR67.2 Disbursement of Registry Funds.",
+      "page": 42,
+      "offset": 1475,
+      "slices": [
+        {
+          "page": 42,
+          "start": 1475,
+          "end": 2032,
+          "sha256": "36829d116e4da6364d4d0eb0d8ab1ba39c2d212b59ec7468e2fbbff974740a8c"
+        },
+        {
+          "page": 43,
+          "start": 0,
+          "end": 197,
+          "sha256": "e2414bedf2fcd744ec62f5d3da8f3bc6f07e0a8674548c0bd73535b1ee61f28c"
+        }
+      ]
+    },
+    {
+      "number": "73.1",
+      "heading": "LCvR73.1 Magistrate Judges - Consent Authority.",
+      "page": 43,
+      "offset": 197,
+      "slices": [
+        {
+          "page": 43,
+          "start": 197,
+          "end": 1118,
+          "sha256": "3cf8b0497ec3fcde7a0b812cffbea42b901415251b7b35ef1f8d60976a4a8f7e"
+        }
+      ]
+    },
+    {
+      "number": "78.1",
+      "heading": "LCvR78.1 Oral Arguments.",
+      "page": 43,
+      "offset": 1118,
+      "slices": [
+        {
+          "page": 43,
+          "start": 1118,
+          "end": 1272,
+          "sha256": "0b29f5efc633f74c543abc48f48ef4daad1f1de47fb47e10b5706370084fd62d"
+        }
+      ]
+    },
+    {
+      "number": "81.1",
+      "heading": "LCvR81.1 Removed Actions - Demand for Jury Trial.",
+      "page": 43,
+      "offset": 1272,
+      "slices": [
+        {
+          "page": 43,
+          "start": 1272,
+          "end": 1677,
+          "sha256": "710621d265b8ee454cade2b8b49c1617a6c35499eb678319b2001175b649d0e1"
+        },
+        {
+          "page": 44,
+          "start": 0,
+          "end": 3,
+          "sha256": "f4ccd05b3271c386ee55d9876c7450012a3b361e5065c09dc22075e38b3cc35c"
+        }
+      ]
+    },
+    {
+      "number": "81.2",
+      "heading": "LCvR81.2 Removed Actions - Documents to Be Filed; Status of PendingMotions.",
+      "page": 44,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 44,
+          "start": 3,
+          "end": 1054,
+          "sha256": "373a92f3ca2ab340f8a3e6ffe92aad3476e735399104781a8e23460da50c7caf"
+        }
+      ]
+    },
+    {
+      "number": "81.3",
+      "heading": "LCvR81.3 Removed Actions - Bankruptcy.",
+      "page": 44,
+      "offset": 1054,
+      "slices": [
+        {
+          "page": 44,
+          "start": 1054,
+          "end": 1602,
+          "sha256": "a186083dd439153503adc25e29211649921b35d63cb341bcf52c4d969c9af2bc"
+        }
+      ]
+    },
+    {
+      "number": "81.4",
+      "heading": "LCvR81.4 Bankruptcy Cases.",
+      "page": 44,
+      "offset": 1602,
+      "slices": [
+        {
+          "page": 44,
+          "start": 1602,
+          "end": 1942,
+          "sha256": "908a4f980564471fc65a7d17603df1379b9e61fcf08d21b5dba37fb64162b2ca"
+        },
+        {
+          "page": 45,
+          "start": 0,
+          "end": 2366,
+          "sha256": "e1bc9402a1ba4e05003d84209d35a933e5020a51e0341b0e3a2d580ec775ef7f"
+        },
+        {
+          "page": 46,
+          "start": 0,
+          "end": 2224,
+          "sha256": "196133e6dcb15c2f72abd084caa7b9e2449b247a8072d66f2847d188fa876e45"
+        },
+        {
+          "page": 47,
+          "start": 0,
+          "end": 726,
+          "sha256": "c07e0491b15071f194824be363918d424159e70532d7916593b14ed900b66452"
+        }
+      ]
+    },
+    {
+      "number": "83.1",
+      "heading": "LCvR83.1 Committee on Local Civil Rules.",
+      "page": 47,
+      "offset": 726,
+      "slices": [
+        {
+          "page": 47,
+          "start": 726,
+          "end": 1105,
+          "sha256": "47b338697f9ef306fe99816e02b5aa2102c1bd57d00e12e8fa6cdda7cc8301da"
+        }
+      ]
+    },
+    {
+      "number": "83.2",
+      "heading": "LCvR83.2 Attorneys.",
+      "page": 47,
+      "offset": 1105,
+      "slices": [
+        {
+          "page": 47,
+          "start": 1105,
+          "end": 2017,
+          "sha256": "0ff51a3b6933f04163cf5d35d24ed23071af42b628c0a8c3f09f4da4c36c15ee"
+        },
+        {
+          "page": 48,
+          "start": 0,
+          "end": 2415,
+          "sha256": "e30bfd1803a74a91a9203825582a776cc25a2b16167322ba176e033f20c0fc29"
+        },
+        {
+          "page": 49,
+          "start": 0,
+          "end": 49,
+          "sha256": "f40e3a114fdf94b33db1fc7e82dc05a980363ba0d69d7421357b319056649e41"
+        }
+      ]
+    },
+    {
+      "number": "83.3",
+      "heading": "LCvR83.3 Association of Local Counsel.",
+      "page": 49,
+      "offset": 49,
+      "slices": [
+        {
+          "page": 49,
+          "start": 49,
+          "end": 1451,
+          "sha256": "e1505391ed0d6920f2a4e4df38f093e77216f5b96b39cd4c443ef40d6c6629ac"
+        }
+      ]
+    },
+    {
+      "number": "83.4",
+      "heading": "LCvR83.4 Appearance of Counsel.",
+      "page": 49,
+      "offset": 1451,
+      "slices": [
+        {
+          "page": 49,
+          "start": 1451,
+          "end": 2081,
+          "sha256": "a1b499fbb08e9234131b18f0d0b6d7ea1b3a3250d9b876f0b40786009a096caf"
+        },
+        {
+          "page": 50,
+          "start": 0,
+          "end": 47,
+          "sha256": "924d3e7a9a07e22ec5c116ecdcadf0192d98e496d7ae7c32e73f0c7e52cb7395"
+        }
+      ]
+    },
+    {
+      "number": "83.5",
+      "heading": "LCvR83.5 Attorney Withdrawal From Case.",
+      "page": 50,
+      "offset": 47,
+      "slices": [
+        {
+          "page": 50,
+          "start": 47,
+          "end": 725,
+          "sha256": "85066fa6ad04e7b1a4a576835bc209c32fbeeea10ac6704b055ed36a1f96bf33"
+        }
+      ]
+    },
+    {
+      "number": "83.6",
+      "heading": "LCvR83.6 Discipline by the Court.",
+      "page": 50,
+      "offset": 725,
+      "slices": [
+        {
+          "page": 50,
+          "start": 725,
+          "end": 2169,
+          "sha256": "f25941bb951df6513c9eff5e5380201588d788b18dd263af0255a688ed078968"
+        },
+        {
+          "page": 51,
+          "start": 0,
+          "end": 2174,
+          "sha256": "36dff7bc991aef3355b3b119950dca3764edf4c453abff053137ec7c1733d552"
+        },
+        {
+          "page": 52,
+          "start": 0,
+          "end": 2372,
+          "sha256": "507aa028e9d83781478c671460a08b055ce55df46962276252449b724285b25b"
+        },
+        {
+          "page": 53,
+          "start": 0,
+          "end": 1389,
+          "sha256": "e33e3c8538a8fb9d9a75276fa07306f8db5c4becc10f0fd3c8f231e8c5e337ba"
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "startPage": 15,
+    "startOffset": 110,
+    "endPage": 53,
+    "endOffset": 1389,
+    "ruleCount": 68,
+    "tocReconciled": false,
+    "editorialReviewComplete": false,
+    "currencyReviewed": false,
+    "flags": [
+      "Source extraction contains unresolved characters; consult the original publication."
+    ],
+    "excluded": "Source material outside the recorded range remains available in the district source library."
+  },
+  "transcriptionSha256": "8351c4406bbe0de5cdf3999847dd8d1ad5340fb522892a3930508efae9d421d8"
+}

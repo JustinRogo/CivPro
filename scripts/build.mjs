@@ -4,6 +4,9 @@ import Ajv from 'ajv';
 import {validate,json,sha} from './validate.mjs';
 import {validateSourceLibrary} from './validate-source-library.mjs';
 import {packagePaths} from '../src/source-library.js';
+import {validateParsedDistricts} from './validate-parsed-districts.mjs';
+const parsed=await validateParsedDistricts();
+const parsedCorpusSha256=sha(Buffer.concat(await Promise.all(['sources/district-parse-profiles.json',...(await readdir('data/parsed-districts')).filter(n=>n.endsWith('.json')).sort().map(n=>'data/parsed-districts/'+n)].map(p=>readFile(p)))));
 const sourceCorpusSha256=sha(Buffer.concat(await Promise.all(['data/source-library.json',...(await readdir('data/source-library')).sort().map(n=>'data/source-library/'+n)].map(p=>readFile(p)))));
 const {provisions,sources,relationships}=await validate();
 const review=await json('data/review.json');
@@ -12,6 +15,7 @@ if(process.argv.includes('--candidate')&&!process.env.FCR_SITE_URL)throw Error('
 if(process.argv.includes('--production')){
   if(review.status!=='approved'||review.corpusSha256!==sha(await readFile('data/provisions.json')))throw Error('Production publication requires a completed review bound to the canonical corpus hash. See docs/DEPLOYMENT.md.');
   if(review.sourceCorpusSha256!==sourceCorpusSha256)throw Error('Production publication also requires review of the nationwide source library, bound to its exact index and text bytes. See docs/DEPLOYMENT.md.');
+  if(review.parsedCorpusSha256!==parsedCorpusSha256)throw Error('Production publication requires review bound to the parsed district corpus.');
   if(!process.env.FCR_SITE_URL)throw Error('Set FCR_SITE_URL to the final HTTPS publication URL.');
 }
 const root=process.cwd(),output=path.resolve(root,'dist');
@@ -22,6 +26,10 @@ const notice=production?'':'<div class="notice" role="status" id="release-notice
 await writeFile(output+'/index.html',(await readFile(output+'/index.html','utf8')).replace('<!--RELEASE_NOTICE-->',notice));
 const write=async(p,v)=>{await mkdir(path.dirname(p),{recursive:true});await writeFile(p,typeof v==='string'?v:JSON.stringify(v)+'\n')};
 const definitions=await json('data/collections.json');
+for(const row of parsed){
+  definitions.push({...row.collection,parseStatus:row.reviewStatus});provisions.push(...row.provisions);
+  const doc=row.sourceDocument;sources.push({id:row.provisions[0].sourceDocumentId,url:doc.sourceUrl,publisher:row.collection.name,editionLabel:'Stored court edition · parsed draft',sha256:doc.sha256,retrievedAt:doc.retrievedAt,lastCurrencyReview:null,pageCount:doc.pageCount,format:doc.format,pdfPath:doc.pdfPath,documentId:doc.id,parseStatus:row.reviewStatus});
+}
 const catalog={version:1,districts:await json('data/districts.json'),collections:[],provisions:[]},artifacts=[];
 const sourceLibrary=await json('data/source-library.json');
 await validateSourceLibrary(sourceLibrary,catalog.districts);

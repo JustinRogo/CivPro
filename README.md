@@ -2,7 +2,7 @@
 
 A static, installable reading room for federal civil procedure and local court publications for all 94 federal districts. No accounts, database, server API, analytics, hosted search, or runtime AI.
 
-**Status: working release candidate, not a reviewed production publication.** All 94 districts have searchable source documents and individual offline packages. Connecticut and the federal rules also retain their structured inventories: 192 provisions and supporting entries across seven collections. Independent line-by-line editorial review and actual iOS verification remain open. See [the content review report](docs/CONTENT-REVIEW.md).
+**Status: working release candidate, not a reviewed production publication.** All 94 districts have rule-by-rule navigation, search, bookmarks, source documents, and individual offline packages. The 93 added districts contribute **6,313 parsed draft records**, alongside the unchanged 192 federal and Connecticut provisions and supporting entries. Draft boundaries, transcription, completeness, and currency still require review. See [parsed district coverage](docs/PARSED-DISTRICTS.md) and [the content review report](docs/CONTENT-REVIEW.md).
 
 ## Run locally
 
@@ -27,7 +27,7 @@ npm run test:browser
 
 The selector includes all 94 districts plus Federal-only mode. District source views offer PDF-page navigation (HTML sections for web editions), Boolean text search, edition-bound bookmarks, original PDF access, and separate offline packages containing the text and PDFs. The source store contains 94 unique PDFs and two captured HTML editions (96 unique snapshots, 97 district document references). Oregon uses its printable web edition. Western Michigan defaults to its prior web edition and labels the forthcoming PDF separately.
 
-These automatically extracted documents are **source-only**, without reviewed rule boundaries, civil-only filtering, or federal/local relationship mappings. Combined rulebooks retain criminal and other materials. Source currency and completeness of separately published amendments remain unreviewed. Connecticut’s structured reader remains the default there; its source document is also available.
+District navigation opens the structured reader. The 93 added collections carry a **Parsed draft** notice and a link to compare each rule with its source page. Hash-bound profiles select civil or generally applicable rule ranges; some general collections also govern criminal practice, as their scope notes explain. Material outside those ranges and separately published supplements remain in the source library. Drafts preserve embedded notes and running headers, with page anchors rather than inferred legal subsection links. They do not add reviewed federal/local relationships. Source currency and completeness of separately published amendments remain unreviewed.
 
 See [the source inventory](docs/DISTRICT-SOURCES.md) and [district loading guide](docs/ADDING-A-DISTRICT.md).
 
@@ -42,12 +42,13 @@ See [the source inventory](docs/DISTRICT-SOURCES.md) and [district loading guide
 | Connecticut local civil rules | 62 |
 | Connecticut magistrate rules | 3 |
 | Connecticut civil forms and standing orders | 8 |
+| Additional district rules (93 parsed draft collections) | 6,313 |
 
 Reserved ranges remain grouped. Rule numbers are strings. Local provisions do not replace federal text. Four source-citation relationships have been checked and linked in both directions; the rest of the mapping review is explicitly incomplete. In Connecticut’s structured collections, the criminal collection and criminal-only discovery order are excluded from civil navigation and search. The separate source document preserves the entire PDF.
 
 ## Features
 
-- All 94 district source libraries, lazy-loaded page text, and per-district offline PDFs.
+- All 94 district rule readers and source libraries, lazy-loaded text, and per-district offline PDFs.
 - Hierarchical federal contents, independent local browsing, decimal and lettered rule identifiers.
 - Edition-pinned hash routes and subsection links; explicit shared district context takes precedence over saved preferences.
 - Federal/local comparison panels with source evidence; source URLs and PDF page provenance.
@@ -69,6 +70,8 @@ npm run check
 ```
 
 The nationwide source-only library can be replayed offline with `python scripts/load-district-library.py` after installing the pinned requirements. It writes `data/source-library.json` and `data/source-library/`, and verifies original snapshot hashes. Initial acquisition is documented in the district loading guide. It does not modify canonical provisions.
+
+Nationwide draft parsing uses a separate environment with `requirements-structured.txt` (PDFium 5.11.0 and pypdf 6.10.0). Run `python scripts/parse-districts.py` to stage a fresh extraction in `candidate/parsed-districts`. The saved drafts and page-slice evidence live in `data/parsed-districts/`; the build validates them and combines them with the original corpus for the reader and district-scoped search. See [the replay and review workflow](docs/ADDING-A-DISTRICT.md). No network access is needed for replay.
 
 Structured ingestion writes a candidate; it never overwrites `data/`. New PDF hashes are refused until the source-specific boundary profile has been reviewed. See [ingestion and maintenance](docs/INGESTION.md) for acquisition, offline import, review and promotion.
 

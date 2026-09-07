@@ -1,0 +1,1842 @@
+{
+  "version": 1,
+  "reviewStatus": "parsed-draft",
+  "districts": [
+    {
+      "districtId": "almd",
+      "rules": 42,
+      "first": "1.1",
+      "last": "83.5",
+      "coverage": {
+        "startPage": 4,
+        "startOffset": 986,
+        "endPage": 35,
+        "endOffset": 2028,
+        "ruleCount": 42,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "alnd",
+      "rules": 16,
+      "first": "3.1",
+      "last": "83.2",
+      "coverage": {
+        "startPage": 1,
+        "startOffset": 99,
+        "endPage": 14,
+        "endOffset": 2958,
+        "ruleCount": 16,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "alsd",
+      "rules": 32,
+      "first": "1",
+      "last": "105",
+      "coverage": {
+        "startPage": 35,
+        "startOffset": 203,
+        "endPage": 63,
+        "endOffset": 1536,
+        "ruleCount": 32,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "akd",
+      "rules": 60,
+      "first": "1.1",
+      "last": "86.1",
+      "coverage": {
+        "startPage": 9,
+        "startOffset": 79,
+        "endPage": 51,
+        "endOffset": 1573,
+        "ruleCount": 60,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "azd",
+      "rules": 67,
+      "first": "1.1",
+      "last": "83.10",
+      "coverage": {
+        "startPage": 2,
+        "startOffset": 74,
+        "endPage": 145,
+        "endOffset": 125,
+        "ruleCount": 67,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "ared",
+      "rules": 37,
+      "first": "4.1",
+      "last": "83.8",
+      "coverage": {
+        "startPage": 1,
+        "startOffset": 98,
+        "endPage": 68,
+        "endOffset": 1077,
+        "ruleCount": 37,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "arwd",
+      "rules": 37,
+      "first": "4.1",
+      "last": "83.8",
+      "coverage": {
+        "startPage": 4,
+        "startOffset": 0,
+        "endPage": 56,
+        "endOffset": 965,
+        "ruleCount": 37,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "cacd",
+      "rules": 506,
+      "first": "1-1",
+      "last": "85-1",
+      "coverage": {
+        "startPage": 20,
+        "startOffset": 223,
+        "endPage": 157,
+        "endOffset": 983,
+        "ruleCount": 506,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "caed",
+      "rules": 86,
+      "first": "100",
+      "last": "305",
+      "coverage": {
+        "startPage": 30,
+        "startOffset": 16,
+        "endPage": 177,
+        "endOffset": 2306,
+        "ruleCount": 86,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "cand",
+      "rules": 115,
+      "first": "1-1",
+      "last": "83-2",
+      "coverage": {
+        "startPage": 9,
+        "startOffset": 100,
+        "endPage": 81,
+        "endOffset": 1402,
+        "ruleCount": 115,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "casd",
+      "rules": 70,
+      "first": "1.1",
+      "last": "F.1",
+      "coverage": {
+        "startPage": 6,
+        "startOffset": 463,
+        "endPage": 74,
+        "endOffset": 1843,
+        "ruleCount": 70,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "cod",
+      "rules": 50,
+      "first": "1.1",
+      "last": "84.1",
+      "coverage": {
+        "startPage": 13,
+        "startOffset": 122,
+        "endPage": 42,
+        "endOffset": 2204,
+        "ruleCount": 50,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "ded",
+      "rules": 68,
+      "first": "1.1",
+      "last": "83.7",
+      "coverage": {
+        "startPage": 7,
+        "startOffset": 26,
+        "endPage": 47,
+        "endOffset": 1466,
+        "ruleCount": 68,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "dcd",
+      "rules": 81,
+      "first": "1.1",
+      "last": "85",
+      "coverage": {
+        "startPage": 21,
+        "startOffset": 15,
+        "endPage": 122,
+        "endOffset": 1557,
+        "ruleCount": 81,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "flmd",
+      "rules": 42,
+      "first": "1.01",
+      "last": "7.03",
+      "coverage": {
+        "startPage": 4,
+        "startOffset": 72,
+        "endPage": 47,
+        "endOffset": 534,
+        "ruleCount": 42,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "flnd",
+      "rules": 43,
+      "first": "1.1",
+      "last": "88.3",
+      "coverage": {
+        "startPage": 8,
+        "startOffset": 94,
+        "endPage": 41,
+        "endOffset": 1980,
+        "ruleCount": 43,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "flsd",
+      "rules": 34,
+      "first": "1.1",
+      "last": "87.5",
+      "coverage": {
+        "startPage": 15,
+        "startOffset": 806,
+        "endPage": 63,
+        "endOffset": 2890,
+        "ruleCount": 34,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "gamd",
+      "rules": 25,
+      "first": "3",
+      "last": "87",
+      "coverage": {
+        "startPage": 13,
+        "startOffset": 2,
+        "endPage": 62,
+        "endOffset": 1100,
+        "ruleCount": 25,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "gand",
+      "rules": 110,
+      "first": "1",
+      "last": "84.1",
+      "coverage": {
+        "startPage": 15,
+        "startOffset": 66,
+        "endPage": 89,
+        "endOffset": 312,
+        "ruleCount": 110,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "gasd",
+      "rules": 165,
+      "first": "1",
+      "last": "83.33",
+      "coverage": {
+        "startPage": 1,
+        "startOffset": 0,
+        "endPage": 27,
+        "endOffset": 3021,
+        "ruleCount": 165,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "gud",
+      "rules": 25,
+      "first": "1",
+      "last": "79",
+      "coverage": {
+        "startPage": 1,
+        "startOffset": 61,
+        "endPage": 28,
+        "endOffset": 2231,
+        "ruleCount": 25,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "hid",
+      "rules": 87,
+      "first": "1.1",
+      "last": "8009.1",
+      "coverage": {
+        "startPage": 9,
+        "startOffset": 38,
+        "endPage": 76,
+        "endOffset": 130,
+        "ruleCount": 87,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "idd",
+      "rules": 58,
+      "first": "1.1",
+      "last": "83.8",
+      "coverage": {
+        "startPage": 5,
+        "startOffset": 0,
+        "endPage": 78,
+        "endOffset": 1977,
+        "ruleCount": 58,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "ilcd",
+      "rules": 57,
+      "first": "1.1",
+      "last": "83.16",
+      "coverage": {
+        "startPage": 7,
+        "startOffset": 2,
+        "endPage": 95,
+        "endOffset": 1422,
+        "ruleCount": 57,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "ilnd",
+      "rules": 109,
+      "first": "3.1",
+      "last": "83.58.5",
+      "coverage": {
+        "startPage": 9,
+        "startOffset": 0,
+        "endPage": 91,
+        "endOffset": 356,
+        "ruleCount": 109,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "ilsd",
+      "rules": 41,
+      "first": "1.1",
+      "last": "83.14",
+      "coverage": {
+        "startPage": 5,
+        "startOffset": 26,
+        "endPage": 59,
+        "endOffset": 241,
+        "ruleCount": 41,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "innd",
+      "rules": 55,
+      "first": "1-1",
+      "last": "200-1",
+      "coverage": {
+        "startPage": 4,
+        "startOffset": 51,
+        "endPage": 82,
+        "endOffset": 670,
+        "ruleCount": 55,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "insd",
+      "rules": 66,
+      "first": "1-1",
+      "last": "87",
+      "coverage": {
+        "startPage": 5,
+        "startOffset": 2,
+        "endPage": 90,
+        "endOffset": 871,
+        "ruleCount": 66,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "iand",
+      "rules": 41,
+      "first": "1",
+      "last": "8001",
+      "coverage": {
+        "startPage": 12,
+        "startOffset": 14,
+        "endPage": 82,
+        "endOffset": 32,
+        "ruleCount": 41,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "iasd",
+      "rules": 41,
+      "first": "1",
+      "last": "8001",
+      "coverage": {
+        "startPage": 12,
+        "startOffset": 14,
+        "endPage": 82,
+        "endOffset": 32,
+        "ruleCount": 41,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "ksd",
+      "rules": 115,
+      "first": "1.1",
+      "last": "83.8.13",
+      "coverage": {
+        "startPage": 11,
+        "startOffset": 21,
+        "endPage": 88,
+        "endOffset": 1919,
+        "ruleCount": 115,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "kyed",
+      "rules": 50,
+      "first": "1.1",
+      "last": "86.1",
+      "coverage": {
+        "startPage": 4,
+        "startOffset": 38,
+        "endPage": 23,
+        "endOffset": 1592,
+        "ruleCount": 50,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "kywd",
+      "rules": 50,
+      "first": "1.1",
+      "last": "86.1",
+      "coverage": {
+        "startPage": 4,
+        "startOffset": 38,
+        "endPage": 23,
+        "endOffset": 1592,
+        "ruleCount": 50,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "laed",
+      "rules": 124,
+      "first": "3.1",
+      "last": "83.5.1",
+      "coverage": {
+        "startPage": 7,
+        "startOffset": 173,
+        "endPage": 53,
+        "endOffset": 2415,
+        "ruleCount": 124,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "lamd",
+      "rules": 38,
+      "first": "3",
+      "last": "83",
+      "coverage": {
+        "startPage": 7,
+        "startOffset": 20,
+        "endPage": 57,
+        "endOffset": 565,
+        "ruleCount": 38,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "lawd",
+      "rules": 108,
+      "first": "3.1",
+      "last": "83.4.4",
+      "coverage": {
+        "startPage": 7,
+        "startOffset": 46,
+        "endPage": 34,
+        "endOffset": 2321,
+        "ruleCount": 108,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "med",
+      "rules": 47,
+      "first": "1",
+      "last": "83.7",
+      "coverage": {
+        "startPage": 7,
+        "startOffset": 33,
+        "endPage": 92,
+        "endOffset": 1306,
+        "ruleCount": 47,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "mdd",
+      "rules": 12,
+      "first": "101",
+      "last": "113",
+      "coverage": {
+        "startPage": 11,
+        "startOffset": 80,
+        "endPage": 45,
+        "endOffset": 1454,
+        "ruleCount": 12,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "mad",
+      "rules": 80,
+      "first": "1.1",
+      "last": "83.6.11",
+      "coverage": {
+        "startPage": 6,
+        "startOffset": 2,
+        "endPage": 131,
+        "endOffset": 1710,
+        "ruleCount": 80,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "mied",
+      "rules": 72,
+      "first": "1.1",
+      "last": "83.50",
+      "coverage": {
+        "startPage": 12,
+        "startOffset": 61,
+        "endPage": 126,
+        "endOffset": 2547,
+        "ruleCount": 72,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "miwd",
+      "rules": 19,
+      "first": "1",
+      "last": "83",
+      "coverage": {
+        "startPage": 2,
+        "startOffset": 0,
+        "endPage": 19,
+        "endOffset": 1359,
+        "ruleCount": 19,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "mnd",
+      "rules": 60,
+      "first": "1.1",
+      "last": "83.13",
+      "coverage": {
+        "startPage": 24,
+        "startOffset": 2,
+        "endPage": 142,
+        "endOffset": 2586,
+        "ruleCount": 60,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "msnd",
+      "rules": 33,
+      "first": "1",
+      "last": "83.8",
+      "coverage": {
+        "startPage": 18,
+        "startOffset": 2,
+        "endPage": 64,
+        "endOffset": 829,
+        "ruleCount": 33,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "mssd",
+      "rules": 33,
+      "first": "1",
+      "last": "83.8",
+      "coverage": {
+        "startPage": 18,
+        "startOffset": 2,
+        "endPage": 64,
+        "endOffset": 829,
+        "ruleCount": 33,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "moed",
+      "rules": 70,
+      "first": "1.01",
+      "last": "13.05",
+      "coverage": {
+        "startPage": 8,
+        "startOffset": 39,
+        "endPage": 109,
+        "endOffset": 1136,
+        "ruleCount": 70,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "mowd",
+      "rules": 43,
+      "first": "1.1",
+      "last": "83.10",
+      "coverage": {
+        "startPage": 12,
+        "startOffset": 21,
+        "endPage": 52,
+        "endOffset": 2516,
+        "ruleCount": 43,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "mtd",
+      "rules": 73,
+      "first": "1.1",
+      "last": "83.9",
+      "coverage": {
+        "startPage": 6,
+        "startOffset": 110,
+        "endPage": 88,
+        "endOffset": 1507,
+        "ruleCount": 73,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "ned",
+      "rules": 62,
+      "first": "1.1",
+      "last": "85.1",
+      "coverage": {
+        "startPage": 9,
+        "startOffset": 120,
+        "endPage": 63,
+        "endOffset": 1132,
+        "ruleCount": 62,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "nvd",
+      "rules": 69,
+      "first": "1-1",
+      "last": "81-1",
+      "coverage": {
+        "startPage": 47,
+        "startOffset": 26,
+        "endPage": 81,
+        "endOffset": 3024,
+        "ruleCount": 69,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "nhd",
+      "rules": 97,
+      "first": "1.1",
+      "last": "83.17",
+      "coverage": {
+        "startPage": 27,
+        "startOffset": 24,
+        "endPage": 92,
+        "endOffset": 24,
+        "ruleCount": 97,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "njd",
+      "rules": 83,
+      "first": "1.1",
+      "last": "601.7",
+      "coverage": {
+        "startPage": 9,
+        "startOffset": 21,
+        "endPage": 112,
+        "endOffset": 1127,
+        "ruleCount": 83,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "nmd",
+      "rules": 83,
+      "first": "1.1",
+      "last": "83.13",
+      "coverage": {
+        "startPage": 15,
+        "startOffset": 150,
+        "endPage": 39,
+        "endOffset": 2308,
+        "ruleCount": 83,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "nyed",
+      "rules": 71,
+      "first": "1.1",
+      "last": "87.1",
+      "coverage": {
+        "startPage": 11,
+        "startOffset": 20,
+        "endPage": 77,
+        "endOffset": 942,
+        "ruleCount": 71,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "nynd",
+      "rules": 154,
+      "first": "1.1",
+      "last": "86.1",
+      "coverage": {
+        "startPage": 17,
+        "startOffset": 554,
+        "endPage": 107,
+        "endOffset": 2164,
+        "ruleCount": 154,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "nysd",
+      "rules": 71,
+      "first": "1.1",
+      "last": "87.1",
+      "coverage": {
+        "startPage": 11,
+        "startOffset": 20,
+        "endPage": 77,
+        "endOffset": 942,
+        "ruleCount": 71,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "nywd",
+      "rules": 42,
+      "first": "1.1",
+      "last": "83.9",
+      "coverage": {
+        "startPage": 9,
+        "startOffset": 2,
+        "endPage": 69,
+        "endOffset": 200,
+        "ruleCount": 42,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "nced",
+      "rules": 128,
+      "first": "1.1",
+      "last": "100.4",
+      "coverage": {
+        "startPage": 14,
+        "startOffset": 128,
+        "endPage": 98,
+        "endOffset": 946,
+        "ruleCount": 128,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "ncmd",
+      "rules": 79,
+      "first": "1.1",
+      "last": "83.12",
+      "coverage": {
+        "startPage": 11,
+        "startOffset": 0,
+        "endPage": 73,
+        "endOffset": 2,
+        "ruleCount": 79,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "ncwd",
+      "rules": 28,
+      "first": "1.1",
+      "last": "83.3",
+      "coverage": {
+        "startPage": 5,
+        "startOffset": 36,
+        "endPage": 56,
+        "endOffset": 789,
+        "ruleCount": 28,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "ndd",
+      "rules": 17,
+      "first": "3.1",
+      "last": "72.1",
+      "coverage": {
+        "startPage": 31,
+        "startOffset": 41,
+        "endPage": 59,
+        "endOffset": 2148,
+        "ruleCount": 17,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "nmid",
+      "rules": 46,
+      "first": "1.1",
+      "last": "83.6",
+      "coverage": {
+        "startPage": 6,
+        "startOffset": 21,
+        "endPage": 52,
+        "endOffset": 130,
+        "ruleCount": 46,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "ohnd",
+      "rules": 79,
+      "first": "1.1",
+      "last": "83.10",
+      "coverage": {
+        "startPage": 15,
+        "startOffset": 3,
+        "endPage": 129,
+        "endOffset": 1307,
+        "ruleCount": 79,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "ohsd",
+      "rules": 60,
+      "first": "1.1",
+      "last": "83.6",
+      "coverage": {
+        "startPage": 7,
+        "startOffset": 41,
+        "endPage": 42,
+        "endOffset": 2181,
+        "ruleCount": 60,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "oked",
+      "rules": 63,
+      "first": "1.1",
+      "last": "84.1",
+      "coverage": {
+        "startPage": 7,
+        "startOffset": 43,
+        "endPage": 52,
+        "endOffset": 1311,
+        "ruleCount": 63,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "oknd",
+      "rules": 85,
+      "first": "3",
+      "last": "84-1",
+      "coverage": {
+        "startPage": 26,
+        "startOffset": 94,
+        "endPage": 69,
+        "endOffset": 2837,
+        "ruleCount": 85,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "okwd",
+      "rules": 68,
+      "first": "1.1",
+      "last": "83.6",
+      "coverage": {
+        "startPage": 15,
+        "startOffset": 110,
+        "endPage": 53,
+        "endOffset": 1389,
+        "ruleCount": 68,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "ord",
+      "rules": 178,
+      "first": "1",
+      "last": "100",
+      "coverage": {
+        "startPage": 2,
+        "startOffset": 0,
+        "endPage": 45,
+        "endOffset": 8088,
+        "ruleCount": 178,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "paed",
+      "rules": 48,
+      "first": "1.1",
+      "last": "83.6.1",
+      "coverage": {
+        "startPage": 5,
+        "startOffset": 196,
+        "endPage": 66,
+        "endOffset": 1340,
+        "ruleCount": 48,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "pamd",
+      "rules": 245,
+      "first": "1.1",
+      "last": "83.40.7",
+      "coverage": {
+        "startPage": 12,
+        "startOffset": 119,
+        "endPage": 72,
+        "endOffset": 871,
+        "ruleCount": 245,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "pawd",
+      "rules": 49,
+      "first": "1.1",
+      "last": "2255",
+      "coverage": {
+        "startPage": 13,
+        "startOffset": 77,
+        "endPage": 80,
+        "endOffset": 2659,
+        "ruleCount": 49,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "prd",
+      "rules": 46,
+      "first": "1",
+      "last": "83M",
+      "coverage": {
+        "startPage": 5,
+        "startOffset": 4,
+        "endPage": 94,
+        "endOffset": 758,
+        "ruleCount": 46,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "rid",
+      "rules": 34,
+      "first": "5",
+      "last": "81",
+      "coverage": {
+        "startPage": 83,
+        "startOffset": 72,
+        "endPage": 117,
+        "endOffset": 1706,
+        "ruleCount": 34,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "scd",
+      "rules": 86,
+      "first": "1.01",
+      "last": "73.03",
+      "coverage": {
+        "startPage": 7,
+        "startOffset": 42,
+        "endPage": 54,
+        "endOffset": 2187,
+        "ruleCount": 86,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "sdd",
+      "rules": 41,
+      "first": "1.1",
+      "last": "83.12",
+      "coverage": {
+        "startPage": 7,
+        "startOffset": 1473,
+        "endPage": 34,
+        "endOffset": 1078,
+        "ruleCount": 41,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "tned",
+      "rules": 69,
+      "first": "1.1",
+      "last": "83.13",
+      "coverage": {
+        "startPage": 4,
+        "startOffset": 45,
+        "endPage": 110,
+        "endOffset": 945,
+        "ruleCount": 69,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "tnmd",
+      "rules": 39,
+      "first": "1.01",
+      "last": "83.08",
+      "coverage": {
+        "startPage": 11,
+        "startOffset": 18,
+        "endPage": 42,
+        "endOffset": 2862,
+        "ruleCount": 39,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "tnwd",
+      "rules": 42,
+      "first": "1.1",
+      "last": "83.13",
+      "coverage": {
+        "startPage": 6,
+        "startOffset": 19,
+        "endPage": 51,
+        "endOffset": 1405,
+        "ruleCount": 42,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "txed",
+      "rules": 29,
+      "first": "1",
+      "last": "83",
+      "coverage": {
+        "startPage": 4,
+        "startOffset": 101,
+        "endPage": 28,
+        "endOffset": 303,
+        "ruleCount": 29,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "txnd",
+      "rules": 82,
+      "first": "1.1",
+      "last": "83.18",
+      "coverage": {
+        "startPage": 8,
+        "startOffset": 119,
+        "endPage": 36,
+        "endOffset": 1217,
+        "ruleCount": 82,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "txsd",
+      "rules": 20,
+      "first": "3",
+      "last": "83",
+      "coverage": {
+        "startPage": 9,
+        "startOffset": 26,
+        "endPage": 23,
+        "endOffset": 1488,
+        "ruleCount": 20,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "txwd",
+      "rules": 20,
+      "first": "1",
+      "last": "88",
+      "coverage": {
+        "startPage": 12,
+        "startOffset": 2,
+        "endPage": 38,
+        "endOffset": 243,
+        "ruleCount": 20,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "utd",
+      "rules": 62,
+      "first": "1-1",
+      "last": "83-6.7",
+      "coverage": {
+        "startPage": 5,
+        "startOffset": 70,
+        "endPage": 100,
+        "endOffset": 1271,
+        "ruleCount": 62,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "vtd",
+      "rules": 40,
+      "first": "1",
+      "last": "86",
+      "coverage": {
+        "startPage": 9,
+        "startOffset": 15,
+        "endPage": 52,
+        "endOffset": 1472,
+        "ruleCount": 40,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "vid",
+      "rules": 54,
+      "first": "1.1",
+      "last": "83.2",
+      "coverage": {
+        "startPage": 1,
+        "startOffset": 580,
+        "endPage": 44,
+        "endOffset": 2308,
+        "ruleCount": 54,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "vaed",
+      "rules": 29,
+      "first": "1",
+      "last": "83.6",
+      "coverage": {
+        "startPage": 6,
+        "startOffset": 20,
+        "endPage": 46,
+        "endOffset": 2110,
+        "ruleCount": 29,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "vawd",
+      "rules": 21,
+      "first": "1",
+      "last": "83",
+      "coverage": {
+        "startPage": 7,
+        "startOffset": 98,
+        "endPage": 42,
+        "endOffset": 100,
+        "ruleCount": 21,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "waed",
+      "rules": 102,
+      "first": "1",
+      "last": "86",
+      "coverage": {
+        "startPage": 1,
+        "startOffset": 667,
+        "endPage": 40,
+        "endOffset": 1490,
+        "ruleCount": 102,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "wawd",
+      "rules": 82,
+      "first": "1",
+      "last": "103",
+      "coverage": {
+        "startPage": 7,
+        "startOffset": 14,
+        "endPage": 146,
+        "endOffset": 309,
+        "ruleCount": 82,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "wvnd",
+      "rules": 35,
+      "first": "1.01",
+      "last": "78.01",
+      "coverage": {
+        "startPage": 63,
+        "startOffset": 69,
+        "endPage": 111,
+        "endOffset": 724,
+        "ruleCount": 35,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "wvsd",
+      "rules": 86,
+      "first": "3.1",
+      "last": "83.15",
+      "coverage": {
+        "startPage": 13,
+        "startOffset": 47,
+        "endPage": 64,
+        "endOffset": 1130,
+        "ruleCount": 86,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "wied",
+      "rules": 24,
+      "first": "1",
+      "last": "100",
+      "coverage": {
+        "startPage": 24,
+        "startOffset": 41,
+        "endPage": 55,
+        "endOffset": 2826,
+        "ruleCount": 24,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "wiwd",
+      "rules": 5,
+      "first": "1",
+      "last": "5",
+      "coverage": {
+        "startPage": 1,
+        "startOffset": 86,
+        "endPage": 2,
+        "endOffset": 1747,
+        "ruleCount": 5,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    },
+    {
+      "districtId": "wyd",
+      "rules": 67,
+      "first": "1.1",
+      "last": "86",
+      "coverage": {
+        "startPage": 10,
+        "startOffset": 40,
+        "endPage": 95,
+        "endOffset": 367,
+        "ruleCount": 67,
+        "tocReconciled": false,
+        "editorialReviewComplete": false,
+        "currencyReviewed": false,
+        "flags": [
+          "Source extraction contains unresolved characters; consult the original publication."
+        ],
+        "excluded": "Source material outside the recorded range remains available in the district source library."
+      }
+    }
+  ]
+}

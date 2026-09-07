@@ -1,12 +1,20 @@
 # Content and verification report
 
-Review date: September 6, 2026. **Initial release candidate.** This report does not certify the complete corpus as editorially approved.
+Verification updated: September 7, 2026. **Release candidate.** This report does not certify the complete corpus as editorially approved.
 
 ## Source evidence
 
 The official Federal Rules PDF has 142 pages. Its foreword says it is amended through December 1, 2025. The Connecticut combined PDF has 174 pages; its cover directs readers to individual rule pages for amendments after December 2009. The filename is not used as an effective date. Retrieval timestamps, SHA-256 and byte counts are in `sources/snapshots/manifest.json` and canonical `data/sources.json`.
 
-Both complete rule-heading sequences were reconciled against their independent front-matter tables of contents. Machine-readable coverage and exclusions are in `data/inventory.json`; original PDF page indices are zero-based there. This app includes 192 entries, including reserved/abrogated records and supporting material. No missing legal wording was generated.
+Both original rule-heading sequences were reconciled against their independent front-matter tables of contents. Machine-readable coverage and exclusions are in `data/inventory.json`; original PDF page indices are zero-based there. Those collections retain 192 entries, including reserved/abrogated records and supporting material. The app additionally includes 6,313 parsed draft records from 93 other districts, for 6,505 total entries. The additional drafts have not received complete TOC reconciliation or editorial review. No missing legal wording was generated.
+
+## Nationwide parsed drafts
+
+All 94 districts now open a rule reader and retain their original source libraries. The 93 added district collections are separately stored as drafts with hash-bound heading profiles, source offsets, and per-page text-slice evidence. Validators check exact transcription preservation without gaps or overlaps inside each selected range. A fresh extraction reproduced all 186 saved JSON files byte for byte. This demonstrates replay consistency, not legal completeness.
+
+Civil/general ranges were selected from the source publications, with separate criminal and supplemental sections excluded where the profile identifies them. Some general collections govern both civil and criminal practice, as their scope notes explain. Material outside selected ranges remains in the original source reader. Embedded notes, running headers, page labels, and forms can remain inside draft rule text. No new reviewed relationships or legal subsection anchors are inferred.
+
+Representative visual checks compared Massachusetts Rule 56.1 (physical PDF page 76), Southern Alabama's first civil headings (page 35), and Idaho Rule 1.1 (page 5) with their source renderings. Desktop and mobile parsed-reader screenshots were inspected. These checks do not replace review of all pages; PDF font mappings can also make extracted printed page labels differ from their rendering, so source navigation uses physical page positions. See [per-district coverage](PARSED-DISTRICTS.md).
 
 ## Source checks performed
 
@@ -20,7 +28,7 @@ Both complete rule-heading sequences were reconciled against their independent f
 
 The test suites cover collection counts and representative text, complex anchors, routes, Boolean/citation search, scope separation, bookmark imports, integrity corruption, interrupted downloads, quota failures, and promotion after complete verification. Desktop Chromium (1440×1000) and mobile Chromium emulation (390×844) cover navigation, source/reverse links, side-by-side comparison, search deep links, history, bookmarks, dark appearance, print styles, unsupported districts, complete offline reading/search, package removal and retained bookmarks.
 
-Axe checks are applied to the home page, the reader with its comparison expanded, and dark Settings. Automated checks identified and drove fixes to muted-text contrast, unique landmark labels and keyboard access to scrollable comparison text. Screenshots are generated in ignored `test-results/` for visual inspection. The 12 unit tests and eight desktop/mobile browser tests passed. A fresh extraction of the committed PDFs reproduced all three canonical artifacts byte for byte; line endings are explicitly LF for cross-platform replay.
+Axe checks are applied to the home page, the reader with its comparison expanded, the parsed district reader, and dark Settings. Automated checks identified and drove fixes to muted-text contrast, unique landmark labels and keyboard access to scrollable comparison text. Screenshots are generated in ignored `test-results/` for visual inspection. All 22 unit tests and 22 desktop/mobile browser tests passed, including first/last parsed-rule navigation for all 93 added districts, source comparison, bookmarks, and offline district search. Earlier fresh extraction of the original PDFs reproduced all three canonical artifacts byte for byte; line endings are explicitly LF for cross-platform replay.
 
 ## Outstanding production gates and limitations
 

@@ -1,0 +1,321 @@
+{
+  "version": 1,
+  "reviewStatus": "parsed-draft",
+  "districtId": "wiwd",
+  "sourceDocument": {
+    "id": "a538634232b78093",
+    "title": "Local Rules",
+    "format": "pdf",
+    "role": "primary",
+    "sourceUrl": "https://www.wiwd.uscourts.gov/sites/default/files/Local_Rules.pdf",
+    "sha256": "a538634232b7809314ff7baa9c1947dad3931c8dac4782083eddc2de74880ff9",
+    "bytes": 18016,
+    "retrievedAt": "2026-09-07T00:02:43.269995+00:00",
+    "snapshotPath": "sources/district-snapshots/a538634232b7809314ff7baa9c1947dad3931c8dac4782083eddc2de74880ff9.pdf",
+    "textPath": "data/source-library/a538634232b7809314ff7baa9c1947dad3931c8dac4782083eddc2de74880ff9.json",
+    "pdfPath": "data/source-pdfs/a538634232b7809314ff7baa9c1947dad3931c8dac4782083eddc2de74880ff9.pdf",
+    "pageCount": 2,
+    "reviewStatus": "source-document-only",
+    "blankTextPages": 0
+  },
+  "collection": {
+    "id": "wiwd-civil",
+    "name": "Western District of Wisconsin Local Rules",
+    "shortName": "Local rules · draft",
+    "districtId": "wiwd",
+    "scopeNote": "Civil and generally applicable local rules; unparsed supplements remain in the source library. Rule boundaries and transcription are drafts. Embedded notes, forms, and running headers may remain within rule text; subsection anchors and field-separated notes are not yet reviewed."
+  },
+  "provisions": [
+    {
+      "id": "wiwd-civil:1",
+      "collectionId": "wiwd-civil",
+      "districtId": "wiwd",
+      "number": "1",
+      "citation": "Western District of Wisconsin · Rule 1",
+      "title": "Rule 1",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-1",
+          "path": [],
+          "type": "paragraph",
+          "text": "RULE 1 (LR 83.5): ADMISSION OF LAWYERS\nA. Any lawyer licensed to practice before the highest court of any state or the District of \nColumbia is eligible for admission to practice in this court. \nB. To be admitted to the bar of this court, a lawyer must complete a verified application for \nadmission and pay the prescribed fee.\nC. Any lawyer eligible for membership in the bar of this court may, upon payment of the \nprescribed fee, move the court to proceed in a particular matter without becoming a member of the bar \nof this court.\nD. Non-resident lawyers need not retain local counsel to assist in the presentation of their \ncases unless specifically directed to do so by a judge or magistrate judge.\nE. Reciprocal Discipline\n1. When another jurisdiction enters an order of discipline against an attorney \nadmitted to practice in this court, the same discipline is automatically effective in \nthis court without further action by the court.\n2. The attorney may apply to the chief judge for modification or vacation of the \ndiscipline in this court.\n",
+          "pages": [
+            0
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wiwd-civil-parsed-v1-a538634232b78093",
+      "sourceDocumentId": "parsed-wiwd-a538634232b78093",
+      "sourceUrl": "https://www.wiwd.uscourts.gov/sites/default/files/Local_Rules.pdf",
+      "pageIndex": 0,
+      "pageSpan": [
+        0,
+        0
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wiwd-civil:2",
+      "collectionId": "wiwd-civil",
+      "districtId": "wiwd",
+      "number": "2",
+      "citation": "Western District of Wisconsin · Rule 2",
+      "title": "Rule 2",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-1",
+          "path": [],
+          "type": "paragraph",
+          "text": "RULE 2 (LR 72.1): UNITED STATES MAGISTRATE JUDGES\nA. The United States Magistrate Judges in this district are designated to hear and \ndetermine any pretrial matter pending before this court, except a motion for injunctive relief, for \njudgment on the pleadings, for summary judgment, to dismiss or quash an indictment or information \nmade by a defendant, to suppress evidence in a criminal case, to dismiss or to permit maintenance of a \nclass action, to dismiss for failure to state a claim upon which relief can be granted, or to dismiss an \naction involuntarily. \nB. The United States Magistrate Judges in this district are designated to conduct hearings, \nincluding evidentiary hearings, and to submit to a judge of this court proposed findings of fact and \nrecommendations for the disposition by the judge, of any motion excepted in the preceding paragraph \nand of applications for post-trial relief made by individuals convicted of criminal offenses. \nC. All civil cases in which the parties have consented pursuant to 28 U.S.C. § 636(c)(1) and \n(2) to have a United States Magistrate Judge exercise jurisdiction are hereby referred to the full-time \nUnited States Magistrate Judge stationed at Madison, Wisconsin. This order does not limit the power \nof this court under 28 U.S.C. § 636(c)(6) to vacate the reference of civil cases to a magistrate judge. \nD. The United States Magistrate Judges in this district are designated to perform any \nadditional duty that is not inconsistent with the Constitution or laws of the United States. ",
+          "pages": [
+            0
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-2",
+          "path": [],
+          "type": "paragraph",
+          "text": "5/2018\n",
+          "pages": [
+            1
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wiwd-civil-parsed-v1-a538634232b78093",
+      "sourceDocumentId": "parsed-wiwd-a538634232b78093",
+      "sourceUrl": "https://www.wiwd.uscourts.gov/sites/default/files/Local_Rules.pdf",
+      "pageIndex": 0,
+      "pageSpan": [
+        0,
+        1
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wiwd-civil:3",
+      "collectionId": "wiwd-civil",
+      "districtId": "wiwd",
+      "number": "3",
+      "citation": "Western District of Wisconsin · Rule 3",
+      "title": "Rule 3",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-2",
+          "path": [],
+          "type": "paragraph",
+          "text": "RULE 3 (LR 16.6 CJ): ALTERNATIVE DISPUTE RESOLUTION\nA. Litigants are to consider the use of alternative dispute resolution (ADR) within thirty days \nof defendants' appearance.\nB. The clerk of court shall administer the ADR program which procedures shall be \nconfidential. Any disclosure of confidential dispute resolution communications is prohibited.\nC. This court provides the services of its clerk to act as mediator in civil cases without \nadditional compensation. Prior to the commencement of mediation any party may move to disqualify \nthe mediator for any reason. Litigants are free to engage in other forms of available ADR outside the \ncourt which will not require any scheduling change in the trial and pretrial schedules.\nD. The following cases are exempt from the provisions of this rule:\n1 Those in which the plaintiff is proceeding pro se.\n2. Collection and United States mortgage foreclosure actions. \n3. Social Security appeals.\n4. All matters related to bankruptcy proceedings, with the exception of \nadversary proceedings. \nE. The court will not authorize a referral to arbitration under Section 654 of the Alternative \nDispute Resolution Act unless the parties dismiss the action without prejudice pending the results of the \narbitration.\n",
+          "pages": [
+            1
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wiwd-civil-parsed-v1-a538634232b78093",
+      "sourceDocumentId": "parsed-wiwd-a538634232b78093",
+      "sourceUrl": "https://www.wiwd.uscourts.gov/sites/default/files/Local_Rules.pdf",
+      "pageIndex": 1,
+      "pageSpan": [
+        1,
+        1
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wiwd-civil:4",
+      "collectionId": "wiwd-civil",
+      "districtId": "wiwd",
+      "number": "4",
+      "citation": "Western District of Wisconsin · Rule 4",
+      "title": "Rule 4",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-2",
+          "path": [],
+          "type": "paragraph",
+          "text": "RULE 4 (LR 47.2): CONTACTING JURORS\nNo lawyer or party or person acting on their behalf shall contact any juror serving in this court, \neither before or after impanelment, without the prior permission of the trial judge or magistrate judge. \n",
+          "pages": [
+            1
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wiwd-civil-parsed-v1-a538634232b78093",
+      "sourceDocumentId": "parsed-wiwd-a538634232b78093",
+      "sourceUrl": "https://www.wiwd.uscourts.gov/sites/default/files/Local_Rules.pdf",
+      "pageIndex": 1,
+      "pageSpan": [
+        1,
+        1
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wiwd-civil:5",
+      "collectionId": "wiwd-civil",
+      "districtId": "wiwd",
+      "number": "5",
+      "citation": "Western District of Wisconsin · Rule 5",
+      "title": "Rule 5",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-2",
+          "path": [],
+          "type": "paragraph",
+          "text": "RULE 5 (LR 5.1): FILING AND SERVICE BY ELECTRONIC MEANS \nUnless otherwise ordered by the court, papers shall be filed, signed and served electronically as \nrequired by the Court's Administrative Procedures for Electronic Filing and Service.",
+          "pages": [
+            1
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wiwd-civil-parsed-v1-a538634232b78093",
+      "sourceDocumentId": "parsed-wiwd-a538634232b78093",
+      "sourceUrl": "https://www.wiwd.uscourts.gov/sites/default/files/Local_Rules.pdf",
+      "pageIndex": 1,
+      "pageSpan": [
+        1,
+        1
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    }
+  ],
+  "evidence": [
+    {
+      "number": "1",
+      "heading": "RULE 1 (LR 83.5): ADMISSION OF LAWYERS",
+      "page": 1,
+      "offset": 86,
+      "slices": [
+        {
+          "page": 1,
+          "start": 86,
+          "end": 1139,
+          "sha256": "a60a7a8092984709a96816fc7ac5087d891c5c86f9f4a5719f179dfcbb62ad33"
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "heading": "RULE 2 (LR 72.1): UNITED STATES MAGISTRATE JUDGES",
+      "page": 1,
+      "offset": 1139,
+      "slices": [
+        {
+          "page": 1,
+          "start": 1139,
+          "end": 2682,
+          "sha256": "8ca238f31ca641f9cb4a917f9526f77e45592a53c309ea331a7843aba5dec001"
+        },
+        {
+          "page": 2,
+          "start": 0,
+          "end": 7,
+          "sha256": "3fed646076994a8c8d61460e338e3fcab83f959cd841d3e899614ae4ed8069bb"
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "heading": "RULE 3 (LR 16.6 CJ): ALTERNATIVE DISPUTE RESOLUTION",
+      "page": 2,
+      "offset": 7,
+      "slices": [
+        {
+          "page": 2,
+          "start": 7,
+          "end": 1265,
+          "sha256": "b5765ee3b985beddf0909ca0cc887bb49a717d8dbd056603751802fb74d26c2c"
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "heading": "RULE 4 (LR 47.2): CONTACTING JURORS",
+      "page": 2,
+      "offset": 1265,
+      "slices": [
+        {
+          "page": 2,
+          "start": 1265,
+          "end": 1507,
+          "sha256": "29de44f2dea7cdc271d8b31323e84621aac6af11e45b260fe20e2b2284b13798"
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "heading": "RULE 5 (LR 5.1): FILING AND SERVICE BY ELECTRONIC MEANS",
+      "page": 2,
+      "offset": 1507,
+      "slices": [
+        {
+          "page": 2,
+          "start": 1507,
+          "end": 1747,
+          "sha256": "53bd093731ec609886164e048e78d9eaf8b442b93abcaf0f97dca973f858b21f"
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "startPage": 1,
+    "startOffset": 86,
+    "endPage": 2,
+    "endOffset": 1747,
+    "ruleCount": 5,
+    "tocReconciled": false,
+    "editorialReviewComplete": false,
+    "currencyReviewed": false,
+    "flags": [],
+    "excluded": "Source material outside the recorded range remains available in the district source library."
+  },
+  "transcriptionSha256": "2e366fb0681678d811c23fe1b8123ed66ef0b3659e4a6701cee37bdcab9e3d9b"
+}

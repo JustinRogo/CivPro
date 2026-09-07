@@ -22,6 +22,7 @@ test('all districts selectable, source navigation, bookmarks, search, mobile lay
   await page.goto('./#/district/ctd/civil/rule/56?district=ctd');
   await expect(page.locator('#district option')).toHaveCount(95);
   await page.locator('#district').selectOption('mad');
+  await page.getByRole('link',{name:'Open district source documents'}).click();
   await expect(page.locator('.source-page')).toBeVisible();
   await expect(page.getByRole('heading',{name:'District of Massachusetts',exact:true})).toBeVisible();
   await expect(page.getByRole('link',{name:'Open stored PDF'})).toBeVisible();
@@ -38,7 +39,7 @@ test('all districts selectable, source navigation, bookmarks, search, mobile lay
   await page.goto('./#/bookmarks');await expect(page.locator('.bookmark-row')).toHaveCount(1);
   await page.locator('.bookmark-row a').click();await expect(page.locator('.source-page h2')).toHaveText('Page 20');
   await page.goto('./#/search?q=%22summary%20judgment%22&district=mad&scope=district');
-  await expect(page.locator('#source-results .source-result').first()).toBeVisible();
+  await expect(page.locator('.search-result').first()).toBeVisible();
   await page.locator('#district').selectOption('ctd');
   await expect(page.locator('#source-results')).toBeEmpty();
   expect(errors).toEqual([]);
@@ -52,6 +53,7 @@ test('HTML sources and upcoming editions remain distinguishable',async({page})=>
   await page.locator('#source-query').fill('discovery');await page.getByRole('button',{name:'Search document'}).click();
   await expect(page.locator('.source-result').first()).toBeVisible();
   await page.locator('#district').selectOption('miwd');
+  await page.getByRole('link',{name:'Open district source documents'}).click();
   await expect(page.locator('.source-page h2')).toHaveText('Section 1');
   await expect(page.getByRole('link',{name:'Official web edition'})).toBeVisible();
   await page.locator('#source-document').selectOption({index:1});
@@ -71,5 +73,6 @@ test('district package serves unvisited text and the PDF offline; other district
   await page.locator('#source-query').fill('discovery');await page.getByRole('button',{name:'Search document'}).click();
   await expect(page.locator('.source-result').first()).toBeVisible();
   await page.locator('#district').selectOption('alnd');
+  await page.locator('.rule-row').first().click();
   await expect(page.getByRole('heading',{name:'This page is unavailable'})).toBeVisible();
 });

@@ -1,0 +1,2611 @@
+{
+  "version": 1,
+  "reviewStatus": "parsed-draft",
+  "districtId": "sdd",
+  "sourceDocument": {
+    "id": "2db6120e6edcc37e",
+    "title": "Civil Local Rules (Complete Set)",
+    "format": "pdf",
+    "role": "primary",
+    "sourceUrl": "https://www.sdd.uscourts.gov/sites/sdd/files/Civil%20Local%20Rules%20-%20final%2C%20approved.pdf",
+    "sha256": "2db6120e6edcc37e1de5b70ed802e39611a00ef1c4e14b488cfc263587cf257d",
+    "bytes": 402130,
+    "retrievedAt": "2026-09-07T00:02:12.025960+00:00",
+    "snapshotPath": "sources/district-snapshots/2db6120e6edcc37e1de5b70ed802e39611a00ef1c4e14b488cfc263587cf257d.pdf",
+    "textPath": "data/source-library/2db6120e6edcc37e1de5b70ed802e39611a00ef1c4e14b488cfc263587cf257d.json",
+    "pdfPath": "data/source-pdfs/2db6120e6edcc37e1de5b70ed802e39611a00ef1c4e14b488cfc263587cf257d.pdf",
+    "pageCount": 34,
+    "reviewStatus": "source-document-only",
+    "blankTextPages": 0
+  },
+  "collection": {
+    "id": "sdd-civil",
+    "name": "District of South Dakota Local Rules",
+    "shortName": "Local rules · draft",
+    "districtId": "sdd",
+    "scopeNote": "Civil and generally applicable local rules; unparsed supplements remain in the source library. Rule boundaries and transcription are drafts. Embedded notes, forms, and running headers may remain within rule text; subsection anchors and field-separated notes are not yet reviewed."
+  },
+  "provisions": [
+    {
+      "id": "sdd-civil:1.1",
+      "collectionId": "sdd-civil",
+      "districtId": "sdd",
+      "number": "1.1",
+      "citation": "District of South Dakota · Rule 1.1",
+      "title": "SCOPE OF THE RULES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-7",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 1.1 SCOPE OF THE RULES \nA. Citation Form. The local civil rules are to be cited as AD.S.D. Civ. LR .@\nB. Scope and Effective Date. The local civil rules govern all civil proceedings in \nthe District of South Dakota to the extent they are not inconsistent with any \nstatute or law of the United States or any rule or order of the Supreme Court \nof the United States. These local civil rules become effective after the comment \nperiod expires and upon the placement on court’s official website. ",
+          "pages": [
+            6
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-8",
+          "path": [],
+          "type": "paragraph",
+          "text": "2 \n2/28/2025 \n \nC. Relationship to Prior Rules; Actions Pending on Effective Date. These \nrules supersede all previous rules promulgated by this court or any judge of \nthis court, other than standing orders. They govern all applicable civil \nproceedings brought in this court after they take effect. They also apply to all \nproceedings pending at the time they take effect, except to the extent that, in \nthe opinion of the court, the application thereof would not be feasible or would \nwork injustice, in which event the former rules will govern. Any judge may \nestablish and enforce standard operating procedures not in conflict with these \nlocal rules or the Federal Rules of Civil Procedure. \n",
+          "pages": [
+            7
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "sdd-civil-parsed-v1-2db6120e6edcc37e",
+      "sourceDocumentId": "parsed-sdd-2db6120e6edcc37e",
+      "sourceUrl": "https://www.sdd.uscourts.gov/sites/sdd/files/Civil%20Local%20Rules%20-%20final%2C%20approved.pdf",
+      "pageIndex": 6,
+      "pageSpan": [
+        6,
+        7
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "sdd-civil:5.1",
+      "collectionId": "sdd-civil",
+      "districtId": "sdd",
+      "number": "5.1",
+      "citation": "District of South Dakota · Rule 5.1",
+      "title": "SERVING AND FILING PLEADINGS AND OTHER PAPERS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-8",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 5.1 SERVING AND FILING PLEADINGS AND OTHER PAPERS \nINCLUDING HIGHLY SENSITIVE DOCUMENTS\nA. What constitutes filing/official record. Electronic transmission of a \ndocument to the Electronic Filing System together with the transmission of a \nNotice of Electronic Filing from the court constitutes filing of the document \nfor all purposes of the local rules of this court and the Federal Rules of Civil \nProcedure and constitutes entry of the document on the docket kept by the \nclerk of court under Fed. R. Civ. P. 58 and 79. When a document has been \nfiled electronically, the official record is the electronic document as stored by \nthe court and is deemed filed at the date and time stated on the Notice of \nElectronic Filing from the court. The party filing the document is bound by \nthe document as filed. \nB. What constitutes an electronic signature. In addition to the requirements \ncontained in Rule 5(d)(3)(C) of the Federal Rules of Civil Procedure, the name \nof the filing user under whose login and password the documents are \nsubmitted must be preceded by a “/s/” and typed in the space where the \nsignature would otherwise appear unless a facsimile of the filing user’s \nsignature appears in the signature block. \nC. Duty to protect login and password. No filing user or other person may \nknowingly permit a filing user’s login and password to be used by someone \nother than an authorized agent of the filing user. If they learn that their \npassword has been compromised, they must immediately notify the clerk. \nAttorneys may be subject to sanctions for failure to comply with this \nprovision. \nD. Documents requiring the signature of more than one party. Documents \nrequiring signatures of more than one party may be electronically filed either \nby (a) submitting a scanned document containing all necessary signatures; \nor (b) in any other manner approved by the court. When filing documents that \nrequire signatures from other parties, it is not permissible to insert a “/s/” \nfor another person’s signature. ",
+          "pages": [
+            7
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-9",
+          "path": [],
+          "type": "paragraph",
+          "text": "3 \n2/28/2025 \n E. Restricted Hyperlinks. Because a website address within a court filing \nbecomes a hyperlink to the internet location upon filing in the CM/ECF \nsystem, counsel must redact from any filed documents any website address \nthat directs the court to a website that contains pornography or personal \nidentifiers. After filing the redacted document, counsel must provide an \nunredacted version to the clerk of court for filing under seal. \nF. Filing Documents outside of CM/ECF. Highly sensitive documents may be \nfiled outside of the court’s Electronic Filing System. \n Highly Sensitive Documents \n1. A highly Sensitive Document (HSD) is a document or other material that \ncontains sensitive, but unclassified, information that warrants \nexceptional handling and storage procedures to prevent significant \nconsequences that could result if such information were obtained or \ndisclosed in an unauthorized way. Although frequently related to law \nenforcement materials, especially sensitive information in a civil case \ncould also qualify for HSD treatment. \na. Examples of HSDs: Examples include ex parte sealed filings \nrelated to: national security investigations, cyber investigations, \nand especially sensitive public corruption investigations; and \ndocuments containing a highly exploitable trade secret, financial \ninformation, or computer source code belonging to a private entity, \nthe disclosure of which could have significant national or \ninternational repercussions. \nb. Exclusions: Most materials currently filed under seal do not meet \nthe definition of HSD and do not merit the heightened protections \nafforded to HSDs. The form or nature of the document, by itself, \ndoes not determine whether HSD treatment is warranted. Instead, \nthe focus is on the severity of the consequences for the parties or \nthe public should the document be accessed without \nauthorization. Most presentence reports, pretrial release reports, \npleadings related to cooperation in criminal cases, social security \nrecords, administrative immigration records, applications for \nsearch warrants, interception of wire, oral, or electronic \ncommunications under 18 U.S.C. § 2518, and applications for pen \nregisters, trap, and trace devices would not meet the HSD \ndefinition. \n Any dispute as to whether a document is an HSD will be resolved by the \npresiding judge or, when no presiding judge is assigned, the Chief Judge. \n2. Motion Required. A represented or pro se party must file a motion to \ntreat a document as an HSD and a proposed order in the same manner ",
+          "pages": [
+            8
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-10",
+          "path": [],
+          "type": "paragraph",
+          "text": "4 \n2/28/2025 \nas a motion to file under seal pursuant to D.S.D. Civ. LR 7.1 A and Crim. \n",
+          "pages": [
+            9
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "sdd-civil-parsed-v1-2db6120e6edcc37e",
+      "sourceDocumentId": "parsed-sdd-2db6120e6edcc37e",
+      "sourceUrl": "https://www.sdd.uscourts.gov/sites/sdd/files/Civil%20Local%20Rules%20-%20final%2C%20approved.pdf",
+      "pageIndex": 7,
+      "pageSpan": [
+        7,
+        9
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "sdd-civil:47.1",
+      "collectionId": "sdd-civil",
+      "districtId": "sdd",
+      "number": "47.1",
+      "citation": "District of South Dakota · Rule 47.1",
+      "title": "B.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-10",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 47.1 B. The motion and proposed order must state the duration of the \nHSD designation or whether the HSD designation should be permanent. \nThe motion must explain why the proposed document constitutes an HSD \nunder paragraph F.1 or why it should otherwise be filed without revealing \nthe highly sensitive information contained within the HSD. \n a. The filing party must deliver to the clerk’s office where the \n presiding judge is chambered two paper copies of the motion and \n HSD sought to be filed along with a certificate of service. These \n documents must be submitted in a sealed envelope marked \n “HIGHLY SENSITIVE DOCUMENT” and marked with the \n applicable case number, attorney’s name, street address, \n telephone number, and email address. Upon receipt, the clerk’s \n office will make an informational docket entry that a motion to \n treat a document as HSD has been filed. \n b. Unless being submitted as an ex parte filing, the filing party must \n serve the proposed HSD on the other parties by any manner \n specified in Civil Rule 5(b)(2), except for service via the court’s \n Electronic Filing System. \n c. If the court grants the motion, an informational entry will be made \n on the case docket indicating that the HSD has been filed with the \n Court. The clerk’s office will maintain the HSD in a secure paper \n filing system or a secure standalone computer system that is not \n connected to any network. \n3. Service of HSD Orders. The clerk’s office will serve paper copies of the \norder on the parties via mail. \n",
+          "pages": [
+            9
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "sdd-civil-parsed-v1-2db6120e6edcc37e",
+      "sourceDocumentId": "parsed-sdd-2db6120e6edcc37e",
+      "sourceUrl": "https://www.sdd.uscourts.gov/sites/sdd/files/Civil%20Local%20Rules%20-%20final%2C%20approved.pdf",
+      "pageIndex": 9,
+      "pageSpan": [
+        9,
+        9
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "sdd-civil:5.2",
+      "collectionId": "sdd-civil",
+      "districtId": "sdd",
+      "number": "5.2",
+      "citation": "District of South Dakota · Rule 5.2",
+      "title": "PRIVACY PROTECTION FOR FILINGS MADE WITH THE COURT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-10",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 5.2 PRIVACY PROTECTION FOR FILINGS MADE WITH THE COURT \nA. Pursuant to the E-Government Act of 2002, parties must refrain from \nincluding, or must partially redact where inclusion is necessary, the following \npersonal data identifiers from all pleadings and papers filed, including \nexhibits thereto, unless otherwise ordered by the court: \n1. Social Security numbers and Taxpayer Identification numbers. Only \nthe last four digits of these numbers may be used. \n2. Name of an individual known to be a minor. Only the initials of the \nminor may be used. \n3. Dates of birth. Only the year may be used. ",
+          "pages": [
+            9
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-11",
+          "path": [],
+          "type": "paragraph",
+          "text": "5 \n2/28/2025 \n4. Financial account numbers. Only the last four digits of these numbers \nmay be used. \nB. After filing a redacted document consistent with Fed R. Civ. P. 5.2, a party \nmay submit for filing under seal an unredacted copy of the document. Any \nsuch filings must contain a cover sheet stating the following, ADocument filed \nunder seal pursuant to the E-Government Act.@\nC. The responsibility for redacting personal identifiers rests solely with counsel \nand the parties. The clerk of court will not review each filing for compliance \nwith this rule. \n \n",
+          "pages": [
+            10
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "sdd-civil-parsed-v1-2db6120e6edcc37e",
+      "sourceDocumentId": "parsed-sdd-2db6120e6edcc37e",
+      "sourceUrl": "https://www.sdd.uscourts.gov/sites/sdd/files/Civil%20Local%20Rules%20-%20final%2C%20approved.pdf",
+      "pageIndex": 9,
+      "pageSpan": [
+        9,
+        10
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "sdd-civil:7.1",
+      "collectionId": "sdd-civil",
+      "districtId": "sdd",
+      "number": "7.1",
+      "citation": "District of South Dakota · Rule 7.1",
+      "title": "MOTIONS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-11",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 7.1 MOTIONS \nA. Motions to Seal. Any motion seeking the sealing of pleadings, motions, \nexhibits, or other documents to be filed in the court record must include (a) \nproposed reasons supported by specific factual representations to justify the \nsealing and (b) an explanation why alternatives to sealing would not provide \nsufficient protection. A motion to seal and the documents to which the motion \nrefers must be filed consistent with the CM/ECF User Manual and \nAdministrative Procedures found at www.sdd.uscourts.gov. \nB. Required Written Brief. With every opposed motion raising a question of law, \nexcept oral motions made during a hearing or trial, the movant must serve \nand file a brief containing the movant=s legal arguments, the authorities in \nsupport thereof, and the Federal Rule of Civil Procedure on which the movant \nrelies. Motions in limine and supporting arguments and authorities may be \nfiled as one document. On or before 21 calendar days after service of a motion \nand brief, unless otherwise specifically ordered by the court, all opposing \nparties must serve and file a responsive brief containing opposing legal \narguments and authorities in support thereof. The movant may file a reply \nbrief within 14 calendar days after service of the responsive brief. \n1. Page Limitation on Briefs. Briefs must not exceed 30 pages excluding \ntable of contents and/or authorities, certificate of service, if applicable, \nand attachments unless prior approval has been obtained from the court. \n2. Attachments. A party will submit as exhibits or attachments only those \nexcerpts of the referenced document that are directly germane to the \nmatter under consideration by the court. Excerpted material should be \nclearly and prominently identified as such. Highlighting or underlining \nrelevant portions is encouraged. Parties who file excerpts of documents \nas exhibits or attachments under this rule do so without prejudice to their \nright to timely file additional excerpts. Responding parties may file \nadditional excerpts that they believe are directly germane. The court may \nrequire parties to file additional excerpts or the complete document. ",
+          "pages": [
+            10
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-12",
+          "path": [],
+          "type": "paragraph",
+          "text": "6 \n2/28/2025 \nC. Oral Argument. Oral argument may be had only upon order of the court. \nRequests for oral argument must be made by separate statement at the \nconclusion of the motion or responsive brief, or by any party by a separate \ndocument filed within 14 calendar days after the filing of the motion or \nresponsive brief. \n \n",
+          "pages": [
+            11
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "sdd-civil-parsed-v1-2db6120e6edcc37e",
+      "sourceDocumentId": "parsed-sdd-2db6120e6edcc37e",
+      "sourceUrl": "https://www.sdd.uscourts.gov/sites/sdd/files/Civil%20Local%20Rules%20-%20final%2C%20approved.pdf",
+      "pageIndex": 10,
+      "pageSpan": [
+        10,
+        11
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "sdd-civil:7.1.1",
+      "collectionId": "sdd-civil",
+      "districtId": "sdd",
+      "number": "7.1.1",
+      "citation": "District of South Dakota · Rule 7.1.1",
+      "title": "DISCLOSURE STATEMENT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-12",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 7.1.1 DISCLOSURE STATEMENT \nEvery non-government organizational party or intervenor in a civil case must file \neither a Corporate Disclosure Statement (disclosure statement) or a Certificate \nthat Fed. R. Civ. P 7.1 is not applicable (certificate of non-applicability). \nInformation provided under this local rule may be used by the judge assigned to \na case to determine whether recusal is necessary or appropriate and to confirm \njurisdiction is proper. \n",
+          "pages": [
+            11
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "sdd-civil-parsed-v1-2db6120e6edcc37e",
+      "sourceDocumentId": "parsed-sdd-2db6120e6edcc37e",
+      "sourceUrl": "https://www.sdd.uscourts.gov/sites/sdd/files/Civil%20Local%20Rules%20-%20final%2C%20approved.pdf",
+      "pageIndex": 11,
+      "pageSpan": [
+        11,
+        11
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "sdd-civil:10.1",
+      "collectionId": "sdd-civil",
+      "districtId": "sdd",
+      "number": "10.1",
+      "citation": "District of South Dakota · Rule 10.1",
+      "title": "IDENTIFICATION",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-12",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 10.1 IDENTIFICATION \nA. Caption. A pleading or other paper presented for filing must begin with the \ncaption of the case, the title of the document, and the name of the party filing \nthe document. All papers presented after the initial pleading must bear the \nfile number assigned to the case. \nB. Signature Block. All papers must be signed and include the typed or printed \nname, address, telephone number, and email address of the signer beneath \nthe signature. This information must not appear as a header or footer on each \npage of the document, or as part of the caption of the case. \n",
+          "pages": [
+            11
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "sdd-civil-parsed-v1-2db6120e6edcc37e",
+      "sourceDocumentId": "parsed-sdd-2db6120e6edcc37e",
+      "sourceUrl": "https://www.sdd.uscourts.gov/sites/sdd/files/Civil%20Local%20Rules%20-%20final%2C%20approved.pdf",
+      "pageIndex": 11,
+      "pageSpan": [
+        11,
+        11
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "sdd-civil:12.1",
+      "collectionId": "sdd-civil",
+      "districtId": "sdd",
+      "number": "12.1",
+      "citation": "District of South Dakota · Rule 12.1",
+      "title": "EXTENSION OF TIME TO ANSWER",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-12",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 12.1 EXTENSION OF TIME TO ANSWER \nOR OTHERWISE RESPOND \nWithout the need for a motion, the parties may agree to an extension of time \nto answer or otherwise respond to a complaint, counterclaim, or crossclaim, of \nno more than 21 days from the initial deadline, by the requesting party filing a \nnotice of unopposed extension of time to answer or otherwise respond. The stated \nextension of time to answer or otherwise respond will thereupon become effective, \nunless otherwise ordered by the court. \n",
+          "pages": [
+            11
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "sdd-civil-parsed-v1-2db6120e6edcc37e",
+      "sourceDocumentId": "parsed-sdd-2db6120e6edcc37e",
+      "sourceUrl": "https://www.sdd.uscourts.gov/sites/sdd/files/Civil%20Local%20Rules%20-%20final%2C%20approved.pdf",
+      "pageIndex": 11,
+      "pageSpan": [
+        11,
+        11
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "sdd-civil:15.1",
+      "collectionId": "sdd-civil",
+      "districtId": "sdd",
+      "number": "15.1",
+      "citation": "District of South Dakota · Rule 15.1",
+      "title": "MOTIONS TO AMEND OR SUPPLEMENT PLEADINGS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-12",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 15.1 MOTIONS TO AMEND OR SUPPLEMENT PLEADINGS \n \n In addition to other requirements of these local civil rules, any party moving \nto amend or supplement a pleading must attach a copy of the proposed amended \npleading to its motion to amend with the proposed changes highlighted or \nunderlined so that they may be easily identified. If the court grants the motion, \nthe moving party must file a clean original of the amended or supplemental \npleading within 7 days. ",
+          "pages": [
+            11
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-13",
+          "path": [],
+          "type": "paragraph",
+          "text": "7 \n2/28/2025 \n",
+          "pages": [
+            12
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "sdd-civil-parsed-v1-2db6120e6edcc37e",
+      "sourceDocumentId": "parsed-sdd-2db6120e6edcc37e",
+      "sourceUrl": "https://www.sdd.uscourts.gov/sites/sdd/files/Civil%20Local%20Rules%20-%20final%2C%20approved.pdf",
+      "pageIndex": 11,
+      "pageSpan": [
+        11,
+        12
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "sdd-civil:16.1",
+      "collectionId": "sdd-civil",
+      "districtId": "sdd",
+      "number": "16.1",
+      "citation": "District of South Dakota · Rule 16.1",
+      "title": "SCHEDULING CONFERENCES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-13",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 16.1 SCHEDULING CONFERENCES \n Pursuant to Fed. R. Civ. P 16(b), this court has determined that pretrial \nconference procedures are inappropriate for certain types of cases and hereby \nexempts the following: \n1. Actions for review on an administrative record including bankruptcy \nappeals and social security reviews; \n2. Condemnation Actions; \n3. Foreclosures; \n4. Deportation Actions; \n5. Equal Access to Justice/Fee Award Appeals; \n6. Forfeiture and Statutory Penalty Actions; \n7. Freedom of Information Actions; \n8. Government Collection Actions including actions to recover benefit \npayments and actions to collect on a student loan guaranteed by the \nUnited States; \n9. Judgments/Actions to Enforce or Register; \n10. Petitions for habeas corpus or any other proceeding to challenge a \ncriminal conviction or sentence; \n11. Actions brought without an attorney by a person in the custody of the \nUnited States, a state, or a state subdivision; \n12. Selective Service Actions; \n13. Proceedings ancillary to a proceeding in another court; \n14. Actions to enforce or quash a summons or subpoena of any kind; \n15. Actions to enforce an arbitration award. \nThe court may choose to exempt any case from the Fed. R. Civ. P.16 pretrial \nconference procedure. ",
+          "pages": [
+            12
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-14",
+          "path": [],
+          "type": "paragraph",
+          "text": "8 \n2/28/2025 \n",
+          "pages": [
+            13
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "sdd-civil-parsed-v1-2db6120e6edcc37e",
+      "sourceDocumentId": "parsed-sdd-2db6120e6edcc37e",
+      "sourceUrl": "https://www.sdd.uscourts.gov/sites/sdd/files/Civil%20Local%20Rules%20-%20final%2C%20approved.pdf",
+      "pageIndex": 12,
+      "pageSpan": [
+        12,
+        13
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "sdd-civil:26.1",
+      "collectionId": "sdd-civil",
+      "districtId": "sdd",
+      "number": "26.1",
+      "citation": "District of South Dakota · Rule 26.1",
+      "title": "FILING OF DISCOVERY MATERIALS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-14",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 26.1 FILING OF DISCOVERY MATERIALS \nA. Pursuant to Fed. R. Civ. P. 5(d), depositions, interrogatories, requests for \ndocuments, requests for admissions, and answers and responses thereto \nmust not be filed. \nB. Fed. R. Civ. P. 26(a)(1) and (2) materials must not be filed unless otherwise \nordered by the court. \nC. Any portions of discovery materials necessary for the disposition of any \nmotion filed (with relevant portions highlighted or underlined) must either be \nattached as an exhibit to the party=s brief in support of such motion or \nattached to the party=s affidavit filed with the brief. \nD. If a party designates any or all of any deposition as evidence to be offered in \nthe trial of any case, such deposition must be filed at the same time as that \nparty=s designation consistent with D.S.D. Civ. LR 5.2. \nE. Depositions used by a party only for the purpose of contradicting or \nimpeaching the testimony of a deponent as a witness, pursuant to Fed. R. \nCiv. P. 32(a)(1), will not be filed unless otherwise ordered by the court. \n",
+          "pages": [
+            13
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "sdd-civil-parsed-v1-2db6120e6edcc37e",
+      "sourceDocumentId": "parsed-sdd-2db6120e6edcc37e",
+      "sourceUrl": "https://www.sdd.uscourts.gov/sites/sdd/files/Civil%20Local%20Rules%20-%20final%2C%20approved.pdf",
+      "pageIndex": 13,
+      "pageSpan": [
+        13,
+        13
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "sdd-civil:26.2",
+      "collectionId": "sdd-civil",
+      "districtId": "sdd",
+      "number": "26.2",
+      "citation": "District of South Dakota · Rule 26.2",
+      "title": "MEETING OF PARTIES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-14",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 26.2 MEETING OF PARTIES \nUnless otherwise ordered by the court in a particular case, the provisions of \nFed. R. Civ. P. 26(f), requiring a meeting of and report from the parties, apply to \nall civil actions in this court except cases exempted under D.S.D. Civ. LR 16.1. \n",
+          "pages": [
+            13
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "sdd-civil-parsed-v1-2db6120e6edcc37e",
+      "sourceDocumentId": "parsed-sdd-2db6120e6edcc37e",
+      "sourceUrl": "https://www.sdd.uscourts.gov/sites/sdd/files/Civil%20Local%20Rules%20-%20final%2C%20approved.pdf",
+      "pageIndex": 13,
+      "pageSpan": [
+        13,
+        13
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "sdd-civil:28.1",
+      "collectionId": "sdd-civil",
+      "districtId": "sdd",
+      "number": "28.1",
+      "citation": "District of South Dakota · Rule 28.1",
+      "title": "INDEPENDENCE OF COURT REPORTERS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-14",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 28.1 INDEPENDENCE OF COURT REPORTERS \nThe officer taking the deposition, or any other person with whom such officer \nhas a principal and agency relationship, will not enter into an agreement for \nreporting service which does any of the following: \n1. Requires or allows the court reporter reporting the deposition to \n relinquish control of an original deposition transcript and copies of the \n transcript before it is certified and delivered to the custodial attorney; \n2. Requires the court reporter to provide special financial terms or other \n services that are not offered at the same time and on the same terms to \n all other parties in the litigation, or in any way offers any incentives or \n rewards to the attorneys, parties to the litigation or to anyone else who \n has an interest in the litigation; \n3. Gives an exclusive monetary or other advantage to any party; ",
+          "pages": [
+            13
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-15",
+          "path": [],
+          "type": "paragraph",
+          "text": "9 \n2/28/2025 \n4. Compromises the authenticity of the record or the impartiality of the \n court reporter or results in the appearance that the authenticity of the \n record or the impartiality of the court reporter has been compromised; \n5. Allows a person, other than the court reporter or reporting firm, to \n establish the rates charged by the court reporting firm. \nContracts for court reporting services for federal, state, or local governments and \nsubdivisions thereof are excluded. Negotiating or bidding reasonable fees, equal \nto all parties, with the court reporter on a case-by-case basis is not prohibited. \nThese provisions may not be waived by disclosure, agreement, stipulation, or by \nany other means unless a request for waiver is contained in the notice of \ndeposition. \nAny deposition taken in violation of these provisions will result in the court \nimposing an appropriate sanction. \n",
+          "pages": [
+            14
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "sdd-civil-parsed-v1-2db6120e6edcc37e",
+      "sourceDocumentId": "parsed-sdd-2db6120e6edcc37e",
+      "sourceUrl": "https://www.sdd.uscourts.gov/sites/sdd/files/Civil%20Local%20Rules%20-%20final%2C%20approved.pdf",
+      "pageIndex": 13,
+      "pageSpan": [
+        13,
+        14
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "sdd-civil:29.1",
+      "collectionId": "sdd-civil",
+      "districtId": "sdd",
+      "number": "29.1",
+      "citation": "District of South Dakota · Rule 29.1",
+      "title": "STIPULATIONS MADE IN OPEN COURT OR WRITING",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-15",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 29.1 STIPULATIONS MADE IN OPEN COURT OR WRITING \nTo be binding in a proceeding in this court, every stipulation, agreement, or \nconsent between or among parties or their attorneys must be made in open court \nor reduced to writing and subscribed by the parties or their attorneys. \nStipulations or agreements relating to changing the place of trial, continuing \ncases to a later date, extending time to answer or otherwise plead (except as \nprovided in D.S.D. Civ. LR 12.1), or setting any matter for hearing are not binding \nunless so ordered by the court. \n",
+          "pages": [
+            14
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "sdd-civil-parsed-v1-2db6120e6edcc37e",
+      "sourceDocumentId": "parsed-sdd-2db6120e6edcc37e",
+      "sourceUrl": "https://www.sdd.uscourts.gov/sites/sdd/files/Civil%20Local%20Rules%20-%20final%2C%20approved.pdf",
+      "pageIndex": 14,
+      "pageSpan": [
+        14,
+        14
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "sdd-civil:37.1",
+      "collectionId": "sdd-civil",
+      "districtId": "sdd",
+      "number": "37.1",
+      "citation": "District of South Dakota · Rule 37.1",
+      "title": "CONDITIONS FOR DISCOVERY MOTIONS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-15",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 37.1 CONDITIONS FOR DISCOVERY MOTIONS \nA party filing a motion concerning a discovery dispute must file a separate \ncertification describing the good faith efforts of the parties to resolve the dispute. \nIf the court schedules a hearing on the motion, at least 7 calendar days prior to \nthe hearing, or sooner as the court may require, the parties must file a statement \nsetting forth the matters upon which they have been unable to agree. \n",
+          "pages": [
+            14
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "sdd-civil-parsed-v1-2db6120e6edcc37e",
+      "sourceDocumentId": "parsed-sdd-2db6120e6edcc37e",
+      "sourceUrl": "https://www.sdd.uscourts.gov/sites/sdd/files/Civil%20Local%20Rules%20-%20final%2C%20approved.pdf",
+      "pageIndex": 14,
+      "pageSpan": [
+        14,
+        14
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "sdd-civil:39.1",
+      "collectionId": "sdd-civil",
+      "districtId": "sdd",
+      "number": "39.1",
+      "citation": "District of South Dakota · Rule 39.1",
+      "title": "TRIALS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-15",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 39.1 TRIALS \nA. Opening Statements in Jury Trials. After a jury has been sworn, the party \nwith the burden of proof may briefly, and without argument, make an opening \nstatement to the jury. Thereafter, the adverse party may briefly, and without \nargument, make an opening statement to the jury. \nB. Number of Attorneys. On the trial of any action only one attorney per party \nwill be permitted to examine or cross-examine each witness, and not more \nthan two attorneys per party may sum up the case to the jury, unless the \ncourt otherwise orders. ",
+          "pages": [
+            14
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "10 \n2/28/2025 \nC. Motions During Trial. The moving party will be heard first, followed by the \nadverse party. The movant may reply. Thereafter, argument on the motion \nwill end unless the court allows further argument. \n",
+          "pages": [
+            15
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "sdd-civil-parsed-v1-2db6120e6edcc37e",
+      "sourceDocumentId": "parsed-sdd-2db6120e6edcc37e",
+      "sourceUrl": "https://www.sdd.uscourts.gov/sites/sdd/files/Civil%20Local%20Rules%20-%20final%2C%20approved.pdf",
+      "pageIndex": 14,
+      "pageSpan": [
+        14,
+        15
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "sdd-civil:39.2",
+      "collectionId": "sdd-civil",
+      "districtId": "sdd",
+      "number": "39.2",
+      "citation": "District of South Dakota · Rule 39.2",
+      "title": "WITNESS LIST",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 39.2 WITNESS LIST \nUnless otherwise ordered by the court, each party must file a sealed witness \nlist by noon on the last business day before a scheduled trial. It must include \nthe town/city and state of each witness. \n",
+          "pages": [
+            15
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "sdd-civil-parsed-v1-2db6120e6edcc37e",
+      "sourceDocumentId": "parsed-sdd-2db6120e6edcc37e",
+      "sourceUrl": "https://www.sdd.uscourts.gov/sites/sdd/files/Civil%20Local%20Rules%20-%20final%2C%20approved.pdf",
+      "pageIndex": 15,
+      "pageSpan": [
+        15,
+        15
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "sdd-civil:40.1",
+      "collectionId": "sdd-civil",
+      "districtId": "sdd",
+      "number": "40.1",
+      "citation": "District of South Dakota · Rule 40.1",
+      "title": "CONTINUANCES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 40.1 CONTINUANCES \nA. Court Approval Required. A case will not be continued without an order of \nthe court. The parties may file a joint motion for a continuance explaining the \nreasons for the requested continuance. If the parties disagree over whether \nthere should be a continuance, the party seeking a continuance must file a \nmotion and detail the factual basis on which a continuance is being sought. \nIf the continuance is sought because of the absence of a material witness, the \nmovant must file an affidavit showing that the party applying for the \ncontinuance has exercised due diligence to secure the testimony of the \nwitness, the name and city of residence of the witness, and the substance and \nrelevance of the anticipated testimony of the witness. A party opposing a \ncontinuance must file a response no later than 7 days after the motion is \nserved. The moving party may file a reply no later than 3 days after the \nresponse. \nB. When Witness Is Absent. Unless, in the opinion of the court, justice requires, \na trial or evidentiary hearing will not be continued or postponed on account \nof the absence of a witness. \n",
+          "pages": [
+            15
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "sdd-civil-parsed-v1-2db6120e6edcc37e",
+      "sourceDocumentId": "parsed-sdd-2db6120e6edcc37e",
+      "sourceUrl": "https://www.sdd.uscourts.gov/sites/sdd/files/Civil%20Local%20Rules%20-%20final%2C%20approved.pdf",
+      "pageIndex": 15,
+      "pageSpan": [
+        15,
+        15
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "sdd-civil:43.1",
+      "collectionId": "sdd-civil",
+      "districtId": "sdd",
+      "number": "43.1",
+      "citation": "District of South Dakota · Rule 43.1",
+      "title": "EXHIBITS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 43.1 EXHIBITS \nA. Marking of Exhibits. Exhibits in civil trials and hearings must be marked in \naccordance with instructions from the court. \nB. Electronically Filing Documentary Exhibits. \n1. By the Clerk. At the conclusion of a trial or other court proceeding, the \n Clerk of Court will electronically file all documentary exhibits offered \n and/or received in CM/ECF. The exhibits electronically filed by the \n Clerk will be restricted to court users and case participants. After filing, \n the Clerk will return documentary exhibits to the offering party. \n ",
+          "pages": [
+            15
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "11 \n2/28/2025 \n2. By the Parties. The parties will have twenty-one (21) days to review \n their returned documentary exhibits to determine whether redactions \n are required pursuant to D.S.D. Civ. LR 5.2. \n a. Redactions required. If redactions are required, the offering party \n must electronically file all of its documentary exhibits, \n including redacted exhibits and exhibits that do not require \n redaction in CM/ECF. This requirement does not apply to exhibits \n that were sealed when offered and/or received. \n b. Redactions not required. If no redactions are required, the Clerk \n will remove the restrictions and enter a Notice of Unrestricting \n Trial/Hearing Exhibits in CM/ECF. \nc. Sealing. If a party moves to seal documentary exhibits after a \nhearing or trial has concluded and the motion is granted, the \nmovant is responsible for refiling public exhibits. \nC. Physical Exhibits. Physical exhibits, including recordings, will be returned \nto the offering party at the conclusion of a trial or other proceeding for \nretention and preservation. This includes all physical exhibits submitted to \nthe clerk even those not used at trial or in a hearing. \n1. Duty to Retain. When physical exhibits are returned, they must be \n retained by the offering party, who will maintain and document the \n chain of custody, and make the exhibits available to the court, if \n necessary, and to other parties for use in preparing an appeal. \n \n2. Duty to Preserve. Returned physical exhibits must be preserved in an \nunaltered condition until at least 120 calendar days after the resolution \nof any appeal to allow for the filing of a writ of certiorari under Rule 13 \nof the Rules of the Supreme Court of the United States. Before such \nexhibits may be destroyed, the custodial party must seek and obtain a \ncourt order authorizing destruction. \nD. Exhibits Necessary for Appeal. Consistent with the Eighth Circuit’s local \nrule on exhibits, the offering party is responsible for ensuring any non-public \nexhibits or physical exhibits necessary for an appeal are submitted to the \nappellate court. \n",
+          "pages": [
+            16
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "sdd-civil-parsed-v1-2db6120e6edcc37e",
+      "sourceDocumentId": "parsed-sdd-2db6120e6edcc37e",
+      "sourceUrl": "https://www.sdd.uscourts.gov/sites/sdd/files/Civil%20Local%20Rules%20-%20final%2C%20approved.pdf",
+      "pageIndex": 15,
+      "pageSpan": [
+        15,
+        16
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "sdd-civil:47.2",
+      "collectionId": "sdd-civil",
+      "districtId": "sdd",
+      "number": "47.2",
+      "citation": "District of South Dakota · Rule 47.2",
+      "title": "RESTRICTION ON PHOTOGRAPHING",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 47.2 RESTRICTION ON PHOTOGRAPHING \nOR INTERVIEWING JURORS \nA. Photographing Jurors. In order to protect the integrity and independence of \n jurors, no person may photograph or attempt to photograph any juror, \n grand or petit, without the express approval of the individual juror or the \n express approval of the presiding judge. No one other than a juror may ",
+          "pages": [
+            16
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "12 \n2/28/2025 \n photograph or otherwise record his or her motor vehicle or motor vehicle \n license. Leaflets or other juror information pamphlets may not be given to a \n juror or placed in any place where a juror might reasonably be expected to \n obtain the printed matter. Such action may constitute an unlawful attempt \n to influence, intimidate, or impede a juror or witness, in violation of 18 U.S.C. \n § 1503 and 18 U.S.C. § 1510. \nB. Interviewing Jurors. No one may contact any juror before or during the \n juror’s service on a case. The parties, their lawyers and anybody acting on \n their behalf must seek and obtain permission from the district judge who tried \n the case before contacting a juror after the juror served on the case. \n",
+          "pages": [
+            17
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "sdd-civil-parsed-v1-2db6120e6edcc37e",
+      "sourceDocumentId": "parsed-sdd-2db6120e6edcc37e",
+      "sourceUrl": "https://www.sdd.uscourts.gov/sites/sdd/files/Civil%20Local%20Rules%20-%20final%2C%20approved.pdf",
+      "pageIndex": 16,
+      "pageSpan": [
+        16,
+        17
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "sdd-civil:51.1",
+      "collectionId": "sdd-civil",
+      "districtId": "sdd",
+      "number": "51.1",
+      "citation": "District of South Dakota · Rule 51.1",
+      "title": "JURY INSTRUCTIONS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 51.1 JURY INSTRUCTIONS \nA. Pretrial Filing of Instructions. Each party must file and serve all proposed \nsubstantive jury instructions, including a Astatement of the case@ instruction \nand Atheory of defense.@\nB. Form of Instructions. All proposed jury instructions must identify the party \nsubmitting the instruction and specifically cite the authority or authorities \nupon which it is based. \n",
+          "pages": [
+            17
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "sdd-civil-parsed-v1-2db6120e6edcc37e",
+      "sourceDocumentId": "parsed-sdd-2db6120e6edcc37e",
+      "sourceUrl": "https://www.sdd.uscourts.gov/sites/sdd/files/Civil%20Local%20Rules%20-%20final%2C%20approved.pdf",
+      "pageIndex": 17,
+      "pageSpan": [
+        17,
+        17
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "sdd-civil:53.1",
+      "collectionId": "sdd-civil",
+      "districtId": "sdd",
+      "number": "53.1",
+      "citation": "District of South Dakota · Rule 53.1",
+      "title": "ALTERNATIVE DISPUTE RESOLUTION",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 53.1 ALTERNATIVE DISPUTE RESOLUTION \nParties are encouraged to use alternative dispute resolution procedures to \ntry to settle their cases without a trial. Magistrate judges are available as \nmediators to facilitate alternative dispute resolution procedures. \n",
+          "pages": [
+            17
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "sdd-civil-parsed-v1-2db6120e6edcc37e",
+      "sourceDocumentId": "parsed-sdd-2db6120e6edcc37e",
+      "sourceUrl": "https://www.sdd.uscourts.gov/sites/sdd/files/Civil%20Local%20Rules%20-%20final%2C%20approved.pdf",
+      "pageIndex": 17,
+      "pageSpan": [
+        17,
+        17
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "sdd-civil:54.1",
+      "collectionId": "sdd-civil",
+      "districtId": "sdd",
+      "number": "54.1",
+      "citation": "District of South Dakota · Rule 54.1",
+      "title": "TAXATION OF COSTS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 54.1 TAXATION OF COSTS \nA. Procedure. Before costs may be taxed, the prevailing party entitled to recover \ncosts must file and serve a verified bill of costs within 28 calendar days after \nentry of judgment or an order of dismissal. The party liable for costs may \nwithin 14 calendar days thereafter file exceptions to the costs or any specific \nitem therein. \nThe clerk of court may then tax costs and, upon allowance, the costs will be \nincluded in the judgment or decree. Upon motion of either party within 7 \ncalendar days after the clerk taxes costs, the action of the clerk may be \nreviewed by the court. \nB. Default Judgment. In a default judgment case, the clerk of court may tax \ncosts as a matter of course without notice. \nC. Attorney=s Fees. A party moving for attorney=s fees must file and serve a \nmotion and an affidavit setting out the time reasonably spent in the litigation \nand any factual matters pertinent to the motion for attorney=s fees. The ",
+          "pages": [
+            17
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "13 \n2/28/2025 \nmotion must be filed no later than 28 calendar days after the entry of \njudgment absent a showing of good cause. The respondent may file and serve \na response and counter affidavit controverting or asserting any factual \nmatters bearing on the award of attorney=s fees. \nObjections to an allowance of attorney=s fees must be filed within 21 calendar \ndays after service on the party against whom the award of attorney=s fees is \nsought. The movant may file a reply brief within 14 calendar days after service \nof the responsive brief. The court will then determine the appropriate \nattorney=s fees, if any, without further hearing, unless in the court’s opinion \na hearing is needed to resolve serious factual disputes between the parties. \nOn its own motion, the court may grant an allowance of reasonable attorney=s \nfees to a prevailing party in appropriate cases. \nThe failure to move for an award of attorney=s fees within the prescribed time \nmay be considered by the court to be a waiver of any claim for attorney=s fees. \n",
+          "pages": [
+            18
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "sdd-civil-parsed-v1-2db6120e6edcc37e",
+      "sourceDocumentId": "parsed-sdd-2db6120e6edcc37e",
+      "sourceUrl": "https://www.sdd.uscourts.gov/sites/sdd/files/Civil%20Local%20Rules%20-%20final%2C%20approved.pdf",
+      "pageIndex": 17,
+      "pageSpan": [
+        17,
+        18
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "sdd-civil:56.1",
+      "collectionId": "sdd-civil",
+      "districtId": "sdd",
+      "number": "56.1",
+      "citation": "District of South Dakota · Rule 56.1",
+      "title": "MOTION FOR SUMMARY JUDGMENT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 56.1 MOTION FOR SUMMARY JUDGMENT \nA. Moving Party=s Required Statement of Material Facts. All motions for \nsummary judgment must be accompanied by a separate, short, and concise \nstatement of the material facts as to which the moving party contends there \nis no genuine issue to be tried. Each material fact must be presented in a \nseparate numbered statement with an appropriate citation to the record in \nthe case. \nB. Opposing Party=s Required Statement of Material Facts. A party opposing \na motion for summary judgment must respond to each numbered paragraph \nin the moving party=s statement of material facts with a separately numbered \nresponse and appropriate citations to the record. A party opposing a motion \nfor summary judgment must identify any material facts on which there exists \na genuine material issue to be tried. \nC. Use of Documentary Evidence. A party must attach to an affidavit all \nrelevant documentary evidence in support of or in opposition to a motion for \nsummary judgment. The evidence should be submitted with proper \nhighlighting or underlining as encouraged by D.S.D. Civ. LR 7.1B2. \n \nD. Effect of Omission: Sanction. All material facts set forth in the movant=s \nstatement of material facts will be deemed to be admitted unless controverted \nby the opposing party=s response to the moving party=s statement of material \nfacts. ",
+          "pages": [
+            18
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "14 \n2/28/2025 \n",
+          "pages": [
+            19
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "sdd-civil-parsed-v1-2db6120e6edcc37e",
+      "sourceDocumentId": "parsed-sdd-2db6120e6edcc37e",
+      "sourceUrl": "https://www.sdd.uscourts.gov/sites/sdd/files/Civil%20Local%20Rules%20-%20final%2C%20approved.pdf",
+      "pageIndex": 18,
+      "pageSpan": [
+        18,
+        19
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "sdd-civil:58.1",
+      "collectionId": "sdd-civil",
+      "districtId": "sdd",
+      "number": "58.1",
+      "citation": "District of South Dakota · Rule 58.1",
+      "title": "APPELLATE JUDGMENTS, ORDERS, AND MANDATES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 58.1 APPELLATE JUDGMENTS, ORDERS, AND MANDATES \n \n Upon receipt from an appellate court of a judgment or order affecting the \ndecision of the district court or a mandate, the clerk of court must forthwith file \nand enter the same of record. In the event that the mandate provides for costs \nor directs a disposition other than an affirmance, the prevailing party will timely \nsubmit an order to this court in conformity with the appellate court’s ruling. \n",
+          "pages": [
+            19
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "sdd-civil-parsed-v1-2db6120e6edcc37e",
+      "sourceDocumentId": "parsed-sdd-2db6120e6edcc37e",
+      "sourceUrl": "https://www.sdd.uscourts.gov/sites/sdd/files/Civil%20Local%20Rules%20-%20final%2C%20approved.pdf",
+      "pageIndex": 19,
+      "pageSpan": [
+        19,
+        19
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "sdd-civil:65.1",
+      "collectionId": "sdd-civil",
+      "districtId": "sdd",
+      "number": "65.1",
+      "citation": "District of South Dakota · Rule 65.1",
+      "title": "MOTIONS FOR PRELIMINARY AND PERMANENT INJUNCTION",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 65.1 MOTIONS FOR PRELIMINARY AND PERMANENT INJUNCTION \nIn all cases wherein a party seeks both a preliminary and permanent \ninjunction, the matters will be deemed consolidated for trial unless otherwise \nspecifically ordered by the court. \n",
+          "pages": [
+            19
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "sdd-civil-parsed-v1-2db6120e6edcc37e",
+      "sourceDocumentId": "parsed-sdd-2db6120e6edcc37e",
+      "sourceUrl": "https://www.sdd.uscourts.gov/sites/sdd/files/Civil%20Local%20Rules%20-%20final%2C%20approved.pdf",
+      "pageIndex": 19,
+      "pageSpan": [
+        19,
+        19
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "sdd-civil:67.1",
+      "collectionId": "sdd-civil",
+      "districtId": "sdd",
+      "number": "67.1",
+      "citation": "District of South Dakota · Rule 67.1",
+      "title": "REGISTRY FUND",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 67.1 REGISTRY FUND \nAny party seeking an order of the court for the deposit of funds pursuant to \nFed. R. Civ. P. 67 must file a motion and a draft order and must serve the same \nupon the clerk of court. \n",
+          "pages": [
+            19
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "sdd-civil-parsed-v1-2db6120e6edcc37e",
+      "sourceDocumentId": "parsed-sdd-2db6120e6edcc37e",
+      "sourceUrl": "https://www.sdd.uscourts.gov/sites/sdd/files/Civil%20Local%20Rules%20-%20final%2C%20approved.pdf",
+      "pageIndex": 19,
+      "pageSpan": [
+        19,
+        19
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "sdd-civil:68.1",
+      "collectionId": "sdd-civil",
+      "districtId": "sdd",
+      "number": "68.1",
+      "citation": "District of South Dakota · Rule 68.1",
+      "title": "SETTLEMENT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 68.1 SETTLEMENT \nThe deadline for settling civil cases is 14 calendar days prior to the date set \nfor trial, unless otherwise ordered by the court. In any case settled after the \ndeadline, the court may impose sanctions including, but not limited to, the costs \nof assembling and empaneling the jurors, on any or all of the parties or their \nattorneys for violation of this rule. \n",
+          "pages": [
+            19
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "sdd-civil-parsed-v1-2db6120e6edcc37e",
+      "sourceDocumentId": "parsed-sdd-2db6120e6edcc37e",
+      "sourceUrl": "https://www.sdd.uscourts.gov/sites/sdd/files/Civil%20Local%20Rules%20-%20final%2C%20approved.pdf",
+      "pageIndex": 19,
+      "pageSpan": [
+        19,
+        19
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "sdd-civil:72.1",
+      "collectionId": "sdd-civil",
+      "districtId": "sdd",
+      "number": "72.1",
+      "citation": "District of South Dakota · Rule 72.1",
+      "title": "MAGISTRATE JUDGE DUTIES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 72.1 MAGISTRATE JUDGE DUTIES \nA. General Designation. In every civil case, the court designates the magistrate \njudge assigned to the case to perform the following duties authorized by 28 \nU.S.C. § 636: \n 1. Hear and determine any pretrial matter pending before the court, \n except a motion: for injunctive relief, for judgment on the pleadings, \n for summary judgment, to dismiss or to permit maintenance of a \n class action, to dismiss for failure to state a claim upon which relief \n can be granted, or to involuntarily dismiss an action. \n 2. Conduct hearings, including evidentiary hearings, and submit to the \n district judge proposed findings and recommendation for the \n disposition of: \n (a) dispositive pretrial matters such as motions for injunctive \n relief, for judgment on the pleadings, for summary judgment, ",
+          "pages": [
+            19
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "15 \n2/28/2025 \n to dismiss or to permit maintenance of a class action, to \n dismiss for failure to state a claim upon which relief can be \n granted, or to involuntarily dismiss an action; \n (b) applications for posttrial relief made by individuals convicted \n of criminal offenses; \n (c) prisoner petitions challenging conditions of confinement; and \n (d) resolution of social security disability appeals. \n 3. Serve as a special master upon consent of the parties in civil cases. \nB. Specific Designation. The district judge assigned to a case may specifically \ndesignate a magistrate judge to perform any of the duties authorized by 28 \nU.S.C. § 636(b). In performing the designated duties, the magistrate judge \nmust conform to the Local Rules and the instructions of the district judge. \nC. Consent Jurisdiction.\n \n 1. In every case, upon consent of the parties, the court specifically \n designates the assigned full-time magistrate judge under 28 U.S.C. \n § 636(c) to conduct the proceedings in a civil matter and to order the \n entry of judgment. \n 2. To consent in all cases except social security cases, a party must \ncomplete and mail the consent form found on the court’s website under \nForms AO Forms 85 Notice, Consent, and Reference of a Civil Action to \na Magistrate Judge to the clerk. The clerk will only file the form and \nreassign the case if all parties have consented to the referral. \n",
+          "pages": [
+            20
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "sdd-civil-parsed-v1-2db6120e6edcc37e",
+      "sourceDocumentId": "parsed-sdd-2db6120e6edcc37e",
+      "sourceUrl": "https://www.sdd.uscourts.gov/sites/sdd/files/Civil%20Local%20Rules%20-%20final%2C%20approved.pdf",
+      "pageIndex": 19,
+      "pageSpan": [
+        19,
+        20
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "sdd-civil:83.1",
+      "collectionId": "sdd-civil",
+      "districtId": "sdd",
+      "number": "83.1",
+      "citation": "District of South Dakota · Rule 83.1",
+      "title": "RECORDING AND CELLULAR DEVICES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 83.1 RECORDING AND CELLULAR DEVICES \nExcept by permission of the presiding judge, no person will photograph, \nvideotape, televise, broadcast, or record, or cause to be photographed, videotaped, \ntelevised, broadcast, or recorded any courtroom proceeding, including \nproceedings of the grand jury. No person will take any photographic, videotape, \ntelevision, or sound recording equipment into (1) any courtroom except upon the \nexpress permission of the presiding judge, or (2) any jury room, or (3) any corridor \non the floor on which a courtroom or jury room is located. This paragraph does \nnot apply to (1) the official court reporter who may use a voice-recording device \nin connection with his or her official duties, or (2) the use of electronic means for \nthe presentation of evidence or the perpetuation of the record as authorized by \nthe court. ",
+          "pages": [
+            20
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "16 \n2/28/2025 \nCellular phones and electronic devices may be brought into courthouses in \nthe United States District Court for South Dakota unless the presiding judge \nplaces restrictions on these devices. All cellular and electronic devices must be \nturned off in the courtroom and any corridor on the floor on which a courtroom \nor jury room is located unless specifically authorized by order of the court. \nCellular and electronic devices are devices capable of communicating, \ntransmitting, receiving, or recording messages, images, sounds, data, or other \ninformation by any means, including but not limited to, a computer tablet, cell \nphone, or Bluetooth device. Individuals who bring such devices into courtrooms \nmay be asked by court security personnel to demonstrate that the device is turned \noff. Members of the Bar and employees of members of the Bar are exempt from \nthis provision. \nUse of any camera or sound recording devices in a courtroom or any corridor \non the floor on which a courtroom or jury room is located is prohibited unless \nspecifically authorized by order of the court. \nHowever, an electronic device that is essential to a person’s health or welfare \n(such as an insulin pump) may remain on in the courtroom. \n News media personnel who possess recording devices will be allowed entry \ninto a court facility, provided the news media personnel are escorted through the \nbuilding by a representative of the tenant agency being visited. If no tenant \nrepresentative is available, entry with the recording devices will be denied. In \ncourthouses where jury and grand jury facilities are located contiguous to public \naccess corridors, news media personnel will not be allowed to possess recording \ndevices on the floors housing the jury and grand jury facilities during jury \ndeliberations or grand jury sessions. \nPhotographic, videotape, television, and sound recording devices are \npermitted in courtrooms and in adjacent corridors for naturalization ceremonies, \ninvestitures, attorney admissions, and other ceremonial functions unless \nspecifically prohibited by the court. \n",
+          "pages": [
+            21
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "sdd-civil-parsed-v1-2db6120e6edcc37e",
+      "sourceDocumentId": "parsed-sdd-2db6120e6edcc37e",
+      "sourceUrl": "https://www.sdd.uscourts.gov/sites/sdd/files/Civil%20Local%20Rules%20-%20final%2C%20approved.pdf",
+      "pageIndex": 20,
+      "pageSpan": [
+        20,
+        21
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "sdd-civil:83.2",
+      "collectionId": "sdd-civil",
+      "districtId": "sdd",
+      "number": "83.2",
+      "citation": "District of South Dakota · Rule 83.2",
+      "title": "ATTORNEYS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 83.2 ATTORNEYS \nA. Bar of the Court. The bar of this court consists of those attorneys admitted \nto practice before this court. \nB. Eligibility. Any person of good moral character who is an active member of \nthe State Bar of South Dakota is eligible for admission to the bar of this court \nas hereinafter provided. \nC. Procedure for Admission. An attorney who is eligible to practice law as \nprovided in section B of this rule may apply for admission to the bar of this \ncourt. The application sequence is as follows: ",
+          "pages": [
+            21
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "17 \n2/28/2025 \n1. The applicant must complete an application for admission. \n2. The applicant must consent to an inquiry concerning the applicant=s \nfitness and qualifications for admission. Submission of a completed \napplication is consent and waiver of privacy regarding inquiry into the \napplicant’s fitness and qualifications. \n3. The clerk of court will make any inquiry that may be deemed necessary \nto obtain information concerning the applicant=s fitness and \nqualifications to practice law. \n4. At least two active judges in this district must approve the application \nbefore an applicant may be admitted. In the absence of two active \ndistrict judges, a senior judge may be the second approving judge. \n5. The clerk of court will report to a district judge in the division in which \nan application for admission is pending the approval or disapproval of \nthe active judges. \n6. When an application is approved or disapproved, the applicant will be \nnotified. \n7. An applicant approved for admission will be contacted by the court to \nschedule the applicant=s admission ceremony. \n8. Within six months of being approved for admission, an applicant must \nappear for an admission ceremony with a member of this bar who will \nvouch for applicant=s legal qualifications, integrity, and good moral \ncharacter. Upon oral motion of a member of the bar, taking the \nprescribed oath of admission, signing an oath of admission form, and \npaying the required fee, the applicant will be admitted to the bar of this \ncourt. Upon admission, the clerk of court will issue a certificate of \nadmission to the new bar member. \nD. Oath of Admission. The following oath/affirmation will be administered to \nan applicant for admission to the bar of this court: \nI solemnly affirm that I will support and defend the Constitution of the \nUnited States, that I will represent my clients conscientiously and \nethically, and that I will conduct myself uprightly and according to law in \nall cases before this court. \nE. Appearance of Attorney Pro Hac Vice. An attorney who is not a member of \nthe bar of this court, but who is a member in good standing of the bar of \nanother United States district court, may, upon motion and approval by this \ncourt, participate in the conduct of a particular case. Such motion may be \nallowed only if the applicant associates with a member in good standing of ",
+          "pages": [
+            22
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-24",
+          "path": [],
+          "type": "paragraph",
+          "text": "18 \n2/28/2025 \nthe bar of this court as local counsel. Any prior or pending disciplinary actions \nor actions resulting in sanctions against the attorney seeking admission pro \nhac vice must be disclosed in the motion. \n Local counsel must sign and file all documents and must continue in the case \nunless another attorney admitted to practice before this court is substituted. \nLocal counsel must be present during all court proceedings (which include \ntelephone or video conference hearings) in connection with the case, unless \notherwise ordered, and must have full authority to act for and on behalf of \nthe client in all matters, including pretrial conferences, trial and any other \nhearings. \nF. Attorneys for the United States and Federal Public Defender. \n1. Resident Attorneys. \na. Regular Admission. Except as provided elsewhere by this rule, an \n attorney who resides within this district and represents the United \n States government or any agency or instrumentality thereof or the \n Federal Public Defender=s Office must be admitted to the State Bar \n of South Dakota before the attorney is permitted to practice \n before this court. \n \nb. Provisional Admission. An attorney who is a member of the bar \n of another United States district court and has not yet been \n admitted to the State Bar of South Dakota, but either is a: \n (1) resident assistant United States attorney; \n (2) resident attorney representing agencies or instrumentalities of \n the United States government; or \n (3) resident assistant federal public defender has 12 months from\n the date of the attorney=s oath of office for the position in \n South Dakota to be admitted to the State Bar of South Dakota. \n \n (4) If an attorney is on a term fellowship with the United States or \nthe Federal Public Defender, that attorney may be admitted \nprovisionally to practice before this court for the period of that \nfellowship. \nDuring this period, the attorney may be admitted provisionally to practice \nbefore this court. \nThe procedure for provisional admission follows the procedure for admission \noutlined in Section C of this rule, except that resident attorneys provisionally ",
+          "pages": [
+            23
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "19 \n2/28/2025 \nadmitted will not pay the required fee until they are admitted to the State \nBar South Dakota, at which time the clerk of court will issue a certificate of \nadmission to the attorney. \n \n2. Nonresident Attorneys. \nThe following nonresident attorneys may be admitted on the attorney’s \n motion, without payment of fees, to practice in this court during the \n pendency of the attorney’s employment, appointment, or designation if \n the attorney is a member in good standing of the highest bar of any state \n or the District of Columbia. An application for admission is not required. \na. An attorney designated as ASpecial Assistant United States \n Attorney@ by the United States Attorney for the District of South \n Dakota; \n \nb. An attorney appointed by the Attorney General of the United States \nor employed by a federal agency with independent litigation \nauthority to represent the interests of the United States \ngovernment. \n \nc. An attorney hired by the Federal Public Defender=s Office for the \n District of South Dakota; or \nd. An attorney employed by the Federal Public Defender=s Office for\n the District of North Dakota. \nA judge advocate of the armed forces of the United States representing \nthe United States government proceedings supervised by judges of this \ncourt is not subject to this rule. \nG. Attorney Discipline.\n1. Automatic Suspension. Any member of the bar of this court who has \nbeen suspended or disbarred from the Supreme Court of the State of \nSouth Dakota or who has been convicted of any criminal offense in any \nUnited States District Court will, upon appropriate notice from the clerk \nof court, be suspended from practice before this court. \n2. Discipline by this Court. \n a. This court, independent of action taken by the Supreme Court of the \n State of South Dakota, may disbar or suspend a member of the bar \n of this court from practice for a definite time, or reprimand for good \n cause shown, after opportunity has been afforded such member to \n be heard. ",
+          "pages": [
+            24
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "20 \n2/28/2025 \n b. An application for the disbarment or discipline of a member of the \n bar of this court will be made to or before the chief judge of this court \n unless otherwise ordered by the chief judge. At least two district \n judges of this court will sit at the hearing of such application unless \n the attorney against whom the disbarment or disciplinary proceeding \n is brought states in writing or in open court the member=s willingness \n to proceed before one district judge. \n c. If an investigation is necessary, the chief judge, with the approval of \n a majority of the district judges, will appoint a member of the bar \n (hereinafter referred to as Ainvestigator@) to investigate charges \n against any member of this bar. If, as a result of the investigation, \n the investigator will be of the opinion that there has been a breach of \n professional ethics by a member of this bar, the investigator, as an \n officer of the court having special responsibilities for the \n administration of justice, will file and prosecute a petition requesting \n that the alleged offender be subjected to appropriate discipline, \n including disbarment, suspension, or reprimand. The investigator \n will be paid from the pro hac vice fund. \n3. Disciplinary Record. The clerk of court keeps a separate attorney \ndiscipline docket. Orders of disbarment, suspension and public \nreprimand are a matter of public record. All other documents, hearings \nand records required under the provisions of this Rule will not be publicly \ndisclosed or made available for use in any other proceeding, except upon \norder of this court. \nH. Reinstatement of Disbarred and Suspended Attorneys.\n1. An attorney who has been disbarred or suspended in this court may \npetition for reinstatement at any time. Upon the filing of such petition \nwith the clerk of court, the chief judge may appoint an investigator and \nmay enter an order setting a date for the hearing on said petition on \nproviding at least 21 calendar days’ notice. An attorney may be reinstated \nwithout a hearing upon a unanimous vote of all district judges who desire \nto participate in such determinations. \nAny investigator appointed will investigate the facts alleged in the petition \nfor reinstatement and will present to the court, in affidavit form or \notherwise, any facts in support of or against the granting of said petition. \nTwo district judges of this court will sit at the hearing on said petition, \nand the order denying or granting reinstatement will be made in writing \nby said judges. \n2. An attorney who has been disbarred or suspended by the Supreme Court \nof the State of South Dakota and thereafter reinstated by that court to ",
+          "pages": [
+            25
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "21 \n2/28/2025 \npractice in the state courts will not be permitted to practice in this court, \nnotwithstanding such reinstatement, until a petition for reinstatement \nas prescribed in section 1 above, incorporating a certified copy of the \norder of reinstatement by the Supreme Court of the State of South \nDakota, has been filed in this court and reinstatement ordered after a \nhearing as above provided. The hearing may be waived by the attorney \nwith the consent of the court. \nI. Law Students.\n1. Student Practice. Any law student acting under a supervising attorney \nwill be allowed to make an appearance and participate in proceedings in \nthis court pursuant to these rules. \n2. Eligibility. To be eligible to appear and participate, a law student must: \na. Be a student in good standing in a law school approved by the \nAmerican Bar Association. \nb. Have completed legal studies amounting to four semesters or the \nequivalent if the law school is on some basis other than a semester \nbasis. \nc. File with the clerk of court: \n(1) A certificate by the dean of the law school that he or she is of \ngood moral character and meets the requirements of rule 83.I.2 \nand is qualified to serve as a legal intern. The certificate should \nbe in a form prescribed by the court. \n(2) A certificate by the law student stating that he or she has read \nand agrees to abide by the rules of the court, and all applicable \ncodes of professional responsibility and other relevant federal \npractice rules. The certificate should be in a form prescribed by \nthe court. \n(3) A notice of appearance must be filed in each case in which he or \nshe is participating or appearing as a law student. The notice \nmust be signed by a supervising attorney who is a member of the \nbar of this court. \nd. Be introduced to the court in which he or she is appearing by \n an attorney who is a member of the bar of this court. \n3. Certificate of Admission. Upon the completion and filing of the \ncertificates required by these rules, the clerk of court will issue a \ncertificate of admission to the law student in a form prescribed by the ",
+          "pages": [
+            26
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "22 \n2/28/2025 \ncourt. This certificate expires contemporaneously with the expiration \ndate of the dean=s certificate unless it is sooner withdrawn. Any law \nstudent=s certificate of admission may be terminated at any time by the \ncourt without notice or hearing and without any showing of cause. \n4. Restrictions. No law student admitted under these rules will: \na. Request or receive any compensation or remuneration of any kind \nfrom the client. This will not prevent the supervising attorney, law \nschool, public defender, or the government from paying \ncompensation to the law student, nor will it prevent any agency from \nmaking such charges for its services as it may otherwise properly \nrequire. \nb. Appear in court without the presence of the supervising attorney. \nc. File any documents or papers with the court that he or she has \nprepared which have not been read, approved, and signed by the \nsupervising attorney. \n5. Supervising Attorneys. Any person acting as a supervising attorney \nunder this rule must be a member of the bar of this court and must: \na. Assume personal professional responsibility for the conduct of the \nlaw student being supervised. \nb. Sign all pleadings and other papers prepared by the law student. \nc. Advise the court of the law student=s participation, always be present \nwith the student in court and be prepared to supplement oral or \nwritten work of the student as requested by the court or as necessary \nto ensure proper representation of the client. \nd. Be available for consultation with the client. \n",
+          "pages": [
+            27
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "sdd-civil-parsed-v1-2db6120e6edcc37e",
+      "sourceDocumentId": "parsed-sdd-2db6120e6edcc37e",
+      "sourceUrl": "https://www.sdd.uscourts.gov/sites/sdd/files/Civil%20Local%20Rules%20-%20final%2C%20approved.pdf",
+      "pageIndex": 21,
+      "pageSpan": [
+        21,
+        27
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "sdd-civil:83.3",
+      "collectionId": "sdd-civil",
+      "districtId": "sdd",
+      "number": "83.3",
+      "citation": "District of South Dakota · Rule 83.3",
+      "title": "JURY DELIBERATIONS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 83.3 JURY DELIBERATIONS \nA. Availability During Deliberations. Until a verdict is reached, and the jury \nis discharged, the lawyers and the parties must be readily available to the \ncourt. When the jury begins to deliberate, the lawyers must advise the court \nof where they can be located in the courthouse, or if they intend to leave the \ncourthouse, of a telephone number where they can be reached without delay. \nA pro se party will be treated as counsel for purposes of this rule. \nB. Notification. If the jury has a question, or if some other issue arises during \njury deliberations, and the court determines the issue merits a conference ",
+          "pages": [
+            27
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "23 \n2/28/2025 \nwith the parties, the court will attempt to notify the lawyers. Counsel is \nresponsible for communicating any such notification to the parties. \nC. Proceedings. The nature of the proceedings concerning an issue arising dur￾ing jury deliberations will be determined by the judge. Where the jury has a \nsubstantive question, the judge will do the following: \n1. Advise the lawyers of the jury=s question; \n2. Ask the lawyers for suggestions on how to respond to the question; \n3. Formulate a response, as warranted; \n4. Allow the parties to make a record on the proposed response; and \n5. Communicate the response to the jury in an appropriate manner. \n",
+          "pages": [
+            28
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "sdd-civil-parsed-v1-2db6120e6edcc37e",
+      "sourceDocumentId": "parsed-sdd-2db6120e6edcc37e",
+      "sourceUrl": "https://www.sdd.uscourts.gov/sites/sdd/files/Civil%20Local%20Rules%20-%20final%2C%20approved.pdf",
+      "pageIndex": 27,
+      "pageSpan": [
+        27,
+        28
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "sdd-civil:83.4",
+      "collectionId": "sdd-civil",
+      "districtId": "sdd",
+      "number": "83.4",
+      "citation": "District of South Dakota · Rule 83.4",
+      "title": "FORM OF PAPERS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 83.4 FORM OF PAPERS \nA. In General. All documents must be on 82 x 11-inch paper. The text must be \ndouble-spaced, but quotations more than two lines long must be indented \nand single-spaced. Headings and footnotes must be single-spaced. Margins \nmust be at least one inch on all four sides. Fonts must be at least 12-point. \nPapers not in the required form may not be filed without leave of the court. \nExhibits attached to documents must, if feasible, be similarly typewritten, \nprinted, or otherwise reproduced in clear, legible, and permanent form. \nB. Redactions. If it is necessary to redact documents produced pursuant to \ndiscovery and/or filed with the court, redactions must be made in black, \nmaking it clear that information was removed. \n",
+          "pages": [
+            28
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "sdd-civil-parsed-v1-2db6120e6edcc37e",
+      "sourceDocumentId": "parsed-sdd-2db6120e6edcc37e",
+      "sourceUrl": "https://www.sdd.uscourts.gov/sites/sdd/files/Civil%20Local%20Rules%20-%20final%2C%20approved.pdf",
+      "pageIndex": 28,
+      "pageSpan": [
+        28,
+        28
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "sdd-civil:83.5",
+      "collectionId": "sdd-civil",
+      "districtId": "sdd",
+      "number": "83.5",
+      "citation": "District of South Dakota · Rule 83.5",
+      "title": "CLERK=S FEES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 83.5 CLERK=S FEES \nA. Filing Fees.\n1. Actions. Except in seaman=s suits, any party commencing any civil \naction, suit, or proceedings, whether by original process, removal, or \notherwise, must pay to the clerk of court the statutory filing fee before \nthe case will be filed and process issued thereon. (28 U.S.C. ' 1914). \n2. Appeals. The appellant must pay the statutory fee for an appeal to the \nclerk of the district court. (28 U.S.C. ' 1917). \n3. Habeas Corpus. The petitioner or applicant for a writ of habeas corpus, \nmust pay the statutory filing fee to the clerk of court. (28 U.S.C. ' 1914). ",
+          "pages": [
+            28
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "24 \n2/28/2025 \nB. Miscellaneous Fees. The clerk of court will collect from parties such \nadditional fees only as are prescribed by the Judicial Conference of the United \nStates. Payment of such fees may be required by the clerk of court before \nfurnishing the service therefor. \nC. Refusal to File by the Clerk. The clerk of court may refuse to docket or file \nany suit or proceeding, writ, or other process, pleading or other paper in any \nsuit or proceeding until the required filing fees are paid, except as otherwise \nordered by the court in proceedings in forma pauperis. (28 U.S.C. '' 1914(c) \nand 1915). \n",
+          "pages": [
+            29
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "sdd-civil-parsed-v1-2db6120e6edcc37e",
+      "sourceDocumentId": "parsed-sdd-2db6120e6edcc37e",
+      "sourceUrl": "https://www.sdd.uscourts.gov/sites/sdd/files/Civil%20Local%20Rules%20-%20final%2C%20approved.pdf",
+      "pageIndex": 28,
+      "pageSpan": [
+        28,
+        29
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "sdd-civil:83.6",
+      "collectionId": "sdd-civil",
+      "districtId": "sdd",
+      "number": "83.6",
+      "citation": "District of South Dakota · Rule 83.6",
+      "title": "MARSHALS FEES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 83.6 MARSHALS FEES \nA. Prepayment of Fees. Except as otherwise provided by statute or by order of \ncourt, the United States Marshal may require a deposit to cover all fees and \nexpenses prescribed by law for performing the services requested by any \nparty. (28 U.S.C. ' 1921). \nB. USM Form 285. Every party requesting the United States Marshal to serve \nany process, including an original summons, must furnish with every process \ndelivered to the United States Marshal a completed USM Form 285. Said \nforms are available through the United States Marshals Service or the clerk \nof court’s office. \n",
+          "pages": [
+            29
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "sdd-civil-parsed-v1-2db6120e6edcc37e",
+      "sourceDocumentId": "parsed-sdd-2db6120e6edcc37e",
+      "sourceUrl": "https://www.sdd.uscourts.gov/sites/sdd/files/Civil%20Local%20Rules%20-%20final%2C%20approved.pdf",
+      "pageIndex": 29,
+      "pageSpan": [
+        29,
+        29
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "sdd-civil:83.7",
+      "collectionId": "sdd-civil",
+      "districtId": "sdd",
+      "number": "83.7",
+      "citation": "District of South Dakota · Rule 83.7",
+      "title": "WITHDRAWAL OF COUNSEL",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 83.7 WITHDRAWAL OF COUNSEL \nA. In General. An attorney of record in a case may be permitted to withdraw \nfrom representation as counsel of record only by order of the court, or as \notherwise provided herein. This does not apply to situations where withdrawal \nresults in continued representation. \nB. Withdrawal with Substitution. Leave of court is not required where a notice \nof withdrawal is accompanied by a substitution of counsel, provided that said \nsubstitution takes place 90 or more days in advance of trial, the substitution \ncontains a certificate by substituted counsel, and the substitution will not \ndelay the trial or other progress of the case. The notice of withdrawal and \nsubstitution must set forth the name and address of the substituted and \nwithdrawing counsel. Withdrawal under this section will be effective upon \nfiling a notice of withdrawal and substitution. Notice of withdrawal must be \nprovided to the client by the withdrawing attorney. \nC. Withdrawal Without Substitution. Withdrawal without substitution may be \ngranted only upon motion, for good cause shown. Notice of the motion must \nbe provided to the client by the withdrawing attorney. ",
+          "pages": [
+            29
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "25 \n2/28/2025 \n",
+          "pages": [
+            30
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "sdd-civil-parsed-v1-2db6120e6edcc37e",
+      "sourceDocumentId": "parsed-sdd-2db6120e6edcc37e",
+      "sourceUrl": "https://www.sdd.uscourts.gov/sites/sdd/files/Civil%20Local%20Rules%20-%20final%2C%20approved.pdf",
+      "pageIndex": 29,
+      "pageSpan": [
+        29,
+        30
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "sdd-civil:83.8",
+      "collectionId": "sdd-civil",
+      "districtId": "sdd",
+      "number": "83.8",
+      "citation": "District of South Dakota · Rule 83.8",
+      "title": "WRITS OF HABEAS CORPUS AND MOTIONS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 83.8 WRITS OF HABEAS CORPUS AND MOTIONS \nPURSUANT TO 28 U.S.C. ' 2255 \nA. Filing Requirements. Petitions for writs of habeas corpus pursuant to 28 \nU.S.C. ' 2254 and 28 U.S.C. ' 2241, motions to vacate sentence pursuant to \n28 U.S.C. ' 2255, and applications to proceed in forma pauperis must be \nsigned and legibly written or typewritten on forms prescribed by the court and \nin accordance with the instructions provided with the forms unless the court \nfinds, in its discretion, that the petition, motion, or application is \nunderstandable and that it substantially conforms with federal and local \nrequirements for such actions. Copies of the relevant forms and instructions \nwill be provided by the clerk of court upon request The court may strike or \ndismiss petitions, motions, or applications that do not conform substantively \nor procedurally with federal and local requirements for such actions. \nB. In Forma Pauperis Certification. If a habeas corpus petitioner desires to \nprosecute a petition in forma pauperis, the petitioner must file an application \nto proceed in forma pauperis on a form prescribed by the court (Motion to \nProceed Without Prepayment of Fees and Declaration), accompanied by a \ncertification of the warden or other appropriate officer of the institution in \nwhich the petitioner is confined as to the amount of money or securities on \ndeposit for the petitioner. If the petitioner has in excess of $25 on deposit, the \npetitioner must pay the filing fee to proceed with a 28 U.S.C. ' 2241 or a 28 \nU.S.C. ' 2254 case. \nC. Assignment of Judicial Officer. Once a petition for a writ of habeas corpus \nis assigned to a district judge, any future pleadings filed by the prisoner will \nbe automatically assigned to the same district judge to whom the earlier case \nwas assigned, unless otherwise ordered by the court. Motions pursuant to 28 \nU.S.C. ' 2255 will be assigned as provided for in Rule 4(a) of the Rules \nGoverning Section 2255 Proceedings for the United States District Courts. \n",
+          "pages": [
+            30
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "sdd-civil-parsed-v1-2db6120e6edcc37e",
+      "sourceDocumentId": "parsed-sdd-2db6120e6edcc37e",
+      "sourceUrl": "https://www.sdd.uscourts.gov/sites/sdd/files/Civil%20Local%20Rules%20-%20final%2C%20approved.pdf",
+      "pageIndex": 30,
+      "pageSpan": [
+        30,
+        30
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "sdd-civil:83.9",
+      "collectionId": "sdd-civil",
+      "districtId": "sdd",
+      "number": "83.9",
+      "citation": "District of South Dakota · Rule 83.9",
+      "title": "PROCEDURES IN SOCIAL SECURITY CASES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 83.9 PROCEDURES IN SOCIAL SECURITY CASES \nA. Direct Assignment of Cases to Magistrate Judge. Every case filed under\n42 U.S.C. § 405(g) will be direct assigned to a magistrate judge by division. \nB. Consent and Reassignment. On or before the date on which the answer \nmust be filed, each party must submit a completed Social Security Case \nAssignment Form, through which the party either: \n 1. consents to disposition of the case by the magistrate judge under \n 28 U.S.C. § 636(c); or \n 2. asks to have a district judge assigned to the case. ",
+          "pages": [
+            30
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "26 \n2/28/2025 \n The Social Security Case Assignment Form must be submitted to the clerk \nin paper and not filed on the CM/ECF system. \nIf any party asks to have a district judge assigned to the case, it will be \nrandomly assigned. The magistrate judge assigned to the case will remain \nassigned to the case to conduct such proceedings as the district judge \ndirects. \nC. Filing an Answer and the Administrative Record. Within 60 days after \nnotice of an action is given, the Commissioner of Social Security must \nelectronically file and serve an answer and/or certified copy of the \nadministrative record consistent with Rule 4 of the Supplemental Rules for \nSocial Security (Supplemental Rules). \nD. Briefing. The briefing deadlines in the Supplemental Rules apply to all \nactions brought under 42 U.S.C. § 405(g). As of the adoption of this Local \nRule, unless the Court orders otherwise, the deadlines are: The plaintiff’s brief \nis due 30 days after the answer or certified record is filed or 30 days after \nentry of an order disposing of the last remaining motion to dismiss. The \ncommissioner’s brief is due 30 days after service of the plaintiff’s brief. The \nplaintiff may file a reply brief within 14 days after service of the \ncommissioner’s brief. \n",
+          "pages": [
+            31
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "sdd-civil-parsed-v1-2db6120e6edcc37e",
+      "sourceDocumentId": "parsed-sdd-2db6120e6edcc37e",
+      "sourceUrl": "https://www.sdd.uscourts.gov/sites/sdd/files/Civil%20Local%20Rules%20-%20final%2C%20approved.pdf",
+      "pageIndex": 30,
+      "pageSpan": [
+        30,
+        31
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "sdd-civil:83.10",
+      "collectionId": "sdd-civil",
+      "districtId": "sdd",
+      "number": "83.10",
+      "citation": "District of South Dakota · Rule 83.10",
+      "title": "COURT SECURITY OFFICER DUTIES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 83.10 COURT SECURITY OFFICER DUTIES \nWhen a petit jury has been selected but before deliberations begin, court \nsecurity officers shall, upon request, escort jurors outside the building provided \nthey remain on courthouse property. \nWhen a petit jury is sequestered to begin deliberations, court security officers \nshall collect and secure all cellphones and other electronic devices belonging to \njurors until such time as the jury has reached a verdict, at which time such \ndevices shall be returned to their owners. \n",
+          "pages": [
+            31
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "sdd-civil-parsed-v1-2db6120e6edcc37e",
+      "sourceDocumentId": "parsed-sdd-2db6120e6edcc37e",
+      "sourceUrl": "https://www.sdd.uscourts.gov/sites/sdd/files/Civil%20Local%20Rules%20-%20final%2C%20approved.pdf",
+      "pageIndex": 31,
+      "pageSpan": [
+        31,
+        31
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "sdd-civil:83.11",
+      "collectionId": "sdd-civil",
+      "districtId": "sdd",
+      "number": "83.11",
+      "citation": "District of South Dakota · Rule 83.11",
+      "title": "ASSIGNMENT AND REFERRAL OF CASES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 83.11 ASSIGNMENT AND REFERRAL OF CASES \nAssignment of Cases. To the extent possible, civil cases are randomly assigned \nto judges on a District-wide basis. The Chief Judge may direct the Clerk to \nreassign cases as necessary. \n",
+          "pages": [
+            31
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "sdd-civil-parsed-v1-2db6120e6edcc37e",
+      "sourceDocumentId": "parsed-sdd-2db6120e6edcc37e",
+      "sourceUrl": "https://www.sdd.uscourts.gov/sites/sdd/files/Civil%20Local%20Rules%20-%20final%2C%20approved.pdf",
+      "pageIndex": 31,
+      "pageSpan": [
+        31,
+        31
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "sdd-civil:83.12",
+      "collectionId": "sdd-civil",
+      "districtId": "sdd",
+      "number": "83.12",
+      "citation": "District of South Dakota · Rule 83.12",
+      "title": "FORMER LAW CLERKS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 83.12 FORMER LAW CLERKS \nAn attorney who is a former law clerk to a judge of this Court is prohibited \nfrom acting as counsel of record in a case assigned to that judge or otherwise ",
+          "pages": [
+            31
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "27 \n2/28/2025 \nappearing before that judge (a) at any time in any case that was assigned to that \njudge during the former clerk’s tenure with the judge, and (b) in any case for a \nperiod of one year following the termination of the law clerk’s service. ",
+          "pages": [
+            32
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "Millie B. Adams \nCircuit Executive \nUnited States Courts \nJudicial Council of the Eighth Circuit \nThomas F. Eagleton United States Courthouse \n111 South 10th Street - Suite 26.325 \nSt. Louis, Missouri 63102-1116 \nEIGHTH CIRCUIT JUDICIAL COUNCIL \nORDER \nVoice (314) 244-2600 \nFax (314) 244-2605 \nwww.ca8.uscourts.gov \nI hereby certify that the United States District Court for the District of South Dakota has \nfurnished amended civil and criminal local rules to the Judicial Council, in accordance with 28 \nU.S.C. § 2071(d). The Local Rule amendments have been reviewed by the Judicial Council, and \nit has determined to take no action with respect to the amended rules. The rules, therefore, become \neffective as of the date of this order, in accordance with 28 U.S.C. § 2071(c)(l), Fed. R. Civ. P. \n83(a)(l), and Fed. R. Crim. P. 57(c). \nSt. Louis, Missouri \nFebruary 24, 2025 \ncc: Judicial Council Members \nChief Judge Roberto A. Lange \nMatthew W. Thelen, Clerk of Court \nReview was undertaken by the Rules Committee. \nJCO 3440 \n!Z~4,t&~~ \nMillie B. Adams \nCircuit Executive ",
+          "pages": [
+            33
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "sdd-civil-parsed-v1-2db6120e6edcc37e",
+      "sourceDocumentId": "parsed-sdd-2db6120e6edcc37e",
+      "sourceUrl": "https://www.sdd.uscourts.gov/sites/sdd/files/Civil%20Local%20Rules%20-%20final%2C%20approved.pdf",
+      "pageIndex": 31,
+      "pageSpan": [
+        31,
+        33
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    }
+  ],
+  "evidence": [
+    {
+      "number": "1.1",
+      "heading": "LR 1.1 SCOPE OF THE RULES",
+      "page": 7,
+      "offset": 1473,
+      "slices": [
+        {
+          "page": 7,
+          "start": 1473,
+          "end": 1969,
+          "sha256": "6b8abd88e2839de706cfe76bd8969f1ff002852cacf454d2c732f90d27e2821f"
+        },
+        {
+          "page": 8,
+          "start": 0,
+          "end": 697,
+          "sha256": "753c7a6ba263ff75b9edb5d5731dc402e688fc643f8caa286706f07741dc6354"
+        }
+      ]
+    },
+    {
+      "number": "5.1",
+      "heading": "LR 5.1 SERVING AND FILING PLEADINGS AND OTHER PAPERS",
+      "page": 8,
+      "offset": 697,
+      "slices": [
+        {
+          "page": 8,
+          "start": 697,
+          "end": 2725,
+          "sha256": "723bf32ae23fd58311cb38a0ab917b123b9f272b170ae62a7781260daa339b90"
+        },
+        {
+          "page": 9,
+          "start": 0,
+          "end": 2564,
+          "sha256": "283c15a724788afbb35115f323e0d0d4719d7fed00df7b84b97b447530a84f93"
+        },
+        {
+          "page": 10,
+          "start": 0,
+          "end": 89,
+          "sha256": "ec1eed895addf5ad47d8532de2b35ae536ea4bf78dce8d57604e8c2cca862165"
+        }
+      ]
+    },
+    {
+      "number": "47.1",
+      "heading": "LR 47.1 B. The motion and proposed order must state the duration of the",
+      "page": 10,
+      "offset": 89,
+      "slices": [
+        {
+          "page": 10,
+          "start": 89,
+          "end": 1622,
+          "sha256": "3ffb7db616d35c45d0ca917ad205048f3ea032123cbf763f0d47919fcd73103a"
+        }
+      ]
+    },
+    {
+      "number": "5.2",
+      "heading": "LR 5.2 PRIVACY PROTECTION FOR FILINGS MADE WITH THE COURT",
+      "page": 10,
+      "offset": 1622,
+      "slices": [
+        {
+          "page": 10,
+          "start": 1622,
+          "end": 2226,
+          "sha256": "1ff434f0856b61a279a6884a722f2c21dc0b77eef2a9505fff99a86247426f3b"
+        },
+        {
+          "page": 11,
+          "start": 0,
+          "end": 566,
+          "sha256": "d67226da6c2e046902f0e6e80f49be6c5d2411f2b841389c77799d379f7ecc8a"
+        }
+      ]
+    },
+    {
+      "number": "7.1",
+      "heading": "LR 7.1 MOTIONS",
+      "page": 11,
+      "offset": 566,
+      "slices": [
+        {
+          "page": 11,
+          "start": 566,
+          "end": 2737,
+          "sha256": "10694e8ee03c03496b9184a239e1f6f38c5dfc15e9145193d8bfadf7c9a485ac"
+        },
+        {
+          "page": 12,
+          "start": 0,
+          "end": 330,
+          "sha256": "ee2ca5470b892b610c324c87f80ff21868a7726e7c9c37ddbbf3e9166d73a08b"
+        }
+      ]
+    },
+    {
+      "number": "7.1.1",
+      "heading": "LR 7.1.1 DISCLOSURE STATEMENT",
+      "page": 12,
+      "offset": 330,
+      "slices": [
+        {
+          "page": 12,
+          "start": 330,
+          "end": 790,
+          "sha256": "96f91dab607b58b885906b5ba91689322f1daef469189b4897dfb46a00c7e0c0"
+        }
+      ]
+    },
+    {
+      "number": "10.1",
+      "heading": "LR 10.1 IDENTIFICATION",
+      "page": 12,
+      "offset": 790,
+      "slices": [
+        {
+          "page": 12,
+          "start": 790,
+          "end": 1383,
+          "sha256": "7f869eb2185bbdd8fd7d5e2ff402700ead5cb261cfff57e8b00e9359a35d0fa1"
+        }
+      ]
+    },
+    {
+      "number": "12.1",
+      "heading": "LR 12.1 EXTENSION OF TIME TO ANSWER",
+      "page": 12,
+      "offset": 1383,
+      "slices": [
+        {
+          "page": 12,
+          "start": 1383,
+          "end": 1887,
+          "sha256": "1dd095afb25fc37d5c63e0c2500ea8362d537c6cfceeefe6a3ca9068f082bcec"
+        }
+      ]
+    },
+    {
+      "number": "15.1",
+      "heading": "LR 15.1 MOTIONS TO AMEND OR SUPPLEMENT PLEADINGS",
+      "page": 12,
+      "offset": 1887,
+      "slices": [
+        {
+          "page": 12,
+          "start": 1887,
+          "end": 2355,
+          "sha256": "b24943a1cf6512d9e7311beb48c95797eaded10e70155ca5abb58813167cb296"
+        },
+        {
+          "page": 13,
+          "start": 0,
+          "end": 14,
+          "sha256": "713866d4cb1a088b12dc7634b38059bd2f319ef04573d41c4f54a20f986cbac0"
+        }
+      ]
+    },
+    {
+      "number": "16.1",
+      "heading": "LR 16.1 SCHEDULING CONFERENCES",
+      "page": 13,
+      "offset": 14,
+      "slices": [
+        {
+          "page": 13,
+          "start": 14,
+          "end": 1271,
+          "sha256": "3d2b02fa172f91bffe14d0e222b67d8d15fa05725845e353c5d6615a64cb11a2"
+        },
+        {
+          "page": 14,
+          "start": 0,
+          "end": 14,
+          "sha256": "82801932220e7138664dcdc2e2a13e2d333ceb4a4b520127765eb60932e8688f"
+        }
+      ]
+    },
+    {
+      "number": "26.1",
+      "heading": "LR 26.1 FILING OF DISCOVERY MATERIALS",
+      "page": 14,
+      "offset": 14,
+      "slices": [
+        {
+          "page": 14,
+          "start": 14,
+          "end": 1061,
+          "sha256": "2d80076d650db99c5f2255f193a15c009c3895fddd7093f98b46810a37a04604"
+        }
+      ]
+    },
+    {
+      "number": "26.2",
+      "heading": "LR 26.2 MEETING OF PARTIES",
+      "page": 14,
+      "offset": 1061,
+      "slices": [
+        {
+          "page": 14,
+          "start": 1061,
+          "end": 1335,
+          "sha256": "94b4caa4d4137e94826e5468986a04bd1f63ae4920853389270a2aa1b4018273"
+        }
+      ]
+    },
+    {
+      "number": "28.1",
+      "heading": "LR 28.1 INDEPENDENCE OF COURT REPORTERS",
+      "page": 14,
+      "offset": 1335,
+      "slices": [
+        {
+          "page": 14,
+          "start": 1335,
+          "end": 2214,
+          "sha256": "ee0086712c9d07edd1ca9e457fb5c6cb375b83bd91a09a07feefe5e166981dd8"
+        },
+        {
+          "page": 15,
+          "start": 0,
+          "end": 903,
+          "sha256": "033ea6c857da579f3e2467a84976da75ebd5e5a37424a8c5e2e623624949e27a"
+        }
+      ]
+    },
+    {
+      "number": "29.1",
+      "heading": "LR 29.1 STIPULATIONS MADE IN OPEN COURT OR WRITING",
+      "page": 15,
+      "offset": 903,
+      "slices": [
+        {
+          "page": 15,
+          "start": 903,
+          "end": 1464,
+          "sha256": "c4d7f5c5d20e9fbaf62782fcda55d8ebf91712a700c56050b2f92d9d3bd10d3b"
+        }
+      ]
+    },
+    {
+      "number": "37.1",
+      "heading": "LR 37.1 CONDITIONS FOR DISCOVERY MOTIONS",
+      "page": 15,
+      "offset": 1464,
+      "slices": [
+        {
+          "page": 15,
+          "start": 1464,
+          "end": 1908,
+          "sha256": "bc3820faea5aa13936f2bff39db822b1853996b9f7ac5d629716d8eb2ba95dc6"
+        }
+      ]
+    },
+    {
+      "number": "39.1",
+      "heading": "LR 39.1 TRIALS",
+      "page": 15,
+      "offset": 1908,
+      "slices": [
+        {
+          "page": 15,
+          "start": 1908,
+          "end": 2460,
+          "sha256": "46c300df25a4d85306378d82f979ca4dd0353be2131eee613aad8b7e206df847"
+        },
+        {
+          "page": 16,
+          "start": 0,
+          "end": 220,
+          "sha256": "d3e9ab6585cb1a39ebf4c4262bd507f5bdd2d113bbd1f2bcc08e88031931e2c5"
+        }
+      ]
+    },
+    {
+      "number": "39.2",
+      "heading": "LR 39.2 WITNESS LIST",
+      "page": 16,
+      "offset": 220,
+      "slices": [
+        {
+          "page": 16,
+          "start": 220,
+          "end": 443,
+          "sha256": "b5fe59bd1fe3f220607224c9fceecd98203c086304f7922234e8bd444923a074"
+        }
+      ]
+    },
+    {
+      "number": "40.1",
+      "heading": "LR 40.1 CONTINUANCES",
+      "page": 16,
+      "offset": 443,
+      "slices": [
+        {
+          "page": 16,
+          "start": 443,
+          "end": 1582,
+          "sha256": "4cb1e13da8d27f81f72f7fd9d62420746dca93cdbdd6f9c5ba1d4dd4a3491360"
+        }
+      ]
+    },
+    {
+      "number": "43.1",
+      "heading": "LR 43.1 EXHIBITS",
+      "page": 16,
+      "offset": 1582,
+      "slices": [
+        {
+          "page": 16,
+          "start": 1582,
+          "end": 2146,
+          "sha256": "f5e9098aeed205bbf77ba3d77cdc6fb430c5f55315826a6c8a486d7f9e68a89e"
+        },
+        {
+          "page": 17,
+          "start": 0,
+          "end": 2098,
+          "sha256": "b5682f9b8a166fd2d9be74489ccb2bf519d54789e1754d466aced85f81af708a"
+        }
+      ]
+    },
+    {
+      "number": "47.2",
+      "heading": "LR 47.2 RESTRICTION ON PHOTOGRAPHING",
+      "page": 17,
+      "offset": 2098,
+      "slices": [
+        {
+          "page": 17,
+          "start": 2098,
+          "end": 2461,
+          "sha256": "83de9a838f126ba09c1f5b243bd767ecaff5e86bd72ffc1af888765a04a5bd2e"
+        },
+        {
+          "page": 18,
+          "start": 0,
+          "end": 744,
+          "sha256": "bc2180d2ec5ae9fa681a39a31a2fe28806545c5bb4db8dc5ae6918cbac7c17a9"
+        }
+      ]
+    },
+    {
+      "number": "51.1",
+      "heading": "LR 51.1 JURY INSTRUCTIONS",
+      "page": 18,
+      "offset": 744,
+      "slices": [
+        {
+          "page": 18,
+          "start": 744,
+          "end": 1142,
+          "sha256": "7469e21ad0edf693c4ef4b65192c49d13b1153fae4be9a5abfbccbd9bb980d58"
+        }
+      ]
+    },
+    {
+      "number": "53.1",
+      "heading": "LR 53.1 ALTERNATIVE DISPUTE RESOLUTION",
+      "page": 18,
+      "offset": 1142,
+      "slices": [
+        {
+          "page": 18,
+          "start": 1142,
+          "end": 1405,
+          "sha256": "acf19739f267bae4c9b8aaa0617fabd7bae90f478a44633af38df6bf0f918b44"
+        }
+      ]
+    },
+    {
+      "number": "54.1",
+      "heading": "LR 54.1 TAXATION OF COSTS",
+      "page": 18,
+      "offset": 1405,
+      "slices": [
+        {
+          "page": 18,
+          "start": 1405,
+          "end": 2374,
+          "sha256": "bc18a9acbde185d71dda8295e8184082dde03cfb7291f5625a0ebe61bdc5c07d"
+        },
+        {
+          "page": 19,
+          "start": 0,
+          "end": 1045,
+          "sha256": "848b8eeed55471d61eeda020c01c21c1bb573fd1e0f139915ad0518f0a73e234"
+        }
+      ]
+    },
+    {
+      "number": "56.1",
+      "heading": "LR 56.1 MOTION FOR SUMMARY JUDGMENT",
+      "page": 19,
+      "offset": 1045,
+      "slices": [
+        {
+          "page": 19,
+          "start": 1045,
+          "end": 2412,
+          "sha256": "edf0d45a8217018ad302433431b687b2708d7bbfd47630d6bc1fc171b1a1f843"
+        },
+        {
+          "page": 20,
+          "start": 0,
+          "end": 15,
+          "sha256": "b4fce2866569da01874fdb8b68d418a93def7ed83ad593d1433a88bec952255e"
+        }
+      ]
+    },
+    {
+      "number": "58.1",
+      "heading": "LR 58.1 APPELLATE JUDGMENTS, ORDERS, AND MANDATES",
+      "page": 20,
+      "offset": 15,
+      "slices": [
+        {
+          "page": 20,
+          "start": 15,
+          "end": 474,
+          "sha256": "b9e9fe5a1606e1fc63f7fb3a43f872310a294ded8f5125d7e521cb0c02265e03"
+        }
+      ]
+    },
+    {
+      "number": "65.1",
+      "heading": "LR 65.1 MOTIONS FOR PRELIMINARY AND PERMANENT INJUNCTION",
+      "page": 20,
+      "offset": 474,
+      "slices": [
+        {
+          "page": 20,
+          "start": 474,
+          "end": 717,
+          "sha256": "2f15451eedccd7250e645b68e05cdaba8015965f317c379fa9ca1a3b8492714d"
+        }
+      ]
+    },
+    {
+      "number": "67.1",
+      "heading": "LR 67.1 REGISTRY FUND",
+      "page": 20,
+      "offset": 717,
+      "slices": [
+        {
+          "page": 20,
+          "start": 717,
+          "end": 925,
+          "sha256": "242ffba512d4552665f384f48ba1889c1b0ce195295b520aeaaf32ef340cd0d0"
+        }
+      ]
+    },
+    {
+      "number": "68.1",
+      "heading": "LR 68.1 SETTLEMENT",
+      "page": 20,
+      "offset": 925,
+      "slices": [
+        {
+          "page": 20,
+          "start": 925,
+          "end": 1309,
+          "sha256": "b90e34821e693f12502238f3cfdd7a02566119e62ad6ff57aa3ee1216e63710c"
+        }
+      ]
+    },
+    {
+      "number": "72.1",
+      "heading": "LR 72.1 MAGISTRATE JUDGE DUTIES",
+      "page": 20,
+      "offset": 1309,
+      "slices": [
+        {
+          "page": 20,
+          "start": 1309,
+          "end": 2136,
+          "sha256": "4fa35d88dcb076947803808fa10a64f86f9016bef90a42fa07a33b8b5abd3e06"
+        },
+        {
+          "page": 21,
+          "start": 0,
+          "end": 1406,
+          "sha256": "cce81a9652724df1a7ed4dc2d8ad994e06ca3cf63d3c99c8fc03aacead739b55"
+        }
+      ]
+    },
+    {
+      "number": "83.1",
+      "heading": "LR 83.1 RECORDING AND CELLULAR DEVICES",
+      "page": 21,
+      "offset": 1406,
+      "slices": [
+        {
+          "page": 21,
+          "start": 1406,
+          "end": 2265,
+          "sha256": "75a42b3b265849c7a590e6549eb6f52d6c865825402f505baac4bf372b1f27b5"
+        },
+        {
+          "page": 22,
+          "start": 0,
+          "end": 2109,
+          "sha256": "075be09bc9ba61e03982bebaff62178b56074ad682ef1fd75349e30c5d330b9f"
+        }
+      ]
+    },
+    {
+      "number": "83.2",
+      "heading": "LR 83.2 ATTORNEYS",
+      "page": 22,
+      "offset": 2109,
+      "slices": [
+        {
+          "page": 22,
+          "start": 2109,
+          "end": 2630,
+          "sha256": "f9d2026bc687c4554f140551edf815fc461c7a8a7448d1407bc7372a84f3772f"
+        },
+        {
+          "page": 23,
+          "start": 0,
+          "end": 2379,
+          "sha256": "c79f817832e97a4f1e1522d80eb40c4522b216901ff29b86da105c7b2fd4a32d"
+        },
+        {
+          "page": 24,
+          "start": 0,
+          "end": 2157,
+          "sha256": "a8b0556fc8872979d0caf70baf546d12d22cebdc238bdedf94650c1070752015"
+        },
+        {
+          "page": 25,
+          "start": 0,
+          "end": 2011,
+          "sha256": "6ab0500d4cf0bd7548d0cdb8acabb7e270d4527bc01d5a2004d3a4205abc141b"
+        },
+        {
+          "page": 26,
+          "start": 0,
+          "end": 2692,
+          "sha256": "7bfac3e5a5d0de8c440163397e1ab972e966147e47d5584672c23ba432d5fac3"
+        },
+        {
+          "page": 27,
+          "start": 0,
+          "end": 2107,
+          "sha256": "7120ed468aa104cfb454f9ee4bcd23d2977d005e62b0d2729d72538f353af4a4"
+        },
+        {
+          "page": 28,
+          "start": 0,
+          "end": 1549,
+          "sha256": "7dcbd87a951e878077fdb795a559951b2e03815ceabbef11ac94d3b888ef359c"
+        }
+      ]
+    },
+    {
+      "number": "83.3",
+      "heading": "LR 83.3 JURY DELIBERATIONS",
+      "page": 28,
+      "offset": 1549,
+      "slices": [
+        {
+          "page": 28,
+          "start": 1549,
+          "end": 2196,
+          "sha256": "a59ce71729916091b3d18fb5b26d2d726c9816c69326905f3449d6f04c46bbfd"
+        },
+        {
+          "page": 29,
+          "start": 0,
+          "end": 666,
+          "sha256": "9a12362af908f55f6248eabf2d782d51eb85a49a5ecfdede198bdd5cce082884"
+        }
+      ]
+    },
+    {
+      "number": "83.4",
+      "heading": "LR 83.4 FORM OF PAPERS",
+      "page": 29,
+      "offset": 666,
+      "slices": [
+        {
+          "page": 29,
+          "start": 666,
+          "end": 1419,
+          "sha256": "72fbd4a59d32fc386a3d3f288ff6390f51d91b29c9a4233b49483ed4e396b750"
+        }
+      ]
+    },
+    {
+      "number": "83.5",
+      "heading": "LR 83.5 CLERK=S FEES",
+      "page": 29,
+      "offset": 1419,
+      "slices": [
+        {
+          "page": 29,
+          "start": 1419,
+          "end": 2024,
+          "sha256": "744cc46837f4812b7c40c89190ea8f71fe2f0b748272a6c412d12b3b3a83eb90"
+        },
+        {
+          "page": 30,
+          "start": 0,
+          "end": 612,
+          "sha256": "2cd69e1e8bf623a7de8e876a1200f1e061a5205556e138129a09969c981c349b"
+        }
+      ]
+    },
+    {
+      "number": "83.6",
+      "heading": "LR 83.6 MARSHALS FEES",
+      "page": 30,
+      "offset": 612,
+      "slices": [
+        {
+          "page": 30,
+          "start": 612,
+          "end": 1214,
+          "sha256": "aea598049adddc62cfc153cb94330fba4a2dca1b0a158b49a5e06d7e43a68863"
+        }
+      ]
+    },
+    {
+      "number": "83.7",
+      "heading": "LR 83.7 WITHDRAWAL OF COUNSEL",
+      "page": 30,
+      "offset": 1214,
+      "slices": [
+        {
+          "page": 30,
+          "start": 1214,
+          "end": 2394,
+          "sha256": "ffe78b8c988cf732c0e628c04ddb6a4162b5aa0b7d9d272cfe805dc4e51850b3"
+        },
+        {
+          "page": 31,
+          "start": 0,
+          "end": 15,
+          "sha256": "2a13267518f81fa7fe7b8a4891fbf151f728afd7e6e350d6c51c9b937e5d6ecd"
+        }
+      ]
+    },
+    {
+      "number": "83.8",
+      "heading": "LR 83.8 WRITS OF HABEAS CORPUS AND MOTIONS",
+      "page": 31,
+      "offset": 15,
+      "slices": [
+        {
+          "page": 31,
+          "start": 15,
+          "end": 2037,
+          "sha256": "41f470947225ee55d85a1a7f053bad8fd9b60430c6544aa1ed163e8ba774846e"
+        }
+      ]
+    },
+    {
+      "number": "83.9",
+      "heading": "LR 83.9 PROCEDURES IN SOCIAL SECURITY CASES",
+      "page": 31,
+      "offset": 2037,
+      "slices": [
+        {
+          "page": 31,
+          "start": 2037,
+          "end": 2581,
+          "sha256": "f8fa22b76fc66209d2058944716dc002f78047ad0526cb6203d1b1c928a03252"
+        },
+        {
+          "page": 32,
+          "start": 0,
+          "end": 1260,
+          "sha256": "a0a4fe995ea584c2c3c2fc6effb5fc4153388a4e8c3fd9e7301ce91f670e2198"
+        }
+      ]
+    },
+    {
+      "number": "83.10",
+      "heading": "LR 83.10 COURT SECURITY OFFICER DUTIES",
+      "page": 32,
+      "offset": 1260,
+      "slices": [
+        {
+          "page": 32,
+          "start": 1260,
+          "end": 1783,
+          "sha256": "dc831b5b20d4c85f19b24b8676241554c575d82b5dee6b4f126a55814fdae51d"
+        }
+      ]
+    },
+    {
+      "number": "83.11",
+      "heading": "LR 83.11 ASSIGNMENT AND REFERRAL OF CASES",
+      "page": 32,
+      "offset": 1783,
+      "slices": [
+        {
+          "page": 32,
+          "start": 1783,
+          "end": 2013,
+          "sha256": "487d5eab94f85891e0140e002a08af844fb0b617c508879c33b5318f274b4fe8"
+        }
+      ]
+    },
+    {
+      "number": "83.12",
+      "heading": "LR 83.12 FORMER LAW CLERKS",
+      "page": 32,
+      "offset": 2013,
+      "slices": [
+        {
+          "page": 32,
+          "start": 2013,
+          "end": 2198,
+          "sha256": "ba6dfc896d1304e248d87c89582d6b4570415121ff1d22c65adc6db406c24a64"
+        },
+        {
+          "page": 33,
+          "start": 0,
+          "end": 253,
+          "sha256": "5e5355c8ceeccfdbafc2e573e692b9e9b7f75c385135cbce36efa7e258ecbfdc"
+        },
+        {
+          "page": 34,
+          "start": 0,
+          "end": 1078,
+          "sha256": "ca5aac495351cc33ab09abaffcb3470169931eb1ea6c6dd1141bcf4acedfb4ef"
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "startPage": 7,
+    "startOffset": 1473,
+    "endPage": 34,
+    "endOffset": 1078,
+    "ruleCount": 41,
+    "tocReconciled": false,
+    "editorialReviewComplete": false,
+    "currencyReviewed": false,
+    "flags": [
+      "Source extraction contains unresolved characters; consult the original publication."
+    ],
+    "excluded": "Source material outside the recorded range remains available in the district source library."
+  },
+  "transcriptionSha256": "42c185f1846582c10bd188f435b175fb2101759c683592890cd3f3ffff7f06c1"
+}

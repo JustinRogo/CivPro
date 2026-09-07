@@ -1,0 +1,2679 @@
+{
+  "version": 1,
+  "reviewStatus": "parsed-draft",
+  "districtId": "almd",
+  "sourceDocument": {
+    "id": "39ccde043f3fccdb",
+    "title": "Local Rules",
+    "format": "pdf",
+    "role": "primary",
+    "sourceUrl": "https://www.almd.uscourts.gov/sites/default/files/forms/ALMD%20Local%20Rules.pdf",
+    "sha256": "39ccde043f3fccdb65241d8ac8eb53deec77a13fc7a6d2a17f5f7e7a94423377",
+    "bytes": 529223,
+    "retrievedAt": "2026-09-07T00:00:53.387097+00:00",
+    "snapshotPath": "sources/district-snapshots/39ccde043f3fccdb65241d8ac8eb53deec77a13fc7a6d2a17f5f7e7a94423377.pdf",
+    "textPath": "data/source-library/39ccde043f3fccdb65241d8ac8eb53deec77a13fc7a6d2a17f5f7e7a94423377.json",
+    "pdfPath": "data/source-pdfs/39ccde043f3fccdb65241d8ac8eb53deec77a13fc7a6d2a17f5f7e7a94423377.pdf",
+    "pageCount": 46,
+    "reviewStatus": "source-document-only",
+    "blankTextPages": 0
+  },
+  "collection": {
+    "id": "almd-civil",
+    "name": "Middle District of Alabama Local Rules",
+    "shortName": "Local rules · draft",
+    "districtId": "almd",
+    "scopeNote": "Civil and generally applicable local rules; unparsed supplements remain in the source library. Rule boundaries and transcription are drafts. Embedded notes, forms, and running headers may remain within rule text; subsection anchors and field-separated notes are not yet reviewed."
+  },
+  "provisions": [
+    {
+      "id": "almd-civil:1.1",
+      "collectionId": "almd-civil",
+      "districtId": "almd",
+      "number": "1.1",
+      "citation": "Middle District of Alabama · Rule 1.1",
+      "title": "Scope and Construction.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-4",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rule 1.1 \nScope and Construction. \n(a) Title and Citation. These rules shall be known as the Local Rules of the United\nStates District Court for the Middle District of Alabama. Rules applying to civil\n4",
+          "pages": [
+            3
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-5",
+          "path": [],
+          "type": "paragraph",
+          "text": "matters and to general provisions should be cited as \"M.D. Ala. LR \" and rules\napplying to criminal matters should be cited as \"M.D. Ala. LCrR .\"\n(b) Effective Date. These rules become effective on December 1, 2010 and shall\ngovern all proceedings thereafter commenced and, insofar as just and practicable, all\nproceedings then pending.\n(c) Scope and Construction. These rules, made pursuant to the authority of 28 U.S.C.\n§ 2071, Fed. R. Civ. P. 83, and Fed. R. Crim. P. 57, shall apply to all proceedings,\nwhether civil or criminal, unless specifically provided to the contrary or necessarily\nrestricted by inference from the context.\n(d) Relationship to Prior Rules and Subsequent Orders. These rules supersede all\nprevious rules promulgated by this Court or any judge of this Court except for those\ngeneral or standing orders that exist at the time the rules are published and that do\nnot expressly conflict with these rules. These rules, however, may be affected by any\ngeneral or standing orders promulgated pursuant to the authority of 28 U.S.C.\n2071(e) and entered by this Court after publication of these rules.\n(e) Any judge of this Court may suspend application and enforcement of these local\nrules, in whole or in part, in the interests of justice in individual actions. When any\njudge of this Court, in a specific action, issues any order which is not consistent with\nthese rules, such order shall constitute a suspension of the rules with respect to that\naction only, and only to the extent that such order is inconsistent with the rules.\n(f) Subject to the review of the District Court, the Bankruptcy Court for the Middle\nDistrict of Alabama is authorized to make and amend rules governing practice and\nprocedure in all actions within its jurisdiction. Any rules made pursuant to this\nauthorization must be consistent with Bankruptcy Rule 9029, and Fed.R.Civ.P. 83,\nand may not limit the use of the Official Forms.\n(g) Rules of Construction and Definition. United States Code, Title 1, Sections 1 to 5,\nshall, as far as applicable, govern the construction of these rules.\nBack To Top Of Table Of Rules\n",
+          "pages": [
+            4
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "almd-civil-parsed-v1-39ccde043f3fccdb",
+      "sourceDocumentId": "parsed-almd-39ccde043f3fccdb",
+      "sourceUrl": "https://www.almd.uscourts.gov/sites/default/files/forms/ALMD%20Local%20Rules.pdf",
+      "pageIndex": 3,
+      "pageSpan": [
+        3,
+        4
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "almd-civil:1.2",
+      "collectionId": "almd-civil",
+      "districtId": "almd",
+      "number": "1.2",
+      "citation": "Middle District of Alabama · Rule 1.2",
+      "title": "Sanctions.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-5",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rule 1.2 \nSanctions. \nSanctions. The Court may impose a sanction for the violation of any local rule.\nImposition of sanctions will lie within the sound discretion of the judge whose case is\naffected.\nBack To Top Of Table Of Rules\n5",
+          "pages": [
+            4
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "almd-civil-parsed-v1-39ccde043f3fccdb",
+      "sourceDocumentId": "parsed-almd-39ccde043f3fccdb",
+      "sourceUrl": "https://www.almd.uscourts.gov/sites/default/files/forms/ALMD%20Local%20Rules.pdf",
+      "pageIndex": 4,
+      "pageSpan": [
+        4,
+        4
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "almd-civil:3.1",
+      "collectionId": "almd-civil",
+      "districtId": "almd",
+      "number": "3.1",
+      "citation": "Middle District of Alabama · Rule 3.1",
+      "title": "Civil Cover Sheet.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-6",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rule 3.1 \nCivil Cover Sheet. \n(a) Completed Civil Cover Sheet Required. A completed civil cover sheet (Form JS￾44) shall be submitted to the Clerk with the initial civil complaint or notice of\nremoval filed in this Court by a litigant represented by counsel. This requirement is\nsolely for administrative purposes, and matters appearing in the civil cover sheet\nhave no legal effect in the action.\n(b) Failure To Comply. If the initial complaint or notice of removal is filed without a\ncompleted civil cover sheet, the Clerk shall mark the document as to the date\nreceived and promptly give notice of the omission to the party filing the document.\nWhen the civil cover sheet has been completed, the Clerk shall file the complaint or\nother document nunc pro tunc as of the date of the original receipt.\nBack To Top Of Table Of Rules\n",
+          "pages": [
+            5
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "almd-civil-parsed-v1-39ccde043f3fccdb",
+      "sourceDocumentId": "parsed-almd-39ccde043f3fccdb",
+      "sourceUrl": "https://www.almd.uscourts.gov/sites/default/files/forms/ALMD%20Local%20Rules.pdf",
+      "pageIndex": 5,
+      "pageSpan": [
+        5,
+        5
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "almd-civil:4.1",
+      "collectionId": "almd-civil",
+      "districtId": "almd",
+      "number": "4.1",
+      "citation": "Middle District of Alabama · Rule 4.1",
+      "title": "Service of Process",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-6",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rule 4.1\nService of Process\nUnless otherwise ordered by the Court, the following procedures for service of\nprocess apply in this District.\n(a) Summons. The provisions of Fed.R.Civ.P. 4 apply in this District. If service is\neffected by summons, the person effecting service shall make proof thereof to the\nCourt within seven (7) days of the date service is effected. See Fed.R.Civ.P. 4(l).\n(b) Waiver of Service. The provisions of Fed.R.Civ.P. 4(d) apply in this District. If\nservice is waived, Plaintiff shall file the waiver of service with the Court within seven\n(7) days after receipt of the waiver by Plaintiff.\nBack To Top Of Table Of Rules\n",
+          "pages": [
+            5
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "almd-civil-parsed-v1-39ccde043f3fccdb",
+      "sourceDocumentId": "parsed-almd-39ccde043f3fccdb",
+      "sourceUrl": "https://www.almd.uscourts.gov/sites/default/files/forms/ALMD%20Local%20Rules.pdf",
+      "pageIndex": 5,
+      "pageSpan": [
+        5,
+        5
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "almd-civil:5.1",
+      "collectionId": "almd-civil",
+      "districtId": "almd",
+      "number": "5.1",
+      "citation": "Middle District of Alabama · Rule 5.1",
+      "title": "Notification of Claim of Unconstitutionality.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-6",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rule 5.1 \nNotification of Claim of Unconstitutionality. \n(a) Act of Congress. In any action, suit, or proceeding in which the United States or\nany agency, officer, or employee thereof is not a party and in which the\nconstitutionality of an Act of Congress affecting the public interest is challenged, the\nparty raising the constitutional issue shall notify the Court of the existence of the\nquestion either by checking the appropriate box on the Civil Cover Sheet or by\nstating on the pleading, document or other papers that allege the unconstitutionality,\nin the caption under the case number, \"Claim of Unconstitutionality\" or the\nequivalent so that the Clerk can comply with the requirements of 28 U.S.C. § 2403\nand Fed. R. Civ. P. 5.1.\n(b) State Statute. In any action, suit, or proceeding in which a State or any agency,\nofficer, or employee thereof is not a party and in which the constitutionality of any\n6",
+          "pages": [
+            5
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-7",
+          "path": [],
+          "type": "paragraph",
+          "text": "statute of that state affecting the public interest is challenged, the party raising the\nconstitutional issue shall notify the Court of the existence of the question either by\nchecking the appropriate box on the Civil Cover Sheet or by stating on the pleading,\ndocument or other papers that allege the unconstitutionality, in the caption under\nthe case number, \"Claim of Unconstitutionality\" or the equivalent so that the Clerk\ncan comply with the requirements of 28 U.S.C. § 2403 and Fed. R. Civ. P. 5.1.\n(c) No Waiver. Failure to comply with this rule is not grounds for waiving the\nconstitutional issue or for waiving any other rights the party may have. Any notice\nprovided under this rule, or lack of notice, will not serve as a substitute for, or as a\nwaiver of, any pleading requirements set forth in the federal rules or statutes.\nBack To Top Of Table Of Rules\n",
+          "pages": [
+            6
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "almd-civil-parsed-v1-39ccde043f3fccdb",
+      "sourceDocumentId": "parsed-almd-39ccde043f3fccdb",
+      "sourceUrl": "https://www.almd.uscourts.gov/sites/default/files/forms/ALMD%20Local%20Rules.pdf",
+      "pageIndex": 5,
+      "pageSpan": [
+        5,
+        6
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "almd-civil:5.2",
+      "collectionId": "almd-civil",
+      "districtId": "almd",
+      "number": "5.2",
+      "citation": "Middle District of Alabama · Rule 5.2",
+      "title": "Redaction of Personal Identifiers",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-7",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rule 5.2 \nRedaction of Personal Identifiers\n(a) Parties to any litigation shall refrain from including, or shall partially redact\nwhere inclusion is necessary, the following personal data identifiers from all pleadings,\ndocuments or other papers filed with the Court, including exhibits to pleadings,\ndocuments or other papers, whether filed electronically or by paper, unless otherwise\nordered by the Court:\n1. Social Security Numbers. If an individual's social security number must be\nincluded in a pleading, only the last four digits of that number should be used.\n2. Names of Minor Children. If the involvement of a minor child must be\nmentioned, only the initials of that child should be used.\n3. Dates of Birth. If an individual's date of birth must be included in a pleading,\nonly the year should be used.\n4. Financial Account Numbers. If financial account numbers are relevant, only\nthe last four digits of these numbers should be used.\n5. Addresses of Individuals. If the address of an individual is relevant, only the\ncity and state should be used.\n(b) Any party wishing to file a document containing the personal data identifiers\nlisted above may do so using one of two methods: \n1. File a reference list under seal. The reference list shall contain the complete\npersonal data identifier(s) and the redacted identifier(s) used in its (their)\nplace in the filing. All references in the case to the redacted identifiers\nincluded in the reference list will be construed to refer to the corresponding\ncomplete personal data identifier. The reference list must be filed under seal,\nand may be amended as of right. \n7",
+          "pages": [
+            6
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-8",
+          "path": [],
+          "type": "paragraph",
+          "text": "2. File an unredacted version of the document under seal.\n(c) A party filing an unredacted document under seal that contains personal data\nidentifiers shall simultaneously file a redacted copy of the document for the public\nfile. The unredacted version of the document or the reference list shall be retained\nby the Court as part of the record. \n(d) The responsibility for redacting these personal identifiers rests solely with\ncounsel and the parties who should not include sensitive information in any\ndocument filed with the Court unless the information is necessary and relevant to\nthe case. The Clerk of the Court will not review each pleading for compliance with\nthis order. Counsel are urged to notify all clients of this order and the provisions of\nthe E-Government Act of 2002 and Federal Rule of Civil Procedure 5.2 as amended,\nso that an informed decision about the inclusion of information in pleadings,\ndocuments or other papers may be made. It is the sole responsibility of counsel and\nthe parties to insure that all pleadings, documents or other papers filed with Court\ncomply with this order concerning the redaction of personal data identifiers.\nBack To Top Of Table Of Rules\n",
+          "pages": [
+            7
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "almd-civil-parsed-v1-39ccde043f3fccdb",
+      "sourceDocumentId": "parsed-almd-39ccde043f3fccdb",
+      "sourceUrl": "https://www.almd.uscourts.gov/sites/default/files/forms/ALMD%20Local%20Rules.pdf",
+      "pageIndex": 6,
+      "pageSpan": [
+        6,
+        7
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "almd-civil:5.3",
+      "collectionId": "almd-civil",
+      "districtId": "almd",
+      "number": "5.3",
+      "citation": "Middle District of Alabama · Rule 5.3",
+      "title": "Filing of Documents By Electronic and Other Means",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-8",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rule 5.3 \nFiling of Documents By Electronic and Other Means\n(a) Pleadings and documents are electronically filed, filed conventionally at the\ncounter in the Clerk’s office or received in hand, by mail or otherwise. In very\nlimited circumstances, they may be filed by facsimile, as set forth below.\n(b) Pleadings and documents may be filed, signed and verified by electronic means\nto the extent and in the manner authorized by the Court’s General Order(s)and the\nCivil and Criminal Administrative Procedures regarding Electronic Case Filing. \n(c) Pleadings and documents may be filed over the counter in the Clerk's Office in\nthe Federal Courthouse at One Church Street in Montgomery, by mail or other\ndelivery between the hours of 8:00 a.m. and 5:00 p.m. After 5:00 p.m., and before\n8:00 a.m., pleadings can be accepted at the drop box, located in front of the Federal\nCourthouse building on Church Street. Pleadings and documents are accepted by\nmail, but they will not be time/date-stamped until the documents are received by the\nClerk's Office.\n(d) Filing of papers by facsimile is allowed subject to the following restrictions:\n(1) telephonic authorization must be obtained from the Clerk of the Court or,\nin his/her absence, from his/her Chief Deputy, before any paper is\ntransmitted by facsimile for filing.\n8",
+          "pages": [
+            7
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-9",
+          "path": [],
+          "type": "paragraph",
+          "text": "(2) the Clerk or his/her Chief Deputy shall approve the transmission only in\nan emergency situation.\n(3) originals of the transmissions must follow by overnight mail.\n \nBack To Top Of Table Of Rules\n",
+          "pages": [
+            8
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "almd-civil-parsed-v1-39ccde043f3fccdb",
+      "sourceDocumentId": "parsed-almd-39ccde043f3fccdb",
+      "sourceUrl": "https://www.almd.uscourts.gov/sites/default/files/forms/ALMD%20Local%20Rules.pdf",
+      "pageIndex": 7,
+      "pageSpan": [
+        7,
+        8
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "almd-civil:5.4",
+      "collectionId": "almd-civil",
+      "districtId": "almd",
+      "number": "5.4",
+      "citation": "Middle District of Alabama · Rule 5.4",
+      "title": "Service of Documents By Electronic Means and Other Means",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-9",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rule 5.4\nService of Documents By Electronic Means and Other Means\n(a) Documents may be served through the Court’s transmission facilities by\nelectronic or other means to the extent and in the manner authorized by the Court’s\nGeneral Order(s) and Civil and Criminal Administrative Procedures regarding\nElectronic Case Filing. Transmission by the Notice of Electronic Filing constitutes\nservice of the filed document upon each party in the case who is registered as a Filing\nUser. Any other party or parties shall be served documents according to the Local\nRules, the Federal Rules of Civil Procedure and the Federal Rules of Criminal\nProcedure.\n(b) In all cases other than those where documents are filed through the Court’s\nelectronic transmission facilities, service of documents filed with the Court should be\naccomplished pursuant to the Federal Rules of Civil Procedure in a method that also\nensures that the receiving party receives the documents at or near the same time\nthey are filed. \nBack To Top Of Table Of Rules\n",
+          "pages": [
+            8
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "almd-civil-parsed-v1-39ccde043f3fccdb",
+      "sourceDocumentId": "parsed-almd-39ccde043f3fccdb",
+      "sourceUrl": "https://www.almd.uscourts.gov/sites/default/files/forms/ALMD%20Local%20Rules.pdf",
+      "pageIndex": 8,
+      "pageSpan": [
+        8,
+        8
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "almd-civil:5.5",
+      "collectionId": "almd-civil",
+      "districtId": "almd",
+      "number": "5.5",
+      "citation": "Middle District of Alabama · Rule 5.5",
+      "title": "Emergency Filing of Pleadings, Motions and Other Papers.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-9",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rule 5.5\nEmergency Filing of Pleadings, Motions and Other Papers.\n(a) When the necessity arises that an attorney must file pleadings, motions or other\npapers before the hour of 8:00 a.m. or after 5:00 p.m., and the attorney is unable to\nfile the papers electronically and/or it is not practical to file them in the drop box,\nlocated in front of the Federal Courthouse building on Church Street, the following\npersons are designated to be on call to accept these filings in the following order:\nClerk of the Court or Chief Deputy Clerk, whose contact information can be\nobtained from the Court’s website at http://www.almd.uscourts.gov or by calling the\nclerk's office at 334-954-3600 and/or the CM/ECF Help Desk - 334-954-3935.\n(b) Pleadings, motions and other papers that are filed after hours should show the\ndate and time received and the initials of the official receiving them.\n(c) In emergency situations, if neither the Clerk nor Chief Deputy Clerk is available,\nany district judge or magistrate judge may accept pleadings, motions or other\npapers after hours.\n9",
+          "pages": [
+            8
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-10",
+          "path": [],
+          "type": "paragraph",
+          "text": "Back To Top Of Table Of Rules\n",
+          "pages": [
+            9
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "almd-civil-parsed-v1-39ccde043f3fccdb",
+      "sourceDocumentId": "parsed-almd-39ccde043f3fccdb",
+      "sourceUrl": "https://www.almd.uscourts.gov/sites/default/files/forms/ALMD%20Local%20Rules.pdf",
+      "pageIndex": 8,
+      "pageSpan": [
+        8,
+        9
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "almd-civil:5.6",
+      "collectionId": "almd-civil",
+      "districtId": "almd",
+      "number": "5.6",
+      "citation": "Middle District of Alabama · Rule 5.6",
+      "title": "Document Size of Papers Filed with Court.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-10",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rule 5.6\nDocument Size of Papers Filed with Court. \nAll pleadings, motions, and other papers presented for filing shall be on 8-1/2 x 11\ninch white paper of good quality, flat and unfolded, bound only by easily removable\npaper or spring type binder clips, and not stapled or mechanically bound or fastened\nin any way, and shall be plainly typewritten, printed, or prepared by a clearly legible\nduplicating process, and double-spaced, except for quoted material. Each page shall\nbe numbered consecutively. Exhibits submitted for filing shall be of that size if\npracticable and must be legible.\nBack To Top Of Table Of Rules\n",
+          "pages": [
+            9
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "almd-civil-parsed-v1-39ccde043f3fccdb",
+      "sourceDocumentId": "parsed-almd-39ccde043f3fccdb",
+      "sourceUrl": "https://www.almd.uscourts.gov/sites/default/files/forms/ALMD%20Local%20Rules.pdf",
+      "pageIndex": 9,
+      "pageSpan": [
+        9,
+        9
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "almd-civil:5.7",
+      "collectionId": "almd-civil",
+      "districtId": "almd",
+      "number": "5.7",
+      "citation": "Middle District of Alabama · Rule 5.7",
+      "title": "Letter Briefs",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-10",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rule 5.7\nLetter Briefs\nPleadings, Briefs and Motions will not be accepted in “letter form.” Any such\n“letters motions” or “letter briefs” or “supplemental information” will not be\nconsidered by the Court. All documents requesting any Court action or presenting\nany matters for consideration of the Court must be filed in accordance with the\nprocedures set forth in the Federal Rules of Civil Procedure and these Local Rules.\nBack To Top Of Table Of Rules\n",
+          "pages": [
+            9
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "almd-civil-parsed-v1-39ccde043f3fccdb",
+      "sourceDocumentId": "parsed-almd-39ccde043f3fccdb",
+      "sourceUrl": "https://www.almd.uscourts.gov/sites/default/files/forms/ALMD%20Local%20Rules.pdf",
+      "pageIndex": 9,
+      "pageSpan": [
+        9,
+        9
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "almd-civil:5.8",
+      "collectionId": "almd-civil",
+      "districtId": "almd",
+      "number": "5.8",
+      "citation": "Middle District of Alabama · Rule 5.8",
+      "title": "Page substitutions",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-10",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rule 5.8\nPage substitutions\nPage substitutions in complaints, or pleadings, documents or other papers filed with\nthe Court will not be accepted. Page substitutions must be done by the filing of an\nappropriate motion.\nBack To Top Of Table Of Rules\n",
+          "pages": [
+            9
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "almd-civil-parsed-v1-39ccde043f3fccdb",
+      "sourceDocumentId": "parsed-almd-39ccde043f3fccdb",
+      "sourceUrl": "https://www.almd.uscourts.gov/sites/default/files/forms/ALMD%20Local%20Rules.pdf",
+      "pageIndex": 9,
+      "pageSpan": [
+        9,
+        9
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "almd-civil:5.9",
+      "collectionId": "almd-civil",
+      "districtId": "almd",
+      "number": "5.9",
+      "citation": "Middle District of Alabama · Rule 5.9",
+      "title": "Removal of Court Files and Return or Destruction of Exhibits.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-10",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rule 5.9 \nRemoval of Court Files and Return or Destruction of Exhibits. \n(a) Removal of Case Files from Clerk's Office. The Clerk is not permitted to allow\nthe removal of case files from the Clerk's Office by parties or counsel without an\norder of this Court.\n(b) Exhibits Generally. In both civil and criminal actions, all exhibits filed with or\nreceived by the Court during the pendency of the action, including during trial shall\n10",
+          "pages": [
+            9
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-11",
+          "path": [],
+          "type": "paragraph",
+          "text": "be promptly returned by the clerk to the custody of the offering party or\ninvestigating agency upon the rendering of a verdict in a jury action or upon the\nentering of the final order in a non-jury action. The clerk shall obtain a receipt for\nall such returned exhibits and shall place same in the Court file.\n(c) Matters on Appeal. In the event of an appeal, it shall be the duty of the party,\ninvestigating agency or the United States Attorney to whom such exhibits have been\ndelivered to produce same as may be required for such appellate process or other or\nfurther proceedings in this Court. It shall also be the responsibility of the\ninvestigating agency or the United States Attorney to document the chain of custody\nfor each returned exhibit during the time permitted for filing an appeal and during\nthe pendency of an appeal filed in compliance with Fed.R.Crim.P.3.\nBack To Top Of Table Of Rules\n",
+          "pages": [
+            10
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "almd-civil-parsed-v1-39ccde043f3fccdb",
+      "sourceDocumentId": "parsed-almd-39ccde043f3fccdb",
+      "sourceUrl": "https://www.almd.uscourts.gov/sites/default/files/forms/ALMD%20Local%20Rules.pdf",
+      "pageIndex": 9,
+      "pageSpan": [
+        9,
+        10
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "almd-civil:7.1",
+      "collectionId": "almd-civil",
+      "districtId": "almd",
+      "number": "7.1",
+      "citation": "Middle District of Alabama · Rule 7.1",
+      "title": "Conflict Disclosure Statement",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-11",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rule 7.1\nConflict Disclosure Statement\n(a) All parties and amici curiae (including individuals and governmental entities)\nshall file a Conflict Disclosure Statement, at the time of the filing of the initial\npleading, or other Court paper on behalf of that party or as otherwise ordered by\nthe Court, identifying all parent companies, subsidiaries, partners, limited liability\nentity members and managers, trustees (but not trust beneficiaries), affiliates, or\nsimilar entities that could potentially pose a financial or professional conflict for a\njudge. In emergency or any other situations where filing the Disclosure Statement\nwith the initial pleading, or other Court paper, is impossible or impracticable, it\nshall be filed within seven days of the date of the original filing, or such other time as\nthe Court may direct. For the purposes of this rule, “affiliate” shall be a person that\ndirectly, or indirectly through one or more intermediaries, controls, is controlled by,\nor is under common control with, the specified entity; “parent” shall be an affiliate\nwhich controls such entity directly, or indirectly through intermediaries; and\n“subsidiary” shall be an affiliate controlled by such entity directly, or indirectly\nthrough one or more intermediaries. \n(b) The purpose of this Disclosure Statement is to enable the judges of this Court to\ndetermine the need for recusal pursuant to 28 U.S.C. §455 or otherwise. Counsel\nshall have the continuing obligation to amend the disclosure statement to reflect\nrelevant changes. \n(c) The statement shall identify the represented entity’s general nature and purpose\nand if the entity is unincorporated, the statement shall include the names of any\nmembers of the entity that have issued shares or debt securities to the public. No\nsuch listing need be made, however, of the names of members of a trade association\nor professional association. For purposes of this rule, a “trade association” is a\ncontinuing association of numerous organizations or individuals operated for the\n11",
+          "pages": [
+            10
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-12",
+          "path": [],
+          "type": "paragraph",
+          "text": "purpose of promoting the general commercial, professional, legislative, or other\ninterests of the membership. The form of the Disclosure Statement is set forth in\nAppendix A to these Rules.\nBack To Top Of Table Of Rules\n",
+          "pages": [
+            11
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "almd-civil-parsed-v1-39ccde043f3fccdb",
+      "sourceDocumentId": "parsed-almd-39ccde043f3fccdb",
+      "sourceUrl": "https://www.almd.uscourts.gov/sites/default/files/forms/ALMD%20Local%20Rules.pdf",
+      "pageIndex": 10,
+      "pageSpan": [
+        10,
+        11
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "almd-civil:9.1",
+      "collectionId": "almd-civil",
+      "districtId": "almd",
+      "number": "9.1",
+      "citation": "Middle District of Alabama · Rule 9.1",
+      "title": "Pro Se Civil Rights and Habeas Corpus Filings.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-12",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rule 9.1 \nPro Se Civil Rights and Habeas Corpus Filings. \n(a) Every pro se action by an inmate under 42 U.S.C. § 1983 and every pro se\npetition for the writ of habeas corpus under 28 U.S.C. §§ 2254 and 2255 must be (1)\nlegibly handwritten, printed, or typed (inmates are strongly encouraged to use the\nforms available at the respective facilities, on the Court’s website, or, if requested in\nwriting, from the Clerk’s office), (2) signed under penalty of perjury in accordance\nwith the law, (3) accompanied by a pauper's affidavit (on a Court-provided form) if\nplaintiff seeks to proceed without payment of costs, and (4) completely filled out.\n(b) In a case in which an inmate plaintiff is represented by counsel, nothing will be\naccepted for filing (except a pro se motion for release of counsel) unless it is filed by\ncounsel.\nBack To Top Of Table Of Rules\n",
+          "pages": [
+            11
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "almd-civil-parsed-v1-39ccde043f3fccdb",
+      "sourceDocumentId": "parsed-almd-39ccde043f3fccdb",
+      "sourceUrl": "https://www.almd.uscourts.gov/sites/default/files/forms/ALMD%20Local%20Rules.pdf",
+      "pageIndex": 11,
+      "pageSpan": [
+        11,
+        11
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "almd-civil:9.2",
+      "collectionId": "almd-civil",
+      "districtId": "almd",
+      "number": "9.2",
+      "citation": "Middle District of Alabama · Rule 9.2",
+      "title": "Capital Habeas Corpus Cases",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-12",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rule 9.2 \nCapital Habeas Corpus Cases \n(a) In order to provide for a comprehensive and organized record for a capital\nhabeas proceeding, and to avoid duplication by the parties, the following is required:\n(1) The entire record of the case shall be filed with the Clerk of the Court at a\ntime to be designated by the Court.\n(2) The petitioner shall be the party responsible for filing the record, unless\nthe parties agree that the respondent will file the record.\n(3) The record shall be divided into volumes each consisting of approximately\ntwo hundred pages. Each volume shall be numbered and have a cover that\nincludes the case name, the case number, and a designation of what category\nof documents, as described below, is contained in the volume. See sample\nvolume covers in the forms.\n(4) The record shall be assembled in the following order and shall be\nseparated by tabs according to the following categories:\n(a) State Court – Trial. This section shall include the trial transcript\nand the circuit clerk's record from the trial proceeding.\n12",
+          "pages": [
+            11
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-13",
+          "path": [],
+          "type": "paragraph",
+          "text": "(b) Alabama Court of Criminal Appeals -- Direct Appeal. This section\nshall include the direct appeal briefs filed by both parties with the\nAlabama Court of Criminal Appeals and the opinion(s) from the\nAlabama Court of Criminal Appeals.\n(c) Alabama Supreme Court – Direct Appeal This section shall include\nthe direct appeal briefs filed by both parties with the Alabama\nSupreme Court and the opinion(s) from the Alabama Supreme Court.\n(d) United States Supreme Court – Direct Appeal. This section shall\ninclude the pleadings filed by both parties with the United States\nSupreme Court and the decision(s) from the United States Supreme\nCourt.\n(e) State Court – Collateral Appeal. This section shall include the post￾conviction hearing transcript and the circuit clerk's record from the\nRule 32 proceedings with the trial Court.\n(f) Alabama Court of Criminal Appeals -- Collateral Appeal. This\nsection shall include the post-conviction appeal briefs filed by both\nparties with the Alabama Court of Criminal Appeals and the\nopinion(s) from the Alabama Court of Criminal Appeals.\n(g) Alabama Supreme Court – Collateral Appeal. This section shall\ninclude the post-conviction appeal briefs filed by both parties with the\nAlabama Supreme Court and the opinion(s) from the Alabama\nSupreme Court.\n(h) United States Supreme Court – Collateral Appeal. This section\nshall include the pleadings filed by both parties with the United States\nSupreme Court and the decision(s) from the United States Supreme\nCourt.\n(5) A separate index of the record shall be prepared which identifies each\nvolume of the record, the category of the proceedings contained in the\nvolume, and the general content of the record contained in the volume,\nincluding number of pages. For example, the index will read: Volume 1,\nCircuit Court – Trial, clerk's record pages 1-175; and Volume 2, Circuit\nCourt – Trial, trial transcript pages 1-200. The index shall be served on the\nopposing party. See attached sample index.\n(6) In referencing this record in any pleadings or briefs filed in this case, the\nparties shall make specific reference by tab number, volume number and\npage number.\nBack To Top Of Table Of Rules\n13",
+          "pages": [
+            12
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "almd-civil-parsed-v1-39ccde043f3fccdb",
+      "sourceDocumentId": "parsed-almd-39ccde043f3fccdb",
+      "sourceUrl": "https://www.almd.uscourts.gov/sites/default/files/forms/ALMD%20Local%20Rules.pdf",
+      "pageIndex": 11,
+      "pageSpan": [
+        11,
+        12
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "almd-civil:9.3",
+      "collectionId": "almd-civil",
+      "districtId": "almd",
+      "number": "9.3",
+      "citation": "Middle District of Alabama · Rule 9.3",
+      "title": "Request for Three-Judge Court.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-14",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rule 9.3 \nRequest for Three-Judge Court. \n(a) Notation on Pleading. In any action or proceeding which a party believes is\nrequired to be heard by a three-judge district Court, the words \"Three-Judge\nDistrict Court Requested\" or the equivalent shall be included in the caption under\nthe case number of the first pleading in which the cause of action requiring a three￾judge Court is pleaded. Unless the basis for the request is apparent from the\npleading, it shall be set forth in the pleading or in a brief statement attached thereto.\nThe words \"Three-Judge District Court Requested\" or the equivalent on a pleading\nis a sufficient request under 28 U.S.C. § 2284.\n(b) Failure to comply. Failure to comply with this rule is not a ground for failing to\nconvene or for dissolving a three-judge Court.\nBack To Top Of Table Of Rules\n",
+          "pages": [
+            13
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "almd-civil-parsed-v1-39ccde043f3fccdb",
+      "sourceDocumentId": "parsed-almd-39ccde043f3fccdb",
+      "sourceUrl": "https://www.almd.uscourts.gov/sites/default/files/forms/ALMD%20Local%20Rules.pdf",
+      "pageIndex": 13,
+      "pageSpan": [
+        13,
+        13
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "almd-civil:11.1",
+      "collectionId": "almd-civil",
+      "districtId": "almd",
+      "number": "11.1",
+      "citation": "Middle District of Alabama · Rule 11.1",
+      "title": "Identification of Counsel on Pleadings, Motions and Other Papers.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-14",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rule 11.1 \nIdentification of Counsel on Pleadings, Motions and Other Papers. \na) Identification of Counsel. In addition to the requirements of Fed. R. Civ. P. 11,\neach attorney signing any paper filed with the clerk must place his/her typewritten\nname immediately under the signature line and place one of the following\nidentification numbers under his/her typewritten name: \n(1) Alabama State Bar Members: These attorneys should provide their\nAlabama State Bar number.\n(2) Out-of-State Attorneys: These attorneys should provide either the\nattorney number assigned by their state's unified bar or, if not a member of a\nunified bar, the registration number assigned by the highest Court in their\njurisdiction of admission. \n(b) Certificate of Service. The certificate of service must show the name and service\naddress of each attorney and/or party on whom the pleading, motion or other paper\nwas served.\nBack To Top Of Table Of Rules\n",
+          "pages": [
+            13
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "almd-civil-parsed-v1-39ccde043f3fccdb",
+      "sourceDocumentId": "parsed-almd-39ccde043f3fccdb",
+      "sourceUrl": "https://www.almd.uscourts.gov/sites/default/files/forms/ALMD%20Local%20Rules.pdf",
+      "pageIndex": 13,
+      "pageSpan": [
+        13,
+        13
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "almd-civil:15.1",
+      "collectionId": "almd-civil",
+      "districtId": "almd",
+      "number": "15.1",
+      "citation": "Middle District of Alabama · Rule 15.1",
+      "title": "Form of Motion To Amend and Supporting Documents.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-14",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rule 15.1 \nForm of Motion To Amend and Supporting Documents. \nA party who moves to amend a pleading, document or other papers shall attach the\noriginal of the amendment to the motion. Any amendment to a pleading, document\nor other papers, whether filed as a matter of course or upon a motion to amend,\nmust, except by leave of Court, reproduce the entire pleading, document or other\n14",
+          "pages": [
+            13
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-15",
+          "path": [],
+          "type": "paragraph",
+          "text": "papers as amended, and may not incorporate any prior pleading, document or other\npapers by reference. A failure to comply with this rule is not grounds for denial of\nthe motion.\nBack To Top Of Table Of Rules\nLocal rule 16.1 \nCourt Annexed Mediation. \n(a) Purpose. This Court has established a program of voluntary mediation to assist\nlitigants in resolving their disputes prior to trial. The Court stresses that mediation is\ncompletely voluntary and confidential. The Court strictly enforces the confidentiality\nof mediation. The Court encourages litigants to consider the salutary benefits of\nresolving their dispute at an early stage through voluntary mediation.\n(b) Nature of Mediation. Mediation is a process of confidential negotiation through\nwhich parties may often achieve results which could not be obtained through\nsubmission of their case to a jury. Successful mediation saves the substantial time\nand expense involved with a trial. Successful mediation allows parties to alleviate the\nrisk of trial and at the same time permits the parties to play an active role in the final\ndecision about their case. The mediation process generally involves a joint meeting\nwith all parties and counsel to discuss the case and each side's position. After this\nmeeting, the mediator will meet with each side individually for a full discussion of\nthat side's case. Throughout the process, the goal of the mediator is to assist the\nparties in negotiating a settlement. Often the mediator will provide to the parties a\nfrank, honest opinion about the strengths and weaknesses of their case. Frequently,\nan objective viewpoint assists parties in making good decisions about settlement.\nBack To Top Of Table Of Rules\n",
+          "pages": [
+            14
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "almd-civil-parsed-v1-39ccde043f3fccdb",
+      "sourceDocumentId": "parsed-almd-39ccde043f3fccdb",
+      "sourceUrl": "https://www.almd.uscourts.gov/sites/default/files/forms/ALMD%20Local%20Rules.pdf",
+      "pageIndex": 13,
+      "pageSpan": [
+        13,
+        14
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "almd-civil:23.1",
+      "collectionId": "almd-civil",
+      "districtId": "almd",
+      "number": "23.1",
+      "citation": "Middle District of Alabama · Rule 23.1",
+      "title": "Designation of Class Action in the Caption.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-15",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rule 23.1 \nDesignation of Class Action in the Caption. \nIn any case sought to be maintained as a class action, the complaint, or other\npleading, document or other papers asserting a class action, shall include in its\ncaption under the case number, the legend \"Class Action.\"\nBack To Top Of Table Of Rules\n",
+          "pages": [
+            14
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "almd-civil-parsed-v1-39ccde043f3fccdb",
+      "sourceDocumentId": "parsed-almd-39ccde043f3fccdb",
+      "sourceUrl": "https://www.almd.uscourts.gov/sites/default/files/forms/ALMD%20Local%20Rules.pdf",
+      "pageIndex": 14,
+      "pageSpan": [
+        14,
+        14
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "almd-civil:26.1",
+      "collectionId": "almd-civil",
+      "districtId": "almd",
+      "number": "26.1",
+      "citation": "Middle District of Alabama · Rule 26.1",
+      "title": "Initial Disclosures",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-15",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rule 26.1\nInitial Disclosures\nParties are to complete the initial disclosure requirements of Federal Rule of Civil\nProcedure 26. Failure to comply with Rule 26, including the duty to supplement\n15",
+          "pages": [
+            14
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "disclosures already made, may bar the presentation of evidence or witnesses on\nmotion or at trial.\nBack To Top Of Table Of Rules\n",
+          "pages": [
+            15
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "almd-civil-parsed-v1-39ccde043f3fccdb",
+      "sourceDocumentId": "parsed-almd-39ccde043f3fccdb",
+      "sourceUrl": "https://www.almd.uscourts.gov/sites/default/files/forms/ALMD%20Local%20Rules.pdf",
+      "pageIndex": 14,
+      "pageSpan": [
+        14,
+        15
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "almd-civil:26.2",
+      "collectionId": "almd-civil",
+      "districtId": "almd",
+      "number": "26.2",
+      "citation": "Middle District of Alabama · Rule 26.2",
+      "title": "Form of Certain Discovery Documents.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rule 26.2 \nForm of Certain Discovery Documents. \nThe party serving written interrogatories pursuant to Fed. R. Civ. P. 33, requests for\nproduction of documents or things pursuant to Fed. R. Civ. P. 34, or requests for\nadmission pursuant to Fed. R. Civ. P. 36, shall number each interrogatory\nsequentially and each request sequentially, regardless of the number of sets of\ninterrogatories or number of requests. The party answering, responding, or\nobjecting to an interrogatory or request shall quote each such interrogatory or\nrequest (including the sequential number assigned to the particular interrogatory or\nrequest) in full immediately preceding the statement of any answer, response, or\nobjection thereto.\nBack To Top Of Table Of Rules\n",
+          "pages": [
+            15
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "almd-civil-parsed-v1-39ccde043f3fccdb",
+      "sourceDocumentId": "parsed-almd-39ccde043f3fccdb",
+      "sourceUrl": "https://www.almd.uscourts.gov/sites/default/files/forms/ALMD%20Local%20Rules.pdf",
+      "pageIndex": 15,
+      "pageSpan": [
+        15,
+        15
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "almd-civil:26.3",
+      "collectionId": "almd-civil",
+      "districtId": "almd",
+      "number": "26.3",
+      "citation": "Middle District of Alabama · Rule 26.3",
+      "title": "Non-filing of Civil Discovery.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rule 26.3 \nNon-filing of Civil Discovery. \nExcept as otherwise directed by the Court or by these rules, in all civil actions other\nthan inmate complaints challenging the conditions of confinement:\n(a) Interrogatories, requests for production, requests for admissions and responses\nthereto, and notices of depositions shall be served in accordance with Fed. R. Civ. P.\n5, but shall not be filed with the Clerk except upon order of the Court or for use at\ntrial or in connection with motions. The party responsible for service of the\ndiscovery material shall retain the original and become the custodian.\n(b) No depositions shall be filed with the Clerk unless the Court directs otherwise, or\nunless in support of or in opposition to a motion. Counsel who notices a deposition\nshall be the custodian of the deposition and shall maintain the original for filing.\n(c) If discovery materials are germane to any motion or response, the relevant\nmaterial shall be filed with the motion or response.\n(d) During the pendency of any case the custodian of any discovery materials, other\nthan depositions, shall provide to counsel for all other parties reasonable access to\nthe material and an opportunity to duplicate the material at the expense of the\ncopying party, and any other person may, with leave of Court, obtain a copy of any\ndiscovery material from its custodian upon payment of the expense of the copy.\n16",
+          "pages": [
+            15
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "(e) When documentation of discovery not previously in the record is needed for\nappeal purposes, upon an application and order of the Court, or by stipulation of\ncounsel, the necessary discovery papers shall be filed with the Clerk.\n(f) The provisions of this Rule for non-filing of discovery materials and their\nretention by counsel as custodian do not apply (1) to depositions noticed by, or\ndiscovery materials to be served by, litigants who are not represented by counsel, or\n(2) in civil actions instituted by inmate plaintiffs challenging the conditions of\nconfinement. Nor do these provisions preclude the Clerk from receiving and\ndocketing discovery materials on file when a case is removed or transferred from\nanother Court. \n(g) Any discovery material, depositions and trial exhibits filed with the Clerk will be\ndisposed of by the Clerk as set out by M.D. Ala. LR 5.9.\nBack To Top Of Table Of Rules\n",
+          "pages": [
+            16
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "almd-civil-parsed-v1-39ccde043f3fccdb",
+      "sourceDocumentId": "parsed-almd-39ccde043f3fccdb",
+      "sourceUrl": "https://www.almd.uscourts.gov/sites/default/files/forms/ALMD%20Local%20Rules.pdf",
+      "pageIndex": 15,
+      "pageSpan": [
+        15,
+        16
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "almd-civil:37.1",
+      "collectionId": "almd-civil",
+      "districtId": "almd",
+      "number": "37.1",
+      "citation": "Middle District of Alabama · Rule 37.1",
+      "title": "Discovery Motions To Include Discovery at Issue.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rule 37.1 \nDiscovery Motions To Include Discovery at Issue. \nAny discovery motion filed pursuant to Fed. R. Civ. P. 26(c) and 37 shall include, in\nthe motion itself or in an attached memorandum, a verbatim recitation of each\ninterrogatory, request, answer, response, and objection which is the subject of the\nmotion or a copy of the actual discovery document which is the subject of the\nmotion.\nBack To Top Of Table Of Rules\n",
+          "pages": [
+            16
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "almd-civil-parsed-v1-39ccde043f3fccdb",
+      "sourceDocumentId": "parsed-almd-39ccde043f3fccdb",
+      "sourceUrl": "https://www.almd.uscourts.gov/sites/default/files/forms/ALMD%20Local%20Rules.pdf",
+      "pageIndex": 16,
+      "pageSpan": [
+        16,
+        16
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "almd-civil:38.1",
+      "collectionId": "almd-civil",
+      "districtId": "almd",
+      "number": "38.1",
+      "citation": "Middle District of Alabama · Rule 38.1",
+      "title": "Notation of Jury Demand in the Pleading.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rule 38.1 \nNotation of Jury Demand in the Pleading. \nIf a party demands a jury trial by endorsing it on a pleading, as permitted by Fed. R.\nCiv. P. 38(b), a notation shall be placed in the caption under the case number, stating\n\"Demand for Jury Trial\" or an equivalent statement. This notation will serve as a\nsufficient demand under Rule 38(b). Failure to make such a notation will not result\nin a waiver pursuant to Fed. R. Civ. P. 38(d) when the demand is otherwise endorsed\non the pleading.\nBack To Top Of Table Of Rules\n",
+          "pages": [
+            16
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "almd-civil-parsed-v1-39ccde043f3fccdb",
+      "sourceDocumentId": "parsed-almd-39ccde043f3fccdb",
+      "sourceUrl": "https://www.almd.uscourts.gov/sites/default/files/forms/ALMD%20Local%20Rules.pdf",
+      "pageIndex": 16,
+      "pageSpan": [
+        16,
+        16
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "almd-civil:39.1",
+      "collectionId": "almd-civil",
+      "districtId": "almd",
+      "number": "39.1",
+      "citation": "Middle District of Alabama · Rule 39.1",
+      "title": "Premarked Exhibits.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rule 39.1 \nPremarked Exhibits. \n(a) Trial Exhibits. All trial exhibits must be premarked and timely exchanged with\nthe premarked numbers in accordance with the Court’s scheduling order prior to\ntrial. Exhibit labels are available from the Clerk's office.\n17",
+          "pages": [
+            16
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "(b) Demonstrative Aides. Any object which a party will seek to use for demonstrative\npurposes only, and not as a trial exhibit, need not be premarked but must be shown\nto the other side for examination to allow a ruling on any objections prior to trial.\nBack To Top Of Table Of Rules\n",
+          "pages": [
+            17
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "almd-civil-parsed-v1-39ccde043f3fccdb",
+      "sourceDocumentId": "parsed-almd-39ccde043f3fccdb",
+      "sourceUrl": "https://www.almd.uscourts.gov/sites/default/files/forms/ALMD%20Local%20Rules.pdf",
+      "pageIndex": 16,
+      "pageSpan": [
+        16,
+        17
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "almd-civil:40.1",
+      "collectionId": "almd-civil",
+      "districtId": "almd",
+      "number": "40.1",
+      "citation": "Middle District of Alabama · Rule 40.1",
+      "title": "Calendar of Cases.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rule 40.1 \nCalendar of Cases. \nCivil cases shall be divided among the judges of this Court through a computerized\nrandom selection process (e.g., a judge could be assigned a certain number of cases\nmore than another judge, that judge then could be assigned a number fewer than the\nfirst judge, and the third judge could be assigned a number of cases more than both\nof these judges, with the number of cases assigned to the respective judges equalizing\nthemselves at the end of the year). The Clerk of the Court shall then prepare such\ntrial calendars as are needed for the cases so assigned.\nBack To Top Of Table Of Rules\n",
+          "pages": [
+            17
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "almd-civil-parsed-v1-39ccde043f3fccdb",
+      "sourceDocumentId": "parsed-almd-39ccde043f3fccdb",
+      "sourceUrl": "https://www.almd.uscourts.gov/sites/default/files/forms/ALMD%20Local%20Rules.pdf",
+      "pageIndex": 17,
+      "pageSpan": [
+        17,
+        17
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "almd-civil:45.1",
+      "collectionId": "almd-civil",
+      "districtId": "almd",
+      "number": "45.1",
+      "citation": "Middle District of Alabama · Rule 45.1",
+      "title": "Deadlines and Procedures for Requesting",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rule 45.1 \nDeadlines and Procedures for Requesting \nIssuance of Subpoenas or Writs Ad Testificandum. \n(a) Deadline for filing requests for witnesses when subpoena or writ ad testificandum\nis to be served by the U. S. Marshal Service in other than in forma pauperis cases: \n(1) In all civil or criminal cases, other than in forma pauperis cases, all\nsubpoenas or writs ad testificandum requesting the attendance of witnesses\nthat are to be served by the U. S. Marshal Service should \n(A) be filed not less than fourteen (14) calendar days prior to the trial\ndate or hearing; and \n (B) contain the complete name and address of the witness (and inmate\nor civilian status and AIS number if available).\n(b) Procedures for issuance of subpoena or writ ad testificandum in in forma\npauperis cases in 28 U.S.C. § 2255 proceedings or in proceedings for a writ of habeas\ncorpus or in indigent defendant criminal cases: \n (1) In all in forma pauperis cases in § 2255 proceedings or in proceedings for\na writ of habeas corpus, an indigent party desiring the attendance of any\nwitness by subpoena or writ ad testificandum shall file not later than twenty￾one (21) calendar days before the trial or hearing a motion that contains \n(A) the complete names and addresses of witnesses (and inmate or\ncivilian status and AIS number if available); and \n18",
+          "pages": [
+            17
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "(B) a brief statement of the expected testimony of each witness (if such\nstated testimony is not material or is simply repetitive, the Court may\nin its discretion deny the requested subpoena or writ ad\ntestificandum). \n(2) In all indigent defendant criminal cases, an indigent defendant's ex parte\nmotion under Fed. R. Crim. P. 17(b) should \n(A) be filed not later than twenty-one (21) calendar days before the\ntrial or hearing; and \n(B) contain, in addition to the showing required by Fed. R. Crim. P.\n17(b), the complete names and addresses of witnesses (and inmate or\ncivilian status and AIS number if available). \n(3) Except in pro se prisoner cases, a subpoena for each witness must be\nattached to the motion. \n(4) In criminal cases, an indigent defendant may request that such motion be\nfiled under seal.\n(c) Failure of Witness To Appear: No continuance of any cause will be predicated on\nthe failure of a witness to appear unless this rule has been complied with, except\nupon a showing of exceptional circumstances.\nBack To Top Of Table Of Rules\n",
+          "pages": [
+            18
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "almd-civil-parsed-v1-39ccde043f3fccdb",
+      "sourceDocumentId": "parsed-almd-39ccde043f3fccdb",
+      "sourceUrl": "https://www.almd.uscourts.gov/sites/default/files/forms/ALMD%20Local%20Rules.pdf",
+      "pageIndex": 17,
+      "pageSpan": [
+        17,
+        18
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "almd-civil:45.2",
+      "collectionId": "almd-civil",
+      "districtId": "almd",
+      "number": "45.2",
+      "citation": "Middle District of Alabama · Rule 45.2",
+      "title": "Subpoena of Hospital Records.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rule 45.2 \nSubpoena of Hospital Records. \nHospital records may be subpoenaed and used in this Court in accordance with the\nprovisions of Ala. Code §§ 12-21-5 through 12-21-7 (1975 & 1995), the provisions of\nwhich are hereby adopted and incorporated herein, except that the attorney\nrequesting such records shall, as an officer of the Court, receive the subpoenaed\nrecords and shall be responsible for their safekeeping. Prior notice of such subpoena\nshall be served on all parties. Such attorney shall make the records available to\nopposing parties upon request and make prompt payment to the medical provider\nfor the reasonable cost of reproducing the records.\nBack To Top Of Table Of Rules\n",
+          "pages": [
+            18
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "almd-civil-parsed-v1-39ccde043f3fccdb",
+      "sourceDocumentId": "parsed-almd-39ccde043f3fccdb",
+      "sourceUrl": "https://www.almd.uscourts.gov/sites/default/files/forms/ALMD%20Local%20Rules.pdf",
+      "pageIndex": 18,
+      "pageSpan": [
+        18,
+        18
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "almd-civil:47.1",
+      "collectionId": "almd-civil",
+      "districtId": "almd",
+      "number": "47.1",
+      "citation": "Middle District of Alabama · Rule 47.1",
+      "title": "Juror Information, Questionnaires and Contact.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rule 47.1 \n Juror Information, Questionnaires and Contact. \n(a) Attorneys, parties, anyone in their employ, or anyone acting for them or on their\nbehalf shall not, disclose any information obtained from the juror questionnaires\n19",
+          "pages": [
+            18
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "provided by the Court and during the jury voir dire process. Attorneys who are\nprovided with questionnaires are responsible for their receipt, review, maintenance,\nand destruction. No copies of the questionnaires will leave the attorney's office,\neither electronically or in hard copy. Upon completion of the empaneling of the jury,\nthe attorneys will ensure that all copies (including electronic copies) of the\nquestionnaires of all jury venire members (including the questionnaires of the jurors\nselected to serve), are immediately destroyed, the computer disc, if applicable, is\nreturned to the court at the time of jury selection, and the information is deleted\nfrom the attorney's computer database.\n(b) Attorneys, parties, anyone in their employ, or anyone acting for them or on their\nbehalf shall not, without filing a formal motion therefor with the Court and securing\nthe Court's permission, initiate any form of contact for the purpose of interrogating\njurors or alternate jurors in civil or criminal cases, in any manner, in an attempt to\ndetermine what the jurors thought about any aspect of the case or evidence, the basis\nfor any verdict rendered or to secure other information concerning the deliberations\nof the jury or any members thereof .\n(c) Attorneys, parties, anyone in their employ, or anyone acting for them or on their\nbehalf shall not, without filing a formal motion therefor with the Court and securing\nthe Court's permission, provide any identifying information about a juror or\nalternate juror in a civil or criminal case to a non-party, or provide any assistance in\nany form to a non-party who is seeking to contact a juror or alternate juror in civil\nor criminal cases, in an attempt to determine what the jurors thought about any\naspect of the case or evidence, the basis for any verdict rendered or to secure other\ninformation concerning the deliberations of the jury or any members thereof.\n(d) The Court itself may conduct interrogation of jurors in lieu of granting\npermission to the movant. \nBack To Top Of Table Of Rules\n",
+          "pages": [
+            19
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "almd-civil-parsed-v1-39ccde043f3fccdb",
+      "sourceDocumentId": "parsed-almd-39ccde043f3fccdb",
+      "sourceUrl": "https://www.almd.uscourts.gov/sites/default/files/forms/ALMD%20Local%20Rules.pdf",
+      "pageIndex": 18,
+      "pageSpan": [
+        18,
+        19
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "almd-civil:54.1",
+      "collectionId": "almd-civil",
+      "districtId": "almd",
+      "number": "54.1",
+      "citation": "Middle District of Alabama · Rule 54.1",
+      "title": "Recovery of Taxable Costs Other than Attorneys' Fees.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rule 54.1 \nRecovery of Taxable Costs Other than Attorneys' Fees. \n(a) Costs. Requests for taxation of costs (other than attorneys' fees) under Fed. R.\nCiv. P. 54(d) shall be filed with the Clerk within 35 days after entry of final\njudgment from which an appeal may be taken. Failure to file within this time period\nwill be deemed a waiver.\n(b) Forms and distribution. Costs bill forms should be obtained from the Clerk's\nOffice. Within the time set by subdivision (a) the form must be filed and served in\naccordance with the Federal Rules of Civil Procedure and Local Rules 5.3 and 5.4. \n20",
+          "pages": [
+            19
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "Back To Top Of Table Of Rules\n",
+          "pages": [
+            20
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "almd-civil-parsed-v1-39ccde043f3fccdb",
+      "sourceDocumentId": "parsed-almd-39ccde043f3fccdb",
+      "sourceUrl": "https://www.almd.uscourts.gov/sites/default/files/forms/ALMD%20Local%20Rules.pdf",
+      "pageIndex": 19,
+      "pageSpan": [
+        19,
+        20
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "almd-civil:54.2",
+      "collectionId": "almd-civil",
+      "districtId": "almd",
+      "number": "54.2",
+      "citation": "Middle District of Alabama · Rule 54.2",
+      "title": "Taxation of Juror Costs.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rule 54.2 \nTaxation of Juror Costs. \nWhenever a civil case that has been set for jury trial is settled or otherwise disposed\nof, counsel shall so inform the Clerk's Office at least one full business day prior to\nthe day the jury is scheduled to be selected or the trial is scheduled to commence, in\norder that the jurors may be notified not to attend. If such notice is not given to the\nClerk's Office, then, except for good cause shown, juror costs, including attendance\nfees, mileage, and per diem, shall be assessed equally against the parties and their\ncounsel, or otherwise as directed by the Court.\nBack To Top Of Table Of Rules\n",
+          "pages": [
+            20
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "almd-civil-parsed-v1-39ccde043f3fccdb",
+      "sourceDocumentId": "parsed-almd-39ccde043f3fccdb",
+      "sourceUrl": "https://www.almd.uscourts.gov/sites/default/files/forms/ALMD%20Local%20Rules.pdf",
+      "pageIndex": 20,
+      "pageSpan": [
+        20,
+        20
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "almd-civil:58.1",
+      "collectionId": "almd-civil",
+      "districtId": "almd",
+      "number": "58.1",
+      "citation": "Middle District of Alabama · Rule 58.1",
+      "title": "Payment of Judgments.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rule 58.1 \nPayment of Judgments. \nExcept as otherwise directed by a judge of this Court, each money judgment\nrecovered in this Court, including those entered on the minutes of the Clerk upon the\nverdict of a jury, shall be deemed to include the following provision:\"It is further\nCONSIDERED and ORDERED by the Court that payment of the proceeds of the\njudgment and costs herein shall be made directly to both the prevailing party and\nhis/her attorney(s) and that, upon receipt thereof, the prevailing party and his/her\nattorney(s) will satisfy said judgment on the records of this Court.\"\nBack To Top Of Table Of Rules\n",
+          "pages": [
+            20
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "almd-civil-parsed-v1-39ccde043f3fccdb",
+      "sourceDocumentId": "parsed-almd-39ccde043f3fccdb",
+      "sourceUrl": "https://www.almd.uscourts.gov/sites/default/files/forms/ALMD%20Local%20Rules.pdf",
+      "pageIndex": 20,
+      "pageSpan": [
+        20,
+        20
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "almd-civil:72.1",
+      "collectionId": "almd-civil",
+      "districtId": "almd",
+      "number": "72.1",
+      "citation": "Middle District of Alabama · Rule 72.1",
+      "title": "Magistrate Judges: Selection of Chief Magistrate Judge.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rule 72.1 \nMagistrate Judges: Selection of Chief Magistrate Judge. \n(a) Qualifications and Term: \n(1) Chief Magistrate Judge: The Chief Magistrate Judge of the district shall\nbe the Magistrate Judge in regular active service who is senior in commission\nof those Magistrate Judges who-- \n(A) are sixty-four years of age or under; \n(B) have served for one year or more as a Magistrate Judge; and \n(C) have not served previously as Chief Magistrate Judge. \n(2) Acting Chief Magistrate Judge: \n21",
+          "pages": [
+            20
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "(A) In any case in which no Magistrate Judge meets the qualifications\nof paragraph (1), the youngest Magistrate Judge in regular active\nservice who is sixty-five years of age or over and who has served as\nMagistrate Judge for one year or more shall act as the Chief\nMagistrate Judge. \n(B) In any case under subparagraph (A) in which there is no\nMagistrate Judge in regular active service who has served as a\nMagistrate Judge for one year or more, the Magistrate Judge in\nregular active service who is senior in commission and who has not\nserved previously as Chief Magistrate Judge shall act as the Chief\nMagistrate Judge. \n(3) Term of Service: \n(A) Except as provided in subparagraph (c), the Chief Magistrate\nJudge of the district appointed under paragraph (1) shall serve for a\nterm of seven years and shall serve after expiration of such term until\nanother Magistrate Judge is eligible under paragraph (1) to serve as\nChief Magistrate Judge of the district. \n(B) Except as provided in subparagraph (c), a Magistrate Judge acting\nas Chief Magistrate Judge under subparagraph (A) or (B) of\nparagraph (2) shall serve until a Magistrate Judge has been appointed\nwho meets the qualifications under paragraph (1). \n(C) No Magistrate Judge may serve or act as Chief Magistrate Judge\nof the district after attaining the age of seventy years unless no other\nMagistrate Judge is qualified to serve as Chief Magistrate Judge of the\ndistrict under paragraph (1) or is qualified to act as Chief Magistrate\nJudge under paragraph (2).\n(b) Precedence among Magistrate Judges: The Chief Magistrate Judge shall have\nprecedence over the other Magistrate Judges and preside at any session which he/she\nattends with only the other Magistrate Judges. Other Magistrate Judges shall have\nprecedence and preside according to the seniority of their commissions. Magistrate\nJudges whose commissions bear the same date shall have precedence according to\nseniority in age.\n(c) Relief from Duties: If the Chief Magistrate Judge desires to be relieved of his/her\nduties as Chief Magistrate Judge while retaining his/her active status as Magistrate\nJudge, he/she may so certify to the Chief District Judge of the district and thereafter,\nthe Chief Magistrate Judge of the district shall be such other Magistrate Judge who\nis qualified to serve or act as Chief Magistrate Judge under subsection (a).\n(d) Temporary Disability: If a Chief Magistrate Judge is temporarily unable to\nperform his/her duties as such, they shall be performed by the Magistrate Judge in\n22",
+          "pages": [
+            21
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "active service, present in the district and able and qualified to act, who is next in\nprecedence.\nBack To Top Of Table Of Rules\n",
+          "pages": [
+            22
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "almd-civil-parsed-v1-39ccde043f3fccdb",
+      "sourceDocumentId": "parsed-almd-39ccde043f3fccdb",
+      "sourceUrl": "https://www.almd.uscourts.gov/sites/default/files/forms/ALMD%20Local%20Rules.pdf",
+      "pageIndex": 20,
+      "pageSpan": [
+        20,
+        22
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "almd-civil:72.2",
+      "collectionId": "almd-civil",
+      "districtId": "almd",
+      "number": "72.2",
+      "citation": "Middle District of Alabama · Rule 72.2",
+      "title": "Assignment of Duties to Magistrate Judges.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rule 72.2 \nAssignment of Duties to Magistrate Judges. \n(a) The full-time Magistrate Judges of this Court are authorized to exercise all\npowers and perform all duties authorized by 28 U.S.C. §§ 636(a) and (b), including\nall duties not inconsistent with the Constitution and laws of the United States.\n(b) Magistrate Judges have the authority, upon the consent of the parties, to exercise\nfull judicial authority in civil cases, including the conducting of jury trials and entry\nof final judgement. \n(c) Procedures outlining the assignment and re-assignment of civil cases to the\nMagistrate Judges are contained in the General and Standing Orders of the Court. \nBack To Top Of Table Of Rules\n",
+          "pages": [
+            22
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "almd-civil-parsed-v1-39ccde043f3fccdb",
+      "sourceDocumentId": "parsed-almd-39ccde043f3fccdb",
+      "sourceUrl": "https://www.almd.uscourts.gov/sites/default/files/forms/ALMD%20Local%20Rules.pdf",
+      "pageIndex": 22,
+      "pageSpan": [
+        22,
+        22
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "almd-civil:73.1",
+      "collectionId": "almd-civil",
+      "districtId": "almd",
+      "number": "73.1",
+      "citation": "Middle District of Alabama · Rule 73.1",
+      "title": "Consent for Trial of Civil Case by Magistrate Judge.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rule 73.1 \nConsent for Trial of Civil Case by Magistrate Judge. \nThe full-time Magistrate Judges of this Court are specially designated to exercise all\npowers and perform all duties authorized by 28 U.S.C. § 636(c) upon consent of the\nparties to a case. Consent by the parties may be given at any time prior to trial\nunless otherwise directed by a district judge of this Court.\nBack To Top Of Table Of Rules\n",
+          "pages": [
+            22
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "almd-civil-parsed-v1-39ccde043f3fccdb",
+      "sourceDocumentId": "parsed-almd-39ccde043f3fccdb",
+      "sourceUrl": "https://www.almd.uscourts.gov/sites/default/files/forms/ALMD%20Local%20Rules.pdf",
+      "pageIndex": 22,
+      "pageSpan": [
+        22,
+        22
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "almd-civil:81.1",
+      "collectionId": "almd-civil",
+      "districtId": "almd",
+      "number": "81.1",
+      "citation": "Middle District of Alabama · Rule 81.1",
+      "title": "Removal: Legible Copies of State Documents Required.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rule 81.1 \nRemoval: Legible Copies of State Documents Required. \nA party who desires to remove a civil action from state Court to this Court pursuant\nto 28 U.S.C. § 1446 must file, simultaneously with the notice of removal, clear and\nlegible copies of all records and proceedings from the state Court.\nBack To Top Of Table Of Rules\n",
+          "pages": [
+            22
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "almd-civil-parsed-v1-39ccde043f3fccdb",
+      "sourceDocumentId": "parsed-almd-39ccde043f3fccdb",
+      "sourceUrl": "https://www.almd.uscourts.gov/sites/default/files/forms/ALMD%20Local%20Rules.pdf",
+      "pageIndex": 22,
+      "pageSpan": [
+        22,
+        22
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "almd-civil:83.1",
+      "collectionId": "almd-civil",
+      "districtId": "almd",
+      "number": "83.1",
+      "citation": "Middle District of Alabama · Rule 83.1",
+      "title": "Attorneys: Admission to Practice and",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rule 83.1 \nAttorneys: Admission to Practice and \nDisciplinary Proceedings. \n23",
+          "pages": [
+            22
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-24",
+          "path": [],
+          "type": "paragraph",
+          "text": "(a) Bar of Court. The Bar of this Court consists of those persons previously admitted\nto (and not removed from) the Bar of this Court and of those persons who hereafter\nare admitted under this rule. \n(1) Any attorney who is admitted to practice before the Supreme Court of\nAlabama may be admitted to the Bar of this Court upon the submission of an\napplication, payment of the prescribed admission fee, and \n(A) the order of a district judge of this Court (on oral or written\nmotion by a member of the Bar of this Court or on the Court's own\nmotion), and the administering of the prescribed oath before any judge\n(or other designee) of this Court; or \n(B) the filing of a certificate of good standing from the Clerk of the\nUnited States District Court located within the district in which the\napplicant resides or regularly practices law.\n(2) Attorneys are required to renew their application for admission every five\nyears by submission of an application and payment of the prescribed fee.\n(b) Appearance Pro Hac Vice. \n(1) Any attorney who is not a member of the Bar of this Court but who is\nadmitted to practice before the United States District Court for the district in\nwhich such person resides or regularly practices law, may, upon request, be\nadmitted pro hac vice by an order of any district judge, magistrate judge, or\nbankruptcy judge of this Court. \n(2) In proceedings where the parties have consented to jurisdiction before a\nMagistrate Judge, the Magistrate Judge may, upon request, admit an\nattorney pro hac vice, subject to the requirements herein. \n(3) A certificate of good standing from the district in which the attorney is\nadmitted must be attached to his/her request for admission pro hac vice. \n(4) Any such attorney who appears as counsel by filing any pleading,\ndocument or other papers in any case pending in this Court shall,\ncontemporaneously with the filing of such papers, apply for admission pro\nhac vice as set out herein. \n(c) Appearance on behalf of United States. Any attorney representing the United\nStates or any agency thereof, having the authority of the government to appear as its\ncounsel, may appear specially and be heard in any case in which the government or\nsuch agency is a party, without formal or general admission. \n(d) Any attorney employed by the Federal Defender Office of this District may\nappear specially and be heard in any action in which the Federal Defender has been\nappointed without formal or general admission. \n24",
+          "pages": [
+            23
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "(e) By Whom Parties May Appear. In all cases filed in, or removed to this Court,\nparties may be represented of record only by a member of the Bar of this Court or\nby an attorney permitted to appear pursuant to subsection (b), (c) or (d) of this rule.\n(f) Continuing Representation. Unless disbarred or suspended, attorneys shall be\nheld at all times to represent the parties for whom they appear of record in the first\ninstance until, after formal motion and notice to such parties and to opposing\ncounsel, they are permitted by order of Court to withdraw from such representation.\nThe Court may, however, permit withdrawal without formal motion and notice if\nother counsel have entered their appearance for the party.\n(g) Standards for Professional Conduct; Obligations. Attorneys admitted to practice\nbefore this Court shall adhere to this Court's Local Rules, the Alabama Rules of\nProfessional Conduct, the Alabama Standards for Imposing Lawyer Discipline, and,\nto the extent not inconsistent with the preceding, the American Bar Association\nModel Rules of Professional Conduct. Attorney misconduct, whether or not\noccurring in the course of an attorney/client relationship, may be disciplined by\ndisbarment, suspension, reprimand, monetary sanctions, removal from this Court's\nroster of attorneys eligible for practice before this Court, or such other sanction as\nthe Court may deem appropriate.\n(h) Discipline. When alleged attorney misconduct is brought to the attention of the\nCourt, whether by a Judge of the Court, any lawyer admitted to practice before the\nCourt, any officer or employee of the Court, or otherwise, the Court may, in its\ndiscretion, dispose of the matter through the use of its inherent, statutory, or other\npowers; refer the matter to an appropriate state bar agency for investigation and\ndisposition; refer the matter to the local grievance committee as hereinafter defined;\nor take any other action the Court deems appropriate. These procedures are not\nmutually exclusive.\n(i) Grievance Committee. The Judges of this Court may, at the request of any Judge\nthereof, appoint a committee of not less than five persons to address alleged attorney\nmisconduct. A majority of the Committee shall constitute a quorum. The Committee\nshall serve until its assigned task is completed. \n(1) Purpose and Function. The purpose and function of such appointed\nCommittee shall be to conduct, upon referral by the Court, investigations,\ninquiries, and hearings, where appropriate, of alleged misconduct of any\nmember of the Bar of this Court; and, to submit written findings and\nrecommendations to the Court thereafter. Members of a Grievance\nCommittee, while serving in their official capacities, shall be considered to be\nrepresentatives of and acting under the powers and immunities of the Court,\nand shall enjoy such immunities while acting in good faith in such capacity. \n(2) Powers of Committee. The Committee shall be vested with such powers as\nare necessary to conduct the proper and expeditious disposition of any matter\n25",
+          "pages": [
+            24
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "referred by the Court, including the power to compel the attendance of\nwitnesses, to take or cause to be taken the deposition of any witnesses, to\nsecure the production of documentary evidence, to administer oaths, and\nthose powers described elsewhere in these rules.\n(j) Disciplinary Proceedings. \n(1) Preliminary Investigation. Upon referral of a disciplinary matter, the\nCommittee shall conduct a preliminary investigation to determine whether a\nformal disciplinary proceeding should be initiated. If no such finding is made,\nthe Committee shall file with the Court its written recommendations for\ndisposition of the matter whether by dismissal, admonition, deferral or any\nother action. In cases of dismissal, the attorney who is the subject of the\ninvestigation need not be notified of the proceeding. All investigative reports,\nrecords, and recommendations generated by or on behalf of the Committee\nunder such circumstances shall remain strictly confidential. Such reports,\nrecords, and recommendations shall be kept with the clerk of the Court in a\nsealed envelope or box labeled \"confidential: to be opened only upon written\norder of the Court\" and shall be destroyed five years after final disposition of\nthe matter. \n(2) Probable Cause, Show Cause Order. Upon a finding that probable cause\nexists, the Committee shall file with the Court a written report of its\ninvestigation, stating with specificity the facts supporting its conclusions, and,\nshall apply to the Court for issuance of an order requiring the attorney to\nshow cause within 35 days after service of that order why the attorney should\nnot be disciplined. The Court may, upon concurrence by a majority of its\nmembers, issue an appropriate show cause order. Such issued show cause\norder shall be accompanied by a copy of the Committee's written report for\nservice upon the attorney. Such written report shall otherwise remain\nconfidential. \n(3) Rescission of Show Cause Order, Hearing. The Committee shall act on the\nattorney's response either by recommending the Court rescind its Order To\nShow Cause, or by conducting a confidential hearing on the matter affording\nthe attorney an opportunity to be represented by counsel, to present witnesses\nand other evidence, and to confront and cross-examine witnesses in a\nproceeding guided by the spirit of the Federal Rules of Evidence. A record\nshall be made of all proceedings. Unless he or she asserts a privilege or right\nproperly available under applicable federal or state law, the attorney may be\ncalled as a witness by the Committee to make specific and complete disclosure\nof all matters material to the charge of misconduct. \n(4) Recommendations. Upon completion of the proceeding, the Committee\nshall make its confidential written report and recommendation to the Court.\nThe Committee shall include findings of fact as to the charges and\nrecommendations regarding whether or not the accused attorney should be\nfound guilty of misconduct justifying disciplinary actions by the Court, and\n26",
+          "pages": [
+            25
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "recommendations as to the disciplinary measures to be applied by the Court.\nThe report shall be accompanied by a record of the proceedings including an\nappropriate index which record shall include a transcript of the proceedings,\nall pleadings, and all evidentiary exhibits. A copy of the report and\nrecommendation shall also be furnished to the attorney. \n(5) Actions by Court. The Court, by majority vote of its judges, shall take\nsuch further action as it deems appropriate.\n(k) Conviction of Crime. \n(1) Suspension. Upon the filing with this Court of a certified copy of a\njudgment of conviction demonstrating an attorney has been convicted in a\nCourt of competent jurisdiction of a felony, or a misdemeanor involving\nmoral turpitude, the Court shall enter its order suspending the attorney,\nunless a majority of the judges of the Court deem such a suspension contrary\nto the interests of justice. The suspension shall remain in effect until further\norder of the Court. \n(2) Proceedings. The Court may also institute such proceedings, to include\ngrievance committee proceedings, to determine the extent of final discipline to\nbe imposed upon the attorney, provided the final proceedings shall not occur\nuntil all appeals from the conviction are concluded. \n(3) Reinstatement, Proceedings then Pending. A suspension hereunder shall\nbe terminated immediately upon the filing of a certificate demonstrating that\nthe underlying conviction of a serious crime has been reversed. However,\nreinstatement shall not terminate any disciplinary proceedings then pending\nagainst the attorney, the disposition of which shall be determined by the\nCourt utilizing the procedures hereunder.\n(l) Discipline Imposed by Other Courts. \n(1) Notification to Clerk. An attorney admitted to practice before this Court\nshall, upon being suspended, disbarred, or subjected to any form of public\ndiscipline by any other Court, promptly inform the Clerk of this Court of\nsuch action. This Court, acting by a majority of its judges, may refer this\nmatter to a grievance committee or issue its order to the attorney to show\ncause, within 35 days, why he or she should not be disciplined by this Court. \n(2) Conclusiveness of Final Adjudication. A final adjudication in another\nCourt that an attorney has been guilty of misconduct shall establish\nconclusively the misconduct for purpose of a disciplinary proceeding in this\nCourt, unless the attorney demonstrates, and the Court is satisfied that, upon\nthe face of the record upon which the discipline in another jurisdiction is\npredicated, it clearly appears that: \n27",
+          "pages": [
+            26
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "(A) The procedure in the other jurisdiction was so lacking in notice or\nopportunity to be heard as to constitute a deprivation of due process\nor \n(B) There was such infirmity of proof establishing misconduct as to\ngive rise to the clear conviction that this Court could not, consistent\nwith its duty, accept as final the conclusion on that subject. \n(3) Actions by Court. The Court, acting upon the attorney's response to the\nShow Cause Order or upon the report and recommendation of a grievance\ncommittee if appointed, may take such further disciplinary action as a\nmajority of the judges deem appropriate under the circumstances.\n(m) Disbarment on Consent or Resignation in Other Courts. \n(1) Notification to Clerk. Any attorney admitted to practice before the Court\nshall, upon being disbarred on consent or resigning from any other Bar while\nan investigation into allegations of misconduct is pending, promptly inform\nthe Clerk of this Court of such disbarment on consent or resignation. \n(2) Removal from Roll of Attorneys. An attorney admitted to practice before\nthis Court who shall be disbarred on consent or resign from the Bar of any\nother Court of the United States or the District of Columbia, or from the Bar\nof any state, territory, commonwealth or possession of the United States while\nan investigation into allegations of misconduct is pending shall, upon filing\nwith this Court of a certified copy of the judgment or order accepting such\ndisbarment on consent or resignation, cease to be permitted to practice before\nthis Court and be stricken from the roll of attorneys admitted to practice\nbefore this Court.\n(n) Disbarment on Consent While under Disciplinary Investigation or Prosecution,\nor Otherwise. \n(1) Consent. Any attorney who desires to consent to disbarment by this Court\nfor any reason, to include those related to allegations of misconduct, may\nconsent to disbarment but only upon delivery of an affidavit to this Court, in\nsuch form and content as may be required to satisfy the Court that the\nconsent to disbarment is: \n(A) Freely and voluntarily rendered without coercion or duress and,\nthat the attorney is fully aware of the implications of so\nconsenting; \n(B) For reasons recited within the affidavit, which the attorney\nacknowledges are true, which form the basis for disbarment. \n(2) Entry of Order of Disbarment. Upon receipt of the required affidavit, this\nCourt shall enter its order of disbarment. However, the affidavit required\n28",
+          "pages": [
+            27
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "pursuant to the provisions of this Rule shall not be publicly disclosed or made\navailable for use in any other proceeding except upon order of this Court.\n(o) Incompetence or Incapacity. \n(1) When it appears that an attorney, for whatever reason, is failing to\nperform at an adequate level of competence necessary to protect his/her\nclient's interests, the Court shall be empowered to take such remedial action,\nacting by a majority of its members, as it deems appropriate to insure the\nattorney's maintenance of an adequate level of competency, to include, but\nnot restricted to: \n(A) Appropriate referral of the affected attorney to such entities or\nparties as may assist the attorney in achieving necessary levels of\ncompetency; \n(B) Limiting or restricting the attorney's practice before the\nCourt; \n(c) Suspension from practice until compliance with competency levels\nis insured. \n(2) Action by the Court relating to matters of attorney competency shall be\ntaken by a majority vote of the judges thereof after consideration of such\nresponse from the attorney as the Court may deem appropriate.\n(p) Reinstatement. \n(1) After Disbarment or Suspension. An attorney suspended for three months\nor less shall be automatically reinstated at the end of the period of suspension\nupon the filing with this Court of an affidavit of compliance with the\nprovisions of the order. An attorney suspended for more than three months\nor disbarred may not resume the practice of law before this Court until\nreinstated by order of the Court. \n(2) Time of Application Following Disbarment. An attorney who has been\ndisbarred after hearing or consent may not apply for reinstatement until the\nexpiration of at least five years from the effective date of disbarment. \n(3) Hearing on Application. Petitions for reinstatement by a disbarred or\nsuspended attorney under this Rule shall be filed with the Chief Judge of this\nCourt. The Chief Judge may submit the petition to the Court or may, in\nhis/her discretion, refer the petition to the Grievance Committee which shall\nwithin thirty days of the referral schedule a hearing at which the petitioner\nshall have the burden of establishing by clear and convincing evidence that he\nor she has the moral qualifications, competency, and learning in the law\nrequired for admission to practice before this Court and that his/her\nresumption of the practice of law will not be detrimental to the integrity and\n29",
+          "pages": [
+            28
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "standing of the bar or the administration of justice, or subversive of the\npublic interest. Upon completion of the hearing the Committee shall make a\nfull report to the Court. The Committee shall include its findings of fact as to\nthe petitioner's fitness to resume the practice of law and its recommendations\nas to whether or not the petitioner should be reinstated. \n(4) Conditions of Reinstatement. If after consideration of the Committee's\nreport and recommendation the Court finds that the petitioner is unfit to\nresume the practice of law, the petition shall be dismissed. If after\nconsideration of the Committee's report and recommendation the Court finds\nthat the petitioner is fit to resume the practice of law, the Court shall reinstate\nthe petitioner, provided that the judgment may make reinstatement\nconditional upon the payment of all or part of the costs of the proceedings,\nand on the making of partial or complete restitution to all parties harmed by\nthe petitioner whose conduct led to the suspension or disbarment. Provided\nfurther, that if the petitioner has been suspended or disbarred for five years\nor more, reinstatement may be conditioned, in the discretion of the Court,\nupon the furnishing of proof of competency and learning in the law, which\nproof may include certification by the bar examiners of a state or other\njurisdiction of the attorney's successful completion of an examination for\nadmission to practice subsequent to the date of suspension or disbarment.\nProvided further that any reinstatement may be subject to any conditions\nwhich the Court in its discretion deems appropriate. \n(5) Successive Petitions. No petition for reinstatement under this rule shall be\nfiled within one year following an adverse judgment upon a petition for\nreinstatement filed by or on behalf of the same person. \n(6) Deposit for Costs of Proceedings. Petitions for reinstatement under this\nRule shall be accompanied by a deposit in an amount to be set from time to\ntime by the Court in consultation with the Grievance Committee to cover\nanticipated costs of the reinstatement proceeding. \n(7) Oath and Fee Upon Reinstatement. Any attorney disbarred or suspended\nfrom practice in this Court and subsequently readmitted shall take the oath,\npay the fee then prescribed, and sign the roll of attorneys for this district.\n(q) Attorneys Specially Admitted Subject to Discipline. Whenever an attorney\napplies to be admitted or is admitted to this Court for purposes of a particular\nproceeding (pro hac vice), the attorney shall be deemed thereby to have conferred\ndisciplinary jurisdiction upon this Court for any alleged misconduct arising in the\ncourse of or in the preparation for such a proceeding which is a violation of this\nCourt's Local Rules and/or the Rules of Professional Conduct adopted by this Court\nas provided in these Rules.\n(r) Appointment of Counsel. Whenever, at the direction of the Court or upon request\nof the Grievance Committee, counsel is to be appointed pursuant to these rules to\ninvestigate or assist in the investigation or misconduct, to prosecute or assist in the\n30",
+          "pages": [
+            29
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "prosecution of disciplinary proceedings, or to assist in the disposition of a\nreinstatement petition filed by a disciplined attorney, this Court, by a majority vote\nof the active Judges thereof, may appoint as counsel any active member of the Bar of\nthis Court, or may, in its discretion, appoint the disciplinary agency of the highest\nCourt of the state wherein the Court sits, or other disciplinary agency having\njurisdiction.\n(s) Service of Paper and Other Notices. Service of an order to show cause instituting\na formal disciplinary proceeding shall be made by personal service or by registered\nor certified mail addressed to the affected attorney at the address shown on the roll\nof attorneys admitted to practice before this Court. Service of any other papers or\nnotices required by these rules shall be deemed to have been made if such paper or\nnotice is addressed to the attorney at the address shown on the role of attorneys\nadmitted to practice before this Court; or to counsel or the respondent's attorney at\nthe address indicated in the most recent pleading, document or other papers filed by\nthem in the course of any proceeding.\n(t) Duties of the Clerk. \n(1) Upon being informed that an attorney admitted to practice before this\nCourt has been convicted of any crime, the Clerk of this Court shall\ndetermine whether the Court in which such conviction occurred has\nforwarded a certificate of such conviction to this Court. If a certificate has not\nbeen so forwarded, the Clerk of this Court shall promptly obtain a certificate\nand file it with this Court. \n(2) Upon being informed that an attorney admitted to practice before this\nCourt has been subjected to discipline by another Court, the Clerk of this\nCourt shall determine whether a certified or exemplified copy or order has\nbeen filed with this Court, and, if not, the Clerk shall promptly obtain a\ncertified or exemplified copy of the disciplinary judgment or order and file it\nwith this Court. \n(3) Whenever it appears that any person who has been convicted of any crime\nor disbarred or suspended or censured or disbarred on consent by this Court\nis admitted to practice law in any other jurisdiction or before any other\nCourt, this Court shall, within 14 days of that conviction, disbarment,\nsuspension, censure, or disbarment or consent, transmit to the disciplinary\nauthority in such other jurisdiction, or for such other Court, a certificate of\nthe conviction or a certified or exemplified copy of the judgment or order of\ndisbarment, suspension, censure, or disbarment on consent, as well as the last\nknown office and residence addresses of the disciplined attorney. \n(4) The Clerk of this Court shall, likewise, promptly notify the National\nDiscipline Bank operated by the American Bar Association of any order\nimposing public discipline on any attorney admitted to practice before this\nCourt.\n31",
+          "pages": [
+            30
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "(u) Retained Powers. Nothing contained in this rule shall be construed to deny the\nCourt its inherent power to maintain control over the proceedings conducted before\nit or to deny the Court those powers derived from statute, rules of procedure, or\nother rules of Court.\nBack To Top Of Table Of Rules\n",
+          "pages": [
+            31
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "almd-civil-parsed-v1-39ccde043f3fccdb",
+      "sourceDocumentId": "parsed-almd-39ccde043f3fccdb",
+      "sourceUrl": "https://www.almd.uscourts.gov/sites/default/files/forms/ALMD%20Local%20Rules.pdf",
+      "pageIndex": 22,
+      "pageSpan": [
+        22,
+        31
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "almd-civil:83.2",
+      "collectionId": "almd-civil",
+      "districtId": "almd",
+      "number": "83.2",
+      "citation": "Middle District of Alabama · Rule 83.2",
+      "title": "Law Student Representation",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rule 83.2\nLaw Student Representation\n(a) An eligible law student acting under a supervising attorney may enter an\nappearance in this Court on behalf of any party, including the United States or a\ngovernmental agency, provided the party on whose behalf the student appears has\nconsented thereto in writing. If the law student is an intern for, or is otherwise\nemployed by, the United States Attorney or the Public Defender, it shall be sufficient\nto file the written consent and approval with the Clerk of the Court and with each\nactive District Judge and Magistrate Judge once for the term of the student's\nparticipation. \n(b) The supervising attorney shall be a member of the bar of this Court and, with\nrespect to the law student's proposed appearance before this Court, shall: \n(1) file with the Clerk of this Court the attorney's written consent to supervise\nthe student in each case in which the student appears; \n(2) assume personal professional responsibility for the student's work,\nincluding malpractice protection for the benefit of the represented clients;\n(3) assist the student to the extent necessary; \n(4) appear with the student in all proceedings before the Court and be\nprepared to supplement any written or oral statement made by the student to\nthis Court or opposing counsel. \n(c) In order to be eligible to appear, the student shall: \n(1) be enrolled in a law school accredited by the American Bar Association. \n(2) have completed legal studies amounting to at least four semesters, or the\nequivalent if the school is on some basis other than a semester basis; \n(3) be certified, by either the dean or a faculty member of the student's law\nschool designated by the dean, as being of good character and competent legal\nability, and as being adequately trained to perform as an eligible law student\nunder this rule. The certification of a student by the dean shall remain in\neffect for 18 months, or until the announcement of the results of the student's\nfirst bar examination following the student's graduation, whichever is earlier.\nFor any student who passes that examination, or who is admitted to the bar\n32",
+          "pages": [
+            31
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "without taking an examination, the certification shall continue in effect until\nthe date the student is admitted to the bar; \n(4) be introduced to this Court by an attorney admitted to practice before this\nCourt; \n(5) neither ask for nor receive any compensation, fees, or remuneration of any\nkind for the student's services from the party on whose behalf the student\nrenders services, or from any other party, but this rule shall not prevent an\nattorney, legal aid bureau, law school, public defender agency, or the United\nStates from paying compensation to the eligible law student, nor shall it\nprevent any attorney, law firm, or agency from making such charges for its\nservices as may otherwise be proper; and \n(5) certify in writing that the student has read and is familiar with the Code of\nProfessional Responsibility of the American Bar Association, the Federal\nRules of Civil Procedure, the Local Rules of this Court; and any other federal\nrules relevant to the case in which the student is appearing. \n(d) Upon filing with the Clerk of this Court the written consents and certifications\nrequired by this rule, an eligible law student supervised in accordance with this rule\nmay, with respect to any new case or other proceeding for which the student is\ncertified under this rule: \n(1)engage in the drafting or preparation of complaints, motions, briefs,\nappendices, or other pleadings, documents or other papers, and may appear\nin proceedings on such pleadings, documents or other papers, provided the\nsupervising attorney also signs and appears on the pleadings, documents or\nother papers;\n(2) appear before this Court and participate in conferences, oral argument,\nmediation, or the examination and cross-examination of witnesses, provided\nthe supervising attorney is present in Court; \n(3) take part in other activities in connection with the case, subject to the\ndirection of the supervising attorney. \n(e) Notwithstanding the filing of written consent by the client and certification of the\nlaw student, this Court may at any time without notice, hearing, or any showing of\ncause, terminate such certification or refuse to allow the student to participate in a\nparticular case. The dean or a faculty member of the student's law school designated\nby the dean may also withdraw certification by mailing a notice of withdrawal to the\nClerk of this Court. The loss of certification by action of this Court shall not be\nconsidered a reflection on the character or ability of the student. The dean or a\nfaculty member of the student's law school designated by the dean may recertify\nsuch a student for appearances before this Court. \nBack To Top Of Table Of Rules\n33",
+          "pages": [
+            32
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "almd-civil-parsed-v1-39ccde043f3fccdb",
+      "sourceDocumentId": "parsed-almd-39ccde043f3fccdb",
+      "sourceUrl": "https://www.almd.uscourts.gov/sites/default/files/forms/ALMD%20Local%20Rules.pdf",
+      "pageIndex": 31,
+      "pageSpan": [
+        31,
+        32
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "almd-civil:83.3",
+      "collectionId": "almd-civil",
+      "districtId": "almd",
+      "number": "83.3",
+      "citation": "Middle District of Alabama · Rule 83.3",
+      "title": "Registry Funds",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rule 83.3\nRegistry Funds\nRules regarding registry funds are contained in the Court’s general and standing\norders.\nBack To Top Of Table Of Rules\n",
+          "pages": [
+            33
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "almd-civil-parsed-v1-39ccde043f3fccdb",
+      "sourceDocumentId": "parsed-almd-39ccde043f3fccdb",
+      "sourceUrl": "https://www.almd.uscourts.gov/sites/default/files/forms/ALMD%20Local%20Rules.pdf",
+      "pageIndex": 33,
+      "pageSpan": [
+        33,
+        33
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "almd-civil:83.4",
+      "collectionId": "almd-civil",
+      "districtId": "almd",
+      "number": "83.4",
+      "citation": "Middle District of Alabama · Rule 83.4",
+      "title": "Photography, Broadcasting, Recording and Electronic Devices",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rule 83.4\nPhotography, Broadcasting, Recording and Electronic Devices\n (a) The taking of photographs and operation of audio or video recording in the\ncourtroom or its environs, and radio, television or other broadcasting from the\ncourtroom during the progress or in connection with judicial proceedings, including\nproceedings before a United States District, Magistrate, Bankruptcy Judge or\nAdministrative Law Judge, whether or not court is in session, is prohibited.\nHowever, attorneys and members of their staffs may possess and use electronic or\nphotographic means for the presentation of evidence.\n (b) The Court maintains a written policy on the use of cellular telephones, paging\ndevices, and laptop computers. For the most recent Court policy, see the Court’s\nStanding and General Orders which may be obtained from the Court’s website at\nhttp://www.almd.uscourts.gov or by calling the clerk's office at 334-954-3600.\n (c) In exceptional situations, at the request of the United States Marshal or\nUnited States Attorney, the court may direct limitations on photography and\nbroadcasting to maintain the secrecy of grand jury proceedings, to protect jurors\nand witnesses, and to further the interests of justice in unusual, hazardous, or\ninflammatory circumstances.\n (d) The broadcasting, televising, recording, or photographing of investitive,\nceremonial, or naturalization proceedings may be authorized by the presiding judge. \n (e) The courtroom and its environs, as such terms are used in this rule, and in the\napplicable General and Standing Orders of the Court shall include any portion of\nthe United States courthouse buildings and the exterior steps to such buildings, and\nparking areas adjacent to such buildings if such areas are owned by the United\nStates Government. The environs of the courtroom as defined in this rule shall not\ninclude the office of any elected official within any United States courthouse, nor\nshould it include the office area of any other agency within such buildings where\nphotography, broadcasting, and recording have been invited or authorized by the\nperson in charge thereof with respect to a matter which is \nunrelated to court proceedings or security. Where the interests of justice or public\nsafety may so require, the Court may direct the marshal to extend the environs of\nthe courtroom, as such term is contemplated in this order, to the curb or edge of the\npublic streets or thoroughfares adjacent to such buildings if such areas are owned by\nthe United States Government.\n34",
+          "pages": [
+            33
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": " (f) It is the purpose of this order to preserve and protect the dignity and solemnity\nof court proceedings, to promote public safety and the safety of the court and its\npersonnel, and to facilitate access to court functions by the public and court officers\nwhile allowing the progressive use of electronic devices which will aid in the\npreparation and trial of cases and the hearing and resolution of motions and other\ncourt matters. Nothing herein contained shall be construed unreasonably so as to\nrestrict the constitutional rights of any individual. \n (g) There is a limited exception to the ban on recording and publication of district\ncourt proceedings as set forth in Local rule 83.4 for district judges participating in a\npilot program established by the Judicial Conference of the United States in\nSeptember 2010 (JCUS-SEP 10, pp. 3-4) to evaluate the effect of cameras in district\ncourtrooms, of video recordings of proceedings therein, and of publication of such\nvideo recordings.\nAny recording and publication conducted pursuant to the pilot program must\ncomply with the program guidelines issued by the Judicial Conference Committee on\nCourt Administration and Case Management, pursuant to the pilot program\n(available at www.uscourts.gov). \nBack To Top Of Criminal Rules Table\n",
+          "pages": [
+            34
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "almd-civil-parsed-v1-39ccde043f3fccdb",
+      "sourceDocumentId": "parsed-almd-39ccde043f3fccdb",
+      "sourceUrl": "https://www.almd.uscourts.gov/sites/default/files/forms/ALMD%20Local%20Rules.pdf",
+      "pageIndex": 33,
+      "pageSpan": [
+        33,
+        34
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "almd-civil:83.5",
+      "collectionId": "almd-civil",
+      "districtId": "almd",
+      "number": "83.5",
+      "citation": "Middle District of Alabama · Rule 83.5",
+      "title": "Extraordinary Expenses for Indigent Clients",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rule 83.5\nExtraordinary Expenses for Indigent Clients\n(a) This Court currently maintains an attorneys fee fund to provide funds for\nextraordinary expenses incurred by counsel appointed by the court to represent\nindigent plaintiffs in civil actions. \n(b) Counsel who wish to receive money from the fund for extraordinary expenses\nmust file a written motion requesting the funds prior to expenditure and detailing\nthe reasons why the funds are necessary. \n(c) If a motion requesting extraordinary expenses is granted, appointed counsel must\nfill out completely the Claim Form for Reimbursement of expenses and file such with\nthe Clerk of Court within 21 days from the date of final judgement. \nBack To Top Of Criminal Rules Table\n \n",
+          "pages": [
+            34
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "almd-civil-parsed-v1-39ccde043f3fccdb",
+      "sourceDocumentId": "parsed-almd-39ccde043f3fccdb",
+      "sourceUrl": "https://www.almd.uscourts.gov/sites/default/files/forms/ALMD%20Local%20Rules.pdf",
+      "pageIndex": 34,
+      "pageSpan": [
+        34,
+        34
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    }
+  ],
+  "evidence": [
+    {
+      "number": "1.1",
+      "heading": "Local Rule 1.1",
+      "page": 4,
+      "offset": 986,
+      "slices": [
+        {
+          "page": 4,
+          "start": 986,
+          "end": 1194,
+          "sha256": "349a90db3ce35e652370bfda8c10e5391444dae05a9166437b27f367abbc1efe"
+        },
+        {
+          "page": 5,
+          "start": 0,
+          "end": 2117,
+          "sha256": "b1e09be81a9a47f27e9e9e31d746e2746add9367cc29ab3d2622417c0faca974"
+        }
+      ]
+    },
+    {
+      "number": "1.2",
+      "heading": "Local Rule 1.2",
+      "page": 5,
+      "offset": 2117,
+      "slices": [
+        {
+          "page": 5,
+          "start": 2117,
+          "end": 2354,
+          "sha256": "d10d32aba4a9a11156502c29928d17538ec1fa509439daf9d537fea965b51473"
+        }
+      ]
+    },
+    {
+      "number": "3.1",
+      "heading": "Local Rule 3.1",
+      "page": 6,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 6,
+          "start": 0,
+          "end": 838,
+          "sha256": "d5f8c22c3b26e9171196a949f1a134629c89454d3c658702e2b55eff001f14e7"
+        }
+      ]
+    },
+    {
+      "number": "4.1",
+      "heading": "Local Rule 4.1",
+      "page": 6,
+      "offset": 838,
+      "slices": [
+        {
+          "page": 6,
+          "start": 838,
+          "end": 1490,
+          "sha256": "6f8dd1e67dc87d4864c3b3cdea9e621bc3d7a18cad299182297f98ca2106c7a0"
+        }
+      ]
+    },
+    {
+      "number": "5.1",
+      "heading": "Local Rule 5.1",
+      "page": 6,
+      "offset": 1490,
+      "slices": [
+        {
+          "page": 6,
+          "start": 1490,
+          "end": 2409,
+          "sha256": "22d321223286feca56781048dac2e6bdea96bd4dbf8187b6c2e9b71cccc86e23"
+        },
+        {
+          "page": 7,
+          "start": 0,
+          "end": 869,
+          "sha256": "3c57005b5761bfd7e8a190bef3b7f89b497fec7c311d0ff64012d9dc98f7058c"
+        }
+      ]
+    },
+    {
+      "number": "5.2",
+      "heading": "Local Rule 5.2",
+      "page": 7,
+      "offset": 869,
+      "slices": [
+        {
+          "page": 7,
+          "start": 869,
+          "end": 2497,
+          "sha256": "65a765ab688a780aca3293b2e2db3f20409059593924de2e599184ef0a0edbdc"
+        },
+        {
+          "page": 8,
+          "start": 0,
+          "end": 1193,
+          "sha256": "685a2d0813fc7c5dac4fc77badb5267759106fa7c11e73c725d48b81fe3746da"
+        }
+      ]
+    },
+    {
+      "number": "5.3",
+      "heading": "Local Rule 5.3",
+      "page": 8,
+      "offset": 1193,
+      "slices": [
+        {
+          "page": 8,
+          "start": 1193,
+          "end": 2514,
+          "sha256": "cf8783fd863f66b73e5aaaaee75bcee1d9be0d2d9175d42ff2e4dc5e793a5c7b"
+        },
+        {
+          "page": 9,
+          "start": 0,
+          "end": 199,
+          "sha256": "85eb3f100dc697458dbef3bda7e6335e888b2ac9297e9da8e5d4860917bb9e43"
+        }
+      ]
+    },
+    {
+      "number": "5.4",
+      "heading": "Local Rule 5.4",
+      "page": 9,
+      "offset": 199,
+      "slices": [
+        {
+          "page": 9,
+          "start": 199,
+          "end": 1229,
+          "sha256": "b32ca03f10ac76d2dcb1d51ce1ceddfbb4c2001e18edb3d9f10ea41db0e77cee"
+        }
+      ]
+    },
+    {
+      "number": "5.5",
+      "heading": "Local Rule 5.5",
+      "page": 9,
+      "offset": 1229,
+      "slices": [
+        {
+          "page": 9,
+          "start": 1229,
+          "end": 2304,
+          "sha256": "16f913e7d50e64b3339bffa68291088360edcf6c58493c37107b4b212fccb998"
+        },
+        {
+          "page": 10,
+          "start": 0,
+          "end": 30,
+          "sha256": "7a1d110563f9902ef0ddf051221f0f5d2c2d5dd0a10e6aa529bb91c5e7ddb1e7"
+        }
+      ]
+    },
+    {
+      "number": "5.6",
+      "heading": "Local Rule 5.6",
+      "page": 10,
+      "offset": 30,
+      "slices": [
+        {
+          "page": 10,
+          "start": 30,
+          "end": 659,
+          "sha256": "299df22fce8725391033bee04ba215ba68bc983becfc68a8fa79ffa130d1945c"
+        }
+      ]
+    },
+    {
+      "number": "5.7",
+      "heading": "Local Rule 5.7",
+      "page": 10,
+      "offset": 659,
+      "slices": [
+        {
+          "page": 10,
+          "start": 659,
+          "end": 1120,
+          "sha256": "a586167075045aaae7cf738d0e2ce090482a40df2fb732ad755a86a8cb508428"
+        }
+      ]
+    },
+    {
+      "number": "5.8",
+      "heading": "Local Rule 5.8",
+      "page": 10,
+      "offset": 1120,
+      "slices": [
+        {
+          "page": 10,
+          "start": 1120,
+          "end": 1373,
+          "sha256": "6a993491a3c7df16cb8c68a7ff3fbcdc75ee09c055a571134015e6a0da66a566"
+        }
+      ]
+    },
+    {
+      "number": "5.9",
+      "heading": "Local Rule 5.9",
+      "page": 10,
+      "offset": 1373,
+      "slices": [
+        {
+          "page": 10,
+          "start": 1373,
+          "end": 1814,
+          "sha256": "7cb37196603c96ca002b37548ef8884ecdb2c399455f8303e31682b04e9ca2c8"
+        },
+        {
+          "page": 11,
+          "start": 0,
+          "end": 905,
+          "sha256": "611769af3ced19cfd971d3e70992ebd6ac2244e2fbe39af597ade125584fac46"
+        }
+      ]
+    },
+    {
+      "number": "7.1",
+      "heading": "Local Rule 7.1",
+      "page": 11,
+      "offset": 905,
+      "slices": [
+        {
+          "page": 11,
+          "start": 905,
+          "end": 2945,
+          "sha256": "9f0340f7693cba8a4de6b6c66dea2db72a63f852ca9c829452b7de1769710e94"
+        },
+        {
+          "page": 12,
+          "start": 0,
+          "end": 220,
+          "sha256": "41eecba48e6119cf4b653d0051473b74b7af4e35d73eb4706f050daa47220b56"
+        }
+      ]
+    },
+    {
+      "number": "9.1",
+      "heading": "Local Rule 9.1",
+      "page": 12,
+      "offset": 220,
+      "slices": [
+        {
+          "page": 12,
+          "start": 220,
+          "end": 1086,
+          "sha256": "f2cb3ea6ee9b1a664b2910d1198b65e675bff7e160a9908788ac643a1bc5d354"
+        }
+      ]
+    },
+    {
+      "number": "9.2",
+      "heading": "Local Rule 9.2",
+      "page": 12,
+      "offset": 1086,
+      "slices": [
+        {
+          "page": 12,
+          "start": 1086,
+          "end": 2141,
+          "sha256": "4a6eae79289df77bc22baaa5197359a76e637acd269b0008f99b82d7cc9841b9"
+        },
+        {
+          "page": 13,
+          "start": 0,
+          "end": 2178,
+          "sha256": "d2bbeb32bf806bf1601c5c8a390b8d66cd6fbd769b3b2637c280851289d3d191"
+        }
+      ]
+    },
+    {
+      "number": "9.3",
+      "heading": "Local Rule 9.3",
+      "page": 14,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 14,
+          "start": 0,
+          "end": 834,
+          "sha256": "fdc562b74120f9213e6d9f8a53b88f99621b06fb9e911dfc8685aa907f63f64a"
+        }
+      ]
+    },
+    {
+      "number": "11.1",
+      "heading": "Local Rule 11.1",
+      "page": 14,
+      "offset": 834,
+      "slices": [
+        {
+          "page": 14,
+          "start": 834,
+          "end": 1773,
+          "sha256": "0727d7aa5474a6bd4929f92fd80bfb66bacd82633a84e7d1cf6973a71d82f617"
+        }
+      ]
+    },
+    {
+      "number": "15.1",
+      "heading": "Local Rule 15.1",
+      "page": 14,
+      "offset": 1773,
+      "slices": [
+        {
+          "page": 14,
+          "start": 1773,
+          "end": 2164,
+          "sha256": "29c93359b840088054cf619fd1af5bc65eb044a17c6e0751633454dfc1fa196f"
+        },
+        {
+          "page": 15,
+          "start": 0,
+          "end": 1709,
+          "sha256": "c5e19c15f93f681802182a67018d08d3a4a7655a3767f16ecab6eb22edff9600"
+        }
+      ]
+    },
+    {
+      "number": "23.1",
+      "heading": "Local Rule 23.1",
+      "page": 15,
+      "offset": 1709,
+      "slices": [
+        {
+          "page": 15,
+          "start": 1709,
+          "end": 2020,
+          "sha256": "da3603d7161223f43e9bcf208ee0f4ef2ed63b07b8a49c3e0c06cb143b3361b5"
+        }
+      ]
+    },
+    {
+      "number": "26.1",
+      "heading": "Local Rule 26.1",
+      "page": 15,
+      "offset": 2020,
+      "slices": [
+        {
+          "page": 15,
+          "start": 2020,
+          "end": 2222,
+          "sha256": "9eede6cbdd0eb76936051932f0a23efbab142fb5e6310a1c0d1cdeea88759210"
+        },
+        {
+          "page": 16,
+          "start": 0,
+          "end": 129,
+          "sha256": "b963d9b41ef5d629d2f7bb231021427f4e81488b0b63b12acad254f2f7ba66da"
+        }
+      ]
+    },
+    {
+      "number": "26.2",
+      "heading": "Local Rule 26.2",
+      "page": 16,
+      "offset": 129,
+      "slices": [
+        {
+          "page": 16,
+          "start": 129,
+          "end": 877,
+          "sha256": "02c82cbfb556c6173b366bed36905a07418eaa4092ddaab44a729251f2c6c0c2"
+        }
+      ]
+    },
+    {
+      "number": "26.3",
+      "heading": "Local Rule 26.3",
+      "page": 16,
+      "offset": 877,
+      "slices": [
+        {
+          "page": 16,
+          "start": 877,
+          "end": 2289,
+          "sha256": "58cce51950e491015113263a30eddae94c3a0c836fe63ae4c3607669425248e0"
+        },
+        {
+          "page": 17,
+          "start": 0,
+          "end": 909,
+          "sha256": "cc8a45593237dadd6016544ff7d7b084eb75beeb6ac8a96de79b47debc3feb2e"
+        }
+      ]
+    },
+    {
+      "number": "37.1",
+      "heading": "Local Rule 37.1",
+      "page": 17,
+      "offset": 909,
+      "slices": [
+        {
+          "page": 17,
+          "start": 909,
+          "end": 1340,
+          "sha256": "fa3688bd7d50a31b8d10e1dc8a7877d53818238db269efa20d0833b986609b4d"
+        }
+      ]
+    },
+    {
+      "number": "38.1",
+      "heading": "Local Rule 38.1",
+      "page": 17,
+      "offset": 1340,
+      "slices": [
+        {
+          "page": 17,
+          "start": 1340,
+          "end": 1871,
+          "sha256": "77d9f01315dfaa8218e80a0215eae341db7524ec80022e3c14e7d203ff9a11ba"
+        }
+      ]
+    },
+    {
+      "number": "39.1",
+      "heading": "Local Rule 39.1",
+      "page": 17,
+      "offset": 1871,
+      "slices": [
+        {
+          "page": 17,
+          "start": 1871,
+          "end": 2134,
+          "sha256": "3600450a953e57af049e1ed7378a52bf066a54820438dcef9c7c3231209bf160"
+        },
+        {
+          "page": 18,
+          "start": 0,
+          "end": 284,
+          "sha256": "65b4d37410a0f80b6596a34518f6f7f73b668d8d6801c53c9c9205109478044a"
+        }
+      ]
+    },
+    {
+      "number": "40.1",
+      "heading": "Local Rule 40.1",
+      "page": 18,
+      "offset": 284,
+      "slices": [
+        {
+          "page": 18,
+          "start": 284,
+          "end": 912,
+          "sha256": "20bd3854bfccda5f0524db62882a3b5b2e672e45cede8edc21b207e4dbd20d5b"
+        }
+      ]
+    },
+    {
+      "number": "45.1",
+      "heading": "Local Rule 45.1",
+      "page": 18,
+      "offset": 912,
+      "slices": [
+        {
+          "page": 18,
+          "start": 912,
+          "end": 2253,
+          "sha256": "a72573d7614e516ea28824be24c2e74836e6f33d37290708bd0512815481c798"
+        },
+        {
+          "page": 19,
+          "start": 0,
+          "end": 1053,
+          "sha256": "32ad34d940bd9f1889d1dede812e5a94e20852ea8fd8c62633d3b867900b9e33"
+        }
+      ]
+    },
+    {
+      "number": "45.2",
+      "heading": "Local Rule 45.2",
+      "page": 19,
+      "offset": 1053,
+      "slices": [
+        {
+          "page": 19,
+          "start": 1053,
+          "end": 1751,
+          "sha256": "5686ae19f39bd8252ce149de6a3bde071c3a32919d93cc368311405fe8d32722"
+        }
+      ]
+    },
+    {
+      "number": "47.1",
+      "heading": "Local Rule 47.1",
+      "page": 19,
+      "offset": 1751,
+      "slices": [
+        {
+          "page": 19,
+          "start": 1751,
+          "end": 1987,
+          "sha256": "91a254e11bc4ee15308c7ee8ea2c665fb8df64a496ccd1e8b5b7898df01149eb"
+        },
+        {
+          "page": 20,
+          "start": 0,
+          "end": 2059,
+          "sha256": "5b4bcbb8c97085a94091d66806c3d38a36f40df71c66378a2e5debc955a5b1a5"
+        }
+      ]
+    },
+    {
+      "number": "54.1",
+      "heading": "Local Rule 54.1",
+      "page": 20,
+      "offset": 2059,
+      "slices": [
+        {
+          "page": 20,
+          "start": 2059,
+          "end": 2655,
+          "sha256": "c6dac7f742287b4b39b7123898ea1287acbcc43d290f6411e1b94408e4475236"
+        },
+        {
+          "page": 21,
+          "start": 0,
+          "end": 30,
+          "sha256": "7a1d110563f9902ef0ddf051221f0f5d2c2d5dd0a10e6aa529bb91c5e7ddb1e7"
+        }
+      ]
+    },
+    {
+      "number": "54.2",
+      "heading": "Local Rule 54.2",
+      "page": 21,
+      "offset": 30,
+      "slices": [
+        {
+          "page": 21,
+          "start": 30,
+          "end": 671,
+          "sha256": "67e0805b274245b005fbce03fd2971bd25bdeca4e169bcc074e9b1da22b2d4a2"
+        }
+      ]
+    },
+    {
+      "number": "58.1",
+      "heading": "Local Rule 58.1",
+      "page": 21,
+      "offset": 671,
+      "slices": [
+        {
+          "page": 21,
+          "start": 671,
+          "end": 1296,
+          "sha256": "cff3185aaccb3fe82ada1b1d476eeae96458838dece00f6b970978ebd9f17eaf"
+        }
+      ]
+    },
+    {
+      "number": "72.1",
+      "heading": "Local Rule 72.1",
+      "page": 21,
+      "offset": 1296,
+      "slices": [
+        {
+          "page": 21,
+          "start": 1296,
+          "end": 1794,
+          "sha256": "8b5b7ec206b933a89b2eee6368b490e8a749b42fcb2a8d0ea75efd5e617dc222"
+        },
+        {
+          "page": 22,
+          "start": 0,
+          "end": 2535,
+          "sha256": "10f244f5e4db4be5b0333e1c25c754e3d95eba944875264132736a8908bbc952"
+        },
+        {
+          "page": 23,
+          "start": 0,
+          "end": 128,
+          "sha256": "e52098d99d6445166bf69a200382331d96721971b1b61df17e4666ed054ec243"
+        }
+      ]
+    },
+    {
+      "number": "72.2",
+      "heading": "Local Rule 72.2",
+      "page": 23,
+      "offset": 128,
+      "slices": [
+        {
+          "page": 23,
+          "start": 128,
+          "end": 824,
+          "sha256": "a1331d35bd9699f973ae5dcda72bdc3496a672c9183fbfcf7e9eeaf568ec74cd"
+        }
+      ]
+    },
+    {
+      "number": "73.1",
+      "heading": "Local Rule 73.1",
+      "page": 23,
+      "offset": 824,
+      "slices": [
+        {
+          "page": 23,
+          "start": 824,
+          "end": 1238,
+          "sha256": "d6944a36cdfc57d79fc80e31d7a86faaaba4ba52761278caa299e512c6206f07"
+        }
+      ]
+    },
+    {
+      "number": "81.1",
+      "heading": "Local Rule 81.1",
+      "page": 23,
+      "offset": 1238,
+      "slices": [
+        {
+          "page": 23,
+          "start": 1238,
+          "end": 1576,
+          "sha256": "636108d0e6de508712a80a3a396c3fedfba1c22719f65680cb1f041165e6e624"
+        }
+      ]
+    },
+    {
+      "number": "83.1",
+      "heading": "Local Rule 83.1",
+      "page": 23,
+      "offset": 1576,
+      "slices": [
+        {
+          "page": 23,
+          "start": 1576,
+          "end": 1660,
+          "sha256": "e3cd851bae21780849f7ba87295f145523444fb2eb78043197aee9ad31e72350"
+        },
+        {
+          "page": 24,
+          "start": 0,
+          "end": 2476,
+          "sha256": "f8d1374cabcee2e61a7cfb4d154428f08082bf4d1f247d7904bc09fcc71d9fe0"
+        },
+        {
+          "page": 25,
+          "start": 0,
+          "end": 3045,
+          "sha256": "dc21afc71563061a9fd77f807a50b9fb5d4a249131b065bc354145e4a5b317e2"
+        },
+        {
+          "page": 26,
+          "start": 0,
+          "end": 3017,
+          "sha256": "f160bc725c3978e2d2fa9892dae8b6d0c4def0636fc715bcd36e905926fa19fa"
+        },
+        {
+          "page": 27,
+          "start": 0,
+          "end": 2591,
+          "sha256": "186e0f216d40aa1af8c948d3049867c33653e636cb14ec53955e75a99d7c9d36"
+        },
+        {
+          "page": 28,
+          "start": 0,
+          "end": 2475,
+          "sha256": "834837a2143dec89078a002237d98d5cec036646f41295ba0694b70ed22b3b38"
+        },
+        {
+          "page": 29,
+          "start": 0,
+          "end": 2432,
+          "sha256": "f9a143330f3c484fef9b6f7f6db1e0070b2001c707c8ae0bf1ff39c9998b4b75"
+        },
+        {
+          "page": 30,
+          "start": 0,
+          "end": 3109,
+          "sha256": "e6614b20f9fb3c761d2490d7e1ff2a54aecc67caac2504e9766f82fe5383680c"
+        },
+        {
+          "page": 31,
+          "start": 0,
+          "end": 2874,
+          "sha256": "f7d54ab6fcb342cc6318399b986f3a82ad7ac7e3e87abf396055f607b5debecc"
+        },
+        {
+          "page": 32,
+          "start": 0,
+          "end": 300,
+          "sha256": "db5cabb9e3ff87dc52fc699241b7462148264ed71962e0da216145dacb211044"
+        }
+      ]
+    },
+    {
+      "number": "83.2",
+      "heading": "Local Rule 83.2",
+      "page": 32,
+      "offset": 300,
+      "slices": [
+        {
+          "page": 32,
+          "start": 300,
+          "end": 2437,
+          "sha256": "6a8d54d00b3d7733f122b7e8f6031d8e5d8851e4b6b29c0b446c72b3c4f1df79"
+        },
+        {
+          "page": 33,
+          "start": 0,
+          "end": 2675,
+          "sha256": "0feccfc68484129ad043b909bae803925834e333dac2d7dd31d14d7cc97199d8"
+        }
+      ]
+    },
+    {
+      "number": "83.3",
+      "heading": "Local Rule 83.3",
+      "page": 34,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 34,
+          "start": 0,
+          "end": 150,
+          "sha256": "4a94c3250a536c1b62b1855715a31cecb8ac3873ddece448c670a9aa26bb9a19"
+        }
+      ]
+    },
+    {
+      "number": "83.4",
+      "heading": "Local Rule 83.4",
+      "page": 34,
+      "offset": 150,
+      "slices": [
+        {
+          "page": 34,
+          "start": 150,
+          "end": 2680,
+          "sha256": "fb412ede49f66e5c481a321cc27c0dc99c658299a6d9774f0dc1fc5f49fea3be"
+        },
+        {
+          "page": 35,
+          "start": 0,
+          "end": 1292,
+          "sha256": "cd697ebf33f9bbb04695b050524b17d27feeefb1aed53ecc3c4555179332b17a"
+        }
+      ]
+    },
+    {
+      "number": "83.5",
+      "heading": "Local Rule 83.5",
+      "page": 35,
+      "offset": 1292,
+      "slices": [
+        {
+          "page": 35,
+          "start": 1292,
+          "end": 2028,
+          "sha256": "be8f0892f2890e9ef2310c4035554afc22e0523e063a6cfdfc7ea5e97c3ebb09"
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "startPage": 4,
+    "startOffset": 986,
+    "endPage": 35,
+    "endOffset": 2028,
+    "ruleCount": 42,
+    "tocReconciled": false,
+    "editorialReviewComplete": false,
+    "currencyReviewed": false,
+    "flags": [
+      "Source extraction contains unresolved characters; consult the original publication."
+    ],
+    "excluded": "Source material outside the recorded range remains available in the district source library."
+  },
+  "transcriptionSha256": "fc9a2b6209927aa3e0a1e58266f9b1beee61e10bec26185899b1899849b5fb69"
+}

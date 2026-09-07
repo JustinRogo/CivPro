@@ -1,0 +1,2919 @@
+{
+  "version": 1,
+  "reviewStatus": "parsed-draft",
+  "districtId": "flmd",
+  "sourceDocument": {
+    "id": "effa65b4e132c132",
+    "title": "Download a PDF of the Local Rules effective November 1, 2025.",
+    "format": "pdf",
+    "role": "primary",
+    "sourceUrl": "https://www.flmd.uscourts.gov/sites/flmd/files/flmd-amended-local-rules-effective-november-01-2025.pdf",
+    "sha256": "effa65b4e132c1321e34361626788a232ce8c725cc238d6a7731e344495961ed",
+    "bytes": 372885,
+    "retrievedAt": "2026-09-07T00:01:00.107328+00:00",
+    "snapshotPath": "sources/district-snapshots/effa65b4e132c1321e34361626788a232ce8c725cc238d6a7731e344495961ed.pdf",
+    "textPath": "data/source-library/effa65b4e132c1321e34361626788a232ce8c725cc238d6a7731e344495961ed.json",
+    "pdfPath": "data/source-pdfs/effa65b4e132c1321e34361626788a232ce8c725cc238d6a7731e344495961ed.pdf",
+    "pageCount": 54,
+    "reviewStatus": "source-document-only",
+    "blankTextPages": 0
+  },
+  "collection": {
+    "id": "flmd-civil",
+    "name": "Middle District of Florida Local Rules",
+    "shortName": "Local rules · draft",
+    "districtId": "flmd",
+    "scopeNote": "Civil and generally applicable local rules; unparsed supplements remain in the source library. Rule boundaries and transcription are drafts. Embedded notes, forms, and running headers may remain within rule text; subsection anchors and field-separated notes are not yet reviewed."
+  },
+  "provisions": [
+    {
+      "id": "flmd-civil:1.01",
+      "collectionId": "flmd-civil",
+      "districtId": "flmd",
+      "number": "1.01",
+      "citation": "Middle District of Florida · Rule 1.01",
+      "title": "Purpose, Scope, and Definitions",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-4",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 1.01 Purpose, Scope, and Definitions \n(a) PURPOSE. These rules advance efficiency, consistency, \nconvenience, and other interests of justice. \n(b) SUSPENDING THE APPLICATION OF A RULE. If reasonably \nnecessary to achieve the purpose of these rules, a judge can temporarily \nmodify or suspend the application of any rule, except Local Rule \n1.05(a). \n(c) ELECTRONIC FILING. By administrative order, the court can \nprescribe procedures governing electronic filing. \n(d) DEFINITIONS. \n(1) “Action” means, collectively, the claims a party asserts in a \npleading. \n(2) “Bar” means the bar of the Middle District. \n(3) “Case” means the content of the docket in an action (for \nexample, if remand occurs, the action returns to state court, but \nthe case remains in federal court). \n(4) “Claim” or “claim for relief” means the basis for relief a \nparty asserts in a count of a pleading and is similar to the state \ncourt term “cause of action.” \n(5) “Clerk” means the Clerk of the Court for the Middle \nDistrict or the clerk’s designee. \n(6) “Court” means the judges of the Middle District \ncollectively. \n(7) “Judge” means a presiding judge. ",
+          "pages": [
+            3
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-5",
+          "path": [],
+          "type": "paragraph",
+          "text": "MIDDLE DISTRICT OF FLORIDA LOCAL RULES\n2 \n(8) “Lawyer” means a member of the Middle District bar or a \nlawyer specially admitted in the Middle District. \n(9) “Lead counsel” means the lawyer responsible to the court \nand the other parties for the conduct of the action, including \nscheduling. \n(10) “Legal memorandum” means a paper — including a legal \nbrief — that cites legal authority or otherwise advances a \nstatement of law to support a request for relief. \n(11) “Middle District” means the United States District Court \nfor the Middle District of Florida. \n(12) “Paper” means a pleading, motion, document, exhibit, \nattachment, appendix, photograph, or other filing susceptible to \nappearance on the electronic docket and not a tangible object. \n(13) “Person” means a natural person or an entity the law \nrecognizes as a person. \n(14) “Pleading” means a paper identified as a pleading and \npermitted under the Federal Rules of Civil Procedure. \n(15) “Pro se” means not represented by a lawyer. \n",
+          "pages": [
+            4
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flmd-civil-parsed-v1-effa65b4e132c132",
+      "sourceDocumentId": "parsed-flmd-effa65b4e132c132",
+      "sourceUrl": "https://www.flmd.uscourts.gov/sites/flmd/files/flmd-amended-local-rules-effective-november-01-2025.pdf",
+      "pageIndex": 3,
+      "pageSpan": [
+        3,
+        4
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flmd-civil:1.02",
+      "collectionId": "flmd-civil",
+      "districtId": "flmd",
+      "number": "1.02",
+      "citation": "Middle District of Florida · Rule 1.02",
+      "title": "Authority of a United States Magistrate Judge",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-5",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 1.02 Authority of a United States Magistrate Judge \n(a) AUTHORITY. A United States magistrate judge in the Middle \nDistrict can exercise the maximum authority and perform any duty \npermitted by the Constitution and other laws of the United States. \n(b) ADMINISTRATIVE ORDER. The chief judge must issue and \npublicize with the local rules an administrative order that delineates the \nauthority and describes the duties of a United States magistrate judge. \nThe chief judge can amend the administrative order as needed. ",
+          "pages": [
+            4
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-6",
+          "path": [],
+          "type": "paragraph",
+          "text": "MIDDLE DISTRICT OF FLORIDA LOCAL RULES\n3 \n",
+          "pages": [
+            5
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flmd-civil-parsed-v1-effa65b4e132c132",
+      "sourceDocumentId": "parsed-flmd-effa65b4e132c132",
+      "sourceUrl": "https://www.flmd.uscourts.gov/sites/flmd/files/flmd-amended-local-rules-effective-november-01-2025.pdf",
+      "pageIndex": 4,
+      "pageSpan": [
+        4,
+        5
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flmd-civil:1.03",
+      "collectionId": "flmd-civil",
+      "districtId": "flmd",
+      "number": "1.03",
+      "citation": "Middle District of Florida · Rule 1.03",
+      "title": "Admiralty and Maritime",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-6",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 1.03 Admiralty and Maritime \n(a) ADMIRALTY AND MARITIME PRACTICE MANUAL. To \nsupplement and clarify the United States “Supplemental Rules for \nAdmiralty and Maritime Claims and Asset Forfeiture Actions,” the \nMiddle District must adopt and publish a manual that governs \nadmiralty and maritime practice in the Middle District. \n(b) ADMIRALTY AND MARITIME PRACTICE COMMITTEE. The chief \njudge must appoint a standing committee comprising representatives of \nthe admiralty and maritime bar and must designate the chair. The \ncommittee must consist of no fewer than five admiralty and maritime \nlawyers, each appointed for no more than three years. The committee \nmust meet at least annually to consider and recommend improvements \nto the manual. \n",
+          "pages": [
+            5
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flmd-civil-parsed-v1-effa65b4e132c132",
+      "sourceDocumentId": "parsed-flmd-effa65b4e132c132",
+      "sourceUrl": "https://www.flmd.uscourts.gov/sites/flmd/files/flmd-amended-local-rules-effective-november-01-2025.pdf",
+      "pageIndex": 5,
+      "pageSpan": [
+        5,
+        5
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flmd-civil:1.04",
+      "collectionId": "flmd-civil",
+      "districtId": "flmd",
+      "number": "1.04",
+      "citation": "Middle District of Florida · Rule 1.04",
+      "title": "Divisions and Place to File",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-6",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 1.04 Divisions and Place to File \n(a) DIVISIONS. The Middle District comprises these divisions and \nthese counties: \nFort Myers Division \nCharlotte County \nCollier County \nDeSoto County \nGlades County \nHendry County \nLee County \nJacksonville Division \nBaker County \nBradford County \nClay County \nColumbia County \nDuval County \nFlagler County \nHamilton County \nNassau County \nPutnam County \nSt. Johns County \nSuwannee County \nUnion County ",
+          "pages": [
+            5
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-7",
+          "path": [],
+          "type": "paragraph",
+          "text": "MIDDLE DISTRICT OF FLORIDA LOCAL RULES\n4 \nOcala Division \nCitrus County \nHernando County \nLake County \nMarion County \nSumter County \nOrlando Division \nBrevard County \nOrange County \nOsceola County \nSeminole County \nVolusia County \nTampa Division \nHardee County \nHillsborough County \nManatee County \nPasco County \nPinellas County \nPolk County \nSarasota County \n(b) DIVISION FOR A CIVIL ACTION. A party must begin an action in \nthe division to which the action is most directly connected or in which \nthe action is most conveniently advanced. Unless otherwise \nadministratively ordered by the chief judge, the judge must transfer the \naction to the division most consistent with the purpose of this rule. \n(c) DIVISION FOR A CRIMINAL ACTION. Unless otherwise provided \nby law, the United States must begin a criminal action in a division in \nwhich at least one defendant committed a charged offense. Unless \notherwise administratively ordered by the chief judge, the judge must \ntransfer the action to the division to which the action is most directly \nconnected or in which the action is most conveniently advanced. \n",
+          "pages": [
+            6
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flmd-civil-parsed-v1-effa65b4e132c132",
+      "sourceDocumentId": "parsed-flmd-effa65b4e132c132",
+      "sourceUrl": "https://www.flmd.uscourts.gov/sites/flmd/files/flmd-amended-local-rules-effective-november-01-2025.pdf",
+      "pageIndex": 5,
+      "pageSpan": [
+        5,
+        6
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flmd-civil:1.05",
+      "collectionId": "flmd-civil",
+      "districtId": "flmd",
+      "number": "1.05",
+      "citation": "Middle District of Florida · Rule 1.05",
+      "title": "Docketing and Assignment",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-7",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 1.05 Docketing and Assignment \n(a) CLERK’S DOCKETING AND ASSIGNMENT. On receipt of an \ninitial paper, the clerk must classify the paper as civil, criminal, or \nmiscellaneous; assign the paper a distinct number; and randomly assign \nthe paper to a district judge, a magistrate judge, or both. The clerk \ncannot change the initial assignment without an order from the judge or \nthe chief judge. The clerk must report promptly to the chief judge an \napparent attempt to evade the random assignment of an initial paper. ",
+          "pages": [
+            6
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-8",
+          "path": [],
+          "type": "paragraph",
+          "text": "MIDDLE DISTRICT OF FLORIDA LOCAL RULES\n5 \n(b) VEXATIOUS LITIGANT. A judge can assign review of an initial \npaper from a vexatious litigant to the judge already designated to review \nthe vexatious litigant’s filings. \n(c) ACCEPTANCE OF A PAPER FROM A PERSON IN CUSTODY. The \nclerk must accept an initial paper from a person in custody even if no \nfiling fee or motion for leave to proceed in forma pauperis accompanies \nthe paper. \n",
+          "pages": [
+            7
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flmd-civil-parsed-v1-effa65b4e132c132",
+      "sourceDocumentId": "parsed-flmd-effa65b4e132c132",
+      "sourceUrl": "https://www.flmd.uscourts.gov/sites/flmd/files/flmd-amended-local-rules-effective-november-01-2025.pdf",
+      "pageIndex": 6,
+      "pageSpan": [
+        6,
+        7
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flmd-civil:1.06",
+      "collectionId": "flmd-civil",
+      "districtId": "flmd",
+      "number": "1.06",
+      "citation": "Middle District of Florida · Rule 1.06",
+      "title": "Removal of an Action from State Court",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-8",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 1.06 Removal of an Action from State Court \n(a) DIVISION ASSIGNMENT. The clerk must docket a removed \naction in the division that includes the county from which the party \nremoved the action. \n(b) STATE COURT DOCKET. The removing party must file with the \nnotice of removal a legible copy of each paper docketed in the state \ncourt. \n(c) PENDING MOTION. A motion pending in state court when the \naction is removed is denied without prejudice. \n",
+          "pages": [
+            7
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flmd-civil-parsed-v1-effa65b4e132c132",
+      "sourceDocumentId": "parsed-flmd-effa65b4e132c132",
+      "sourceUrl": "https://www.flmd.uscourts.gov/sites/flmd/files/flmd-amended-local-rules-effective-november-01-2025.pdf",
+      "pageIndex": 7,
+      "pageSpan": [
+        7,
+        7
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flmd-civil:1.07",
+      "collectionId": "flmd-civil",
+      "districtId": "flmd",
+      "number": "1.07",
+      "citation": "Middle District of Florida · Rule 1.07",
+      "title": "Successive and Other Related Actions",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-8",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 1.07 Successive and Other Related Actions \n(a) TRANSFER.\n(1) Successive Action. If an action is docketed, assigned, and \nterminated; later re-filed without a material change in the issues \nor the parties; and assigned to a judge other than the judge \noriginally assigned, the originally assigned judge should accept \nthe transfer. If the originally assigned judge declines the \ntransfer, the chief judge can transfer the action to the originally \nassigned judge upon a request from the newly assigned judge \nand after consultation with the originally assigned judge. ",
+          "pages": [
+            7
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-9",
+          "path": [],
+          "type": "paragraph",
+          "text": "MIDDLE DISTRICT OF FLORIDA LOCAL RULES\n6 \n(2) Other Actions. \n(A) By the Judge. If the transferee judge consents, the \njudge to whom the clerk assigns an action can transfer the \naction at any time and for any reason. \n(B) By a Party. If actions before different judges present \nthe probability of inefficiency or inconsistency, a party may \nmove to transfer a later-filed action to the judge assigned to \nthe first-filed action. The moving party must file the motion \nin the later-filed action and a notice and a copy of the \nmotion in the first-filed action. The proposed transferor \njudge must resolve the motion to transfer but can transfer \nthe action only with the consent of the transferee judge. The \ntransferee judge can order the clerk to assign to the later￾filed action the magistrate judge in the first-filed action. \n(C) By the Chief Judge. If the judge in a first-filed action \ndeclines a transfer, the chief judge can transfer a later-filed \naction to the judge in the first-filed action upon a request \nfrom the judge in the later-filed action and after consultation \nwith the judge in the first-filed action. The transferee judge \ncan order the clerk to assign to the later-filed action the \nmagistrate judge in the first-filed action. \n(b) CONSOLIDATION. If actions assigned to a judge present the \nprobability of inefficiency or inconsistency, a party may move to \nconsolidate the actions. The party must file the motion in one action \nand a notice and a copy of the motion in the other action. The judge \ncan order the clerk to assign to the consolidated actions the magistrate \njudge assigned to the first-filed action. \n(c) DUTY OF THE LEAD COUNSEL. The lead counsel has a \ncontinuing duty to file promptly a “Notice of Related Action” \nidentifying and describing any related action — either pending or closed \n— in the Middle District or elsewhere. ",
+          "pages": [
+            8
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-10",
+          "path": [],
+          "type": "paragraph",
+          "text": "MIDDLE DISTRICT OF FLORIDA LOCAL RULES\n7 \n",
+          "pages": [
+            9
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flmd-civil-parsed-v1-effa65b4e132c132",
+      "sourceDocumentId": "parsed-flmd-effa65b4e132c132",
+      "sourceUrl": "https://www.flmd.uscourts.gov/sites/flmd/files/flmd-amended-local-rules-effective-november-01-2025.pdf",
+      "pageIndex": 7,
+      "pageSpan": [
+        7,
+        9
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flmd-civil:1.08",
+      "collectionId": "flmd-civil",
+      "districtId": "flmd",
+      "number": "1.08",
+      "citation": "Middle District of Florida · Rule 1.08",
+      "title": "Form of a Pleading, Motion, or Other Paper",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-10",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 1.08 Form of a Pleading, Motion, or Other Paper \n(a) TYPOGRAPHY REQUIREMENTS. Except as provided in (b), each \npleading, motion, or other paper, excluding an exhibit, an attachment, a \ntranscript, an image, or other addendum, must conform to these \nrequirements: \nPaper Size 8½ x 11 inches \nMargins 1 inch \nPage Numbering Bottom center but no numbering \nnecessary on page one \nMain Text At least 13-point, 2.0 double-spaced \nIndented Quotation At least 12-point, single-spaced \nFootnote At least 11-point, single-spaced \nTypeface \nBook Antiqua \nCalisto MT \nCentury Schoolbook \nGeorgia \nPalatino \nCharacter Spacing \nScale: 100% \nSpacing: Normal \nPosition: Normal ",
+          "pages": [
+            9
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-11",
+          "path": [],
+          "type": "paragraph",
+          "text": "MIDDLE DISTRICT OF FLORIDA LOCAL RULES\n8 \n(b) ANOTHER PERMISSIBLE TYPEFACE. Times New Roman is \npermitted if the main text is at least 14-point, an indented quotation is at \nleast 13-point, a footnote is at least 12-point, and the paper otherwise \ncomplies with (a). \n(c) REQUIREMENTS FOR OTHER SUBMISSIONS. The judge can \npermit a party to file a tangible rather than an electronic paper or a \nhandwritten rather than a typewritten paper. The party must use \nopaque, unglazed, white, unbound paper with print on only one side. \n",
+          "pages": [
+            10
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flmd-civil-parsed-v1-effa65b4e132c132",
+      "sourceDocumentId": "parsed-flmd-effa65b4e132c132",
+      "sourceUrl": "https://www.flmd.uscourts.gov/sites/flmd/files/flmd-amended-local-rules-effective-november-01-2025.pdf",
+      "pageIndex": 9,
+      "pageSpan": [
+        9,
+        10
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flmd-civil:1.09",
+      "collectionId": "flmd-civil",
+      "districtId": "flmd",
+      "number": "1.09",
+      "citation": "Middle District of Florida · Rule 1.09",
+      "title": "Title of a Pleading, Motion, or Other Paper",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-11",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 1.09 Title of a Pleading, Motion, or Other Paper \n The title of these papers must include these words: \nAn unopposed motion “Unopposed” \nAn emergency or time￾sensitive motion \n“Emergency” or “Time￾Sensitive” \nA motion requesting a \ntemporary restraining order \n“Motion for Temporary \nRestraining Order” \nA motion requesting a \npreliminary injunction \n“Motion for Preliminary \nInjunction” \nA paper requesting \npreliminary or permanent \ninjunctive relief \n“[Preliminary or \nPermanent] Injunctive \nRelief Requested” \nA paper requesting declaratory \nrelief \n“Declaratory Relief \nRequested” \nA paper demanding a jury trial “Demand for a Jury Trial” ",
+          "pages": [
+            10
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-12",
+          "path": [],
+          "type": "paragraph",
+          "text": "MIDDLE DISTRICT OF FLORIDA LOCAL RULES\n9 \nA pleading with a claim \nrequiring three judges “Three Judges Required” \nA paper challenging the \nconstitutionality of a federal or \nstate statute \n“Challenge to the \nConstitutionality of [the \nstatute]” \nA motion to seal under a \nstatute or rule \n“Motion to Seal Under \n[the statute or rule] \nA pleading alleging a class \naction \n“Class Action” and a \nsection titled “Class Action \nAllegations” \nA pleading alleging a \ncollective action “Collective Action” \nA pleading alleging a \nderivative action “Derivative Action” \n",
+          "pages": [
+            11
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flmd-civil-parsed-v1-effa65b4e132c132",
+      "sourceDocumentId": "parsed-flmd-effa65b4e132c132",
+      "sourceUrl": "https://www.flmd.uscourts.gov/sites/flmd/files/flmd-amended-local-rules-effective-november-01-2025.pdf",
+      "pageIndex": 10,
+      "pageSpan": [
+        10,
+        11
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flmd-civil:1.10",
+      "collectionId": "flmd-civil",
+      "districtId": "flmd",
+      "number": "1.10",
+      "citation": "Middle District of Florida · Rule 1.10",
+      "title": "Filing Proof of Service of Process; Deadline for Default",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-12",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 1.10 Filing Proof of Service of Process; Deadline for Default \n(a) PROOF OF SERVICE OR WAIVER. Within twenty-one days after \nservice of a summons and complaint or receipt of a waiver, a party must \nfile proof of service or the waiver. \n(b) APPLICATION FOR A DEFAULT. Within twenty-eight days after \na party’s failure to plead or otherwise defend, a party entitled to a \ndefault must apply for the default. \n(c) APPLICATION FOR A DEFAULT JUDGMENT. Within thirty-five \ndays after entry of a default, the party entitled to a default judgment \nmust apply for the default judgment or must file a paper identifying \neach unresolved issue — such as the liability of another defendant — \nnecessary to entry of the default judgment. ",
+          "pages": [
+            11
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-13",
+          "path": [],
+          "type": "paragraph",
+          "text": "MIDDLE DISTRICT OF FLORIDA LOCAL RULES\n10 \n(d) FAILURE TO ACT TIMELY. Failure to comply with a deadline in \nthis rule can result in dismissal of the claim or action without notice and \nwithout prejudice. \n",
+          "pages": [
+            12
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flmd-civil-parsed-v1-effa65b4e132c132",
+      "sourceDocumentId": "parsed-flmd-effa65b4e132c132",
+      "sourceUrl": "https://www.flmd.uscourts.gov/sites/flmd/files/flmd-amended-local-rules-effective-november-01-2025.pdf",
+      "pageIndex": 11,
+      "pageSpan": [
+        11,
+        12
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flmd-civil:1.11",
+      "collectionId": "flmd-civil",
+      "districtId": "flmd",
+      "number": "1.11",
+      "citation": "Middle District of Florida · Rule 1.11",
+      "title": "Sealing in a Civil Action",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-13",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 1.11 Sealing in a Civil Action \n(a) PRESUMPTION OF PUBLIC ACCESS. Sealing a docketed item, \nincluding a settlement agreement, used in the adjudication or other \nresolution of a claim or defense requires a reason sufficiently \ncompelling to overcome the presumption of public access. Sealing is not \nauthorized by a confidentiality agreement, a protective order, a \ndesignation of confidentiality, or a stipulation. \n(b) MOTION TO SEAL. A motion to seal an item: \n(1) must include in the title “Motion to Seal Under [Statute, \nRule, or Order]” or, if no statute, rule, or order applies, \n“Motion to Seal”; \n(2) must describe the item; \n(3) must establish: \n(A) that filing the item is necessary, \n(B) that sealing the item is necessary, and \n(C) that using a redaction, a pseudonym, or a means other \nthan sealing is unavailable or unsatisfactory; \n(4) must include a legal memorandum; \n(5) must propose a duration for the seal; \n(6) must state the name, mailing address, email address, and \ntelephone number of the person authorized to retrieve a sealed, \ntangible item; ",
+          "pages": [
+            12
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-14",
+          "path": [],
+          "type": "paragraph",
+          "text": "MIDDLE DISTRICT OF FLORIDA LOCAL RULES\n11 \n(7) must certify the name, mailing address, email address, and \ntelephone number of any non-party the movant knows or \nreasonably should know has an interest in establishing or \nmaintaining the seal and the day on which, and the means by \nwhich, the movant served or otherwise delivered the motion to \nthe non-party; and \n(8) must include the item, which is sealed pending an order \nresolving the motion. \n(c) SUPPORTING OR OPPOSING A MOTION TO SEAL. Within \nfourteen days after service or other delivery of a motion to seal, any \nparty or non-party interested in establishing or maintaining the seal may \nfile a memorandum supporting the seal. Within twenty-one days after \nthe filing of the motion to seal, any party or non-party opposing the \nmotion may respond. Neither the memorandum nor the response may \nexceed seven pages, excluding the caption, the signature block, any \ncertificate of service, and any attachment. \n(d) STAYING AN ORDER DENYING A MOTION TO SEAL. An order \ndenying a motion to seal is automatically stayed for fourteen days to \npermit a motion to reconsider, for review, to withdraw the item, or for \nother relief. \n(e) EXPIRATION. Unless an order states another time, a seal under \nthis rule expires ninety days after a case is closed and all appeals are \nexhausted. To prevent the content of a sealed item from appearing on \nthe docket after the seal expires, a party or interested non-party must \nmove for relief before the seal expires.",
+          "pages": [
+            13
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-15",
+          "path": [],
+          "type": "paragraph",
+          "text": "MIDDLE DISTRICT OF FLORIDA LOCAL RULES\n12 \nChapter Two — Lawyers \n",
+          "pages": [
+            14
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flmd-civil-parsed-v1-effa65b4e132c132",
+      "sourceDocumentId": "parsed-flmd-effa65b4e132c132",
+      "sourceUrl": "https://www.flmd.uscourts.gov/sites/flmd/files/flmd-amended-local-rules-effective-november-01-2025.pdf",
+      "pageIndex": 12,
+      "pageSpan": [
+        12,
+        14
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flmd-civil:2.01",
+      "collectionId": "flmd-civil",
+      "districtId": "flmd",
+      "number": "2.01",
+      "citation": "Middle District of Florida · Rule 2.01",
+      "title": "Practice in the Middle District",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-15",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 2.01 Practice in the Middle District \n(a) REQUIREMENT. Membership or special admission in the \nMiddle District bar is necessary to practice in the Middle District. But \nneither membership nor special admission is required for a lawyer \nemployed by the United States or a public entity established by federal \nlaw to practice within the course and scope of the lawyer’s employment. \n(b) MEMBERSHIP. \n(1) Requirements. Membership in the Middle District bar \nrequires:\n(A) active membership in good standing in The Florida \nBar; \n(B) an application for admission that lists the applicant’s \nstate of residence, business address, undergraduate and legal \neducation, and jurisdictions in which the applicant is \nadmitted to practice; \n(C) an acknowledgment that the applicant is familiar with \n28 U.S.C. § 1927; \n(D) an acknowledgment that the applicant will comply \nwith the federal rules and these local rules; \n(E) an affirmation of the oath; \n(F) payment of the fee; and \n(G) registration with the Middle District’s CM/ECF \nsystem. \n(2) Maintaining Membership. To maintain membership in the \nMiddle District bar, a member: \n(A) must pay a periodic fee set by an administrative order; ",
+          "pages": [
+            14
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "MIDDLE DISTRICT OF FLORIDA LOCAL RULES\n13 \n(B) must maintain with the clerk a current telephone \nnumber, mailing address, and email address; and \n(C) must comply with, and remain familiar with, the \nethical requirements of The Florida Bar. \n(c) SPECIAL ADMISSION. A lawyer can move for special admission \nin a case in the Middle District if the lawyer: \n(1) is not an active member in good standing of The Florida \nBar, \n(2) is a member in good standing of the bar of a United States \ndistrict court, \n(3) has not abused the privilege of special admission by \nmaintaining a regular practice of law in Florida, \n(4) lists each case in state or federal court in Florida in which \nthe lawyer has initially appeared in the last thirty-six months, \nand \n(5) satisfies the requirements for obtaining and maintaining \nmembership in the Middle District bar, except the requirements \nof membership in The Florida Bar, submission of an \napplication, and payment of a periodic fee. \n(d) TEMPORARY ADMISSION OF AN ELIGIBLE LAWYER. In an \nextraordinary circumstance, such as an emergency hearing, a lawyer \nwho is not a member of the Middle District bar or specially admitted \ncan move for temporary admission lasting no longer than thirty days if \nthe lawyer appears eligible for membership or special admission and \napplies for membership or moves for special admission within seven \ndays after moving for temporary admission. \n(e) CONDUCT. A lawyer appearing in the Middle District must \nremain familiar with, and is bound by, the rules governing the \nprofessional conduct of a member of The Florida Bar. ",
+          "pages": [
+            15
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "MIDDLE DISTRICT OF FLORIDA LOCAL RULES\n14 \n",
+          "pages": [
+            16
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flmd-civil-parsed-v1-effa65b4e132c132",
+      "sourceDocumentId": "parsed-flmd-effa65b4e132c132",
+      "sourceUrl": "https://www.flmd.uscourts.gov/sites/flmd/files/flmd-amended-local-rules-effective-november-01-2025.pdf",
+      "pageIndex": 14,
+      "pageSpan": [
+        14,
+        16
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flmd-civil:2.02",
+      "collectionId": "flmd-civil",
+      "districtId": "flmd",
+      "number": "2.02",
+      "citation": "Middle District of Florida · Rule 2.02",
+      "title": "Appearance and Withdrawal of a Lawyer",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 2.02 Appearance and Withdrawal of a Lawyer \n(a) LEAD COUNSEL. The first paper filed on behalf of a party must \ndesignate only one “lead counsel” who — unless the party changes the \ndesignation — remains lead counsel throughout the action. \n(b) APPEARANCE.\n(1) A lawyer’s pleading, motion, or other paper serves as that \nlawyer’s appearance in an action. \n(2) A party, other than a natural person, can appear through \nthe lawyer only. \n(3) If a lawyer represents a person in an action, the person can \nappear through the lawyer only. \n(c) WITHDRAWAL. If a lawyer appears, the lawyer cannot without \nleave of court abandon, or withdraw from, the action. \n(1) To withdraw, a lawyer: \n(A) must notify each affected client fourteen days before \nmoving to withdraw unless the client consents to \nwithdrawal, and \n(B) must file a motion to withdraw that includes: \n(i) a certificate that the lawyer has provided fourteen \ndays’ notice to the client or that the client consents to \nwithdrawal and \n(ii) if withdrawal will result in a person proceeding pro \nse, the person’s mailing address, email address, and \ntelephone number. \n(2) The withdrawing lawyer — not the lawyer’s present or \nformer firm or another lawyer — must move to withdraw unless \nunable because of an emergency, disability, or death. ",
+          "pages": [
+            16
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "MIDDLE DISTRICT OF FLORIDA LOCAL RULES\n15 \n(3) If withdrawal might cause the continuance of a trial, a \nlawyer cannot withdraw absent a compelling ethical problem, \nemergency, disability, or death. \n(4) A party that discharges a lawyer must obtain substitute \ncounsel in time to comply with the deadlines. A person no \nlonger represented by counsel must comply with the rules and \ncomply with the deadlines. \n(d) LAW FIRMS. A lawyer changing law firms but remaining as the \nlawyer in an action need not file a motion but must change the lawyer’s \ncontact information. \n",
+          "pages": [
+            17
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flmd-civil-parsed-v1-effa65b4e132c132",
+      "sourceDocumentId": "parsed-flmd-effa65b4e132c132",
+      "sourceUrl": "https://www.flmd.uscourts.gov/sites/flmd/files/flmd-amended-local-rules-effective-november-01-2025.pdf",
+      "pageIndex": 16,
+      "pageSpan": [
+        16,
+        17
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flmd-civil:2.03",
+      "collectionId": "flmd-civil",
+      "districtId": "flmd",
+      "number": "2.03",
+      "citation": "Middle District of Florida · Rule 2.03",
+      "title": "Appearance by a Law Student",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 2.03 Appearance by a Law Student \n A law student may participate in a trial or hearing in a civil or \nmisdemeanor action with the judge’s consent if the student: \n(a) is enrolled in an accredited law school, has completed at least \nforty-eight semester hours of legal study or the equivalent, and agrees \nthat neither the supervising lawyer nor the student will ask for or receive \ncompensation from the client for the student’s services; \n(b) is accompanied by a supervising lawyer who assumes \nprofessional responsibility for the student’s action and the quality of the \nstudent’s work; and \n(c) is acting on behalf of an indigent person, a government, or a \ngovernmental agency. \n",
+          "pages": [
+            17
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flmd-civil-parsed-v1-effa65b4e132c132",
+      "sourceDocumentId": "parsed-flmd-effa65b4e132c132",
+      "sourceUrl": "https://www.flmd.uscourts.gov/sites/flmd/files/flmd-amended-local-rules-effective-november-01-2025.pdf",
+      "pageIndex": 17,
+      "pageSpan": [
+        17,
+        17
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flmd-civil:2.04",
+      "collectionId": "flmd-civil",
+      "districtId": "flmd",
+      "number": "2.04",
+      "citation": "Middle District of Florida · Rule 2.04",
+      "title": "Discipline",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 2.04 Discipline \n(a) DISCIPLINE BY THE COURT. In addition to a judge’s sanction or \nuse of another grievance mechanism, the court can — after a hearing \nand for good cause — disbar, suspend, reprimand, or otherwise \ndiscipline a member of the Middle District bar or a lawyer appearing by \nspecial admission. ",
+          "pages": [
+            17
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "MIDDLE DISTRICT OF FLORIDA LOCAL RULES\n16 \n(b) REQUIREMENT TO REPORT AND AUTOMATIC SUSPENSION.\n(1) Requirement to Report. A lawyer must inform the clerk within \nfourteen days after the lawyer is convicted of a felony or loses \ngood standing with, is publicly disciplined by, is disbarred on \nconsent from, or has resigned from, any bar. \n(2) Automatic Suspension. Twenty-one days after an event listed \nin (b)(1), a lawyer is automatically suspended. But automatic \nsuspension under this rule is stayed if, before the automatic \nsuspension, the lawyer petitions the chief judge for relief. If the \nlawyer is a member of the Middle District bar, the chief judge or \none or more judges designated by the chief judge determines the \npetition. If the lawyer appeared by special admission, the chief \njudge or the judge assigned to the action determines the \npetition. If an automatic suspension results from a bar’s \nsuspending the lawyer for ninety days or less, the lawyer’s \nreinstatement is automatic upon reinstatement by the bar. \n(c) GRIEVANCE COMMITTEES.\n(1) Requirement. Each division must maintain a committee to \ninvestigate alleged lawyer misconduct and report to the chief \njudge a recommended resolution of the allegation. \n(2) Appointment and Composition. With the advice and consent of \nthe district judges residing in the division or assigned a material \ncaseload in the division, the chief judge must appoint the \ncommittee and designate the chair. The committee must consist \nof at least five lawyers, each appointed for no more than three \nyears. \n(3) Chair. The chair must ensure that an investigation and \ndeliberation of the committee remains orderly, reliable, and \nreasonably speedy and offers fairness and due process to the \naccused lawyer and any alleged victim.",
+          "pages": [
+            18
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "MIDDLE DISTRICT OF FLORIDA LOCAL RULES\n17 \n(4) Procedure. \n(A) A judge or a committee member can initiate an \ninvestigation of alleged lawyer misconduct. A referring \ncommittee member must not participate further in \ninvestigating or recommending the resolution of an \nallegation of misconduct. \n(B) The chair must appoint at least one committee \nmember to preliminarily investigate the alleged misconduct, \nalthough the committee can elect to conduct the preliminary \ninvestigation. The investigating member or members must \nprepare a preliminary report for the committee. \n(C) Upon receiving the preliminary report, the committee \nmust determine whether: \n(i) to terminate the investigation because the \nallegation is unsupported or insubstantial or \n(ii) to investigate further or refer the allegation to The \nFlorida Bar or both. \n(D) If the committee determines to terminate the \ninvestigation, the chair must report the determination to the \nreferring judge or committee member. \n(E) If the referring judge directs the committee to \ninvestigate further, the committee must investigate promptly \nand report to the judge whether probable cause exists to \nbelieve that the lawyer is guilty of unprofessional or \nunethical conduct justifying disciplinary action. \n(F) If the committee finds probable cause for disciplinary \naction, the chief judge or one or more judges designated by \nthe chief judge: ",
+          "pages": [
+            19
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "MIDDLE DISTRICT OF FLORIDA LOCAL RULES\n18 \n(i) must order the lawyer to respond, \n(ii) must determine whether clear and convincing \nevidence establishes lawyer misconduct, and \n(iii) if so, must impose a proportionate sanction. \n(G) The chief judge must notify each district and \nmagistrate judge and the clerk of the sanction imposed. \n(5) Notice. Unless the committee finds probable cause, a lawyer \nhas no right to notice of the investigation. \n(6) Cooperation. A lawyer must respond to, and fully cooperate \nwith, the committee during an investigation. ",
+          "pages": [
+            20
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "MIDDLE DISTRICT OF FLORIDA LOCAL RULES\n19 \nChapter Three — Motions, Discovery, and Pretrial \nProcedure \n",
+          "pages": [
+            21
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flmd-civil-parsed-v1-effa65b4e132c132",
+      "sourceDocumentId": "parsed-flmd-effa65b4e132c132",
+      "sourceUrl": "https://www.flmd.uscourts.gov/sites/flmd/files/flmd-amended-local-rules-effective-november-01-2025.pdf",
+      "pageIndex": 17,
+      "pageSpan": [
+        17,
+        21
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flmd-civil:3.01",
+      "collectionId": "flmd-civil",
+      "districtId": "flmd",
+      "number": "3.01",
+      "citation": "Middle District of Florida · Rule 3.01",
+      "title": "Motions, Briefs, and Other Legal Memorandums",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 3.01 Motions, Briefs, and Other Legal Memorandums \n(a) PAGE COMPUTATION. Each page limit established in this rule \nor in an order excludes only the caption, the signature block, any \ncertificate of conferral or service, and any verification or attachment. \n(b) LENGTH AND CONTENT OF A MOTION, A BRIEF, OR AN \nOBJECTION. A motion must include — in a single document no longer \nthan twenty-five pages — a concise statement of the precise relief \nrequested, a statement of the basis for the request, and a legal \nmemorandum supporting the request. If the interested parties agree to \nthe relief sought in a motion, the title must include “unopposed.” A \nsocial security brief must not exceed twenty-five pages. An objection to \na magistrate judge’s order or report and recommendation must not \nexceed ten pages. A motion for leave to file a motion, brief, or objection \nexceeding the page limit must not exceed three pages; must specify the \nneed for, and the length of, the proposed paper; and must not include \nthe proposed paper. \n(c) LENGTH AND CONTENT OF A RESPONSE. A party responding to \na motion or brief may file a legal memorandum no longer than twenty \npages. A response to an objection to a magistrate judge’s order or report \nand recommendation must not exceed ten pages. A motion for leave to \nfile a response exceeding the page limit must not exceed three pages; \nmust specify the need for, and the length of, the proposed response; and \nmust not include the proposed response. \n(d) TIME TO RESPOND. A party may respond to a motion within \nfourteen days after service of the motion. However, a party may \nrespond within twenty-one days after service to a motion to dismiss, for \njudgment on the pleadings, for summary judgment, to exclude or limit \nexpert testimony, to certify a class, for a new trial, or to alter or amend \nthe judgment. If a party fails to timely respond, the motion is subject to \ntreatment as unopposed. ",
+          "pages": [
+            21
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "MIDDLE DISTRICT OF FLORIDA LOCAL RULES\n20 \n(e) NO REPLY AS A MATTER OF RIGHT. Except for a reply to a \nmotion for summary judgment or a reply brief in a social security \naction, no party may reply without leave. A motion for leave to reply \nmust not exceed three pages; must specify the need for, and the length \nof, the proposed reply; and must not include the proposed reply. No \nresponse to a motion for leave to reply is permitted. A party may reply \nto a response to a motion for summary judgment within fourteen days \nafter service of the response. A reply must not exceed seven pages. \n(f) EMERGENCY OR TIME-SENSITIVE MOTION. If a party moves for \nemergency or time-sensitive relief, the title of the motion must include \n“emergency” or “time-sensitive,” and the motion must include an \nintroductory paragraph that explains the nature of the exigency and \nstates the day by which a ruling is requested. The unwarranted \ndesignation of a motion as an emergency can result in a sanction. \n(g) DUTY TO CONFER IN GOOD FAITH. \n(1) Duty. Before filing a motion in a civil action, except a \nmotion for a Rule 11 sanction, for injunctive relief, for judgment \non the pleadings, for summary judgment, or to certify a class, \nthe movant must confer with the opposing party in a good faith \neffort to resolve the motion. \n(2) Certificate. At the end of the motion and under the heading \n“Local Rule 3.01(g) Certificate,” the movant: \n(A) must certify that the movant has conferred with the \nopposing party, \n(B) must state whether the parties agree on the resolution \nof all or part of the motion, and \n(C) if the motion is opposed, must explain the means by \nwhich the conference occurred. ",
+          "pages": [
+            22
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-24",
+          "path": [],
+          "type": "paragraph",
+          "text": "MIDDLE DISTRICT OF FLORIDA LOCAL RULES\n21 \n(3) Unavailability. If the opposing party is unavailable before the \nmotion’s filing, the movant after filing must try diligently for \nthree days to contact the opposing party. Promptly after either \ncontact or expiration of the three days, the movant must \nsupplement the motion with a statement certifying whether the \nparties have resolved all or part of the motion. Failure to timely \nsupplement can result in denial of the motion without prejudice. \nThe purposeful evasion of a communication under this rule can \nresult in a sanction. \n(h) NO INCORPORATION BY REFERENCE. A motion, other legal \nmemorandum, or brief may not incorporate by reference all or part of \nany other motion, legal memorandum, or brief. \n(i) ORAL ARGUMENT OR EVIDENTIARY HEARING. A party must \nrequest oral argument or an evidentiary hearing in a separate document \naccompanying the party’s motion or response and stating the time \nnecessary. \n(j) SUPPLEMENTAL AUTHORITY. After filing a legal memorandum \nbut before a decision, a party identifying a supplemental authority that \nis not merely cumulative may file — without argument or comment — \na notice of supplemental authority that contains only: \n(1) a citation of the authority; \n(2) a specification by page, paragraph, and line of the issue or \nargument in the earlier paper that the authority supplements; \nand \n(3) a succinct quotation from the authority. \nThe notice must not include a copy of the authority unless the authority \nis not readily available and must not exceed two pages. \n(k) NO PROPOSED ORDER. Unless otherwise permitted by these \nrules, no party in a civil action may submit a proposed judgment or \nother order without leave.",
+          "pages": [
+            23
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "MIDDLE DISTRICT OF FLORIDA LOCAL RULES\n22 \n(l) NO UNAUTHORIZED CORRESPONDENCE. A party must not use \na letter, email, or the like to request relief or to respond to a request for \nrelief. \n",
+          "pages": [
+            24
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flmd-civil-parsed-v1-effa65b4e132c132",
+      "sourceDocumentId": "parsed-flmd-effa65b4e132c132",
+      "sourceUrl": "https://www.flmd.uscourts.gov/sites/flmd/files/flmd-amended-local-rules-effective-november-01-2025.pdf",
+      "pageIndex": 21,
+      "pageSpan": [
+        21,
+        24
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flmd-civil:3.02",
+      "collectionId": "flmd-civil",
+      "districtId": "flmd",
+      "number": "3.02",
+      "citation": "Middle District of Florida · Rule 3.02",
+      "title": "Civil Case Management",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 3.02 Civil Case Management \n(a) REQUIREMENTS. In every proceeding except a proceeding \ndescribed in (d), the parties: \n(1) must conduct the planning conference required by the \nFederal Rules of Civil Procedure in person, by telephone, or by \ncomparable means and \n(2) must file a case management report using the standard form \nfrom the clerk or the court’s website. \n(b) TIMING. The parties must file the case management report: \n(1) within forty days after any defendant appears in an action \noriginating in this court, \n(2) within forty days after the docketing of an action removed \nor transferred to this court, or \n(3) within seventy days after service on the United States \nattorney in an action against the United States, a United States \nagency, a United States officer or employee sued only in an \nofficial capacity, or a United States officer or employee sued in \nan individual capacity in connection with a duty performed on \nbehalf of the United States. \n(c) SCHEDULING ORDER. After consideration of the case \nmanagement report, the judge must enter an order setting deadlines and \nscheduling the case for trial. \n(d) EXCEPTIONS. These proceedings are excepted from the \nrequirements in (a): \n(1) an action in which the judge enters a special scheduling \norder at the outset; ",
+          "pages": [
+            24
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "MIDDLE DISTRICT OF FLORIDA LOCAL RULES\n23 \n(2) an action for review on an administrative record unless the \naction is under the Employee Retirement Income Security Act \nof 1974; \n(3) a forfeiture action in rem arising under a federal statute; \n(4) an application for habeas corpus or another proceeding to \nchallenge a criminal conviction or sentence; \n(5) a pro se action by a person in the custody of the United \nStates, a state, or a state subdivision; \n(6) an action to enforce or quash an administrative summons or \nsubpoena; \n(7) an action by the United States to recover benefit payments; \n(8) an action by the United States to collect on a student loan \nguaranteed by the United States; \n(9) a proceeding ancillary to a proceeding in another court; \n(10) an action to confirm or enforce an arbitration award; and \n(11) an appeal of an order or judgment by a bankruptcy judge. \n",
+          "pages": [
+            25
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flmd-civil-parsed-v1-effa65b4e132c132",
+      "sourceDocumentId": "parsed-flmd-effa65b4e132c132",
+      "sourceUrl": "https://www.flmd.uscourts.gov/sites/flmd/files/flmd-amended-local-rules-effective-november-01-2025.pdf",
+      "pageIndex": 24,
+      "pageSpan": [
+        24,
+        25
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flmd-civil:3.03",
+      "collectionId": "flmd-civil",
+      "districtId": "flmd",
+      "number": "3.03",
+      "citation": "Middle District of Florida · Rule 3.03",
+      "title": "Disclosure Statement",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 3.03 Disclosure Statement \n With the first appearance, each party in a civil action must file a \ndisclosure statement using the standard form from the clerk or the \ncourt’s website. \n",
+          "pages": [
+            25
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flmd-civil-parsed-v1-effa65b4e132c132",
+      "sourceDocumentId": "parsed-flmd-effa65b4e132c132",
+      "sourceUrl": "https://www.flmd.uscourts.gov/sites/flmd/files/flmd-amended-local-rules-effective-november-01-2025.pdf",
+      "pageIndex": 25,
+      "pageSpan": [
+        25,
+        25
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flmd-civil:3.04",
+      "collectionId": "flmd-civil",
+      "districtId": "flmd",
+      "number": "3.04",
+      "citation": "Middle District of Florida · Rule 3.04",
+      "title": "Notice of a Deposition or a Subpoena Duces Tecum",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 3.04 Notice of a Deposition or a Subpoena Duces Tecum \n A deposition by oral examination or written questions and a \nsubpoena duces tecum require fourteen days’ written notice to the \ndeponent or responding person. \n",
+          "pages": [
+            25
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flmd-civil-parsed-v1-effa65b4e132c132",
+      "sourceDocumentId": "parsed-flmd-effa65b4e132c132",
+      "sourceUrl": "https://www.flmd.uscourts.gov/sites/flmd/files/flmd-amended-local-rules-effective-november-01-2025.pdf",
+      "pageIndex": 25,
+      "pageSpan": [
+        25,
+        25
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flmd-civil:3.05",
+      "collectionId": "flmd-civil",
+      "districtId": "flmd",
+      "number": "3.05",
+      "citation": "Middle District of Florida · Rule 3.05",
+      "title": "Stipulations",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 3.05 Stipulations \n For the judge to consider a stipulation, the party against whom the \nstipulation is asserted: ",
+          "pages": [
+            25
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "MIDDLE DISTRICT OF FLORIDA LOCAL RULES\n24 \n(a) must concede the existence of the stipulation, \n(b) must have confirmed the stipulation in writing, or \n(c) must have stipulated on the record, including during a \ndeposition. \n",
+          "pages": [
+            26
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flmd-civil-parsed-v1-effa65b4e132c132",
+      "sourceDocumentId": "parsed-flmd-effa65b4e132c132",
+      "sourceUrl": "https://www.flmd.uscourts.gov/sites/flmd/files/flmd-amended-local-rules-effective-november-01-2025.pdf",
+      "pageIndex": 25,
+      "pageSpan": [
+        25,
+        26
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flmd-civil:3.06",
+      "collectionId": "flmd-civil",
+      "districtId": "flmd",
+      "number": "3.06",
+      "citation": "Middle District of Florida · Rule 3.06",
+      "title": "Final Pretrial Meeting and Statement",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 3.06 Final Pretrial Meeting and Statement \n(a) FINAL PRETRIAL MEETING. At least fourteen days before either \nthe final pretrial conference described in the Federal Rules of Civil \nProcedure or another deadline set by the judge, the parties must meet \nand in good faith: \n(1) discuss settlement, \n(2) discuss the efficient presentation of the evidence and the \nduration of the trial, \n(3) stipulate to as many facts and resolve as many legal issues \nas possible, \n(4) examine each exhibit, and \n(5) exchange the name, address, and telephone number of each \nwitness. \n(b) FINAL PRETRIAL STATEMENT. At least seven days before either \nthe final pretrial conference described in the Federal Rules of Civil \nProcedure or another deadline set by the judge, the parties must file a \nfinal pretrial statement that will govern the trial. The statement must \ncontain: \n(1) the basis for the court’s jurisdiction, \n(2) a concise statement of the action, \n(3) a concise statement of each party’s position, \n(4) a list of each exhibit with a notation of each objection, \n(5) a list of each witness by name only with a notation of: ",
+          "pages": [
+            26
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "MIDDLE DISTRICT OF FLORIDA LOCAL RULES\n25 \n(A) the likelihood the witness will testify and \n(B) each objection to the witness’s testifying, \n(6) a list of each expert witness, with a notation of: \n(A) the substance of the testimony and \n(B) each objection to the witness’s testifying, \n(7) a breakdown of the type and amount of monetary damages, \n(8) a list of each deposition offered in lieu of live testimony, \nunless the deposition is only for impeachment, \n(9) a concise statement of each admitted fact, \n(10) a concise statement of each agreed principle of law, \n(11) a concise statement of each issue of fact without \nincorporating another paper, \n(12) a concise statement of each issue of law without \nincorporating another paper, \n(13) a list of each pending motion or other unresolved issue, \n(14) a statement of the usefulness of further settlement \ndiscussions, and \n(15) the signatures of trial counsel and any pro se party \nfollowing this certificate: “In preparing this final pretrial \nstatement, I have aimed for the just, speedy, and inexpensive \nresolution of this action.” \n",
+          "pages": [
+            27
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flmd-civil-parsed-v1-effa65b4e132c132",
+      "sourceDocumentId": "parsed-flmd-effa65b4e132c132",
+      "sourceUrl": "https://www.flmd.uscourts.gov/sites/flmd/files/flmd-amended-local-rules-effective-november-01-2025.pdf",
+      "pageIndex": 26,
+      "pageSpan": [
+        26,
+        27
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flmd-civil:3.07",
+      "collectionId": "flmd-civil",
+      "districtId": "flmd",
+      "number": "3.07",
+      "citation": "Middle District of Florida · Rule 3.07",
+      "title": "Exhibits",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 3.07 Exhibits \n(a) LABELING. Before a trial or an evidentiary hearing, each party \nmust obtain exhibit labels from the clerk or the court’s website and label \neach exhibit. ",
+          "pages": [
+            27
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "MIDDLE DISTRICT OF FLORIDA LOCAL RULES\n26 \n(b) LISTING. Before a trial or an evidentiary hearing, each party \nmust deliver an exhibit list to each opposing party and deliver three \ncopies of the exhibit list to the judge. The list must sequentially list and \nbriefly describe each exhibit. \n(c) PROVIDING IN ELECTRONIC FORM. At the end of a trial or an \nevidentiary hearing, each party must deliver to the clerk an electronic \nversion of (1) each documentary, audio, or video exhibit and (2) a \nphotograph or reproduction of each non-documentary tangible exhibit. \n(d) MAINTAINING. During and after a trial or an evidentiary \nhearing, the clerk must maintain custody of each exhibit unless: \n(1) a law enforcement agency or party retains custody of the \nexhibit because the exhibit is sensitive, dangerous, or of high \nvalue or \n(2) the clerk temporarily releases the exhibit to a judge, a \njudge’s staff, or a court reporter. \n(e) DOCKETING. The clerk must enter into the electronic record: \n(1) each documentary, audio, and video exhibit admitted into \nevidence during a trial or evidentiary hearing and \n(2) a photograph or reproduction of each non-documentary \ntangible exhibit admitted into evidence during a trial or \nevidentiary hearing. \n(f) EXCEPTION. Neither (c) nor (e) applies to pornography. \n(g) RETRIEVING. Within ninety days after a case is closed and all \nappeals exhausted, the party who tendered a tangible exhibit must \nretrieve the exhibit from the clerk. The clerk may destroy a tangible \nexhibit not timely retrieved. \n",
+          "pages": [
+            28
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flmd-civil-parsed-v1-effa65b4e132c132",
+      "sourceDocumentId": "parsed-flmd-effa65b4e132c132",
+      "sourceUrl": "https://www.flmd.uscourts.gov/sites/flmd/files/flmd-amended-local-rules-effective-november-01-2025.pdf",
+      "pageIndex": 27,
+      "pageSpan": [
+        27,
+        28
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flmd-civil:3.08",
+      "collectionId": "flmd-civil",
+      "districtId": "flmd",
+      "number": "3.08",
+      "citation": "Middle District of Florida · Rule 3.08",
+      "title": "Continuance",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 3.08 Continuance \n(a) CONTENT OF A MOTION. A party must timely move for a \ncontinuance and explain in detail the reason a continuance is warranted \nand the effort to resolve any scheduling conflict. ",
+          "pages": [
+            28
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "MIDDLE DISTRICT OF FLORIDA LOCAL RULES\n27 \n(b) CLIENT CONSENT FOR A TRIAL CONTINUANCE. If requesting a \ntrial continuance, trial counsel must certify the client consents to the \ncontinuance. \n(c) “NOTICE OF UNAVAILABILITY” PROHIBITED. A lawyer or pro \nse party must not file a “notice of unavailability,” “motion for \nprotection,” or a similar paper. \n",
+          "pages": [
+            29
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flmd-civil-parsed-v1-effa65b4e132c132",
+      "sourceDocumentId": "parsed-flmd-effa65b4e132c132",
+      "sourceUrl": "https://www.flmd.uscourts.gov/sites/flmd/files/flmd-amended-local-rules-effective-november-01-2025.pdf",
+      "pageIndex": 28,
+      "pageSpan": [
+        28,
+        29
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flmd-civil:3.09",
+      "collectionId": "flmd-civil",
+      "districtId": "flmd",
+      "number": "3.09",
+      "citation": "Middle District of Florida · Rule 3.09",
+      "title": "Notice of Resolution; Dismissal",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 3.09 Notice of Resolution; Dismissal \n(a) NOTICE. The parties must immediately file a notice after \nagreeing to resolve all or part of a civil action, even if the resolution is \ncontingent or unwritten. \n(b) DISMISSAL. When notified of an agreement to settle a civil \naction, a judge may dismiss the action subject to the right of a party to \nmove within a stated time to re-open the action for entry of a stipulated \nfinal order or a judgment or for further proceedings. \n",
+          "pages": [
+            29
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flmd-civil-parsed-v1-effa65b4e132c132",
+      "sourceDocumentId": "parsed-flmd-effa65b4e132c132",
+      "sourceUrl": "https://www.flmd.uscourts.gov/sites/flmd/files/flmd-amended-local-rules-effective-november-01-2025.pdf",
+      "pageIndex": 29,
+      "pageSpan": [
+        29,
+        29
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flmd-civil:3.10",
+      "collectionId": "flmd-civil",
+      "districtId": "flmd",
+      "number": "3.10",
+      "citation": "Middle District of Florida · Rule 3.10",
+      "title": "Failure to Prosecute; Dismissal",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 3.10 Failure to Prosecute; Dismissal \n A plaintiff’s failure to prosecute diligently can result in dismissal if \nthe plaintiff in response to an order to show cause fails to demonstrate \ndue diligence and just cause for delay. \n",
+          "pages": [
+            29
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flmd-civil-parsed-v1-effa65b4e132c132",
+      "sourceDocumentId": "parsed-flmd-effa65b4e132c132",
+      "sourceUrl": "https://www.flmd.uscourts.gov/sites/flmd/files/flmd-amended-local-rules-effective-november-01-2025.pdf",
+      "pageIndex": 29,
+      "pageSpan": [
+        29,
+        29
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flmd-civil:3.11",
+      "collectionId": "flmd-civil",
+      "districtId": "flmd",
+      "number": "3.11",
+      "citation": "Middle District of Florida · Rule 3.11",
+      "title": "Disclosure in a Criminal Action",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 3.11 Disclosure in a Criminal Action \n(a) GENERAL RULE. Before judgment in, or dismissal of, a criminal \naction, a lawyer or law enforcement agent directly or through a \nsurrogate must not extrajudicially and publicly disclose information \nabout the action if the disclosure will interfere with a fair trial or \notherwise prejudice the administration of justice. ",
+          "pages": [
+            29
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "MIDDLE DISTRICT OF FLORIDA LOCAL RULES\n28 \n(b) EXAMPLES. \n(1) A lawyer or law enforcement agent directly or through a \nsurrogate must not extrajudicially and publicly disclose: \n(A) the defendant’s criminal record or information about \nthe defendant’s character or reputation except, if the \ndefendant remains at large, information necessary to aid in \napprehension or to warn the public; \n(B) the existence, absence, or content of a confession, \nadmission, or statement by the defendant; \n(C) the defendant’s performance on, or failure to submit \nto, a mental, physical, or other assessment; \n(D) a witness’s identity, testimony, or credibility unless the \nwitness is a victim and the disclosure is lawful and ethical; \n(E) the possibility of a guilty plea; or \n(F) an opinion about the guilt of the defendant or the \nmerit of the action. \n(2) A lawyer or law enforcement agent directly or through a \nsurrogate may request assistance and may extrajudicially and \npublicly disclose: \n(A) the defendant’s name, age, residence, occupation, and \nfamily status; \n(B) the fact and circumstances of the arrest and a \ndescription of evidence seized; \n(C) the substance of the charge; \n(D) a public record; \n(E) the status of the action; and \n(F) the defendant’s denial of the charge. ",
+          "pages": [
+            30
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "MIDDLE DISTRICT OF FLORIDA LOCAL RULES\n29 \n",
+          "pages": [
+            31
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flmd-civil-parsed-v1-effa65b4e132c132",
+      "sourceDocumentId": "parsed-flmd-effa65b4e132c132",
+      "sourceUrl": "https://www.flmd.uscourts.gov/sites/flmd/files/flmd-amended-local-rules-effective-november-01-2025.pdf",
+      "pageIndex": 29,
+      "pageSpan": [
+        29,
+        31
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flmd-civil:3.12",
+      "collectionId": "flmd-civil",
+      "districtId": "flmd",
+      "number": "3.12",
+      "citation": "Middle District of Florida · Rule 3.12",
+      "title": "Discovery of Information from Probation and Pretrial",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 3.12 Discovery of Information from Probation and Pretrial \nServices \n A subpoena or other means of compelling discovery of information \nin the custody, under the control, or within the knowledge of the \nprobation office, pretrial services, a probation officer, or a pretrial \nservices officer is invalid and requires no response except a prompt \nnotice to the judge. ",
+          "pages": [
+            31
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "MIDDLE DISTRICT OF FLORIDA LOCAL RULES\n30 \nChapter Four — Alternative Dispute Resolution \n",
+          "pages": [
+            32
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flmd-civil-parsed-v1-effa65b4e132c132",
+      "sourceDocumentId": "parsed-flmd-effa65b4e132c132",
+      "sourceUrl": "https://www.flmd.uscourts.gov/sites/flmd/files/flmd-amended-local-rules-effective-november-01-2025.pdf",
+      "pageIndex": 31,
+      "pageSpan": [
+        31,
+        32
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flmd-civil:4.01",
+      "collectionId": "flmd-civil",
+      "districtId": "flmd",
+      "number": "4.01",
+      "citation": "Middle District of Florida · Rule 4.01",
+      "title": "Mediation",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 4.01 Mediation \n Mediation is a settlement conference conducted by a qualified and \nneutral lawyer without testimony or a determination by the mediator of \na question of fact or law. \n",
+          "pages": [
+            32
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flmd-civil-parsed-v1-effa65b4e132c132",
+      "sourceDocumentId": "parsed-flmd-effa65b4e132c132",
+      "sourceUrl": "https://www.flmd.uscourts.gov/sites/flmd/files/flmd-amended-local-rules-effective-november-01-2025.pdf",
+      "pageIndex": 32,
+      "pageSpan": [
+        32,
+        32
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flmd-civil:4.02",
+      "collectionId": "flmd-civil",
+      "districtId": "flmd",
+      "number": "4.02",
+      "citation": "Middle District of Florida · Rule 4.02",
+      "title": "Mediator",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 4.02 Mediator \n(a) CERTIFICATE. The chief judge may certify, and withdraw the \ncertificate of, a lawyer’s qualification as a mediator. \n(b) QUALIFICATIONS. To qualify for a certificate as a mediator, a \nlawyer must establish: \n(1) membership for at least the last ten years in the bar of any \nstate or the District of Columbia, \n(2) membership in good standing in The Florida Bar and the \nMiddle District bar, and \n(3) completion of the Florida Supreme Court’s certified￾mediator training and a certificate by the Florida Supreme \nCourt of good standing as a circuit court mediator. \n(c) DISQUALIFICATION. A party can disqualify a mediator under \nthe same standard that governs disqualifying a federal judge. \n(d) COMPENSATION. Unless the parties and the mediator agree \notherwise, the parties must pay the mediator a reasonable fee, and must \nbear equally the cost of mediation. No mediator can charge a fee to, or \naccept anything of value from, a source other than the parties. \n(e) PRO BONO REQUIREMENT. If asked by a judge, a mediator \nmust conduct at least one mediation a year in which the judge \ndetermines that a party lacks the ability to pay the mediator. ",
+          "pages": [
+            32
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "MIDDLE DISTRICT OF FLORIDA LOCAL RULES\n31 \n",
+          "pages": [
+            33
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flmd-civil-parsed-v1-effa65b4e132c132",
+      "sourceDocumentId": "parsed-flmd-effa65b4e132c132",
+      "sourceUrl": "https://www.flmd.uscourts.gov/sites/flmd/files/flmd-amended-local-rules-effective-november-01-2025.pdf",
+      "pageIndex": 32,
+      "pageSpan": [
+        32,
+        33
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flmd-civil:4.03",
+      "collectionId": "flmd-civil",
+      "districtId": "flmd",
+      "number": "4.03",
+      "citation": "Middle District of Florida · Rule 4.03",
+      "title": "Mediation Order",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 4.03 Mediation Order \n To refer an action or claim to mediation, the judge must enter an \norder that: \n(a) designates the mediator or directs the parties to select a \nmediator and to notify the judge of the selection; \n(b) establishes a mediation deadline; \n(c) requires a lawyer to confirm a mediation date agreeable to the \nmediator and the parties and to notify the judge of the date; \n(d) requires the attendance — in-person unless otherwise agreed by \nthe parties — of lead counsel, the parties or a party’s surrogate \nsatisfactory to the mediator, and any necessary insurance carrier \nrepresentative; \n(e) notifies the parties that unexcused absence or departure from \nmediation is sanctionable; \n(f) requires the mediator to report within seven days after \nmediation the result of the mediation and whether all required persons \nattended; and \n(g) directs that the substance of the mediation is confidential and \nthat no party, lawyer, or other participant is bound by, may record, or \nwithout the judge’s approval may disclose any event, including any \nstatement confirming or denying a fact — except settlement — that \noccurs during the mediation. ",
+          "pages": [
+            33
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "MIDDLE DISTRICT OF FLORIDA LOCAL RULES\n32 \nChapter Five — Court Proceedings \n",
+          "pages": [
+            34
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flmd-civil-parsed-v1-effa65b4e132c132",
+      "sourceDocumentId": "parsed-flmd-effa65b4e132c132",
+      "sourceUrl": "https://www.flmd.uscourts.gov/sites/flmd/files/flmd-amended-local-rules-effective-november-01-2025.pdf",
+      "pageIndex": 33,
+      "pageSpan": [
+        33,
+        34
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flmd-civil:5.01",
+      "collectionId": "flmd-civil",
+      "districtId": "flmd",
+      "number": "5.01",
+      "citation": "Middle District of Florida · Rule 5.01",
+      "title": "Broadcasting, Recording, and Photographing",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 5.01 Broadcasting, Recording, and Photographing \n No one may broadcast, televise, record, or photograph a judicial \nproceeding, including a proceeding by telephone or video. \n",
+          "pages": [
+            34
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flmd-civil-parsed-v1-effa65b4e132c132",
+      "sourceDocumentId": "parsed-flmd-effa65b4e132c132",
+      "sourceUrl": "https://www.flmd.uscourts.gov/sites/flmd/files/flmd-amended-local-rules-effective-november-01-2025.pdf",
+      "pageIndex": 34,
+      "pageSpan": [
+        34,
+        34
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flmd-civil:5.02",
+      "collectionId": "flmd-civil",
+      "districtId": "flmd",
+      "number": "5.02",
+      "citation": "Middle District of Florida · Rule 5.02",
+      "title": "Jury Selection and Prohibition of Communication with a",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 5.02 Jury Selection and Prohibition of Communication with a \nJuror \n(a) SCOPE. In this rule, “party” includes the party’s lawyer and \nanyone else acting in concert with, on behalf of, or at the behest of, the \nparty. \n(b) LIST OF PROSPECTIVE JURORS. The clerk must deliver a list of \nprospective jurors to each party immediately before jury selection. Each \nparty must return the list to the clerk after the judge empanels the jury. \nNo party may copy the list. \n(c) RESEARCH OF A PROSPECTIVE JUROR. During jury selection, no \nparty may use an electronic device to gather or transmit information \nabout a prospective juror. \n(d) COMMUNICATION WITH A JUROR.\n(1) No party may communicate with a juror or respond to a \njuror’s unsolicited communication during or after trial. \n(2) A party and a juror must report promptly to the judge a \nrequest for communication between a party and a juror. \n(3) To communicate with a juror, a party: \n(A) must move for permission within fourteen days after \nthe verdict unless the party shows good cause for delay, \n(B) must identify in the motion the juror and the need for \nthe communication, and ",
+          "pages": [
+            34
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "MIDDLE DISTRICT OF FLORIDA LOCAL RULES\n33 \n(C) must abide by any condition the judge imposes, \nincluding on the place, manner, and scope of, and the \nparticipants in, the communication. \n",
+          "pages": [
+            35
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flmd-civil-parsed-v1-effa65b4e132c132",
+      "sourceDocumentId": "parsed-flmd-effa65b4e132c132",
+      "sourceUrl": "https://www.flmd.uscourts.gov/sites/flmd/files/flmd-amended-local-rules-effective-november-01-2025.pdf",
+      "pageIndex": 34,
+      "pageSpan": [
+        34,
+        35
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flmd-civil:5.03",
+      "collectionId": "flmd-civil",
+      "districtId": "flmd",
+      "number": "5.03",
+      "citation": "Middle District of Florida · Rule 5.03",
+      "title": "Courtroom Decorum",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 5.03 Courtroom Decorum \n(a) PURPOSE. This rule prescribes minimum requirements of \ncourtroom decorum and supplements the Code of Professional \nResponsibility and the Rules Regulating The Florida Bar. \n(b) MINIMUM REQUIREMENTS FOR LAWYERS, PARTIES, AND \nOTHER OBSERVERS. When in court, a person: \n(1) must stand, if able, when court is opened, recessed, and \nadjourned; \n(2) must stand, if able, when the jury enters and leaves the \ncourtroom; \n(3) must refrain from any gesture, expression, comment, or \nnoise that manifests approval or disapproval; \n(4) must not wear clothing intended or likely to influence or \ndistract a juror; \n(5) must keep an electronic device on silent mode; \n(6) if at counsel table, must use an electronic device only for the \nmatter under consideration; and \n(7) must not eat or drink anything except water. \n(c) ADDITIONAL REQUIREMENTS FOR LAWYERS AND PRO SE \nPARTIES. When in court, a lawyer and a pro se party: \n(1) must stand, if able, when addressing, or being addressed by, \nthe judge; \n(2) must hand the courtroom deputy a document offered for the \njudge’s examination; ",
+          "pages": [
+            35
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-37",
+          "path": [],
+          "type": "paragraph",
+          "text": "MIDDLE DISTRICT OF FLORIDA LOCAL RULES\n34 \n(3) must stand, if able, behind the lectern when presenting the \nopening statement or the closing argument or when examining \na witness unless approaching the witness or the courtroom \ndeputy with an exhibit or approaching a demonstrative exhibit; \n(4) must not echo a witness’s answer when examining the \nwitness; \n(5) must state only the legal basis for an objection unless the \njudge requests elaboration; \n(6) must not offer or request a stipulation within the hearing of \nthe jury; \n(7) must address only the judge when commenting, inquiring, \nor arguing; \n(8) must refrain from any display of animosity toward anyone \nin the courtroom, including a lawyer, litigant, or witness; \n(9) must refer to a person by the person’s title and surname (for \nexample, Ms. Smith or Dr. Robinson) or case designation (for \nexample, “the plaintiff,” “the defendant,” or “the witness”); \n(10) must call the judge “Judge [Last Name]” or “Your \nHonor”; and \n(11) in an opening statement and a closing argument: \n(A) must not express personal knowledge or opinion and \n(B) must not suggest that the jury can or should request a \ntranscript. \n(d) ADDITIONAL REQUIREMENTS FOR LAWYERS ONLY. When in \ncourt, a lawyer: \n(1) must ensure a client and witness know and observe this rule \nand ",
+          "pages": [
+            36
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-38",
+          "path": [],
+          "type": "paragraph",
+          "text": "MIDDLE DISTRICT OF FLORIDA LOCAL RULES\n35 \n(2) must limit examination or cross-examination of a witness to \none lawyer for each party and ensure the lawyer who objects \nduring direct examination of a witness is the same lawyer who \ncross-examines the witness. \n(e) PROCEEDING BY TELEPHONE OR VIDEO. If a judge conducts a \nproceeding by telephone or video, a participant: \n(1) must dress in professional attire and use a professional \nbackground if either is visible, \n(2) must use a landline if available, \n(3) must designate one speaker for each party or interested \nperson, \n(4) must not participate from a vehicle, \n(5) must use the mute setting when not speaking, \n(6) must try to avoid background noise or other interference, \n(7) must wait for the judge to address the participant before \nspeaking and must not interrupt a speaker, and \n(8) must start each distinct presentation by saying “this is \n[name]” or the equivalent. ",
+          "pages": [
+            37
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "MIDDLE DISTRICT OF FLORIDA LOCAL RULES\n36 \nChapter Six — Special Proceedings \n",
+          "pages": [
+            38
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flmd-civil-parsed-v1-effa65b4e132c132",
+      "sourceDocumentId": "parsed-flmd-effa65b4e132c132",
+      "sourceUrl": "https://www.flmd.uscourts.gov/sites/flmd/files/flmd-amended-local-rules-effective-november-01-2025.pdf",
+      "pageIndex": 35,
+      "pageSpan": [
+        35,
+        38
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flmd-civil:6.01",
+      "collectionId": "flmd-civil",
+      "districtId": "flmd",
+      "number": "6.01",
+      "citation": "Middle District of Florida · Rule 6.01",
+      "title": "Temporary Restraining Order",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 6.01 Temporary Restraining Order \n(a) MOTION. A motion for a temporary restraining order must \ninclude: \n(1) “Temporary Restraining Order” in the title; \n(2) specific facts — supported by a verified complaint, an \naffidavit, or other evidence — demonstrating an entitlement to \nrelief; \n(3) a precise description of the conduct and the persons subject \nto restraint; \n(4) a precise and verified explanation of the amount and form \nof the required security; \n(5) a supporting legal memorandum; and \n(6) a proposed order. \n(b) LEGAL MEMORANDUM. The legal memorandum must \nestablish: \n(1) the likelihood that the movant ultimately will prevail on the \nmerits of the claim, \n(2) the irreparable nature of the threatened injury and the \nreason that notice is impractical, \n(3) the harm that might result absent a restraining order, and \n(4) the nature and extent of any public interest affected. \n(c) SERVICE. Immediately after the order resolving the motion, the \nmovant, even if unsuccessful, must serve on the party the movant \nsought to restrain: \n(1) the summons; ",
+          "pages": [
+            38
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-40",
+          "path": [],
+          "type": "paragraph",
+          "text": "MIDDLE DISTRICT OF FLORIDA LOCAL RULES\n37 \n(2) the complaint; \n(3) the temporary restraining order or the bond or both, if \nissued; \n(4) each motion, brief, affidavit, exhibit, proposed order, or \nother paper submitted to support the motion for the temporary \nrestraining order; \n(5) each additional paper the moving party will submit to \nsupport converting the temporary restraining order into a \npreliminary injunction; and \n(6) a notice of any hearing. \n",
+          "pages": [
+            39
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flmd-civil-parsed-v1-effa65b4e132c132",
+      "sourceDocumentId": "parsed-flmd-effa65b4e132c132",
+      "sourceUrl": "https://www.flmd.uscourts.gov/sites/flmd/files/flmd-amended-local-rules-effective-november-01-2025.pdf",
+      "pageIndex": 38,
+      "pageSpan": [
+        38,
+        39
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flmd-civil:6.02",
+      "collectionId": "flmd-civil",
+      "districtId": "flmd",
+      "number": "6.02",
+      "citation": "Middle District of Florida · Rule 6.02",
+      "title": "Preliminary Injunction",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-40",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 6.02 Preliminary Injunction \n(a) MOTION. A motion for a preliminary injunction: \n(1) must include “Preliminary Injunction” in the title but \notherwise must comply with Local Rule 6.01(a) and (b) and \n(2) must include as an attachment each paper on which the \nmovant relies. \n(b) NOTICE. The movant must notify each affected party as soon as \npractical unless the movant establishes by clear and convincing \nevidence an extraordinary circumstance not requiring notice. \n(c) RESPONSE. A party opposing the motion must include in the \nresponse a legal memorandum and each paper on which the party \nrelies. \n(d) AMENDMENT. No party may amend a motion or response \nwithout leave. A motion requesting leave must not include the proposed \namendment. ",
+          "pages": [
+            39
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-41",
+          "path": [],
+          "type": "paragraph",
+          "text": "MIDDLE DISTRICT OF FLORIDA LOCAL RULES\n38 \n",
+          "pages": [
+            40
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flmd-civil-parsed-v1-effa65b4e132c132",
+      "sourceDocumentId": "parsed-flmd-effa65b4e132c132",
+      "sourceUrl": "https://www.flmd.uscourts.gov/sites/flmd/files/flmd-amended-local-rules-effective-november-01-2025.pdf",
+      "pageIndex": 39,
+      "pageSpan": [
+        39,
+        40
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flmd-civil:6.03",
+      "collectionId": "flmd-civil",
+      "districtId": "flmd",
+      "number": "6.03",
+      "citation": "Middle District of Florida · Rule 6.03",
+      "title": "In Forma Pauperis Action",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-41",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 6.03 In Forma Pauperis Action \n(a) DOCKETING, ASSIGNMENT, AND JUDICIAL REVIEW. The clerk \nmust docket, assign, and submit to a judge for preliminary review a \nmotion for leave to proceed in forma pauperis. The judge must \nauthorize the action before the clerk issues process and before a party \nrequests waiver of service of process. Before authorization, no party or \nother person must respond to any paper, except a court order. \n(b) DEDUCTION FROM RECOVERY. If represented by an appointed \nlawyer, an in forma pauperis party consents to an order deducting from \nany recovery a reasonable attorney’s fee, costs, and reasonably \nnecessary expenses. \n",
+          "pages": [
+            40
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flmd-civil-parsed-v1-effa65b4e132c132",
+      "sourceDocumentId": "parsed-flmd-effa65b4e132c132",
+      "sourceUrl": "https://www.flmd.uscourts.gov/sites/flmd/files/flmd-amended-local-rules-effective-november-01-2025.pdf",
+      "pageIndex": 40,
+      "pageSpan": [
+        40,
+        40
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flmd-civil:6.04",
+      "collectionId": "flmd-civil",
+      "districtId": "flmd",
+      "number": "6.04",
+      "citation": "Middle District of Florida · Rule 6.04",
+      "title": "Action by a Person in Custody",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-41",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 6.04 Action by a Person in Custody \n(a) REQUIRED FORM. A pro se person in custody must use the \nstandard form — available without charge from the clerk and on the \ncourt’s website — to file: \n(1) an application under 28 U.S.C. § 2241, \n(2) an application under 28 U.S.C. § 2254 or a motion under 28 \nU.S.C. § 2255, or \n(3) a complaint, such as a 42 U.S.C. § 1983 complaint, that \nalleges a violation of the United States Constitution or other \nfederal law by a governmental official. \n(b) FEE. In an in forma pauperis action by a person in custody, the \njudge can order the person to pay the clerk’s and the marshal’s fee. \nFailure to pay can result in dismissal of the action. \n",
+          "pages": [
+            40
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flmd-civil-parsed-v1-effa65b4e132c132",
+      "sourceDocumentId": "parsed-flmd-effa65b4e132c132",
+      "sourceUrl": "https://www.flmd.uscourts.gov/sites/flmd/files/flmd-amended-local-rules-effective-november-01-2025.pdf",
+      "pageIndex": 40,
+      "pageSpan": [
+        40,
+        40
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flmd-civil:6.05",
+      "collectionId": "flmd-civil",
+      "districtId": "flmd",
+      "number": "6.05",
+      "citation": "Middle District of Florida · Rule 6.05",
+      "title": "Habeas Action Challenging a Death Sentence",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-41",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 6.05 Habeas Action Challenging a Death Sentence \n(a) SCOPE. This rule governs a habeas corpus action under 28 \nU.S.C. § 2254 challenging a death sentence. \n(b) APPENDIX. Florida’s attorney general must electronically file an \nappendix containing a complete copy of the state court record, \nincluding: ",
+          "pages": [
+            40
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-42",
+          "path": [],
+          "type": "paragraph",
+          "text": "MIDDLE DISTRICT OF FLORIDA LOCAL RULES\n39 \n(1) the pretrial proceedings, \n(2) the guilt phase, \n(3) the penalty phase, \n(4) the sentencing, and \n(5) the direct state court appeal and collateral proceedings, \nincluding the appeal of orders on post-trial motions. \n(c) SUPPLEMENTAL APPENDIX. Florida’s attorney general must file \na supplemental appendix that includes any part of the state court record \nunavailable when the appendix was filed. \n(d) MASTER INDEX. With the appendix and each supplemental \nappendix, Florida’s attorney general: \n(1) must electronically file a master index and \n(2) must electronically bookmark the first page of each \ndocument and in the bookmark: \n(A) must identify the title of each exhibit, \n(B) must identify the location of the first page of each \ndocument in the CM/ECF record, and \n(C) must cross-reference each bookmark to the \ncorresponding item on the index. \n(e) PAPER COPY. Florida’s attorney general must bind by volume \nand promptly deliver to the proper division a tabbed paper copy of the \nindex, the appendix, and each supplemental appendix. The tabs must \ncorrespond to the index. \n(f) ACTIVE DEATH WARRANT. When a death warrant is active but \nabsent an action under 28 U.S.C. § 2254: \n(1) the judge can appoint counsel and set a deadline for filing \nthe action, ",
+          "pages": [
+            41
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-43",
+          "path": [],
+          "type": "paragraph",
+          "text": "MIDDLE DISTRICT OF FLORIDA LOCAL RULES\n40 \n(2) Florida’s attorney general must comply with (e) within \nseven days after the warrant issues, and \n(3) if the conviction or sentence is challenged in state court after \nthe warrant issues, Florida’s attorney general must comply with \n(e) within seven days after the conclusion of the proceedings in \neach of the state circuit court, the Florida Supreme Court, and \nthe United States Supreme Court. \n",
+          "pages": [
+            42
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flmd-civil-parsed-v1-effa65b4e132c132",
+      "sourceDocumentId": "parsed-flmd-effa65b4e132c132",
+      "sourceUrl": "https://www.flmd.uscourts.gov/sites/flmd/files/flmd-amended-local-rules-effective-november-01-2025.pdf",
+      "pageIndex": 40,
+      "pageSpan": [
+        40,
+        42
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flmd-civil:6.06",
+      "collectionId": "flmd-civil",
+      "districtId": "flmd",
+      "number": "6.06",
+      "citation": "Middle District of Florida · Rule 6.06",
+      "title": "Marshal’s Deed and a Coast Guard Bill of Sale",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-43",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 6.06 Marshal’s Deed and a Coast Guard Bill of Sale \n The marshal must issue a marshal’s deed or a Coast Guard bill of \nsale promptly after confirmation of the sale but not sooner than fourteen \ndays after the sale and not before resolution of each objection to the \nsale.",
+          "pages": [
+            42
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-44",
+          "path": [],
+          "type": "paragraph",
+          "text": "MIDDLE DISTRICT OF FLORIDA LOCAL RULES\n41 \nChapter Seven — Miscellaneous Rules \n",
+          "pages": [
+            43
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flmd-civil-parsed-v1-effa65b4e132c132",
+      "sourceDocumentId": "parsed-flmd-effa65b4e132c132",
+      "sourceUrl": "https://www.flmd.uscourts.gov/sites/flmd/files/flmd-amended-local-rules-effective-november-01-2025.pdf",
+      "pageIndex": 42,
+      "pageSpan": [
+        42,
+        43
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flmd-civil:7.01",
+      "collectionId": "flmd-civil",
+      "districtId": "flmd",
+      "number": "7.01",
+      "citation": "Middle District of Florida · Rule 7.01",
+      "title": "Attorney’s Fee and Expenses",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-44",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 7.01 Attorney’s Fee and Expenses \n(a) BIFURCATED PROCEDURE. Except in a social security action, a \nparty claiming a post-judgment attorney’s fee and related non-taxable \nexpenses must obtain an order determining entitlement before providing \na supplemental motion on amount. \n(b) MOTION ON ENTITLEMENT. Within fourteen days after entry of \njudgment, the party claiming fees and expenses must request a \ndetermination of entitlement in a motion that: \n(1) specifies the judgment and the statute, rule, or other ground \nentitling the movant to the award, \n(2) states the amount sought or provides a fair estimate of the \namount sought, and \n(3) includes a memorandum of law. \n(c) SUPPLEMENTAL MOTION ON AMOUNT. Within forty-five days \nafter the order determining entitlement, the party claiming fees and \nexpenses must file a supplemental motion that: \n(1) describes the meet-and-confer effort but preserves any \nconfidential settlement communication; \n(2) specifies the resolved and unresolved issues; \n(3) includes a memorandum of law on any disputed issue; \n(4) includes for any disputed rate or hour: \n(A) the timekeeper’s identity, experience, and \nqualification; \n(B) the timekeeper’s requested hours; \n(C) each task by the timekeeper during those hours; ",
+          "pages": [
+            43
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-45",
+          "path": [],
+          "type": "paragraph",
+          "text": "MIDDLE DISTRICT OF FLORIDA LOCAL RULES\n42 \n(D) the timekeeper’s requested rate; \n(E) lead counsel’s verification that counsel charges the rate \nrequested, has reviewed each task, and has removed each \ncharge for a task that is excessive, duplicative, clerical, or \notherwise unreasonable; \n(F) evidence showing the reasonableness of the rates based \non the prevailing market rate in the division in which the \naction is filed for similar services by a lawyer of comparable \nskill, experience, and reputation; and \n(5) includes for a disputed non-taxable expense: \n(A) a receipt for, or other evidence of, the expense and \n(B) lead counsel’s verification that counsel incurred the \nexpense. \n(d) RESPONSE TO A SUPPLEMENTAL MOTION. A response to a \nsupplemental motion on amount must detail the basis for each \nobjection, including the identification by day and timekeeper of an \nunreasonable claim. \n(e) ATTORNEY’S FEE IN A SOCIAL SECURITY ACTION AFTER \nREMAND. No later than fourteen days after receipt of a “close-out” \nletter, a lawyer requesting an attorney’s fee, payable from withheld \nbenefits, must move for the fee and include in the motion: \n(1) the agency letter specifying the withheld benefits, \n(2) any contingency fee agreement, and \n(3) proof that the proposed fee is reasonable. \n",
+          "pages": [
+            44
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flmd-civil-parsed-v1-effa65b4e132c132",
+      "sourceDocumentId": "parsed-flmd-effa65b4e132c132",
+      "sourceUrl": "https://www.flmd.uscourts.gov/sites/flmd/files/flmd-amended-local-rules-effective-november-01-2025.pdf",
+      "pageIndex": 43,
+      "pageSpan": [
+        43,
+        44
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flmd-civil:7.02",
+      "collectionId": "flmd-civil",
+      "districtId": "flmd",
+      "number": "7.02",
+      "citation": "Middle District of Florida · Rule 7.02",
+      "title": "Electronics in a Courthouse",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-45",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 7.02 Electronics in a Courthouse \n(a) PROHIBITION. No person may enter or remain in a courthouse \nwith an electronic device, except: ",
+          "pages": [
+            44
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-46",
+          "path": [],
+          "type": "paragraph",
+          "text": "MIDDLE DISTRICT OF FLORIDA LOCAL RULES\n43 \n(1) a member of The Florida Bar or a specially admitted \nlawyer; \n(2) a person with a judge’s order permitting passage with \nelectronics; \n(3) an employee who works in the courthouse, a lawyer who \nworks for the United States, and a law enforcement officer on \nofficial business; \n(4) an interpreter providing service under an active blanket \npurchase agreement and presenting a copy of the executed \nsignature page of the agreement; and \n(5) at a judge’s discretion, a petit, grand, or prospective juror if \nthe person: \n(A) stores the device in a designated place except during a \nbreak, \n(B) uses the device only in a designated area or in the jury \nassembly room, and \n(C) uses the device only for a matter unrelated to the case. \n(b) INSPECTION. A device is subject to inspection anywhere in the \ncourthouse. \n(c) SHARING OR DELIVERY. A person must not share a device with, \nor deliver a device to, another person. \n",
+          "pages": [
+            45
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flmd-civil-parsed-v1-effa65b4e132c132",
+      "sourceDocumentId": "parsed-flmd-effa65b4e132c132",
+      "sourceUrl": "https://www.flmd.uscourts.gov/sites/flmd/files/flmd-amended-local-rules-effective-november-01-2025.pdf",
+      "pageIndex": 44,
+      "pageSpan": [
+        44,
+        45
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flmd-civil:7.03",
+      "collectionId": "flmd-civil",
+      "districtId": "flmd",
+      "number": "7.03",
+      "citation": "Middle District of Florida · Rule 7.03",
+      "title": "Court’s Registry",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-46",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 7.03 Court’s Registry \n(a) DEPOSIT. A motion for leave to deposit money in the court’s \nregistry: \n(1) must state the amount of the deposit; \n(2) must describe any dispute about ownership of, or \nentitlement to, the money; ",
+          "pages": [
+            45
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-47",
+          "path": [],
+          "type": "paragraph",
+          "text": "MIDDLE DISTRICT OF FLORIDA LOCAL RULES\n44 \n(3) must specify whether the money is tendered for deposit in \nan interest-bearing account or a non-interest-bearing account; \nand \n(4) must include a proposed order. \n(b) DISBURSEMENT. A motion to disburse money from the court’s \nregistry: \n(1) must identify each recipient of the disbursement, \n(2) must propose a precise disbursement of both the principal \nand the accumulated interest, and \n(3) must include a proposed order accounting for each fee or \nother charge against the deposit. ",
+          "pages": [
+            46
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flmd-civil-parsed-v1-effa65b4e132c132",
+      "sourceDocumentId": "parsed-flmd-effa65b4e132c132",
+      "sourceUrl": "https://www.flmd.uscourts.gov/sites/flmd/files/flmd-amended-local-rules-effective-november-01-2025.pdf",
+      "pageIndex": 45,
+      "pageSpan": [
+        45,
+        46
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    }
+  ],
+  "evidence": [
+    {
+      "number": "1.01",
+      "heading": "Rule 1.01 Purpose, Scope, and Definitions",
+      "page": 4,
+      "offset": 72,
+      "slices": [
+        {
+          "page": 4,
+          "start": 72,
+          "end": 1212,
+          "sha256": "e91df7f241ea496ddc878a09c0d8639dfdcab6574a994a3d2f1a5216a1bc57f9"
+        },
+        {
+          "page": 5,
+          "start": 0,
+          "end": 1001,
+          "sha256": "aa759bf71e8366c35303be78472c5d38f97eb21826aa2c4dd90f9d1fc416e6bd"
+        }
+      ]
+    },
+    {
+      "number": "1.02",
+      "heading": "Rule 1.02 Authority of a United States Magistrate Judge",
+      "page": 5,
+      "offset": 1001,
+      "slices": [
+        {
+          "page": 5,
+          "start": 1001,
+          "end": 1524,
+          "sha256": "9a8f0479c76f828fc881b9012bcee5392624c3a64d7885fa881bdd3f34f14937"
+        },
+        {
+          "page": 6,
+          "start": 0,
+          "end": 42,
+          "sha256": "fce09f00dea33b1845114d0f414607791222abc11774fde171b5ca979f18f783"
+        }
+      ]
+    },
+    {
+      "number": "1.03",
+      "heading": "Rule 1.03 Admiralty and Maritime",
+      "page": 6,
+      "offset": 42,
+      "slices": [
+        {
+          "page": 6,
+          "start": 42,
+          "end": 792,
+          "sha256": "093f9fadba30e4c3d48b64c55912d789e47ec3b328699c25bb719a449ba41d32"
+        }
+      ]
+    },
+    {
+      "number": "1.04",
+      "heading": "Rule 1.04 Divisions and Place to File",
+      "page": 6,
+      "offset": 792,
+      "slices": [
+        {
+          "page": 6,
+          "start": 792,
+          "end": 1235,
+          "sha256": "cb10e924fcd0523f1f8ecaa3edf923fe0574268ff363d3f084b5b7220afdf857"
+        },
+        {
+          "page": 7,
+          "start": 0,
+          "end": 1116,
+          "sha256": "32aba55a37f058a6793ee654d1e4eee9acb0bbd899bd739c8f3eeee66c7f4af5"
+        }
+      ]
+    },
+    {
+      "number": "1.05",
+      "heading": "Rule 1.05 Docketing and Assignment",
+      "page": 7,
+      "offset": 1116,
+      "slices": [
+        {
+          "page": 7,
+          "start": 1116,
+          "end": 1637,
+          "sha256": "01e191386edc5226452565d429fa42cab0d4b73e04b497640c47dd8c2bd2cb73"
+        },
+        {
+          "page": 8,
+          "start": 0,
+          "end": 431,
+          "sha256": "aa602f8fe130dd6cea2891118eb29e3dc4a07e8a9a594829e4d9e2e97fac5dc7"
+        }
+      ]
+    },
+    {
+      "number": "1.06",
+      "heading": "Rule 1.06 Removal of an Action from State Court",
+      "page": 8,
+      "offset": 431,
+      "slices": [
+        {
+          "page": 8,
+          "start": 431,
+          "end": 880,
+          "sha256": "e70c9448049755056a2e8df8d8c4be9a74514cf8121d2eefe7567ef319448c8f"
+        }
+      ]
+    },
+    {
+      "number": "1.07",
+      "heading": "Rule 1.07 Successive and Other Related Actions",
+      "page": 8,
+      "offset": 880,
+      "slices": [
+        {
+          "page": 8,
+          "start": 880,
+          "end": 1452,
+          "sha256": "7226588b86aa7869b6050256f2bc79e9eb9a7f44a2111ba0a4d01e88d51af27e"
+        },
+        {
+          "page": 9,
+          "start": 0,
+          "end": 1873,
+          "sha256": "e74a6a2c3ab56da2dae95ba34da4eb9e69403cd9f1b74421bf9012bad75c0a18"
+        },
+        {
+          "page": 10,
+          "start": 0,
+          "end": 42,
+          "sha256": "da4a8c4409a8092e80ed5ee428c34a827d2dbab75044deff91e704c6a4711754"
+        }
+      ]
+    },
+    {
+      "number": "1.08",
+      "heading": "Rule 1.08 Form of a Pleading, Motion, or Other Paper",
+      "page": 10,
+      "offset": 42,
+      "slices": [
+        {
+          "page": 10,
+          "start": 42,
+          "end": 709,
+          "sha256": "a5185305790746df26d1b0688fc8d14790f75ac3009dd6f4686dfff1d902fb13"
+        },
+        {
+          "page": 11,
+          "start": 0,
+          "end": 529,
+          "sha256": "6eb29343203f00e48dfd74a40fcce770a863ee7b69f5e6b744d2facdb5eab471"
+        }
+      ]
+    },
+    {
+      "number": "1.09",
+      "heading": "Rule 1.09 Title of a Pleading, Motion, or Other Paper",
+      "page": 11,
+      "offset": 529,
+      "slices": [
+        {
+          "page": 11,
+          "start": 529,
+          "end": 1178,
+          "sha256": "0fa727db17c070a50b04dd37c8053b517aaff105ea910f0e8d471f54309d41ba"
+        },
+        {
+          "page": 12,
+          "start": 0,
+          "end": 563,
+          "sha256": "7b5727553b89a577b35dba2cfb3c4f078a850267972f957b7b8f3f86ba542c04"
+        }
+      ]
+    },
+    {
+      "number": "1.10",
+      "heading": "Rule 1.10 Filing Proof of Service of Process; Deadline for Default",
+      "page": 12,
+      "offset": 563,
+      "slices": [
+        {
+          "page": 12,
+          "start": 563,
+          "end": 1292,
+          "sha256": "24348854bccad1c5806a0137d570fcef58f894787340b98b451544a8751cc81d"
+        },
+        {
+          "page": 13,
+          "start": 0,
+          "end": 205,
+          "sha256": "4bcd96f7390c664f7f6eb635cae912692c10856950a5dab0e75203c4b0aaddd6"
+        }
+      ]
+    },
+    {
+      "number": "1.11",
+      "heading": "Rule 1.11 Sealing in a Civil Action",
+      "page": 13,
+      "offset": 205,
+      "slices": [
+        {
+          "page": 13,
+          "start": 205,
+          "end": 1281,
+          "sha256": "4ce3bf9f9b3481626962edf8f7a0ffd97014e15d6da2d81047cf0d6806522236"
+        },
+        {
+          "page": 14,
+          "start": 0,
+          "end": 1508,
+          "sha256": "12bcf30ff88773f738574ee1fbf0c626e7fbd6749901c551ab6af98962107d03"
+        },
+        {
+          "page": 15,
+          "start": 0,
+          "end": 66,
+          "sha256": "b9c4612c46038754625e508a1f6b2482068c8becb46352f6c03e7b3e1d335c91"
+        }
+      ]
+    },
+    {
+      "number": "2.01",
+      "heading": "Rule 2.01 Practice in the Middle District",
+      "page": 15,
+      "offset": 66,
+      "slices": [
+        {
+          "page": 15,
+          "start": 66,
+          "end": 1254,
+          "sha256": "162eb2b4ba6eb5fbd15585f1034ca384135ebea6131e9dc325dc5b511862b568"
+        },
+        {
+          "page": 16,
+          "start": 0,
+          "end": 1595,
+          "sha256": "cd27c2e1f915bca9e0a3c44594827874791f3de18528904d631c412cb9331a36"
+        },
+        {
+          "page": 17,
+          "start": 0,
+          "end": 43,
+          "sha256": "7f6d46e0bed0ad2dc2bf9f1b7dd47dadc18ad255fb0794917b6c04b4c4acec65"
+        }
+      ]
+    },
+    {
+      "number": "2.02",
+      "heading": "Rule 2.02 Appearance and Withdrawal of a Lawyer",
+      "page": 17,
+      "offset": 43,
+      "slices": [
+        {
+          "page": 17,
+          "start": 43,
+          "end": 1344,
+          "sha256": "51e62b4634b46090630468022591f58f65e56e6cdfd20bba72c4633b0c5e804b"
+        },
+        {
+          "page": 18,
+          "start": 0,
+          "end": 569,
+          "sha256": "7f5fa32cc77ab6a664e094b4a78fac21838f8f172447f7cc8c42240073a3a51a"
+        }
+      ]
+    },
+    {
+      "number": "2.03",
+      "heading": "Rule 2.03 Appearance by a Law Student",
+      "page": 18,
+      "offset": 569,
+      "slices": [
+        {
+          "page": 18,
+          "start": 569,
+          "end": 1257,
+          "sha256": "c099c009bfe191f963c1b300522397a8b2216bd428e60753dcca3e3beb575748"
+        }
+      ]
+    },
+    {
+      "number": "2.04",
+      "heading": "Rule 2.04 Discipline",
+      "page": 18,
+      "offset": 1257,
+      "slices": [
+        {
+          "page": 18,
+          "start": 1257,
+          "end": 1570,
+          "sha256": "192a4d0f37129a2fc38e05e53d79e22af862274ec6a3daa984cf46a3a334a3ef"
+        },
+        {
+          "page": 19,
+          "start": 0,
+          "end": 1786,
+          "sha256": "390fea9f725d584f06567d043682e89e5218e9bc39d0f46cb0b15e11793c875c"
+        },
+        {
+          "page": 20,
+          "start": 0,
+          "end": 1404,
+          "sha256": "c8be1bc6c1b5bdf93d90486e076af8dd04a36d9ea547546f196d0812be998f1b"
+        },
+        {
+          "page": 21,
+          "start": 0,
+          "end": 557,
+          "sha256": "8cc27b746414dbf9f4ef093683d0b0deafb5e8188dcc0838986c57f679ec1578"
+        },
+        {
+          "page": 22,
+          "start": 0,
+          "end": 104,
+          "sha256": "18cc75139e4d79e19d01c1bb6601219df141d02bb459d2915dd4ece0923b8704"
+        }
+      ]
+    },
+    {
+      "number": "3.01",
+      "heading": "Rule 3.01 Motions, Briefs, and Other Legal Memorandums",
+      "page": 22,
+      "offset": 104,
+      "slices": [
+        {
+          "page": 22,
+          "start": 104,
+          "end": 2047,
+          "sha256": "091406f44687a451b499ad75095bf49f8f1324fec3567b9b36109e161e967877"
+        },
+        {
+          "page": 23,
+          "start": 0,
+          "end": 1687,
+          "sha256": "0956f4a6c9103e267cbf5e07c7862ddb66c95fe355767bae8d036d219a025b18"
+        },
+        {
+          "page": 24,
+          "start": 0,
+          "end": 1723,
+          "sha256": "c7389c67373635271ff23faf0c515bf18fa29d3d8c8ad6645cee84ada24fd5c1"
+        },
+        {
+          "page": 25,
+          "start": 0,
+          "end": 189,
+          "sha256": "bec4a2be7059e1a32b64e5298ed7efbc82288328ac00af26256c7a1698b8e23d"
+        }
+      ]
+    },
+    {
+      "number": "3.02",
+      "heading": "Rule 3.02 Civil Case Management",
+      "page": 25,
+      "offset": 189,
+      "slices": [
+        {
+          "page": 25,
+          "start": 189,
+          "end": 1483,
+          "sha256": "fc834ce1d929a00ee46c1a3cab1923ed98e1c3c91047502e760d0be405c1ab2b"
+        },
+        {
+          "page": 26,
+          "start": 0,
+          "end": 885,
+          "sha256": "006d668d438e8588348b32ee5a48ec12b3a6f616754a25943cea8dff687e32b1"
+        }
+      ]
+    },
+    {
+      "number": "3.03",
+      "heading": "Rule 3.03 Disclosure Statement",
+      "page": 26,
+      "offset": 885,
+      "slices": [
+        {
+          "page": 26,
+          "start": 885,
+          "end": 1073,
+          "sha256": "5f61095d69c0e253f54256bcf0e6e06d756684161be7104295edd548ea41ac14"
+        }
+      ]
+    },
+    {
+      "number": "3.04",
+      "heading": "Rule 3.04 Notice of a Deposition or a Subpoena Duces Tecum",
+      "page": 26,
+      "offset": 1073,
+      "slices": [
+        {
+          "page": 26,
+          "start": 1073,
+          "end": 1294,
+          "sha256": "19ca2c79e8141b8677b1aedc8bbe02521570b318e8efa662b2e11b386f15da1b"
+        }
+      ]
+    },
+    {
+      "number": "3.05",
+      "heading": "Rule 3.05 Stipulations",
+      "page": 26,
+      "offset": 1294,
+      "slices": [
+        {
+          "page": 26,
+          "start": 1294,
+          "end": 1413,
+          "sha256": "e9ef5039f0578761ab3597d566146228416120afa9639e315bb121e534e39499"
+        },
+        {
+          "page": 27,
+          "start": 0,
+          "end": 224,
+          "sha256": "40b7746111b4da0486875ab0951e549c3cbd355b8a3c05c781cf88ac95888525"
+        }
+      ]
+    },
+    {
+      "number": "3.06",
+      "heading": "Rule 3.06 Final Pretrial Meeting and Statement",
+      "page": 27,
+      "offset": 224,
+      "slices": [
+        {
+          "page": 27,
+          "start": 224,
+          "end": 1346,
+          "sha256": "0d1a5089de4e31425f2c8d16a57036b90473c00f3207c352f5fe7819c3c8c7d2"
+        },
+        {
+          "page": 28,
+          "start": 0,
+          "end": 1092,
+          "sha256": "0ba97ed779c53a478980ca12a3899dfc9bb24f9713514323b271962edf22328d"
+        }
+      ]
+    },
+    {
+      "number": "3.07",
+      "heading": "Rule 3.07 Exhibits",
+      "page": 28,
+      "offset": 1092,
+      "slices": [
+        {
+          "page": 28,
+          "start": 1092,
+          "end": 1270,
+          "sha256": "163ce18703f80ee58d559cbd57ce8accda7654fd7ff5ab36109a8c0bbff56b97"
+        },
+        {
+          "page": 29,
+          "start": 0,
+          "end": 1542,
+          "sha256": "aae33e12602f2cb6c1027567cc75f4cd33d1206b16e60d14a1bf54d92473bfdd"
+        }
+      ]
+    },
+    {
+      "number": "3.08",
+      "heading": "Rule 3.08 Continuance",
+      "page": 29,
+      "offset": 1542,
+      "slices": [
+        {
+          "page": 29,
+          "start": 1542,
+          "end": 1746,
+          "sha256": "4131a3d30d932b2fe6ecda3bf25427d00e9f4de9168656f1012e034865aea8e0"
+        },
+        {
+          "page": 30,
+          "start": 0,
+          "end": 352,
+          "sha256": "cb426d88a363e99f9cae6cb8b5a1b82dbf769724ea7d94f16cd57393e73e5bce"
+        }
+      ]
+    },
+    {
+      "number": "3.09",
+      "heading": "Rule 3.09 Notice of Resolution; Dismissal",
+      "page": 30,
+      "offset": 352,
+      "slices": [
+        {
+          "page": 30,
+          "start": 352,
+          "end": 830,
+          "sha256": "164fdf2e8907d6bd546102b55c82c4ed4262641b04fc4a265d999c747faf3e97"
+        }
+      ]
+    },
+    {
+      "number": "3.10",
+      "heading": "Rule 3.10 Failure to Prosecute; Dismissal",
+      "page": 30,
+      "offset": 830,
+      "slices": [
+        {
+          "page": 30,
+          "start": 830,
+          "end": 1063,
+          "sha256": "986f5d394460f89ec793065ff9855c318d2b05735467e875ef726aeebd95fb63"
+        }
+      ]
+    },
+    {
+      "number": "3.11",
+      "heading": "Rule 3.11 Disclosure in a Criminal Action",
+      "page": 30,
+      "offset": 1063,
+      "slices": [
+        {
+          "page": 30,
+          "start": 1063,
+          "end": 1431,
+          "sha256": "b3e3ce73714005eedf45be20b307ab0447e729d3930495f9023165bf9b6aa82b"
+        },
+        {
+          "page": 31,
+          "start": 0,
+          "end": 1277,
+          "sha256": "c7ad27b1ceb9c83f3050d00416ae62c4047d357f09bfd5fc545e8a791e947faf"
+        },
+        {
+          "page": 32,
+          "start": 0,
+          "end": 43,
+          "sha256": "a6d18635b905061e8dcdedc5ec51e1bb296a4dbcbf09221682a42a44363c9850"
+        }
+      ]
+    },
+    {
+      "number": "3.12",
+      "heading": "Rule 3.12 Discovery of Information from Probation and Pretrial",
+      "page": 32,
+      "offset": 43,
+      "slices": [
+        {
+          "page": 32,
+          "start": 43,
+          "end": 415,
+          "sha256": "b99204ba48a4ff442f40116e6a09e8288d74ff304d3c6a01292cfba1cebbc592"
+        },
+        {
+          "page": 33,
+          "start": 0,
+          "end": 90,
+          "sha256": "a3bf3d51a50d7bfa40f7cde951258d1dac4b07779e8e1b0b601adfeeb7b8954c"
+        }
+      ]
+    },
+    {
+      "number": "4.01",
+      "heading": "Rule 4.01 Mediation",
+      "page": 33,
+      "offset": 90,
+      "slices": [
+        {
+          "page": 33,
+          "start": 90,
+          "end": 279,
+          "sha256": "637cb8cc57908ed8ecd3443d284423a17ac381d67a9eea1ac9245c6f5b93b084"
+        }
+      ]
+    },
+    {
+      "number": "4.02",
+      "heading": "Rule 4.02 Mediator",
+      "page": 33,
+      "offset": 279,
+      "slices": [
+        {
+          "page": 33,
+          "start": 279,
+          "end": 1451,
+          "sha256": "2b838138ec3986bfca3e26c38b87d80731669248411b84ae62740f1798564e95"
+        },
+        {
+          "page": 34,
+          "start": 0,
+          "end": 43,
+          "sha256": "5a89d925e0122a6e110619fd1c07a875cb13cb2813e6f497617cc0809e3a171d"
+        }
+      ]
+    },
+    {
+      "number": "4.03",
+      "heading": "Rule 4.03 Mediation Order",
+      "page": 34,
+      "offset": 43,
+      "slices": [
+        {
+          "page": 34,
+          "start": 43,
+          "end": 1205,
+          "sha256": "f5bad789b43c08417c5460ba9ec88ce19aff4538b30f6cc4972f3a8a1b4ff933"
+        },
+        {
+          "page": 35,
+          "start": 0,
+          "end": 77,
+          "sha256": "6b2eab0c08e9391459028f3b7b854e2d6911290be1116802a311bd595cf05736"
+        }
+      ]
+    },
+    {
+      "number": "5.01",
+      "heading": "Rule 5.01 Broadcasting, Recording, and Photographing",
+      "page": 35,
+      "offset": 77,
+      "slices": [
+        {
+          "page": 35,
+          "start": 77,
+          "end": 257,
+          "sha256": "fb0089d902533927b42eb10fdd0e271647216a689b65de18a66c07898d010f08"
+        }
+      ]
+    },
+    {
+      "number": "5.02",
+      "heading": "Rule 5.02 Jury Selection and Prohibition of Communication with a",
+      "page": 35,
+      "offset": 257,
+      "slices": [
+        {
+          "page": 35,
+          "start": 257,
+          "end": 1394,
+          "sha256": "8bf67103ddcbb2443e27ff2792334dfa8fc88a2875ba745dda53f9fb2deddb80"
+        },
+        {
+          "page": 36,
+          "start": 0,
+          "end": 187,
+          "sha256": "9f6c645a39f8c2badcc8c1be2a03733db859829f0dfc2af3a6c1f6814d4ff34c"
+        }
+      ]
+    },
+    {
+      "number": "5.03",
+      "heading": "Rule 5.03 Courtroom Decorum",
+      "page": 36,
+      "offset": 187,
+      "slices": [
+        {
+          "page": 36,
+          "start": 187,
+          "end": 1297,
+          "sha256": "cb6ccff1c843b6d631dc15861c477ca77b9a8480ac58bd9d41e6de03a727e2b8"
+        },
+        {
+          "page": 37,
+          "start": 0,
+          "end": 1313,
+          "sha256": "f25c19bf331ad03085e2b1ff984930d25db5076c1bb422ee2db7fcc3251f3b7d"
+        },
+        {
+          "page": 38,
+          "start": 0,
+          "end": 932,
+          "sha256": "406826521263e0f26e8609709a832a3a7ae45daf05509c73d7ef83789b8d6f57"
+        },
+        {
+          "page": 39,
+          "start": 0,
+          "end": 78,
+          "sha256": "a81c7185e4a8d56525dd2119469ba1f7959ac34ac66faa87feef7126305295fb"
+        }
+      ]
+    },
+    {
+      "number": "6.01",
+      "heading": "Rule 6.01 Temporary Restraining Order",
+      "page": 39,
+      "offset": 78,
+      "slices": [
+        {
+          "page": 39,
+          "start": 78,
+          "end": 1147,
+          "sha256": "fc769ac93064f32e2c27232afbb3b1dd9027c7d612d0ebb6c58c9fbdca8b05e5"
+        },
+        {
+          "page": 40,
+          "start": 0,
+          "end": 457,
+          "sha256": "a151b0280efab9a25ef9f35a315b80ca14c84dc12d822d30ebf34d7fb91e9c87"
+        }
+      ]
+    },
+    {
+      "number": "6.02",
+      "heading": "Rule 6.02 Preliminary Injunction",
+      "page": 40,
+      "offset": 457,
+      "slices": [
+        {
+          "page": 40,
+          "start": 457,
+          "end": 1205,
+          "sha256": "5f76bf758dbe1579a732550c56520fc14b7ddadbad1465e665cd27651a2bdc39"
+        },
+        {
+          "page": 41,
+          "start": 0,
+          "end": 43,
+          "sha256": "bb224b079d7c718abaf61dc91470873862301ff43c0a880739fa7a3623585205"
+        }
+      ]
+    },
+    {
+      "number": "6.03",
+      "heading": "Rule 6.03 In Forma Pauperis Action",
+      "page": 41,
+      "offset": 43,
+      "slices": [
+        {
+          "page": 41,
+          "start": 43,
+          "end": 699,
+          "sha256": "6d02114b2178b67e6620470519a8f7fc1dd3008dbbc79391b0044c0bb9243d09"
+        }
+      ]
+    },
+    {
+      "number": "6.04",
+      "heading": "Rule 6.04 Action by a Person in Custody",
+      "page": 41,
+      "offset": 699,
+      "slices": [
+        {
+          "page": 41,
+          "start": 699,
+          "end": 1383,
+          "sha256": "014d24a7e6a03d1fd5137ef18ad71cc70dd9e7a4a0aa11564b2febe2f1ba4047"
+        }
+      ]
+    },
+    {
+      "number": "6.05",
+      "heading": "Rule 6.05 Habeas Action Challenging a Death Sentence",
+      "page": 41,
+      "offset": 1383,
+      "slices": [
+        {
+          "page": 41,
+          "start": 1383,
+          "end": 1689,
+          "sha256": "5e6ff154be038f06204c4102abe35469aad93770f58c60e64df83ed20359a5ef"
+        },
+        {
+          "page": 42,
+          "start": 0,
+          "end": 1311,
+          "sha256": "b9397654575fca60a8735fd36856f71771dd4ac79613d5c9db70be6ac2fc3fe3"
+        },
+        {
+          "page": 43,
+          "start": 0,
+          "end": 445,
+          "sha256": "4402ce1e9375f12dc1683dec8879f5e550dd150da691be6f88c86f340e8cf290"
+        }
+      ]
+    },
+    {
+      "number": "6.06",
+      "heading": "Rule 6.06 Marshal’s Deed and a Coast Guard Bill of Sale",
+      "page": 43,
+      "offset": 445,
+      "slices": [
+        {
+          "page": 43,
+          "start": 445,
+          "end": 721,
+          "sha256": "963ffc47b844f6ca06229fda144d081d2eb9e24774c932ced81bd555501f50e3"
+        },
+        {
+          "page": 44,
+          "start": 0,
+          "end": 80,
+          "sha256": "6508b519b7d924e3295ee430a620816b04b3c9abdbc21ce18a8566e17bb242ab"
+        }
+      ]
+    },
+    {
+      "number": "7.01",
+      "heading": "Rule 7.01 Attorney’s Fee and Expenses",
+      "page": 44,
+      "offset": 80,
+      "slices": [
+        {
+          "page": 44,
+          "start": 80,
+          "end": 1344,
+          "sha256": "fc2a1b98fe0af752bde1440f74d0b0ca7dbbb843330cbba2c1cf317d1acbad4e"
+        },
+        {
+          "page": 45,
+          "start": 0,
+          "end": 1296,
+          "sha256": "3828f5b7c882ca3844936c79d94dcaf4c658522fed1874a1f379e87d5f84bc10"
+        }
+      ]
+    },
+    {
+      "number": "7.02",
+      "heading": "Rule 7.02 Electronics in a Courthouse",
+      "page": 45,
+      "offset": 1296,
+      "slices": [
+        {
+          "page": 45,
+          "start": 1296,
+          "end": 1434,
+          "sha256": "6d4a2cc658b1541508b59f2325a4aa2414cd0eee59c65e9e026a980e446d3f89"
+        },
+        {
+          "page": 46,
+          "start": 0,
+          "end": 964,
+          "sha256": "38b7c6d1a832168c0e4e662e4a70bb9c930c6499b0d7d35f1cc811354d694f1e"
+        }
+      ]
+    },
+    {
+      "number": "7.03",
+      "heading": "Rule 7.03 Court’s Registry",
+      "page": 46,
+      "offset": 964,
+      "slices": [
+        {
+          "page": 46,
+          "start": 964,
+          "end": 1192,
+          "sha256": "8629c14d2d7e8ecaa3378cae41e6331c91df1fc571d4f45e4f0e5ad7e93647de"
+        },
+        {
+          "page": 47,
+          "start": 0,
+          "end": 534,
+          "sha256": "0aa693ec6a5e9fe748c36a3411e1eb86de6e917d81c6fe0ca865a126cff9f82a"
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "startPage": 4,
+    "startOffset": 72,
+    "endPage": 47,
+    "endOffset": 534,
+    "ruleCount": 42,
+    "tocReconciled": false,
+    "editorialReviewComplete": false,
+    "currencyReviewed": false,
+    "flags": [
+      "Source extraction contains unresolved characters; consult the original publication."
+    ],
+    "excluded": "Source material outside the recorded range remains available in the district source library."
+  },
+  "transcriptionSha256": "a63667f1c24ce84af2997d58b4ef3baddb66518b6530dde75cca5d250c6b6304"
+}

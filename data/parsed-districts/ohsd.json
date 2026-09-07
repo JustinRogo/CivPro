@@ -1,0 +1,3727 @@
+{
+  "version": 1,
+  "reviewStatus": "parsed-draft",
+  "districtId": "ohsd",
+  "sourceDocument": {
+    "id": "9e68d137b17d93a1",
+    "title": "Local Rules as amended October 21, 2024",
+    "format": "pdf",
+    "role": "primary",
+    "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+    "sha256": "9e68d137b17d93a176c7d9d0834ad77affa2faa5621dd775590c23aeb5cc0bbf",
+    "bytes": 765016,
+    "retrievedAt": "2026-09-07T00:01:57.547463+00:00",
+    "snapshotPath": "sources/district-snapshots/9e68d137b17d93a176c7d9d0834ad77affa2faa5621dd775590c23aeb5cc0bbf.pdf",
+    "textPath": "data/source-library/9e68d137b17d93a176c7d9d0834ad77affa2faa5621dd775590c23aeb5cc0bbf.json",
+    "pdfPath": "data/source-pdfs/9e68d137b17d93a176c7d9d0834ad77affa2faa5621dd775590c23aeb5cc0bbf.pdf",
+    "pageCount": 58,
+    "reviewStatus": "source-document-only",
+    "blankTextPages": 0
+  },
+  "collection": {
+    "id": "ohsd-civil",
+    "name": "Southern District of Ohio Local Rules",
+    "shortName": "Local rules · draft",
+    "districtId": "ohsd",
+    "scopeNote": "Civil and generally applicable local rules; unparsed supplements remain in the source library. Rule boundaries and transcription are drafts. Embedded notes, forms, and running headers may remain within rule text; subsection anchors and field-separated notes are not yet reviewed."
+  },
+  "provisions": [
+    {
+      "id": "ohsd-civil:1.1",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "1.1",
+      "citation": "Southern District of Ohio · Rule 1.1",
+      "title": "General Provisions",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-7",
+          "path": [],
+          "type": "paragraph",
+          "text": "1.1 General Provisions \n(a) Citation. These Rules may be cited as “S.D. Ohio Civ. R. .” \n(b) Effective Date. The effective date of these Rules as amended is October 21, 2024. \n(c) Scope of Rules. These Rules govern practice and procedure in cases before the United \nStates District Court for the Southern District of Ohio, unless a Judge orders otherwise \nin a given case. These Rules apply to United States courthouses and to the courtrooms, \nchambers, and ancillary portions of state courthouses or other buildings while in use by \nthis Court under agreement with local authorities. Failure to comply with these Rules \nmay result in the imposition of sanctions. \n(d) Relationship to Prior Rules; Actions Pending on Effective Date. These Rules \nsupersede all previous rules promulgated by this Court. They govern proceedings in \nthis Court after they take effect except to the extent that in the opinion of the Judge the \napplication to already pending cases would not be feasible or would work injustice, in \nwhich event the former Rules shall govern. \n(1) 1 U.S.C. §§ 1-5 shall, as far as applicable, govern the construction of these Rules. \n(2) These Rules shall be construed to achieve the orderly administration of the business \nof this Court; to govern the practice of attorneys and parties before this Court; and \nto secure the just, speedy, and inexpensive determination of every action. \nReferences to statutes, regulations, or rules shall be interpreted to include revisions \nand amendments made subsequent to the adoption of these Rules. \n(e) ECF Manual. These Rules, supplemented by the Electronic Filing Policies and \nProcedures Manual (the “ECF Manual”), as amended from time to time by the Clerk, \ngovern use of the Electronic Case Filing (“ECF”) system in this District. Technical \nterms used in these Rules have the meaning set out in the ECF Manual. \n(f) General and Standing Orders. The general orders of the Court and standing orders \nof any Judge, which are available on the Court’s website, may supplement these Rules \nin any case. A litigant may obtain a paper copy of each general or standing order, upon \nrequest and without charge, from the Clerk at any location of Court. ",
+          "pages": [
+            6
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-8",
+          "path": [],
+          "type": "paragraph",
+          "text": "8 \nII. COMMENCEMENT OF ACTION; SERVICE OF PROCESS \n",
+          "pages": [
+            7
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 6,
+      "pageSpan": [
+        6,
+        7
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:3.1",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "3.1",
+      "citation": "Southern District of Ohio · Rule 3.1",
+      "title": "Initial Filings",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-8",
+          "path": [],
+          "type": "paragraph",
+          "text": "3.1 Initial Filings \n(a) Civil Cover Sheet. Every complaint or other document initiating a civil action must \nbe filed electronically using the ECF system unless the filer does not have access to the \nECF system or is a pro se litigant. Filers who do not have access to the ECF system \nand pro se litigants may file a complaint or other document initiating a civil action in \npaper form with the Clerk. This filing must be accompanied by a completed civil cover \nsheet on a form available from the Clerk and on the Court’s website. The civil cover \nsheet is solely for administrative purposes, and matters appearing only on the civil \ncover sheet have no legal effect in the action. If the complaint or other initiating \ndocument is tendered for filing without a completed civil cover sheet, the Clerk shall \nfile the complaint or other initiating document and shall give notice of the omission to \nthe filing party that the completed civil cover sheet must be promptly filed. \n(b) Related Cases. An initiating party shall identify on the civil cover sheet or other form \nprovided by the Clerk any previously filed case or cases in the District that the party \nknows or believes to be related. After the initial filing of a case, any party may call to \nthe Court’s attention any related case(s) by filing a notice of related case(s). For \npurposes of this Rule, civil cases may be deemed related by the Court if they: \n(1) Arise from the same or substantially identical transaction, happening, or event; or \n(2) Call for a determination of the same or substantially identical questions of law or \nfact; or \n(3) Would entail a substantial duplication of effort and expense by the Court and the \nparties if heard by different Judges; or \n(4) Seek relief that could result in a party’s being subject to conflicting orders of this \nCourt. \n(c) This Rule is intended to provide for the orderly division of the business of the Court \nand does not grant any right to any litigant. \n",
+          "pages": [
+            7
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 7,
+      "pageSpan": [
+        7,
+        7
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:3.2",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "3.2",
+      "citation": "Southern District of Ohio · Rule 3.2",
+      "title": "Civil Action for False Claims",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-8",
+          "path": [],
+          "type": "paragraph",
+          "text": "3.2 Civil Action for False Claims \nAny civil action brought pursuant to 31 U.S.C. § 3730(b) (the False Claims Act) shall be \nfiled in camera along with proof that the United States has been served with a copy of the \ncomplaint. Relator shall notify the Court, under seal, when it has completed written \ndisclosure to the Government of substantially all material evidence and information the \nRelator possesses regarding the claim. Upon receipt of the complaint, the Clerk shall \nrandomly assign a District Judge and maintain the case under seal until the earlier of (a) \nexpiration of sixty days after notification of written disclosure has been received by the \nCourt or any Court-approved extension of time or (b) the Government has made an election ",
+          "pages": [
+            7
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-9",
+          "path": [],
+          "type": "paragraph",
+          "text": "9 \nwhether to intervene in the action, at which time the Clerk shall notify the assigned Judge \nto unseal the case. \n",
+          "pages": [
+            8
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 7,
+      "pageSpan": [
+        7,
+        8
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:3.3",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "3.3",
+      "citation": "Southern District of Ohio · Rule 3.3",
+      "title": "Patent, Trademark and Copyright Cases",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-9",
+          "path": [],
+          "type": "paragraph",
+          "text": "3.3 Patent, Trademark and Copyright Cases\n(a) Patent and Trademark. In all cases involving patent or trademark claims, a party filing \na complaint, amended complaint, counterclaim or any other pleading that adds a new \npatent or trademark to the case must file with the Court, an AO 120 Report on the Filing \nor Determination of an Action Regarding a Patent or Trademark Form identifying the \npatent and/or trademark number(s). \n(b) Copyright. In all cases involving copyright claims, a party filing a complaint, amended \ncomplaint, counterclaim or any other pleading that adds a new copyright to the case must \nfile with the Court, an AO 121 Report on the Filing or Determination of an Action or \nAppeal Regarding a Copyright Form identifying the copyright registration number(s). \n",
+          "pages": [
+            8
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 8,
+      "pageSpan": [
+        8,
+        8
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:4.1",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "4.1",
+      "citation": "Southern District of Ohio · Rule 4.1",
+      "title": "Preparation of Process",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-9",
+          "path": [],
+          "type": "paragraph",
+          "text": "4.1 Preparation of Process \nAny attorney or party requesting the issuance of any process or initiating any proceeding \nin which the issuance of process is required shall prepare all required forms, which include \nthe following, if needed in a case: \ni. Summons or waiver of service forms; \nii. Marshal Service Forms (USM-285); \niii. Seizure warrants; \niv. Subpoenas; \nv. Certificates of judgment; \nvi. Writs of execution; \nvii. Orders of sale; \nviii. All process in garnishment or other aids in execution; \nix. Civil cover sheets; \nand present the required forms, together with the requisite written request for issuance, at \nthe office of the Clerk for signature and sealing. Electronic versions of many forms are \navailable on the Court’s website. The Clerk shall, upon request and subject to current \navailability, provide reasonable supplies of all paper forms to any attorney or party. \n",
+          "pages": [
+            8
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 8,
+      "pageSpan": [
+        8,
+        8
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:4.2",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "4.2",
+      "citation": "Southern District of Ohio · Rule 4.2",
+      "title": "Service or Waiver of Process",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-9",
+          "path": [],
+          "type": "paragraph",
+          "text": "4.2 Service or Waiver of Process ",
+          "pages": [
+            8
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-10",
+          "path": [],
+          "type": "paragraph",
+          "text": "10\nA plaintiff should ordinarily attempt to obtain a waiver of service of process under Fed. R. \nCiv. P. 4(d) before attempting service of process. If a request for waiver is unsuccessful \nor is deemed inappropriate, the Court prefers parties to use the methods of service provided \nin Fed. R. Civ. P. 4 before using certified mail service under Ohio law. This Rule is \nconfined to the domestic service of the summons and complaint in a civil action in this \nCourt by certified mail or ordinary mail, pursuant to the law of Ohio, and is not intended \nto affect the procedure for other methods of service permitted by the Federal Rules of Civil \nProcedure or Ohio law. If a party elects to use Ohio certified mail service, it must be done \nas follows: \n(a) The attorney of record or the serving party shall address the envelope to the person to \nbe served and shall place a copy of the summons and complaint or other document tobe \nserved in the envelope. The attorney of record or the serving party shall also affix to the back \nof the envelope the domestic return receipt card, PS Form 3811 (the “green card”) showing the \nname of sender as “Clerk, United States District Court, Southern District of Ohio” at the \nappropriate address, with the certified mail number affixed to the front of the envelope and the \ncase number shown in a conspicuous location on the return receipt card. The instructions to the \ndelivering postal employee shall require the employee to show to whom delivered, date of \ndelivery, and address where delivered. The attorney of record or the serving party shall affix \nadequate postage to the envelope and deliver it to the Clerk who shall cause it to be mailed. \n(b) The Clerk shall enter the fact of mailing on the docket and make a similar entry when \nthe return receipt is received. If the envelope is returned with an endorsement showing \nfailure of delivery, the Clerk shall promptly notify, electronically or by regular mail, \nthe attorney of record or the serving party. The Clerk shall enter the fact of notification \non the docket and shall file the return receipt or returned envelope in the records of the \naction. \n(c) If service of process is refused or was unclaimed, the Clerk shall promptly notify the \nattorney of record or the serving party. If the attorney of record or the serving party, \nafter notification, files with the Clerk a request for ordinary mail service accompanied \nby an envelope containing the summons and complaint or other document to be served \nwith adequate postage affixed to the envelope, the Clerk shall send the envelope to the \ndefendant at the address set forth in the caption of the complaint or at the address set \nforth in instructions to the Clerk. The attorney of record or the serving party shall also \nprepare for the Clerk’s use a certificate of mailing that shall be signed by the Clerk or \na Deputy Clerk and filed at the time of mailing. The attorney of record or the serving \nparty shall also endorse the answer day (twenty-one days after the date of mailing \nshown on the certificate of mailing) on the summons sent by ordinary mail. If the \nordinary mail is returned undelivered, the Clerk shall promptly notify the attorney of \nrecord or the serving party electronically or by mail. \n(d) The attorney of record or the serving party shall be responsible for determining whether \nservice has been made under the provisions of Ohio R. Civ. P. 4.1 and this Rule. \n",
+          "pages": [
+            9
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 8,
+      "pageSpan": [
+        8,
+        9
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:4.3",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "4.3",
+      "citation": "Southern District of Ohio · Rule 4.3",
+      "title": "Service in In Forma Pauperis or Government-Initiated Cases",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-10",
+          "path": [],
+          "type": "paragraph",
+          "text": "4.3 Service in In Forma Pauperis or Government-Initiated Cases \nWhen the United States Marshal is directed by the Court to serve the summons and \ncomplaint, the Marshal may perform the functions of the “Clerk of Court” for the purpose ",
+          "pages": [
+            9
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-11",
+          "path": [],
+          "type": "paragraph",
+          "text": "11\nof making service as described in Ohio R. Civ. P. 4.1. \n",
+          "pages": [
+            10
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 9,
+      "pageSpan": [
+        9,
+        10
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:4.4",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "4.4",
+      "citation": "Southern District of Ohio · Rule 4.4",
+      "title": "Service in a Foreign Country",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-11",
+          "path": [],
+          "type": "paragraph",
+          "text": "4.4 Service in a Foreign Country \nA request by a party to the Clerk to serve process in a foreign country by mail under Fed. \nR. Civ. P. 4(f)(2)(C)(ii) shall be accompanied by a certificate of the trial attorney or an \naffidavit of a party proceeding pro se that the attorney or party has determined that service \nby mail is authorized by the domestic law of the country in which service is to be made. \n",
+          "pages": [
+            10
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 10,
+      "pageSpan": [
+        10,
+        10
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:5.1",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "5.1",
+      "citation": "Southern District of Ohio · Rule 5.1",
+      "title": "General Format of Documents Presented for Filing",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-11",
+          "path": [],
+          "type": "paragraph",
+          "text": "5.1 General Format of Documents Presented for Filing \n(a) Form. All pleadings, motions, briefs, and other papers presented to the Clerk for filing \nshall be on 8 ½” x 11” wide paper of good quality, flat and unfolded, without backing \nor binding, plainly typewritten, printed, or prepared by a clearly legible duplication \nprocess, and double-spaced, except for block-quoted material. Each page shall be \nnumbered consecutively and shall have appropriate side margins and a top margin of \nnot less than one inch. All documents filed electronically shall be formatted so that, if \nprinted, they will be double-spaced, except for block-quoted material, shall have each \npage numbered consecutively, and shall have one-inch margins on all sides. \nThis Rule does not apply to: (1) exhibits submitted for filing, provided that all exhibits \nshall be neatly bound and whenever possible reduced or folded to 8 ½” x 11” size, and \n(2) forms approved by this Court or approved for use in federal courts generally. \nExhibits to be scanned and uploaded to the ECF system shall not be bound. \nExhibits not attached to pleadings and other papers shall be identified by a cover page \nor other appropriate label using the caption of the case, the case number, and other \nidentification as provided in subsection (b). \n(b) Identification. Except for the original complaint, all pleadings, other papers, and \nexhibits shall be identified by a title that contains the name and party designation of the \nperson filing it and the nature of the pleading or paper; for example: “Defendant John \nSmith’s Answer to the Amended Complaint,” “Plaintiff Richard Roe’s Answer to \nDefendant Sam Brown’s Motion to Dismiss,” “Affidavit of Joan Doe in Support of \nMotion for Summary Judgment,” or “Exhibits in Support of Plaintiff John Smith’s \nMotion for Summary Judgment.” The names of the District Judge and Magistrate Judge \nto whom the case has been assigned shall be placed below the case number in the \ncaption. The case number format shall be as set forth in the ECF Manual. \n(c) Electronic Filing. Except as provided herein or unless otherwise authorized by a \nJudge, all documents shall be filed electronically as a searchable text PDF using the \nECF system except that documents filed by pro se litigants may be filed on paper. Paper \ndocuments shall be scanned into a searchable text PDF and uploaded by the Clerk. \nDocuments filed electronically shall conform to the requirements of these Rules and to \nthe format for the ECF system set out in the most current edition of the ECF Manual. \n(d) Consequences of Electronic Filing. Electronic transmission of a document to the ECF \nsystem, together with transmission of a Notice of Electronic Filing from the Court, ",
+          "pages": [
+            10
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-12",
+          "path": [],
+          "type": "paragraph",
+          "text": "12\nconstitutes filing of the document for all purposes under the Federal Rules of Civil \nProcedure and the Local Rules of this Court and constitutes entry of the document on \nthe docket kept by the Clerk under Fed. R. Civ. P. 58 and 79. When a document is filed \nelectronically, the official record is the electronic recording of the document as stored by the \nCourt, and the filing party is bound by the document as filed unless relief is granted under \nsubsection (f) of this Rule. \n(e) Filing Date and Time. Except in the case of documents first filed in paper form and \nsubsequently submitted electronically, a document filed electronically is deemed filed \nat the date and time stated on the Notice of Electronic Filing from the Court. Filing a \ndocument electronically does not alter the filing deadline for that document. Filing \nmust be completed before midnight Eastern Time Zone in order to be considered timely \nfiled that day. \n(f) Technical Failures and Inadvertent Filings. A document mistakenly filed under the \nwrong case number will be restricted or deleted by the Clerk, who will electronically \nnotify the filer. The document may then be immediately filed in the correct case record \nwithout seeking the consent of opposing counsel or the Court. An untimely filing as \nthe result of a technical failure or other incorrect filing caused by some other error in \nusing the ECF system may be corrected upon motion submitted pursuant to S.D. Ohio \nCiv. R. 7.3(b). In exigent circumstances, such as where a privileged document is \nmistakenly filed, relief may be sought by ex parte contact with a Judge. Counsel and \nparties should not assume that such relief is available when deadlines are involved (such \nas statutes of limitation or deadlines for appeal). \n",
+          "pages": [
+            11
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 10,
+      "pageSpan": [
+        10,
+        11
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:5.2",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "5.2",
+      "citation": "Southern District of Ohio · Rule 5.2",
+      "title": "Certificate of Service: Delivery Electronically",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-12",
+          "path": [],
+          "type": "paragraph",
+          "text": "5.2 Certificate of Service: Delivery Electronically \n(a) Certificate of Service. Proof of service of all pleadings and other papers required or \npermitted to be served (except in the case of an ex parte proceeding) shall be made in \ncompliance with Fed. R. Civ. P. 5(d). Such proof of service shall state the date and \nmanner of service, including the name of the person(s) served and the address(es) to \nwhich service was directed, and shall be fully stated on or attached to the copy of the \npleading or other document served upon a party or upon the trial attorney of each party. \n(b) Delivery Electronically. Any party may make service through the Court’s ECF system \non parties who are registered users of the system as provided in Fed. R. Civ. P. \n5(b)(2)(E). \n[Local Civil Rule 5.2.1, which relates to Federal Rule of Civil Procedure 5.2, follows Local \nCivil Rule 5.4] ",
+          "pages": [
+            11
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-13",
+          "path": [],
+          "type": "paragraph",
+          "text": "13\n",
+          "pages": [
+            12
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 11,
+      "pageSpan": [
+        11,
+        12
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:5.3",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "5.3",
+      "citation": "Southern District of Ohio · Rule 5.3",
+      "title": "Statutory Three-Judge Actions",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-13",
+          "path": [],
+          "type": "paragraph",
+          "text": "5.3 Statutory Three-Judge Actions \nIn any action or proceeding that a party believes is required to be heard by a three-judge \ndistrict court, the words “Three-Judge District Court Requested” or the equivalent shall be \nincluded immediately following the title of the first pleading in which the claim for relief \nrequiring a three-judge court is pleaded. Unless the basis for the request is apparent from \nthe pleading, it shall be set forth in the pleading or in a brief statement attached thereto. \nThe words “Three-Judge District Court Requested” or the equivalent on a pleading is a \nsufficient request under 28 U.S.C. § 2284. \n",
+          "pages": [
+            12
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 12,
+      "pageSpan": [
+        12,
+        12
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:5.4",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "5.4",
+      "citation": "Southern District of Ohio · Rule 5.4",
+      "title": "Filing Discovery Documents",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-13",
+          "path": [],
+          "type": "paragraph",
+          "text": "5.4 Filing Discovery Documents \n(a) When used in a proceeding or ordered by a Judge, deposition transcripts shall be filed \nelectronically. Pro se litigants must file deposition transcripts on paper. If ordered by \na Judge, deposition transcripts shall also be filed in paper using condensed or \n“minuscript”® format and two-sided copying. All deposition transcripts filed with the \nClerk must include any signature page and statement of changes in form or substance \nmade by the witness pursuant to Fed. R. Civ. P. 30(e) and the certificate described in \nFed. R. Civ. P. 30(f). \n(b) Discovery documents that comply with the Federal Rules of Civil Procedure and with \nthese Rules may be used in any action in the manner permitted by rule, statute, or an \norder made in the action even if such documents have not been filed with the Clerk. \n",
+          "pages": [
+            12
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 12,
+      "pageSpan": [
+        12,
+        12
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:5.2.1",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "5.2.1",
+      "citation": "Southern District of Ohio · Rule 5.2.1",
+      "title": "Sealed Documents",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-13",
+          "path": [],
+          "type": "paragraph",
+          "text": "5.2.1 Sealed Documents \n(a) Filing Under Seal. Unless permitted by statute, parties may not file documents under \nseal without obtaining leave of Court upon motion and for good cause shown. Upon \nobtaining leave of Court, litigants other than pro se litigants must file the documents \nelectronically using the ECF system as provided in S.D. Ohio Civ. R. 5.1. Pro se \nlitigants who have obtained leave must follow the procedures set forth in Rule 5.2.1(b). \nThe Court may strike any document filed under seal if the filing party failed to obtain \nleave of Court. \n(b) Documents Submitted for in Camera Inspection. Unless the Court directs otherwise, \ndocuments submitted for in camera inspection and documents pro se litigants submit \nfor filing under seal must be submitted to the Clerk in a securely sealed envelope or \nbox. The face of the envelope or box containing such documents, as well as the first \npage of each document, must state that it contains “DOCUMENTS FOR IN CAMERA \nINSPECTION” or “DOCUMENTS UNDER SEAL.” The face of the envelope or box \nshall also contain the case caption, a descriptive title of the documents (unless such \ninformation is to be, or has been, included among the information ordered sealed), and \na reference to the specific order or statute permitting the documents to be sealed. ",
+          "pages": [
+            12
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-14",
+          "path": [],
+          "type": "paragraph",
+          "text": "14\nIII. PLEADINGS, MOTIONS, AND ORDERS \n",
+          "pages": [
+            13
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 12,
+      "pageSpan": [
+        12,
+        13
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:6.1",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "6.1",
+      "citation": "Southern District of Ohio · Rule 6.1",
+      "title": "Extensions of Time to Move or Plead",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-14",
+          "path": [],
+          "type": "paragraph",
+          "text": "6.1 Extensions of Time to Move or Plead \n(a) Each party to an action may obtain stipulated extensions of time not to exceed a total \nof twenty-one days in which to file a motion in response to a pleading or any responsive \npleading. This can be done only by filing with the Clerk a written stipulation between \nthe parties for such extensions, provided, however, that the aggregate time extended to \nany party for all extensions by stipulation during the action shall not exceed a total of \ntwenty-one days. A stipulation filed with the Clerk shall affirmatively state the new \ndate for response agreed to by the parties and that no prior stipulated extensions to that \nparty, together with the stipulated extension then filed, exceed a total of twenty-one \ndays. If no such stipulation is obtained, or if additional extensions beyond the stipulated \nperiods are requested, the party desiring an extension must obtain the approval of the \nCourt. \n(b) This Rule applies only to extensions of time to plead to a complaint, amended \ncomplaint, counterclaim, or a comparable pleading under Fed. R. Civ. P. 7(a). It does \nnot permit stipulated extensions of time to respond to motions, Court orders, or other \ndeadlines. All extensions other than those permitted by this Rule shall be upon motion. \n",
+          "pages": [
+            13
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 13,
+      "pageSpan": [
+        13,
+        13
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:7.1",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "7.1",
+      "citation": "Southern District of Ohio · Rule 7.1",
+      "title": "Procedure for Deciding Motions",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-14",
+          "path": [],
+          "type": "paragraph",
+          "text": "7.1 Procedure for Deciding Motions \n(a) No Motion Day. Pursuant to Fed. R. Civ. P. 78, the determination of all motions, \nincluding those filed pursuant to Fed. R. Civ. P. 56, shall be based upon memoranda \nfiled pursuant to S.D. Ohio Civ. R. 7.2 and without oral hearings, unless specifically \nordered by the Court. \n(b) Procedure to Obtain Hearing or Oral Argument \n(1) Evidentiary Hearings. Upon the filing of any motion that requires an evidentiary \nhearing under the Federal Rules of Civil Procedure or any provision of law, the \nmovant shall obtain a date for such hearing. Movant’s counsel shall, to the extent \npracticable, consult with opposing counsel to select agreeable dates. \n(2) Oral Argument. In all other cases, if oral argument is deemed to be essential to \nthe fair resolution of the case because of its public importance or the complexity of \nthe factual or legal issues presented, counsel or a pro se party may apply to the \nCourt for oral argument. This may be done by including the phrase “ORAL \nARGUMENT REQUESTED” (or its equivalent) on the caption of a motion or on \na memorandum. The ground(s) for any such request shall be succinctly explained. \nIf the Court determines argument or a conference would be helpful, the Court will \nnotify all parties. \n(3) Urgent Motions. The Court may, for good cause shown, provide for an early \nhearing on any motion with or without the filing of memoranda by the parties. ",
+          "pages": [
+            13
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-15",
+          "path": [],
+          "type": "paragraph",
+          "text": "15\n[Local Civil Rule 7.1.1, which relates to Federal Rule of Civil Procedure 7.1, follows Local \nCivil Rule 7.4.] \n",
+          "pages": [
+            14
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 13,
+      "pageSpan": [
+        13,
+        14
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:7.2",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "7.2",
+      "citation": "Southern District of Ohio · Rule 7.2",
+      "title": "Motions and Other Papers",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-15",
+          "path": [],
+          "type": "paragraph",
+          "text": "7.2 Motions and Other Papers \n(a) Legal Memoranda \n(1) Supporting Memorandum and Certificate of Service. All motions and \napplications tendered for filing shall be accompanied by a memorandum in support \nthereof that shall be a brief statement of the grounds, with citation of authorities \nrelied upon. Except in the case of a motion or application permitted by law to be \nsubmitted ex parte, a certificate of service in accordance with S.D. Ohio Civ. R. 5.2 \nshall accompany all such papers. \n(2) Opposing and Reply Memoranda. Any memorandum in opposition shall be filed \nwithin twenty-one days after the date of service of the motion. Failure to file a \nmemorandum in opposition may result in the granting of any motion that would not \nresult directly in entry of final judgment or an award of attorneys’ fees. Any reply \nmemorandum shall be filed within fourteen days after the date of service of the \nmemorandum in opposition. No additional memoranda beyond those enumerated \nare permitted except upon leave of court for good cause shown. \n(3) Limitation Upon Length of Memoranda. The Court prefers that memoranda in \nsupport of or in opposition to any motion or application to the Court not exceed \ntwenty pages. In all cases in which memoranda exceed twenty pages, counsel shall \ninclude a combined table of contents and a succinct, clear, and accurate summary, \nnot to exceed five pages, indicating the main sections of the memorandum and the \nprincipal arguments and citations to primary authority made in each section, as well \nas the pages on which each section and any sub-sections may be found. A Judge \nmay impose page limitations in any action by standing order. \n(b) Citations \n(1) Statutes. United States statutes should be cited by the United States Code Title and \nSection number (e.g., 1 U.S.C. § 1). State statutes should be cited by the statutory \ncode section number (e.g., Ohio Rev. Code § 101.01). \n(2) Supreme Court Citations. Citation to United States Supreme Court decisions \nshould be to the official U.S. Reports, if published. If available, Supreme Court \nReporter and Lawyer’s Edition shall be used when the official U.S. Reports are not \nyet published. ",
+          "pages": [
+            14
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "16\n(3) Record Citations. Except for Social Security cases, which must comply with S.D. \nOhio Civ. R. 8.1(d), all filings in this Court that reference a prior filing must provide \npinpoint citations to the PageID number in the prior filing being referenced, along \nwith a brief title and the docket number of the document referenced (e.g., Motion \nto Dismiss, ECF No. 12 at PageID 123). \n(c) Correspondence with the Court. Letters to the Court are not permitted unless (1) \nrequested by the Court in a specific matter, or (2) advising the Court of the settlement \nof a pending matter. All other written communications must be by way of formal \nmotion or memorandum submitted in compliance with these Rules. All letters sent to \nthe Court shall be contemporaneously served upon opposing counsel unless otherwise \nordered by the Court. \n(d) Evidence Supporting Motions - Deadlines. When proof of facts not already of record \nis necessary to support or oppose a motion, all evidence then available shall be \ndiscussed in, and submitted no later than, the primary memorandum of the party relying \nupon such evidence. Evidence used to support a reply memorandum shall be limited to \nthat needed to rebut the positions argued in memoranda in opposition. If evidence is \nnot available to meet this schedule or circumstances exist as addressed by Fed. R. Civ. \nP. 56(d), counsel shall consult one another and attempt to stipulate to a joint motion for \nextension of the schedule established by this Rule; failing agreement, counsel shall \npromptly bring the matter to the attention of the Court. Assignment of any motion for \noral argument or a conference with the Court shall not extend these deadlines for the \nsubmission of evidence. \n(e) Memoranda Evidence. Evidence shall be presented, in support of or in opposition to \nany motion, using affidavits, declarations pursuant to 28 U.S.C. § 1746, deposition \nexcerpts, admissions, verified interrogatory answers, and other documentary or \nelectronic exhibits. Unless already of record, such evidence shall be attached to the \nmemorandum or included in an appendix thereto. Physical evidence that cannot be \nattached to a memorandum shall be filed separately with the Clerk. All evidence shall \nbe submitted within the time limit set forth above. \nEvidence submitted, including discovery documents, shall be limited to that necessary for \ndecision and shall include only essential portions of transcripts or exhibits referenced in \nthe memorandum. \nWhen a substantial number of pages of deposition transcripts or exhibits must be referenced \nfor the full and fair presentation of a matter, the parties shall refer in their memoranda the \nspecific pages at which key testimony is found and ensure that a copy of the entire transcript \nor exhibit is timely filed with the Clerk. The parties shall ensure that all transcripts relied \nupon include all corrections made by the witness pursuant to Fed. R. Civ. P. 30(e) and the \ncertification pursuant to Fed. R. Civ. P. 30(f). ",
+          "pages": [
+            15
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "17\n",
+          "pages": [
+            16
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 14,
+      "pageSpan": [
+        14,
+        16
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:7.3",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "7.3",
+      "citation": "Southern District of Ohio · Rule 7.3",
+      "title": "Consent to Motions",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "7.3 Consent to Motions \n(a) Motions for Extension of Time. Prior to filing any motion for an extension of time, \ncounsel shall consult with all parties (except prisoners appearing pro se) whose interests \nmight be affected by the granting of such relief and solicit their consent to the extension. \nThe motion shall affirmatively state that such consultation has occurred or was \nattempted in good faith and shall state whether the motion is unopposed. If the \nextension is not opposed, the movant should submit a proposed order to the Court in \nthe form prescribed by S.D. Ohio Civ. R. 7.4. \n(b) Other Motions. A party filing any other type of motion to which other parties might \nreasonably be expected to give their consent (such as a motion to amend pleadings, for \nleave to file a document instanter, for voluntary dismissal of a complaint or \ncounterclaim, or to correct an electronic filing involving a technical error in using the \nECF system) shall comply with the procedure set forth in S.D. Ohio Civ. R. 7.3(a) \nbefore filing such motion. \n",
+          "pages": [
+            16
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 16,
+      "pageSpan": [
+        16,
+        16
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:7.4",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "7.4",
+      "citation": "Southern District of Ohio · Rule 7.4",
+      "title": "Orders",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "7.4 Orders \nOn all papers requiring the signature of a Judge, such signature shall be identified as \nfollows: \nUNITED STATES DISTRICT JUDGE \nor \nUNITED STATES MAGISTRATE JUDGE \n",
+          "pages": [
+            16
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 16,
+      "pageSpan": [
+        16,
+        16
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:7.1.1",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "7.1.1",
+      "citation": "Southern District of Ohio · Rule 7.1.1",
+      "title": "Disclosure Statements and Judicial Disqualification",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "7.1.1 Disclosure Statements and Judicial Disqualification \n(a) Parties Required to Make Disclosure. The disclosure requirements set forth in Fed. \nR. Civ. P. 7.1 extend to entities appearing amici curiae. \n(b) Financial Interest to be Disclosed. In addition to the disclosures required under Fed. \nR. Civ. P. 7.1, nongovernmental corporate parties and parties appearing amici curiae \nshall disclose the identity of any publicly held corporations or their affiliates that are \nnot parties to the case or appearing amici curiae that have substantial financial interests \nin the outcome of the litigation by reason of insurance, a franchise agreement, or an \nindemnity agreement. The nature of that substantial financial interest shall also be \ndisclosed. \n(c) Form and Time of Disclosure \n(1) The disclosure statement shall be made on a form provided by the Clerk or available \non the Court’s website, or prepared substantially in accordance with the comparable ",
+          "pages": [
+            16
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "18\nForm 6CA-1 required by Sixth Circuit Rule 26.1 and available on the website of \nthe Court of Appeals. \n(2) Although counsel and parties have an obligation to the Court to investigate and \nmake accurate disclosures under this Rule, these requirements are solely for \nadministrative purposes, and matters disclosed have no legal effect in the action. \n(3) Parties required to file disclosure statements shall do so with their first appearance, \npleading, petition, motion, response, or other filing with the Court. If the disclosure \nstatement is required to be filed before all relevant facts have been fully \ninvestigated, it shall be specifically noted as potentially incomplete, and counsel \nshall thereafter complete the investigation and file a supplemental disclosure \nstatement. Counsel shall also promptly file a supplemental statement upon any \nchange in the information that the disclosure statement requires. \n(d) Judicial Disqualification. In addition to addressing the corporate affiliations/financial \ninterests, all counsel shall consider at the earliest opportunity whether there may be any \nreason for a Judge of this Court to disqualify himself or herself, pursuant to 28 U.S.C. \n§ 144 or § 455, and shall advise the Court in writing as early as possible of any such \nconcerns. \n",
+          "pages": [
+            17
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 16,
+      "pageSpan": [
+        16,
+        17
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:8.1",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "8.1",
+      "citation": "Southern District of Ohio · Rule 8.1",
+      "title": "A Social Security Cases: Service, Answer, and Schedule",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "8.1.A Social Security Cases: Service, Answer, and Schedule \n(a) Service. In cases arising under 42 U.S.C. § 405(g) or 42 U.S.C. § 1383(c)(3), the \nplaintiff will file a Complaint with the Clerk, along with a Social Security Identification \nForm containing the full name and complete Social Security number of the plaintiff, \nincluding that of a minor plaintiff not otherwise identified by his or her full name. If \nthe plaintiff’s application for Social Security benefits was filed on another person’s \nwage-record, that person’s full name and Social Security number shall also be provided. \nThe identifying information is necessary for the Commissioner to obtain and produce \nthe certified administrative record. The Social Security Identification Form will be \nlodged in CM/ECF as a restricted document and sent via Notice of Electronic Filing to \nthe U.S. Attorney’s Office for the Southern District of Ohio and Regional Counsel for \nthe Social Security Administration through the CM/ECF system. After the \nAdministrative Record is filed, the Clerk shall remove the Social Security Identification \nForm from the docket. \nService will be considered complete when the CM/ECF system generates electronic \nservice of the Complaint and Social Security Identification Form on the U.S. Attorney’s \nOffice for the Southern District of Ohio and Regional Counsel for the Social Security \nAdministration. The U.S. Attorney’s Office for the Southern District of Ohio and the \nRegional Counsel for the Social Security Administration agree not to raise insufficient \nservice as a defense if service of those documents is made electronically through the \nCM/ECF system. The agreement not to raise insufficient service as a defense is \nintended to more efficiently move the processing of Social Security disability cases \nthrough the litigation life cycle. Nothing in S.D. Ohio Civ. R. 8.1(a) shall be deemed a \nwaiver of service under Fed. R. Civ. P. 4(d). Rule 8.1(a) does not apply to any other ",
+          "pages": [
+            17
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "19\ncomplaints or claims besides Social Security disability claims against the \nCommissioner of Social Security in his or her official capacity under 42 U.S.C. § \n405(g) or 42 U.S.C. § 1383(c)(3). \n(b) Answer. In all Social Security cases filed under 42 U.S.C. § 405(g) or 42 U.S.C. \n§ 1383(c)(3), the defendant must file and serve on the plaintiff a certified copy of the \nadministrative record within sixty days after service of the complaint, which copy shall \nserve as the answer. The defendant may raise any affirmative defense in a motion to \ndismiss, which may be filed instead of or contemporaneously with the administrative \nrecord. \n(c) Schedule. Within forty-five days after service of the administrative record, the plaintiff \nmust file and serve a statement of errors setting forth the bases upon which the plaintiff \nseeks reversal or remand. Within forty-five days following service of the statement of \nerrors, the defendant must file and serve a memorandum in opposition to the plaintiff’s \nstatement of errors. The plaintiff may file and serve a reply memorandum within fifteen \ndays of service of the defendant’s memorandum in opposition. All briefing must \ninclude references to the administrative record. \n(d) Pinpoint Citations. When citing to the administrative record in Social Security cases, \nparties must provide pinpoint citations to the administrative record, regardless of \nwhether a party also chooses to provide PageID citations. \n",
+          "pages": [
+            18
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 17,
+      "pageSpan": [
+        17,
+        18
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:10.1",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "10.1",
+      "citation": "Southern District of Ohio · Rule 10.1",
+      "title": "Procedure for Notification of Any Claim of Unconstitutionality",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "10.1 Procedure for Notification of Any Claim of Unconstitutionality \n(a) In any action, suit, or proceeding in which the United States or an agency, officer, or \nemployee thereof is not a party and in which the constitutionality of an Act of Congress \nis drawn into question, or in any action, suit, or proceeding in which a State or any \nagency, officer, or employee thereof is not a party and in which the constitutionality of \nany statute of that State is drawn into question, the party raising the constitutional issue \nshall notify the Court of the existence of the question by checking the appropriate box \non the Civil Cover Sheet and by stating on the pleading that alleges the \nunconstitutionality, immediately following the title of that pleading, “Claim of \nUnconstitutionality” or the equivalent. \n(b) Any notice provided under this Rule, or lack of notice, will not serve as a substitute for, \nor as a waiver of, any pleading requirement set forth in the Federal Rules of Civil \nProcedure or applicable statutes. \n",
+          "pages": [
+            18
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 18,
+      "pageSpan": [
+        18,
+        18
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:16.1",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "16.1",
+      "citation": "Southern District of Ohio · Rule 16.1",
+      "title": "Pretrial Procedures",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "16.1 Pretrial Procedures \nEach Judge of the District shall be responsible for determining the procedure and content \nof preliminary pretrial conferences, scheduling orders, and pretrial conferences under Fed. \nR. Civ. P. 16. In any notice of pretrial conference, the Clerk shall include a specific \nreference to the place on the Court’s website where a litigant can find any general or ",
+          "pages": [
+            18
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "20\nstanding order of any Judge or for any location of court that governs pretrial procedures \nand the content of pretrial conferences. \n",
+          "pages": [
+            19
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 18,
+      "pageSpan": [
+        18,
+        19
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:16.2",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "16.2",
+      "citation": "Southern District of Ohio · Rule 16.2",
+      "title": "Pretrial Scheduling Orders",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "16.2 Pretrial Scheduling Orders \nScheduling orders will be issued in conjunction with preliminary pretrial procedures \nestablished by the Judges of this Court, which normally will be implemented within ninety \ndays after the filing of an action. In any action assigned to a Magistrate Judge for that \npurpose, the Magistrate Judge is empowered to enter scheduling orders under Fed. R. Civ. \nP. 16(b) and to modify scheduling orders upon a showing of good cause. Unless otherwise \nordered, the following categories of cases shall be exempt, as inappropriate, from the \nrequirement that a scheduling order be issued under Fed. R. Civ. P. 16(b): \ni. Social Security disability matters; \nii. Habeas corpus petitions; \niii. Forfeitures; \niv. Foreclosures in which the United States is the plaintiff; \nv. General collection cases in which the United States is a plaintiff; \nvi. Actions brought pro se by persons in custody; \nvii. An action to enforce or quash an administrative summons or subpoena; and \nviii. A proceeding ancillary to a proceeding in another court. \n",
+          "pages": [
+            19
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 19,
+      "pageSpan": [
+        19,
+        19
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:16.3",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "16.3",
+      "citation": "Southern District of Ohio · Rule 16.3",
+      "title": "Alternative Dispute Resolution",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "16.3 Alternative Dispute Resolution \n(a) Evaluation of Cases for Alternative Dispute Resolution (“ADR”) \n(1) Upon request by any party or in its discretion and at such times during the progress \nof the case as appear appropriate, the Court may assign any civil case that is not \nexempted hereunder for one or more mediation conferences. With the consent of \nall parties, the Court will also consider assigning any case for any other type of \ndispute resolution process that is an alternative to traditional litigation, including a \nsummary jury trial. \n(2) Litigants shall consider the use of one or more ADR processes at the conference \nheld pursuant to Fed. R. Civ. P. 26(f). They shall also confer about structuring \ninitial discovery to focus potential settlement discussions most economically and \nefficiently. ",
+          "pages": [
+            19
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "21\n(3) The Court will consult with counsel at conferences held pursuant to Fed. R. Civ. P. \n16 about the application of ADR processes to the case. The Court may at any stage \nof any case convene a separate conference to be attended by the trial attorney and \neach party or their authorized representative to determine whether the issues of the \ncase, the needs and relationships of the parties, or other factors make further efforts \nat ADR appropriate. \n(b) Exclusion of Categories of Cases. Unless otherwise ordered in a specific case, the \ncategories of cases exempted from initial disclosure by Fed. R. Civ. P. 26(a)(1)(B) are \nalso exempt from assignment to mediation administered through this Court. Actions \nfor review on an administrative record and actions by the United States to recover \nbenefit payments or collect on student loans guaranteed by the United States may be \nassigned to such ADR proceedings as the ADR Coordinator at that location of the Court \ndeems prudent. \n(c) Confidentiality \n(1) In addition to Fed. R. Evid. 408 and any other applicable privilege, pursuant to 28 \nU.S.C. § 652(d), evidence of conduct or statements made in settlement negotiations \nis not admissible to prove liability for or the invalidity of a claim or its amount in \nthe case in which the settlement negotiations occur. In order to promote candor and \nprotect the integrity of this Court’s ADR processes, in addition to other protections \nafforded by law, all communications made by any person (including, but not limited \nto parties, counsel, and Judge or other neutral participants) during ADR \nproceedings conducted under the authority of this Court are confidential and are \nsubject to disclosure only as provided in subsection (c)(3) of this Rule. Any \nparticipant in the process, regardless of whether that participant is a party to the \ncase in which the ADR proceeding has been attempted or has occurred, may seek \nan order to prevent disclosure of any communication deemed confidential by this \nRule. \n(2) Communications deemed confidential by this Rule include, but are not limited to, \nstatements or expressive conduct occurring during the ADR proceeding itself, such \nas offers to compromise, statements about the value of a case or claim, statements \nabout the strength or weakness of a claim or defense, and statements concerning \nthe possible resolution of all or part of a case. Confidential communications also \ninclude communications made in connection with selecting an ADR process, \ninitiating the process, and selecting or retaining a mediator or other neutral. \n(3) Communication deemed confidential by this Rule may be disclosed, if such \ndisclosure is not otherwise prohibited by law or court order, only in the following \ncircumstances: \n(A) Following an actual or attempted ADR proceeding, neutrals are permitted to \nreport to the Court information intended to aid in further management of the \ncase, including: (i) whether the case has settled or may settle in the near future ",
+          "pages": [
+            20
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "22\nwithout further Court management; (ii) if the case has not settled, suggestions \nabout case management (such as the desirability of further pretrial discovery \nfollowed by the scheduling of additional ADR proceedings or followed by \nrulings on one or more issues); (iii) information about the parties’ conduct if \nthe neutral concludes that a party did not participate in good faith in the ADR \nproceeding or otherwise violated a court order or Disciplinary Rule related to \nthe proceeding; and (iv) any other information that the parties authorize the \nneutral to communicate to the Court; or \n(B) All participants to the ADR process, including parties, counsel, and neutrals, \nconsent in writing to the disclosure of the communication; or \n(C) A Judge assigned to the case determines that such disclosure is needed in \nconnection with possible sanctions for misconduct relating to the ADR \nproceeding; or \n(D) The Judge who would otherwise enter judgment in the case or, in the event of \nthe unavailability of that Judge, the Chief District Judge, conducts an in \ncamera hearing or comparable proceeding and determines that evidence of \nthe content of the communication is not otherwise available and that there is \na compelling need for the evidence that substantially outweighs the policy \nfavoring confidentiality and determines any of the following: (i) that the \nevidence will be used to establish or disprove a claim of criminal or \nprofessional misconduct or malpractice made against a neutral, counsel, or \nparty relating to the ADR proceeding; (ii) that the evidence will be used in a \nproceeding in which fraud, duress, or incapacity is at issue regarding the \nvalidity or enforceability of an agreement reached during the ADR \nproceeding; or (iii) that maintaining the confidentiality of the communication \nwill pose a significant threat to public health or safety; or \n(E) The disclosure is otherwise required by law. \n(d) Selection of Mediators and Other Neutrals \n(1) Each location of the Court shall maintain and regularly update a roster of \nappropriately experienced attorneys willing to serve as volunteer neutrals for the \nCourt’s ADR programs. A United States Magistrate Judge or Court employee at \neach location of the Court shall be designated by the Chief District Judge as the \n“ADR Coordinator” to implement, administer, oversee, and evaluate the Court’s \nADR programs at that location and to be primarily responsible for recruiting, \nscreening, and training attorneys to serve as neutrals for the Court pursuant to 28 \nU.S.C. § 651(d). \n(2) ADR Coordinators may coordinate scheduling, training of neutrals, and other \nfeatures of this Court’s ADR program with comparable state court ADR programs \nor bar association programs. ",
+          "pages": [
+            21
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "23\n(3) Volunteer mediators for ADR programs administered by the Court shall be \nappointed by the ADR Coordinator from the lists maintained at the location of the \nCourt where the case is pending. Counsel are encouraged to consult about the \nselection of a mediator and to propose the appointment of someone having \nfamiliarity with the subject matter of a particular case when that is deemed likely \nto improve the ADR process. \n(4) Before accepting appointment in any ADR proceeding conducted under the \nauthority of this Court, the neutral shall make inquiry reasonable under the \ncircumstances to determine whether there are facts that a reasonable person would \nconsider likely to affect his or her impartiality, including personal or financial \ninterest in the outcome of the proceeding, or existing or past relationships with a \nparty, counsel, or a significant, foreseeable witness to the dispute. The neutral shall \nconsider the factors set forth in 28 U.S.C. § 455. The neutral shall decline to \nparticipate in circumstances likely to be considered to affect impartiality, and if in \ndoubt, shall disclose facts known or learned to all counsel and pro se parties as soon \nas is practical. \n(5) In unusually complex cases or in other situations in which service as a neutral is \nanticipated to impose a significant time demand, parties are permitted (but not \nrequired) to agree among themselves and with the assigned neutral (other than a \nMagistrate Judge) to reasonably compensate such neutral. If the parties have \nmemorialized such an arrangement in writing, the Court may enter such orders as \nare just to enforce such a written agreement. \n(e) Remedies and Procedures Not Specified in this Rule \n(1) This Court, or any Division or location of this Court, may by general order provide \nsupplemental procedures for ADR that are not inconsistent with this Rule and \napplicable law. \n(2) Any Judge presiding in a civil case may, in that case, enter such orders as are lawful, \njust, and appropriate to administer fairly an ADR program suitably tailored to it. \n(3) Mediators and other neutrals used in ADR proceedings conducted by this Court \nshall control the proceedings before them. \n(4) Any breach or threatened breach of the confidentiality provisions of this Rule and \nany refusal to attend and participate in good faith by a party or counsel shall be \nreported to the presiding Judges who may, after notice, impose sanctions or make \nsuch other orders as are just. ",
+          "pages": [
+            22
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-24",
+          "path": [],
+          "type": "paragraph",
+          "text": "24\nIV. PARTIES \n",
+          "pages": [
+            23
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 19,
+      "pageSpan": [
+        19,
+        23
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:23.1",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "23.1",
+      "citation": "Southern District of Ohio · Rule 23.1",
+      "title": "Designation of “Class Action” in the Caption",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-24",
+          "path": [],
+          "type": "paragraph",
+          "text": "23.1 Designation of “Class Action” in the Caption \nA complaint or other pleading asserting a class action shall prominently include in its title \nthe designation “Class Action.” \n",
+          "pages": [
+            23
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 23,
+      "pageSpan": [
+        23,
+        23
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:23.2",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "23.2",
+      "citation": "Southern District of Ohio · Rule 23.2",
+      "title": "Class Action Allegations",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-24",
+          "path": [],
+          "type": "paragraph",
+          "text": "23.2 Class Action Allegations \nA complaint or other pleading asserting a class action shall contain sufficient allegations \nto identify the class and the claim as a class action, including, but not limited to: \n(a) The approximate size and definition of the alleged class; \n(b) The basis upon which the party or parties maintaining the class action or other parties \nclaimed to be representing the class are alleged to be adequate representatives of the \nclass; \n(c) The alleged questions of law and fact claimed to be common to the class; \n(d) The grounds upon which it is alleged that the claims or defenses of the representative \nparties are typical of the claims or defenses of the class; and \n(e) Allegations intended to support findings required by the respective subsections of Fed. \nR. Civ. P. 23(b)(1), (2), or (3). \n",
+          "pages": [
+            23
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 23,
+      "pageSpan": [
+        23,
+        23
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:23.3",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "23.3",
+      "citation": "Southern District of Ohio · Rule 23.3",
+      "title": "Motions for Determination as Class Action",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-24",
+          "path": [],
+          "type": "paragraph",
+          "text": "23.3 Motions for Determination as Class Action \nIn all cases with class action allegations, the parties shall include in their Fed. R. Civ. P. \n26(f) report proposed deadlines for completing discovery relevant to those allegations and \nfor filing a motion to certify a class, as well as a proposed date for the class action \ndetermination. No motion to certify a class shall be filed before the Rule 26(f) conference \nexcept by agreement of the parties or order of the Court. \nV. DEPOSITIONS AND DISCOVERY \n",
+          "pages": [
+            23
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 23,
+      "pageSpan": [
+        23,
+        23
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:26.1",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "26.1",
+      "citation": "Southern District of Ohio · Rule 26.1",
+      "title": "Form of Discovery Documents",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-24",
+          "path": [],
+          "type": "paragraph",
+          "text": "26.1 Form of Discovery Documents \n(a) Parties responding or objecting to discovery requests shall quote each such \ninterrogatory or request in full immediately preceding the statement of any answer, \nresponse, or objection thereto. A privilege log shall list documents, electronically \nstored information, communications, or tangible things withheld in an organized and \nlogical order and must contain sufficient information to enable an opposing party and \nthe Court to evaluate the applicability of the claimed privilege or protection. ",
+          "pages": [
+            23
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "25\n(b) The parties shall number each interrogatory, request, answer, response, or objection \nsequentially, regardless of the number of sets of interrogatories or requests, throughout \nthe entire course of the action. \n",
+          "pages": [
+            24
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 23,
+      "pageSpan": [
+        23,
+        24
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:30.1",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "30.1",
+      "citation": "Southern District of Ohio · Rule 30.1",
+      "title": "Depositions Outside of the Southern District of Ohio",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "30.1 Depositions Outside of the Southern District of Ohio \nAny motion under Fed. R. Civ. P. 30(d) and any proceeding under Fed. R. Civ. P. 30(b) \ninitiated or arising during the process of taking depositions outside of the Southern District \nof Ohio will be initiated or filed in this District and disposed of by the Judge responsible \nfor discovery. This Rule applies to proceedings initiated by a party to the action involved \nand does not apply to such proceedings initiated by a deponent (not a party or officer or \nemployee of a party or member of a partnership party). Although Fed. R. Civ. P. 30 extends \nthe option to apply to the District Court in the district where the deposition is being taken \nand that option may not be denied by this Rule, application in such other districts generally \ntends to increase unduly that other district’s work and to disrupt this Court’s scheduled \ndeadlines. Proceedings initiated in other districts in violation of this Rule may be subject \nto 28 U.S.C. § 1927 or other applicable sanctions. \n",
+          "pages": [
+            24
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 24,
+      "pageSpan": [
+        24,
+        24
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:36.1",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "36.1",
+      "citation": "Southern District of Ohio · Rule 36.1",
+      "title": "Requests for Admission",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "36.1 Requests for Admission \nUnless there has been agreement of the responding party or leave of Court has first been \nobtained, no party shall serve more than forty requests for admission (including all \nsubparts) upon any other party. \n",
+          "pages": [
+            24
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 24,
+      "pageSpan": [
+        24,
+        24
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:37.1",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "37.1",
+      "citation": "Southern District of Ohio · Rule 37.1",
+      "title": "Consultation Among Counsel; Informal Discovery Dispute Conference",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "37.1 Consultation Among Counsel; Informal Discovery Dispute Conference \nObjections, motions, applications, and requests relating to discovery shall not be filed in \nthis Court under any provision in Fed. R. Civ. P. 26 or 37 unless the parties have first \nexhausted among themselves all extrajudicial means for resolving their differences. After \nextrajudicial means for the resolution of differences about discovery have been exhausted, \nin lieu of immediately filing a motion under Fed. R. Civ. P. 26 or 37, any party may first \nseek an informal telephone conference with the Judge assigned to supervise discovery in \nthe case. \n",
+          "pages": [
+            24
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 24,
+      "pageSpan": [
+        24,
+        24
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:38.1",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "38.1",
+      "citation": "Southern District of Ohio · Rule 38.1",
+      "title": "Notation of “Jury Demand” in a Pleading",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "38.1 Notation of “Jury Demand” in a Pleading \nIf a party demands a jury trial by endorsing it on a pleading, as permitted by Fed. R. Civ. \nP. 38(b), a notation shall be placed on the front page of the pleading immediately following \nthe title of the pleading, stating “Demand for Jury Trial” or an equivalent statement. This \nnotation will serve as a sufficient demand under Fed. R. Civ. P. 38(b). ",
+          "pages": [
+            24
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "26\nVI. TRIALS \n",
+          "pages": [
+            25
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 24,
+      "pageSpan": [
+        24,
+        25
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:39.1",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "39.1",
+      "citation": "Southern District of Ohio · Rule 39.1",
+      "title": "Juror Note Taking",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "39.1 Juror Note Taking \nThe Court in its discretion may allow jurors to take notes of the testimony and to take such \nnotes into the jury room during deliberations. When jurors are told that they may take \nnotes, the Court may instruct them that notes are for their personal use only, that they are \nnot required to take them, that no one but the juror taking the notes will review the notes, \nthat the notes will be destroyed at the end of the case, and that they should leave the notes \nface down on their seats during breaks and at the end of each day. When the jury is \ndischarged, all jurors’ notes shall be collected by a Court employee and destroyed without \nreview of the notes. \n",
+          "pages": [
+            25
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 25,
+      "pageSpan": [
+        25,
+        25
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:41.1",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "41.1",
+      "citation": "Southern District of Ohio · Rule 41.1",
+      "title": "Assignment of Previously Dismissed Action",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "41.1 Assignment of Previously Dismissed Action \nIf an action is filed or removed to this Court and subsequently discontinued, dismissed \nwithout prejudice, or remanded to a state court and is then subsequently refiled or removed, \nthe new case shall be assigned or transferred to the same District Judge and Magistrate \nJudge who were assigned the initial case. Counsel or a pro se party shall be responsible \nfor bringing to the attention of the Court by notation on the civil cover sheet or otherwise \nany relationship between a new case and an earlier one. The Chief District Judge has \nauthority, pursuant to 28 U.S.C. § 137, to approve such exceptions to this assignment policy \nas are in the interests of justice. \n",
+          "pages": [
+            25
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 25,
+      "pageSpan": [
+        25,
+        25
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:43.1",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "43.1",
+      "citation": "Southern District of Ohio · Rule 43.1",
+      "title": "Examination of Witnesses",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "43.1 Examination of Witnesses \nAt the trial or hearing of an issue of fact, only one attorney for each party shall examine or \ncross-examine any witness, unless otherwise permitted by the Court. \n",
+          "pages": [
+            25
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 25,
+      "pageSpan": [
+        25,
+        25
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:43.2",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "43.2",
+      "citation": "Southern District of Ohio · Rule 43.2",
+      "title": "Attorney Testifying as Witness",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "43.2 Attorney Testifying as Witness \nIf any attorney anticipates that he or she or a member of the attorney’s firm may be required \nto testify as a witness under circumstances that would not require disqualification as \ncounsel under the applicable Rule of Professional Conduct, the attorney shall immediately \nnotify the Court and opposing counsel in writing and set forth: (1) the issues on which the \nattorney or a member of the attorney’s firm may be required to testify, and (2) a general \nplan for handling the testimony. \n",
+          "pages": [
+            25
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 25,
+      "pageSpan": [
+        25,
+        25
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:45.1",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "45.1",
+      "citation": "Southern District of Ohio · Rule 45.1",
+      "title": "Witness Fees",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "45.1 Witness Fees \nThe fees and mileage of witnesses shall be advanced by the party on whose behalf the \nwitness is subpoenaed, subject to recovery as costs at the end of the case if permitted by \napplicable law. ",
+          "pages": [
+            25
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "27\n",
+          "pages": [
+            26
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 25,
+      "pageSpan": [
+        25,
+        26
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:47.1",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "47.1",
+      "citation": "Southern District of Ohio · Rule 47.1",
+      "title": "Communication with Jurors",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "47.1 Communication with Jurors \nNo attorney, party, or anyone acting as agent or in concert with them connected with the \ntrial of an action shall personally, or acting through an investigator or other person, contact, \ninterview, examine, or question any juror regarding the verdict or deliberations of the jury \nin the action except with leave of the Court. \nVII. JUDGMENT \n",
+          "pages": [
+            26
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 26,
+      "pageSpan": [
+        26,
+        26
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:54.1",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "54.1",
+      "citation": "Southern District of Ohio · Rule 54.1",
+      "title": "Taxation of Costs",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "54.1 Taxation of Costs \nIf the prevailing party intends to file a bill of costs, the party must do so within forty-five \ndays from the entry of judgment unless a statute or Court order provides otherwise. A \nbill of costs must be prepared on Form AO 133, which is available on the Court’s \nwebsite, or in substantially similar form. The bill of costs must be verified in accordance \nwith 28 U.S.C. § 1924. The Clerk shall tax costs after all parties have had an opportunity \nto be heard on the bill of costs pursuant to the briefing schedule provided in S.D. Ohio \nCiv. R. 7.2. The Clerk may defer taxation of costs pending appeal. \n",
+          "pages": [
+            26
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 26,
+      "pageSpan": [
+        26,
+        26
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:54.2",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "54.2",
+      "citation": "Southern District of Ohio · Rule 54.2",
+      "title": "Motions for Attorney’s Fees",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "54.2 Motions for Attorney’s Fees \n(a) Unless a statute or court order provides otherwise, a motion for attorney’s fees under \nFed. R. Civ. P. 54 must be filed not later than forty-five days after the entry of judgment. \n(b) An attorney seeking fees awarded under 42 U.S.C. §§ 406(b) or 1383(d) of the Social \nSecurity Act must file a motion for fees no later than forty-five days after entry of \njudgment or the date shown on the face of the social security certificate award (notice \nof award), whichever is later. \n",
+          "pages": [
+            26
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 26,
+      "pageSpan": [
+        26,
+        26
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:55.1",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "55.1",
+      "citation": "Southern District of Ohio · Rule 55.1",
+      "title": "Defaults and Default Judgments",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "55.1 Defaults and Default Judgments \n(a) If a party makes proper service of a pleading seeking affirmative relief but, after the \ntime for making a response has passed without any response having been served and \nfiled, that party does not request the Clerk to enter a default, the Court may by written \norder direct the party to show cause why the claims in that pleading should not be \ndismissed for failure to prosecute. \n(b) If a party obtains a default but does not, within a reasonable time thereafter, file a \nmotion for a default judgment, the Court may by written order direct the party to show \ncause why the claims upon which default was entered should not be dismissed for \nfailure to prosecute. \n(c) Nothing in this Rule shall be construed to limit the Court’s power, either under Fed. R. \nCiv. P. 41 or otherwise, to dismiss a case or one or more claims or parties for failure to \nprosecute. ",
+          "pages": [
+            26
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "28\n",
+          "pages": [
+            27
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 26,
+      "pageSpan": [
+        26,
+        27
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:58.1",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "58.1",
+      "citation": "Southern District of Ohio · Rule 58.1",
+      "title": "Entry of Court Orders",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "58.1 Entry of Court Orders \n(a) All orders, decrees, judgments, and proceedings of the Court filed in accordance with \nthese Rules using the ECF system will constitute entry on the docket kept by the Clerk \nunder Fed. R. Civ. P. 58 and 79. All signed orders shall be filed electronically. Any \norder filed electronically without the original signature of a Judge has the same force \nand effect as if the Judge had affixed his or her signature to a paper copy. \n(b) A Filing User submitting a document electronically that requires the signature of a \nJudge shall promptly deliver the document in such form as the Court requires. \nVIII. PROVISIONAL AND FINAL REMEDIES AND SPECIAL PROCEEDINGS \n",
+          "pages": [
+            27
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 27,
+      "pageSpan": [
+        27,
+        27
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:65.1",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "65.1",
+      "citation": "Southern District of Ohio · Rule 65.1",
+      "title": "Temporary Restraining Orders and Preliminary Injunctions",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "65.1 Temporary Restraining Orders and Preliminary Injunctions \n(a) Procedure for Hearing. In most cases, the Court will not hear or rule on any motion \nfor a temporary restraining order or a preliminary injunction until after the Court holds \nan informal preliminary conference with all parties to determine what additional \nproceedings are necessary. The movant shall obtain, from the office of the Judge to \nwhom the action is assigned, a date and time for the informal conference and shall \nimmediately notify counsel for the adverse party, if known, or if not known, the adverse \nparty, that the application has been filed or is to be filed and the date, time, and location \nof the conference. The trial attorney shall also comply with the service requirements \nof subsection (b). \n(b) Form of and Service of Motions. Motions for temporary restraining orders or \npreliminary injunctions shall be made in pleadings separate from the complaint and in \naccordance with this Rule. Motions shall be accompanied by a certificate of the trial \nattorney or other proof satisfactory to the Court that: (1) the motion and all other filings \nin the action have been served upon the adverse party’s attorney, if known, or if not \nknown, then the adverse party; (2) reasonable efforts to accomplish the service of the \nmotion and other filings have been made; or (3) the reasons, in affidavit form, why such \nservice cannot or need not be made or be required. \n(c) Absence of Assigned Judge. In the event that the Judge to whom the action is assigned \nis not reasonably available to act upon a motion that requires immediate attention, the \nmovant shall request the Clerk to assign the matter, temporarily, to another Judge who \nis available and who consents to hear the matter. The assignment of any matter in this \nmanner shall not constitute a permanent reassignment of the action from the originally \nassigned Judge. \n",
+          "pages": [
+            27
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 27,
+      "pageSpan": [
+        27,
+        27
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:66.1",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "66.1",
+      "citation": "Southern District of Ohio · Rule 66.1",
+      "title": "Election-Related Matters",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "66.1 : Election-Related Matters \nThis Rule is to ensure, to the extent practicable, that parties do not use the CM/ECF case￾assignment system to direct a particular matter to, or away from, a specific Judicial ",
+          "pages": [
+            27
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "29\nOfficer and to enhance transparency with regard to Election-Related Matter case \nassignments. \n(a) Scope of Rule. An “Election-Related Matter” includes, without limitation, matters \ndirected at polling place procedures, ballot tabulation procedures or methodologies, or \nvoter registration or ballot access issues. For purposes of this Rule, a matter will be \ndesignated as an Election-Related Matter if it is (1) a matter filed in which the filing \nparty has indicated the filing in CM/ECF is an election-related issue, or (2) a matter in \nwhich any form of preliminary injunctive relief is sought and which involves \nelection-related issues, even if the filing is not identified as election-related in \nCM/ECF. \n(b) Assignment of Election-Related Matters. For an Election-Related Matter, normal \nCM/ECF and case management policies and procedures will be modified as follows: \n(1) Each Election-Related Matter designated as such at the time of filing will be \nassigned to a District Judge per the standard CM/ECF random-assignment \nprocess. \n(2) Local Rule 3.1(b) will not apply to Election-Related Matters, and the presumption \nwill be that an Election Related Matter will remain with the Judicial Officer to \nwhom the case was originally assigned. \n",
+          "pages": [
+            28
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 27,
+      "pageSpan": [
+        27,
+        28
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:67.1",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "67.1",
+      "citation": "Southern District of Ohio · Rule 67.1",
+      "title": "Bond Requirements in General",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "67.1 Bond Requirements in General \nIn all civil actions and criminal proceedings, the Clerk shall accept as surety, upon bonds \nand other undertakings, a surety company approved by the Treasury Department, cash, or \nan individual personal surety residing within this District. Unless otherwise ordered by the \nCourt, any personal surety must qualify as the owner of real estate within this District equal \nin value to the full net value of the face amount of the bond. Attorneys or other officers of \nthis Court shall not serve as sureties. \nIX. DISTRICT COURT AND CLERK \n",
+          "pages": [
+            28
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 28,
+      "pageSpan": [
+        28,
+        28
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:72.1",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "72.1",
+      "citation": "Southern District of Ohio · Rule 72.1",
+      "title": "Magistrate Judges",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "72.1 Magistrate Judges \nAll Magistrate Judges may perform any of the duties authorized by 28 U.S.C. § 636(a), (b), \nor (c). All Magistrate Judges are specially designated within the meaning of 18 U.S.C. § \n3401(a) to try persons accused of and to sentence persons convicted of misdemeanor \noffenses. All Magistrate Judges are specifically designated within the meaning of 28 \nU.S.C. § 636(c)(1) to conduct any and all proceedings in jury or non-jury civil matters, to \norder entry of judgment, and to adjudicate any post-judgment matters. \n",
+          "pages": [
+            28
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 28,
+      "pageSpan": [
+        28,
+        28
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:72.2",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "72.2",
+      "citation": "Southern District of Ohio · Rule 72.2",
+      "title": "Assignment of Duties to Magistrate Judges",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "72.2 Assignment of Duties to Magistrate Judges \nIndividual District Judges at each location of the Court may, in their discretion, request \nMagistrate Judges to perform such duties as are not inconsistent with the Constitution and \nlaws of the United States. Nothing in this Rule shall prevent a District Judge from filing ",
+          "pages": [
+            28
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "30\norders establishing procedures governing the formal reference of cases to Magistrate \nJudges by individual District Judges or the District Judges of a particular location of this \nCourt. \n",
+          "pages": [
+            29
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 28,
+      "pageSpan": [
+        28,
+        29
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:72.3",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "72.3",
+      "citation": "Southern District of Ohio · Rule 72.3",
+      "title": "Effect of Magistrate Judge Ruling Pending Appeal to a District Judge",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "72.3 Effect of Magistrate Judge Ruling Pending Appeal to a District Judge \nWhen an objection is filed to a Magistrate Judge’s ruling on a non-case dispositive motion, \nthe ruling remains in full force and effect unless and until it is (1) stayed by the Magistrate \nJudge or a District Judge, or (2) overruled by a District Judge. \n",
+          "pages": [
+            29
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 29,
+      "pageSpan": [
+        29,
+        29
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:77.1",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "77.1",
+      "citation": "Southern District of Ohio · Rule 77.1",
+      "title": "Notice of Orders",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "77.1 Notice of Orders \nImmediately upon the entry of an order or judgment in a proceeding on the ECF system, \nthe Clerk will transmit to Filing Users in the case, in electronic form, a Notice of Electronic \nFiling. Electronic transmission of such Notice constitutes the notice required by Fed. R. \nCiv. P. 77(d). In accordance with the Federal Rules of Procedure, the Clerk shall give \nnotice in paper form to a person who has not consented to electronic service. \n",
+          "pages": [
+            29
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 29,
+      "pageSpan": [
+        29,
+        29
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:77.2",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "77.2",
+      "citation": "Southern District of Ohio · Rule 77.2",
+      "title": "Funds",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "77.2 Funds \nThe following procedures apply to deposits into the registry of the court in civil actions. \n(a) Receipt of Funds \n(1) No money may be sent to the court or its officers for deposit into the court’s registry \nwithout an order by a judicial officer. \n(2) All money ordered to be paid to the court or received by its officers in any case \npending or adjudicated shall be deposited with the Treasurer of the United States in \nthe name and to the credit of this court pursuant to 28 U.S.C. § 2041 through \ndepositories designated by the Treasury to accept such deposit on its behalf. \n(3) The party making the deposit or transferring funds to the court’s registry shall serve \nthe order permitting the deposit or transfer to the clerk. \n(b) Investment of Registry Funds \n(1) Funds on deposit with the court will be placed in interest-bearing instruments in the \nCourt Registry Investment System (CRIS) administered by the Administrative \nOffice of the United States Courts, which is the only investment mechanism \nauthorized. \n(2) Under CRIS, monies deposited in each case under S. D. Ohio Civ. R. 77.2(a) shall \nbe “pooled” together with those on deposit with the Treasury to the credit of other \ncourts in CRIS and used to purchase Government Account Series securities through \nthe Bureau of Public Debt, which will be held at Treasury, in an account in the \nname and to the credit of the Director of the Administrative Office of the United \nStates Courts, hereby designated custodian for the CRIS. \n(3) An account for each case will be established in CRIS titled in the name of the case \ngiving rise to the investment in the fund. Income generated from fund investment \nwill be distributed to each case based on the ratio each account’s principal and ",
+          "pages": [
+            29
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "31\nearnings has to the aggregate principal and income total in the fund. Reports \nshowing the interest earned and the principal amounts contributed in each case will \nbe prepared and distributed to each court participating in CRIS and made available \nto litigants and/or their counsel. \n(c) Deductions of Fees \n(1) The custodian is authorized and directed by this rule to deduct the registry fee for \nmaintaining accounts in CRIS and the investment service fee for the management \nof investments. The proper registry fee is to be determined on the basis of the rates \npublished by the Director of the Administrative Office of the United States as \napproved by the Judicial Conference. The investment services fee is assessed from \ninterest earned according to the court’s Miscellaneous Fee Schedule. \n(2) If registry fees were assessed against the case under the old 45-day requirement \nprior to deposit in CRIS, no additional registry fee will be assessed. \n",
+          "pages": [
+            30
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 29,
+      "pageSpan": [
+        29,
+        30
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:79.1",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "79.1",
+      "citation": "Southern District of Ohio · Rule 79.1",
+      "title": "Custody of Files and Exhibits",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "79.1 Custody of Files and Exhibits \nOriginals of papers filed with this Court shall not be withdrawn from the files, except upon \norder of the Court. \n",
+          "pages": [
+            30
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 30,
+      "pageSpan": [
+        30,
+        30
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:79.2",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "79.2",
+      "citation": "Southern District of Ohio · Rule 79.2",
+      "title": "Disposition of Exhibits, Depositions, and Other Materials",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "79.2 Disposition of Exhibits, Depositions, and Other Materials \nUnless otherwise ordered by the Court, counsel shall retrieve exhibits or other materials \nfiled in an action or offered into evidence within six months after final termination of the \naction. The Clerk shall dispose of all such material at the expiration of the retrieval period. \n",
+          "pages": [
+            30
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 30,
+      "pageSpan": [
+        30,
+        30
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:79.3",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "79.3",
+      "citation": "Southern District of Ohio · Rule 79.3",
+      "title": "Control of Exhibits",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "79.3 Control of Exhibits \nUnless otherwise ordered, any weapon, controlled substance, or item of substantial value \nthat is introduced as evidence during a hearing or trial shall be returned each evening for \nsafe keeping to the agent or party introducing such evidence. It is the responsibility of the \nagent or party to maintain such evidence in a secure manner during the trial and while any \nappeal is pending or until S.D. Ohio Civ. R. 79.2 has been satisfied. \nX. VENUE; GENERAL PROVISIONS \n",
+          "pages": [
+            30
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 30,
+      "pageSpan": [
+        30,
+        30
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:82.1",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "82.1",
+      "citation": "Southern District of Ohio · Rule 82.1",
+      "title": "Venue of Actions within the District",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "82.1 Venue of Actions within the District \n(a) Scope of this Rule. The filing of actions properly venued within this District shall be \ngoverned by the following rules, subject to the jurisdictional and venue requirements \nof all statutes, both general and specific. \n(b) Location of Court. For venue purposes, the area served by each location of Court \nconsists of the following counties: ",
+          "pages": [
+            30
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "32\nEastern Division: Columbus: Athens, Belmont, Coshocton, Delaware, Fairfield, \nFayette, Franklin, Gallia, Guernsey, Harrison, Hocking, \nJackson, Jefferson, Knox, Licking, Logan, Madison, Meigs, \nMonroe, Morgan, Morrow, Muskingum, Noble, Perry, \nPickaway, Pike, Ross, Union, Vinton, and Washington. \nEastern Division: Steubenville: The Jury Plan of the District provides that a District \nJudge may try a case in the Eastern Division in Steubenville or \nany other location in the counties of Belmont, Guernsey, \nJefferson, Harrison, Monroe, Morgan, Noble, or Washington, \nwith prospective jurors to be drawn from the aforementioned \neight counties. \nWestern Division: Cincinnati: Adams, Brown, Butler, Clermont, Clinton, Hamilton, \nHighland, Lawrence, Scioto, and Warren. \nWestern Division: Dayton: Champaign, Clark, Darke, Greene, Miami, \nMontgomery, Preble, and Shelby. \n(c) Resident Defendant(s). An action against a defendant or defendants resident in this \nDistrict shall be filed at the location of Court that serves a county in which at least one \ndefendant resides. \n(d) Corporate Residence, Venue When Indeterminate. A corporation that is deemed to \nreside in this District pursuant to 28 U.S.C. § 1391(c) is further deemed to reside in that \ncounty in which its principal place of business within the District is located, or, if none, \nin that county with which it has the most significant contacts. If such a corporation’s \ncounty of residence cannot be determined under this Rule, an action against such \ncorporation shall be filed at a location of Court determined in accordance with the \nfollowing Rules, in order of preference: (1) a county in which a substantial part of the \nevents or omissions giving rise to the claim occurred or a substantial part of the property \nthat is the subject to the action is located; or (2) any location of Court. \n(e) Nonresident Defendant(s). If no defendant is a resident of this District, an action shall \nbe filed at the location of Court serving a county in which a substantial part of the \nevents or omissions giving rise to the claim occurred or a substantial part of the property \nthat is the subject of the action is located. \n(f) Habeas Corpus Actions. A habeas corpus action shall be filed at the location of Court \nthat serves the county in which the state-court judgment that is the subject of the habeas \npetition was filed. ",
+          "pages": [
+            31
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "33\n",
+          "pages": [
+            32
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 30,
+      "pageSpan": [
+        30,
+        32
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:83.1",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "83.1",
+      "citation": "Southern District of Ohio · Rule 83.1",
+      "title": "Free Press - Fair Trial Provisions",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "83.1 Free Press - Fair Trial Provisions \n(a) Disclosure of Information by Court Personnel. No employee of this Court may \ndisclose any information relating to a pending proceeding before this Court that is not \npart of the public records of this Court. This Rule specifically prohibits the disclosure \nof information concerning grand jury proceedings, in camera proceedings, and \nproceedings held in chambers. \n(b) Orders in Special Cases. This Court may in appropriate cases issue special orders \ngoverning any conduct likely to interfere with the rights of the parties to a fair trial. \n",
+          "pages": [
+            32
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 32,
+      "pageSpan": [
+        32,
+        32
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:83.2",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "83.2",
+      "citation": "Southern District of Ohio · Rule 83.2",
+      "title": "Courtroom and Courthouse Security and Decorum",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "83.2 Courtroom and Courthouse Security and Decorum \n(a) No person may, without permission of the Court, use any device to make an audio or visual \nrecording, or take photographs, on any floor of a United States courthouse where judicial \nproceedings are being conducted or within courtrooms, chambers, or ancillary portions of \nstate courthouses or other buildings while in use by this Court under agreement with local \nauthorities, or transmit the audible or visual content of any judicial proceeding to any other \nperson, except a judge authorizing broadcasting, televising, recording, or taking photographs \nin the courtroom and in adjacent areas during an investiture, naturalization or other \nceremonial proceedings. A judge may authorize such activities in the courtroom or adjacent \nareas during other proceedings, or recesses between such proceedings, only: a) for the \npresentation of evidence; b) for the perpetuation of the record of the proceedings; c) for \nsecurity purposes; d) for other purposes of judicial administration; e) for the photographing, \nrecording or broadcasting of appellate arguments; or f) consistent with pilot programs \napproved by the Judicial Conference (JCUS-SEP 2010, at 11-12). In addition, a judge \npresiding over a civil or bankruptcy non-trial proceeding, may, in the judge’s discretion, \nauthorize live remote public audio access to any portion of that proceeding in which a witness \nis not testifying. This policy does not create any right of any party or the public to live \nremote public audio access to any proceeding. \n(b) Persons in possession of any device capable of recording or transmitting to \nanother person audio, video, or photographs, upon entering a building in which \njudicial proceedings are being conducted by this Court, must disclose such device to \nsecurity personnel. Such devices include, but are not limited to, cellular phones, \nsmartphones, smartwatches, tablets (such as iPads), and laptop computers. All such \ndevices are subject to inspection upon entry to such buildings. \n(c) Subject to the exemptions set forth in subsection (e) below, all cellular telephones, \nsmartphones, smartwatches, cameras, and similarly sized personal electronic devices \nshall be turned off in the presence of Court Security Officers upon entry to the \nColumbus, Cincinnati, or Dayton courthouses (except that the operation of this rule in \nthe Dayton courthouse shall be subject to subsection (f) below). Once off, the devices \nshall be placed in a locked pouch provided by the Court Security Officers. The device \nshall remain in the locked pouch in the possession of the owner while in the building. \nLarger devices, such as tablets or laptop computers, or any other covered device that \ndoes not fit in a locked pouch, are not permitted in the building. Visitors entering with \nsuch devices will be instructed to leave the courthouse and store the devices before ",
+          "pages": [
+            32
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "34\nreturning to enter. Visitors are not permitted to leave the devices with Court Security \nOfficers. \n(d) The locked pouch may not be intentionally opened, damaged, or tampered with \nwhile in the visitor’s possession, except that the pouch may be opened, and the device \nremoved, at the direction of the Court or other agency personnel. The locked pouch \nmust be returned to the Court Security Officers before leaving the building. At that \ntime, the personal electronic device will be removed from the pouch and returned to \nthe owner. Intentional damage to, or theft of, the locked pouch will subject the device \nowner to possible criminal penalties. \n(e) Unless otherwise authorized by a judge, only the following persons shall be exempt from \nthe operation of this rule with regard to their personal electronic devices: \n(1) All attorneys with a valid bar identification card, or other documentation, or \ncredentials of the U.S. Department of Justice or the Office of the Federal Public \nDefender, along with any paralegals or support personnel accompanying the \nsame; \n(2) Summoned and seated petit or grand jurors, subject to any restrictions imposed by \nthe presiding judge; \n(3) Judicial officers, employees of the U.S. District Court or the U.S. Court of \nAppeals for the Sixth Circuit, and any other federal court employees on official \nbusiness with valid court-issued identification; \n(4) Volunteer law clerks, externs, or interns for the U.S. District Court or the U.S. \nCourt of Appeals for the Sixth Circuit with valid court-issued identification or \ndocumentation; \n(5) Law enforcement officials (whether federal, state, or local) on official business \nwith valid identification or badge; \n(6) Employees of delivery services, courier services, and law firm couriers who \nfrequent the courthouse on official business with valid identification and \ndocumentation; \n(7) GSA employees and Contractors cleared by the GSA or escorted by GSA or by \nCourt staff; \n(8) Credentialed members of the press. For purposes of this policy, the term \n“credentialed members of the press” means a representative from a newspaper or \nother periodical issued at regular intervals whether in print or electronic format, a \nnews service whether in print or electronic format, a radio station, a television \nstation, a television network, a community antenna television service, or a person \nengaged in making news reels or other motion picture news for public showing. ",
+          "pages": [
+            33
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "35\nEnrollment as a student in a journalism or media program alone is not sufficient \ncriteria;\n(9) Persons who report they are attending naturalization ceremonies on days on which \nnaturalization ceremonies are scheduled will be allowed to keep smartphones, \nsmartwatches, and cameras for the sole purpose of taking photos at those \nceremonies; and \n(10) Courthouse tour participants. \nExcept that all exempted personnel shall still comply with the bans of photography, \nbroadcasting, and recording and shall not allow their cameras or personal electronic devices \nto be used by others in violation of any law, rule, or judicial order. \n(f) Dayton Courthouse: Because the Dayton Courthouse also houses other non-judicial \nagencies, the operation of this policy shall be modified in that courthouse as follows. Court \nSecurity Officers will inquire of visitors whether they are entering the building for court￾related purposes, including visiting Pretrial Services or Probation, or instead to visit one of \nthe federal agencies in the building. If the person reports that they are at the building for \ncourt-related purposes, then this policy shall apply to them as above. Otherwise, they shall \nnot be asked to surrender their personal electronic devices. \n(g) Unless expressly permitted by the presiding Judge, no electronic device that is capable of \nrecording or transmitting to another person audio, video, or photographs or that might be \nused to record deliberations or communicate outside the jury room (including without \nlimitation laptop computers and other mobile electronic devices) may be taken into a jury \nroom during jury deliberations. \n(h) The Courthouse Security Committee for each United States courthouse may promulgate \nsuch further requirements and restrictions as are deemed necessary and that are consistent \nwith this Rule. Nothing herein shall limit the discretion of a Judge to permit special \narrangements or to order specific requirements or restrictions on the possession or use of \nelectronic devices in connection with a particular case before that Judge. \n(i) Firearms or Other Dangerous Weapons. Except as directed by the Court, or as follows, \nfirearms and other dangerous weapons, including but not limited to, explosives, pepper spray, \nincendiary devices, and knives brought into a Facility will be confiscated by the United \nStates Marshals Service, except as follows: \n1. Employees of the United States Marshals Service, including Court Security Officers, \nwho are authorized by law and agency regulations to carry firearms, may possess \nfirearms within this Facility. \n2. Employees of the United States Probation Office, who are authorized by law and \nagency regulations to carry firearms in the performance of their official duties, may \npossess firearms in these Facilities to the extent necessary to transport such firearms \nby the most direct route available to and from the offices of the Probation ",
+          "pages": [
+            34
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "36\nDepartment. In accordance with regulations of the Probation Department, all \nfirearms shall be secured while present in the Facilities and within the offices of the \nProbation Department. The Chief Probation Officer will notify the United States \nMarshals Service, in writing, of the names of the officers with the authorization to \ncarry firearms. \n3. United States Federal Protective Service Offices and their contract security officers of \nthe Department of Homeland Security, who are authorized by law and agency \nregulations to carry firearms in the performance of their official duties, may possess \nfirearms in these Facilities. \n4. Employees of the United States Pretrial Services, who are authorized by law and \nagency regulations to carry firearms in the performance of their official duties, may \npossess firearms in these Facilities to the extent necessary to transport such firearms \nby the most direct route available to and from the office of Pretrial Services. In \naccordance with the regulations of the United States Pretrial Services Department, all \nfirearms shall be secured while present in a Facility within the offices of Pretrial \nServices. The Chief Pretrial Services Officer will notify the United States Marshals \nService, in writing, of the names of officers with the authorization to carry firearms. \n5. Agents, officers and inspectors of all federal law enforcement agencies who are \nauthorized by law and agency regulations to make arrests and carry firearms in the \nperformance of their official duties may be armed in these Facilities only under the \nfollowing circumstances: \na. While transporting a defendant/prisoner for an initial appearance before a \nMagistrate Judge and/or an authorized purpose in the United States Attorney’s \nsatellite office. In such circumstances, a call prior to arrival at a Facility must \nbe placed by the agent, inspector or representative of same to the United \nStates Marshals Service advising that an armed agency or inspector of that \nagency will be transporting a prisoner into a Facility. Additional internal \npolicy, developed by the United States Marshals Service, will be required \n(such as lapel pins, entry log signature, etc.). \n6. State and Local Law Enforcement Officers, while in uniform, may enter and retain \ntheir weapons while investigating/responding to a reported crime within a Facility, or \nwhen responding to an emergency situation when authorized by the United States \nMarshal or her or his designee. The United States Marshal will inform the Chief \nJudge for the Southern District of Ohio and the local head of the relevant Facility \nSecurity Committee as soon as reasonably possible when such an authorization has \nbeen made. \nThis Rule is applicable regardless of whether the Court is in session. ",
+          "pages": [
+            35
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-37",
+          "path": [],
+          "type": "paragraph",
+          "text": "37\n",
+          "pages": [
+            36
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 32,
+      "pageSpan": [
+        32,
+        36
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:83.3",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "83.3",
+      "citation": "Southern District of Ohio · Rule 83.3",
+      "title": "Admission to the Bar",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-37",
+          "path": [],
+          "type": "paragraph",
+          "text": "83.3 Admission to the Bar \n(a) Roll of Attorneys. The permanent bar of this Court consists of those attorneys \nadmitted, in accordance with these Rules or by order of this Court, to practice in this \nCourt. Attorneys admitted pro hac vice are not permanent members of the bar of this \nCourt. \n(b) Eligibility. Any member in good standing of the bar of the Supreme Court of Ohio is \neligible for admission as a permanent member of the bar of this Court. \n(c) Application for Permanent Admission\n(1) Other than those eligible under subsections (c)(2), (c)(3) or (c)(4) of this Rule, an \napplicant seeking to become a permanent member of the bar of this Court, must: \n(i) attend the Southern District of Ohio Federal Practice Seminar; (ii) file with the \nClerk an application for admission on the form approved by the Court; (iii) provide \na current certificate of good standing from the Supreme Court of Ohio; (iv) remit \nthe admission fee; and (v) affirmatively certify that he or she is familiar with the \nCourt’s ECF system. \n(2) An applicant who is a member of the permanent bar of the United States District \nCourt for the Northern District of Ohio for at least two years immediately preceding \nhis or her application to become a member of the bar of this Court must: (i) file \nwith the Clerk an application for admission on the form approved by the Court; (ii) \nprovide current certificates of good standing from the Supreme Court of Ohio and \nfrom the United States District Court for the Northern District of Ohio; (iii) remit \nthe admission fee; and (iv) affirmatively certify that he or she is familiar with the \nCourt’s ECF system. \n(3) Attorneys for the United States who are authorized by statute to appear in all federal \ncourts, the federal public defender and assistant federal public defenders are \npermitted to appear in this Court upon: (i) filing an application for admission on \nthe form approved by the Court ; (ii) providing a current certificate of good standing \nfrom the highest court of all States in which the attorney is admitted to practice; \nand (iii) registering with this Court for electronic filing. \n(4) Any attorney previously disbarred or suspended from the bar of this Court must \nremit any applicable fee and comply with the Reinstatement Procedures set forth in \nthe Model Federal Rules of Disciplinary Enforcement, as adopted by this Court. \n(d) Federal Practice Seminar. At least twice annually, the Federal Bar Association \nchapter at each location of Court shall conduct a Federal Practice Seminar covering \npractice topics frequently encountered in this Court. \n(e) Motions for Leave to Appear Pro Hac Vice. In its discretion, the Court may grant \nleave to appear pro hac vice to any attorney who is a member in good standing of the ",
+          "pages": [
+            36
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-38",
+          "path": [],
+          "type": "paragraph",
+          "text": "38\nbar of the highest court of any State or the District of Columbia. Any attorney seeking \nthis type of admission must do so by: (i) filing a motion for admission on the form \napproved by the Court in each case in which the attorney wishes to appear, with the \nmotion signed by a permanent member of the bar; (ii)providing a certificate of good \nstanding from the highest court of a State or the District of Columbia that has been \nissued not more than six months prior to the date of the motion; and (iii) remitting any \napplicable admission fee. \n(f) Any attorney admitted pro hac vice is subject to the same requirements as are \npermanent members of the bar of this Court. The Court may, in accordance with \ngoverning substantive law, revoke an attorney’s pro hac vice status at any time. Unless \notherwise ordered, an attorney admitted pro hac vice may not serve as the Trial \nAttorney for any party. \n(g) Fees\n(1) Any application for admission or reinstatement or motion for pro hac vice \nadmission must be accompanied by such fees as are prescribed by the Judicial \nConference of the United States and by order of this Court. \n(2) No permanent bar admission or pro hac vice admission fees shall be collected from \nattorneys representing governmental agencies of the United States or its \ngovernmental agencies, attorneys employed by the Ohio Attorney General’s Office, \nthe federal public defender, assistant federal public defenders, or attorneys \nemployed by the Ohio Public Defender who appear in either civil or criminal \nmatters. \n(3) All bar admission application fees collected by the Clerk shall be deposited for the \nuse of the bar and the Court in the Court’s Attorney Admission Fund to be used for \nsuch purposes as inure to the benefit of the bench and bar in the administration of \njustice within this District as determined to be appropriate by the Court. \n(h) Disciplinary Enforcement. The conduct of attorneys admitted to practice before this \nCourt, including attorneys admitted pro hac vice, and the supervision of their conduct \nby this Court, is governed by the Model Federal Rules of Disciplinary Enforcement \n(with the exception of Rules XI and XII). (See Appendix to these Rules.) ",
+          "pages": [
+            37
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "39\n",
+          "pages": [
+            38
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 36,
+      "pageSpan": [
+        36,
+        38
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:83.4",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "83.4",
+      "citation": "Southern District of Ohio · Rule 83.4",
+      "title": "Designation of Trial Attorney; Withdrawal or Substitution of Counsel",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "83.4 Designation of Trial Attorney; Withdrawal or Substitution of Counsel \n(a) Designation of Trial Attorney. Unless otherwise ordered, in all actions filed in, \ntransferred to, or removed to this Court, all parties other than pro se parties must be \nrepresented at all times by a “Trial Attorney” who is a permanent member in good \nstanding of the bar of this Court. Each filing made on behalf of such parties shall \nidentify and be signed by the Trial Attorney. The Trial Attorney shall attend all \nhearings, conferences, and the trial itself unless excused by the Court from doing so. \nAdmission pro hac vice does not entitle an attorney to appear as a party’s Trial \nAttorney, but the Court may, in its discretion and upon motion that shows good cause, \npermit an attorney who has been so admitted to act as the Trial Attorney. \n(b) Withdrawal or Substitution of Counsel of Record. No attorney of record may \nwithdraw, nor may any other attorney file an appearance as a substitute for an attorney \nof record without first: (i) providing written notice to the client, to all counsel including \nthe withdrawing attorney and any unrepresented parties, and (ii) obtaining leave of \nCourt. However, attorneys from the same firm or governmental agency may file and \nserve a notice of appearance or substitution for an attorney of record without obtaining \nleave of Court. \n",
+          "pages": [
+            38
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 38,
+      "pageSpan": [
+        38,
+        38
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:83.5",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "83.5",
+      "citation": "Southern District of Ohio · Rule 83.5",
+      "title": "Signatures on Filings",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "83.5 Signatures on Filings \n(a) Signing of Documents. All documents filed on behalf of a party represented by \ncounsel shall be signed by one attorney followed by the designation “Trial Attorney,” \ntogether with his or her name, full office address, telephone number and area code, \nand email address. Ohio Supreme Court Registration numbers shall be included \nimmediately after the name of Ohio counsel in the signature and address block on all \nfilings. \n(b) Filing Users. Attorneys admitted to the permanent bar of this Court and those admitted \npro hac vice shall, unless otherwise ordered, register as Filing Users of this Court’s \nECF system. If the Court permits, a party to a pending proceeding who is not \nrepresented by an attorney may register as a Filing User solely for the purposes of that \naction. If an attorney appears on that party’s behalf thereafter, that attorney shall advise \nthe Clerk promptly following that attorney’s appearance to terminate the party’s \nregistration as a Filing User. \n(c) Electronic Signature. The actual signature of a Filing User shall be represented, for \nECF purposes, by “s/” followed by the typed name of the attorney or other Filing User. \nSignature in such a manner is equivalent to a hand-signed signature for all purposes, \nincluding Fed. R. Civ. P. 11 or any other rule or statute. \n(d) Signature for Another Attorney. When a Filing User signs on behalf of another \nattorney, the full signature (not initials) of each must appear: e.g., “s/ Joan Doe by s/ \nRichard Roe per telephone authorization.” ",
+          "pages": [
+            38
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-40",
+          "path": [],
+          "type": "paragraph",
+          "text": "40\n(e) Unauthorized Use of Passwords Prohibited. No Filing User or other person shall \nknowingly permit or cause a Filing User’s password to be used by anyone other than \nan authorized agent of the actual Filing User. \n",
+          "pages": [
+            39
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 38,
+      "pageSpan": [
+        38,
+        39
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohsd-civil:83.6",
+      "collectionId": "ohsd-civil",
+      "districtId": "ohsd",
+      "number": "83.6",
+      "citation": "Southern District of Ohio · Rule 83.6",
+      "title": "Student Practice Rule",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-40",
+          "path": [],
+          "type": "paragraph",
+          "text": "83.6 Student Practice Rule \n(a) Compliance with Rule. A law student who is employed by or utilized by the Federal \nPublic Defender or the United States Attorney or their designees, or who is enrolled in \na law school clinical program, may participate as a legal intern in civil and non-felony \ncases in this Court subject to his or her compliance with all of the requirements of this \nRule. \n(b) Eligibility. To be eligible, a student must: \n(1) Either \n(A) Be certified by the Supreme Court of Ohio as a legal intern; or \n(B) Be duly enrolled in a law school approved by the American Bar \nAssociation and have completed at least two-thirds of the requirements \nfor graduation; and \n(2) Have knowledge of the Federal Rules of Civil and Criminal Procedure, the Federal \nRules of Evidence, the Ohio Rules of Professional Conduct, and the Rules of this \nCourt; \n(3) Be supervised by a supervising attorney as defined in paragraph (c) of this Rule; \n(4) Be certified by the Dean of the law school where the student is enrolled or the \nDean’s designee as being of good character, sufficient legal ability, and adequate \ntraining to fulfill the responsibilities of a legal intern to both the client and the Court; \n(5) Be certified by the Chief District Judge or his/her designee to practice pursuant to \nthis Rule; and \n(6) Decline personal compensation or remuneration of any kind for his or her legal \nservices other than expenses approved by the supervising attorney. Any application \nby or on behalf of the supervising attorney for legal fees must itemize the services \nperformed and time spent by the legal intern. ",
+          "pages": [
+            39
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-41",
+          "path": [],
+          "type": "paragraph",
+          "text": "41\n(c) Supervising Attorney. A supervising attorney must be admitted to practice in this \nCourt and must: \n(1) Either \n(A) Have faculty or adjunct faculty status at a law school at which a portion \nof the supervising attorney’s duties includes supervision of students in \na clinical program; or \n(B) Be employed by the United States Attorney or the Federal Public \nDefender and have the litigation experience and the time and ability to \nsupervise a legal intern. Any exception to the requirements of this Rule \nmust be approved by the Chief District Judge; and \n(2) Be present with the student at all times in Court and at other proceedings in which \ntestimony is taken; \n(3) Co-sign all pleadings or other documents filed with the Court and be responsible \nfor all filings made via the Court’s ECF system; \n(4) Assume full personal and professional responsibility for the benefit of the \nrepresented clients for a student’s guidance, for any work undertaken, and for the \nquality of the student’s work, and be available for consultation with represented \nclients; \n(5) Assist and counsel the student in activities mentioned in paragraph (e) of this Rule \nand review such activities with the student, all to the extent required for proper \npractical training of the student and the protection of the client; and \n(6) Supplement oral or written work of the student as necessary to ensure proper \nrepresentation of the client. \n(d) Certification and Authorization\n(1) Student. The student shall apply for certification to practice under this Rule by \nfiling a “Form for Designating Compliance with the Student Practice Rule for the \nSouthern District of Ohio.” Alternatively, if the student is a legal intern certified \nby the Supreme Court of Ohio, a copy of that certification may be submitted. \nThis Court’s certification of a student to practice under this Rule shall be filed with \nthe Clerk and shall remain in effect for eighteen months. If the student passes the \nState Bar Examination, then the certification shall continue until that student is \nformally admitted to practice in this Court or until the eighteen months expires, \nwhichever occurs first. If the student fails the State Bar Examination, his or her \ncertification to appear in this Court shall expire immediately upon receipt of notice \nof failure, and the student shall promptly notify this Court of the failure. ",
+          "pages": [
+            40
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-42",
+          "path": [],
+          "type": "paragraph",
+          "text": "42\nCertification to appear generally may be withdrawn by the Chief District Judge or \nhis/her designee in the discretion of the Chief District Judge or his/her designee and \nwithout the need to show cause. In a particular case, the certificate may be \nwithdrawn by the presiding Judge in the discretion of that Judge and without the \nneed to show cause. \n(2) Client and Supervising Attorney Authorization. The student must be authorized \nto appear in each case in which he or she participates. A “Client and Supervising \nAttorney Authorizations for Appearance by Law Student” form must be completed \nand filed in each case. \n(e) Activities. A certified student may, under the personal and direct supervision of his \nor her supervising attorney: \n(1) Represent any client in any civil, administrative, or non-felony criminal case if the \nclient on whose behalf the student is appearing has consented in writing to that \nrepresentation and the supervising attorney has given written approval of that \nrepresentation as set forth in paragraph (d)(2) of this Rule; the presiding Judge \nretains, however, the authority to limit a student’s participation in any individual \ncase; and \n(2) In connection with matters in this Court, engage in other activities on behalf of the \nclient under the general supervision of the supervising attorney; a student shall \nmake no binding commitments on behalf of a client, however, absent prior client \nand supervising attorney approval. In any matters, including depositions, in which \ntestimony is taken, the supervising attorney must accompany the student. The \nsupervising attorney must read, approve, and co-sign any filings made by the \nstudent. The Chief Judge or his/her designee and the presiding Judge retain the \nauthority to establish exceptions to such activities. \n(3) Prior to oral participation by a certified student in a hearing or trial, the supervising \nattorney shall provide the presiding Judge with a written statement of the \nanticipated scope of the certified student’s participation. \n(4) Because the supervising attorney is the attorney of record, no notice of withdrawal \nshall be required to be filed by the law student. ",
+          "pages": [
+            41
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ohsd-civil-parsed-v1-9e68d137b17d93a1",
+      "sourceDocumentId": "parsed-ohsd-9e68d137b17d93a1",
+      "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+      "pageIndex": 39,
+      "pageSpan": [
+        39,
+        41
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    }
+  ],
+  "evidence": [
+    {
+      "number": "1.1",
+      "heading": "1.1 General Provisions",
+      "page": 7,
+      "offset": 41,
+      "slices": [
+        {
+          "page": 7,
+          "start": 41,
+          "end": 2241,
+          "sha256": "579c462a16a206b20cdee074b4a2c4e29425b24c2e2ba4248d02ad19d54e927e"
+        },
+        {
+          "page": 8,
+          "start": 0,
+          "end": 51,
+          "sha256": "a74812b7e83c465fb1f1040ab5727958f258293713d35b34a0f12ca71d91afa5"
+        }
+      ]
+    },
+    {
+      "number": "3.1",
+      "heading": "3.1 Initial Filings",
+      "page": 8,
+      "offset": 51,
+      "slices": [
+        {
+          "page": 8,
+          "start": 51,
+          "end": 2026,
+          "sha256": "73051197cc4f2d14a9d493e0b3d05b4990956d891d34dcace7ed5793412a36e1"
+        }
+      ]
+    },
+    {
+      "number": "3.2",
+      "heading": "3.2 Civil Action for False Claims",
+      "page": 8,
+      "offset": 2026,
+      "slices": [
+        {
+          "page": 8,
+          "start": 2026,
+          "end": 2778,
+          "sha256": "1bd46e3cc2e50bdee678f7ad87e201cb472edd577864e9c9b228819322d2cfed"
+        },
+        {
+          "page": 9,
+          "start": 0,
+          "end": 117,
+          "sha256": "2a1c006e0e54dc0b191dd4e5082cc1b54a5685967ea0b6b51ac3c5769c2dab40"
+        }
+      ]
+    },
+    {
+      "number": "3.3",
+      "heading": "3.3 Patent, Trademark and Copyright Cases",
+      "page": 9,
+      "offset": 117,
+      "slices": [
+        {
+          "page": 9,
+          "start": 117,
+          "end": 900,
+          "sha256": "dbd321ba896817b57f7f097cb9b31ca70568b479c61743f7aebf04ff2501657a"
+        }
+      ]
+    },
+    {
+      "number": "4.1",
+      "heading": "4.1 Preparation of Process",
+      "page": 9,
+      "offset": 900,
+      "slices": [
+        {
+          "page": 9,
+          "start": 900,
+          "end": 1792,
+          "sha256": "c776bdb868137f98bd186e648372c67f3ead7f091393358f86775c52b4d2e91c"
+        }
+      ]
+    },
+    {
+      "number": "4.2",
+      "heading": "4.2 Service or Waiver of Process",
+      "page": 9,
+      "offset": 1792,
+      "slices": [
+        {
+          "page": 9,
+          "start": 1792,
+          "end": 1825,
+          "sha256": "7702f5157555ade5a7939f3583e9570466c28e8e7c612581d13c9e44803ddc0f"
+        },
+        {
+          "page": 10,
+          "start": 0,
+          "end": 3448,
+          "sha256": "d2ed4e057b68393da516310f7cb4e8a71c1fd58168fa47a4f64b77a24e1a0745"
+        }
+      ]
+    },
+    {
+      "number": "4.3",
+      "heading": "4.3 Service in In Forma Pauperis or Government-Initiated Cases",
+      "page": 10,
+      "offset": 3448,
+      "slices": [
+        {
+          "page": 10,
+          "start": 3448,
+          "end": 3683,
+          "sha256": "98006c0fe2e5df3809136526da64bc0515bf42e7716f002f5ff874c2b034cd52"
+        },
+        {
+          "page": 11,
+          "start": 0,
+          "end": 59,
+          "sha256": "ad36fb05c7ae997e24d0cd138d7238e98fd2a1f90557ab6f9683202a847c13ef"
+        }
+      ]
+    },
+    {
+      "number": "4.4",
+      "heading": "4.4 Service in a Foreign Country",
+      "page": 11,
+      "offset": 59,
+      "slices": [
+        {
+          "page": 11,
+          "start": 59,
+          "end": 463,
+          "sha256": "5e3c1f1b8c4760e93b30dfce1c8abea99a421b6e5078d76206201d3b2c965c87"
+        }
+      ]
+    },
+    {
+      "number": "5.1",
+      "heading": "5.1 General Format of Documents Presented for Filing",
+      "page": 11,
+      "offset": 463,
+      "slices": [
+        {
+          "page": 11,
+          "start": 463,
+          "end": 3205,
+          "sha256": "97c691ef269626264b4a55808d6d5a366c77f6d9ae228157c9e6785019b52571"
+        },
+        {
+          "page": 12,
+          "start": 0,
+          "end": 1774,
+          "sha256": "e13b900893d37f021c430e4beaa3810f9b5c47e06a6d44fe3a267506751056e8"
+        }
+      ]
+    },
+    {
+      "number": "5.2",
+      "heading": "5.2 Certificate of Service: Delivery Electronically",
+      "page": 12,
+      "offset": 1774,
+      "slices": [
+        {
+          "page": 12,
+          "start": 1774,
+          "end": 2651,
+          "sha256": "6547f38d2b24c8940f513ec231c01f6ee45ec7d0fc5b68671ce3910ed92d8cc0"
+        },
+        {
+          "page": 13,
+          "start": 0,
+          "end": 3,
+          "sha256": "1a252402972f6057fa53cc172b52b9ffca698e18311facd0f3b06ecaaef79e17"
+        }
+      ]
+    },
+    {
+      "number": "5.3",
+      "heading": "5.3 Statutory Three-Judge Actions",
+      "page": 13,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 13,
+          "start": 3,
+          "end": 636,
+          "sha256": "10f1dec3a8e65db4558a22393a07262df2e91bfececa77143fdf9f2dd70c139e"
+        }
+      ]
+    },
+    {
+      "number": "5.4",
+      "heading": "5.4 Filing Discovery Documents",
+      "page": 13,
+      "offset": 636,
+      "slices": [
+        {
+          "page": 13,
+          "start": 636,
+          "end": 1476,
+          "sha256": "1e6baf5a3592f822126140c1211326bf43a3d6f3b9bdba0b99179ece25291b92"
+        }
+      ]
+    },
+    {
+      "number": "5.2.1",
+      "heading": "5.2.1 Sealed Documents",
+      "page": 13,
+      "offset": 1476,
+      "slices": [
+        {
+          "page": 13,
+          "start": 1476,
+          "end": 2792,
+          "sha256": "64eebfb8b3edf7a365668265d07c3c084afcca9067899bed91a16dfef2a5bb34"
+        },
+        {
+          "page": 14,
+          "start": 0,
+          "end": 40,
+          "sha256": "1f6c1f0d33b8cc7c1d2abc5da5d31f623ee55347e04056a4e8b50d17248d2bdd"
+        }
+      ]
+    },
+    {
+      "number": "6.1",
+      "heading": "6.1 Extensions of Time to Move or Plead",
+      "page": 14,
+      "offset": 40,
+      "slices": [
+        {
+          "page": 14,
+          "start": 40,
+          "end": 1334,
+          "sha256": "6e91b34d1b3c91b407ad5480d48623c8314252030dfa6136e1716e6d4d03769c"
+        }
+      ]
+    },
+    {
+      "number": "7.1",
+      "heading": "7.1 Procedure for Deciding Motions",
+      "page": 14,
+      "offset": 1334,
+      "slices": [
+        {
+          "page": 14,
+          "start": 1334,
+          "end": 2769,
+          "sha256": "8f41b47d0c1d6af2044d8ff4724ee4ea19fbececcb9b33f9b7fcb6f232af5105"
+        },
+        {
+          "page": 15,
+          "start": 0,
+          "end": 115,
+          "sha256": "6f3f2e835fc63ad9665cb6a2fabb9095f9e1cf7d1b4a3e8234aadfb6fc681c8b"
+        }
+      ]
+    },
+    {
+      "number": "7.2",
+      "heading": "7.2 Motions and Other Papers",
+      "page": 15,
+      "offset": 115,
+      "slices": [
+        {
+          "page": 15,
+          "start": 115,
+          "end": 2300,
+          "sha256": "a2dd021235dad34eb1e87e62d3f45c6eee67e524aa9599a9b0aefd7dc684ea06"
+        },
+        {
+          "page": 16,
+          "start": 0,
+          "end": 3014,
+          "sha256": "5de3f6926d8a263d718fb5a6ecb97deeeefcf360c8647a9c58bbe15d912b7706"
+        },
+        {
+          "page": 17,
+          "start": 0,
+          "end": 3,
+          "sha256": "54183f4323f377b737433a1e98229ead0fdc686f93bab057ecb612daa94002b5"
+        }
+      ]
+    },
+    {
+      "number": "7.3",
+      "heading": "7.3 Consent to Motions",
+      "page": 17,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 17,
+          "start": 3,
+          "end": 1054,
+          "sha256": "acd3c5d24d8a9647a8af5a38799f6be2dc3f97a973cb5aaeb0e1a2749a1aa7a9"
+        }
+      ]
+    },
+    {
+      "number": "7.4",
+      "heading": "7.4 Orders",
+      "page": 17,
+      "offset": 1054,
+      "slices": [
+        {
+          "page": 17,
+          "start": 1054,
+          "end": 1231,
+          "sha256": "3e5c9c1c899bf8421580c482cfc0c2fe0e97f6aa601a530844abb661a68afacf"
+        }
+      ]
+    },
+    {
+      "number": "7.1.1",
+      "heading": "7.1.1 Disclosure Statements and Judicial Disqualification",
+      "page": 17,
+      "offset": 1231,
+      "slices": [
+        {
+          "page": 17,
+          "start": 1231,
+          "end": 2191,
+          "sha256": "6d26ef6e6b86a320fb7fefaa859b2d13ce774e11ef7eaeb95c44109e00a9c9d3"
+        },
+        {
+          "page": 18,
+          "start": 0,
+          "end": 1299,
+          "sha256": "bca96086ee4bae902110cd4c6cd2a10be9c49ada1e0e306b3ab3ea5707144598"
+        }
+      ]
+    },
+    {
+      "number": "8.1",
+      "heading": "8.1.A Social Security Cases: Service, Answer, and Schedule",
+      "page": 18,
+      "offset": 1299,
+      "slices": [
+        {
+          "page": 18,
+          "start": 1299,
+          "end": 3284,
+          "sha256": "1b28427e1a7c40b625cbd2cc0249509efa37ff3ba2c9d3cb8225a090d4d1170b"
+        },
+        {
+          "page": 19,
+          "start": 0,
+          "end": 1462,
+          "sha256": "82de520aa19f5054afeff0e1e4ffb6135c01ce50bf4ddb4129e9a5bfdd665d4a"
+        }
+      ]
+    },
+    {
+      "number": "10.1",
+      "heading": "10.1 Procedure for Notification of Any Claim of Unconstitutionality",
+      "page": 19,
+      "offset": 1462,
+      "slices": [
+        {
+          "page": 19,
+          "start": 1462,
+          "end": 2489,
+          "sha256": "c6acc68ba05af7dff9aa58538d4b4f6f7ff46f092a87877bc0d504d9b1b412b3"
+        }
+      ]
+    },
+    {
+      "number": "16.1",
+      "heading": "16.1 Pretrial Procedures",
+      "page": 19,
+      "offset": 2489,
+      "slices": [
+        {
+          "page": 19,
+          "start": 2489,
+          "end": 2875,
+          "sha256": "de393f2ed2de141e83306f284ecbe5b1be96451ae7b358bd92304de1e64b45a7"
+        },
+        {
+          "page": 20,
+          "start": 0,
+          "end": 136,
+          "sha256": "ec1b975afc077ccdcd32e6a4c5c8f538b6d441a0550a3cb305513be14412866b"
+        }
+      ]
+    },
+    {
+      "number": "16.2",
+      "heading": "16.2 Pretrial Scheduling Orders",
+      "page": 20,
+      "offset": 136,
+      "slices": [
+        {
+          "page": 20,
+          "start": 136,
+          "end": 1198,
+          "sha256": "bc40e89c63645a27f0b0dc55c0df25638f89458a4ede31f3963697e4edd67737"
+        }
+      ]
+    },
+    {
+      "number": "16.3",
+      "heading": "16.3 Alternative Dispute Resolution",
+      "page": 20,
+      "offset": 1198,
+      "slices": [
+        {
+          "page": 20,
+          "start": 1198,
+          "end": 2014,
+          "sha256": "7bb8e3642b256aa8e75e3ac34806bd0b407e30460bfde6618ed167c7c00d2831"
+        },
+        {
+          "page": 21,
+          "start": 0,
+          "end": 3006,
+          "sha256": "1380f6da45307be634a63ef0c3c095a8f6be62a31630eb6049ac4cd4663cb7bf"
+        },
+        {
+          "page": 22,
+          "start": 0,
+          "end": 2757,
+          "sha256": "86fceadb583cfc9d734d2ba87afc7f09ee9b6b78e1858d3217b5eb9189c498bd"
+        },
+        {
+          "page": 23,
+          "start": 0,
+          "end": 2483,
+          "sha256": "3527fd9dd790fdb201b3b2c7d3471d10161ceaba352e97f26e51e2e134319454"
+        },
+        {
+          "page": 24,
+          "start": 0,
+          "end": 16,
+          "sha256": "4905fcc889e2c9b289fc23a019652adfa472f53a4d4e591f45c426a5440a76fc"
+        }
+      ]
+    },
+    {
+      "number": "23.1",
+      "heading": "23.1 Designation of “Class Action” in the Caption",
+      "page": 24,
+      "offset": 16,
+      "slices": [
+        {
+          "page": 24,
+          "start": 16,
+          "end": 195,
+          "sha256": "cdcdcfd726df2f2a6a1eac2641ac84834f1ee1b08707fab4ba031649a1e7abef"
+        }
+      ]
+    },
+    {
+      "number": "23.2",
+      "heading": "23.2 Class Action Allegations",
+      "page": 24,
+      "offset": 195,
+      "slices": [
+        {
+          "page": 24,
+          "start": 195,
+          "end": 1021,
+          "sha256": "ae26b5c29b500424e882593c117dfd447e7eea363be4c4cd3235ddc94be8c35e"
+        }
+      ]
+    },
+    {
+      "number": "23.3",
+      "heading": "23.3 Motions for Determination as Class Action",
+      "page": 24,
+      "offset": 1021,
+      "slices": [
+        {
+          "page": 24,
+          "start": 1021,
+          "end": 1528,
+          "sha256": "2a283c8a8a4d08b136d8bc857166aa896f3bfa11f1c2cf648e7b88595c25f268"
+        }
+      ]
+    },
+    {
+      "number": "26.1",
+      "heading": "26.1 Form of Discovery Documents",
+      "page": 24,
+      "offset": 1528,
+      "slices": [
+        {
+          "page": 24,
+          "start": 1528,
+          "end": 2066,
+          "sha256": "507c6553fece71acf3b50bca37125cb8e4eb6572e83b7f30b9f0933b91fb1e84"
+        },
+        {
+          "page": 25,
+          "start": 0,
+          "end": 218,
+          "sha256": "a463d0165ed375b08cb1c702fcd5980d0bc6600aa2504c8e2ad56f2084a023d3"
+        }
+      ]
+    },
+    {
+      "number": "30.1",
+      "heading": "30.1 Depositions Outside of the Southern District of Ohio",
+      "page": 25,
+      "offset": 218,
+      "slices": [
+        {
+          "page": 25,
+          "start": 218,
+          "end": 1257,
+          "sha256": "711a3fc38f8db65717f70ce7a36a51cb40a0dfff6646d94dbcb742745af2c819"
+        }
+      ]
+    },
+    {
+      "number": "36.1",
+      "heading": "36.1 Requests for Admission",
+      "page": 25,
+      "offset": 1257,
+      "slices": [
+        {
+          "page": 25,
+          "start": 1257,
+          "end": 1495,
+          "sha256": "dc30e830e9bea212e33043b57eb5cb4a6e5291659d551a79d29c99c54083b0d7"
+        }
+      ]
+    },
+    {
+      "number": "37.1",
+      "heading": "37.1 Consultation Among Counsel; Informal Discovery Dispute Conference",
+      "page": 25,
+      "offset": 1495,
+      "slices": [
+        {
+          "page": 25,
+          "start": 1495,
+          "end": 2125,
+          "sha256": "42675fdf105b7df292141f98e44e9b92ce00b8483f70b59746a17c55a7c50899"
+        }
+      ]
+    },
+    {
+      "number": "38.1",
+      "heading": "38.1 Notation of “Jury Demand” in a Pleading",
+      "page": 25,
+      "offset": 2125,
+      "slices": [
+        {
+          "page": 25,
+          "start": 2125,
+          "end": 2523,
+          "sha256": "a41fcce3e3a650c4f1aef62c7375fb074ac0d66611752e06c574963879e2c7f4"
+        },
+        {
+          "page": 26,
+          "start": 0,
+          "end": 15,
+          "sha256": "2d9183e97212897d2d4f9dd52d20fe4cd20feadf73ab638e157ec564f3c74054"
+        }
+      ]
+    },
+    {
+      "number": "39.1",
+      "heading": "39.1 Juror Note Taking",
+      "page": 26,
+      "offset": 15,
+      "slices": [
+        {
+          "page": 26,
+          "start": 15,
+          "end": 703,
+          "sha256": "93f43fb56dc2c4687adf6c8e622f1d0b79af0af6d637e25f1a9b959cd641242a"
+        }
+      ]
+    },
+    {
+      "number": "41.1",
+      "heading": "41.1 Assignment of Previously Dismissed Action",
+      "page": 26,
+      "offset": 703,
+      "slices": [
+        {
+          "page": 26,
+          "start": 703,
+          "end": 1424,
+          "sha256": "2c9d4a92ffabe7fe5d354e750a92bff145511d0e4962fcd072724ce07d5da2bf"
+        }
+      ]
+    },
+    {
+      "number": "43.1",
+      "heading": "43.1 Examination of Witnesses",
+      "page": 26,
+      "offset": 1424,
+      "slices": [
+        {
+          "page": 26,
+          "start": 1424,
+          "end": 1620,
+          "sha256": "cebb1d3cd03efb879b9cb9459b474023d3d57fde641464e533744301da259cd5"
+        }
+      ]
+    },
+    {
+      "number": "43.2",
+      "heading": "43.2 Attorney Testifying as Witness",
+      "page": 26,
+      "offset": 1620,
+      "slices": [
+        {
+          "page": 26,
+          "start": 1620,
+          "end": 2149,
+          "sha256": "3692eabd9054e5a1831182df4b74c0de2dc0255f8b8e2bb620bebeae4ee84738"
+        }
+      ]
+    },
+    {
+      "number": "45.1",
+      "heading": "45.1 Witness Fees",
+      "page": 26,
+      "offset": 2149,
+      "slices": [
+        {
+          "page": 26,
+          "start": 2149,
+          "end": 2362,
+          "sha256": "7168c24d18abec5b5d867d22510f9732354dec4b4a04365c71ac5e2580f21291"
+        },
+        {
+          "page": 27,
+          "start": 0,
+          "end": 3,
+          "sha256": "932ab0a0e4191d32c0af7b3f565b7b180dbe9869378abc5816f9add54b806e7f"
+        }
+      ]
+    },
+    {
+      "number": "47.1",
+      "heading": "47.1 Communication with Jurors",
+      "page": 27,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 27,
+          "start": 3,
+          "end": 379,
+          "sha256": "00a81f2fc179fdf6b312974e2cb9c61fae5558da229f3243ef1819ec65616bf2"
+        }
+      ]
+    },
+    {
+      "number": "54.1",
+      "heading": "54.1 Taxation of Costs",
+      "page": 27,
+      "offset": 379,
+      "slices": [
+        {
+          "page": 27,
+          "start": 379,
+          "end": 1012,
+          "sha256": "a10e5f5c7b5d2dc2b858edeedd72afc18dd458ec7b1a478738b6bc8e8bb726ff"
+        }
+      ]
+    },
+    {
+      "number": "54.2",
+      "heading": "54.2 Motions for Attorney’s Fees",
+      "page": 27,
+      "offset": 1012,
+      "slices": [
+        {
+          "page": 27,
+          "start": 1012,
+          "end": 1529,
+          "sha256": "47de2ec471179b124ecf6db368d131e104ca38e2df24332a59b55234327655c8"
+        }
+      ]
+    },
+    {
+      "number": "55.1",
+      "heading": "55.1 Defaults and Default Judgments",
+      "page": 27,
+      "offset": 1529,
+      "slices": [
+        {
+          "page": 27,
+          "start": 1529,
+          "end": 2435,
+          "sha256": "afe3265102ffcf20eda869e7b35b30cfbf75c1ac88c877c1b02ee655369f6a9e"
+        },
+        {
+          "page": 28,
+          "start": 0,
+          "end": 3,
+          "sha256": "9961d158a7e0e2f990765971a9e490af826c0743b7d603020f34cc8944319fcb"
+        }
+      ]
+    },
+    {
+      "number": "58.1",
+      "heading": "58.1 Entry of Court Orders",
+      "page": 28,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 28,
+          "start": 3,
+          "end": 694,
+          "sha256": "6c628ed1a455f261c27735dd17e3fd16c4e7c025d31197e66235e3b0099f791b"
+        }
+      ]
+    },
+    {
+      "number": "65.1",
+      "heading": "65.1 Temporary Restraining Orders and Preliminary Injunctions",
+      "page": 28,
+      "offset": 694,
+      "slices": [
+        {
+          "page": 28,
+          "start": 694,
+          "end": 2607,
+          "sha256": "df5f3f64a95ff60e6bd439473271b89286e06b0988e10ed088d3d2781ae228c7"
+        }
+      ]
+    },
+    {
+      "number": "66.1",
+      "heading": "66.1 : Election-Related Matters",
+      "page": 28,
+      "offset": 2607,
+      "slices": [
+        {
+          "page": 28,
+          "start": 2607,
+          "end": 2817,
+          "sha256": "5b9f7a5bb182d42fb1e1bebfef3ef5cb248550dbf2e898a786ed838158338ca5"
+        },
+        {
+          "page": 29,
+          "start": 0,
+          "end": 1256,
+          "sha256": "3e1481bacce4e863e9d58e99c5942ff60f6d5d99a9d3d068746a7487a7adeb49"
+        }
+      ]
+    },
+    {
+      "number": "67.1",
+      "heading": "67.1 Bond Requirements in General",
+      "page": 29,
+      "offset": 1256,
+      "slices": [
+        {
+          "page": 29,
+          "start": 1256,
+          "end": 1828,
+          "sha256": "86926ef6c3b5866bc562fd82d2aa94d6e7b47d5bdcad7d2c7de6d55ad2bf0a49"
+        }
+      ]
+    },
+    {
+      "number": "72.1",
+      "heading": "72.1 Magistrate Judges",
+      "page": 29,
+      "offset": 1828,
+      "slices": [
+        {
+          "page": 29,
+          "start": 1828,
+          "end": 2368,
+          "sha256": "b5b3dadca8c1942527352d1c5fe26318055dd9eece4214fc1b150a00979294e8"
+        }
+      ]
+    },
+    {
+      "number": "72.2",
+      "heading": "72.2 Assignment of Duties to Magistrate Judges",
+      "page": 29,
+      "offset": 2368,
+      "slices": [
+        {
+          "page": 29,
+          "start": 2368,
+          "end": 2691,
+          "sha256": "52bcc7a82e764d3e093c2e4745cd9eb6da648056b40061e0bef1ddbca6f3e552"
+        },
+        {
+          "page": 30,
+          "start": 0,
+          "end": 191,
+          "sha256": "b7fe48d643670c78ff1f109eba379a19c32adca5ed4e6ecba317cc409c25be78"
+        }
+      ]
+    },
+    {
+      "number": "72.3",
+      "heading": "72.3 Effect of Magistrate Judge Ruling Pending Appeal to a District Judge",
+      "page": 30,
+      "offset": 191,
+      "slices": [
+        {
+          "page": 30,
+          "start": 191,
+          "end": 522,
+          "sha256": "40aa987cd86907dbc9560a3c345c8441d73f9a0e52b3f62389437d49bc63e2c1"
+        }
+      ]
+    },
+    {
+      "number": "77.1",
+      "heading": "77.1 Notice of Orders",
+      "page": 30,
+      "offset": 522,
+      "slices": [
+        {
+          "page": 30,
+          "start": 522,
+          "end": 987,
+          "sha256": "536b7f0b5778d273ac8a6c5873b4980f5eed2b5555ad82d9e100929245662e17"
+        }
+      ]
+    },
+    {
+      "number": "77.2",
+      "heading": "77.2 Funds",
+      "page": 30,
+      "offset": 987,
+      "slices": [
+        {
+          "page": 30,
+          "start": 987,
+          "end": 2748,
+          "sha256": "c62906e6e85eac9579546d24f0d9aa10e42b842a2055c220079dea9e01ec87be"
+        },
+        {
+          "page": 31,
+          "start": 0,
+          "end": 959,
+          "sha256": "1d935e67a0e46ec7e6efe9e15700cea450e062c4e15875a3dd41234aada6f7f3"
+        }
+      ]
+    },
+    {
+      "number": "79.1",
+      "heading": "79.1 Custody of Files and Exhibits",
+      "page": 31,
+      "offset": 959,
+      "slices": [
+        {
+          "page": 31,
+          "start": 959,
+          "end": 1110,
+          "sha256": "bbe0de94fecefea331044729906f9ebeca202309af35605484e2e313ab4b4b95"
+        }
+      ]
+    },
+    {
+      "number": "79.2",
+      "heading": "79.2 Disposition of Exhibits, Depositions, and Other Materials",
+      "page": 31,
+      "offset": 1110,
+      "slices": [
+        {
+          "page": 31,
+          "start": 1110,
+          "end": 1456,
+          "sha256": "af6330978eb8391063196b03c5bbd8b6680f8f6bef3073e5d85811b8b98c08be"
+        }
+      ]
+    },
+    {
+      "number": "79.3",
+      "heading": "79.3 Control of Exhibits",
+      "page": 31,
+      "offset": 1456,
+      "slices": [
+        {
+          "page": 31,
+          "start": 1456,
+          "end": 1953,
+          "sha256": "b2c3b218aaa955569204e3f3f7f26c5a640eb6d441d752e327df3a2b242c4857"
+        }
+      ]
+    },
+    {
+      "number": "82.1",
+      "heading": "82.1 Venue of Actions within the District",
+      "page": 31,
+      "offset": 1953,
+      "slices": [
+        {
+          "page": 31,
+          "start": 1953,
+          "end": 2343,
+          "sha256": "34889b807b26faa5fa38d7d7e0a30bf7d5726dec5ed075b041c1110672a884c4"
+        },
+        {
+          "page": 32,
+          "start": 0,
+          "end": 2387,
+          "sha256": "9ea2d582ca459ca97d20201e2ade0ca91a9bcb9e708e5c171ff7d512035ea8e8"
+        },
+        {
+          "page": 33,
+          "start": 0,
+          "end": 3,
+          "sha256": "19b8d5c59e421f037fe563007c7254eb8d98bc221b278c3db3e5fdbbfd52e273"
+        }
+      ]
+    },
+    {
+      "number": "83.1",
+      "heading": "83.1 Free Press - Fair Trial Provisions",
+      "page": 33,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 33,
+          "start": 3,
+          "end": 592,
+          "sha256": "1414228a76a1e9fad3b59dc6f8ccbe8711e8a8f31ca3997cc20d29f54f740919"
+        }
+      ]
+    },
+    {
+      "number": "83.2",
+      "heading": "83.2 Courtroom and Courthouse Security and Decorum",
+      "page": 33,
+      "offset": 592,
+      "slices": [
+        {
+          "page": 33,
+          "start": 592,
+          "end": 3511,
+          "sha256": "5eb34a866524f338d5b15e2a3c7e59f60b58a838fe2b5861a76b1108e588f3e6"
+        },
+        {
+          "page": 34,
+          "start": 0,
+          "end": 2463,
+          "sha256": "5e97029f56e57ea17f30597454c2e451c767321e6895af682a516af0934af8bc"
+        },
+        {
+          "page": 35,
+          "start": 0,
+          "end": 2946,
+          "sha256": "b580b6816673541e75d1230b07a5ed98be1cde18ceab49234a04fe9294bd6f0c"
+        },
+        {
+          "page": 36,
+          "start": 0,
+          "end": 2793,
+          "sha256": "0de9256f629e70896876f5a7b43c0dbebab9db333d71174825055183240cad84"
+        },
+        {
+          "page": 37,
+          "start": 0,
+          "end": 3,
+          "sha256": "b58a3da5fde2680191877ec88a1aa7d06927cc3b30cdf0d0db8c39b488891576"
+        }
+      ]
+    },
+    {
+      "number": "83.3",
+      "heading": "83.3 Admission to the Bar",
+      "page": 37,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 37,
+          "start": 3,
+          "end": 2779,
+          "sha256": "898f9270a660e1237dc4c548d271972d47347ccf323ba2e069c4f88687a1f2b9"
+        },
+        {
+          "page": 38,
+          "start": 0,
+          "end": 2211,
+          "sha256": "b2fb3254f6ed846af890652aea8e4dda7d1a1840d539071b2a7d346583164c2f"
+        },
+        {
+          "page": 39,
+          "start": 0,
+          "end": 3,
+          "sha256": "eedb85ab90d324a555a45560d75c88cecf23721990c3b6353697d707e6465c74"
+        }
+      ]
+    },
+    {
+      "number": "83.4",
+      "heading": "83.4 Designation of Trial Attorney; Withdrawal or Substitution of Counsel",
+      "page": 39,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 39,
+          "start": 3,
+          "end": 1374,
+          "sha256": "bfea8419a30c44ff59aa6ed9384a2a439899a9078d8df3f9b0cc703c8036e79f"
+        }
+      ]
+    },
+    {
+      "number": "83.5",
+      "heading": "83.5 Signatures on Filings",
+      "page": 39,
+      "offset": 1374,
+      "slices": [
+        {
+          "page": 39,
+          "start": 1374,
+          "end": 2929,
+          "sha256": "41e45d833fc95f3fc619e96cf40f313f07e4e12c74912848ce0403ae2a855c2f"
+        },
+        {
+          "page": 40,
+          "start": 0,
+          "end": 219,
+          "sha256": "18fbb369ead4250e872a34e7f5a1d53a80b63528d86fbdbf7cd58e181439cd5d"
+        }
+      ]
+    },
+    {
+      "number": "83.6",
+      "heading": "83.6 Student Practice Rule",
+      "page": 40,
+      "offset": 219,
+      "slices": [
+        {
+          "page": 40,
+          "start": 219,
+          "end": 1834,
+          "sha256": "10dcf2c3381a477dca5d1cac3be8b5f7c4b16569bb829490f1601a8116206ac9"
+        },
+        {
+          "page": 41,
+          "start": 0,
+          "end": 2386,
+          "sha256": "614bdbdee0add288bb8344d006ec6e73733734f53da3801a0c2362ff5645895f"
+        },
+        {
+          "page": 42,
+          "start": 0,
+          "end": 2181,
+          "sha256": "b4e0366519febe2cfede50c74794e46416a81a4a10ef3ade45107c3c337b9e70"
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "startPage": 7,
+    "startOffset": 41,
+    "endPage": 42,
+    "endOffset": 2181,
+    "ruleCount": 60,
+    "tocReconciled": false,
+    "editorialReviewComplete": false,
+    "currencyReviewed": false,
+    "flags": [
+      "Source extraction contains unresolved characters; consult the original publication."
+    ],
+    "excluded": "Source material outside the recorded range remains available in the district source library."
+  },
+  "transcriptionSha256": "ab781fc1aaea3b7f11c6ab1006f52c7445dea184dce27c643f7eb236cd5a5b18"
+}

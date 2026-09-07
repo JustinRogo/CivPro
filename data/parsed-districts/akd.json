@@ -1,0 +1,3839 @@
+{
+  "version": 1,
+  "reviewStatus": "parsed-draft",
+  "districtId": "akd",
+  "sourceDocument": {
+    "id": "50afcdec4b0ef640",
+    "title": "Civil (effective October 15, 2025)",
+    "format": "pdf",
+    "role": "primary",
+    "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+    "sha256": "50afcdec4b0ef640e65dadd7e755de9d62216e1692ba5bb86a0bbc280997b692",
+    "bytes": 482631,
+    "retrievedAt": "2026-09-07T00:00:53.388096+00:00",
+    "snapshotPath": "sources/district-snapshots/50afcdec4b0ef640e65dadd7e755de9d62216e1692ba5bb86a0bbc280997b692.pdf",
+    "textPath": "data/source-library/50afcdec4b0ef640e65dadd7e755de9d62216e1692ba5bb86a0bbc280997b692.json",
+    "pdfPath": "data/source-pdfs/50afcdec4b0ef640e65dadd7e755de9d62216e1692ba5bb86a0bbc280997b692.pdf",
+    "pageCount": 51,
+    "reviewStatus": "source-document-only",
+    "blankTextPages": 0
+  },
+  "collection": {
+    "id": "akd-civil",
+    "name": "District of Alaska Local Rules",
+    "shortName": "Local rules · draft",
+    "districtId": "akd",
+    "scopeNote": "Civil and generally applicable local rules; unparsed supplements remain in the source library. Rule boundaries and transcription are drafts. Embedded notes, forms, and running headers may remain within rule text; subsection anchors and field-separated notes are not yet reviewed."
+  },
+  "provisions": [
+    {
+      "id": "akd-civil:1.1",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "1.1",
+      "citation": "District of Alaska · Rule 1.1",
+      "title": "Scope and Purpose of Local Rules/Definitions/Civility",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-9",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 1.1 Scope and Purpose of Local Rules/Definitions/Civility\n(a) Scope and Purpose \n(1) Each Local Civil Rule addresses the same subject as the corresponding Federal \nRule of Civil Procedure (“Fed. R. Civ. P.”).\n(2) These Local Civil Rules supplement the Federal Rules of Civil Procedure and\nmust be construed consistently with those rules to promote the just, efficient, and \neconomical determination of every action and proceeding. \n(3) All parties, including self-represented parties, must comply with these Local Rules\nand the Federal Rules of Civil Procedure. References in these rules to “counsel” or \n“attorneys” also refer to self-represented parties. \n(4) The court may by order entered on its own initiative or on motion, change, \ndispense with, or waive any of these Local Civil Rules in the interest of justice. \n(b) Definitions\nThe following definitions apply: \n(1) “Clerk” refers to the Clerk of Court or a deputy clerk designated to act in the \nclerk’s capacity.\n(2) “CM/ECF” refers to the court’s Case Management/Electronic Case Filing System \nused by the United States District Court for the District of Alaska.\n(3) “Court’s website” refers to the internet address for the United States District Court \nfor the District of Alaska: http://www.akd.uscourts.gov.\n(4) “Electronic Filing Procedures Guide” refers to the United States District Court for \nthe District of Alaska’s Electronic Filing Procedures Guide available on the court’s \nwebsite.\n(5) “Filed conventionally” refers to physically filing a document (i.e. a paper copy) or \nother item (such as a thumb drive or other physical exhibit) directly with the Clerk, \nrather than filing electronically via CM/ECF.\n(6) “Judge” refers to: \n(A) any United States District Judge or other judicial officer acting in a matter \nassigned to a United States District Judge;\n(B) any full-time or part-time United States Magistrate Judge; and\n(C) when these rules apply to bankruptcy proceedings, to a United States\nBankruptcy Judge or other judicial officer acting in a matter assigned to a United \nStates Bankruptcy Judge.",
+          "pages": [
+            8
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-10",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rules for the District of Alaska\nEffective October 15, 2025\nPage 2\n(7) “Sealed documents” are documents viewable only by case participants. See \nLocal Civil Rule 7.3(f).\n(8) “Stricken documents” refer to:\n(A) “documents stricken from the record”: documents that the court has ordered \nstricken from the record. The document is referenced on the docket with the \nnotation \"STRICKEN\" at the beginning; \n(B) “documents stricken and removed from the record”: documents that the court \nhas ordered stricken from the record and, additionally, has directed the clerk to \nremove from the record. Removing a document from the record means that it has \nbeen deleted from the court's server and is no longer available for viewing. The \ndocket text remains on the docket with the notation \"STRICKEN AND REMOVED \nFROM THE RECORD;\" and\n(C) discovery documents refused by the clerk pursuant to Fed. R. Civ. P. 5(d)(1). \nThe refusal must be referenced in the docket.\n(c) Civility\n(1) Parties and their lawyers must treat all persons involved in the legal process with \ncourtesy and respect. \n(2) Parties and their lawyers must take particular care to avoid treating persons \ndiscourteously or disrespectfully because of the person’s race, gender, or other \npersonal characteristic. \n(3) Parties and their lawyers must work cooperatively to achieve the purpose of these \nrules.\n(4) Parties and their lawyers must advocate with candor and fairness and at all times \nconform to applicable codes and rules of ethics and professional responsibility.\n",
+          "pages": [
+            9
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 8,
+      "pageSpan": [
+        8,
+        9
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:1.2",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "1.2",
+      "citation": "District of Alaska · Rule 1.2",
+      "title": "Access and Citation to Local Rules",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-10",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 1.2 Access and Citation to Local Rules\n(a) Availability\nThe Local Civil Rules and pertinent Miscellaneous General Orders (MGOs) will be kept \navailable for inspection and copying at:\n(1) the federal law library in Anchorage; \n(2) the clerk’s office in Anchorage, Fairbanks, Juneau, Ketchikan, and Nome during \nregular office hours; and\n(3) the court’s website.",
+          "pages": [
+            9
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-11",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rules for the District of Alaska\nEffective October 15, 2025\nPage 3\n(b) Amendments\n(1) Notice of proposed amendments to the Local Civil Rules informing the public of \nthe opportunity to comment will be posted for a reasonable period on the court’s \nwebsite and provided to the Alaska Bar Association. \n(2) Notice of amendments to the Local Civil Rules will be posted on the court’s \nwebsite and provided to the Alaska Bar Association.\n(c) Official Rules\nThe Local Civil Rules as posted on the court’s website are the official Local Rules.\n(d) Citation\nThe Local Civil Rules may be cited as L.Civ.R.\n",
+          "pages": [
+            10
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 9,
+      "pageSpan": [
+        9,
+        10
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:3.1",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "3.1",
+      "citation": "District of Alaska · Rule 3.1",
+      "title": "Commencement of an Action",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-11",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 3.1 Commencement of an Action\n(a) Civil Cover Sheet\nEvery civil action initiated in or removed to the United States District Court for the District \nof Alaska must be accompanied by a completed Civil Cover Sheet, Form JS44, available \non the court’s website and at the clerk’s office.\n(b) Identification of Related Cases\nThe Civil Cover Sheet must list all related cases, open or closed, in this or any other \nfederal or state court, of which the filer is aware. Cases are related when they:\n(1) concern substantially the same parties, claims, property, transaction, events, or \nsubstantially identical facts and legal issues; and\n(2) are likely to create an unduly burdensome duplication of labor and expense or the \npotential for conflicting results if assigned to different judges. \nPlaintiff must also file a Notice of Related Cases pursuant to Local Rule 16.1(e). \n(c) Fees/Waiver of Fees\n(1) All fees required by law must be paid at the time of filing a complaint or other \ndocument for which a fee is required, except for parties seeking to proceed in forma \npauperis under 28 U.S.C. § 1915.\n(2) The schedule of fees will be posted on the court’s website and at the clerk’s office.\n(3) Applications to proceed in forma pauperis pursuant to 28 U.S.C. § 1915 must be \nfully completed and signed before an application to waive prepayment of fees will be \nconsidered. Prisoners must include a certified copy of their prison trust account \nstatement, dating back six months. The clerk’s office will provide all necessary forms.",
+          "pages": [
+            10
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-12",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rules for the District of Alaska\nEffective October 15, 2025\nPage 4\n(4) Refunds of duplicate filing fees made via electronic filing and payment are \nconsidered pursuant to Miscellaneous General Order 12-02.\n(d) Case Assignment\nUnless otherwise ordered:\n(1) upon commencement of a case and upon any subsequent recusal, all actions, \ncauses, and proceedings in this district must be randomly assigned to the judges.\n(2) related cases that are consolidated pursuant to Fed. R. Civ. P. 42 will be assigned \nto the judge assigned to the case first filed.\n",
+          "pages": [
+            11
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 10,
+      "pageSpan": [
+        10,
+        11
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:3.2",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "3.2",
+      "citation": "District of Alaska · Rule 3.2",
+      "title": "Venue",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-12",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 3.2 Venue\n(a) Venue within the District of Alaska\nAn action in which venue is proper in the United States District Court for the District of \nAlaska may be initiated in or removed to any of the 5 court locations specified in 28 \nU.S.C. § 81A.\n(b) Transfer of Removed Actions\nWhen an action that is initiated in state court is removed to federal court, the removed \naction will proceed in:\n(1) the court location in the same Alaska judicial district as the original state court \naction; and\n(2) if possible, the same city as the original state court action.\n(c) Intra-District Transfer\nOn motion of a party or on its own initiative, the court may transfer a case to another \ncourt location within the District of Alaska for some or all purposes.\n",
+          "pages": [
+            11
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 11,
+      "pageSpan": [
+        11,
+        11
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:4.1",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "4.1",
+      "citation": "District of Alaska · Rule 4.1",
+      "title": "Summons A summons presented to the court for issuance must",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-12",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 4.1 Summons A summons presented to the court for issuance must \nbe complete in all respects, except for the date of issuance, the defendant’s address if \nunknown, and the signature of the clerk.\n",
+          "pages": [
+            11
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 11,
+      "pageSpan": [
+        11,
+        11
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:5.1",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "5.1",
+      "citation": "District of Alaska · Rule 5.1",
+      "title": "Electronic Service and Filing",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-12",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 5.1 Electronic Service and Filing \n(a) Electronic Filing Procedures\n(1) The filing of documents in electronic format and the payment of fees must be in \naccordance with this rule and the CM/ECF Electronic Filing Procedures Guide\navailable on the court’s website. ",
+          "pages": [
+            11
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-13",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rules for the District of Alaska\nEffective October 15, 2025\nPage 5\n(2) The filing of documents in accordance with CM/ECF System Procedures \nconstitutes entry on the docket under the Federal Rules of Civil and Criminal \nProcedure.\n(b) Electronic Filing Upon Payment of Fees\nAn electronic filing is deemed filed on the date all fees required by law are received by \nthe clerk’s office. Any fee not paid electronically must be mailed or hand delivered to the \nclerk’s office.\n(c) Notice of Electronic Filing and Proof of Service \n(1) Notice to Filing Party. Whenever a document is filed electronically in accordance \nwith CM/ECF System Procedures, the System will automatically generate a \"Notice of \nElectronic Filing\" by electronic means at the time of docketing.\n(2) Effect of Notice. Except in the case of documents first filed conventionally and \nsubsequently submitted electronically, a document filed electronically is deemed filed \non the date at the time stated on the Notice of Electronic Filing.\n(3) Proof of service on the parties by electronic means or by mail is documented by \nthe “Notice of Electronic Filing” in the CM/ECF System.\n(4) Sealed Filings. A document filed SEALED must be served on the opposing party \nby other appropriate means (e.g., email, conventional service) as SEALED filings are \nnot served via CM/ECF and no Notice of Electronic Filing is generated. Proof of other \nmeans of service must be reflected in the Certificate of Service. \n(d) Attorneys Required to Use CM/ECF\nUnless exempted, each attorney appearing in a matter before the District of Alaska must \nparticipate in the CM/ECF system. Attorneys may be exempted from participating in the \nCM/ECF system on motion for good cause shown, to be determined by the Chief Judge.\n(e) Signatures\n(1) Registered User\n(A) A signature block on an electronically filed document by a registered user of the \nCM/ECF System constitutes the signature of the user for all purposes for which a \nsignature is required in connection with proceedings before the court.\n(B) A registered user may, if authorized to so do by another person, sign a \ndocument that is to be filed electronically on behalf of that other person as follows: \n“James Smith for Jane Doe.” Proof of service of the document on the person who \nauthorized such signature is required.",
+          "pages": [
+            12
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-14",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rules for the District of Alaska\nEffective October 15, 2025\nPage 6\n(2) Court Orders. A signature block placed on an electronically filed order or other \ndocument by, or at the direction of, a judge or the Clerk of Court constitutes the \nsignature of the court official.\n(3) Other Documents. The signature page of any electronically filed document not \ngoverned by paragraph (1) or (2) must bear a digitally imaged (scanned) original \nsignature.\n(4) Objections to Signatures. Any objection to a signature on an electronically filed \ndocument must be served on the filing party and filed with the court not later than 14 \ndays after the document is served.\n(f) Filing of Related Documents\nExcept as otherwise provided in these rules:\n(1) documents that are related to a motion or other filing that are filed at the same time \nas the motion or other filing (e.g., a proposed order, a supporting affidavit or \ndeclaration, and exhibits) must be filed as attachments to the main document under \nthe same docket number, and not as separate docket entries (i.e. at Docket 47-1 to the \nmain motion at Docket 47, and not at Docket 48); and\n(2) if a party seeks to address two motions in a single filing (e.g., an opposition to \nsummary judgment and a cross-motion for summary judgment), a separate filing for \neach document must be made. However, the second filing may simply indicate that it \nincorporates by reference the first filing and need not duplicate the first filing in its \nentirety.\n",
+          "pages": [
+            13
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 11,
+      "pageSpan": [
+        11,
+        13
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:5.2",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "5.2",
+      "citation": "District of Alaska · Rule 5.2",
+      "title": "Service of Orders and Other Documents by the Court",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-14",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 5.2 Service of Orders and Other Documents by the Court\n(a) Unless otherwise ordered, the court will serve all orders and other court \ndocuments either: \n(1) electronically to attorneys participating in the CM/ECF system; or \n(2) by mail to self-represented parties and attorneys exempted from the CM/ECF \nsystem. \n(b) Entry of a court document in accordance with CM/ECF System Procedures \nconstitutes entry on the docket under the Federal Rules of Civil and Criminal \nProcedure. \n(c) Routine orders may be issued as “text-only” on the docket, without an attached \ndocument.",
+          "pages": [
+            13
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-15",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rules for the District of Alaska\nEffective October 15, 2025\nPage 7\n",
+          "pages": [
+            14
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 13,
+      "pageSpan": [
+        13,
+        14
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:5.3",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "5.3",
+      "citation": "District of Alaska · Rule 5.3",
+      "title": "Other Means of Filing and Service",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-15",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 5.3 Other Means of Filing and Service\n(a) Filing and Service for non-CM/ECF Users\n(1) Self-represented litigants must file all documents conventionally, unless otherwise \npermitted by the court’s order. \n(2) A party filing documents conventionally must file and serve documents in the \nmanner provided for in the Federal Rules of Civil Procedure, including Fed. R. Civ. P.\n5, 5.2, and 6, and Local Civil Rule 7.5(a). \n(3) When practical, conventionally filed documents will be converted into electronic \nrecords by the Clerk. When filed electronically, the electronic record is the official \nrecord pursuant to Fed. R. Civ. P. 79. \n(b) Inmate Filing and Service\n(1) A document filed or served by an inmate confined in an institution is deemed filed \nor served when deposited in the institution’s internal mail system.\n(2) Filing or service of a document by an inmate confined in an institution must be \nshown by a notarized statement or declaration under 28 U.S.C. § 1746, setting forth \nthe date of deposit and stating that first-class postage has been pre-paid or that the \ninmate has taken the required steps to have prison officials affix postage.\n(3) For purposes of calculating response times under these rules and the Federal \nRules of Civil Procedure, the postmark date shall be the date of service by mail and \nnot the date that the inmate deposited the document in the prison’s internal mail \nsystem.\n(c) Facsimile and Email Filing \n(1) The Court does not accept filing by facsimile. \n(2) Documents must not be filed by e-mail unless specifically authorized in advance \nby the court or clerk’s office. \n",
+          "pages": [
+            14
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 14,
+      "pageSpan": [
+        14,
+        14
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:7.1",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "7.1",
+      "citation": "District of Alaska · Rule 7.1",
+      "title": "General Motion Practice",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-15",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 7.1 General Motion Practice\n(a) Motions and Oppositions\nAll written motions and oppositions must include:\n(1) a brief statement of the requested relief;\n(2) a brief discussion of applicable points and authorities; and",
+          "pages": [
+            14
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rules for the District of Alaska\nEffective October 15, 2025\nPage 8\n(3) supporting admissible evidence with deposition evidence restricted to relevant \nexcerpts. Evidence unsuitable for electronic filing must be filed conventionally in \naccordance with Local Civil Rule 7.3(c); and\n(4) a Rand notice, where applicable. See Local Civil Rule 56.1.\n(b) Proposed Orders\n(1) Dispositive Motions. A proposed order does not need to be filed with a motion \nto dismiss made under Fed. R. Civ. P. 12, or a motion for summary judgment under \nFed. R. Civ. P. 56.\n(2) Non-Dispositive Motions. A proposed order must be filed with all non￾dispositive motions and oppositions to the motion.\n(3) Form of Proposed Order\n(A) A proposed order must be self-explanatory and must not require a review of \nthe motion to understand the order.\n(B) If the proposed order is for an extension of time or modification of deadlines, it \nmust include a date certain by which the matter sought to be extended will be \naccomplished. See also Local Civil Rule 7.3(b).\n(C) The name of the presiding judge for the case must be typed immediately \nunder a signature line.\n(c) Replies\nReply memoranda are optional and restricted to rebuttal of factual and legal arguments \nraised in the opposition.\n(d) Supplemental Materials\nSupplemental briefing and factual materials will be permitted only as follows:\n(1) if pertinent and significant legal authorities come to a party’s attention after the \nparty’s last brief has been filed, or after oral argument but before decision, a party \nmay promptly advise the court by filing and serving a notice setting forth the citations. \nThe notice must state the reasons for the supplemental citations, referring either to \nthe page(s) of the briefing or to a point argued orally. The notice must not exceed \n350 words. Any response must be filed and served within 7 days of the notice and\nmust be similarly limited.\n(2) after briefing of a motion is complete, supplementation of factual materials may\noccur only by motion for good cause. The motion must have the proposed factual \nmaterials attached as an exhibit and address the reasons earlier filing was not \npossible or their relevance was not appreciated. Such motions will not routinely be \ngranted.",
+          "pages": [
+            15
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rules for the District of Alaska\nEffective October 15, 2025\nPage 9\n(e) Multiple Motions\nExcept for alternative requests for relief or as otherwise provided by rule or order of the \ncourt, each motion must be filed separately. See also Local Civil Rule 5.1(f)(2).\n(f) Requests for Oral Argument\nOral argument is discretionary and must be requested either by placing “Oral Argument \nRequested” immediately below the title of a motion or the response to a motion or by \nseparate filing within 5 days of the last filing pertaining to a motion. An oral argument is \nnot an evidentiary hearing. \n(g) Motions for Evidentiary Hearing\nA party may move for an evidentiary hearing on a motion within 5 days of the last filing \npertaining to the motion. The motion, and any responses to the motion, must include a \nlist of proposed witnesses, summary of anticipated testimony from each witness, and an \nestimate of required time, including anticipated cross examination.\n(h) Failure to Oppose Motions\nThe failure to respond to a non-dispositive motion as required by this rule subjects the \nmotion to summary ruling by the court and may be deemed an admission that the motion \nis well taken.\n(i) Digital Evidence Presentation System (DEPS)\nEach party seeking to use DEPS at an oral argument, evidentiary hearing, or trial must:\n(1) contact the clerk’s office to arrange for any necessary training. More information \nregarding training opportunities is available on the court’s website; and\n(2) file a notice of intent to use DEPS that includes the date and location of the court \nproceeding not less than 7 days in advance of the proceeding. \n",
+          "pages": [
+            16
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 14,
+      "pageSpan": [
+        14,
+        16
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:7.2",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "7.2",
+      "citation": "District of Alaska · Rule 7.2",
+      "title": "Time Limits for Motions, Oppositions, and Replies",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 7.2 Time Limits for Motions, Oppositions, and Replies\nUnless otherwise ordered by the court, or provided by statute or rule:\n(a) Motions\nTime limits for filing certain pretrial motions can be found in Local Civil Rule 16.1(c). \n(b) Responses\nTime limits for responding to motions are as follows:\n(1) oppositions to motions brought under Fed. R. Civ. P. 12(b), 12(c), or 56 must be \nfiled and served within 21 days of service of the motion; oppositions to all other \nmotions must be filed within 14 days of service; and",
+          "pages": [
+            16
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rules for the District of Alaska\nEffective October 15, 2025\nPage 10\n(2) if filed, reply memoranda for motions under Fed. R. Civ. P. 12(b), 12(c), or 56 \nmust be filed and served within 14 days; replies for all other motions, if filed, must be\nfiled within 7 days of service of the opposition.\n",
+          "pages": [
+            17
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 16,
+      "pageSpan": [
+        16,
+        17
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:7.3",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "7.3",
+      "citation": "District of Alaska · Rule 7.3",
+      "title": "Specific Motions",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 7.3 Specific Motions\n(a) Motion for Expedited Consideration\nA party may request expedited consideration of a motion by filing a separate motion that \nspecifies the date on which a decision on the principal motion is needed. \n(1) The motion must be supported by:\n(A) a declaration or affidavit showing good cause for a determination on expedited \nconsideration, including any efforts to resolve the matter between the parties and \nthe respective positions of each party; and\n(B) proof of immediate service of the motion on other parties or a declaration or \naffidavit explaining why such service was not possible.\n(2) The party filing the motion must immediately advise the clerk’s office of the filing \nas provided in the CM/ECF Electronic Filing Procedures Guide.\n(3) The clerk’s office will immediately bring the motion to the judge’s attention so that \nthe judge may decide whether expedited consideration of the principal motion is \nwarranted.\n(b) Unopposed Motion for Extension of Time\nWhen all parties agree, an unopposed motion for extension of time may be filed. The \nmotion must state the reason(s) for the extension and certify that all parties consent to \nthe extension. See also Local Civil Rule 7.1(b)(3)(B).\n(c) Conventional Filing for Registered CM/ECF Users\nIf an exhibit cannot be filed electronically, a party may file it conventionally as follows:\n(1) A “Notice of Filing Conventional Materials” must be filed electronically in the case, \nincluding a brief description of the materials. \n(2) The filer must include a page in the appropriate place sequentially in the electronic \ndocument to which the exhibit pertains, with a conspicuous notation in the middle of \nthe page “Exhibit (insert brief description of the exhibit) to be filed conventionally.”\n(3) When an exhibit is filed conventionally, two copies of the exhibit must be delivered \nto the clerk’s office. One copy will be retained by the clerk’s office as part of the \nofficial court file; the other copy will be forwarded to chambers.",
+          "pages": [
+            17
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rules for the District of Alaska\nEffective October 15, 2025\nPage 11\n(d) Motion for Judicial Notice\nRequests that the court take judicial notice pursuant to Federal Rule of Evidence 201 \nmust be made in a separate motion.\n(e) Motion to File Ex Parte (seeking to prevent all other parties and the public from \naccessing a document)\n(1) Except as otherwise provided, leave of court is required prior to the ex parte filing \nof any document.\n(2) A motion to file a document ex parte must:\n(A) set forth the basis for ex parte filing;\n(B) file the document that is the subject of the motion as an attachment to the \nmotion; and\n(C) set forth the duration that the filed document should remain ex parte.\n(3) A motion to file a document ex parte may be filed ex parte without a prior court \norder. \n(4) Unless otherwise ordered by the court, if a motion to file a document ex parte is \ndenied, the motion and attachment will be stricken but a public docket entry that the \nmotion was filed will be entered.\n(5) If the motion to file ex parte is granted, the ex parte document should be filed by \nthe moving party.\n(f) Motion to File Under Seal (seeking to prevent the public, but not the parties, \nfrom accessing a document)\n(1) Except as otherwise specifically provided by statute, court rule, case law, or \npublished policy and procedures, a document must not be filed under seal without \nfirst obtaining leave of the court.\n(2) A motion to file a document under seal must:\n(A) be docketed in the public record;\n(B) be supported by a declaration or affidavit that is separately docketed and filed \nunder seal that must: \n(i) state the basis for sealing the document;\n(ii) identify the filings associated with the document;\n(iii) certify that filing the document with redaction is not practicable; and\n(iv) include as an attachment a copy of the document that is proposed to be \nfiled under seal.",
+          "pages": [
+            18
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rules for the District of Alaska\nEffective October 15, 2025\nPage 12\n(3) A document to be filed under seal that the court has allowed to be filed \nconventionally must include a cover sheet displaying the notation “DOCUMENT \nFILED UNDER SEAL.”\n(4) The proposed order authorizing the filing of a document under seal must:\n(A) specifically identify the document to be filed under seal; and\n(B) state the basis for filing the document under seal.\n(5) If a motion to file under seal is not granted in full, the filed document may not be \nfiled under seal.\n(6) If a motion to file under seal is granted, the filed document may be filed under \nseal by the moving party.\n(7) The court may order the unsealing or redaction of any sealed document for the \npublic record. \n(8) Where a filing consists of multiple documents, e.g., exhibits to a motion, only \nthose documents that contain material subject to non-disclosure to the public may be \nfiled under seal; all other parts of the filing must be filed as part of the public record. \n(9) An order authorizing filing a document under seal in a protective order or in \nconnection with a non-dispositive motion will not be considered or construed as \nauthorization to file the document under seal in connection with a dispositive motion, \nhearing, or trial, unless:\n(A) specifically so stated in the order; and\n(B) the order sets forth the compelling reasons justifying sealing the document.\n(10) Service of SEALED filings is governed by Local Civil Rule 5.1(c). \n(g) Motion to Submit Documents for In Camera Review (seeking to provide a \ndocument for review only by the presiding judge)\n(1) Except as otherwise specifically provided by statute, court rule, case law, or \npublished policy and procedures, a document must not be submitted to the court for \nin camera review without first obtaining leave of the court. \n(2) A motion to submit a document in camera may be filed under seal without prior \ncourt order and shall be supported by a declaration or affidavit that is separately \ndocketed and filed under seal that must:\n(A) identify the document(s) proposed to be reviewed in camera; and\n(B) state the basis for in camera review.\n(3) If granted, all documents that are submitted in camera shall, within 7 days, be filed\nvia CM/ECF using the “Ex Parte Document” event. A courtesy copy also shall be ",
+          "pages": [
+            19
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rules for the District of Alaska\nEffective October 15, 2025\nPage 13\ndelivered to the presiding judge’s chambers in a sealed envelope conspicuously \nmarked “Submitted In Camera” and containing the following information on the \nenvelope: \n(A) the case caption and case number; and\n(B) the name of the presiding judge.\n(4) After completing the in camera inspection, the court will cause the courtesy \ncopies either to be destroyed or returned to the offering party with appropriate \ninstructions. \n(h) Motion for Reconsideration\n(1) A court ordinarily will deny a motion for reconsideration absent a showing of one \nof the following:\n(A) manifest error of the law or fact;\n(B) discovery of new material facts not previously available; or\n(C) intervening change in the law\n(2) A motion for reconsideration is limited to 5 pages, and must be filed and served:\n(A) not later than 7 days after the entry of the order, for motions asserted under \nsubsection (1)(A); or\n(B) within 14 days of the discovery or change in law, for motions asserted under \nsubsections (1)(B) or (1)(C).\n(3) No response to a motion for reconsideration may be filed unless requested by the \ncourt. Unless otherwise ordered, a response must be filed within 7 days of entry of \nthe order requesting a response and is limited to 5 pages.\n(4) No reply may be filed unless requested by the court. Unless otherwise ordered, a \nreply must be filed within 7 days of the order requesting a reply and is limited to 5 \npages.\n(5) This rule does not apply to a motion seeking relief from or amendment of an \nappealable order or judgment, which must be filed pursuant to Fed. R. Civ. P. 59 or \n60.\n(i) Motion for Telephonic or Video Participation\nThe court may allow parties, counsel, or witnesses to participate telephonically or by \nvideo conference in any court proceeding, including trial, to the extent permitted by Fed. \nR. Civ. P. 43. Any motion or request for remote public access to civil proceedings shall \nbe filed pursuant to Local Civil Rule `(c).",
+          "pages": [
+            20
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rules for the District of Alaska\nEffective October 15, 2025\nPage 14\n(j) Motion to File Late Document\n(1) A document may be filed after the time for filing has lapsed only by leave of the \ncourt.\n(2) Leave of court must be obtained by motion and, unless otherwise ordered, no \nopposition to the motion shall be filed. \n(3) The motion must set forth:\n(A) that the moving party has conferred with the other party(ies) to the case and \nwhether the motion is opposed;\n(B) the date the document was due; and\n(C) whether any previous extensions have been granted to file the document.\n(4) The motion must be accompanied by:\n(A) an affidavit or declaration stating the reasons for seeking leave to file the \ndocument late; and\n(B) a copy of the document proposed to be filed.\n",
+          "pages": [
+            21
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 17,
+      "pageSpan": [
+        17,
+        21
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:7.4",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "7.4",
+      "citation": "District of Alaska · Rule 7.4",
+      "title": "Document Management",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 7.4 Document Management\n(a) Page/Word Limits\nUnless otherwise ordered, motions, oppositions, and replies must be either page or word \nlimited. \n(1) For motions brought under Fed. R. Civ. P. 12(b), 12(c), and 56, motion and \nopposition memoranda must not exceed 35 pages or 10,000 words, with replies not \nexceeding 20 pages or 5,700 words.\n(2) For all other motions, motion and opposition memoranda must not exceed 20 \npages or 5,700 words, with replies not exceeding 10 pages or 2,750 words.\n(3) If used, word counts must be certified at the end of the document.\n(4) Page/word limits do not include the case caption, signature blocks, table of \ncontents, table of citations, Rand notices, or reproduction of statutes, rules, \nregulations, and ordinances.\n(b) References to Other Parts of Record\n(1) A party asserting a fact must support the assertion by citing to particular parts of \nmaterials in the record, including depositions, affidavits or declarations, stipulations,\ndiscovery responses, or other materials.",
+          "pages": [
+            21
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rules for the District of Alaska\nEffective October 15, 2025\nPage 15\n(2) Where practical, reference to previously filed portions of the record should be \nmade to avoid repetition. The reference must include, when available, the document \nnumber and page number assigned by the CM/ECF System.\n(c) Exhibits to Motions\n(1) All exhibits to documents must be marked as described in Local Civil Rule 39.3 \nwith the exhibit number or letter followed by the page number of the exhibit, e.g., \n“Ex. A, p. 1.”\n(2) If more than 5 exhibits are attached, the exhibits must be preceded by a table of\ncontents identifying each exhibit by number and description.\n(3) Exhibits filed electronically must be filed as a related document as provided in \nLocal Civil Rule 5.1(f)(1).\n(4) For registered CM/ECF users, exhibits that cannot be electronically filed may be \nfiled conventionally only upon order of the court. See Local Civil Rule 7.3(c).\n",
+          "pages": [
+            22
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 21,
+      "pageSpan": [
+        21,
+        22
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:7.5",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "7.5",
+      "citation": "District of Alaska · Rule 7.5",
+      "title": "Formatting of Court Filings (Exemplar follows this rule)",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 7.5 Formatting of Court Filings (Exemplar follows this rule)\n(a) Form in General\n(1) All documents filed with the court must:\n(A) be double-spaced, except quotations longer than 50 words or 5 lines should \nbe single-spaced and indented;\n(B) have margins of at least 1 inch around all text, including footers;\n(C) if more than 1 page, include at the bottom of each page:\n(i) a page number; and\n(ii) a footer including the case name and number;\n(D) use at least 13-point, proportionally-spaced font, or the equivalent; and\n(E) be without interlineation unless noted by the court and printed or written on \nonly one side of the paper.\n(2) Conventionally filed documents must be:\n(A) on letter size (8½” by 11”) white paper of good quality; and\n(B) typed or legibly written in black ink.\n(3) Electronically filed documents must be:\n(A) in Adobe Acrobat Portable Document Format (“.pdf”); and\n(B) word searchable.",
+          "pages": [
+            22
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-24",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rules for the District of Alaska\nEffective October 15, 2025\nPage 16\n(b) Information to be Placed on First Page\nThe first page of each document filed with the court must contain the following \ninformation.\n(1) Attorney’s or Party’s Name/Address.\n(A) The name, address, telephone number, and e-mail address of the attorney(s)\nor firm appearing for a party to an action or proceeding, or of a person appearing \nwithout an attorney, must be typewritten or printed in the space to the left of center \nof the paper beginning at least 1 inch below the top edge; or\n(B) The attorney or firm’s name, address, telephone number, and e-mail address\nmay be printed on the left-hand margin of the paper.\n(C) The attorney must identify the party the attorney represents.\n(2) The title of the court is to be centered on the paper and commence not less than 1\ninch below the top edge, and in any event not less than ½ inch below the name,\naddress, and telephone number of the attorney or person appearing without an \nattorney if this appears at the top of the page as provided in paragraph (b)(1)(A).\n(3) Clerk’s Filing Marks; Case Number.\n(A) A space at the top right of the page must be reserved for any filing marks of \nthe Clerk’s office.\n(B) The case number should be included below the title of the court on the right \nside of the paper, including the initials of the judge assigned to the case.\n(4) Title of Action or Proceeding (Case Caption). \n(A) Below the title of the court and to the left of center of the page, the title of the \naction or proceeding must be inserted.\n(B) If all defendants cannot be named on the first page, the names of defendants\nmay appear on the second page.\n(C) Except for complaints and summonses, lengthy case captions may be \nreduced to indicate the first named party plaintiff and/or defendant followed by \n“et al.”\n(D) Unless otherwise ordered by the court, the name of a party who is terminated \nas a party in the action must be removed from the caption.\n(5) Title of Document. Below the title of the court and the case number, and centered \non the page, the title of the document (i.e., complaint, motion, etc.) must be inserted. \nSee also Local Civil Rules 7.1(f), 8.1(a), and 38.1(a).",
+          "pages": [
+            23
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": " \nLocal Civil Rules for the District of Alaska\nEffective October 15, 2025 \nPage 17\n(c) Information to be Placed on Signature Page\n(1) Names and Alaska bar numbers, if applicable, are to be typed beneath signatures \nto documents.\n(2) An attorney must identify each party the attorney represents.\nLocal Civil Rule 7.5 Exemplar",
+          "pages": [
+            24
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rules for the District of Alaska\nEffective October 15, 2025\nPage 18\n",
+          "pages": [
+            25
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 22,
+      "pageSpan": [
+        22,
+        25
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:8.1",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "8.1",
+      "citation": "District of Alaska · Rule 8.1",
+      "title": "General Rules of Pleading",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 8.1 General Rules of Pleading\n(a) Citation of Statute\nA party filing a complaint, counterclaim, or cross-claim seeking relief under a specific \nstatute should cite the statute relied upon in parentheses immediately below the title of \nthe pleading.\n(b) Jurisdictional Statement\nThe short and plain statement of jurisdictional grounds required by Fed. R. Civ. P. 8(a) \nmust be at the beginning of the body of the complaint, with citations to any federal \nstatutes or constitutional provisions upon which jurisdiction may be based.\n",
+          "pages": [
+            25
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 25,
+      "pageSpan": [
+        25,
+        25
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:10.1",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "10.1",
+      "citation": "District of Alaska · Rule 10.1",
+      "title": "Form of Pleadings",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 10.1 Form of Pleadings\nThe form of pleadings is governed by Local Civil Rules 7.5 and 8.1.\n",
+          "pages": [
+            25
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 25,
+      "pageSpan": [
+        25,
+        25
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:11.1",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "11.1",
+      "citation": "District of Alaska · Rule 11.1",
+      "title": "Appearances, Substitution, and Withdrawal of Counsel",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 11.1 Appearances, Substitution, and Withdrawal of Counsel\n(a) Entry of Appearance.\n(1) Filing a document on behalf of a party constitutes an entry of appearance on \nbehalf of the party; no separate entry of appearance is required.\n(2) A non-attorney may not appear on behalf of any other person or entity. \n(3) A party who has appeared by counsel may not thereafter act on the party’s own \nbehalf in the action unless an order of withdrawal of counsel has been entered by the \ncourt.\n(b) Notification of Change of Address. \n(1) An attorney who has entered an appearance must file and serve on all parties a \nnotice of change of address, telephone number, and/or e-mail address within 7 days \nof such change.\n(2) Self-represented parties must keep the court and other parties advised of the \nparty’s current address and telephone number.\n(3) If a court order or other mail served on a pro se plaintiff at their address of record \nis returned by the Postal Service as undeliverable and the pro se party has not filed a \nnotice of change of address within 14 days of the service date of the order or other \ncourt document, the court may dismiss the action with or without prejudice for failure \nto prosecute pursuant to Local Civil Rule 41.1.",
+          "pages": [
+            25
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rules for the District of Alaska\nEffective October 15, 2025\nPage 19\n(c) Substitution and Withdrawal.\n(1) A motion for leave to withdraw must be accompanied by:\n(A) written consent of the client;\n(B) substitution of counsel and formal appearance of substituting counsel; or\n(C) a showing of good cause.\n(2) Any party or attorney may oppose a motion to withdraw.\n(3) The court may deny the motion even if consented to or unopposed.\n(4) If the withdrawal would leave the party without an attorney of record, the motion \nmust:\n(A) provide the party's last known address and telephone number; and\n(B) the attorney proposing to withdraw must arrange a hearing and give the client \nat least 21 days written notice of the hearing, unless good cause is shown why a \nhearing should not be required.\n(5) Attorneys employed by a governmental entity may substitute as counsel without \nleave of court and without written consent of the client provided all parties to the \naction are immediately notified of the substitution, including the full name, mailing \naddress, telephone number, and e-mail address of the substituting attorney.\n(6) Withdrawal of a Limited Entry of Appearance is governed by Local Civil \nRule 83.1(c). \n",
+          "pages": [
+            26
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 25,
+      "pageSpan": [
+        25,
+        26
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:11.2",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "11.2",
+      "citation": "District of Alaska · Rule 11.2",
+      "title": "Sanctions",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 11.2 Sanctions\n(a) Imposition\nThe court may impose sanctions for violations of Local Civil Rules after notice and an \nopportunity to respond on the part of the person accused of a violation.\n(b) Types of Sanctions\n(1) Sanctions may include:\n(A) fines, costs, and attorney's fees awards; \n(B) establishment and preclusion orders; \n(C) default; \n(D) dismissal; and \n(E) other appropriate sanctions. ",
+          "pages": [
+            26
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rules for the District of Alaska\nEffective October 15, 2025\nPage 20\n(2) For matters of form not affecting substance or prejudicing parties or the court, \nsanctions will generally be limited to fines, costs, or attorney's fees awards.\n(3) For possible violations of ethical standards, the court may refer the matter to the \nrelevant bar association(s) for appropriate action.\n",
+          "pages": [
+            27
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 26,
+      "pageSpan": [
+        26,
+        27
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:15.1",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "15.1",
+      "citation": "District of Alaska · Rule 15.1",
+      "title": "Motions to Amend Pleadings",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 15.1 Motions to Amend Pleadings\n(a) A party moving to amend a pleading must attach the proposed amended pleading as \nan exhibit to the motion. The proposed amended pleading must clearly indicate how it \ndiffers from the pleading it amends, by bracketing or striking through the text to be \ndeleted and underlining the text to be added. The proposed amended pleading must not \nincorporate by reference any prior pleading, including exhibits.\n(b) Unless otherwise ordered, the moving party must file a complete, clean copy of the \namended pleading, including exhibits, within 7 days of the order granting the motion.\n",
+          "pages": [
+            27
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 27,
+      "pageSpan": [
+        27,
+        27
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:16.1",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "16.1",
+      "citation": "District of Alaska · Rule 16.1",
+      "title": "Pretrial Procedures",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 16.1 Pretrial Procedures\n(a) Matters Exempted from Standard Pretrial Procedures\nUnless otherwise ordered by the court, the following categories of cases are exempted \nfrom the requirement of scheduling conferences and scheduling orders:\n(1) Internal Revenue Service enforcement actions;\n(2) eminent domain proceedings;\n(3) bankruptcy appeals;\n(4) habeas corpus petitions;\n(5) Freedom-of-Information-Act actions;\n(6) actions to enforce out-of-state judgments;\n(7) Social Security appeals;\n(8) Administrative Procedure Act appeals; \n(9) actions filed by self-represented prisoners; \n(10) actions in which the defendant has not been served within 90 days after the \ncomplaint was filed; and\n(11) actions to enforce ERISA plans.\n(b) Pretrial Scheduling and Planning Report\nUnless otherwise ordered, the report required by Fed. R. Civ. P. 26(f) must:",
+          "pages": [
+            27
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rules for the District of Alaska\nEffective October 15, 2025\nPage 21\n(1) be in a form substantially similar to AK LCF 26(f), Scheduling and Planning \nConference Report;\n(2) be signed by counsel for each party and any self-represented party; and \n(3) clearly specify:\n(A) those matters, if any, on which the parties have been unable to reach \nagreement; and\n(B) the respective positions of each party on each matter on which agreement \ncould not be reached. \n(c) Standard Pretrial Procedures and Times\nUnless otherwise ordered, the following applies to all pretrial matters.\n(1) Preliminary motions, especially those raising legal issues that have the potential \nfor reducing necessary discovery, should be filed at the earliest time possible.\n(2) Motions to amend pleadings or add parties must be filed not later than 60 days \nafter the date the Pretrial Scheduling Order is entered. Thereafter, a party may seek \nleave of the court to modify this deadline. See Fed. R. Civ. P. 16(b)(4).\n(3) Each party must maintain a record of all disclosures and discovery responses \nrequired by the Federal Rules of Civil Procedure.\n(4) The parties may, by agreement, extend the time for a party to respond to any \ndiscovery request propounded by any other party.\n(5) Final discovery witness lists must be filed not later than 45 days before the close \nof discovery.\n(6) The deadline for completion of discovery in the Pretrial Scheduling Order is \napplicable to all depositions.\n(7) Motions under the discovery rules must be filed not later than 14 days after the \nclose of discovery.\n(8) Motions to exclude expert testimony must be filed not later than 30 days after the \nclose of expert discovery. \n(9) Dispositive motions must be filed not later than 30 days after the close of \ndiscovery.\n(d) Scheduling Cases for Trial\nSee Local Civil Rule 40.1. ",
+          "pages": [
+            28
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rules for the District of Alaska\nEffective October 15, 2025\nPage 22\n(e) Notice of Related Case\nWhenever a party has reason to believe that a civil action is related to another matter, as \ndefined in Local Rule 3.1, the party must promptly file a Notice of Related Case. Other \nparties have 14 days to respond to a Notice of Related Case and may file and serve a \nresponse supporting or opposing the notice. The Notice of Related Case must include:\n(1) the court, title, case number, and filing date of each matter believed to be related;\n(2) a brief statement of the relationship; and\n(3) a statement whether a common judicial assignment or consolidation is requested.\nIf consolidation is requested, a separate motion must be filed promptly. \n(f) Magistrate Judges are authorized to issue Pretrial Scheduling Orders in cases \nassigned to them by consent.\n",
+          "pages": [
+            29
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 27,
+      "pageSpan": [
+        27,
+        29
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:16.2",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "16.2",
+      "citation": "District of Alaska · Rule 16.2",
+      "title": "Alternative Dispute Resolution",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 16.2 Alternative Dispute Resolution\n(a) Policy Favoring Settlement by Alternative Dispute Resolution\nThe court favors resolution of cases by alternative dispute resolution (ADR).\n(b) Alternative Dispute Resolution Processes\n(1) Early Consideration of Mediation or Settlement Conference. At an early stage in \nevery case, the parties must actively consider mediation or a settlement conference \nto facilitate less costly resolution of the litigation.\n(2) Coordination with Case Management Rules. At the meeting of parties under Fed. \nR. Civ. P. 26(f) and any conference regarding case management under Fed. R. Civ. \nP. 16, litigants must discuss the advisability of engaging in ADR.\n(c) Motion for ADR\nUpon the request of one or all parties, or on the court’s own motion, the court may order:\n(1) a settlement conference before a United States district, bankruptcy, or magistrate \njudge, including a senior judge or retired judge, who is not assigned to the case and \nwho consents to serve as settlement judge; or\n(2) mediation with a privately retained mediator agreeable to all parties.\n(d) Conduct of Judicial Settlement Conference\n(1) Upon appointment, the settlement conference judge will establish the timing and \nother terms applicable to the settlement conference. \n(2) Upon conclusion of a settlement conference, the settlement conference judge will\npromptly file a report indicating whether the case has settled in whole or in part, ",
+          "pages": [
+            29
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rules for the District of Alaska\nEffective October 15, 2025\nPage 23\nwhether any follow up is scheduled, and any additional information that all parties \nhave agreed in writing should be included in the report.\n(3) If the settlement conference results in a settlement, the parties must file \nappropriate closing papers, or in the case of a partial settlement, papers appropriate \nto accomplish the partial settlement, within 30 days from the filing of the settlement \nconference judge’s report.\n",
+          "pages": [
+            30
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 29,
+      "pageSpan": [
+        29,
+        30
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:16.3",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "16.3",
+      "citation": "District of Alaska · Rule 16.3",
+      "title": "Administrative Agency Appeals",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 16.3 Administrative Agency Appeals \n(a) Applicability\nUnless otherwise ordered, this rule applies to all proceedings for judicial review \n(1) under the Administrative Procedure Act, 5 U.S.C. §§ 701–706; and\n(2) under the Social Security Act, 42 U.S.C. § 406 (g).\n(b) Agency Record\n(1) The agency must serve and file the agency record not later than 60 days after the \nagency’s initial appearance as specified below:\n(A) If the agency record is 5000 pages or less:\n(i) the agency must serve and electronically file the agency record; and\n(ii) in addition to the electronically filed copy of the agency record, the agency \nmust submit a paper copy of the agency record for use by the judge, which is\nnot part of the court record.\n(B) If the agency record exceeds 5000 pages:\n(i) the agency must serve the entire agency record on plaintiff and\n electronically file a certified list of the contents of the agency\n record with the court; the agency must also file the entire agency\n record, either electronically or conventionally.\n(ii) the parties must prepare an appendix containing copies of those portions of \nthe agency record that are cited or otherwise relied upon by the parties in their \nbriefs; they must not burden the appendix with excess material from the \nagency record that does not relate to the issues raised in the briefs; \n(iii) the parties must electronically file the appendix, as well as provide any \nchamber copy required by Local Rule 5.4, not later than 14 days after the final \nbrief is filed; and ",
+          "pages": [
+            30
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rules for the District of Alaska\nEffective October 15, 2025\nPage 24\n(iv) pages in the appendix must retain the original pagination from the \nadministrative record; the parties must cite to the record in their briefs using \nthis pagination.\n(2) A motion to supplement the agency record must be filed not later than 21 days \nafter the agency record or certified list of its contents has been filed with the court.\n(c) Briefing Schedule\n(1) Plaintiff’s opening brief must be filed not later than 30 days following the filing of \nthe agency record or 30 days after the court’s ruling on a motion to supplement the \nagency record, whichever is later. Failure to timely file the opening brief may result in \ndismissal of the appeal.\n(2) Defendant’s brief in opposition must be filed not later than 30 days after plaintiff \nhas filed and served plaintiff’s opening brief.\n(3) Plaintiff may file a reply to defendant’s brief not later than 14 days after service of \nthe defendant’s brief.\n(4) No additional briefs may be filed without leave of the court.\n(5) One extension of time of up to 14 days will be routinely granted for each brief. \nAny additional extension of time requires a showing of good cause.\n(6) Page and word limitations of Local Rule 7.4(a) apply. \n",
+          "pages": [
+            31
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 30,
+      "pageSpan": [
+        30,
+        31
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:26.1",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "26.1",
+      "citation": "District of Alaska · Rule 26.1",
+      "title": "Discovery",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 26.1 Discovery\n(a) Motions for Protective Orders\nA party filing a motion for a protective order under Fed. R. Civ. P. 26(c) must comply with \nthe duty to confer in Local Civil Rule 37.1(a).\n(b) Filing of Conference Report\nThe court may require the written report outlining the discovery plan as set forth in Fed. \nRule Civ. P. 26(f)(3) to be filed within 7 days after the parties’ planning conference.\n",
+          "pages": [
+            31
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 31,
+      "pageSpan": [
+        31,
+        31
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:30.1",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "30.1",
+      "citation": "District of Alaska · Rule 30.1",
+      "title": "Audio-Visual Depositions",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 30.1 Audio-Visual Depositions\n(a) If feasible, an audio–visual deposition must depict the witness seated at a table. \n(b) The direction of the camera and lens may not be varied except as necessary to follow \nnatural body movements of the witness or to present exhibits or describe evidence being \nused during the deposition.",
+          "pages": [
+            31
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rules for the District of Alaska\nEffective October 15, 2025\nPage 25\n",
+          "pages": [
+            32
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 31,
+      "pageSpan": [
+        31,
+        32
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:32.1",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "32.1",
+      "citation": "District of Alaska · Rule 32.1",
+      "title": "Use of Depositions in Court Proceedings",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 32.1 Use of Depositions in Court Proceedings\n(a) Parties may use depositions without orders for publication.\n(b) If any party seeks to maintain confidentiality for all or any part of a deposition, the \nparty may move for a protective order.\n(c) A copy of each deposition that a party anticipates using in court must be provided to \nthe court when a copy of the exhibit list is filed. See Local Civil Rule 39.3. \n",
+          "pages": [
+            32
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 32,
+      "pageSpan": [
+        32,
+        32
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:33.1",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "33.1",
+      "citation": "District of Alaska · Rule 33.1",
+      "title": "Excess Interrogatories",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 33.1 Excess Interrogatories\n(a) Duty to Answer\nIf a party is served with more interrogatories than permitted by Fed. R. Civ. P. 33(a)(1), \nthe responding party must answer or object to all permitted interrogatories in the order \npresented. \n(b) Response to Excess Interrogatories\nThe responding party may either answer an excess interrogatory or object by referencing\nFed. R. Civ. P. 33(a)(1).\n",
+          "pages": [
+            32
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 32,
+      "pageSpan": [
+        32,
+        32
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:35.1",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "35.1",
+      "citation": "District of Alaska · Rule 35.1",
+      "title": "Physical and Mental Examinations",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 35.1 Physical and Mental Examinations\nA party filing a motion to compel a physical or mental examination under Fed. R. Civ. \nP. 35 must either:\n(a) represent that the opposing party does not object to the entry of the order; or\n(b) comply with the requirements of Local Civil Rule 37.1.\n",
+          "pages": [
+            32
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 32,
+      "pageSpan": [
+        32,
+        32
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:36.1",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "36.1",
+      "citation": "District of Alaska · Rule 36.1",
+      "title": "Requests for Admission",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 36.1 Requests for Admission\nUnless otherwise stipulated or ordered by the court, a party may serve on any other party \nno more than 25 requests for admission. \n",
+          "pages": [
+            32
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 32,
+      "pageSpan": [
+        32,
+        32
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:37.1",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "37.1",
+      "citation": "District of Alaska · Rule 37.1",
+      "title": "Discovery Motions/Duty to Confer",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 37.1 Discovery Motions/Duty to Confer\nThe certification required by Fed. R. Civ. P. 37(a)(1) must be in the first paragraph of a \ndiscovery motion.",
+          "pages": [
+            32
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rules for the District of Alaska\nEffective October 15, 2025\nPage 26\n",
+          "pages": [
+            33
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 32,
+      "pageSpan": [
+        32,
+        33
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:38.1",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "38.1",
+      "citation": "District of Alaska · Rule 38.1",
+      "title": "Jury Demand",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 38.1 Jury Demand\nIf a demand for jury trial is set forth in a pleading pursuant to Fed. R. Civ. P. 38, rather \nthan in a separate filing, the demand must be placed conspicuously on the first page of \nthe pleading.\n",
+          "pages": [
+            33
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 33,
+      "pageSpan": [
+        33,
+        33
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:39.1",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "39.1",
+      "citation": "District of Alaska · Rule 39.1",
+      "title": "Final Pretrial Conference",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 39.1 Final Pretrial Conference\nThe court may, in its discretion, schedule a final pretrial conference. Counsel who will \nhave primary responsibility for trying the case for each party must attend, as well as any \nself-represented party. At the final pretrial conference, the court may address the \nfollowing: opening statements; limiting and defining the issues; resolving objections and \nother matters related to witnesses and exhibits; resolving any pending motions; and, in \njury cases, discussing the jury selection process and jury instructions.\n",
+          "pages": [
+            33
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 33,
+      "pageSpan": [
+        33,
+        33
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:39.2",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "39.2",
+      "citation": "District of Alaska · Rule 39.2",
+      "title": "Trial Briefs",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 39.2 Trial Briefs\n(a) Time for Filing. Unless otherwise ordered, each party must file and serve a trial brief \nnot less than 21 days prior to the scheduled trial date.\n(b) Length and Format. The brief may not exceed 25 pages and must contain:\n(1) a listing by docket number of the operative complaint and each substantive pre￾trial order;\n(2) a description of each claim that is at issue for the trial, together with a summary, \nby claim, of the anticipated evidence;\n(3) a discussion of relevant legal authority; and\n(4) a summary of anticipated evidentiary issues.\n",
+          "pages": [
+            33
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 33,
+      "pageSpan": [
+        33,
+        33
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:39.3",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "39.3",
+      "citation": "District of Alaska · Rule 39.3",
+      "title": "Trial Exhibits",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 39.3 Trial Exhibits\n(a) Marking Exhibits and Exhibit List\nExhibits must be marked using court-approved labels. The parties must agree on a \nnumbering convention for identifying exhibits. Individual pages of each exhibit must be \nnumbered. Each exhibit must be identified in an exhibit list on the court-approved form\n“Civil Exhibit List” found on the court’s website. \n(b) Exhibit Exchange; Filing of Exhibits and Depositions\n(1) At least 14 days before trial the parties must:\n(A) physically or electronically exchange trial exhibits and lists; and",
+          "pages": [
+            33
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rules for the District of Alaska\nEffective October 15, 2025\nPage 27\n(B) confer regarding stipulations as to authenticity, admissibility, and minimization \nof duplicate exhibits.\n(2) At least 7 days before trial each party must file its Civil Exhibit List identifying \nstipulations as to authenticity and admissibility. \n(3) Unless otherwise ordered, copies of each party’s exhibits and each deposition a \nparty anticipates using at trial must be delivered to the Clerk for the judge’s use at \ntrial with the filing of the Civil Exhibit List. The copy must contain a cover page listing \nthe exhibits and the exhibits must be separated by tabs.\n(c) Exhibit Use During Trial\n(1) Exhibits, whether or not stipulated, are not admitted until ordered by the court.\n(2) Each party must maintain custody of its exhibits to allow use by all parties.\n(3) Prior to jury deliberations, the courtroom deputy shall ensure that only admitted \nexhibits are presented to the jury.\n(4) At the conclusion of trial, unless otherwise ordered, custody of exhibits will be\nreturned to the parties for preservation until final disposition.\n(d) Other Evidentiary Proceedings\nThe court may apply this rule to evidentiary proceedings other than trials.\n(e) Digital Evidence Presentation Systems (DEPS)\nSee Local Civil Rule 7.1(i).\n",
+          "pages": [
+            34
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 33,
+      "pageSpan": [
+        33,
+        34
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:39.4",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "39.4",
+      "citation": "District of Alaska · Rule 39.4",
+      "title": "Opening Statements/Use of Exhibits",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 39.4 Opening Statements/Use of Exhibits\nExhibits must not be displayed during opening statements unless leave has been \ngranted and the court has admitted the exhibit into evidence.\n",
+          "pages": [
+            34
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 34,
+      "pageSpan": [
+        34,
+        34
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:39.5",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "39.5",
+      "citation": "District of Alaska · Rule 39.5",
+      "title": "Contact with Trial Jurors",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 39.5 Contact with Trial Jurors\n(a) Before or During Trial\nNo party, attorney, or other interested person may contact or communicate with, directly \nor indirectly, any juror, prospective juror, or member of such juror's or prospective juror's\nfamily.\n(b) After Trial\nAfter the jury concludes its deliberations and is discharged, a party, attorney, or other\ninterested person may communicate with a juror who first initiates contact. Unless ",
+          "pages": [
+            34
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rules for the District of Alaska\nEffective October 15, 2025\nPage 28\notherwise ordered, no party, lawyer, investigator, or other agent for a party shall attempt \nto initiate contact with any trial juror, including any alternate juror. Jurors are free to, but \nare under no obligation to, discuss the trial in which the juror has been a participant.\n(c) Notice\nSubsections (a) and (b) will be posted in the jury rooms of this District and jurors will be\ninstructed fully as to this matter.\n",
+          "pages": [
+            35
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 34,
+      "pageSpan": [
+        34,
+        35
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:40.1",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "40.1",
+      "citation": "District of Alaska · Rule 40.1",
+      "title": "Scheduling Cases for Trial",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 40.1 Scheduling Cases for Trial\n(a) Scheduling Order\nTrial scheduling shall be addressed in the Local Civil Rule 16.1 Scheduling Order either \nby a date certain or following a Certification Order. \n(b) Certification Order\nIf a trial date has not been scheduled, then upon the later of the deadline for filing\ndispositive motions or rulings on such motions, the court will order the parties to certify \nthe case as ready for trial and advise as to their availability for trial, or report as to the \nactions necessary for the case to be ready for trial.\n",
+          "pages": [
+            35
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 35,
+      "pageSpan": [
+        35,
+        35
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:40.2",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "40.2",
+      "citation": "District of Alaska · Rule 40.2",
+      "title": "Continuance of Trial",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 40.2 Continuance of Trial\nMotions for continuance of trial must be supported by a showing of good cause. The \nmotion shall include the proposed length of the continuance.\n",
+          "pages": [
+            35
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 35,
+      "pageSpan": [
+        35,
+        35
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:41.1",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "41.1",
+      "citation": "District of Alaska · Rule 41.1",
+      "title": "Dismissal of Actions",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 41.1 Dismissal of Actions \nFailure to prosecute or to otherwise comply with the Federal Rules of Civil Procedure,\nthe Local Civil Rules, or with any court order may result in imposition of sanctions \nauthorized by law, including dismissal.\n",
+          "pages": [
+            35
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 35,
+      "pageSpan": [
+        35,
+        35
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:47.1",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "47.1",
+      "citation": "District of Alaska · Rule 47.1",
+      "title": "Jury Selection",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 47.1 Jury Selection\nUnless otherwise ordered, proposed questions for potential jurors must be filed 7 days \nprior to trial. See also Local Civil Rule 39.1.",
+          "pages": [
+            35
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-37",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rules for the District of Alaska\nEffective October 15, 2025\nPage 29\n",
+          "pages": [
+            36
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 35,
+      "pageSpan": [
+        35,
+        36
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:51.1",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "51.1",
+      "citation": "District of Alaska · Rule 51.1",
+      "title": "Jury Instructions",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-37",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 51.1 Jury Instructions\n(a) Meeting of Parties\nUnless otherwise ordered, no later than 21 days before trial, the parties must meet and \nconfer on jury instructions.\n(b) Time for Filing\nUnless otherwise ordered, the parties must file proposed jury instructions no later than \n14 days before trial. The parties may file joint instructions on which the parties agree.\n(c) Form\n(1) A party may simply reference a Ninth Circuit Model Jury Instruction if no \nmodification is requested. \n(2) All other proposed instructions must:\n(A) be numbered consecutively;\n(B) indicate the party requesting the instruction;\n(C) address only one subject each; and\n(D) state the legal authority on which it relies.\n",
+          "pages": [
+            36
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 36,
+      "pageSpan": [
+        36,
+        36
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:54.1",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "54.1",
+      "citation": "District of Alaska · Rule 54.1",
+      "title": "Taxation of Costs",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-37",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 54.1 Taxation of Costs\n(a) Time to File/Waiver\nA bill of costs must be filed and served no later than 14 days after entry of judgment or \nan applicable order. Otherwise, claims for costs are waived. \n(b) Contents of Bill of Costs\nSee Bill of Cost Form AO 133. A bill of costs, supported by invoices and other relevant \nmaterials, must be filed in CM/ECF.\n(c) Objections to Bill of Costs\nObjections must be filed and served within 7 days of filing the bill of costs. \n(d) Taxation of Costs/Review by Court\nUnless requested by the Clerk, costs will be decided with no hearing. A party \ndisagreeing with the Clerk’s decision must file a motion seeking review by the court \nwithin 7 days of the decision.",
+          "pages": [
+            36
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-38",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rules for the District of Alaska\nEffective October 15, 2025\nPage 30\n(e) Taxable Costs\nSee 28 U.S.C. § 1920 et seq. and commentary to Fed. R. Civ. P. 54. Taxable costs \ninclude:\n(1) marshal fees, see 28 U.S.C. § 1921 and other reasonable service of process fees;\n(2) transcripts when prepared pursuant to stipulation or order;\n(3) reasonable deposition costs, including transcript and interpreter’s fee;\n(4) non-party witness fees, mileage, and subsistence, including parties subpoenaed \nby adverse parties; see 28 U.S.C. § 1821;\n(5) interpreter fees;\n(6) reasonable cost of copying and exhibit preparation, excluding demonstrative \nexhibits;\n(7) docket fees; see 28 U.S.C. § 1923;\n(8) fees for masters, receivers, and commissioners ordered by the court;\n(9) state court filing fees for removal jurisdiction actions; \n(10) postage; and\n(11) other costs specifically required by court order. \n",
+          "pages": [
+            37
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 36,
+      "pageSpan": [
+        36,
+        37
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:54.2",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "54.2",
+      "citation": "District of Alaska · Rule 54.2",
+      "title": "Award of Attorney’s Fees",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-38",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 54.2 Award of Attorney’s Fees\nA motion for attorney’s fees under Fed. R. Civ. P. 54(d)(2) must:\n(a) state the amount requested;\n(b) set forth the authority for the award, whether a federal statute, Alaska Rule of Civil \nProcedure 82, a contractual provision, or other grounds; and\n(c) be accompanied by a declaration or affidavit that demonstrates the \nreasonableness of the requested award and includes:\n(1) the total number of hours worked and billing rate for each lawyer and \nparaprofessional;\n(2) the customary fee charged in similar matters in the District of Alaska; \n(3) the amount charged to the client, if any; and\n(4) itemized billing records.",
+          "pages": [
+            37
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rules for the District of Alaska\nEffective October 15, 2025\nPage 31\n",
+          "pages": [
+            38
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 37,
+      "pageSpan": [
+        37,
+        38
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:55.1",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "55.1",
+      "citation": "District of Alaska · Rule 55.1",
+      "title": "Entry of Default and Default Judgment",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 55.1 Entry of Default and Default Judgment\n(a) Entry of Default.\nMotions for entry of default must include proof of service of the complaint per Fed. R \n.Civ. P. 4 and notice to appearing parties.\n(b) Judgment Following Default.\n(1) Attorney’s Fees. For purposes of Fed. R. Civ. P. 55(b)(1), a claim for “reasonable \nattorney’s fees” is not a claim for a sum certain. \n(2) Supporting Evidence. Motions for judgment following entry of default must be \nsupported by declarations and evidence establishing the right to relief, including but \nnot limited to:\n(A) calculations supporting the amount of judgment; \n(B) relevant contract documents;\n(C) the facts supporting any claim for prejudgment interest, including the \napplicable interest rate and calculation of interest due, see 28 U.S.C. § 1961;\n(D) the facts supporting any claim for attorney’s fees, including the amount of fees \nsought, the actual time spent, and actual fees incurred; and\n(E) compliance with the Service Members Civil Relief Act, 50 USC §§ 3901-4043.\n",
+          "pages": [
+            38
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 38,
+      "pageSpan": [
+        38,
+        38
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:56.1",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "56.1",
+      "citation": "District of Alaska · Rule 56.1",
+      "title": "Rand Notice",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 56.1 Rand Notice\nPursuant to Rand v. Rowland, 154 F.3d 952 (9th Cir. 1998), a party moving for summary \njudgment shall file and serve with its motion a notice to a pro se prisoner litigant \nsummarizing the import of Fed. R. Civ. P. 56, including the possibility of dismissal of the \ncase. The notice must conform to the model notice set forth in Appendix A of the Rand\ndecision. The notice shall clearly indicate: “This Notice is Required to be Given to You by \nthe Court.” \n",
+          "pages": [
+            38
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 38,
+      "pageSpan": [
+        38,
+        38
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:58.1",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "58.1",
+      "citation": "District of Alaska · Rule 58.1",
+      "title": "Judgments",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 58.1 Judgments\n(a) Timing\n(1) Entry of judgment will not be delayed for the taxing of costs or computation of \nprejudgment interest.\n(2) When appropriate, the Clerk will leave blank spaces in the judgment for costs, \nattorney’s fees, and interest.",
+          "pages": [
+            38
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-40",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rules for the District of Alaska\nEffective October 15, 2025\nPage 32\n(3) The Clerk will amend the judgment when interest, costs, and attorney’s fees are \nawarded. \n(b) Service\nThe Clerk will serve the judgment on the same day that the judgment is entered.\n(c) Prejudgment Interest\nWhen prejudgment interest is sought: \n(1) Within 14 days of the entry of judgment, the prevailing party must file and serve \nthe following:\n(A) a computation of interest; and\n(B) the statutory or other basis for the interest rate.\n(2) If any other party disagrees with the computation, the party must file an alternative \ncomputation within 7 days of service of the prevailing party's computation.\n",
+          "pages": [
+            39
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 38,
+      "pageSpan": [
+        38,
+        39
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:58.2",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "58.2",
+      "citation": "District of Alaska · Rule 58.2",
+      "title": "Satisfaction of Judgments",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-40",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 58.2 Satisfaction of Judgments\n(a) Acknowledgment of Satisfaction\nUpon request of the judgment debtor, the judgment creditor must file and serve an \nacknowledgment of satisfaction or partial satisfaction of judgment within 14 days of such \nrequest.\n(b) Partial Satisfaction\nA partial satisfaction of judgment must state the amount paid.\n",
+          "pages": [
+            39
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 39,
+      "pageSpan": [
+        39,
+        39
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:67.1",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "67.1",
+      "citation": "District of Alaska · Rule 67.1",
+      "title": "Deposit of Funds in the Registry Account",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-40",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 67.1 Deposit of Funds in the Registry Account\n(a) Receipt of Funds\n(1) No money will be sent to the court or its officers for deposit in the court’s registry \nwithout a court order signed by the presiding district or magistrate judge in the case \nor proceeding.\n(2) The party making the deposit or transferring funds to the court’s registry will serve \nthe order permitting the deposit or transfer on the Clerk of Court.\n(3) Unless provided for elsewhere in this Local Rule, all money ordered to be paid to \nthe court or received by its officers in any case pending or adjudicated will be \ndeposited with the Treasurer of the United States in the name and to the credit of this ",
+          "pages": [
+            39
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-41",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rules for the District of Alaska\nEffective October 15, 2025\nPage 33\ncourt pursuant to 28 U.S.C. § 2041 through depositories designated by the Treasury \nto accept such deposit on its behalf.\n(b) Investment of Registry Funds\n(1) Unless otherwise ordered by a district judge, all funds deposited in the registry of \nthe court in which the principal equals or exceeds $5000 are to be placed in an \ninterest-bearing account. The Court Registry Investment System (“CRIS”), \nadministered by the Administrative Office of the United States Courts under 28 U.S.C. \n§ 2045, will be the only investment mechanism authorized.\n(2) Interpleader funds deposited under 28 U.S.C. § 1335 meet the IRS definition of a\nDisputed Ownership Fund (“DOF”), a taxable entity that requires tax administration. \nUnless otherwise ordered by the court, interpleader funds shall be deposited in the \nDOF established within the CRIS and administered by the Administrative Office of the \nUnited States Courts, which shall be responsible for meeting all DOF tax \nadministration requirements.\n(3) The Director of the Administrative Office of the United States Courts is designated \nas custodian for CRIS. The Director or the Director’s designee will perform the duties \nof custodian. Funds held in the CRIS remain subject to the control and jurisdiction of \nthe court.\n(4) Money from each case deposited in the CRIS will be “pooled” together with those \non deposit with the Treasury to the credit of other courts in the CRIS and used to \npurchase Government Account Series securities through the Bureau of Public Debt, \nwhich will be held at the Treasury, in an account in the name and to the credit of the \nDirector of the Administrative Office of the United States Courts. The pooled funds \nwill be invested in accordance with the principals of the CRIS Investment Policy as \napproved by the Registry Monitoring Group.\n(5) An account for each case will be established in the CRIS titled in the name of the \ncase giving rise to the investment of the fund. Income generated from fund \ninvestments will be distributed to each case based on the ratio each account’s \nprincipal and earnings has to the aggregate principal and income total in the fund. \nReports showing the interest earned and the principal amounts contributed in each \ncase will be prepared and distributed to each court participating in the CRIS and \nmade available to litigants and/or their counsel.\n(6) For each interpleader case, an account shall be established in the CRIS Disputed\nOwnership Fund, titled in the name of the case giving rise to the deposit invested in \nthe fund. Income generated from fund investments will be distributed to each case \nafter the DOF fee has been applied and tax withholdings have been deducted from \nthe fund. Reports showing the interest earned and the principal amounts contributed \nin each case will be available through the FedInvest/CMS application for each court ",
+          "pages": [
+            40
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-42",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rules for the District of Alaska\nEffective October 15, 2025\nPage 34\nparticipating in the CRIS and made available to litigants and/or their counsel. On \nappointment of an administrator authorized to incur expenses on behalf of the DOF in \na case, the case DOF funds should be transferred to another investment account as \ndirected by court order.\n(c) Fees and Taxes\n(1) The custodian is authorized and directed by this Order to deduct the CRIS fee of \nan annualized 10 basis points on assets on deposit for all CRIS funds, excluding the \ncase funds held in the DOF, for the management of investments in the CRIS. \nAccording to the Court’s Miscellaneous Fee Schedule, the CRIS fee is assessed from \ninterest earnings to the pool before a pro rata distribution of earnings is made to court \ncases.\n(2) The custodian is authorized and directed by this Order to deduct the DOF fee of \nan annualized 20 basis points on assets on deposit in the DOF for management of\ninvestments and tax administration. According to the Court’s Miscellaneous Fee\nSchedule, the DOF fee is assessed from interest earnings to the pool before a pro \nrata distribution of earnings is made to court cases. The custodian is further \nauthorized and directed by this Order to withhold and pay federal taxes due on behalf \nof the DOF.\n(d) Disbursement of Registry Funds\n(1) Upon the entry of a judgment, funds, if any, on deposit in the registry of the court \nwill be disbursed only by order of the court after the time for appeal has expired, or \nupon written stipulation by all parties approved by the court.\n(2) Each order directing the Clerk to disburse funds must be clearly entitled “order to \ndisburse funds” and must be without conditions to be met prior to disbursement of \nsaid funds. It must indicate which parties are entitled to principal and any accrued \ninterest. The order must also contain the name and mailing address of the party \nentitled to said funds, in which case the information may be redacted and/or provided \ndirectly to the Clerk’s financial office.\n(3) Taxpayer identification numbers for the check payees must be delivered directly to \nthe Clerk’s financial office prior to disbursement.\n",
+          "pages": [
+            41
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 39,
+      "pageSpan": [
+        39,
+        41
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:68.1",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "68.1",
+      "citation": "District of Alaska · Rule 68.1",
+      "title": "Settlements and Judgments in Favor of a Minor",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-42",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 68.1 Settlements and Judgments in Favor of a Minor\n(a) Authority to Settle a Minor’s Claim\nSettlement, compromise, or other resolution of a minor’s claim by a parent or legal\nguardian of a minor must comply with this rule. ",
+          "pages": [
+            41
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-43",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rules for the District of Alaska\nEffective October 15, 2025\nPage 35\n(b) Settlements\nA settlement agreement, release, or stipulation that resolves or dismisses a minor’s claim \nmust be approved by the Superior Court for the State of Alaska under Alaska Rule of \nCivil Procedure 90.2.\n(1) The Superior Court must approve:\n(A) the terms of any settlement, release or stipulation; and\n(B) the plan of disbursement, including the provisions for expenses, costs, and \nfees.\n(2) No judgment or order of dismissal will be issued until the Superior Court’s order \napproving the settlement, release or stipulation under Rule 90.2 is filed with this court.\n(c) Judgments\nUpon judgment in favor of a minor, the parent or guardian asserting the claim on behalf \nof the minor must seek approval of any plan of disbursement of the proceeds from the \nSuperior Court for the State of Alaska under Alaska Rule of Civil Procedure 90.2.\n(1) The Superior Court must approve the plan of disbursement contemplated,\nincluding the provisions for expenses, costs, and fees.\n(2) No final judgment will be issued until a copy of the order of the Superior Court \napproving the disbursement plan is filed with this court.\n(d) Non-Resident Parents and Guardians\n(1) When a parent or legal guardian is not a resident of the State of Alaska, if the \nstate where the parent or guardian resides has a procedure similar to Alaska Rule of \nCivil Procedure 90.2, the court may order the parent or legal guardian to obtain \napproval of the settlement of judgment using that state’s procedure.\n(2) In the absence of a similar procedure, the court may adopt such procedure as it\ndeems appropriate for approval of a settlement. \n",
+          "pages": [
+            42
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 41,
+      "pageSpan": [
+        41,
+        42
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:73.1",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "73.1",
+      "citation": "District of Alaska · Rule 73.1",
+      "title": "Assignment of Cases to Magistrate Judges",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-43",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 73.1 Assignment of Cases to Magistrate Judges\n(a) Pursuant to 28 U.S.C. §636(c), any full-time magistrate judge may conduct all \nproceedings, including a jury or non-jury trial, in a civil case. \n(b) The assigned district judge may, in consultation with the Chief Judge, assign \ncases to a magistrate judge, and will issue to the parties a Notice of Intent to reassign\nthe case to a magistrate judge, as well as a Declination of Consent Form. ",
+          "pages": [
+            42
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-44",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rules for the District of Alaska\nEffective October 15, 2025\nPage 36\n(c) Any party may decline to consent to have the magistrate judge preside over the case \nby signing and returning the form within 14 calendar days from the date of service of the \nNotice. Incarcerated plaintiffs who are proceeding pro se may decline to consent by \nsigning and returning the form within 21 calendar days from the date of service of the \nNotice. \n(d) If a party submits a timely Declination of Consent form, the case will remain assigned \nto the district judge. Failure to timely submit the form will be deemed as the party’s \nconsent to proceed for all purposes before the assigned magistrate judge. \n",
+          "pages": [
+            43
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 42,
+      "pageSpan": [
+        42,
+        43
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:77.1",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "77.1",
+      "citation": "District of Alaska · Rule 77.1",
+      "title": "Orders and Judgments by the Clerk",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-44",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 77.1 Orders and Judgments by the Clerk \nThe Clerk is authorized to sign and enter the orders listed below without further direction \nby the court.\n(a) Orders on consent for the substitution of attorneys\n(b) Orders on consent satisfying a judgment, annulling bonds, or exonerating \nsureties; \n(c) Orders authorized by Fed. R. Civ. P. 77(c)(2); and\n(d) Orders authorizing admission under Local Civil Rule 83.1(d).\n",
+          "pages": [
+            43
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 43,
+      "pageSpan": [
+        43,
+        43
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:77.2",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "77.2",
+      "citation": "District of Alaska · Rule 77.2",
+      "title": "Court Library",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-44",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 77.2 Court Library\nThe US Courts Alaska branch law library is maintained in the United States District Court \nAnchorage location. The general public may make use of the library during the hours \nposted online and outside the library.\nThe librarian will enforce reasonable policies for proper safekeeping, maintenance, and \nuse of the library. Violators of library policies are subject to loss of library privileges.\n",
+          "pages": [
+            43
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 43,
+      "pageSpan": [
+        43,
+        43
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:77.3",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "77.3",
+      "citation": "District of Alaska · Rule 77.3",
+      "title": "Remote Public Access to Civil Court Proceedings",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-44",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 77.3 Remote Public Access to Civil Court Proceedings \n(a) Generally Allowed at Judge’s Discretion\nTo the extent not prohibited by statute, the Federal Rules of Civil Procedure, Ninth Circuit \nJudicial Council Policy, or local rule, judges of this court may, in their discretion, provide \nthe public with remote video or audio access to court proceedings. This applies to \nproceedings conducted in the courtroom as well as proceedings in which the judge \nand/or the attorneys are appearing remotely.",
+          "pages": [
+            43
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-45",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rules for the District of Alaska\nEffective October 15, 2025\nPage 37\n(b) Prohibitions on Provision of Remote Public Access\n(1) Remote public access will not be permitted where doing so would risk interfering \nwith the integrity of the proceedings. This includes, but is not limited to, situations \nwhere remote public access would risk infringing on privacy interests, creating safety \nconcerns, or materially affecting witness testimony.\n(2) Remote public access to jury trials is prohibited.\n(3) Remote public access to criminal proceedings is prohibited. \n(c) Request for, or Objections to, Remote Public Access\nParties to a case may request remote public access in a motion. Nonparties may request\nremote public access using the form on the Court’s website. Absent a showing of good \ncause, requests must be filed at least 14 days before the proceeding. Any party may file \nan objection to remote public access. Any objection must be filed at least 7 days before \nthe proceeding. \n(d) No capture or transmission of remote access permitted\nPersons with remote access to court proceedings are prohibited from recording, \nphotographing, or retransmitting those proceedings.\n",
+          "pages": [
+            44
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 43,
+      "pageSpan": [
+        43,
+        44
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:77.4",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "77.4",
+      "citation": "District of Alaska · Rule 77.4",
+      "title": "Photographs, Video or Audio Recorders, Broadcasts",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-45",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 77.4 Photographs, Video or Audio Recorders, Broadcasts \nUnless otherwise ordered by the court, the taking of photographs and operation of video \nor audio recorders in the courtroom or its environs and/or radio or television broadcasting \nfrom the courtroom or its environs during the progress of, or in connection with judicial \nproceedings, whether or not court is actually in session, is prohibited.\n",
+          "pages": [
+            44
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 44,
+      "pageSpan": [
+        44,
+        44
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:79.1",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "79.1",
+      "citation": "District of Alaska · Rule 79.1",
+      "title": "Official Record",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-45",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 79.1 Official Record\nWhen a document has been filed electronically or is filed conventionally and scanned \ninto the CM/ECF System by the Clerk of Court, the official record is the electronic \nrecording of the document as stored by the court, and the filing party is bound by the \ndocument as filed.\n",
+          "pages": [
+            44
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 44,
+      "pageSpan": [
+        44,
+        44
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:79.2",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "79.2",
+      "citation": "District of Alaska · Rule 79.2",
+      "title": "Books and Records of the Clerk; Access and Copies",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-45",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 79.2 Books and Records of the Clerk; Access and Copies\n(a) Clerk’s Custody\nExcept as otherwise provided by this rule or order of the court, no record or paper \nbelonging to the files of the court may be taken from the office or custody of the Clerk.",
+          "pages": [
+            44
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-46",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rules for the District of Alaska\nEffective October 15, 2025\nPage 38\n(1) If any record or paper in the court files is needed as an exhibit or other purpose, \nthe Clerk will prepare a certified copy upon payment of the appropriate fee. \n(2) After the completion of any post-judgment proceedings, the filing of any \nmandates, and the expiration of any time limits for additional proceedings:\n(A) all materials and exhibits, including electronic media, not already in the \ncustody of the parties, will be returned to the party or person to whom they belong, \nexcept as may otherwise be ordered; and\n(B) if items are not retrieved by the parties within 30 days after the Clerk has\nprovided notice, the Clerk may destroy them. \n(3) Exhibits unsuitable for the Clerk’s custody must:\n(A) be retained following trial by the party introducing them into evidence until \njudgment is final; and\n(B) the parties are responsible for producing the exhibits if required for an appeal \nrecord. \n(b) Access to Public Records; Copies\n(1) A person may review at the Clerk’s office all filings that have not been sealed by \nthe court, whether retained in paper or electronic format.\n(2) Paper copies and certified copies of documents may be obtained from the Clerk’s \noffice.\n(3) A fee for copying and certification will be charged and collected in accordance \nwith the Miscellaneous Fee Schedule promulgated by the Judicial Conference of the \nUnited States.\n(c) Pro Se Materials\n(1) Self-represented litigants are required to retain a copy of any conventionally filed \npaper documents. \n(2) Conventionally filed paper documents will not be returned to litigants unless a \nlitigant motions the court for its return. \n(3) A Motion for Return should be made at the time of filing or no later than 120 days \nfrom docketing. The Clerk of Court may dispose of any conventionally filed \ndocuments by a self-represented litigant no earlier than 180 days after docketing. ",
+          "pages": [
+            45
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-47",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rules for the District of Alaska\nEffective October 15, 2025\nPage 39\n",
+          "pages": [
+            46
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 44,
+      "pageSpan": [
+        44,
+        46
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:80.1",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "80.1",
+      "citation": "District of Alaska · Rule 80.1",
+      "title": "Record of Proceedings",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-47",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 80.1 Record of Proceedings\n(a) Manner of Reporting Proceedings\n(1) All court proceedings will be electronically or stenographically recorded. \n(2) The court will consider only official transcripts of court proceedings that have been \ncertified by an official court reporter, recorder, or transcriber. The Guide to Judiciary \nPolicy with respect to court reporting methods is found in Chapter Three of \nhttp://www.uscourts.gov/rules-policies/judiciary-policies/court-reporting-guidance.\n(3) A request for a real-time court reporter and daily transcripts must be filed not later \nthan 30 days before the date set for the trial or hearing. The requesting party must \nthereafter make whatever fee arrangements are necessary.\n(b) Preparation of Official Record—Transcripts, Tape Recordings\n(1) Arrangements for preparation of a transcript of a court proceeding are to be made \nby filing AO Form 435 Transcript Order Form in CM/ECF. If on appeal, US District \nCourt of Alaska Form 46 Transcript Designation Form is to be filed in CM/ECF in \naddition, as an attachment to AO FORM 435. \n(2) Arrangements for preparation of a duplicate recording of an electronic record are \nto be made by filing AO FORM 436 Audio Recording Form in CM/ECF. The Clerk’s \nOffice will then make arrangements for transcription or provide a duplicate recording \naccording to the form submitted.\n(c) Fees—Transcripts, Tape Recordings\n(1) All fees for transcripts and tape recordings may not exceed the maximum amount \nset by the Judicial Conference of the United States.\n(2) A current schedule of the fees, as established by the Judicial Conference, will be \nposted by the Clerk and be provided on request by the Clerk's office and official court \nreporters. The Guide to Judiciary Policy with respect to court reporting fees is found \nin Chapter Five of http://www.uscourts.gov/rules-policies/judiciary-policies/court￾reporting-guidance.\n",
+          "pages": [
+            46
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 46,
+      "pageSpan": [
+        46,
+        46
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:81.1",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "81.1",
+      "citation": "District of Alaska · Rule 81.1",
+      "title": "Applicability",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-47",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 81.1 Applicability\nThese rules may be applied in admiralty, bankruptcy, criminal, or habeas proceedings, to \nthe degree their application is not inconsistent with those rules or with statutes governing \nthose proceedings.",
+          "pages": [
+            46
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-48",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rules for the District of Alaska\nEffective October 15, 2025\nPage 40\n",
+          "pages": [
+            47
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 46,
+      "pageSpan": [
+        46,
+        47
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:83.1",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "83.1",
+      "citation": "District of Alaska · Rule 83.1",
+      "title": "Attorneys",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-48",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 83.1 Attorneys\n(a) Eligibility\nAny attorney admitted to practice before the courts of the State of Alaska is eligible \nfor admission to practice in the United States District Court for the District of Alaska.\n(b) Procedure for Admission\n(1) All attorneys admitted to practice before the former District Court for the Territory \nof Alaska on February 20, 1960, are admitted to practice in this court without further \nprocedure for admission. \n(2) Each applicant for admission must file with the Clerk a petition in the form and \nwith the attachments required by the Clerk. See www.akd.uscourts.gov/admissions. \n(3) The court may, on its own motion or in response to an objection, make further \ninquiry of the applicant or others and determine what response to objection, hearing, \nor other procedures are appropriate.\n(4) Each applicant applying for admission to practice in this district, other than an \napplicant who is practicing law in the State of Alaska under Alaska Bar Rule 43 or \n43.1 or who is otherwise exempt under these Local Rules, must pay the current fees \nfound at https://www.akd.uscourts.gov/fees at the time of application for admission.\n(c) Appearance by Volunteer Pro Bono Attorney in Civil Cases\n(1) A presiding judge may request a volunteer pro bono attorney to represent a self￾represented litigant unable to afford counsel in a civil case pursuant to 28 U.S.C. \n§ 1915(e)(1).\n(2) A volunteer pro bono attorney’s representation may be all-purpose or limited in \nscope. A Limited Entry of Appearance may be made for a discrete purpose such as \namendment of a pleading, participating at a settlement conference, filing or opposing \na dispositive motion, attending a hearing(s), attending a deposition(s), conducting or \nresponding to discovery, or attending trial. Alternatively, it may be made for a \nspecified period of time. A Limited Entry of Appearance shall specify each purpose of \nthe appearance.\n(3) Upon conclusion of a Limited Entry of Appearance, the volunteer attorney may \nwithdraw by filing and serving a Notice of Withdrawal. Such notice must provide the \nparty's last known address and telephone number.\n(d) Out of State Attorneys\n(1) A member in good standing of the bar of another jurisdiction, who is not an active \nmember of the bar of this court, may, upon motion, be permitted by the court to ",
+          "pages": [
+            47
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-49",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rules for the District of Alaska\nEffective October 15, 2025\nPage 41\nappear pro hac vice on behalf of a party. The court may order such counsel to \nassociate with an active member of the bar of this court.\n(2) Unless otherwise ordered by the court, the attorney applying may appear from the \ntime of filing the motion as though it had been approved, and approvals will be \ndeemed to be effective as of the time of filing of the motion.\n(3) The motion must be submitted on the form provided by the Clerk.\n(4) An attorney need not be admitted to this court to address motions related to \nsubpoenas issued in this district in cases pending outside the District of Alaska.\n(e) Attorneys Not Subject to Pro Hac Vice Fees\nThe following attorneys may appear in particular cases in an official capacity without \nsubmitting a petition for admission, provided the attorney is admitted to practice and in \ngood standing before the highest court of any state:\n(1) Any attorney representing the United States, or any agency thereof;\n(2) Any attorney employed by the Federal Public Defender's Office or appointed \npursuant to the Criminal Justice Act; and\n(3) Any attorney representing an individual granted in forma pauperis status. \n(f) Disbarment, Suspension, and Reinstatement\n(1) Whenever it appears to the court that any member of the bar of this court or any \nnon-resident attorney permitted to appear or who has applied to appear before this \ncourt has been disbarred, suspended from practice, or convicted of a serious crime \nas defined by the Alaska Bar Rules, or similar authority in a state other than Alaska, \nthe attorney will be immediately suspended from practice before this court.\n(2) Unless good cause to the contrary is shown within 21 days after notice has been \nmailed to the attorney's last known place of business or residence, an order of \nsuspension or disbarment will be entered for such time as the court fixes. \n(3) If a suspended attorney requests, in writing, reinstatement to practice before the \ncourt, and the court has received notification that the attorney has been reinstated to \npractice before the courts of the State of Alaska or such other courts where the \nsuspended attorney practices, an order of reinstatement may be entered. \n(g) Contact with Trial Jurors\nSee Local Civil Rule 39.5. \n(h) Professional Conduct\nThe standards of the Alaska Rules of Professional Conduct apply to any attorney \nadmitted to practice in this court. ",
+          "pages": [
+            48
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-50",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rules for the District of Alaska\nEffective October 15, 2025\nPage 42\n(i) Current Address\nAll persons admitted to practice before the United States District Court for the District of \nAlaska should notify the Clerk of Court, in writing, of any change in address, telephone \nnumber, facsimile number, or e-mail address not later than 7 days after the change in \naddress, telephone or facsimile number, and/or e-mail address becomes effective.\n",
+          "pages": [
+            49
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 47,
+      "pageSpan": [
+        47,
+        49
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:83.2",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "83.2",
+      "citation": "District of Alaska · Rule 83.2",
+      "title": "Student Practice Rule",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-50",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 83.2 Student Practice Rule \n(a) General\nAn eligible law student acting under the supervision of a member of a bar of this court \nmay be permitted to appear before the United States District Court for the District of \nAlaska on behalf of any client including federal, state, or local government bodies if the \nclient has filed a written consent with the court.\n(b) Eligibility\nAn eligible student must: \n(1) Satisfy one or more of the following criteria: \n(A) be certified by the state Bar Association as a law student intern, or \n(B) be enrolled and in good standing in an American Bar Association approved or \nstate accredited law school, and have completed one-half of the legal studies \nrequired for graduation, or\n(C) be a recent graduate of such school awaiting the result of a state bar \nexamination;\n(2) have knowledge of and be familiar with the Federal Rules of Civil and Criminal \nProcedure; the Federal Rules of Evidence; the Code of Professional Responsibility; \nand the rules of this court; \n(3) be certified by the dean of the law school as being adequately trained to fulfill all \nresponsibilities as a law student intern to the court; \n(4) not accept compensation for his legal services directly from a client; and \n(5) file with the Clerk all documents required to comply with this rule. \n(c) Duties of Supervising Attorney\nThe supervising attorney must: \n(1) be admitted to practice before the highest court of any state for two years or \nlonger and have been admitted to practice before this court; \n(2) appear with the student in any oral presentations before the court; ",
+          "pages": [
+            49
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-51",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rules for the District of Alaska\nEffective October 15, 2025\nPage 43\n(3) sign all documents filed with the court; \n(4) assume professional responsibility for the student's work in matters before the \ncourt; and\n(5) assist and counsel the student in the preparation of the student's work in matters \nbefore the court. \n(d) Dean’s Certification\nThe dean’s certification of the student: \n(1) must be filed with the Clerk and, unless sooner withdrawn, remain in effect until \npublication of the results of the first bar examination following graduation; \n(2) may be withdrawn by the dean with notice to the court. \n(e) Scope of Functions\nUpon fulfilling the requirements of this rule, the student may: \n(1) assist in the preparation of briefs, motions, and other documents pertaining to a \ncase before this court; and \n(2) Appear and make oral presentations before this court when accompanied by the \nsupervising attorney. \n(f) Exceptions\nThe court retains the authority to establish exceptions to this rule in any case. \n",
+          "pages": [
+            50
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 49,
+      "pageSpan": [
+        49,
+        50
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:84.1",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "84.1",
+      "citation": "District of Alaska · Rule 84.1",
+      "title": "Forms",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-51",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 84.1 Forms\nThe forms contained in the Federal Rules of Civil Procedure, Appendix of Forms, should \nbe used with appropriate or necessary modifications wherever applicable.\n",
+          "pages": [
+            50
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 50,
+      "pageSpan": [
+        50,
+        50
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "akd-civil:86.1",
+      "collectionId": "akd-civil",
+      "districtId": "akd",
+      "number": "86.1",
+      "citation": "District of Alaska · Rule 86.1",
+      "title": "Amendments to Local Rules",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-51",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Civil Rule 86.1 Amendments to Local Rules\nAmendments to these rules, including new rules, govern:\n(a) all proceedings commenced on or after the effective date of the amendment; and\n(b) all existing, open proceedings from and after the effective date to the extent that the \nnewer amended rule does not unreasonably prejudice the rights of any party.",
+          "pages": [
+            50
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "akd-civil-parsed-v1-50afcdec4b0ef640",
+      "sourceDocumentId": "parsed-akd-50afcdec4b0ef640",
+      "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+      "pageIndex": 50,
+      "pageSpan": [
+        50,
+        50
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    }
+  ],
+  "evidence": [
+    {
+      "number": "1.1",
+      "heading": "Local Civil Rule 1.1 Scope and Purpose of Local Rules/Definitions/Civility",
+      "page": 9,
+      "offset": 79,
+      "slices": [
+        {
+          "page": 9,
+          "start": 79,
+          "end": 2176,
+          "sha256": "b71c4f67e62e042740beb51fa6a37e329e173c645961578869f9ddbd82b4486d"
+        },
+        {
+          "page": 10,
+          "start": 0,
+          "end": 1541,
+          "sha256": "654c3b3197a6287177f2c93de281152ef7f881237763c113733521b953770f23"
+        }
+      ]
+    },
+    {
+      "number": "1.2",
+      "heading": "Local Civil Rule 1.2 Access and Citation to Local Rules",
+      "page": 10,
+      "offset": 1541,
+      "slices": [
+        {
+          "page": 10,
+          "start": 1541,
+          "end": 1918,
+          "sha256": "3dad78330d1fdf17bf4ad4174b0e8be6faa5a826085cfcd923f90ef1d7e05946"
+        },
+        {
+          "page": 11,
+          "start": 0,
+          "end": 610,
+          "sha256": "b072f7a351c0a4f6d137b983bbae3ec09963fd5b26ab4930e9f906d27e5f3efb"
+        }
+      ]
+    },
+    {
+      "number": "3.1",
+      "heading": "Local Civil Rule 3.1 Commencement of an Action",
+      "page": 11,
+      "offset": 610,
+      "slices": [
+        {
+          "page": 11,
+          "start": 610,
+          "end": 2156,
+          "sha256": "931f4d6fe8e86079253904b0a2743849e0b56d1babf0d815a8eca4321fa869f9"
+        },
+        {
+          "page": 12,
+          "start": 0,
+          "end": 561,
+          "sha256": "58ca645e43ae9506ea9b19d37cf4d002f1e921b5b9769023e2d06ff47c07bd85"
+        }
+      ]
+    },
+    {
+      "number": "3.2",
+      "heading": "Local Civil Rule 3.2 Venue",
+      "page": 12,
+      "offset": 561,
+      "slices": [
+        {
+          "page": 12,
+          "start": 561,
+          "end": 1323,
+          "sha256": "5958ae30409e61400538695d06bd4388d7bfba672773a7b2b03ecfd663d044eb"
+        }
+      ]
+    },
+    {
+      "number": "4.1",
+      "heading": "Local Civil Rule 4.1 Summons A summons presented to the court for issuance must",
+      "page": 12,
+      "offset": 1323,
+      "slices": [
+        {
+          "page": 12,
+          "start": 1323,
+          "end": 1535,
+          "sha256": "ca727edb63cacc94d9b7fd3f02dae903b253d4817d3a3437240e8506899fe712"
+        }
+      ]
+    },
+    {
+      "number": "5.1",
+      "heading": "Local Civil Rule 5.1 Electronic Service and Filing",
+      "page": 12,
+      "offset": 1535,
+      "slices": [
+        {
+          "page": 12,
+          "start": 1535,
+          "end": 1815,
+          "sha256": "361eb899592d9ffefe6709f4e81698a5f6cfa567697a2e0cabd93f8034922e28"
+        },
+        {
+          "page": 13,
+          "start": 0,
+          "end": 2333,
+          "sha256": "ac83792386849d3142524baa8bbe72e2f2ef5abed7f9dcfad48d1f55803d5d27"
+        },
+        {
+          "page": 14,
+          "start": 0,
+          "end": 1498,
+          "sha256": "a4f9f22143530b83b11abf6c9c4db2e4213990deb7b6f947143534597d115424"
+        }
+      ]
+    },
+    {
+      "number": "5.2",
+      "heading": "Local Civil Rule 5.2 Service of Orders and Other Documents by the Court",
+      "page": 14,
+      "offset": 1498,
+      "slices": [
+        {
+          "page": 14,
+          "start": 1498,
+          "end": 2088,
+          "sha256": "e2951ab9d8469c0bc0b7e80ef5f176472f722afeab21b410de59c17a6716d82b"
+        },
+        {
+          "page": 15,
+          "start": 0,
+          "end": 79,
+          "sha256": "2e0ec36570cccadfb9222eac78181601c27ae45131759b83c036b13561b146b8"
+        }
+      ]
+    },
+    {
+      "number": "5.3",
+      "heading": "Local Civil Rule 5.3 Other Means of Filing and Service",
+      "page": 15,
+      "offset": 79,
+      "slices": [
+        {
+          "page": 15,
+          "start": 79,
+          "end": 1709,
+          "sha256": "ad1356cf3ebd54af0baef57b80fcebe203d7bae1ec3f71704cb8abea02400882"
+        }
+      ]
+    },
+    {
+      "number": "7.1",
+      "heading": "Local Civil Rule 7.1 General Motion Practice",
+      "page": 15,
+      "offset": 1709,
+      "slices": [
+        {
+          "page": 15,
+          "start": 1709,
+          "end": 1943,
+          "sha256": "06f4c1d09998e482fc39d208291262fcc578d466e197b0056224866a0051e961"
+        },
+        {
+          "page": 16,
+          "start": 0,
+          "end": 2264,
+          "sha256": "1c3d17f138cf1ef8431006d094738d85597f2928031fda80518af44dcde1c0cf"
+        },
+        {
+          "page": 17,
+          "start": 0,
+          "end": 1643,
+          "sha256": "feefd4f1c7b9f9a14f7c6f901f75d7d377aed08f1a118bf9e4bae6710d89a8ed"
+        }
+      ]
+    },
+    {
+      "number": "7.2",
+      "heading": "Local Civil Rule 7.2 Time Limits for Motions, Oppositions, and Replies",
+      "page": 17,
+      "offset": 1643,
+      "slices": [
+        {
+          "page": 17,
+          "start": 1643,
+          "end": 2178,
+          "sha256": "e10627fc1f362b93ddec9448878fef2529b1a638b9c29d711bb17107d3d4d3c2"
+        },
+        {
+          "page": 18,
+          "start": 0,
+          "end": 305,
+          "sha256": "56beb1f2dc093b0722c2452a3651e1b94fbb07cb3817f7566fb4d39132ac9087"
+        }
+      ]
+    },
+    {
+      "number": "7.3",
+      "heading": "Local Civil Rule 7.3 Specific Motions",
+      "page": 18,
+      "offset": 305,
+      "slices": [
+        {
+          "page": 18,
+          "start": 305,
+          "end": 2338,
+          "sha256": "030d0323f1ca1e717bd5367b2155ff5f48b3e93599978f76d1933fd5392a8c21"
+        },
+        {
+          "page": 19,
+          "start": 0,
+          "end": 1902,
+          "sha256": "5dc092eb71528d1760cc13fde4cf671a65a5e1cd6a6c0c5566858e481c2d7a78"
+        },
+        {
+          "page": 20,
+          "start": 0,
+          "end": 2355,
+          "sha256": "76e6cb19767ff2bc7c3bb8ddeed6d4ceb9f9e832d257dc2482e8b842a3c38728"
+        },
+        {
+          "page": 21,
+          "start": 0,
+          "end": 2027,
+          "sha256": "7b45feeec8aab66029822a2883b05aac40bbb9ff8c318a0089fd800366efd8ab"
+        },
+        {
+          "page": 22,
+          "start": 0,
+          "end": 780,
+          "sha256": "e05f4faf35053610151a72f6ca13672b3f1b8e47a312f1d793d97ba1470f0c0b"
+        }
+      ]
+    },
+    {
+      "number": "7.4",
+      "heading": "Local Civil Rule 7.4 Document Management",
+      "page": 22,
+      "offset": 780,
+      "slices": [
+        {
+          "page": 22,
+          "start": 780,
+          "end": 1813,
+          "sha256": "6e680f64280226dd3c661160f4994f7c8a5bf013f61530b47322d7acdfea0819"
+        },
+        {
+          "page": 23,
+          "start": 0,
+          "end": 938,
+          "sha256": "09725f0cab76d4f8e344e8395383c85a4c15bb24880a9075c2e756a2d72b58ac"
+        }
+      ]
+    },
+    {
+      "number": "7.5",
+      "heading": "Local Civil Rule 7.5 Formatting of Court Filings (Exemplar follows this rule)",
+      "page": 23,
+      "offset": 938,
+      "slices": [
+        {
+          "page": 23,
+          "start": 938,
+          "end": 1863,
+          "sha256": "d2a44635877872f3eb6e2cdcd34db53b2301e291e35793f6442414ae32e8c0d5"
+        },
+        {
+          "page": 24,
+          "start": 0,
+          "end": 2224,
+          "sha256": "07cc70d18a11e48c700d6af62294328e3296a31d9129e51a19c3fb81317432a6"
+        },
+        {
+          "page": 25,
+          "start": 0,
+          "end": 324,
+          "sha256": "e7b17b87d9b9243c372d69190b9a51b62a9f2d3d4f56550026c15e54aeed5f64"
+        },
+        {
+          "page": 26,
+          "start": 0,
+          "end": 80,
+          "sha256": "64968ffef030f7985e61a9dd13eefdca2c9e8c3ec65b2059c2f96dba1c9cc201"
+        }
+      ]
+    },
+    {
+      "number": "8.1",
+      "heading": "Local Civil Rule 8.1 General Rules of Pleading",
+      "page": 26,
+      "offset": 80,
+      "slices": [
+        {
+          "page": 26,
+          "start": 80,
+          "end": 627,
+          "sha256": "6d2fd3be982bf08ccda76eb215bd69fa0e29ccaae92a0e5c76cc2706960639c3"
+        }
+      ]
+    },
+    {
+      "number": "10.1",
+      "heading": "Local Civil Rule 10.1 Form of Pleadings",
+      "page": 26,
+      "offset": 627,
+      "slices": [
+        {
+          "page": 26,
+          "start": 627,
+          "end": 735,
+          "sha256": "bf817036dc4da8d8daaee77c5d10c9e6ee67788587e13fd1054c95ca315e6e16"
+        }
+      ]
+    },
+    {
+      "number": "11.1",
+      "heading": "Local Civil Rule 11.1 Appearances, Substitution, and Withdrawal of Counsel",
+      "page": 26,
+      "offset": 735,
+      "slices": [
+        {
+          "page": 26,
+          "start": 735,
+          "end": 1991,
+          "sha256": "a83ae6f2c4686168163a5f5a04cf640a79834a60a5fb3e6b97fcff53511c09b5"
+        },
+        {
+          "page": 27,
+          "start": 0,
+          "end": 1224,
+          "sha256": "16f08f09add39a1148cff4f963b27f8598e0b8710445a5a5c15ae4134f4b4b08"
+        }
+      ]
+    },
+    {
+      "number": "11.2",
+      "heading": "Local Civil Rule 11.2 Sanctions",
+      "page": 27,
+      "offset": 1224,
+      "slices": [
+        {
+          "page": 27,
+          "start": 1224,
+          "end": 1638,
+          "sha256": "354b72e1951b3b9a731e479425e93422512fa5d6a9a4709e0122381852cef922"
+        },
+        {
+          "page": 28,
+          "start": 0,
+          "end": 387,
+          "sha256": "913165c02276ef178d2b452b591555a7ff8b6964a13b1c613e715c8d8ce16492"
+        }
+      ]
+    },
+    {
+      "number": "15.1",
+      "heading": "Local Civil Rule 15.1 Motions to Amend Pleadings",
+      "page": 28,
+      "offset": 387,
+      "slices": [
+        {
+          "page": 28,
+          "start": 387,
+          "end": 1019,
+          "sha256": "effb66bcd0d5bccff10b7a3eb7ebf370fb1cd25974e04aa54ae9dd18ded9703b"
+        }
+      ]
+    },
+    {
+      "number": "16.1",
+      "heading": "Local Civil Rule 16.1 Pretrial Procedures",
+      "page": 28,
+      "offset": 1019,
+      "slices": [
+        {
+          "page": 28,
+          "start": 1019,
+          "end": 1881,
+          "sha256": "816e72e4dd397bfcd1d12c62f53e852b5203d87f32fe16e32aa1ab16c04c56dd"
+        },
+        {
+          "page": 29,
+          "start": 0,
+          "end": 1850,
+          "sha256": "9acc26632c2f26a767bb77df3ea4fe8a95f554d8282c3587f1d0e0cfdca4803c"
+        },
+        {
+          "page": 30,
+          "start": 0,
+          "end": 867,
+          "sha256": "2d53e33ba368d0e4ea228660c7fdb88cd65f64bfc83c6ad93378c47f9a576413"
+        }
+      ]
+    },
+    {
+      "number": "16.2",
+      "heading": "Local Civil Rule 16.2 Alternative Dispute Resolution",
+      "page": 30,
+      "offset": 867,
+      "slices": [
+        {
+          "page": 30,
+          "start": 867,
+          "end": 2326,
+          "sha256": "bdf116bd84ace18f58182229a98fb513274b2b7a1366ae3b99245fdd567cfd1d"
+        },
+        {
+          "page": 31,
+          "start": 0,
+          "end": 506,
+          "sha256": "bcece3043c159aea53aadab5b872340a5ff04787bc99a4eefbfcadb4d5b06297"
+        }
+      ]
+    },
+    {
+      "number": "16.3",
+      "heading": "Local Civil Rule 16.3 Administrative Agency Appeals",
+      "page": 31,
+      "offset": 506,
+      "slices": [
+        {
+          "page": 31,
+          "start": 506,
+          "end": 2042,
+          "sha256": "c27ac43fff6676556612efda396b3ba44336b52fe2f0f0c09f57b12dd8baec7b"
+        },
+        {
+          "page": 32,
+          "start": 0,
+          "end": 1271,
+          "sha256": "3139001d8c21a30999a8e55712c454335ade81ba44710e7c97f9921826d8f12a"
+        }
+      ]
+    },
+    {
+      "number": "26.1",
+      "heading": "Local Civil Rule 26.1 Discovery",
+      "page": 32,
+      "offset": 1271,
+      "slices": [
+        {
+          "page": 32,
+          "start": 1271,
+          "end": 1690,
+          "sha256": "2e409b5cec05c3264e4192381a5854347c6ccb620076fbdcdcd14b347969943b"
+        }
+      ]
+    },
+    {
+      "number": "30.1",
+      "heading": "Local Civil Rule 30.1 Audio-Visual Depositions",
+      "page": 32,
+      "offset": 1690,
+      "slices": [
+        {
+          "page": 32,
+          "start": 1690,
+          "end": 2031,
+          "sha256": "00cded534a00c62d106745bf67f77bdf3a0b2940363293551c6b886b03af6b3b"
+        },
+        {
+          "page": 33,
+          "start": 0,
+          "end": 80,
+          "sha256": "eb7853e747f8bad5f049de467b4ff08e62eb0a889c9002eb25cef3ba8b207692"
+        }
+      ]
+    },
+    {
+      "number": "32.1",
+      "heading": "Local Civil Rule 32.1 Use of Depositions in Court Proceedings",
+      "page": 33,
+      "offset": 80,
+      "slices": [
+        {
+          "page": 33,
+          "start": 80,
+          "end": 509,
+          "sha256": "6f64e2bed9f88803eeec3fc21c68bd8c36e0e19c0a3b7fb8837d5fc3fbb01f4f"
+        }
+      ]
+    },
+    {
+      "number": "33.1",
+      "heading": "Local Civil Rule 33.1 Excess Interrogatories",
+      "page": 33,
+      "offset": 509,
+      "slices": [
+        {
+          "page": 33,
+          "start": 509,
+          "end": 920,
+          "sha256": "38f797b24f60c62796ecb419ca33b24089a02801cba6a99821dc106739698d35"
+        }
+      ]
+    },
+    {
+      "number": "35.1",
+      "heading": "Local Civil Rule 35.1 Physical and Mental Examinations",
+      "page": 33,
+      "offset": 920,
+      "slices": [
+        {
+          "page": 33,
+          "start": 920,
+          "end": 1224,
+          "sha256": "94af743ffb1a8012e089aa2296fac31e9f6a8747d29e242692d2acc8f910c24b"
+        }
+      ]
+    },
+    {
+      "number": "36.1",
+      "heading": "Local Civil Rule 36.1 Requests for Admission",
+      "page": 33,
+      "offset": 1224,
+      "slices": [
+        {
+          "page": 33,
+          "start": 1224,
+          "end": 1401,
+          "sha256": "f9379cbbf05758864e596b77a76887434e097f2c30925ed34857f919373af584"
+        }
+      ]
+    },
+    {
+      "number": "37.1",
+      "heading": "Local Civil Rule 37.1 Discovery Motions/Duty to Confer",
+      "page": 33,
+      "offset": 1401,
+      "slices": [
+        {
+          "page": 33,
+          "start": 1401,
+          "end": 1565,
+          "sha256": "c7601d30d0393de9df1e2c871fdfcb1bb8aae8ee206d68bde81d9ae551bc3797"
+        },
+        {
+          "page": 34,
+          "start": 0,
+          "end": 80,
+          "sha256": "361eec3cdb25a3f180b2d4d53ecc17566bb43ff6907bc8dabf53a3d6753add22"
+        }
+      ]
+    },
+    {
+      "number": "38.1",
+      "heading": "Local Civil Rule 38.1 Jury Demand",
+      "page": 34,
+      "offset": 80,
+      "slices": [
+        {
+          "page": 34,
+          "start": 80,
+          "end": 311,
+          "sha256": "b7f5f62784611ddb93134214497996cfee2fb1d2e267ea33f5177e74e3b95136"
+        }
+      ]
+    },
+    {
+      "number": "39.1",
+      "heading": "Local Civil Rule 39.1 Final Pretrial Conference",
+      "page": 34,
+      "offset": 311,
+      "slices": [
+        {
+          "page": 34,
+          "start": 311,
+          "end": 879,
+          "sha256": "d7b4f857852bd851730fc5715740ea89cf1b5ce50d63d902c7653cc45be1bd2b"
+        }
+      ]
+    },
+    {
+      "number": "39.2",
+      "heading": "Local Civil Rule 39.2 Trial Briefs",
+      "page": 34,
+      "offset": 879,
+      "slices": [
+        {
+          "page": 34,
+          "start": 879,
+          "end": 1463,
+          "sha256": "e4e61bd31a12f4bcb3f1f1326526617d7aceffb37c41042d9e60cf75bba8adef"
+        }
+      ]
+    },
+    {
+      "number": "39.3",
+      "heading": "Local Civil Rule 39.3 Trial Exhibits",
+      "page": 34,
+      "offset": 1463,
+      "slices": [
+        {
+          "page": 34,
+          "start": 1463,
+          "end": 2029,
+          "sha256": "65d9a19029465dbd45f28dd39c0b8ff7c75b04fbcde1041c71f08f1cbd2c8e9d"
+        },
+        {
+          "page": 35,
+          "start": 0,
+          "end": 1315,
+          "sha256": "ded0235b4add413153fa7d4d4665b5969bbf30ba1a85fdab7a7da4bfd2df1d90"
+        }
+      ]
+    },
+    {
+      "number": "39.4",
+      "heading": "Local Civil Rule 39.4 Opening Statements/Use of Exhibits",
+      "page": 35,
+      "offset": 1315,
+      "slices": [
+        {
+          "page": 35,
+          "start": 1315,
+          "end": 1514,
+          "sha256": "871650e8ed25d3f6842920869f4a4cd86c64035782517c73186ad99426b00008"
+        }
+      ]
+    },
+    {
+      "number": "39.5",
+      "heading": "Local Civil Rule 39.5 Contact with Trial Jurors",
+      "page": 35,
+      "offset": 1514,
+      "slices": [
+        {
+          "page": 35,
+          "start": 1514,
+          "end": 1970,
+          "sha256": "b3f69eae616fe403fbed0d81e962671995c26a7f7f98d2e53c2fa0058bfeb627"
+        },
+        {
+          "page": 36,
+          "start": 0,
+          "end": 500,
+          "sha256": "29aad4b3876d6ce343f38a63d5464057ca51aa878c5d693a02bd1bc325867762"
+        }
+      ]
+    },
+    {
+      "number": "40.1",
+      "heading": "Local Civil Rule 40.1 Scheduling Cases for Trial",
+      "page": 36,
+      "offset": 500,
+      "slices": [
+        {
+          "page": 36,
+          "start": 500,
+          "end": 1069,
+          "sha256": "2c91fdbf5c28d0326bcb63bc50ed8dbc56a05b07104a597f556836197a682866"
+        }
+      ]
+    },
+    {
+      "number": "40.2",
+      "heading": "Local Civil Rule 40.2 Continuance of Trial",
+      "page": 36,
+      "offset": 1069,
+      "slices": [
+        {
+          "page": 36,
+          "start": 1069,
+          "end": 1257,
+          "sha256": "80063dc33b820286a95a8f98a5969b49c7343751ce3a01bb860c784efabd360e"
+        }
+      ]
+    },
+    {
+      "number": "41.1",
+      "heading": "Local Civil Rule 41.1 Dismissal of Actions",
+      "page": 36,
+      "offset": 1257,
+      "slices": [
+        {
+          "page": 36,
+          "start": 1257,
+          "end": 1514,
+          "sha256": "9923593675febb012c2fc6611f8ecafee66c629607d0e1669ae24069d29e684d"
+        }
+      ]
+    },
+    {
+      "number": "47.1",
+      "heading": "Local Civil Rule 47.1 Jury Selection",
+      "page": 36,
+      "offset": 1514,
+      "slices": [
+        {
+          "page": 36,
+          "start": 1514,
+          "end": 1686,
+          "sha256": "e70b457aa23fa0587183265a7c783f395ee66e4d8bac4990cef705a6830e591f"
+        },
+        {
+          "page": 37,
+          "start": 0,
+          "end": 80,
+          "sha256": "53acf47c803b01d5ded6346fe70796bac138451e3b1e2d707947c37d701c25cc"
+        }
+      ]
+    },
+    {
+      "number": "51.1",
+      "heading": "Local Civil Rule 51.1 Jury Instructions",
+      "page": 37,
+      "offset": 80,
+      "slices": [
+        {
+          "page": 37,
+          "start": 80,
+          "end": 790,
+          "sha256": "f42c6e565c19dca30390e1e0f9adad8341003d856c17c683ccab7b431b691ba5"
+        }
+      ]
+    },
+    {
+      "number": "54.1",
+      "heading": "Local Civil Rule 54.1 Taxation of Costs",
+      "page": 37,
+      "offset": 790,
+      "slices": [
+        {
+          "page": 37,
+          "start": 790,
+          "end": 1507,
+          "sha256": "e93391e65581ca358f826eae493cff52e666c5342184068913d8492ecfc485a1"
+        },
+        {
+          "page": 38,
+          "start": 0,
+          "end": 903,
+          "sha256": "8dc5bf4b21166eb528ec181c587e0d3fe077ca8c3dbe4e63c63c8e56cdf3d6aa"
+        }
+      ]
+    },
+    {
+      "number": "54.2",
+      "heading": "Local Civil Rule 54.2 Award of Attorney’s Fees",
+      "page": 38,
+      "offset": 903,
+      "slices": [
+        {
+          "page": 38,
+          "start": 903,
+          "end": 1574,
+          "sha256": "b8b4cdcc77c3964e54c37688ea4a9cb591781ceb3f17d9d3976186adf4d9cdfb"
+        },
+        {
+          "page": 39,
+          "start": 0,
+          "end": 80,
+          "sha256": "95b1274ff00cc5dee8633d179ee3e99ec4255c97e914d177ce6c0fc1769488dc"
+        }
+      ]
+    },
+    {
+      "number": "55.1",
+      "heading": "Local Civil Rule 55.1 Entry of Default and Default Judgment",
+      "page": 39,
+      "offset": 80,
+      "slices": [
+        {
+          "page": 39,
+          "start": 80,
+          "end": 1120,
+          "sha256": "2d5d96a297b78e52b72030660578df4b30189569d221d647374d20de4dee4ecc"
+        }
+      ]
+    },
+    {
+      "number": "56.1",
+      "heading": "Local Civil Rule 56.1 Rand Notice",
+      "page": 39,
+      "offset": 1120,
+      "slices": [
+        {
+          "page": 39,
+          "start": 1120,
+          "end": 1612,
+          "sha256": "1385a75c4e99f80990921a6f638968e43cb6edde3529ba72fd41051503951e98"
+        }
+      ]
+    },
+    {
+      "number": "58.1",
+      "heading": "Local Civil Rule 58.1 Judgments",
+      "page": 39,
+      "offset": 1612,
+      "slices": [
+        {
+          "page": 39,
+          "start": 1612,
+          "end": 1876,
+          "sha256": "41d1c0eb3de375eb07e177dfe77248184691875bb94134db5115f8bebf16c32a"
+        },
+        {
+          "page": 40,
+          "start": 0,
+          "end": 690,
+          "sha256": "7a4c6b8cbd84098f07318bacc7ce9f02fb7a43e69093431b82d8e37de2774469"
+        }
+      ]
+    },
+    {
+      "number": "58.2",
+      "heading": "Local Civil Rule 58.2 Satisfaction of Judgments",
+      "page": 40,
+      "offset": 690,
+      "slices": [
+        {
+          "page": 40,
+          "start": 690,
+          "end": 1044,
+          "sha256": "db5a087cfbc2b9882d8ad6441a2a5a55cb2610777e5200ad2d104ca7f65b88f2"
+        }
+      ]
+    },
+    {
+      "number": "67.1",
+      "heading": "Local Civil Rule 67.1 Deposit of Funds in the Registry Account",
+      "page": 40,
+      "offset": 1044,
+      "slices": [
+        {
+          "page": 40,
+          "start": 1044,
+          "end": 1739,
+          "sha256": "5c0c4a85d630fd8fa04b7f8c4376056aeb2f47e86ef266833865ddbe70dadf63"
+        },
+        {
+          "page": 41,
+          "start": 0,
+          "end": 2947,
+          "sha256": "6d335dcb0c58fe5c40b1b239e5de73c8d802a85fbaa1c94968b9f28df16ea637"
+        },
+        {
+          "page": 42,
+          "start": 0,
+          "end": 2197,
+          "sha256": "08ff3bd3d1539cfbd4207d560d5b5d58551daedefcdc68092d1c39efb5582a15"
+        }
+      ]
+    },
+    {
+      "number": "68.1",
+      "heading": "Local Civil Rule 68.1 Settlements and Judgments in Favor of a Minor",
+      "page": 42,
+      "offset": 2197,
+      "slices": [
+        {
+          "page": 42,
+          "start": 2197,
+          "end": 2437,
+          "sha256": "6901a482517dff63a61171cf68173a42c208f444b31544c118b1cb29c4267fda"
+        },
+        {
+          "page": 43,
+          "start": 0,
+          "end": 1699,
+          "sha256": "8591b0d33a95fec56c5f6e271ed821e2e8f98d977f376a7df0bb46a34c43bcfd"
+        }
+      ]
+    },
+    {
+      "number": "73.1",
+      "heading": "Local Civil Rule 73.1 Assignment of Cases to Magistrate Judges",
+      "page": 43,
+      "offset": 1699,
+      "slices": [
+        {
+          "page": 43,
+          "start": 1699,
+          "end": 2159,
+          "sha256": "9870be2c075e493574d6805adbb3b6636013e6dba5a9b8ec7795a1e1bc53457e"
+        },
+        {
+          "page": 44,
+          "start": 0,
+          "end": 697,
+          "sha256": "539f335df826173900a285a7f8d6b2f7aaaf40400391d80623f6a273a351b59a"
+        }
+      ]
+    },
+    {
+      "number": "77.1",
+      "heading": "Local Civil Rule 77.1 Orders and Judgments by the Clerk",
+      "page": 44,
+      "offset": 697,
+      "slices": [
+        {
+          "page": 44,
+          "start": 697,
+          "end": 1126,
+          "sha256": "fd0d46bf5dd1922a3349af7a3b8bee43f869f00cd08993d9766aac7e6bd32cb3"
+        }
+      ]
+    },
+    {
+      "number": "77.2",
+      "heading": "Local Civil Rule 77.2 Court Library",
+      "page": 44,
+      "offset": 1126,
+      "slices": [
+        {
+          "page": 44,
+          "start": 1126,
+          "end": 1559,
+          "sha256": "7bc15b2180ad957741565eddc0887f6ce758a7e567c811722cb5e448b9fbe07e"
+        }
+      ]
+    },
+    {
+      "number": "77.3",
+      "heading": "Local Civil Rule 77.3 Remote Public Access to Civil Court Proceedings",
+      "page": 44,
+      "offset": 1559,
+      "slices": [
+        {
+          "page": 44,
+          "start": 1559,
+          "end": 2074,
+          "sha256": "99f6ee7aea1ba0dab85f179103a500ca44edaf4e501cff4308c45cd6f83f4d12"
+        },
+        {
+          "page": 45,
+          "start": 0,
+          "end": 1186,
+          "sha256": "37c0a7ab27c09b933aa9496d15df2925dccfaa8e2467ff30c94f3c4d2fed3c2f"
+        }
+      ]
+    },
+    {
+      "number": "77.4",
+      "heading": "Local Civil Rule 77.4 Photographs, Video or Audio Recorders, Broadcasts",
+      "page": 45,
+      "offset": 1186,
+      "slices": [
+        {
+          "page": 45,
+          "start": 1186,
+          "end": 1605,
+          "sha256": "a94419fe7b35d37d865df0a62aff87a1897f270a55b56889c85068f4f94ac069"
+        }
+      ]
+    },
+    {
+      "number": "79.1",
+      "heading": "Local Civil Rule 79.1 Official Record",
+      "page": 45,
+      "offset": 1605,
+      "slices": [
+        {
+          "page": 45,
+          "start": 1605,
+          "end": 1921,
+          "sha256": "10bb84befe1acb12dc022b77e90a996d2689c78aaf8860576a00b9908fb16c2d"
+        }
+      ]
+    },
+    {
+      "number": "79.2",
+      "heading": "Local Civil Rule 79.2 Books and Records of the Clerk; Access and Copies",
+      "page": 45,
+      "offset": 1921,
+      "slices": [
+        {
+          "page": 45,
+          "start": 1921,
+          "end": 2187,
+          "sha256": "1e5d10474f98eae9cf0e53e254ce79ce459d29ad010a7bc8406bde677bdae3b1"
+        },
+        {
+          "page": 46,
+          "start": 0,
+          "end": 1954,
+          "sha256": "847a37f74d2b37d1585a9ce183db2d20d8531812b55ce824fa21ee429cd80ee2"
+        },
+        {
+          "page": 47,
+          "start": 0,
+          "end": 80,
+          "sha256": "c388a21b39d78b9f7c82520d954fa8b2475fe690a434a2448b741ae205731d65"
+        }
+      ]
+    },
+    {
+      "number": "80.1",
+      "heading": "Local Civil Rule 80.1 Record of Proceedings",
+      "page": 47,
+      "offset": 80,
+      "slices": [
+        {
+          "page": 47,
+          "start": 80,
+          "end": 2004,
+          "sha256": "35a38a518ff94dcfe62d7e6fded075f15115edfdbcbbe58d2be203ead65b468c"
+        }
+      ]
+    },
+    {
+      "number": "81.1",
+      "heading": "Local Civil Rule 81.1 Applicability",
+      "page": 47,
+      "offset": 2004,
+      "slices": [
+        {
+          "page": 47,
+          "start": 2004,
+          "end": 2242,
+          "sha256": "74066199af9b23a2ea184dca105fbcec140346420effa6fb2f855e86190e974a"
+        },
+        {
+          "page": 48,
+          "start": 0,
+          "end": 80,
+          "sha256": "9129679dd72efb886f76832df0856fcc4e6d4a65cf5f7c9f5e466124bfc56de3"
+        }
+      ]
+    },
+    {
+      "number": "83.1",
+      "heading": "Local Civil Rule 83.1 Attorneys",
+      "page": 48,
+      "offset": 80,
+      "slices": [
+        {
+          "page": 48,
+          "start": 80,
+          "end": 2435,
+          "sha256": "001c0250ef309088bb727f9ebb3d5d35fe3134df28a83c794eae8162cf844707"
+        },
+        {
+          "page": 49,
+          "start": 0,
+          "end": 2470,
+          "sha256": "97e30ec6196378894121d872962dca99f0deb6362115f893f40ed4601a1d3924"
+        },
+        {
+          "page": 50,
+          "start": 0,
+          "end": 452,
+          "sha256": "e7aca660ab4d72319a781c9241f232d10c85861dc1bca2a752c0639bf44e7637"
+        }
+      ]
+    },
+    {
+      "number": "83.2",
+      "heading": "Local Civil Rule 83.2 Student Practice Rule",
+      "page": 50,
+      "offset": 452,
+      "slices": [
+        {
+          "page": 50,
+          "start": 452,
+          "end": 2060,
+          "sha256": "a6def9a11d5f8e42a60ec926da88e2052604e5670c48660cdeb7272de4924b8c"
+        },
+        {
+          "page": 51,
+          "start": 0,
+          "end": 1029,
+          "sha256": "bfecacdc7344b63e9ebb03bdba2b50c619fa9be7f7a9b7e18c879f5cec5126ea"
+        }
+      ]
+    },
+    {
+      "number": "84.1",
+      "heading": "Local Civil Rule 84.1 Forms",
+      "page": 51,
+      "offset": 1029,
+      "slices": [
+        {
+          "page": 51,
+          "start": 1029,
+          "end": 1218,
+          "sha256": "2b809c910e0f29dd3a361c78842cbb787b4caea3b78765b4a7bb7e7032e1228d"
+        }
+      ]
+    },
+    {
+      "number": "86.1",
+      "heading": "Local Civil Rule 86.1 Amendments to Local Rules",
+      "page": 51,
+      "offset": 1218,
+      "slices": [
+        {
+          "page": 51,
+          "start": 1218,
+          "end": 1573,
+          "sha256": "309a7f3a80949fe2e35d48121b1b96e2ba7f2b37964f75cbd2901bc38eede821"
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "startPage": 9,
+    "startOffset": 79,
+    "endPage": 51,
+    "endOffset": 1573,
+    "ruleCount": 60,
+    "tocReconciled": false,
+    "editorialReviewComplete": false,
+    "currencyReviewed": false,
+    "flags": [
+      "Source extraction contains unresolved characters; consult the original publication."
+    ],
+    "excluded": "Source material outside the recorded range remains available in the district source library."
+  },
+  "transcriptionSha256": "69117b1caeea6f966ff3b20f5db7cd841650fb38ac7eafd861850a996c3f9ca6"
+}

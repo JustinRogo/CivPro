@@ -1,0 +1,3109 @@
+{
+  "version": 1,
+  "reviewStatus": "parsed-draft",
+  "districtId": "cod",
+  "sourceDocument": {
+    "id": "7606869ea84c0015",
+    "title": "Local Rules eff. 12-1-2025",
+    "format": "pdf",
+    "role": "primary",
+    "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+    "sha256": "7606869ea84c00157957ee77e6b1d6329ed785ce6723a54a1cfa412ccee2882d",
+    "bytes": 751142,
+    "retrievedAt": "2026-09-07T00:00:56.268091+00:00",
+    "snapshotPath": "sources/district-snapshots/7606869ea84c00157957ee77e6b1d6329ed785ce6723a54a1cfa412ccee2882d.pdf",
+    "textPath": "data/source-library/7606869ea84c00157957ee77e6b1d6329ed785ce6723a54a1cfa412ccee2882d.json",
+    "pdfPath": "data/source-pdfs/7606869ea84c00157957ee77e6b1d6329ed785ce6723a54a1cfa412ccee2882d.pdf",
+    "pageCount": 102,
+    "reviewStatus": "source-document-only",
+    "blankTextPages": 0
+  },
+  "collection": {
+    "id": "cod-civil",
+    "name": "District of Colorado Local Rules",
+    "shortName": "Local rules · draft",
+    "districtId": "cod",
+    "scopeNote": "Civil and generally applicable local rules; unparsed supplements remain in the source library. Rule boundaries and transcription are drafts. Embedded notes, forms, and running headers may remain within rule text; subsection anchors and field-separated notes are not yet reviewed."
+  },
+  "provisions": [
+    {
+      "id": "cod-civil:1.1",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "1.1",
+      "citation": "District of Colorado · Rule 1.1",
+      "title": "SCOPE OF THE LOCAL CIVIL RULES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-13",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 1.1\nSCOPE OF THE LOCAL CIVIL RULES\n(a) Title and Citation. These rules shall be known as the Local Rules of Practice of \nthe United States District Court for the District of Colorado - Civil. These rules \nshall be cited as D.C.COLO.LCivR Rule, Subdivision, Paragraph, Subparagraph, \nItem (e.g., D.C.COLO.LCivR 72.1(b)(1)(A)).\n(b) Effective Date. Unless otherwise stated, these rules are effective as of \nDecember 1 of each year.\n(c) Scope. These rules apply in all civil actions, cases, and proceedings (civil \nactions) in the United States District Court for the District of Colorado, except as \nspecifically addressed in Section III – Local Patent Rules and Section IV - AP \nRules.\n(d) Numbering and Indexing. These rules are numbered and indexed insofar as \npracticable in accordance with the specific designations of the Judicial \nConference Uniform Numbering System.\n(e) Judicial Officer. Judicial officer means a district judge, magistrate judge, or \ncircuit judge sitting by assignment.\n(f) Clerk. Clerk means the clerk of the court or a deputy clerk.\n(g) CM/ECF. CM/ECF is the Case Management/Electronic Case Filing system of the \ncourt.\n(h) Pilot Programs or Special Projects. A pilot program or special project may be \nauthorized by the court following reasonable public notice and opportunity for \npublic comment.\n(1) Public notice shall specify:",
+          "pages": [
+            12
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-14",
+          "path": [],
+          "type": "paragraph",
+          "text": "2\n(A) the purpose of the pilot program or special project;\n(B) the term of the pilot program or special project;\n(C) the effect on any local rule of practice; and\n(D) any requirement necessary to implement or facilitate the pilot \nprogram or special project.\n(2) The term for a pilot program or special project shall not exceed 18 months, \nbut may be extended for one six-month period in conjunction with the \npromulgation of a corresponding local rule.\n",
+          "pages": [
+            13
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 12,
+      "pageSpan": [
+        12,
+        13
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:1.2",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "1.2",
+      "citation": "District of Colorado · Rule 1.2",
+      "title": "FORMS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-14",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 1.2 \nFORMS\nCourt approved forms are on the court’s website HERE. A form may be modified \nby the court or a judicial officer at any time. A form modified by a judicial officer may be \nunder the judicial officer’s practice standards on the court’s website.\n",
+          "pages": [
+            13
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 13,
+      "pageSpan": [
+        13,
+        13
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:2.1",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "2.1",
+      "citation": "District of Colorado · Rule 2.1",
+      "title": "FORMS OF ACTION",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-14",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 2.1 \nFORMS OF ACTION\nA proceeding not defined as a civil action under Fed. R. Civ. P. 2 shall be filed as \na civil miscellaneous (\"mc\") or registered judgment (\"rj\") action only if it is included in the \nList of Miscellaneous Cases provided HERE and on payment of the fee required in the \nSchedule of Fees HERE.\nII. COMMENCEMENT OF ACTION, SERVICE OF PROCESS, \nPLEADINGS, MOTIONS, AND ORDERS\n",
+          "pages": [
+            13
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 13,
+      "pageSpan": [
+        13,
+        13
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:3.1",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "3.1",
+      "citation": "District of Colorado · Rule 3.1",
+      "title": "COMMENCING AN ACTION",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-14",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 3.1 \nCOMMENCING AN ACTION\n(a) Civil Cover Sheet. A properly completed Civil Cover Sheet HERE shall be filed \nat the commencement of each civil action. If the filing party is represented by \ncounsel, the Civil Cover Sheet shall be completed and signed by an attorney of \nrecord in the case. A dispute about the AP Docket designation shall be \naddressed by motion filed before an answer or other response is due.\n(b) Report on Filing a Patent, Trademark, or Copyright Action. A properly \ncompleted Report on the Filing of an Action Regarding a Patent or Trademark or",
+          "pages": [
+            13
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-15",
+          "path": [],
+          "type": "paragraph",
+          "text": "3\nReport on the Filing or Determination of an Action or Appeal Regarding a\nCopyright available HERE shall be filed at the commencement of an action and \nwith any amendment which adds a claim involving a patent, trademark, or \ncopyright. If the filing party is represented by counsel, the report shall be \ncompleted and submitted by an attorney of record.\n[Editor’s note: the link in “HERE” above is to the uscourts.gov forms page where \nthe 2 referenced reports are available (AO Forms 120 and 121.)]\n",
+          "pages": [
+            14
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 13,
+      "pageSpan": [
+        13,
+        14
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:3.2",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "3.2",
+      "citation": "District of Colorado · Rule 3.2",
+      "title": "NOTICE OF RELATED CASES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-15",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 3.2\nNOTICE OF RELATED CASES\n(a) Notice. A party to a case shall file a notice identifying all cases pending in this or \nany other federal, state, or foreign jurisdiction that are related to the case. Under \nthis rule, no party may seek special assignment or reassignment of a related \ncase from one judicial officer to another.\n(b) Related Cases. Related cases are cases that have common facts and claims \nand:\n(1) have at least one party in common; or\n(2) are filed serially or collectively as a group by the same attorney or law \nfirm.\n(c) Time for Filing; Supplemental Filing.\n(1) A party shall file the required notice at the time of its first appearance or \nthe filing of its first pleading or document, or other matter addressed to the \ncourt.\n(2) A party shall file promptly a supplemental notice of any change in the \ninformation required under this rule.\n(d) Procedure on Notice. On notice of a related case, the judicial officer with the \nlowest numbered case shall confer with every other judicial officer to whom a \nrelated case is assigned to discuss whether the related cases should be \nsubmitted for special assignment or reassignment under D.C.COLO.LCivR \n40.1(a) or transfer under D.C.COLO.LCivR 40.1(d)(4)(B).",
+          "pages": [
+            14
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "4\n",
+          "pages": [
+            15
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 14,
+      "pageSpan": [
+        14,
+        15
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:5.1",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "5.1",
+      "citation": "District of Colorado · Rule 5.1",
+      "title": "FORMATTING, SIGNATURES, FILING, AND SERVING PLEADINGS AND",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 5.1\nFORMATTING, SIGNATURES, FILING, AND SERVING PLEADINGS AND \nDOCUMENTS\n(a) Electronic Formatting, Signatures, and Filing. Unless otherwise provided in \nthis rule or otherwise ordered, each pleading and document filed in a civil action \nshall be formatted, signed, and filed electronically in CM/ECF as prescribed by \nthe Electronic Case Filing Procedures, incorporated in these rules and available \nHERE.\n(b) Exceptions to Electronic Formatting and Filing.\n(1) Materials that Cannot Be Converted to Electronic Form. An item such \nas a videotape, audiotape, etc., shall be filed by delivery to the clerk’s \noffice.\n(2) Pleadings and Documents by Unrepresented Prisoners. These shall \nbe filed in paper.\n(3) Pleadings and Documents by Other Unrepresented Parties. These \nshall be filed in paper unless the filing party obtains authorization to use \nelectronic filing under the Electronic Case Filing Procedures HERE or the \nfiling party e-mails documents to the clerk for filing under the procedures \navailable HERE.\n(4) E-mailed Documents. The Electronic Case Filing Procedures specify the \ndocuments that shall be e-mailed to the court to open a case HERE.\n(c) Formatting and Filing of Pleadings and Documents and Maintenance of \nContact Information by an Unrepresented Prisoner or Party. If not filed \nelectronically, an unrepresented prisoner or party shall use the procedures, \nforms, and instructions posted on the court’s website HERE. If the unrepresented \nparty is a prisoner and is unable to access the website, on request the clerk shall \nprovide copies of the necessary procedures, forms, and instructions. Notice of \nchange of name, mailing address, or telephone number of an unrepresented \nprisoner or party shall be filed not later than five days after the change. A user of \nCM/ECF shall keep his/her primary and alternative e-mail address current. \nInstructions for a user to update and maintain his/her CM/ECF account are \nHERE.\n(d) Electronic Service. When a pleading or document, other than a pleading or \ndocument filed under restriction, is filed in CM/ECF, it is deemed served \nelectronically under Fed. R. Civ. P. 5(b)(E) (“sending it to a registered user by \nfiling it in the court’s electronic-filing system . . .”). A pleading or document filed \nunder restriction shall not be accessible or viewable electronically in CM/ECF \nand shall be served using one of the other methods provided by the Federal ",
+          "pages": [
+            15
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "5\nRules of Civil Procedure (e.g., Fed. R. Civ. P. 5(b), including the methods \nprovided under Fed. R. Civ. P. 5(b)(2)(E) other than the court’s electronic-filing \nsystem) or as ordered by the court. The time to respond or reply shall be \ncalculated from the date of electronic service, regardless of whether other \nmeans of service are used, except the time to respond or reply to a pleading or \ndocument filed under restriction shall be calculated as provided by these rules or \nthe Federal Rules of Civil Procedure. The Notice of Electronic Filing (NEF) \ngenerated by CM/ECF constitutes a certificate of service for all pleadings and \ndocuments other than those filed under restriction, which require a separate \ncertificate of service. Registration in CM/ECF shall constitute consent to \nelectronic service of all pleadings or documents other than those filed under \nrestriction.\n",
+          "pages": [
+            16
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 15,
+      "pageSpan": [
+        15,
+        16
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:5.3",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "5.3",
+      "citation": "District of Colorado · Rule 5.3",
+      "title": "DISCOVERY MATERIALS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 5.3 \nDISCOVERY MATERIALS\n(a) All Cases. In addition to the documents specified in Fed. R. Civ. P. 5(d)(1), a \ndeposition notice and a discovery subpoena shall not be filed. Unless otherwise \nordered a party who arranges for a deposition transcript or recording or who \nserves discovery shall act for the court as custodian of all non-filed discovery \nmaterials. The custodian shall bring the original sealed transcript to trial.\n(b) Prisoner Cases. To achieve electronic service, an unrepresented prisoner who \nis proceeding in forma pauperis may file written discovery requests under Fed. R. \nCiv. P. 31, 33, 34, and 36.\n(c) Written Discovery Requests and Responses. Except in prisoner cases or \nunless otherwise ordered, written discovery requests and responses shall be \nexchanged by private e-mail or other non-paper means.\n",
+          "pages": [
+            16
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 16,
+      "pageSpan": [
+        16,
+        16
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:6.1",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "6.1",
+      "citation": "District of Colorado · Rule 6.1",
+      "title": "EXTENSION OF TIME OR CONTINUANCE",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 6.1\nEXTENSION OF TIME OR CONTINUANCE\n(a) Extension of Time. The parties may stipulate in writing to one extension of not \nmore than 21 days beyond the time limits prescribed by the Federal Rules of Civil \nProcedure to respond to a pleading or amended pleading, interrogatories, \nrequests for production of documents, or requests for admissions. The stipulation \nmust be filed before the expiration of the time limits to respond prescribed in the \nFederal Rules of Civil Procedure and shall be effective on filing, unless otherwise \nordered. Any other request for an extension of time or continuance must be \napproved by court order on motion.\n(b) Content of Motion for Extension of Time or Continuance. A motion for \nextension of time or continuance shall state the reason for an extension or \ncontinuance, the length of the requested extension or continuance, and the total \nnumber of extensions or continuances granted previously.",
+          "pages": [
+            16
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "6\n(c) Service on Client. When a stipulation or motion for extension of time or \ncontinuance is filed, it shall be served contemporaneously by counsel on his or \nher client.\nIII. PLEADINGS AND MOTIONS\n",
+          "pages": [
+            17
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 16,
+      "pageSpan": [
+        16,
+        17
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:7.1",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "7.1",
+      "citation": "District of Colorado · Rule 7.1",
+      "title": "MOTIONS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 7.1 \nMOTIONS\n(a) Duty to Confer. Before filing a motion, counsel for the moving party or an \nunrepresented party shall confer or make reasonable, good faith efforts to confer \nwith any opposing counsel or unrepresented party to resolve any disputed \nmatter. The moving party shall describe in the motion, or in a certificate attached \nto the motion, the specific efforts to fulfill this duty.\n(b) Exceptions to the Duty to Confer:\n(1) a motion filed in a case involving an unrepresented prisoner or detainee;\n(2) a motion under Fed. R. Civ. P. 12;\n(3) a motion under Fed. R. Civ. P. 56; or\n(4) a motion under D.C.COLO.LAttyR 5(a) and (b).\n(c) Unopposed Motion. If a motion is unopposed, it shall be titled “Unopposed \nMotion for .”\n(d) Motion, Response and Reply; Time for Serving and Filing; Length. \nExcluding motions filed under Fed. R. Civ. P. 65, a motion involving a contested \nissue of law shall state under which rule or statute it is filed and be supported by \na recitation of legal authority in the motion. The responding party shall have 21 \ndays after the date of service of a motion, or such lesser or greater time as the \ncourt may allow, in which to file a response. The moving party may file a reply no \nlater than 14 days after the date of service of the response, or such lesser or \ngreater time as the court may allow. The date of service of a motion electronically \nfiled shall be determined under D.C.COLO.LCivR 5.1(d). Nothing in this rule \nprecludes a judicial officer from ruling on a motion at any time after it is filed.\nA motion shall not be included in a response or reply to the original motion. A \nmotion shall be filed as a separate document.\n(e) Citations. Every citation in a motion, response, or reply shall include the specific \npage or statutory subsection to which reference is made. If an unpublished \nopinion is cited, a copy of the opinion shall be provided to any unrepresented ",
+          "pages": [
+            17
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "7\nparty.\n(f) Supplemental Authority. If the matter is set for hearing, any supplemental \nauthority shall be filed no later than seven days before the hearing.\n(g) Proposed Order. A moving party may submit a proposed order with an \nunopposed motion or nondispositive motion. A general order attached to a \nmotion (such as “it is ordered” or “so ordered”) is not permitted. A proposed order \nshall be a separate document, bear a separate caption, and set out clearly its \nbasis and terms.\n(h) Hearing. A motion may be decided without oral argument at the discretion of the \ncourt.\n(i) Sanctions. Motions, responses, and replies shall be concise. A verbose, \nredundant, ungrammatical, or unintelligible motion, response, or reply may be \nstricken or returned for revision, and its filing may be grounds for sanctions.\n",
+          "pages": [
+            18
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 17,
+      "pageSpan": [
+        17,
+        18
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:7.2",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "7.2",
+      "citation": "District of Colorado · Rule 7.2",
+      "title": "PUBLIC ACCESS TO DOCUMENTS AND PROCEEDINGS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 7.2\nPUBLIC ACCESS TO DOCUMENTS AND PROCEEDINGS\n(a) Policy. Unless restricted by statute, rule of civil procedure, these rules, or\ncourt order, the public shall have access to all documents filed with the court \nand all court proceedings. However, pleadings or documents filed under \nrestriction shall not be accessible or viewable electronically in CM/ECF. A \nperson with the right to access a restricted pleading or document may request \na paper copy from the clerk.\n(b) Levels of Restriction. There are three levels of restriction. Level 1 limits access \nto the parties and the court. Level 2 limits access to the filing party and the court. \nLevel 3 limits access to the court.\n(c) Motion to Restrict. A motion to restrict public access shall be open to public \ninspection and shall:\n(1) identify the document or the proceeding for which restriction is sought;\n(2) address the interest to be protected and why such interest outweighs the \npresumption of public access (stipulations between the parties or \nstipulated protective orders with regard to discovery, alone, are insufficient \nto justify restriction);\n(3) identify a clearly defined and serious injury that would result if access is \nnot restricted;\n(4) explain why no alternative to restriction is practicable or why only ",
+          "pages": [
+            18
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "8\nrestriction will adequately protect the interest in question (e.g., redaction, \nsummarization, restricted access to exhibits or portions of exhibits); and\n(5) identify the level of restriction sought.\n(d) Public Notice of Motion to Restrict; Objection. Notice of the filing of such \nmotion shall be posted on the court’s website on the court business day following \nthe filing of the motion. Any person may file an objection to the motion to restrict \nno later than three court business days after posting. Absent exigent \ncircumstances, no ruling on a motion to restrict shall be made until the time for \nobjection has passed. The absence of objection alone shall not result in the \ngranting of the motion.\n(e) Filing Restricted Documents. A document subject to a motion to restrict shall \nbe filed as a restricted document and shall be subject to restriction until the \nmotion is determined by the court. If a document is filed as a restricted document \nwithout an accompanying motion to restrict, it shall retain the restriction selected \nby the filer for 14 days. If no motion to restrict is filed within such time period, the \nrestriction shall expire and the document shall be open to public inspection.\n",
+          "pages": [
+            19
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 18,
+      "pageSpan": [
+        18,
+        19
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:8.1",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "8.1",
+      "citation": "District of Colorado · Rule 8.1",
+      "title": "PRO SE PARTY, IN FORMA PAUPERIS PARTY, AND PRISONER PLEADINGS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 8.1\nPRO SE PARTY, IN FORMA PAUPERIS PARTY, AND PRISONER PLEADINGS\n(a) Review of Pro Se and In Forma Pauperis Party Pleadings. A judicial officer \ndesignated by the Chief Judge shall review the pleadings of a pro se party or a \nparty who is allowed to proceed without prepayment of filing fees to determine \nwhether the pleadings should be dismissed summarily. The designated judicial \nofficer may use the assistance of the Pro Se Division in making the \ndetermination. A judicial officer may request additional facts or documentary \nevidence necessary to make this determination. The time for filing an answer or \nresponse shall be tolled until the designated judicial officer determines that the \npleadings should not be dismissed summarily at which time the judicial officer \nshall issue an order directing service of the order and the pleadings on the \ndefendant(s) or respondent(s). A party who seeks leave to proceed without \nprepayment of filing fees shall use the procedures, forms, and instructions \navailable on the court’s website or from the office of the clerk.\n(b) Review of Prisoner Pleadings. A judicial officer designated by the Chief Judge \nshall review the pleadings of a prisoner (whether represented by counsel or not) \nto determine whether the pleadings should be dismissed summarily if the \nprisoner is:\n(1) challenging conditions of confinement;\n(2) seeking redress from a governmental entity, officer, or employee; or\n(3) asserting claims pertinent to his or her conviction or sentence, except in ",
+          "pages": [
+            19
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "9\ndeath penalty cases.\nA judicial officer may request additional facts or documentary evidence \nnecessary to make this determination.\n(c) Assignment. If an action is not dismissed summarily, the action shall be \nassigned to a district judge and/or a magistrate judge under D.C.COLO.LCivR\n40.1. A judicial officer to whom the action is assigned may order issuance of a \nsummons.\n",
+          "pages": [
+            20
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 19,
+      "pageSpan": [
+        19,
+        20
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:10.1",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "10.1",
+      "citation": "District of Colorado · Rule 10.1",
+      "title": "FORMAT OF PLEADINGS AND DOCUMENTS PRESENTED FOR FILING",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 10.1\nFORMAT OF PLEADINGS AND DOCUMENTS PRESENTED FOR FILING\n(a) Scope. This rule applies to all pleadings and documents presented for filing.\n(b) Size. All pleadings and documents shall be on 8 ½ by 11 inch white paper.\n(c) Margins. Margins shall be 1½ inches at the top and 1 inch at the left, \nright, and bottom of each page.\n(d) Font. Unless otherwise ordered, all typewritten pleadings and documents shall \nuse black ink and not less than 12-point font.\n(e) Spacing. All pleadings and documents shall be double spaced.\n(f) Text. Text shall be printed on one side of the page only.\n(g) Legibility. All handwritten pleadings and documents shall be legible, utilizing \nupper and lower case lettering.\n",
+          "pages": [
+            20
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 20,
+      "pageSpan": [
+        20,
+        20
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:15.1",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "15.1",
+      "citation": "District of Colorado · Rule 15.1",
+      "title": "AMENDED PLEADING",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 15.1 \nAMENDED PLEADING\n(a) Amendment as a Matter of Course or by Consent. A party other than an \nunrepresented prisoner who files an amended pleading under Fed. R. Civ. P. \n15(a)(1) or with the consent of the opposing party shall file a separate notice of \nfiling the amended pleading and shall attach as an exhibit a copy of the amended \npleading which strikes through (e.g., strikes through) the text to be deleted and \nunderlines (e.g., underlines) the text to be added.\n(b) Amendment or Supplementation by Motion. A party who files an opposed \nmotion for leave to amend or supplement a pleading shall attach as an exhibit a \ncopy of the proposed amended or supplemental pleading which strikes through \n(e.g., strikes through) the text to be deleted and underlines (e.g., underlines) the \ntext to be added. Unless otherwise ordered, the proposed amended or \nsupplemental pleading shall not incorporate by reference any part of the ",
+          "pages": [
+            20
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "10\npreceding pleading, including exhibits. Unless otherwise ordered, if a motion for\nleave to amend or supplement a pleading is granted, the moving party shall file \nand serve the amended or supplemental pleading on all parties under Fed. R. \nCiv. P. 5 no later than 14 days after the filing of the order granting leave to \namend or supplement.\n",
+          "pages": [
+            21
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 20,
+      "pageSpan": [
+        20,
+        21
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:16.1",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "16.1",
+      "citation": "District of Colorado · Rule 16.1",
+      "title": "SCHEDULING CONFERENCE",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 16.1 \nSCHEDULING CONFERENCE\nA scheduling conference shall be convened by a judicial officer to develop a \nscheduling order. The order setting the scheduling conference shall set the deadline for \nthe parties to meet and attempt to agree on a scheduling order under Fed. R. Civ. P.\n26(f). Except in cases removed to this court or cases where the parties have agreed \notherwise, plaintiff shall file the proposed scheduling order. In a case removed to this \ncourt, the party who removed the case shall file the proposed scheduling order.\n",
+          "pages": [
+            21
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 21,
+      "pageSpan": [
+        21,
+        21
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:16.2",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "16.2",
+      "citation": "District of Colorado · Rule 16.2",
+      "title": "SCHEDULING ORDER",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 16.2 \nSCHEDULING ORDER\nUnless otherwise ordered, a scheduling order shall be in the form and shall \ncomply with the instructions HERE.\n",
+          "pages": [
+            21
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 21,
+      "pageSpan": [
+        21,
+        21
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:16.3",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "16.3",
+      "citation": "District of Colorado · Rule 16.3",
+      "title": "FINAL PRETRIAL ORDER",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 16.3 \nFINAL PRETRIAL ORDER\nUnless otherwise ordered, a final pretrial order shall be in the form and shall \ncomply with the instructions HERE.\n",
+          "pages": [
+            21
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 21,
+      "pageSpan": [
+        21,
+        21
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:16.6",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "16.6",
+      "citation": "District of Colorado · Rule 16.6",
+      "title": "ALTERNATIVE DISPUTE RESOLUTION",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 16.6\nALTERNATIVE DISPUTE RESOLUTION\n(a) Alternative Dispute Resolution. Under 28 U.S.C. § 652, all litigants in civil \nactions shall consider the use of an alternative dispute resolution process. A \ndistrict judge or a magistrate judge exercising consent jurisdiction may direct the \nparties to engage in an early neutral evaluation or other alternative dispute \nresolution proceeding. To facilitate settlement or resolution of the suit, the district \njudge or a magistrate judge exercising consent jurisdiction may stay the action in \nwhole or in part during a time certain or until further order. Relief from an order \nunder this rule may be requested by motion showing good cause.\n(b) Definition of Early Neutral Evaluation. Early neutral evaluation means a \nnonbinding, non-adjudicative assessment of a case by a magistrate judge.\n(c) Disqualification of Neutrals. A magistrate judge providing early neutral \nevaluation may be disqualified under the provisions of 28 U.S.C. §§ 144 or 455.",
+          "pages": [
+            21
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "11\n(d) Designation of Court ADR Administrator. Under 28 U.S.C. § 651(d), the clerk \nof the court is designated to implement, administer, oversee, and evaluate the \ncourt's alternative dispute resolution program.\n(e) Confidentiality. A party or the magistrate judge in an alternative dispute \nresolution proceeding shall not voluntarily disclose or through discovery or \ncompulsory process be required to disclose any information concerning any \ncommunication provided in confidence to the magistrate judge in connection with \nan early neutral evaluation or other alternative dispute resolution proceeding.\nIV. PARTIES\n[No Local Rules]\nV. DEPOSITIONS AND DISCOVERY\n",
+          "pages": [
+            22
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 21,
+      "pageSpan": [
+        21,
+        22
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:26.1",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "26.1",
+      "citation": "District of Colorado · Rule 26.1",
+      "title": "COMPLIANCE WITH FED. R. CIV. P. 26 REQUIREMENTS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 26.1\nCOMPLIANCE WITH FED. R. CIV. P. 26 REQUIREMENTS\n(a) Proposed Scheduling Order. The tendering of a proposed scheduling order in \nthe form HERE shall satisfy the requirement to submit a written report outlining \nthe discovery plan under Fed. R. Civ. P. 26(f).\n(b) Pretrial Disclosures. Disclosures under Fed. R. Civ. P. 26(a)(3) shall be made \nin the proposed final pretrial order HERE.\n",
+          "pages": [
+            22
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 22,
+      "pageSpan": [
+        22,
+        22
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:30.1",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "30.1",
+      "citation": "District of Colorado · Rule 30.1",
+      "title": "DEPOSITION",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 30.1 \nDEPOSITION\nUnless otherwise ordered by the court, reasonable notice for taking a deposition \nshall be not less than 14 days, as computed under Fed. R. Civ. P. 6. Before sending a \nnotice to take a deposition, counsel or the unrepresented party seeking the deposition \nshall make a good faith effort to schedule it in a convenient and cost-effective manner.\n",
+          "pages": [
+            22
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 22,
+      "pageSpan": [
+        22,
+        22
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:30.2",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "30.2",
+      "citation": "District of Colorado · Rule 30.2",
+      "title": "FILING MOTION FOR PROTECTIVE ORDER, MOTION TO LIMIT EXAMINATION, OR",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 30.2\nFILING MOTION FOR PROTECTIVE ORDER, MOTION TO LIMIT EXAMINATION, OR \nOBJECTION TO DISCOVERY ORDER\n(a) Motion for Protective Order or to Limit Examination. Pending resolution of a \nmotion or request for relief under Fed. R. Civ. P. 26(c) or 30(d), the discovery to",
+          "pages": [
+            22
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-24",
+          "path": [],
+          "type": "paragraph",
+          "text": "12\nwhich the motion or request is directed shall be stayed unless otherwise ordered. \nA non-prevailing party may be subject to an award of expenses, fees, and costs \nunder Fed. R. Civ. P. 37(a)(5). However, the filing of a motion to stay all \ndiscovery shall not effectuate a stay unless the motion is granted.\n(b) Objection to Discovery Order by Magistrate Judge. An objection under Fed.\nR. Civ. P. 72(a) to an order by a magistrate judge concerning discovery does not \nstay the discovery to which the order is directed. A stay of the order shall be \nobtained by motion filed with the magistrate judge, and if denied, then with the \nassigned district judge.\n",
+          "pages": [
+            23
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 22,
+      "pageSpan": [
+        22,
+        23
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:30.3",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "30.3",
+      "citation": "District of Colorado · Rule 30.3",
+      "title": "SANCTIONS FOR ABUSIVE DEPOSITION CONDUCT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-24",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 30.3\nSANCTIONS FOR ABUSIVE DEPOSITION CONDUCT\n(a) Prohibited Conduct. In addition to the conduct prohibited by Fed. R. Civ. P. \n30(d)(3)(A), the following practices constitute abusive deposition conduct and are \nprohibited:\n(1) making an objection or a statement that has the effect of coaching the \ndeponent or suggesting an answer; and\n(2) interrupting examination by counsel except to determine whether to assert \na privilege.\n(b) Appointment of Master. A judicial officer may appoint a master under Fed. R. \nCiv. P. 53 to regulate deposition proceedings.\n(c) Location of Deposition. A judicial officer may order that a deposition be taken \nat a specific location.\n(d) Expenses, Costs, and Fees. When a judicial officer determines that a party or \ncounsel unreasonably has interrupted, delayed, or prolonged a deposition, \nwhether by excessive questioning, objecting, or other conduct, that party or its \ncounsel, or both, may be ordered to pay each other party’s expenses, including \nwithout limitation, reasonably necessary travel, lodging, reporter’s fees, attorney \nfees, and videotaping expenses, for that portion of the deposition determined to \nbe excessive. In addition, that party or its counsel, or both, may be required to \npay all such costs and expenses for any additional depositions or hearings made \nnecessary by its misconduct.\n",
+          "pages": [
+            23
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 23,
+      "pageSpan": [
+        23,
+        23
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:37.1",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "37.1",
+      "citation": "District of Colorado · Rule 37.1",
+      "title": "DISCOVERY MOTION",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-24",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 37.1 \nDISCOVERY MOTION",
+          "pages": [
+            23
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "13\nA motion under Fed. R. Civ. P. 26 or 37 directed to an interrogatory, request, or \nresponse under Fed. R. Civ. P. 33, 34, or 36 shall set forth either in the text of the \nmotion or in an exhibit to the motion the specific interrogatory, request, or response to \nwhich the motion is directed.\nVI. TRIALS\n",
+          "pages": [
+            24
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 23,
+      "pageSpan": [
+        23,
+        24
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:40.1",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "40.1",
+      "citation": "District of Colorado · Rule 40.1",
+      "title": "ASSIGNMENT OF CASES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 40.1 \nASSIGNMENT OF CASES\n(a) Assignment in General. Except as provided in this rule and under \nD.C.COLO.LCivR 8.1 and Section IV - AP Rules, civil actions shall be assigned \nto judicial officers by random draw. Work parity shall be maintained among active \ndistrict judges and among full-time magistrate judges, provided that a majority of \nactive district judges may adjust the assignment of cases to the Chief Judge as \nmay be necessary for the performance of the duties of that office, and may, for \ngood cause, approve special assignment or reassignment of cases among the \njudicial officers of the court. All other reassignments of cases shall be subject to \nthe approval of the Chief Judge.\n(b) Random Draw by Computer. The clerk shall maintain a computerized program \nto achieve work parity among judicial officers through random and public \nassignment of new cases. A senior judge may decline assignment of cases and, \non notice to the Chief Judge, limit participation in the random draw by a stated \npercentage.\n(c) Direct Assignment to Magistrate Judges.\n(1) All full-time magistrate judges shall be included in the assignment of civil \nactions under Subdivision (a), subject to the other provisions of this rule.\n(2) The following civil actions shall not be assigned directly to a magistrate \njudge:\n(a) a civil action in which a motion for injunctive relief is filed;\n(b) a civil action brought under 28 U.S.C. § 2255 if the sentencing \njudge is still in regular active service or is rendering substantial \nassistance as a senior judge;\n(c) a civil action or proceeding brought under or related to Title 11, \nUnited States Code;",
+          "pages": [
+            24
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "14\n(d) a civil action in which an order of referral has been filed; and\n(e) any other civil action excluded from direct assignment by a majority \nof the district judges.\n(3) The following civil actions, by way of example only, although initially \nassigned directly to a magistrate judge, shall be reassigned to a district \njudge:\n(a) an action in which a motion for default judgment is filed;\n(b) an action which on initial review should be dismissed or \nadministratively closed, unless there is consent; or\n(c) an action identified by a majority of the district judges or subject to \nreassignment under Subdivision (a).\n(4) On the filing of a civil action eligible for direct assignment to a magistrate \njudge, the clerk shall deliver to the plaintiff(s) the Consent/Non-Consent to \nUnited States Magistrate Judge Jurisdiction form HERE, which the \nplaintiff(s) shall attach to the summons and serve on the defendant(s). \nFailure to serve the Consent/Non-Consent to United States Magistrate \nJudge Jurisdiction form shall not affect the validity of service of process or \npersonal jurisdiction over a defendant. Unless otherwise ordered, each \nparty shall complete and file the Consent/Non-Consent to United States \nMagistrate Judge Jurisdiction form no later than (a) seven days before the \nscheduling conference, if any; or (b) 45 days after the filing of the first \nresponse, other than an answer, to the operative complaint, whichever is \nearlier. Filing of the Consent/Non-Consent to United States Magistrate \nJudge Jurisdiction form is mandatory.\n(5) Consent to magistrate judge jurisdiction is voluntary, and no adverse \nconsequence shall result if consent is declined.\n(6) In a civil action assigned directly to a magistrate judge, if all parties \nconsent to magistrate judge jurisdiction, the magistrate judge shall notify \nthe Chief Judge or his/her designee, who shall determine whether to enter \nan order of reference under 28 U.S.C. § 636(c).\n(7) Any party added to the civil action after reference to a magistrate judge \nshall be notified by the clerk of the obligation to complete and file the \nmandatory Consent/Non-Consent to United States Magistrate Judge \nJurisdiction form. If any added party does not consent to magistrate judge \njurisdiction within 21 days from the date of the notice, the civil action shall",
+          "pages": [
+            25
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "15\nbe assigned to a district judge under D.C.COLO.LCivR 40.1(a), and the \nmagistrate judge shall continue on the case as if consent had been \ndeclined initially.\n(8) If consent to magistrate judge jurisdiction is declined by any party, no \norder of reference is entered or the order of reference is vacated, the civil \naction shall be assigned to a district judge under D.C.COLO.LCivR \n40.1(a), and the magistrate judge shall continue on the case as if consent \nhad been declined initially.\n(9) The Chief Judge or his/her designee may sua sponte for good cause or on \nmotion of a party for extraordinary circumstances vacate the order of \nreference.\n(10) A case assigned directly to a magistrate judge in which there is consent \nmay be assigned randomly to another magistrate judge to conduct an \nearly neutral evaluation or other alternative dispute resolution proceeding \nunder D.C.COLO.LCivR 16.6.\n(11) If after direct assignment, a magistrate judge recuses and the action is \nassigned to another magistrate judge, each party shall complete a \nConsent/Non-Consent to United States Magistrate Judge Jurisdiction form \nno later than (a) 21 days after assignment to the successor magistrate \njudge; or (b) the deadline imposed in Paragraph 4, whichever is later.\n(d) Special Assignment.\n(1) If an unrepresented party in a new case already has a case pending or \nhad a case terminated within 12 months of the new filing, the new case \nshall be assigned to the judicial officers who were assigned the earlier \ncase.\n(2) Once a bankruptcy appeal or motion to withdraw the reference has been \nassigned to a district judge by random draw, any case subsequently filed \nconcerning the same debtor in bankruptcy shall be assigned to the same \ndistrict judge.\n(3) On filing a civil forfeiture proceeding, the United States Attorney shall \nnotify the clerk in writing when a potential claimant is a defendant in a \npending criminal case. The civil action shall be assigned to the judicial \nofficer to whom the criminal case is assigned.\n(4) A new case that is related under D.C.COLO.LCivR 3.2 to a pending case \nmay be assigned to the same judicial officers:",
+          "pages": [
+            26
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "16\n(A) by reassignment on a majority vote of the active district judges \nunder D.C.COLO.LCivR 40.1(a);\n(B) by reassignment with approval of the Chief Judge under \nD.C.COLO.LCivR 40.1(a); or\n(C) by entry of an order granting a motion to consolidate under Fed. R. \nCiv. P. 42(a) and D.C.COLO.LCivR 42.1.\n(5) If a case that has been remanded is removed again, the case shall be \nassigned to the judicial officers who were assigned the case initially.\n(6) A party may not seek a reassignment under Paragraph (d)(4) or \nD.C.COLO.LCivR 3.2.\n(e) “AP” Cases. On the filing of an AP case, the clerk shall assign a case number \nwithout random selection to any district judge designated by the Chief Judge for \npre-merits management under Section IV of these rules.\n(f) Recusal. Recusal of an active judicial officer shall be by written order stating the \nreasons.\n(g) Adjustments. On recusal under this rule or D.C.COLO.LCivR 42.1, the clerk \nshall adjust the computerized program to maintain work parity among active \ndistrict judges and among full-time magistrate judges.\n",
+          "pages": [
+            27
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 24,
+      "pageSpan": [
+        24,
+        27
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:40.2",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "40.2",
+      "citation": "District of Colorado · Rule 40.2",
+      "title": "TRIAL CALENDAR AND NOTICE OF SETTLEMENT OR RESOLUTION",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 40.2\nTRIAL CALENDAR AND NOTICE OF SETTLEMENT OR RESOLUTION\n(a) Calendar. Each judicial officer shall maintain a trial calendar that preserves the \npriorities required by law.\n(b) Notice of Settlement or Resolution. When the parties have agreed to settle or \notherwise resolve a pending matter, they shall notify the court immediately.\n",
+          "pages": [
+            27
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 27,
+      "pageSpan": [
+        27,
+        27
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:41.1",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "41.1",
+      "citation": "District of Colorado · Rule 41.1",
+      "title": "DISMISSAL",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 41.1 \nDISMISSAL\nA judicial officer may issue an order to show cause why a case should not be \ndismissed for failure to prosecute or failure to comply with these rules, the Federal \nRules of Civil Procedure, or a court order. If good cause is not shown, a district judge or \na magistrate judge exercising consent jurisdiction may enter an order of dismissal with \nor without prejudice.",
+          "pages": [
+            27
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "17\n",
+          "pages": [
+            28
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 27,
+      "pageSpan": [
+        27,
+        28
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:41.2",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "41.2",
+      "citation": "District of Colorado · Rule 41.2",
+      "title": "ADMINISTRATIVE CLOSURE",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 41.2 \nADMINISTRATIVE CLOSURE\nA district judge or a magistrate judge exercising consent jurisdiction may order \nthe clerk to close a civil action administratively subject to reopening for good cause. \nAdministrative closure of a civil action terminates any pending motion. Reopening of a \ncivil action does not reinstate any motion.\n",
+          "pages": [
+            28
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 28,
+      "pageSpan": [
+        28,
+        28
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:42.1",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "42.1",
+      "citation": "District of Colorado · Rule 42.1",
+      "title": "MOTION TO CONSOLIDATE",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 42.1 \nMOTION TO CONSOLIDATE\nA motion to consolidate shall be filed in the lowest numbered case included in the \nproposed consolidation and shall be decided by the district judge to whom the lowest \nnumbered case is assigned. A notice of filing of a motion to consolidate shall be filed by \nthe movant as a party or, with the assistance of the clerk, as an interested party in all \nother cases proposed for consolidation. A motion to consolidate shall be given priority. \nConsolidated cases shall be reassigned to the judicial officer(s) to whom the lowest \nnumbered consolidated case was assigned.\n",
+          "pages": [
+            28
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 28,
+      "pageSpan": [
+        28,
+        28
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:43.1",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "43.1",
+      "citation": "District of Colorado · Rule 43.1",
+      "title": "HEARING AND TRIAL PROCEDURES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 43.1\nHEARING AND TRIAL PROCEDURES\nA judicial officer presiding over a hearing or trial may establish governing \nprocedures. Judicial practice standards are HERE.\n",
+          "pages": [
+            28
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 28,
+      "pageSpan": [
+        28,
+        28
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:45.1",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "45.1",
+      "citation": "District of Colorado · Rule 45.1",
+      "title": "SUBPOENA SERVICE",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 45.1 \nSUBPOENA SERVICE\nExcept as provided in D.C.COLO.LCivR 30.1 or unless otherwise ordered by the \ncourt, a subpoena shall be served no later than seven days before the date specified in \nthe subpoena. The seven-day period shall be calculated under Fed. R. Civ. P. 6(a)(1).\n",
+          "pages": [
+            28
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 28,
+      "pageSpan": [
+        28,
+        28
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:47.2",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "47.2",
+      "citation": "District of Colorado · Rule 47.2",
+      "title": "COMMUNICATION WITH JURORS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 47.2 \nCOMMUNICATION WITH JURORS\nA party or attorney shall not communicate with, or cause another to communicate \nwith, a juror or prospective juror before, during, or after a trial without order or express \noral or written permission of the presiding judicial officer.",
+          "pages": [
+            28
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "18\nVII. JUDGMENT\n",
+          "pages": [
+            29
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 28,
+      "pageSpan": [
+        28,
+        29
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:54.1",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "54.1",
+      "citation": "District of Colorado · Rule 54.1",
+      "title": "TAXATION OF COSTS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 54.1 \nTAXATION OF COSTS\nEach judgment or final order shall indicate any party entitled to costs. Unless \notherwise ordered, the clerk shall tax costs in favor of a prevailing party or parties. A bill \nof costs shall be filed on the form provided by the court HERE no later than 14 days \nafter entry of the judgment or final order. After filing a bill of costs and prior to appearing \nbefore the clerk, counsel and any unrepresented party seeking costs shall file a written \nstatement that they have conferred as to disputes regarding costs. If all disputes are \nresolved, a stipulation specifying costs shall be filed with the court.\n",
+          "pages": [
+            29
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 29,
+      "pageSpan": [
+        29,
+        29
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:54.2",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "54.2",
+      "citation": "District of Colorado · Rule 54.2",
+      "title": "JURY COST ASSESSMENT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 54.2 \nJURY COST ASSESSMENT\nUnless the court is notified in writing before noon on the last business day before \ntrial that a civil action has been resolved, jury costs may be assessed against any party \nor counsel.\n",
+          "pages": [
+            29
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 29,
+      "pageSpan": [
+        29,
+        29
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:54.3",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "54.3",
+      "citation": "District of Colorado · Rule 54.3",
+      "title": "ATTORNEY FEES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 54.3 \nATTORNEY FEES\n(a) Motion Supported by Affidavit. Unless otherwise ordered, a motion for attorney \nfees shall be supported by affidavit.\n(b) Content of Motion. The motion shall include the following for each person for \nwhom fees are claimed:\n(1) a summary of relevant qualifications and experience; and\n(2) a detailed description of the services rendered, the amount of time spent, \nthe hourly rate charged, and the total amount claimed.\n",
+          "pages": [
+            29
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 29,
+      "pageSpan": [
+        29,
+        29
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:55.1",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "55.1",
+      "citation": "District of Colorado · Rule 55.1",
+      "title": "DEFAULT JUDGMENT FOR A SUM CERTAIN",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 55.1\nDEFAULT JUDGMENT FOR A SUM CERTAIN\n(a) Required Showing. To obtain a default judgment under Fed. R. Civ. P. 55(b)(1), \na party shall show by motion supported by affidavit:\n(1) that the defendant who has been defaulted:\n(A) is not a minor or an incompetent person;",
+          "pages": [
+            29
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "19\n(B) is not in the military service, as set forth in the Servicemembers \nCivil Relief Act, 50 U.S.C. § 3931, Protection of \nServicemembers Against Default Judgments;\n(C) has not made an appearance; and\n(2) the sum certain or the sum that can be made certain by computation.\n(b) Form of Judgment. The moving party shall submit a proposed form of judgment \nthat recites:\n(1) the party or parties in favor of whom judgment shall be entered;\n(2) the party or parties against whom judgment shall be entered;\n(3) when there are multiple parties against whom judgment shall be entered, \nwhether the judgment shall be entered jointly, severally, or jointly and \nseverally;\n(4) the sum certain consisting of the principal amount, prejudgment interest, \nand the rate of post judgment interest; and\n(5) the sum certain of attorney fees enumerated in the document on which the \njudgment is based.\n",
+          "pages": [
+            30
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 29,
+      "pageSpan": [
+        29,
+        30
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:56.1",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "56.1",
+      "citation": "District of Colorado · Rule 56.1",
+      "title": "MOTION FOR SUMMARY JUDGMENT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 56.1\nMOTION FOR SUMMARY JUDGMENT\n(a) Motion. A motion under Fed. R. Civ. P. 56 for summary judgment or partial \nsummary judgment shall include a statement of undisputed facts, argument, and \nlegal authority incorporated into the motion in lieu of a separate opening brief. \nUnless otherwise ordered, a response shall be filed no later than 21 days after \nthe date of service of the motion, and a reply may be filed no later than 14 days \nafter the date of service of the response.\n(b) Cross Motion. A cross motion for summary judgment shall be filed as a separate \nmotion subject to Subdivision (a).\n(c) Exhibits to Motion or Briefs. Voluminous exhibits are discouraged. Parties shall \nlimit exhibits to essential portions of documents. Unless otherwise ordered, \ncopies of documents attached as exhibits to a motion shall not be attached as \nexhibits to a response, and copies of documents attached as exhibits to a \nresponse shall not be attached as exhibits to a reply. Any additional exhibit shall",
+          "pages": [
+            30
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "20\nbe attached to the corresponding response or reply and consecutively numbered \nor lettered.\nVIII. PROVISIONAL AND FINAL REMEDIES\n",
+          "pages": [
+            31
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 30,
+      "pageSpan": [
+        30,
+        31
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:65.1",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "65.1",
+      "citation": "District of Colorado · Rule 65.1",
+      "title": "TEMPORARY RESTRAINING ORDER",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 65.1\nTEMPORARY RESTRAINING ORDER\n(a) Motion. A temporary restraining order shall be requested by motion filed \nseparately from the complaint. The motion shall be accompanied by a certificate \nof counsel or an unrepresented party, stating:\n(1) that actual notice of the time of filing the motion, and copies of all \npleadings and documents filed in the action to date or to be presented to \nthe court at the hearing, have been provided to opposing counsel and any \nunrepresented adverse party; or\n(2) the efforts made by the moving party to provide the required notice and \ndocuments. Except as provided by Fed. R. Civ. P. 65(b)(1), the court shall \nnot consider an ex parte motion for temporary restraining order.\n(b) Proposed Order. A proposed temporary restraining order shall be submitted \nwith a motion for temporary restraining order.\n",
+          "pages": [
+            31
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 31,
+      "pageSpan": [
+        31,
+        31
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:67.1",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "67.1",
+      "citation": "District of Colorado · Rule 67.1",
+      "title": "BONDS AND OTHER SURETIES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 67.1\nBONDS AND OTHER SURETIES\n(a) Prohibition. A party (individual or entity), a spouse of a party, or an attorney for a \nparty in a civil action, shall not serve as a personal surety on any bond in that civil \naction.\n(b) Surety Company; Power of Attorney. If the surety on a bond is a surety \ncompany approved by the United States Department of the Treasury, a power of \nattorney evidencing the authority of the agent signing the bond shall be filed with \nthe clerk.\n",
+          "pages": [
+            31
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 31,
+      "pageSpan": [
+        31,
+        31
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:67.2",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "67.2",
+      "citation": "District of Colorado · Rule 67.2",
+      "title": "COURT REGISTRY",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 67.2 \nCOURT REGISTRY\n(a) Deposit of Funds in Court Registry. Unless a statute requires otherwise, funds \nshall be tendered to the court or its officers for deposit into the registry only under",
+          "pages": [
+            31
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "21\ncourt order. A depositor shall identify in writing the order authorizing deposit by \nreference to the relevant docket entry in CM/ECF.\n(b) Investment of Funds in Registry. Unless otherwise ordered, all funds \ndeposited into the registry shall be deposited in an interest-bearing account \nthrough the Court Registry Investment System (CRIS).\n(c) Registry Fee. Registry fees shall be deducted under 28 U.S.C. § 1914 and any \nregulation promulgated thereunder.\n(d) Disbursement of Funds in Registry. Funds in the registry shall be disbursed \nonly by court order. A proposed order to disburse funds shall include the payee's \nfull name and complete address and the amount to be disbursed. If more than\n$10.00 of interest is to be disbursed, the proposed order shall be accompanied \nby a completed IRS Form W-9 (which shall be filed under restricted access). The \nparty requesting disbursement of funds shall provide to the clerk a copy of the \norder authorizing disbursement including its CM/ECF docket number.\n(e) Interpleader funds deposited under 28 U.S.C. § 1335 are defined by the IRS as a \nDisputed Ownership Fund (DOF), a taxable entity that requires tax \nadministration. Unless otherwise ordered, interpleader funds shall be deposited \nin the DOF established in the CRIS and administered by the Administrative Office \nof the United States Courts (AO), which shall be responsible for meeting all DOF \ntax administration requirements. The Director of the AO is designated as the \ncustodian of funds deposited in the DOF.\nIX. SPECIAL PROCEEDINGS\n",
+          "pages": [
+            32
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 31,
+      "pageSpan": [
+        31,
+        32
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:72.1",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "72.1",
+      "citation": "District of Colorado · Rule 72.1",
+      "title": "GENERAL AUTHORITY AND DUTIES OF A MAGISTRATE JUDGE",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 72.1\nGENERAL AUTHORITY AND DUTIES OF A MAGISTRATE JUDGE\n(a) General Authority. Except as restricted by these rules, a magistrate judge may \nexercise all powers and duties authorized by federal statutes, regulations, and \nthe Federal Rules of Civil Procedure.\n(b) Duties. A magistrate judge may:\n(1) issue administrative inspection warrants;\n(2) issue civil seizure warrants under 21 U.S.C. § 881 and 18 U.S.C. §§ 981-\n983;",
+          "pages": [
+            32
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "22\n(3) issue search and seizure warrants for levy under the Internal Revenue \nCode;\n(4) act on post judgment matters arising under Fed. R. Civ. P. 69, including \nthe authority to:\n(A) issue writs;\n(B) issue orders directing funds to be paid into or disbursed from the \nregistry of the court;\n(C) hold hearings and make recommendations to the district judge on \nsubstantive issues including the liability of a party under a writ of \ngarnishment or execution; and\n(D) perform duties specified in chapter 176 of Title 28 United States \nCode, as assigned by the court under the Federal Debt Collection \nProcedures Act, 28 U.S.C. § 3008;\n(5) make determinations and enter appropriate orders under 28 U.S.C. § \n1915, except to enter an order denying a request to proceed in forma \npauperis;\n(6) perform duties set forth in D.C.COLO.LCivR 8.1;\n(7) exercise contempt authority as authorized by law;\n(8) issue administrative subpoenas as authorized by law;\n(9) appoint masters under Fed. R. Civ. P. 53;\n(10) transfer cases on direct assignment under D.C.COLO.LCivR 40.1(d)(4).\n(11) issue orders on motions to treat a document as a highly sensitive \ndocument; and\n(12) issue other orders as authorized by law.\n(c) Other Duties. On reference or order by a district judge, a magistrate judge may:\n(1) conduct pretrial conferences, post-trial proceedings, early neutral \nevaluations, settlement conferences, other alternative dispute resolution \nproceedings, and other nondispositive pretrial proceedings;",
+          "pages": [
+            33
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "23\n(2) act on petitions to perpetuate testimony under Fed. R. Civ. P. 27;\n(3) hold hearings and make recommendations on dispositive matters; and\n(4) make determinations and enter orders or recommendations on discovery \ndisputes in cases pending in other federal courts or courts of another \ncountry.\n",
+          "pages": [
+            34
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 32,
+      "pageSpan": [
+        32,
+        34
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:72.2",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "72.2",
+      "citation": "District of Colorado · Rule 72.2",
+      "title": "CONSENT JURISDICTION OF A MAGISTRATE JUDGE",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 72.2\nCONSENT JURISDICTION OF A MAGISTRATE JUDGE\n(a) Designation. Under 28 U.S.C. § 636(c)(1) and subject to this rule, a full-time \nmagistrate judge is designated specially to conduct any or all proceedings in any \njury or nonjury civil action and order the entry of judgment in the case.\n(b) Notice. On the filing of any civil action, the clerk shall deliver to the plaintiff(s) \nwritten notice of the right of the parties to consent to disposition of the civil action \nby a magistrate judge under 28 U.S.C. § 636(c) and the provisions of this rule. A \ncopy of the notice shall be attached to the summons and served on the \ndefendant(s). A failure to serve a copy of such notice on a defendant shall not \naffect the validity of the service of process or personal jurisdiction over the \ndefendant(s).\n(c) Unanimous Consent; Determination. To consent to the jurisdiction of a \nmagistrate judge under 28 U.S.C. § 636(c), all parties shall complete and file a \nConsent/Non-Consent to United States Magistrate Judge Jurisdiction form \nHERE. Unless otherwise ordered by the assigned district judge, written consent \nto proceed before a magistrate judge must be filed no later than (1) seven days \nbefore the scheduling conference, if any; or (2) 45 days after the filing of the first \nresponse, other than an answer, to the operative complaint, whichever is earlier. \nWhen there is such consent, the magistrate judge shall forthwith notify the \nassigned district judge, who will then determine whether to enter an order of \nreference under 28 U.S.C. § 636(c).\n(d) Assignment. On entry of an order of reference under 28 U.S.C. § 636(c), the \ncivil action shall be assigned to the magistrate judge currently assigned to the \ncase.\n(e) Additional Parties. Any party added to the action or served after reference to a \nmagistrate judge under this rule shall be notified by the clerk of the right to \nconsent to the exercise of jurisdiction by the magistrate judge under 28 U.S.C. §\n636(c). If an added party does not file a consent to proceed before the magistrate \njudge within 21 days from the date of mailing of the notice, the action shall be \nreturned to the assigned district judge for further proceedings.",
+          "pages": [
+            34
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "24\n(f) Vacating Reference. A reference of a civil matter to a magistrate judge may be \nvacated under 28 U.S.C. § 636(c)(4).\n",
+          "pages": [
+            35
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 34,
+      "pageSpan": [
+        34,
+        35
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:72.3",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "72.3",
+      "citation": "District of Colorado · Rule 72.3",
+      "title": "REFERENCE OF A DISPOSITIVE MOTION TO A MAGISTRATE JUDGE",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 72.3\nREFERENCE OF A DISPOSITIVE MOTION TO A MAGISTRATE JUDGE\n(a) Designation. A full-time magistrate judge is designated specially to make final \ndetermination of a dispositive motion with the unanimous consent of the parties \nand approval of the assigned district judge. Dispositive motions include motions \nto amend, to dismiss, for transfer or for change of venue, to remand, for \nsummary judgment, and for partial summary judgment.\n(b) Consent on Notice. The parties may consent to the final determination of a \ndispositive motion by the assigned magistrate judge by filing a notice of consent. \nThe district judge may enter an order approving the notice.\n(c) Reference. On entry of an order of reference of a dispositive motion under 28\nU.S.C. § 636(c), the motion shall be referred to the magistrate judge currently \nassigned to the case.\n(d) Vacating Reference. A reference of a dispositive motion to a magistrate judge \nmay be vacated for good cause.\n(e) Appeal. If a magistrate judge grants a dispositive motion and directs the entry of \nfinal judgment, an appeal shall be to the United States Court of Appeals for the \nTenth Circuit in the same manner as an appeal from any other judgment of this \ncourt.\nX. DISTRICT COURT AND CLERK\n",
+          "pages": [
+            35
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 35,
+      "pageSpan": [
+        35,
+        35
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:77.1",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "77.1",
+      "citation": "District of Colorado · Rule 77.1",
+      "title": "TIME AND PLACE OF FILING",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 77.1\nTIME AND PLACE OF FILING\nUnless otherwise ordered, an electronically filed pleading or document shall be \nfiled no later than 11:59:59 p.m. (Mountain Time) on the day required. Unless otherwise \nordered, all other pleadings and documents shall be filed during the business hours of",
+          "pages": [
+            35
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-37",
+          "path": [],
+          "type": "paragraph",
+          "text": "25\nthe office of the clerk from 8:00 a.m. to 5:00 p.m. (Mountain Time) Monday through \nFriday.\n",
+          "pages": [
+            36
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 35,
+      "pageSpan": [
+        35,
+        36
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:77.2",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "77.2",
+      "citation": "District of Colorado · Rule 77.2",
+      "title": "COMMUNICATION WITH A JUDICIAL OFFICER",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-37",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 77.2\nCOMMUNICATION WITH A JUDICIAL OFFICER\nUnless otherwise ordered, a party to or an attorney in a proceeding shall not \ncommunicate directly about the proceeding in any manner with a judicial officer \nassigned to the proceeding.\n",
+          "pages": [
+            36
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 36,
+      "pageSpan": [
+        36,
+        36
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:79.1",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "79.1",
+      "citation": "District of Colorado · Rule 79.1",
+      "title": "CUSTODY OF PLEADINGS, DOCUMENTS, CONVENTIONALLY SUBMITTED",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-37",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 79.1\nCUSTODY OF PLEADINGS, DOCUMENTS, CONVENTIONALLY SUBMITTED \nMATERIALS, AND EXHIBITS\n(a) Custody and Removal. Unless otherwise ordered, pleadings, documents, \nconventionally submitted materials, and exhibits in a court file or submitted to a \njudicial officer shall not be removed from the office or custody of the clerk or \njudicial officer.\n(b) Disposition.\n(1) After 60 days of entry of final judgment in a civil action in which no appeal \nis taken, the clerk may notify counsel of record and any unrepresented \nparty that the clerk intends to dispose of any conventionally submitted \nmaterial or exhibit in the possession of the clerk. If no objection is filed \nwithin 14 days of the notice, the clerk may dispose of the conventionally \nsubmitted material or exhibit.\n(2) In a civil action on appeal, any conventionally submitted material or exhibit \nthat was not transmitted as a part of the record on appeal may be \ntransferred by the clerk to the offering attorney or unrepresented party \nwho shall retain the conventionally submitted material or exhibit pending \norder of the appellate court.\n",
+          "pages": [
+            36
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 36,
+      "pageSpan": [
+        36,
+        36
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:79.2",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "79.2",
+      "citation": "District of Colorado · Rule 79.2",
+      "title": "INSPECTION OF PHYSICAL EVIDENCE",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-37",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 79.2\nINSPECTION OF PHYSICAL EVIDENCE\nWhile in the custody of the clerk, physical evidence shall not be inspected or \ncopied except in the presence of and under the supervision of the clerk. The clerk may \nlimit or prohibit inspection or copying to preserve the evidence.",
+          "pages": [
+            36
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-38",
+          "path": [],
+          "type": "paragraph",
+          "text": "26\nXI. GENERAL PROVISIONS\n",
+          "pages": [
+            37
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 36,
+      "pageSpan": [
+        36,
+        37
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:81.1",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "81.1",
+      "citation": "District of Colorado · Rule 81.1",
+      "title": "PROCEDURE FOR REMOVAL",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-38",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 81.1 \nPROCEDURE FOR REMOVAL\n(a) Notice of Removal. A notice of removal shall comply with 28 U.S.C. § 1446(a).\n(b) Filing Requirements. No later than 14 days after the filing of the notice of \nremoval, the removing party shall file a current docket sheet (register of actions) \nand shall separately file each pending motion, petition, and related response, \nreply, and brief.\n(c) Notification Requirements. If a hearing in the state court has been set before a \ncase is removed, counsel or the unrepresented party removing the case shall \nnotify the state judge forthwith of the removal and shall notify the federal judge to \nwhom the case is assigned of the nature, time, and place of the state court \nhearing.\n",
+          "pages": [
+            37
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 37,
+      "pageSpan": [
+        37,
+        37
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:83.1",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "83.1",
+      "citation": "District of Colorado · Rule 83.1",
+      "title": "RECORDING DEVICES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-38",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 83.1 \nRECORDING DEVICES\n(a) Prohibited Recording Devices. Unless authorized by a judicial officer, a \ndevice whose exclusive or principal use is as a camera, video recorder, or \naudio recorder may not be brought into or used in a United States Courthouse \nor any location in which court business and proceedings are conducted.\n(b) Prohibited Eyeglasses. Any eyeglasses determined to be “smart glasses,” \n(i.e., eyeglasses, which, at a minimum, may be used as a camera, video \nrecorder, or audio recorder) regardless of manufacturer, make, model, or type \nof imbedded technology, may not be brought into or used in a United States \nCourthouse or any location in which court business and proceedings are \nconducted.\n(c) Permissible Devices. After clearing security, an electronic device, including, but \nnot limited to, a cellular telephone, a smartphone, a laptop computer, an \nelectronic tablet, or a personal data assistant (PDA), regardless of the technology \nused or the name by which the device is marketed, may be brought into any \npublic area in the United States Courthouse or any location in which court \nbusiness and proceedings are conducted.\n(d) Impermissible Uses of Permissible Devices. A person shall not use a \npermissible device defined in Subdivision (c) to take photographs or to make \naudio or video recordings in any public area in the United States Courthouse or \nany other location in which court business and proceedings are conducted. A \nperson shall not use a permissible device defined in Subdivision (c) to take \nphotographs or to make audio or video recordings in any courtroom or chambers",
+          "pages": [
+            37
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "27\nexcept as authorized by the judicial officer having direct control of that space.\n(e) Sanctions for Violations. Violation of this rule may constitute contempt of court \npunishable by incarceration and the imposition of fines, costs, and attorney fees.\nThe court authorizes the following agencies and those under contract \nemployment of such agencies to maintain the security of district court spaces:\n(1) United States Marshals Service;\n(2) United States Department of Homeland Security Federal Protective \nService; and\n(3) United States General Services Administration.\nThe authority to maintain security through the enforcement of this rule may \ninvolve taking possession of the device, searching the device and its contents, \nand preserving, copying, transferring, or deleting unauthorized video or audio \nrecordings or photographs of court operations, proceedings, or facility space from \nelectronic devices with or without the cooperation of a person found to be in \npossession of the device.\nA judicial officer may take action to enforce this rule or to sanction a violator.\n",
+          "pages": [
+            38
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 37,
+      "pageSpan": [
+        37,
+        38
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:83.2",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "83.2",
+      "citation": "District of Colorado · Rule 83.2",
+      "title": "SECURITY AND PROHIBITED ITEMS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 83.2\nSECURITY AND PROHIBITED ITEMS\n(a) Procedures. All persons entering a building, courthouse, courtroom, or any \nother location in which court business and proceedings are conducted shall be \nsubject to security procedures.\nAll briefcases, purses, parcels, bags, backpacks, and other items shall be passed \nthrough an X-ray scanner or magnetometer (or their functional equivalent) and \nshall be subject to search. This rule shall apply at such other places as a judicial \nofficer may direct.\nAt the direction of the security officer conducting security screenings of persons \nattempting to enter a building, courthouse, courtroom, or any other location in \nwhich court business and proceedings are conducted, eyeglasses shall be \npassed through an X-ray scanner or magnetometer (or their functional \nequivalent) and shall be subject to search. Any eyeglasses determined to be \n“smart glasses” (i.e., eyeglasses, which, at a minimum, may be used as a \ncamera, video recorder, or audio recorder) regardless of manufacturer, make, \nmodel, or type of imbedded technology, are prohibited items and shall not be \npermitted inside and shall not be used in any building, courthouse, courtroom, or \nany other location in which court business and proceedings are conducted.",
+          "pages": [
+            38
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-40",
+          "path": [],
+          "type": "paragraph",
+          "text": "28\nUnless otherwise ordered and with the exception of federal law enforcement \nofficers conducting official duties, all persons entering a building, courthouse, \ncourtroom, or any other location in which court business and proceedings are \nconducted are prohibited from entering with any form of weapon, explosive, \nexplosive device, destructive device, or any other dangerous material, including, \nbut not limited to, the following:\n(1) Firearms or firearm replicas (e.g., pellet guns, BB guns, flare guns, spear \nguns, stun guns, starter pistols, gun shaped lighters or torches, non-firing \nreplicas, dummy firearms, etc);\n(2) Sharp, bladed, edged, or cutting instruments (e.g., axes, hatchets, drills, \ndrill bits, ice picks, box cutters, arrows, swords, knives (of any size), razor \nblades, razors (except razors used for personal grooming by individuals \nusing the fitness center, etc.);\n(3) Club-like items and striking devices (e.g., hammers, baseball bats, cricket \nbats, pool cues, golf clubs, ski poles, billy clubs, blackjacks, nightsticks, \ncrow bars, batons, nunchucks, kubatons, martial arts weapons, \nslingshots, tools (with the exception of duty requirements), etc.);\n(4) Explosive materials or devices (e.g., bombs, grenades, mines, \nammunition, gun powder, plastic explosives, dynamite, nitroglycerin, \ntrinitrotoluene, blasting caps, fireworks, flares, realistic replicas of \nexplosives, etc.);\n(5) Incendiaries or incendiary devices (e.g., IEDs (improvised explosive \ndevices), aerosol sprays, gasoline, diesel, propane, other flammable \nfuels, turpentine, paint thinner, realistic replicas of incendiaries, etc.);\n(6) Disabling chemicals and other dangerous items (e.g., chlorine, liquid \nbleach, compressed gas cylinders (e.g., fire extinguishers), mace, pepper \nspray, tear gas, poisonous gases, nuclear material, illicit drugs, alcohol, \netc., except that tenants of any federal courthouse or court facility in the \nDistrict of Colorado may carry chemical protection agents for personal \nprotection if done in compliance with all local laws. Tenants must maintain \npersonal protection chemical agents in a holster or carrying case and \nnotify the Court Security Officer or other screening official before entering \nthe screening station; however, visitors may not bring such items into the \nbuilding, courtroom, or any other place where court is being held).\n(b) Sanctions for Violations. Violation of this rule shall be grounds for refusing \nadmission to the building, courthouse, courtroom, or any other location in which \ncourt business and proceedings are conducted and for confiscating, securing, or \ndestroying any prohibited item and may subject the violator to detention, arrest, \nand prosecution as provided by law, punishment for contempt of court, or any",
+          "pages": [
+            39
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-41",
+          "path": [],
+          "type": "paragraph",
+          "text": "29\nother sanction deemed appropriate.\n(c) Identification or Information. On request of a United States marshal, court \nsecurity officer, federal protective service officer, or court official, anyone within \nor seeking entry to any court building shall produce identification and state the \nnature of his or her business. Failure to provide identification or information shall \nbe grounds for removal or exclusion from the building.\n",
+          "pages": [
+            40
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 38,
+      "pageSpan": [
+        38,
+        40
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:83.3",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "83.3",
+      "citation": "District of Colorado · Rule 83.3",
+      "title": "ACCOMMODATION UNDER AMERICANS WITH DISABILITIES ACT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-41",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 83.3\nACCOMMODATION UNDER AMERICANS WITH DISABILITIES ACT\nUnless otherwise ordered, no later than seven days before a hearing or trial, \ncounsel or an unrepresented party shall notify the court of an accommodation required \nunder the Americans with Disabilities Act, except a request for the services of an \nAmerican Sign Language interpreter shall be made no later than 30 days before the \nhearing or trial.\n",
+          "pages": [
+            40
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 40,
+      "pageSpan": [
+        40,
+        40
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "cod-civil:84.1",
+      "collectionId": "cod-civil",
+      "districtId": "cod",
+      "number": "84.1",
+      "citation": "District of Colorado · Rule 84.1",
+      "title": "BANKRUPTCY MATTERS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-41",
+          "path": [],
+          "type": "paragraph",
+          "text": "D.C.COLO.LCivR 84.1 \nBANKRUPTCY MATTERS\n(a) Automatic Referral. A case or proceeding brought under or related to Title 11, \nUnited States Code, shall be referred automatically to the bankruptcy judges of \nthis district under 28 U.S.C. § 157. All pleadings and documents in those cases \nshall be filed directly in the bankruptcy court, and the bankruptcy judges of this \ndistrict shall exercise jurisdiction under 28 U.S.C. § 157(b).\n(b) Final Order in a Core Matter.\nIn a proceeding referred under this rule and determined to be a core matter, if a \nbankruptcy or district judge determines that entry of a final order or judgment by \na bankruptcy judge would be inconsistent with Article III of the United States \nConstitution, the bankruptcy judge, unless otherwise ordered by the district \njudge, shall hear the proceeding and submit proposed findings of fact and \nconclusions of law to the district judge.\n(c) Suspension or Abstention. Nothing in this rule precludes the bankruptcy judge \nfrom suspending or abstaining from proceedings as appropriate under 11 U.S.C.\n§ 305, 28 U.S.C. § 1334(c), or other applicable law.\n(d) Withdrawal of Reference. The automatic referral in Subdivision (a) may be \nwithdrawn by the assigned district judge.\n(1) Motion. A motion for withdrawal of reference shall be filed with the clerk of \nthe bankruptcy court under Bankruptcy Rule 5011 and Local Bankruptcy \nRule 5011-1.",
+          "pages": [
+            40
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-42",
+          "path": [],
+          "type": "paragraph",
+          "text": "30\n(2) Response. No later than 14 days after service of the motion, a party may \nfile in the bankruptcy court a response and a designation of any additional \nportion of the record necessary for determination of the motion.\n(3) Supplementation of Record. The record may be supplemented by order \nof the bankruptcy judge.\n(4) Referral to District Court. The bankruptcy judge shall refer the motion to \nthe district court.\n(5) Assignment. The motion shall be assigned to a district judge under \nD.C.COLO.LCivR 40.1.\n(e) Non-core Matter. When a bankruptcy judge hears a proceeding under 28 U.S.C.\n§ 157(c)(1) that is not a “core proceeding” as defined by 28 U.S.C. § 157(b)(2), \nthe bankruptcy judge shall submit the proposed findings of fact and conclusions \nof law to the district judge assigned under D.C.COLO.LCivR 40.1. Copies of \nthose recommendations shall be mailed by the bankruptcy judge to all parties, \nwho shall have 14 days after the date of mailing of the recommendations (or \nsuch further time not to exceed 30 days as the bankruptcy judge may order) to \nfile written objections. Objections lacking specificity as to factual findings or legal \nconclusions the objecting party claims to have been erroneously made and \nobjections not timely filed may be summarily overruled. If no objection is filed, or \nif the parties consent in writing, the recommendations of the bankruptcy judge \nmay be accepted by the district judge, and appropriate orders may be entered \nwithout further notice. The procedure for determining objections shall be as set \nforth in 28 U.S.C. § 157(c)(1).\n(f) Filings. The clerk of the bankruptcy court shall receive all pleadings in \nbankruptcy cases and related proceedings. Bankruptcy pleadings and \ndocuments shall be filed with the bankruptcy court under the Federal Rules of \nBankruptcy Procedure and Local Bankruptcy Rules for the District of Colorado. \nAny bankruptcy pleadings and documents filed with the clerk of the district court \nshall be transferred to the bankruptcy court.\n(g) Post judgment Matters. The bankruptcy judges shall exercise jurisdiction over \nall post judgment execution matters arising from a judgment or order entered by \nbankruptcy judges.",
+          "pages": [
+            41
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "cod-civil-parsed-v1-7606869ea84c0015",
+      "sourceDocumentId": "parsed-cod-7606869ea84c0015",
+      "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+      "pageIndex": 40,
+      "pageSpan": [
+        40,
+        41
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    }
+  ],
+  "evidence": [
+    {
+      "number": "1.1",
+      "heading": "D.C.COLO.LCivR 1.1",
+      "page": 13,
+      "offset": 122,
+      "slices": [
+        {
+          "page": 13,
+          "start": 122,
+          "end": 1494,
+          "sha256": "774d5f8b7696115eb830882dbbc25cabf729e6af4f9d95d70f54c99a539e0d00"
+        },
+        {
+          "page": 14,
+          "start": 0,
+          "end": 454,
+          "sha256": "ec6d2fdf5d54310797edd4a5af429750871c39353b1e412616cf50a5b9d528da"
+        }
+      ]
+    },
+    {
+      "number": "1.2",
+      "heading": "D.C.COLO.LCivR 1.2",
+      "page": 14,
+      "offset": 454,
+      "slices": [
+        {
+          "page": 14,
+          "start": 454,
+          "end": 724,
+          "sha256": "4b365307e15d9627deb3c936c9f436ec71a4dd9f4c0d3e42c48bec3164691c0b"
+        }
+      ]
+    },
+    {
+      "number": "2.1",
+      "heading": "D.C.COLO.LCivR 2.1",
+      "page": 14,
+      "offset": 724,
+      "slices": [
+        {
+          "page": 14,
+          "start": 724,
+          "end": 1131,
+          "sha256": "ceea59713b9df351e3c9849ebf2856d53f348c202dd0db7f5c16dfc1d93614f4"
+        }
+      ]
+    },
+    {
+      "number": "3.1",
+      "heading": "D.C.COLO.LCivR 3.1",
+      "page": 14,
+      "offset": 1131,
+      "slices": [
+        {
+          "page": 14,
+          "start": 1131,
+          "end": 1710,
+          "sha256": "0d21226322b48a38068241df1d22ddbec6515bdd7087f490ff29a067aee56827"
+        },
+        {
+          "page": 15,
+          "start": 0,
+          "end": 501,
+          "sha256": "ab235149bfc1ef927d5cfb6f7a25eea628ecc129828a8612f511e2579703af59"
+        }
+      ]
+    },
+    {
+      "number": "3.2",
+      "heading": "D.C.COLO.LCivR 3.2",
+      "page": 15,
+      "offset": 501,
+      "slices": [
+        {
+          "page": 15,
+          "start": 501,
+          "end": 1743,
+          "sha256": "ce36325d23f264a7d7679ee4e7d8ec5d3a74e76f70ac92530341260038862ce5"
+        },
+        {
+          "page": 16,
+          "start": 0,
+          "end": 2,
+          "sha256": "7de1555df0c2700329e815b93b32c571c3ea54dc967b89e81ab73b9972b72d1d"
+        }
+      ]
+    },
+    {
+      "number": "5.1",
+      "heading": "D.C.COLO.LCivR 5.1",
+      "page": 16,
+      "offset": 2,
+      "slices": [
+        {
+          "page": 16,
+          "start": 2,
+          "end": 2445,
+          "sha256": "d77ff4719a4081f1ec0b6901ee80b73340623d603013abc61d8141d28b84046f"
+        },
+        {
+          "page": 17,
+          "start": 0,
+          "end": 883,
+          "sha256": "937f38d84dd14a3ed127bb47e656c1ca184faf2a7b28829c522720140ed5b130"
+        }
+      ]
+    },
+    {
+      "number": "5.3",
+      "heading": "D.C.COLO.LCivR 5.3",
+      "page": 17,
+      "offset": 883,
+      "slices": [
+        {
+          "page": 17,
+          "start": 883,
+          "end": 1726,
+          "sha256": "f0ae97cb00fe472db299720792e58243721b1bc98e10eed0615dd51234d20598"
+        }
+      ]
+    },
+    {
+      "number": "6.1",
+      "heading": "D.C.COLO.LCivR 6.1",
+      "page": 17,
+      "offset": 1726,
+      "slices": [
+        {
+          "page": 17,
+          "start": 1726,
+          "end": 2673,
+          "sha256": "1076e54e35ffe1423b48f72a9d257b4a60e1b3a1c46ba2f0bf0bd744e9256b96"
+        },
+        {
+          "page": 18,
+          "start": 0,
+          "end": 200,
+          "sha256": "8bd9bd1de2b7d8c0b865355a11165e6b39189a46f9cf4441cdd42fc7dc9ab1fa"
+        }
+      ]
+    },
+    {
+      "number": "7.1",
+      "heading": "D.C.COLO.LCivR 7.1",
+      "page": 18,
+      "offset": 200,
+      "slices": [
+        {
+          "page": 18,
+          "start": 200,
+          "end": 2134,
+          "sha256": "b8ebc78709bc132935b2546898b97cb31a5ef8f31a9392ca8a583811bd4b5041"
+        },
+        {
+          "page": 19,
+          "start": 0,
+          "end": 815,
+          "sha256": "ffcc532b50ca2b21d557c9f69e1dadbb30d294de76fb5272991b3efa70a546d6"
+        }
+      ]
+    },
+    {
+      "number": "7.2",
+      "heading": "D.C.COLO.LCivR 7.2",
+      "page": 19,
+      "offset": 815,
+      "slices": [
+        {
+          "page": 19,
+          "start": 815,
+          "end": 2115,
+          "sha256": "d62a6f600f4896d9c6b8b6e216853bc4d76ffab461cd02d2b0b73b34e90dc13d"
+        },
+        {
+          "page": 20,
+          "start": 0,
+          "end": 1212,
+          "sha256": "60167c73ee647be89699f4bf1702af5282dc78d7e8c1cabf7176589deb435716"
+        }
+      ]
+    },
+    {
+      "number": "8.1",
+      "heading": "D.C.COLO.LCivR 8.1",
+      "page": 20,
+      "offset": 1212,
+      "slices": [
+        {
+          "page": 20,
+          "start": 1212,
+          "end": 2748,
+          "sha256": "2ae9eb840d8e8915f28eb1c81a9d6060f8a81923f2e368090edbea89837b1f1f"
+        },
+        {
+          "page": 21,
+          "start": 0,
+          "end": 378,
+          "sha256": "0ffc93bcb6dc6aef991021abd3d0dc1e94c6c3e34b437c861777aace9de7cca3"
+        }
+      ]
+    },
+    {
+      "number": "10.1",
+      "heading": "D.C.COLO.LCivR 10.1",
+      "page": 21,
+      "offset": 378,
+      "slices": [
+        {
+          "page": 21,
+          "start": 378,
+          "end": 1095,
+          "sha256": "183e57fd6d96d48c68422626b28fbbd7ebabf03176e3a04f7d2a9b9c1e38b426"
+        }
+      ]
+    },
+    {
+      "number": "15.1",
+      "heading": "D.C.COLO.LCivR 15.1",
+      "page": 21,
+      "offset": 1095,
+      "slices": [
+        {
+          "page": 21,
+          "start": 1095,
+          "end": 2044,
+          "sha256": "718138a83a5df266a84bbd3fc6d631dfc1d61c1b083343c6bf254a933b0cc29f"
+        },
+        {
+          "page": 22,
+          "start": 0,
+          "end": 345,
+          "sha256": "a55deaf31dfdbda56a0bfbb58e5f3fca282b825852609068c5aaea850e158ba9"
+        }
+      ]
+    },
+    {
+      "number": "16.1",
+      "heading": "D.C.COLO.LCivR 16.1",
+      "page": 22,
+      "offset": 345,
+      "slices": [
+        {
+          "page": 22,
+          "start": 345,
+          "end": 896,
+          "sha256": "88d2025ea84e41001fa8bd1a223c592857422661d69f7bd1218e143e2cb647da"
+        }
+      ]
+    },
+    {
+      "number": "16.2",
+      "heading": "D.C.COLO.LCivR 16.2",
+      "page": 22,
+      "offset": 896,
+      "slices": [
+        {
+          "page": 22,
+          "start": 896,
+          "end": 1046,
+          "sha256": "49abdb56f5c8eb9919f47cdae4b2e2c02f8ddaef18fcbd4df882f65d82f50811"
+        }
+      ]
+    },
+    {
+      "number": "16.3",
+      "heading": "D.C.COLO.LCivR 16.3",
+      "page": 22,
+      "offset": 1046,
+      "slices": [
+        {
+          "page": 22,
+          "start": 1046,
+          "end": 1204,
+          "sha256": "e065488804308febcdd75518027f620c2c957503e6157a6b8d6a88bc9ae0a18e"
+        }
+      ]
+    },
+    {
+      "number": "16.6",
+      "heading": "D.C.COLO.LCivR 16.6",
+      "page": 22,
+      "offset": 1204,
+      "slices": [
+        {
+          "page": 22,
+          "start": 1204,
+          "end": 2211,
+          "sha256": "186f8f5beadb502ef84ae3a2c5ea54e08cd606941644e8f03ebf009a6b22bfcf"
+        },
+        {
+          "page": 23,
+          "start": 0,
+          "end": 664,
+          "sha256": "37d0e9daea68bc2b908dfcc3829074d87c9ad8542b67718760397a12e86998a3"
+        }
+      ]
+    },
+    {
+      "number": "26.1",
+      "heading": "D.C.COLO.LCivR 26.1",
+      "page": 23,
+      "offset": 664,
+      "slices": [
+        {
+          "page": 23,
+          "start": 664,
+          "end": 1069,
+          "sha256": "c2a4c38220dd22dd3205eccec54527634a80c54d1c957d3f9b94be343e57d365"
+        }
+      ]
+    },
+    {
+      "number": "30.1",
+      "heading": "D.C.COLO.LCivR 30.1",
+      "page": 23,
+      "offset": 1069,
+      "slices": [
+        {
+          "page": 23,
+          "start": 1069,
+          "end": 1447,
+          "sha256": "0296addb705fd5ad6dc103e63e38051bed2ef5a8772e8937235041a248a83edd"
+        }
+      ]
+    },
+    {
+      "number": "30.2",
+      "heading": "D.C.COLO.LCivR 30.2",
+      "page": 23,
+      "offset": 1447,
+      "slices": [
+        {
+          "page": 23,
+          "start": 1447,
+          "end": 1730,
+          "sha256": "22e798c261ef616656fc97bb167d7503bea8b7936e76ac0a9fe3ae4ac0345b46"
+        },
+        {
+          "page": 24,
+          "start": 0,
+          "end": 659,
+          "sha256": "05fa7685445bd9ac86e96dee0cb3f91177766c4cb463eb6e98724c57725c9ac2"
+        }
+      ]
+    },
+    {
+      "number": "30.3",
+      "heading": "D.C.COLO.LCivR 30.3",
+      "page": 24,
+      "offset": 659,
+      "slices": [
+        {
+          "page": 24,
+          "start": 659,
+          "end": 2022,
+          "sha256": "c0eddfd82a1152fabe2781d3a986d0a246a1b50938c8c1e65cd88023fd49c71e"
+        }
+      ]
+    },
+    {
+      "number": "37.1",
+      "heading": "D.C.COLO.LCivR 37.1",
+      "page": 24,
+      "offset": 2022,
+      "slices": [
+        {
+          "page": 24,
+          "start": 2022,
+          "end": 2059,
+          "sha256": "a0429f3192f299073ca2bd2933ab74432f7369142c5fb3c2f94970f494b7c876"
+        },
+        {
+          "page": 25,
+          "start": 0,
+          "end": 306,
+          "sha256": "5c45d758d273275b93bc5b93cc7336757e20ea8c14b1780e4af54ff50e3172f0"
+        }
+      ]
+    },
+    {
+      "number": "40.1",
+      "heading": "D.C.COLO.LCivR 40.1",
+      "page": 25,
+      "offset": 306,
+      "slices": [
+        {
+          "page": 25,
+          "start": 306,
+          "end": 1962,
+          "sha256": "0089cac5c0c925819d2b2672a7b4a7453f6a28b9e6579a817c594eb218dcccf1"
+        },
+        {
+          "page": 26,
+          "start": 0,
+          "end": 2331,
+          "sha256": "5c993bad0c9fe6a42ca0d33385791ffb692ba9dc8a5d914e5ed5f7d8fdf17a17"
+        },
+        {
+          "page": 27,
+          "start": 0,
+          "end": 2148,
+          "sha256": "9b9f09aea34ff8013fc0ab28455e9352cc5a222d05ea4f7349b4c310ef5cac54"
+        },
+        {
+          "page": 28,
+          "start": 0,
+          "end": 1064,
+          "sha256": "fd9b8f7e5fc88d6750b4a8e64c552a8396bea415d2246cfd83b4000d8dacaeeb"
+        }
+      ]
+    },
+    {
+      "number": "40.2",
+      "heading": "D.C.COLO.LCivR 40.2",
+      "page": 28,
+      "offset": 1064,
+      "slices": [
+        {
+          "page": 28,
+          "start": 1064,
+          "end": 1414,
+          "sha256": "c865d1dbafb3c5432e8f81a0885be986915a54a34fe09e7a4d4e1d1312c6893e"
+        }
+      ]
+    },
+    {
+      "number": "41.1",
+      "heading": "D.C.COLO.LCivR 41.1",
+      "page": 28,
+      "offset": 1414,
+      "slices": [
+        {
+          "page": 28,
+          "start": 1414,
+          "end": 1813,
+          "sha256": "8a9042877b60be372d4cc7e136a3fbecb75994c9e9520162bf3134a0faa6a5ba"
+        },
+        {
+          "page": 29,
+          "start": 0,
+          "end": 3,
+          "sha256": "54183f4323f377b737433a1e98229ead0fdc686f93bab057ecb612daa94002b5"
+        }
+      ]
+    },
+    {
+      "number": "41.2",
+      "heading": "D.C.COLO.LCivR 41.2",
+      "page": 29,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 29,
+          "start": 3,
+          "end": 350,
+          "sha256": "8edfd4da9d72c239233b6ec34a143c7e09603117b98b1113505a424fa0cdc782"
+        }
+      ]
+    },
+    {
+      "number": "42.1",
+      "heading": "D.C.COLO.LCivR 42.1",
+      "page": 29,
+      "offset": 350,
+      "slices": [
+        {
+          "page": 29,
+          "start": 350,
+          "end": 963,
+          "sha256": "d2f77a7effb10db13e8ef98ed9d34dac5ce53066ee9acd16f90e0f4ab663702d"
+        }
+      ]
+    },
+    {
+      "number": "43.1",
+      "heading": "D.C.COLO.LCivR 43.1",
+      "page": 29,
+      "offset": 963,
+      "slices": [
+        {
+          "page": 29,
+          "start": 963,
+          "end": 1140,
+          "sha256": "25ef8ee031159498ebd801fd1509e221e0e99587ba9930506d334d10ce265bce"
+        }
+      ]
+    },
+    {
+      "number": "45.1",
+      "heading": "D.C.COLO.LCivR 45.1",
+      "page": 29,
+      "offset": 1140,
+      "slices": [
+        {
+          "page": 29,
+          "start": 1140,
+          "end": 1431,
+          "sha256": "1c662f15b187d7aeea9348206fa031805d35131443e7bf3d0fd11807747094a4"
+        }
+      ]
+    },
+    {
+      "number": "47.2",
+      "heading": "D.C.COLO.LCivR 47.2",
+      "page": 29,
+      "offset": 1431,
+      "slices": [
+        {
+          "page": 29,
+          "start": 1431,
+          "end": 1714,
+          "sha256": "039bf3f4c7520d0a0a6199c708c36ee47dac7385d5201b29fd7ddb11193a232b"
+        },
+        {
+          "page": 30,
+          "start": 0,
+          "end": 17,
+          "sha256": "b7b9dd9e8554a688b0574bbc5299a1670c9ac1271756262615672786418bde96"
+        }
+      ]
+    },
+    {
+      "number": "54.1",
+      "heading": "D.C.COLO.LCivR 54.1",
+      "page": 30,
+      "offset": 17,
+      "slices": [
+        {
+          "page": 30,
+          "start": 17,
+          "end": 666,
+          "sha256": "6f05f7b8675fcd20441b501912ca69796ed78ec5bbfc6f77eddb422fb59717f0"
+        }
+      ]
+    },
+    {
+      "number": "54.2",
+      "heading": "D.C.COLO.LCivR 54.2",
+      "page": 30,
+      "offset": 666,
+      "slices": [
+        {
+          "page": 30,
+          "start": 666,
+          "end": 896,
+          "sha256": "7a74b79e58851aaf7f57cc33a7c4908cf6af7332eac242493b7b5bd8d5bf8df5"
+        }
+      ]
+    },
+    {
+      "number": "54.3",
+      "heading": "D.C.COLO.LCivR 54.3",
+      "page": 30,
+      "offset": 896,
+      "slices": [
+        {
+          "page": 30,
+          "start": 896,
+          "end": 1355,
+          "sha256": "da87d344e6917fdeb3c2388a1b263aa184188018fe390ad3eb670e48574a896a"
+        }
+      ]
+    },
+    {
+      "number": "55.1",
+      "heading": "D.C.COLO.LCivR 55.1",
+      "page": 30,
+      "offset": 1355,
+      "slices": [
+        {
+          "page": 30,
+          "start": 1355,
+          "end": 1638,
+          "sha256": "2affa6b10fcf2fe33a0dadbe0ee4435ff7dcde1335e83d98d1aa25d324fa79b2"
+        },
+        {
+          "page": 31,
+          "start": 0,
+          "end": 887,
+          "sha256": "d3488c09be253c1ddbb3ba2d108164ddc60d8dccdb4496a8a56db176bd8bcbc1"
+        }
+      ]
+    },
+    {
+      "number": "56.1",
+      "heading": "D.C.COLO.LCivR 56.1",
+      "page": 31,
+      "offset": 887,
+      "slices": [
+        {
+          "page": 31,
+          "start": 887,
+          "end": 1903,
+          "sha256": "c5673abad80355267e96f6c51e8c60d669a2af15d92577f8e603755ec1cc5754"
+        },
+        {
+          "page": 32,
+          "start": 0,
+          "end": 132,
+          "sha256": "700c203e091ca5dc4c31e454f5fc66ea1e6f1b3fe622d2dbba8b97c8447726bb"
+        }
+      ]
+    },
+    {
+      "number": "65.1",
+      "heading": "D.C.COLO.LCivR 65.1",
+      "page": 32,
+      "offset": 132,
+      "slices": [
+        {
+          "page": 32,
+          "start": 132,
+          "end": 987,
+          "sha256": "74f32477028f0798003999db2b8a6fbb044409f50f9ea9396aec7177f37ac300"
+        }
+      ]
+    },
+    {
+      "number": "67.1",
+      "heading": "D.C.COLO.LCivR 67.1",
+      "page": 32,
+      "offset": 987,
+      "slices": [
+        {
+          "page": 32,
+          "start": 987,
+          "end": 1471,
+          "sha256": "dd2b26971c6cc9500a90ec677caa8077b86297d55147dd12047cc957a35fff07"
+        }
+      ]
+    },
+    {
+      "number": "67.2",
+      "heading": "D.C.COLO.LCivR 67.2",
+      "page": 32,
+      "offset": 1471,
+      "slices": [
+        {
+          "page": 32,
+          "start": 1471,
+          "end": 1678,
+          "sha256": "fe81fdfb07b11280c206595d71b6ac35051ac52972c2a596d0d99b472b06639f"
+        },
+        {
+          "page": 33,
+          "start": 0,
+          "end": 1550,
+          "sha256": "fab5c3206bd2f2f55ddecf59e0f3b3a9543246541b5d2aa9730295ad2f61cdce"
+        }
+      ]
+    },
+    {
+      "number": "72.1",
+      "heading": "D.C.COLO.LCivR 72.1",
+      "page": 33,
+      "offset": 1550,
+      "slices": [
+        {
+          "page": 33,
+          "start": 1550,
+          "end": 1987,
+          "sha256": "a18619726db6861041dff2d963eef3e6dfe2f76c2d620571d07c6bf6d589dea2"
+        },
+        {
+          "page": 34,
+          "start": 0,
+          "end": 1492,
+          "sha256": "cd25dc68193fb7bfebdcf0c29f2f9a259c89f730379d68618bb962fefbc1af23"
+        },
+        {
+          "page": 35,
+          "start": 0,
+          "end": 300,
+          "sha256": "681d3b2bbec8f26cea2b1125b495a283f7036091068ff0bf0b2b32bbb6780d17"
+        }
+      ]
+    },
+    {
+      "number": "72.2",
+      "heading": "D.C.COLO.LCivR 72.2",
+      "page": 35,
+      "offset": 300,
+      "slices": [
+        {
+          "page": 35,
+          "start": 300,
+          "end": 2518,
+          "sha256": "a3d3f69d02cc55d4994e970859c9a9f5e73b0fdc7aeae4fe21b0d586659667a1"
+        },
+        {
+          "page": 36,
+          "start": 0,
+          "end": 124,
+          "sha256": "68b849674cd148af0d8954bf43033ab39a8c4ec5d07a3521771bce19a087ad28"
+        }
+      ]
+    },
+    {
+      "number": "72.3",
+      "heading": "D.C.COLO.LCivR 72.3",
+      "page": 36,
+      "offset": 124,
+      "slices": [
+        {
+          "page": 36,
+          "start": 124,
+          "end": 1382,
+          "sha256": "235b7c59eaa6af4d5546b8596517d5d5781da5c2080960fdcd2eac6fbc95cd09"
+        }
+      ]
+    },
+    {
+      "number": "77.1",
+      "heading": "D.C.COLO.LCivR 77.1",
+      "page": 36,
+      "offset": 1382,
+      "slices": [
+        {
+          "page": 36,
+          "start": 1382,
+          "end": 1683,
+          "sha256": "83a0d5b087fbff8a022962b88ac49f68a28cf8d6a65fb0cdf07fa2514fb0db91"
+        },
+        {
+          "page": 37,
+          "start": 0,
+          "end": 95,
+          "sha256": "7882237bd3cb3a01dff195444c370765399bcfadd690c3a85ab9d6a6f63b0605"
+        }
+      ]
+    },
+    {
+      "number": "77.2",
+      "heading": "D.C.COLO.LCivR 77.2",
+      "page": 37,
+      "offset": 95,
+      "slices": [
+        {
+          "page": 37,
+          "start": 95,
+          "end": 341,
+          "sha256": "c3f1c809ee8c09c4406522a37e3aa93a3ef90f169c04a946fd14dc2f8b48b22a"
+        }
+      ]
+    },
+    {
+      "number": "79.1",
+      "heading": "D.C.COLO.LCivR 79.1",
+      "page": 37,
+      "offset": 341,
+      "slices": [
+        {
+          "page": 37,
+          "start": 341,
+          "end": 1460,
+          "sha256": "fad06f08c97e8527cd3fcb6bfba28536d479e88b979f44c81f33f12004fac41b"
+        }
+      ]
+    },
+    {
+      "number": "79.2",
+      "heading": "D.C.COLO.LCivR 79.2",
+      "page": 37,
+      "offset": 1460,
+      "slices": [
+        {
+          "page": 37,
+          "start": 1460,
+          "end": 1745,
+          "sha256": "6e3a80dd10b9a9aaab5c3e0dfce4631884c6bd8030648899ce547ef6ff0b0bc9"
+        },
+        {
+          "page": 38,
+          "start": 0,
+          "end": 26,
+          "sha256": "b5db77cf8da5b8a4ce7c8d82dc0aac8413609909db778a817e32cd4c79f63619"
+        }
+      ]
+    },
+    {
+      "number": "81.1",
+      "heading": "D.C.COLO.LCivR 81.1",
+      "page": 38,
+      "offset": 26,
+      "slices": [
+        {
+          "page": 38,
+          "start": 26,
+          "end": 752,
+          "sha256": "ecd4b95c58082c45c35f35e19bad8143f3f72e46c5c37948b72c7fc50da03506"
+        }
+      ]
+    },
+    {
+      "number": "83.1",
+      "heading": "D.C.COLO.LCivR 83.1",
+      "page": 38,
+      "offset": 752,
+      "slices": [
+        {
+          "page": 38,
+          "start": 752,
+          "end": 2384,
+          "sha256": "8ff31272bc74f8dc1a526514b1d3d7cf8b06965077bac6d6ac19bdba4c686b12"
+        },
+        {
+          "page": 39,
+          "start": 0,
+          "end": 1084,
+          "sha256": "fb54578c6e21bdaf6a7592ea1c6419e974f0b3ca30d54ee9227bf7b490802fb0"
+        }
+      ]
+    },
+    {
+      "number": "83.2",
+      "heading": "D.C.COLO.LCivR 83.2",
+      "page": 39,
+      "offset": 1084,
+      "slices": [
+        {
+          "page": 39,
+          "start": 1084,
+          "end": 2364,
+          "sha256": "a52f9d931969ea55624f23780c31aef2dbe14373f0af782285b17755e9823b69"
+        },
+        {
+          "page": 40,
+          "start": 0,
+          "end": 2789,
+          "sha256": "772590d1325793405f0515b0c0850b12910993e4eb001163812467c6461e8d5e"
+        },
+        {
+          "page": 41,
+          "start": 0,
+          "end": 432,
+          "sha256": "2e757dc8161862f2e3c8fd0e7eb5244d58db790da7511982621341a0799c47dd"
+        }
+      ]
+    },
+    {
+      "number": "83.3",
+      "heading": "D.C.COLO.LCivR 83.3",
+      "page": 41,
+      "offset": 432,
+      "slices": [
+        {
+          "page": 41,
+          "start": 432,
+          "end": 855,
+          "sha256": "4bde2d34202c944a6fd43432a929428449419d28e056c3a4d169b511043c6dc8"
+        }
+      ]
+    },
+    {
+      "number": "84.1",
+      "heading": "D.C.COLO.LCivR 84.1",
+      "page": 41,
+      "offset": 855,
+      "slices": [
+        {
+          "page": 41,
+          "start": 855,
+          "end": 2264,
+          "sha256": "4463b18826ec73ab9094fcb03b8a8f8bb959f81f869c1dfe389d334513ff488f"
+        },
+        {
+          "page": 42,
+          "start": 0,
+          "end": 2204,
+          "sha256": "1c8f4ed7a118615780d534fb672522b737de8c9b959911dcec166895882c5642"
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "startPage": 13,
+    "startOffset": 122,
+    "endPage": 42,
+    "endOffset": 2204,
+    "ruleCount": 50,
+    "tocReconciled": false,
+    "editorialReviewComplete": false,
+    "currencyReviewed": false,
+    "flags": [],
+    "excluded": "Source material outside the recorded range remains available in the district source library."
+  },
+  "transcriptionSha256": "17f0f0fc50c71a49b5969ee8e0b1bef63a1029b050c234baaa4a0f6d9d36ae20"
+}

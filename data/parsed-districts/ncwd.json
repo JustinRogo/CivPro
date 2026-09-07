@@ -1,0 +1,2319 @@
+{
+  "version": 1,
+  "reviewStatus": "parsed-draft",
+  "districtId": "ncwd",
+  "sourceDocument": {
+    "id": "042bd955ca07cbc9",
+    "title": "Local Rules (effective 12/01/2022)",
+    "format": "pdf",
+    "role": "primary",
+    "sourceUrl": "https://www.ncwd.uscourts.gov/sites/default/files/local_rules/Revised%20Local%20Rules%20120122.pdf",
+    "sha256": "042bd955ca07cbc99ab0d52160e254a7d95221cb5408fc81d27f3daa712dc118",
+    "bytes": 541426,
+    "retrievedAt": "2026-09-07T00:01:54.660658+00:00",
+    "snapshotPath": "sources/district-snapshots/042bd955ca07cbc99ab0d52160e254a7d95221cb5408fc81d27f3daa712dc118.pdf",
+    "textPath": "data/source-library/042bd955ca07cbc99ab0d52160e254a7d95221cb5408fc81d27f3daa712dc118.json",
+    "pdfPath": "data/source-pdfs/042bd955ca07cbc99ab0d52160e254a7d95221cb5408fc81d27f3daa712dc118.pdf",
+    "pageCount": 81,
+    "reviewStatus": "source-document-only",
+    "blankTextPages": 0
+  },
+  "collection": {
+    "id": "ncwd-civil",
+    "name": "Western District of North Carolina Local Rules",
+    "shortName": "Local rules · draft",
+    "districtId": "ncwd",
+    "scopeNote": "Civil and generally applicable local rules; unparsed supplements remain in the source library. Rule boundaries and transcription are drafts. Embedded notes, forms, and running headers may remain within rule text; subsection anchors and field-separated notes are not yet reviewed."
+  },
+  "provisions": [
+    {
+      "id": "ncwd-civil:1.1",
+      "collectionId": "ncwd-civil",
+      "districtId": "ncwd",
+      "number": "1.1",
+      "citation": "Western District of North Carolina · Rule 1.1",
+      "title": "APPLICATION OF LOCAL CIVIL RULES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-5",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR 1.1 APPLICATION OF LOCAL CIVIL RULES\nThe Local Civil Rules which follow are intended to provide case participants with \nprocedures that supplement the Federal Rules of Civil Procedure. They are not intended to bind \nany judicial officer to any particular course of action or result. Each judicial officer retains the \ndiscretion to apply the Local Civil Rules in a manner consistent with the demands of the case.\n",
+          "pages": [
+            4
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ncwd-civil-parsed-v1-042bd955ca07cbc9",
+      "sourceDocumentId": "parsed-ncwd-042bd955ca07cbc9",
+      "sourceUrl": "https://www.ncwd.uscourts.gov/sites/default/files/local_rules/Revised%20Local%20Rules%20120122.pdf",
+      "pageIndex": 4,
+      "pageSpan": [
+        4,
+        4
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ncwd-civil:3.1",
+      "collectionId": "ncwd-civil",
+      "districtId": "ncwd",
+      "number": "3.1",
+      "citation": "Western District of North Carolina · Rule 3.1",
+      "title": "FILING FEE, BOND, SECURITY, PROHIBITED SURETIES, PAYMENT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-5",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR 3.1 FILING FEE, BOND, SECURITY, PROHIBITED SURETIES, PAYMENT \nOF FEES ELECTRONICALLY, AND REFUNDS\n(a) Filing Fee and Cost Bond. When a party commences or removes an action to this \nCourt, the party must pay a filing fee in such amount as established by law. In a civil case \ncommenced in this Court, no bond, or cash deposit in lieu of such bond, as security for costs is \nrequired except on motion and for good cause shown.\n(b) Security. Bonds or other securities shall be allowed and taken with security, or one \nor more securities, as provided by the federal statutes or the Federal Rules of Civil Procedure. The \njudges of this district may, for good cause, enter orders restricting any bonding company or surety \ncompany from being accepted as surety upon any bond in any case or matter in this district.\n(c) Prohibited Sureties. Neither counsel of record, administrative officers, Court \nemployees, nor the United States Marshal or the Marshal’s deputies or assistants, may act as surety \nin any suit, action, or proceeding in this Court, except by leave of the Court.\n(d) Payment of Filing and Other Fees Electronically. Where the Federal Rules of\nCivil Procedure or the Local Rules of this Court require payment of filing, admission, special",
+          "pages": [
+            4
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-6",
+          "path": [],
+          "type": "paragraph",
+          "text": "6\nadmission, or other fees, such may be accomplished through secure electronic means as established \nby the Clerk of Court.\n(e) Fee Refunds. Fees paid to the Clerk of Court will be refunded only upon Court \norder or where the payment was made in error.\n(1) Refunds by the Clerk of Court for Erroneous Payments. The Clerk of \nCourt (or the Clerk’s designee) may, in their discretion and without a Court order, refund fees \naccepted in error. Examples are duplicate payments, payments to the wrong district, \noverpayments, and payments made in error by attorneys through the Electronic Payment System. \nTo receive a refund from the Clerk of Court based on an erroneous payment, the payor must submit \na written request to the Clerk of Court indicating the payment amount, the case in which the \npayment was made, and the nature of the error. Such requests may be submitted by accessing the \nCourt’s internet website and clicking on the “Contact Us” tab. Refunds of electronic payments \nwill be credited electronically to the payor’s credit card. No cash refunds will be made.\n(2) Refunds by Court Order. Requests for payment refunds that were not made \nin error by the payor will ordinarily be referred to the presiding judge. Such refunds will be made \nonly at the direction of the Court.\n(3) Refunds Where Payee Has an Outstanding Balance. The Clerk of Court \nwill not refund payments made in error if it is determined that the payor owes any other debt to \nthe Court.\n(f) Clerk of Court’s Responsibilities as to Payments and Refunds.\n(1) Electronic Payments. Electronic payments are accepted via Pay.gov, a \nprogram of the U.S. Department of the Treasury, Bureau of the Fiscal Service.",
+          "pages": [
+            5
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-7",
+          "path": [],
+          "type": "paragraph",
+          "text": "7\n(2) Conventional Payments. As to conventional payments received through \nthe mail or by the Clerk of Court, the Clerk of Court will attempt to confirm that each payment is \nproper before it is deposited and a receipt is issued. If a conventional payment is deposited and \nreceipted in error, it will be refunded to the payor by a United States Treasury check, which will \nissue at the discretion of the Clerk of Court as explained in Section (e).\n",
+          "pages": [
+            6
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ncwd-civil-parsed-v1-042bd955ca07cbc9",
+      "sourceDocumentId": "parsed-ncwd-042bd955ca07cbc9",
+      "sourceUrl": "https://www.ncwd.uscourts.gov/sites/default/files/local_rules/Revised%20Local%20Rules%20120122.pdf",
+      "pageIndex": 4,
+      "pageSpan": [
+        4,
+        6
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ncwd-civil:4.1.1",
+      "collectionId": "ncwd-civil",
+      "districtId": "ncwd",
+      "number": "4.1.1",
+      "citation": "Western District of North Carolina · Rule 4.1.1",
+      "title": "SERVICE OF SUMMONS AND COMPLAINT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-7",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR 4.1.1 SERVICE OF SUMMONS AND COMPLAINT\nService of the summons and complaint by electronic means is not permitted for purposes \nof obtaining personal jurisdiction.\n",
+          "pages": [
+            6
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ncwd-civil-parsed-v1-042bd955ca07cbc9",
+      "sourceDocumentId": "parsed-ncwd-042bd955ca07cbc9",
+      "sourceUrl": "https://www.ncwd.uscourts.gov/sites/default/files/local_rules/Revised%20Local%20Rules%20120122.pdf",
+      "pageIndex": 6,
+      "pageSpan": [
+        6,
+        6
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ncwd-civil:4.2",
+      "collectionId": "ncwd-civil",
+      "districtId": "ncwd",
+      "number": "4.2",
+      "citation": "Western District of North Carolina · Rule 4.2",
+      "title": "PUBLICATION OF NOTICE BY THE UNITED STATES IN CIVIL",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-7",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR 4.2 PUBLICATION OF NOTICE BY THE UNITED STATES IN CIVIL \nFORFEITURE ACTIONS\nIn any civil judicial forfeiture case filed in this district, unless otherwise required by statute, \nrule, or specific order of this Court, the government may satisfy its requirement of publication of \nnotice through the publication requirements of 21 U.S.C. § 853(n)(1) and Rules C(4) and G of the \nSupplemental Rules for Admiralty or Maritime Claims and Asset Forfeiture Actions.",
+          "pages": [
+            6
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-8",
+          "path": [],
+          "type": "paragraph",
+          "text": "8\n",
+          "pages": [
+            7
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ncwd-civil-parsed-v1-042bd955ca07cbc9",
+      "sourceDocumentId": "parsed-ncwd-042bd955ca07cbc9",
+      "sourceUrl": "https://www.ncwd.uscourts.gov/sites/default/files/local_rules/Revised%20Local%20Rules%20120122.pdf",
+      "pageIndex": 6,
+      "pageSpan": [
+        6,
+        7
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ncwd-civil:4.3",
+      "collectionId": "ncwd-civil",
+      "districtId": "ncwd",
+      "number": "4.3",
+      "citation": "Western District of North Carolina · Rule 4.3",
+      "title": "WAIVER OF SERVICE UPON CURRENT AND FORMER NORTH",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-8",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR 4.3 WAIVER OF SERVICE UPON CURRENT AND FORMER NORTH \nCAROLINA DEPARTMENT OF PUBLIC SAFETY EMPLOYEES \nIN CIVIL RIGHTS ACTIONS FILED BY NORTH CAROLINA \nSTATE PRISONERS\n(a) Waiver of Service of Complaint and Summons. When the Court allows any \nportion of a state prisoner’s civil rights case to proceed past initial review under 28 U.S.C. § 1915,\nthe Clerk of Court shall prepare and file requests for waiver of service for all remaining defendants \nwho are current or former employees of the North Carolina Department of Public Safety \n(“NCDPS”) and transmit electronic copies of the requests for waiver of service and the Complaint \nto an e-mail inbox designated by the NCDPS. By 5:00 p.m. the following business day, an NCDPS \nemployee shall acknowledge receipt of the transmission by a return e-mail.\n(b) Response to Requests for Waiver by the NCDPS. The NCDPS shall have sixty\n(60) days from the filing of the request for waiver of service to accept or refuse service of process \nupon the NCDPS employee. The NCDPS must undertake a good-faith effort to further identify \nthe named or intended defendants where needed and to procure defendants’ signatures on the \nwaivers of service.\n(c) Filing of the Waiver of Service. When the NCDPS has obtained a defendant’s \nwaiver of service, the NCDPS or the North Carolina Attorney General must file the waiver with \nthe Court, under seal if necessary.\n(1) Time to Answer or Otherwise Respond Where Waiver Obtained and Filed.\nAny defendant for whom a waiver of service has been filed shall have sixty (60) days from the \ndate of the filing of the waiver to answer or otherwise respond to the Complaint.",
+          "pages": [
+            7
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-9",
+          "path": [],
+          "type": "paragraph",
+          "text": "9\n(2) Procedure Where Waiver Not Obtained and Filed. Where the NCDPS \ncannot procure a defendant’s waiver of service for any reason, such as when a defendant is no \nlonger an NCDPS employee, within the time provided by LCvR 4.3(b), the NCDPS or the North \nCarolina Attorney General must file a response that either provides the Court with the full name \nand last known address of the defendant, or informs the Court that no such address is available and\ndescribes the NCDPS’s efforts to obtain the information. The NCDPS or the Attorney General may\nprovide the information under seal if required by state or federal privacy laws, and the Court will disclose \nthe information only to those engaged in providing service of process.\nAdvisory Committee Notes\nThis Rule is a joint effort between this district and the North Carolina Attorney General \nand mirrors similar provisions in the Eastern District of North Carolina. It is designed to \nstreamline service of process on current and former state employees in prisoner litigation, \nresulting in substantial savings to the taxpayer in U.S. Marshal Service fees and more rapid \ndisposition of cases.\n",
+          "pages": [
+            8
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ncwd-civil-parsed-v1-042bd955ca07cbc9",
+      "sourceDocumentId": "parsed-ncwd-042bd955ca07cbc9",
+      "sourceUrl": "https://www.ncwd.uscourts.gov/sites/default/files/local_rules/Revised%20Local%20Rules%20120122.pdf",
+      "pageIndex": 7,
+      "pageSpan": [
+        7,
+        8
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ncwd-civil:5.2.1",
+      "collectionId": "ncwd-civil",
+      "districtId": "ncwd",
+      "number": "5.2.1",
+      "citation": "Western District of North Carolina · Rule 5.2.1",
+      "title": "FILING OF PAPERS, FILING OF REDACTED PLEADINGS, AND",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-9",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR 5.2.1 FILING OF PAPERS, FILING OF REDACTED PLEADINGS, AND \nPRESENTING JUDGMENTS, ORDERS, AND COMMUNICATIONS TO \nJUDGES\n(a) Place of Conventional Filing, when Allowed. Where conventional filing is \npermitted by the Administrative Procedures or by the assigned judge, all papers may be filed in \nAsheville, Charlotte, or Statesville, regardless of the division in which the case is pending.\n(b) Presenting Judgments, Orders, and Other Communications to Judges. As \nprovided by the Administrative Procedures, parties may submit proposed orders, memoranda of \ndecision, judgments, bills of costs, and other proposed documents for consideration and entry by \nthe Court or the Clerk of Court. Such proposed documents may be submitted through Cyberclerk, ",
+          "pages": [
+            8
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-10",
+          "path": [],
+          "type": "paragraph",
+          "text": "10\nor alternatively as attachmentsto a motion, brief, or notice that relatesto the proposed reliefsought. \nIn any event, such proposed documents must be served on all parties.\n",
+          "pages": [
+            9
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ncwd-civil-parsed-v1-042bd955ca07cbc9",
+      "sourceDocumentId": "parsed-ncwd-042bd955ca07cbc9",
+      "sourceUrl": "https://www.ncwd.uscourts.gov/sites/default/files/local_rules/Revised%20Local%20Rules%20120122.pdf",
+      "pageIndex": 8,
+      "pageSpan": [
+        8,
+        9
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ncwd-civil:6.1",
+      "collectionId": "ncwd-civil",
+      "districtId": "ncwd",
+      "number": "6.1",
+      "citation": "Western District of North Carolina · Rule 6.1",
+      "title": "SEALED FILINGS AND PUBLIC ACCESS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-10",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR 6.1 SEALED FILINGS AND PUBLIC ACCESS\n(a) Scope of Rule. To further openness in civil case proceedings, there is a \npresumption under applicable common law and the First Amendment that materials filed in this\nCourt will be filed unsealed. This Rule governs any party’s request to seal, or otherwise restrict public \naccess to, any materials filed with the Court or used in connection with judicial decision- making. As\nused in this Rule, “materials” includes pleadings and documents of any nature and in any medium or \nformat.\n(b) Filing under Seal. No materials may be filed under seal except by Court order, \npursuant to a statute, or in accordance with a previously entered Rule 26(e) protective order.\n(c) Motion to Seal or Otherwise Restrict Public Access. A party’s request to file \nmaterials under seal must be made by formal motion, separate from the motion or other pleading \nsought to be sealed, pursuant to LCvR 7.1. Such motion must be filed under the designation \n“Motion to Seal.” The motion must set forth:\n(1) A non-confidential description of the material sought to be sealed;\n(2) A statement indicating why sealing is necessary and why there are no \nalternatives to filing under seal;\n(3) Unless permanent sealing is sought, a statement indicating how long the \nparty seeks to have the material maintained under seal and how the matter is to be handled upon \nunsealing; and",
+          "pages": [
+            9
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-11",
+          "path": [],
+          "type": "paragraph",
+          "text": "11\n(4) Supporting statutes, case law, or other authority. To the extent the party \nmust disclose any confidential information in order to support the motion to seal, the party may provide \nthat information in a separate memorandum filed under seal.\n(d) Filing of an Unredacted Copy Allowed. The party seeking to file material under\nseal may submit an unredacted version of the material under seal for review by the Court along \nwith the motion to seal.\n(e) Public Notice. No motion to seal or otherwise restrict public access shall be \ndetermined without reasonable public notice. Notice is deemed reasonable where a motion is filed \nin accordance with LCvR 6.1(c). Other parties, intervenors, and non-parties may file objections \nand briefs opposing or supporting the motion within the time provided by LCvR 7.1 and may move \nto intervene under Fed. R. Civ. P. 24. Where the Court acts before the response, any party or non￾party may move to unseal at any time.\n(f) Orders Sealing Documents. When addressing motions to seal, the Court must \nconsider alternatives to sealing. If the Court determines that sealing is necessary, it will state its \nreasons with findings supporting its decision. The Court will also specify whether the sealing is \ntemporary or permanent, and also may redact such orders in its discretion.\n(g) Filings Subsequent to Entry of an Order Sealing Documents. After entry of an \norder permitting a filing under seal, materials filed pursuant to that order must be filed with a non￾confidential description of the materials filed.\n(h) Motions to Unseal. Nothing in this Rule limits the right of a party, intervenor, or \nnon-party to file a motion to unseal material. Such motion must state why the material should be \nunsealed and any change in circumstances warranting unsealing.",
+          "pages": [
+            10
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-12",
+          "path": [],
+          "type": "paragraph",
+          "text": "12\n(1) Case Closing. Unless permanent sealing was ordered by the Court, any \nsealed case file or documents may be subject to unsealing by the Court upon the closing of the \ncase.\n(2) Access to Sealed Documents. The Clerk of Court may provide access to \ndocuments and cases under Court seal only pursuant to Court order. \n(i) Impact on Designation of Confidential Materials. Nothing in this Rule limits the\nparties’ ability, by agreement, to restrict access to discovery or other materials not filed with the \nCourt or to submit motions pursuant to Fed. R. Civ. P. 26(c) for a protective order governing such \nmaterials.\nAdvisory Committee Notes\nThe Local Rules governing sealed filings have been reworked to ensure compliance with \nNixon v. Warner Communications, Inc., 435 U.S. 589 (1978) and its progeny, including In re\nWashington Post Co., 807 F.2d 383, 390 (4th Cir. 1986). The language concerning the \npresumption under the common law and First Amendment was inserted in the text in light of \nBaltimore Sun Co. v. Goetz, 886 F.2d 60, 64 (4th Cir. 1989), which recognizes that the qualified \ncommon law right of access to judicial documents includes notice and opportunity to object to the \nsealing of public documents. The decision to seal documents must be made “after independent \nreview by a judicial officer, and supported by findings and conclusions specific enough for \nappellate review.” Media Gen. Operations, Inc. v. Buchanan, 417 F.3d 424, 429 (4th Cir. 2005) \n(citation and corresponding quotation marks deleted). \n",
+          "pages": [
+            11
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ncwd-civil-parsed-v1-042bd955ca07cbc9",
+      "sourceDocumentId": "parsed-ncwd-042bd955ca07cbc9",
+      "sourceUrl": "https://www.ncwd.uscourts.gov/sites/default/files/local_rules/Revised%20Local%20Rules%20120122.pdf",
+      "pageIndex": 9,
+      "pageSpan": [
+        9,
+        11
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ncwd-civil:7.1",
+      "collectionId": "ncwd-civil",
+      "districtId": "ncwd",
+      "number": "7.1",
+      "citation": "Western District of North Carolina · Rule 7.1",
+      "title": "MOTIONS IN CIVIL CASES, BRIEF REQUIREMENTS, EXHIBIT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-12",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR 7.1 MOTIONS IN CIVIL CASES, BRIEF REQUIREMENTS, EXHIBIT \nNUMBERING, PAGE LIMITS, AND PROPOSED ORDERS\n(a) Motions in Writing. Unless made during a hearing or trial, all motions must be \nwritten and filed as provided by LCvR 5.2.1 and must state with particularity the grounds for the \nmotion and the relief or order sought. Motions ordinarily will be ruled on without oral argument. ",
+          "pages": [
+            11
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-13",
+          "path": [],
+          "type": "paragraph",
+          "text": "13\n(b) Requirement of Consultation. Civil motions must show that counsel have \nconferred and attempted in good faith to resolve areas of disagreement, or describe the timely \nattempts of the movant to confer with opposing counsel. A motion that fails to show that the \nparties have properly conferred or attempted to confer may be summarily denied. Consultation is \nnot required for: (1) dispositive motions; (2) motions where the moving party is represented and \nthe non-moving party is unrepresented; or (3) motions for an extension of time to file a responsive \npleading to a complaint, counterclaim, crossclaim, or any other initial petition for relief.\n(c) Requirement of Briefs. A brief must be filed contemporaneously with the motion, \nexcept no brief is required to support timely motions to seal or for admissions pro hac vice, \nextensions of time, continuances, or early discovery. Supporting exhibits must be attached as \nappendices as specified in the Administrative Procedures. Factual contentions must be supported\nas specifically as possible by citation to exhibit number and page.\n(1) Motions Contained in Initial Responsive Pleadings. Motions to dismiss in \nanswers to complaints, replies to counterclaims, or answers to crossclaims are deemed to be made \nmerely to preserve the issue and will not be addressed by the Court. A party seeking a decision \non any preserved motion must file a separate motion and supporting brief.\n(2) Motions Not to Be Included in Responsive Briefs. Motions shall not be \nincluded in responsive briefs. Each motion must be set forth as a separately filed pleading.\n(3) Exhibits Must Be Numbered and Filed as a Separate Attachment. All \nexhibits, and all pages within an exhibit, must be numbered before filing. Each exhibit must be \nfiled as a separate attachment to the pleading it supports. Exhibits previously filed may be \nincorporated into any other pleading by reference to the docket entry, exhibit number, and page.",
+          "pages": [
+            12
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-14",
+          "path": [],
+          "type": "paragraph",
+          "text": "14\n(d) Page Limits, Fonts, and Spacing. Page limits, font sizes, spacing, and other \nformatting requirements are governed by the Standing Civil Order of the judge to whom the case \nis assigned or in the Case Management Order entered in the particular matter. Absent such \nrequirements in the Standing Civil Order or the Case Management Order of the judge to whom the \ncase is assigned, the page limit for any brief is 25 pages, the font size is a minimum of 12 point, \nlines are double-spaced, margins are one inch, and each page is numbered.\n(e) Time Frames for the Filing of Responses to Motions and for Replies. Responses\nto motions must be filed within fourteen (14) days of the date on which the motion is served. A \nreply to the response to a motion, if any, must be filed within seven (7) days of the date on which \nthe response is served. A reply brief should be limited to a discussion of matters newly raised in \nthe response. If the party making the motion does not wish to file a reply brief, the party must \npromptly inform the Court and opposing counsel in a filed notice. Surreplies are neither \nanticipated nor allowed by this Rule, but leave of Court may be sought to file a surreply when \nwarranted.\nIn an action seeking judicial review of a final administrative decision, the Court may enter \na Scheduling Order providing for the filing of cross motions for summary judgment or other relief \nwith no responsive or reply briefs allowed. Examples of such actions include, but are not limited \nto, Social Security disability and Supplemental Security Insurance benefit actions and ERISA \nclaims. Where a Scheduling Order is entered, the Scheduling Order preempts the briefing \nrequirements in LCvR 7.1(e).\n(f) Continuance Motions. A motion seeking continuance of a hearing or trial must be \nfiled promptly upon counsel learning of the need for same.",
+          "pages": [
+            13
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-15",
+          "path": [],
+          "type": "paragraph",
+          "text": "15\n(g) Proposed Orders. Proposed orders are not required, unless otherwise ordered by \nthe Court. If directed to provide a proposed order, parties must submit the order through \nCyberclerk and serve the proposed order on all parties.\n(h) Electronic Format for Briefs, Motions, and Pleadings. Briefs, motions, and \npleadings must be filed in a PDF readable format, rather than an electronically copied format, \nwhenever possible.\n(i) Notice to Official Court Reporter for Certain Proceedings. Where a party knows\nin advance that a transcript will be required of a hearing before a United States Magistrate Judge \nor other judicial officer (before whom proceedings are digitally recorded), the party must, before \nthe hearing, notify the Official Court Reporter serving such judicial officer of the need.\n(j) Citation of Supplemental Authority. If pertinent and significant authorities come \nto a party’s attention after the party’s final brief has been filed and before a decision has been \nrendered, a party must promptly advise the Court by filing a Notice of Supplemental Authority \nsetting forth the citations to such authorities. The notice must state the reasons for the \nsupplemental citations, referring either to the page of the brief or to a point argued orally, but shall \nnot contain any further argument. The notice must not exceed two pages and any response must \nbe made promptly and is similarly limited.\nAdvisory Committee Notes\nChanges to sections (a) through (i) of this Rule are not substantive. The language of these \nsections has been amended as part of a general restyling of the Local Rules to make them more \neasily understood and to make style and terminology consistent throughout the Rules. Section (j) \nis a new Rule intended to mirror FRAP 28(i), which provides the appellate procedure for noticing \nsupplemental authority.",
+          "pages": [
+            14
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "16\n",
+          "pages": [
+            15
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ncwd-civil-parsed-v1-042bd955ca07cbc9",
+      "sourceDocumentId": "parsed-ncwd-042bd955ca07cbc9",
+      "sourceUrl": "https://www.ncwd.uscourts.gov/sites/default/files/local_rules/Revised%20Local%20Rules%20120122.pdf",
+      "pageIndex": 11,
+      "pageSpan": [
+        11,
+        15
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ncwd-civil:7.2",
+      "collectionId": "ncwd-civil",
+      "districtId": "ncwd",
+      "number": "7.2",
+      "citation": "Western District of North Carolina · Rule 7.2",
+      "title": "SOCIAL SECURITY CASES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR 7.2 SOCIAL SECURITY CASES\n(a) This Rule shall apply to any action under 42 U.S.C. § 405(g) for review on the \nrecord of a final decision of the Commissioner of Social Security that presents only an individual \nclaim.\n(b) If the plaintiff files a motion to proceed without having to prepay the costs \nassociated with prosecuting the action, the Clerk will notify the Commissioner of the \ncommencement of the action in accordance with Rule 3 of the Supplemental Rules for Social \nSecurity Actions under 42 U.S.C. § 405(g) only upon the Court’s granting of such motion or the \npayment of the required filing fee.\n(c) The plaintiff must file a brief on or before the date to be set in the Social Security \nScheduling Order entered in the case.\n(d) The plaintiff’s brief must provide the following information and be organized as \nfollows:\n(1) Statement of Facts. The first section of the brief must, in no more than \nfive pages, provide the following information: the medical condition(s) causing the claimed \ndisability; the alleged onset date for the claimed disability; the name and specialty of the plaintiff’s \ntreating physician(s) and citations to the record pages of relevant evidence from such treating \nphysician(s); the plaintiff’s date of application for benefits; the specific type of benefits sought \n(e.g., Title II, Title XVI, Childhood); the date the plaintiff was last insured (if applicable); the \nplaintiff’s age, level of education, and work history; the step of the sequential evaluation process \nat which the ALJ denied the claim(s); citations to the record pages where the alleged errors of the \nALJ are to be found; the identity of the physician where the plaintiff contends that the ALJ failed ",
+          "pages": [
+            15
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "17\nto give proper weight to such physician’s opinion, identifying that physician’s specialty and \nwhether such physician was a treating, consulting, or reviewing physician, and providing citation \nto the record pages where such opinion is set forth; and the specific relief requested.\n(2) Procedural History. The second section of the brief must briefly set forth \nthe case’s procedural history.\n(3) Standard of Review and Relevant Law. The third section of the brief\nmust set forth the standard of review and federal statutes, regulations, and case law relevant to the \nissues presented for review.\n(4) Issues Presented. The fourth section of the brief must succinctly list the \nissues presented for review, separately identifying and enumerating each alleged error of the \nALJ.\n(5) Argument. The fifth section of the brief must set forth the plaintiff’s\narguments in separate subsections that address each issue and alleged error presented for review.\n(6) Conclusion and Relief Requested. The final section of the brief must set \nforth a brief conclusion and a statement of the specific relief requested.\n(e) The Commissioner must file a brief on or before the date set by the Social Security\nScheduling Order entered in the case.\n(f) The Commissioner’s brief must provide the following information and be \norganized as follows:\n(1) Statement of Facts. The first section of the brief must, in no more than \nfive pages, state the relevant facts of the case and summarize why the plaintiff’s appeal should be ",
+          "pages": [
+            16
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "18\ndenied or otherwise summarize how the Commissioner applied the correct legal standards and \nhow substantial evidence supports the Commissioner’s decision.\n(2) Procedural History. The second section of the brief must briefly set forth \nthe case’s procedural history.\n(3) Standard of Review and Relevant Law. The third section of the brief\nmust set forth the standard of review and federal statutes, regulations, and case law relevant to the \nissues presented for review.\n(4) Argument. The fourth section of the brief must, seriatim, address the \nseparate issues and arguments advanced by the plaintiff.\n(5) Conclusion and Relief Requested. The final section of the brief must set \nforth a brief conclusion and statement of the specific relief requested.\n(g) The plaintiff shall be permitted one Reply brief to be filed fourteen (14) calendar\ndays after the Commissioner has submitted its brief. Such Reply shall be limited to five pages \nand may only address issues raised for the first time in the Commissioner’s brief.\n(h) The matter shall be decided on the parties’ briefs and review of the Administrative\nRecord. Oral arguments are not anticipated or allowed unless otherwise ordered by the Court.\n(i) If not specifically covered by this Rule, all briefs must comply with this Court’s \nLocal Rules, including, but not limited to, the font size and page limitations in LCvR 7.1(d).\nAdvisory Committee Notes\nThis new Rule incorporates the interim rules governing Social Security cases put in place \nby way of a Standing Order, 3:13mc198. That Standing Order, in turn, was prompted by concern \nfrom the Civil Division of the USAO as to lack of uniformity in appeals, making it difficult for \nSAUSAs to discern the issues raised on appeal by claimants. In reducing the Standing Order to a \nLocal Rule, the Local Rules Subcommittee has been faithful to the substance of the original order, ",
+          "pages": [
+            17
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "19\nbut has attempted to restyle the language to make the Rules more easily understood by attorneys. \nThe language has been further edited to make style and terminology consistent throughout the \nRules.\n2022 Note: This Rule has been amended to conform to the language of the Supplemental \nRules for Social Security Actions under 42 U.S.C. § 405(g), which became effective December 1, \n2022.\n",
+          "pages": [
+            18
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ncwd-civil-parsed-v1-042bd955ca07cbc9",
+      "sourceDocumentId": "parsed-ncwd-042bd955ca07cbc9",
+      "sourceUrl": "https://www.ncwd.uscourts.gov/sites/default/files/local_rules/Revised%20Local%20Rules%20120122.pdf",
+      "pageIndex": 15,
+      "pageSpan": [
+        15,
+        18
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ncwd-civil:16.1",
+      "collectionId": "ncwd-civil",
+      "districtId": "ncwd",
+      "number": "16.1",
+      "citation": "Western District of North Carolina · Rule 16.1",
+      "title": "PRETRIAL CONFERENCES, INITIAL ATTORNEY’S CONFERENCE,",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR 16.1 PRETRIAL CONFERENCES, INITIAL ATTORNEY’S CONFERENCE, \nJOINT STIPULATION OF CONSENT TO UNITED STATES \nMAGISTRATE JUDGE JURISDICTION, AND INITIAL PRETRIAL \nCONFERENCE\n(a) Initial Attorney’s Conference. As soon as practicable, and in any event not later \nthan fourteen (14) days from joinder of the issues (as defined in Section (d) below), the parties or \ntheir counsel must confer as provided by Fed. R. Civ. P. 26(f) and conduct an “Initial Attorney’s \nConference” (“IAC”). Counsel must also discuss at the IAC each party’s willingness to consent \nto jurisdiction of the United States Magistrate Judge. See LCvR 73.1(c). Where the parties believe\nthe filing of an amended complaint or other amended initial pleading justifies changing the \nScheduling Order, the parties must conduct a supplemental attorney’s conference and file an \nappropriate motion with the Court. \n(b) Deadline for Filing the Certificate of Initial Attorney’s Conference. Within seven\n(7) days of the IAC, the parties must file the Certificate of Initial Attorney’s Conference which \nmust include a proposed discovery plan. The Certificate of Initial Attorney’s Conference will \nserve as a guideline for the Court in issuing a Scheduling Order as provided by Fed. R. Civ. P.\n16(b). Parties stipulating out of, or objecting to, the mandatory initial disclosure procedure under \nFed. R. Civ. P. 26(a)(1) must so indicate in the discovery plan. ",
+          "pages": [
+            18
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "20\n(c) Filing of Joint Stipulation of Consent to United States Magistrate Judge \nJurisdiction. Where all parties consent to the jurisdiction of a United States Magistrate Judge, a \nseparate Joint Stipulation of Consent to Exercise of Jurisdiction by a United States Magistrate \nJudge must be filed either with the Certificate of Initial Attorney’s Conference as provided in \nLCvR 73.1(c), or within seven (7) days of the Court’s ruling on a motion to stay.\n(d) Joinder of the Issues. For the limited purpose of these Rules, “joinder of the \nissues” occurs when the final answer to a complaint, third-party complaint, or crossclaim or the \nfinal reply to a counterclaim has been filed, or the time for doing so has expired. Rule 12 motions \ncontained in an Answer, but not supported by a brief, act as placeholders and do not prevent joinder \nof the issues. Where Rule 12 motions are filed and briefed, issues will not join until the Court \nresolves such motions. Where a party files a motion to dismiss fewer than all claims and files an\nAnswer as to the remaining claims, the Court in its discretion may consider issues joined.\n(e) Joinder of the Issues and Outstanding Discovery in Removed or Transferred \nCases.\n(1) Procedure Where Issues Already Joined. In a removed or transferred case \nin which issues joined before removal or transfer, the parties must conduct an Initial Attorney’s \nConference (“IAC”) in this district and file the Certificate of Initial Attorney’s Conference within \nthe time provided by Section (a). The time to do so is measured from the date the removed or \ntransferred action is filed in this district.\n(2) Procedure Where Issues Not Previously Joined. Where issues did not join \nbefore removal or transfer, Section (d) applies. With the exception of consensual discovery and \nRule 34 requests as set forth in Fed. R. Civ. P. 26(d)(2), official Court-enforceable discovery does ",
+          "pages": [
+            19
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "21\nnot commence until issuance of a Scheduling Order in this district. Where non-Rule 26(d)(2) \ndiscovery requests remain outstanding or a Scheduling Order was entered by the transferor district, \nsuch obligations are stayed pending entry of a new Scheduling Order in this district. The parties \nmust bring the need for a new Scheduling Order to the attention of the Court by filing a motion. \nThis provision does not, however, affect the admissibility and use of evidentiary material produced \nbefore transfer or removal.\n(f) Early Discovery. The parties may engage in consensual discovery at any time.\nHowever, Court-enforceable discovery does not commence until issues have joined and a \nScheduling Order has been entered, with the exception that early Rule 34 requests may be used \npursuant to Fed. R. Civ. P. 26(d)(2). A party seeking early Court-enforceable discovery may file \na motion for leave to take early discovery stating the reasons therefor. No supporting \nmemorandum is required.\n(g) Initial Pretrial Conference. The parties may request an Initial Pretrial Conference \nin the proposed discovery plan. Unless otherwise directed by a United States District Judge, \nUnited States Magistrate Judges preside over Initial Pretrial Conferences. Counsel for all parties \nmust personally appear unless the judicial officer conducting the conference allows them to appear \nby telephone. The Court will schedule the Initial Pretrial Conference within fourteen (14) days \nafter receiving the proposed discovery plan, unless the judicial officer conducting the conference \ndeems otherwise appropriate.\nUnless otherwise directed by a United States District Judge, a United States Magistrate \nJudge will issue the Scheduling Order in each case and manage the pretrial activity through direct \ninvolvement in the establishment, supervision, and enforcement of the Scheduling Order and other ",
+          "pages": [
+            20
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "22\napplicable rules of procedure. Matters considered during the Initial Pretrial Conference may \ninclude, but are not limited to: consent to United States Magistrate Judge jurisdiction; discovery \nguidelines and deadlines; Rule 26 disclosures; interrogatories and requests for admission; \nmaintenance of discovery material; video depositions; protective orders; motions deadlines; \nmotions hearings; responses to motions; trial subpoenas; counsel’s duties before trial; the trial date; \nproposed jury instructions; exhibits; mediation; and production of electronically stored \ninformation (“ESI”).\nAdvisory Committee Notes\nChanges to this Rule are intended to bring the Local Civil Rules into conformity with the \n2015 Amendments to the Federal Rules of Civil Procedure. In Section (e), the Local Rules Civil \nSubcommittee conformed our Local Rules, which generally speak to Court-enforceable discovery \nnot commencing until issues have joined and a scheduling order issued, to the provisions of the \nfederal amendments which allow certain discovery requests to be served with the complaint. The \nRule revises but retains language providing for consensual discovery at any time. The 2015 \nAmendment to Fed. R. Civ. P. 16(b)(3)(B)(V), which provides for first attempting to resolve\ndiscovery disputes by conference with the Court, has not been included in this provision, as the \nFederal Rule specifically directs that such requirement be placed in the Scheduling Order. The \nLocal Rules Advisory Committee recommends that each judge place such a requirement in their \nrespective Scheduling/Pretrial Orders.\n",
+          "pages": [
+            21
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ncwd-civil-parsed-v1-042bd955ca07cbc9",
+      "sourceDocumentId": "parsed-ncwd-042bd955ca07cbc9",
+      "sourceUrl": "https://www.ncwd.uscourts.gov/sites/default/files/local_rules/Revised%20Local%20Rules%20120122.pdf",
+      "pageIndex": 18,
+      "pageSpan": [
+        18,
+        21
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ncwd-civil:16.2",
+      "collectionId": "ncwd-civil",
+      "districtId": "ncwd",
+      "number": "16.2",
+      "citation": "Western District of North Carolina · Rule 16.2",
+      "title": "MEDIATION OR ALTERNATIVE DISPUTE RESOLUTION (“ADR”)",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR 16.2 MEDIATION OR ALTERNATIVE DISPUTE RESOLUTION (“ADR”)\n(a) Mandatory Mediated Settlement Conference. All parties to a civil action must \nattend a mediated settlement conference, unless otherwise ordered by the Court. A mediated \nsettlement conference is a pretrial, Court-ordered (by Local Rule) conference of the parties to a \ncivil action and their representatives conducted by a mediator. The procedure for the conference \nis provided in LCvR 16.3. The Court maintains a non-exclusive list of Court-approved mediators.",
+          "pages": [
+            21
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "23\n(b) Cases Not Suitable For ADR. The rules for mandatory ADR do not apply to \nhabeas corpus proceedings or other actions for extraordinary writs, appeals from rulings of \nadministrative agencies, forfeitures of seized property, and bankruptcy appeals. The judicial \nofficer may determine, either sua sponte or on a party’s motion, that any other case is not suitable \nfor ADR, in which case no ADR procedure will be ordered.\n",
+          "pages": [
+            22
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ncwd-civil-parsed-v1-042bd955ca07cbc9",
+      "sourceDocumentId": "parsed-ncwd-042bd955ca07cbc9",
+      "sourceUrl": "https://www.ncwd.uscourts.gov/sites/default/files/local_rules/Revised%20Local%20Rules%20120122.pdf",
+      "pageIndex": 21,
+      "pageSpan": [
+        21,
+        22
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ncwd-civil:16.3",
+      "collectionId": "ncwd-civil",
+      "districtId": "ncwd",
+      "number": "16.3",
+      "citation": "Western District of North Carolina · Rule 16.3",
+      "title": "RULES APPLICABLE TO MEDIATION OR ADR",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR 16.3 RULES APPLICABLE TO MEDIATION OR ADR\n(a) Time for Proceeding. The Court favors the use of ADR, ordinarily in the form of \na mediated settlement conference, for the efficient and orderly resolution of civil cases. \nAccordingly, in the Certificate of Initial Attorney’s Conference, the parties must indicate their \nopinion(s) regarding the usefulness of ADR, the preferred method of ADR, and the most \nadvantageous time to commence ADR. If the parties fail to submit, or cannot agree on, a proposed \nADR method, a mediated settlement conference will be selected as the default. The presiding\nUnited States Magistrate Judge or other judicial officer will, in the Scheduling Order or an ADR \nOrder issued shortly thereafter, select the ADR method and schedule the deadline for its \ncompletion after considering counsel’s responses in the Certificate of Initial Attorney’s \nConference.\n(b) Rules for Proceeding. Upon entry of an ADR Order, the case shall proceed as \nfollows:",
+          "pages": [
+            22
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-24",
+          "path": [],
+          "type": "paragraph",
+          "text": "24\n(1) Rules Governing Mediation. If a mediated settlement conference is \nordered, it shall be governed by the Rules Governing Mediated Settlement Conferences in Superior \nCourt Civil Actions promulgated by the North Carolina Supreme Court pursuant to N.C. Gen. Stat.\n§ 7A-38.1 (the “Mediation Rules”), and by these Local Rules.\n(A) Interpretation of State Court Terms. Where the Mediation Rules \nrefer to “Senior Resident Superior Court Judge” and “Administrative Office of the Court,” this \nshall mean “judicial officer” and “Clerk of Court” of the United States District Court, respectively.\n(B) Appropriate Facilities. Rule 3(a) of the Mediation Rules is modified \nto permit the mediated settlement conference to be held in a facility as agreed to by the parties or \nallowed by the Court.\n(2) Rules Governing Alternative ADR Proceeding. If an alternative ADR \nprocedure is ordered, the ADR proceeding shall be governed by the Mediation Rules, these Local \nRules, and by such other procedural rules submitted by the parties and approved by the judicial \nofficer. In addition to rules regarding the actual proceeding, the rules submitted by the parties \nmust include provisions setting a deadline for completion of the proceeding; the location of the\nproceeding; pre-proceeding submissions; and the method for selecting and compensating a\nmediator, evaluator, or other neutral person to preside over the proceeding.\n(3) Impact on Federal Law. Nothing in this Local Rule overrides the Federal \nArbitration Act or any other provision of the United States Code.\n(4) Exceptions to Rules. The judicial officer may, either sua sponte or on a \nparty’s motion, permit exceptions or deviations from the Mediation Rules or these Local Rules.",
+          "pages": [
+            23
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "25\n(c) Supplemental Rules for Mediated Settlement Conferences. In addition to the \nMediation Rules, the following Rules shall also apply to mediated settlement conferences in the \nWestern District:\n(1) No Record Made. No record shall be made of any ADR proceedings.\n(2) Attendance. All mediated settlement conferences must be conducted in \nperson, unless leave is otherwise granted by the mediator. \n(3) Mediator’s Report of Outcome. The mediator’s report required by the \nMediation Rules must be issued within seven (7) days of the conclusion of the Mediated Settlement \nConference. The mediator may submit the report on a report form provided by the Clerk of Court, \nor by using the mediator’s own letterhead or individually developed mediation report form. The \nmediator may file the report electronically or by conventional means. \n(d) Judicial Settlement Conference. \n(1) Mandatory Consideration. The judicial officer to whom a case is assigned \nmay, at any time, order the parties to participate in a settlement conference to be convened by the \nCourt. Any party may also request a judicial settlement conference.\n(2) Mandatory Attendance by Representatives with Full Authority to Effect\nSettlement. A person with full authority to settle all pending claims must attend the settlement \nconference and, for purposes of this Rule, the “person with full authority to settle” shall not be the \nattorney. Recognizing that governmental entities may not be able to comply with such requirement, \ngovernment attorneys must bring as much binding authority to settle as is feasible under the\ncircumstances. Telephonic attendance by a representative with full settlement authority may be \npermitted by the Court on a case-by-case basis.",
+          "pages": [
+            24
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "26\n(3) Presiding Judicial Officer. Usually, any judicial officer of the district other \nthan the judicial officer to whom the case is assigned for disposition may preside over a judicial \nsettlement conference convened by the Court. The judicial officer to whom the case is assigned \nfor disposition may, in such judicial officer’s discretion, preside over such conference.\n",
+          "pages": [
+            25
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ncwd-civil-parsed-v1-042bd955ca07cbc9",
+      "sourceDocumentId": "parsed-ncwd-042bd955ca07cbc9",
+      "sourceUrl": "https://www.ncwd.uscourts.gov/sites/default/files/local_rules/Revised%20Local%20Rules%20120122.pdf",
+      "pageIndex": 22,
+      "pageSpan": [
+        22,
+        25
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ncwd-civil:16.4",
+      "collectionId": "ncwd-civil",
+      "districtId": "ncwd",
+      "number": "16.4",
+      "citation": "Western District of North Carolina · Rule 16.4",
+      "title": "PRO SE SETTLEMENT ASSISTANCE PROGRAM",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR 16.4 PRO SE SETTLEMENT ASSISTANCE PROGRAM\n(a) Purpose of the Program. The purpose of the Pro Se Settlement Assistance \nProgram (“Program”) is to assist the just, speedy, and inexpensive determination of civil actions \nand proceedings by providing civil pro se litigants with limited advice and representation at \nexpedited settlement conferences.\n(b) Scope of the Program. The Program is available for voluntary application to all \ncivil cases in which any party appears pro se, except:\n(1) Cases in which the pro se party is a prisoner or pretrial detainee;\n(2) Cases filed under 28 U.S.C. § 2254 or § 2255;\n(3) Bankruptcy appeals;\n(4) Social Security cases;\n(5) Appeals from rulings of administrative agencies; and\n(6) Cases involving forfeitures of seized property.\nApplication to the Program is not intended to, does not, and may not be relied on to create any \nrights, substantive or procedural, enforceable at law by any party in any civil matter. Furthermore, \napplication to the Program does not guarantee participation in the Program.",
+          "pages": [
+            25
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "27\n(c) Opt-In Notice Following Joinder of Issues. Upon the joinder of issues within the \nmeaning of LCvR 16.1, the Clerk’s Office will send the pro se litigant a Notice of Availability of \nPro Se Settlement Assistance Program (“Opt-In Notice”) to inform the pro se litigant that the \nmatter is eligible for the Program.\n(1) The pro se litigant shall have fourteen (14) days from receipt of the Opt-In \nNotice to opt into the Program (“Opt-In Period”) by marking the Opt-In Notice where indicated \nand returning it to the Clerk's Office. The deadline for conducting an Initial Attorney’s Conference \n(“IAC”) is tolled during the Opt-In Period. Requests for extension of the Opt-in Period are \ndiscouraged but may be considered on a case-by-case basis.\n(2) If the pro se litigant either expressly opts out of the Program or does not \nrespond to the Opt-In Notice within the Opt-In Period, the case will not be admitted into the \nProgram and a regular IAC notice will be issued, advising the parties that an IAC must be \nconducted.\n(3) If at any time the Court finds in its sole discretion that participation in the \nProgram for a particular case will not serve the Program’s purpose or that the Program is not \nappropriate under the circumstances of a particular case, the Court will notify the parties and a\nregular IAC notice will be issued, advising the parties that an IAC must be conducted.\n(4) For all cases admitted into the Program, the parties and Court should follow \nthe procedures set forth in the documents governing the Pro Se Settlement Assistance Program, \nfound on the Court’s website.",
+          "pages": [
+            26
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "28\nAdvisory Committee Notes\nThis new Rule incorporates the substantive provisions of the pilot Pro Se Settlement \nAssistance Program sponsored in part by the Western District Federal Bar Association.\n",
+          "pages": [
+            27
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ncwd-civil-parsed-v1-042bd955ca07cbc9",
+      "sourceDocumentId": "parsed-ncwd-042bd955ca07cbc9",
+      "sourceUrl": "https://www.ncwd.uscourts.gov/sites/default/files/local_rules/Revised%20Local%20Rules%20120122.pdf",
+      "pageIndex": 25,
+      "pageSpan": [
+        25,
+        27
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ncwd-civil:26.1",
+      "collectionId": "ncwd-civil",
+      "districtId": "ncwd",
+      "number": "26.1",
+      "citation": "Western District of North Carolina · Rule 26.1",
+      "title": "COMMENCEMENT OF DISCOVERY",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR 26.1 COMMENCEMENT OF DISCOVERY\nSubject to the exception for Rule 34 requests as set forth in Fed. R. Civ. P. 26(d)(2), official \nCourt-enforceable discovery does not commence until issuance of the Scheduling Order. While \nparties are encouraged to engage in consensual discovery before such period and up to trial, the \nCourt will only enforce discovery that is conducted within the context of the Scheduling Order or \nwhere leave is granted in accordance with LCvR 16.1(f).\nAdvisory Committee Notes\nChanges to this Rule are intended to bring the Local Civil Rules into conformity with the \n2015 Amendments to the Federal Rules of Civil Procedure. The revisions are made in tandem \nwith those made to LCvR 16.1.\n",
+          "pages": [
+            27
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ncwd-civil-parsed-v1-042bd955ca07cbc9",
+      "sourceDocumentId": "parsed-ncwd-042bd955ca07cbc9",
+      "sourceUrl": "https://www.ncwd.uscourts.gov/sites/default/files/local_rules/Revised%20Local%20Rules%20120122.pdf",
+      "pageIndex": 27,
+      "pageSpan": [
+        27,
+        27
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ncwd-civil:26.2",
+      "collectionId": "ncwd-civil",
+      "districtId": "ncwd",
+      "number": "26.2",
+      "citation": "Western District of North Carolina · Rule 26.2",
+      "title": "DISCOVERY MATERIAL NOT TO BE FILED UNLESS ORDERED OR",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR 26.2 DISCOVERY MATERIAL NOT TO BE FILED UNLESS ORDERED OR \nNEEDED\nThe parties shall not file any initial disclosures, designations of expert witnesses and their \nreports, discovery requests or responses thereto, deposition transcripts, or other discovery material \nunless: (1) directed to do so by the Court; (2) the materials are needed for an in-Court proceeding; \nor (3) the materials are filed to support or oppose a motion or petition.\nMaterials filed to support or oppose a motion or petition shall be labeled as an “Appendix” \nor “Attachment” thereto and shall be limited to those portions of the material directly necessary to ",
+          "pages": [
+            27
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "29\nsupport or oppose the motion or petition. All such materials must be served on other counsel or \nparties entitled to service of papers filed with the Clerk of Court as provided in the Administrative \nProcedures. The party taking a deposition or obtaining any material through discovery is \nresponsible for preserving and delivering the material to the Court if needed or so ordered.\n",
+          "pages": [
+            28
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ncwd-civil-parsed-v1-042bd955ca07cbc9",
+      "sourceDocumentId": "parsed-ncwd-042bd955ca07cbc9",
+      "sourceUrl": "https://www.ncwd.uscourts.gov/sites/default/files/local_rules/Revised%20Local%20Rules%20120122.pdf",
+      "pageIndex": 27,
+      "pageSpan": [
+        27,
+        28
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ncwd-civil:42.1",
+      "collectionId": "ncwd-civil",
+      "districtId": "ncwd",
+      "number": "42.1",
+      "citation": "Western District of North Carolina · Rule 42.1",
+      "title": "MOTION FOR CONSOLIDATION OF CASES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR 42.1 MOTION FOR CONSOLIDATION OF CASES\nA motion for consolidation shall be filed in only one of the related cases with a notice of \nthe motion being filed in the proposed member case(s). Absent an order to the contrary, after \nconsolidation, all further proceedings will be docketed and filed in the designated lead case only.\nAdvisory Committee Notes\nThis Rule was relocated from former LCvR 5.2.1(d) to better correspond with the Federal \nRule governing consolidation.\n",
+          "pages": [
+            28
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ncwd-civil-parsed-v1-042bd955ca07cbc9",
+      "sourceDocumentId": "parsed-ncwd-042bd955ca07cbc9",
+      "sourceUrl": "https://www.ncwd.uscourts.gov/sites/default/files/local_rules/Revised%20Local%20Rules%20120122.pdf",
+      "pageIndex": 28,
+      "pageSpan": [
+        28,
+        28
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ncwd-civil:45.1",
+      "collectionId": "ncwd-civil",
+      "districtId": "ncwd",
+      "number": "45.1",
+      "citation": "Western District of North Carolina · Rule 45.1",
+      "title": "PRODUCTION OF SUBPOENAED MATERIAL BY CERTAIN NON￾PARTIES, CUSTODIANS OF RECORDS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR 45.1 PRODUCTION OF SUBPOENAED MATERIAL BY CERTAIN NON￾PARTIES, CUSTODIANS OF RECORDS\n(a) Custodians of Public Records. Where a subpoena commands any custodian of \npublic records to appear for the sole purpose of producing certain records in their custody, the \ncustodian may, in lieu of a personal appearance, tender to the Clerk of Court, by registered mail or \npersonal delivery, certified copies of the records requested, on or before the date and time specified \nin the subpoena, together with a copy of the subpoena and an affidavit by the custodian as to the \nauthentication of the record tendered or, if no such records are in their custody, an affidavit to that\neffect.",
+          "pages": [
+            28
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "30\n(b) Custodians of Medical Records. Where a subpoena commands the custodian of \nmedical records to appear for the sole purpose of producing certain records in their custody, the \ncustodian subpoenaed may, in lieu of a personal appearance, tender to the Clerk of Court, by \ncertified mail or personal delivery, certified copies of the records requested, on or before the time \nspecified in the subpoena, together with a copy of the subpoena and an affidavit by the custodian \ntestifying to the identity and authenticity of the records, that they are true and correct copies, and \nas appropriate, that the records were made and kept in the regular course of business at or near the \ntime of the acts, conditions, or events recorded, and that they were made by persons having \nknowledge of the information set forth; or if no such records are in their custody, an affidavit to \nthat effect. When the copies of medical records are personally delivered, a receipt shall be obtained \nfrom the person receiving the records.\n(c) Admissibility and Format. Any original or certified copy of any public or medical \nrecords, or affidavit, delivered according to the provisions of this Rule shall not be held \ninadmissible in any action or proceeding on the grounds that it lacks certification, identification, \nor authentication, and it shall be received as evidence if otherwise admissible. Any data \nmaintained in electronic format should, if readily retrievable, be submitted in electronic format. \nCertification of copies of such electronically provided records may be accomplished by \nappropriate affidavit in the same manner as described in the preceding paragraphs.\n(d) Protection of Privacy. The copies of public or medical records so tendered may\nnot be inspected or copied by any persons, except the parties and their attorneys, unless ordered \npublished by the judge at the time of the hearing or trial. Nothing contained herein shall be",
+          "pages": [
+            29
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "31\nconstrued to waive the physician-patient privilege or to require any privileged communications \nunder law to be disclosed.\nUnless the underlying subpoena for medical records is accompanied by the patient’s \nwritten consent, the materials submitted to the Court in response thereto shall not be disclosed to \nanyone, including the parties and their attorneys, except upon judicial finding that disclosure is \nnecessary to the proper administration of justice.\n(e) Duties of the Clerk of Court. The Clerk of Court will sign or mark as “Received” \na receipt if such is tendered by the subpoenaed party. The Clerk of Court has no duty to generate \na receipt or mail a receipt back to the responding party unless a receipt and self-addressed stamped \nenvelope is provided. The Clerk of Court will not file, scan, or otherwise make the proffer part of \nthe official record unless instructed to do so by a judge of the Court. Upon presentation to the \nCourt, the Clerk of Court must stamp the first page or cover sheet of any such material as \n“Received,” and place the materials in an official Court envelope or other container indicating that \nthe materials are sealed. The Clerk of Court must bring such filing to the Court’s attention at an \nappropriate time in the proceedings.\nUnless such materials are made part of the record, the Clerk of Court may destroy the \nmaterials within a reasonable time after the case is closed and appeals are exhausted. Originals \nmay be returned to the custodian if arrangements are made with the Clerk of Court at the time of \ntender.",
+          "pages": [
+            30
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "32\n",
+          "pages": [
+            31
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ncwd-civil-parsed-v1-042bd955ca07cbc9",
+      "sourceDocumentId": "parsed-ncwd-042bd955ca07cbc9",
+      "sourceUrl": "https://www.ncwd.uscourts.gov/sites/default/files/local_rules/Revised%20Local%20Rules%20120122.pdf",
+      "pageIndex": 28,
+      "pageSpan": [
+        28,
+        31
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ncwd-civil:45.2",
+      "collectionId": "ncwd-civil",
+      "districtId": "ncwd",
+      "number": "45.2",
+      "citation": "Western District of North Carolina · Rule 45.2",
+      "title": "NOTICE OF DOCUMENT SUBPOENA TO NON-PARTY",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR 45.2 NOTICE OF DOCUMENT SUBPOENA TO NON-PARTY\nA notice of the issuance of a document subpoena to a non-party and a copy of the subpoena,\nas required by Fed. R. Civ. P. 45(a)(4), shall be served on all other parties at least three (3) calendar \ndays before the date on which the subpoena is served on the non-party. This notice period may be \naltered by agreement of the parties or order of the Court.\nAdvisory Committee Notes\nThis new Rule is intended to avoid surprise and allow opposing counsel an opportunity to \nmove to quash non-party subpoenas before they are served, resulting in more cost-effective \nlitigation. Fed. R. Civ. P. 45(a)(4), while requiring notice, does not provide a specific time frame \nfor serving the notice, resulting in some cases of nearly simultaneous service of opposing counsel \nand the third-party custodian of documents. The Local Rule provides that such notice be served \non other parties at least three days before service of the subpoena.\n",
+          "pages": [
+            31
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ncwd-civil-parsed-v1-042bd955ca07cbc9",
+      "sourceDocumentId": "parsed-ncwd-042bd955ca07cbc9",
+      "sourceUrl": "https://www.ncwd.uscourts.gov/sites/default/files/local_rules/Revised%20Local%20Rules%20120122.pdf",
+      "pageIndex": 31,
+      "pageSpan": [
+        31,
+        31
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ncwd-civil:47.1",
+      "collectionId": "ncwd-civil",
+      "districtId": "ncwd",
+      "number": "47.1",
+      "citation": "Western District of North Carolina · Rule 47.1",
+      "title": "CONTACT WITH JURORS BEFORE TRIAL AND DURING VOIR DIRE",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR 47.1 CONTACT WITH JURORS BEFORE TRIAL AND DURING VOIR DIRE\n(a) Juror Information.\n(1) Disclosure to Case Participants. When jurors are drawn for a term of \nCourt, counsel of record is entitled to a copy of the list of potential jurors. (The list of potential \njurors shall not include the street address of any juror). If questionnaires are used, the responses \nto the questionnaires will also be made available to counsel. Depending on the needs of the case, \nsuch disclosure shall be made when deemed appropriate by the Court. Pro se parties may apply \nto the Court for similar pretrial access.\n(2) Disclosure of Names of Jurors. Names of prospective and sitting petit \njurors shall not be disclosed to members of the Bar, media, or public outside open Court, except \nupon Court order. A request for disclosure shall be made to the presiding judge.",
+          "pages": [
+            31
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "33\n(b) Pretrial Contact With Potential Jurors Prohibited. No attorney or party to an\naction, or persons acting on their behalf, shall contact any potential juror, either directly or through \nany member of his or her immediate family, in an effort to secure information concerning his or\nher background.\n(c) Voir Dire. Ordinarily, in the interest of time, the Court will conduct the \nexamination of prospective jurors, but may permit counsel to do so. If the Court conducts the \nexamination, counsel or pro se parties may suggest additional questions.\n(d) Contact with Jurors during or after Trial. No attorney or party to an action, or \npersons acting on their behalf, shall personally or through their designees, directly or indirectly, \ninterview, examine or question, or communicate in any way with, any juror, relative, friend, or \nassociate thereof during the trial, or with respect to the deliberations or verdict of the jury in any \naction, except on leave of the presiding judge upon good cause shown. Incidental contacts with \njurors during a trial, such as the exchange of pleasantries, are likely due to close confines of the \ncourthouse and do not violate this Rule. Contacts of substance, however, should be promptly \nreported by the attorney or pro se party to the presiding judge outside the hearing of the jury.",
+          "pages": [
+            32
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "34\n",
+          "pages": [
+            33
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ncwd-civil-parsed-v1-042bd955ca07cbc9",
+      "sourceDocumentId": "parsed-ncwd-042bd955ca07cbc9",
+      "sourceUrl": "https://www.ncwd.uscourts.gov/sites/default/files/local_rules/Revised%20Local%20Rules%20120122.pdf",
+      "pageIndex": 31,
+      "pageSpan": [
+        31,
+        33
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ncwd-civil:54.1",
+      "collectionId": "ncwd-civil",
+      "districtId": "ncwd",
+      "number": "54.1",
+      "citation": "Western District of North Carolina · Rule 54.1",
+      "title": "TAXATION OF COSTS OTHER THAN ATTORNEY FEES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR 54.1 TAXATION OF COSTS OTHER THAN ATTORNEY FEES\n(a) Filing Bill of Costs. A prevailing party may request the Clerk of Court to tax \nallowable costs, other than attorney fees, in a civil action as a part of a judgment or decree by filing \na bill of costs on a form available from the Clerk of Court, within thirty (30) days after:\n(1) The expiration of time allowed for appeal of a final judgment or decree; or\n(2) Receipt by the Clerk of Court of the mandate or other order terminating the \naction on appeal.\n(b) Filing of the Bill of Costs. The original bill of costs must be filed with the Clerk\nof Court, with copies served on adverse parties.\n(c) Failure to File. The failure of a prevailing party to timely file a bill of costs \nconstitutes a waiver of any claim for costs.\n(d) Objections to Bill of Costs. If an adverse party objects to the bill of costs or any \nitem claimed by a prevailing party, that party may file an objection to the bill of costs with \nsupporting brief within fourteen (14) days after the electronic filing of the bill of costs. Within \nseven (7) days thereafter, the prevailing party may file a response with brief to any filed objections. \nUnless a hearing is ordered by the Clerk of Court, a ruling will be made by the Clerk of Court on \nthe record.\n(e) Objections to the Ruling of the Clerk of Court. A party may request review of the \nClerk of Court’s ruling by filing a motion within seven (7) days after entry of the Clerk of Court’s \norder. The Court’s review of the Clerk of Court’s action will be made on the existing record unless \notherwise ordered.",
+          "pages": [
+            33
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "35\n(f) Taxable Costs. Items normally taxed include:\n(1) Those items specifically listed on the bill of costs form. The costs incident \nto the taking of depositions (when allowable as necessarily obtained for use in the litigation) \nnormally include only the reporter’s attendance fee and charge for the original transcript of the \ndeposition;\n(2) Premiums on required bonds or other securities;\n(3) Actual mileage, subsistence, and attendance allowances for necessary \nwitnesses at actual cost, but not to exceed the applicable statutory rates, whether they reside in or \nout of this district;\n(4) One copy of the trial transcript for each party represented by separate\ncounsel;\n(5) Costs associated with private process servers;\n(6) Fees for service of summons, subpoena, and notices by private firms; and\n(7) Costs of the original videotape of a deposition and the appearance fee of a \nvideographer in lieu of the costs of a transcript of the deposition.\n(g) Non-Taxable Costs. Items normally not taxed include:\n(1) Multiple copies of depositions;\n(2) daily, expedited, real time, or hourly copies of transcripts, unless prior Court \napproval has been obtained;\n(3) Attorney fees and attorney travel expenses;\n(4) Costs of shipping/mailing transcripts;",
+          "pages": [
+            34
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "36\n(5) Costs for computer-aided legal research including paralegal charges and \ncomputerized indices or optical discs produced for counsel’s benefit;\n(6) Costs associated with mediation;\n(7) Copy costs for any documents filed or served in electronic format;\n(8) Pro hac vice fees;\n(9) Costs for extraction and/or electronic configuration of data (e-mails) for the \nconvenience of counsel absent any agreement among the parties pertaining to these costs;\n(10) Costs associated with condensing a transcript, putting transcripts on a \ndiskette, or providing E-transcripts in addition to counsel receiving the original transcript;\n(11) Expert or witness hourly or appearance or consultation fees for attending a\ndeposition, hearing, or trial other than that authorized by statute or Court order;\n(12) Travel time for expert or witnesses other than that authorized by statute or\nCourt order;\n(13) Costs associated with videoconferences of meetings, conferences, or \ndepositions other than the direct cost of the original videotape/electronic record of a deposition \nand the appearance fee of a videographer in lieu of the costs of a transcript of the deposition; and\n(14) Fees associated with researching potential jurors.\n(h) Costs in Settlements. The Clerk of Court will not tax costs in any action terminated \nby compromise or settlement. Settlement agreements must resolve any issue relating to costs. In \nthe absence of specific agreement, each party bears its own costs.\n(i) Payment of Costs. Costs are to be paid directly to the party entitled to \nreimbursement, not to the Clerk of Court.",
+          "pages": [
+            35
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-37",
+          "path": [],
+          "type": "paragraph",
+          "text": "37\n",
+          "pages": [
+            36
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ncwd-civil-parsed-v1-042bd955ca07cbc9",
+      "sourceDocumentId": "parsed-ncwd-042bd955ca07cbc9",
+      "sourceUrl": "https://www.ncwd.uscourts.gov/sites/default/files/local_rules/Revised%20Local%20Rules%20120122.pdf",
+      "pageIndex": 33,
+      "pageSpan": [
+        33,
+        36
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ncwd-civil:67.1",
+      "collectionId": "ncwd-civil",
+      "districtId": "ncwd",
+      "number": "67.1",
+      "citation": "Western District of North Carolina · Rule 67.1",
+      "title": "REGISTRY FUNDS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-37",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR 67.1 REGISTRY FUNDS\n(a) Court Registry Investment System. In accordance with Internal Revenue Service \n(“IRS”) regulations, the Court has in place a Court Registry Investment System (“CRIS”). In \ncompliance with those regulations, the following Rules govern the deposit, investment, and \nwithdrawal of funds deposited into CRIS.\n(b) When Deposits Permitted. No funds shall be submitted to the Clerk of Court for \ndeposit without the depositor first obtaining an order by a judge in the case or proceeding \npermitting such deposit.\n(c) Manner of Making Deposit. When making a deposit or transferring fundsto CRIS,\nthe depositor must serve the Clerk of Court and the Court’s Financial Section with a copy of the\norder allowing such deposit.\n(d) Duties of the Clerk of Court. Unless otherwise provided in this Rule, the Clerk of \nCourt must, in turn, deposit funds received with the Treasurer of the United States in the name and \nto the credit of this Court through depositories designed by the Treasury to accept such deposits, \nall in accordance with 28 U.S.C. § 2041.\n(1) Placement in Interest-bearing Accounts or Instruments. When by Court \norder made in accordance with Fed. R. Civ. P. 67, funds are directed to be placed in an interest￾bearing account or invested in a Court-approved, interest-bearing instrument, the Clerk of Court \nsatisfies the order by placing the funds into CRIS, which is administered by the Administrative \nOffice of the United States Courts (“AO”). CRIS is the only investment or interest-bearing account \nmechanism authorized.",
+          "pages": [
+            36
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-38",
+          "path": [],
+          "type": "paragraph",
+          "text": "38\n(2) Placement of Interpleader Funds. When deposited in accordance with 28\nU.S.C. § 1335, interpleader funds are deemed Disputed Ownership Funds (“DOF”) in accordance \nwith the applicable IRS definition. Unless the Court orders otherwise, the Clerk of Court must \ndeposit interpleader funds in the DOF account established within CRIS. Because the AO \nadministers CRIS, the AO is responsible for meeting all DOF tax administration requirements.\n(e) Duties of the Administrative Office. The Director of the AO is designated as the \nCustodian for all CRIS funds, and the Director and/or his or her designee shall perform the duties \nof Custodian. Funds held in CRIS remain subject to this Court’s control and jurisdiction.\n(1) Investment of CRIS funds. Funds deposited in CRIS shall be pooled with\nother CRIS funds on deposit with the Treasury from other courts and in other cases and used to \npurchase Government Account Series securities through the Bureau of Public Debt. Such\nsecurities shall be held by the Treasury in an account in the name and to the credit of the Custodian. \nPooled funds shall be invested in accordance with the principles of the CRIS Investment Policy as \napproved by the Registry Monitoring Group.\n(2) Creation of Accounts for Deposited Funds. For each case giving rise to a \ndeposit invested in pooled funds, an account will be established in that case’s name. Income \ngenerated from the investments of pooled funds shall be distributed to each account based on the \nratio of each account’s principal and earnings to the aggregate principal and income total in the \nfund after applying the CRIS fee. Reports showing the interest earned and the principal amounts \ncontributed in each case will be prepared and distributed to each court participating in the CRIS \nand made available to litigants and/or their counsel.",
+          "pages": [
+            37
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "39\n(3) Creation of Accounts for DOF Funds. For each interpleader case, an \naccount shall be established in the CRIS DOF in that case’s name. Income generated from the \ninvestment of DOF funds will be distributed to each account after the DOF fee has been applied \nand tax withholdings have been deducted. Reports showing the interest earned and the principal \namounts contributed in each case will be prepared and made available through the FedInvest/CMS \napplication to each court participating in the CRIS and made available to litigants and/or their \ncounsel. On appointment of an Administrator authorized to incur expenses on behalf of the DOF \nin a case, the case DOF funds should be transferred to another investment account as directed by \nCourt order.\n(f) Court Authorization of the Custodian. The Court authorizes the Custodian, as \nfollows:\n(1) Deduction of CRIS Fee. For management of the investments in CRIS, the\nCustodian is authorized and directed to deduct the CRIS fee, which shall be comprised of an \nannualized ten (10) basis points on assets on deposit for all CRIS funds, excluding the case funds \nheld in the DOF. In accordance with the Miscellaneous Fee Schedule, the CRIS fee is assessed \nfrom interest earnings of the pool before a pro rata distribution of earnings is made to court cases.\n(2) Deduction of DOF Fee. For management of the investments and tax \nadministration in the DOF funds, the Custodian is authorized and directed to deduct the CRIS fee, \nwhich shall be comprised of an annualized ten (10) basis points on assets on deposit for all CRIS \nfunds, excluding the case funds held in the DOF. In accordance with the Miscellaneous Fee \nSchedule, the CRIS fee is assessed from interest earnings of the pool before a pro rata distribution ",
+          "pages": [
+            38
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-40",
+          "path": [],
+          "type": "paragraph",
+          "text": "40\nof earnings is made to court cases. The Custodian is also authorized and directed to withhold and \npay federal taxes due on behalf of the DOF. \n(g) Additional Provisions. The following additional provisions apply to Registry\nFunds.\n(1) Existing Investments. The Clerk of Court shall deposit all existing \ninvestments into the CRIS account. Deposits to the CRIS DOF will not be transferred from any \nexisting CRIS funds. Only new deposits made pursuant to 28 U.S.C. § 1335 on or after April 1, \n2017, will be placed in the CRIS DOF.\n(2) Opting Out of CRIS. Parties not wishing to have funds placed in the CRIS \nfund may seek Court approval by filing a motion to have the funds transferred to or deposited with \nthe litigants or their designee; however, all funds on deposit with the Court shall be placed in the \nproper CRIS fund. \n(3) Abrogation of Prior Orders and Rules. This Rule, along with the\nunderlying Order (3:16mc205), abrogates all prior orders of this Court regarding deposit and \ninvestment of registry funds. \nAdvisory Committee Notes\nChanges to this Rule are consistent with the Court’s interim Standing Order applicable to \nthe Western District’s Registry Investment System Fund, In re Money Deposited into the Court\nRegistry Fund, 3:16mc205. The substantial revisions to this Rule are in compliance with Internal \nRevenue Service Regulations, which appear designed to ensure proper tax administration of, \namong other things, funds management in a Disputed Ownership Fund. ",
+          "pages": [
+            39
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-41",
+          "path": [],
+          "type": "paragraph",
+          "text": "41\n",
+          "pages": [
+            40
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ncwd-civil-parsed-v1-042bd955ca07cbc9",
+      "sourceDocumentId": "parsed-ncwd-042bd955ca07cbc9",
+      "sourceUrl": "https://www.ncwd.uscourts.gov/sites/default/files/local_rules/Revised%20Local%20Rules%20120122.pdf",
+      "pageIndex": 36,
+      "pageSpan": [
+        36,
+        40
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ncwd-civil:72.1",
+      "collectionId": "ncwd-civil",
+      "districtId": "ncwd",
+      "number": "72.1",
+      "citation": "Western District of North Carolina · Rule 72.1",
+      "title": "AUTHORITY OF UNITED STATES MAGISTRATE JUDGES IN CIVIL",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-41",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR 72.1 AUTHORITY OF UNITED STATES MAGISTRATE JUDGES IN CIVIL \nMATTERS, STANDING ORDERS OF REFERENCE\n(a) United States Magistrate Judges are Authorized and Designated to Exercise the \nFollowing Functions and Duties Regarding Civil Actions in this district:\n(1) To perform the duties prescribed in 28 U.S.C. § 636(a);\n(2) To hear and decide non-dispositive procedural or discovery motions and \nother pretrial matters, as provided by 28 U.S.C. § 636(b)(1)(A);\n(3) To hear any dispositive motions involving cases in which the parties have \nnot consented to jurisdiction of the United States Magistrate Judge, and thereafter to submit to the \nUnited States District Judge proposed findings of fact and recommendations for disposition of \nsuch motions, as provided by 28 U.S.C. § 636(b)(1)(B);\n(4) To make a final determination on any dispositive motion in a case wherein \nthe parties have consented to the jurisdiction of the United States Magistrate Judge, subject to right \nof appeal to the United States Court of Appeals for the Fourth Circuit;\n(5) To serve as a special master in appropriate civil cases in accordance with\n28 U.S.C. § 636(b)(2) and Fed. R. Civ. P. 53;\n(6) Upon the consent of all parties, to conduct jury voir dire in civil cases when \ndesignated by the United States District Judge to do so on a case-by-case basis;\n(7) To accept petit jury verdicts in civil cases in the absence of a United States\nDistrict Judge;\n(8) Upon the consent of all parties, to conduct the trial and order entry of \njudgment, as authorized by 28 U.S.C. § 636(c);",
+          "pages": [
+            40
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-42",
+          "path": [],
+          "type": "paragraph",
+          "text": "42\n(9) To issue orders or warrants authorizing acts necessary in the performance \nof the duties of administrative and regulatory agencies and departments of the United States \ngovernment pursuant to 28 U.S.C. § 636(b)(3);\n(10) To conduct proceedings of the Court under the Federal Debt Collection \nProcedures Act, consistent with the Constitution and the laws of the United States as authorized \nby 28 U.S.C. § 3008; and\n(11) To perform any additional duties consistent with the Constitution or the \nlaws of the United States, as shall be assigned or delegated by the district court.\n(b) Standing Orders of Reference. In addition to the above paragraph, a United States \nDistrict Judge may enter a Standing Order of Reference concerning the extent to which such \njudge’s matters are referred to United States Magistrate Judges.\n",
+          "pages": [
+            41
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ncwd-civil-parsed-v1-042bd955ca07cbc9",
+      "sourceDocumentId": "parsed-ncwd-042bd955ca07cbc9",
+      "sourceUrl": "https://www.ncwd.uscourts.gov/sites/default/files/local_rules/Revised%20Local%20Rules%20120122.pdf",
+      "pageIndex": 40,
+      "pageSpan": [
+        40,
+        41
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ncwd-civil:73.1",
+      "collectionId": "ncwd-civil",
+      "districtId": "ncwd",
+      "number": "73.1",
+      "citation": "Western District of North Carolina · Rule 73.1",
+      "title": "TRIAL BY CONSENT BEFORE A UNITED STATES MAGISTRATE",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-42",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR 73.1 TRIAL BY CONSENT BEFORE A UNITED STATES MAGISTRATE \nJUDGE, INITIAL ASSIGNMENT OF CASES, DUTY OF PARTIES, AND \nFAILURE TO FILE THE JOINT STIPULATION\n(a) Initial Assignment of Cases. All cases shall be initially assigned to a United States\nDistrict Judge.\n(b) Duties of the Proponent of the Litigation. The plaintiff or the removing party in a \nremoval action must serve the Case Assignment Notice, the Notice of Availability of a United \nStates Magistrate Judge to Exercise Jurisdiction, and the Joint Stipulation of Consent to Exercise \nof Jurisdiction by a United States Magistrate Judge form on all parties with the complaint or notice \nof removal.",
+          "pages": [
+            41
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-43",
+          "path": [],
+          "type": "paragraph",
+          "text": "43\n(c) Duty of All Parties. The parties or their counsel may consent to United States \nMagistrate Judge jurisdiction at any time. The parties or their counsel must discuss the issue of \nconsent to the jurisdiction of a United States Magistrate Judge as part of their Initial Attorney’s \nConference (Fed. R. Civ. P. 26(f) Conference) and certify such within the Certificate of Initial \nAttorney’s Conference. If all parties consent, the executed Joint Stipulation of Consent to Exercise \nof Jurisdiction by a United States Magistrate Judge form must be filed. The completed form must \nbe returned by the deadline established in LCvR 16.1(c).\n(d) Failure to File the Joint Stipulation. Where the Joint Stipulation is not filed within \nthe time provided, such failure is presumed to be a declination of consent.\n(e) Consents after the Deadline. Where the parties wish to consent after such deadline, \nthe presumption of declination may be overcome by the filing of the Joint Stipulation and approval \nof the reassignment by the United States District Judge to whom the case is assigned.\n(f) Addition of Parties. When the initial parties to an action consent and additional \nparties are joined during litigation, the plaintiff or removing party must provide such parties with \nthe documents specified in Section (b). The new party must inform the Clerk of Court, in a notice\naccompanying its first responsive pleading, whether the party consents to the United States\nMagistrate Judge’s jurisdiction. Such notice of election must be communicated to the Clerk of \nCourt and not disclosed to the Court.\n(g) Cases Transferred From Another Federal Judicial District. When a case is \ntransferred into this district from another federal judicial district, the Clerk of Court shall send all \nparties the information required by this Rule and establish an appropriate deadline for the \ncompletion and electronic filing of the consent of the newly added parties. The procedures ",
+          "pages": [
+            42
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-44",
+          "path": [],
+          "type": "paragraph",
+          "text": "44\nspecified in Sections (a) through (f) otherwise apply to cases transferred from another federal \ndistrict.\n",
+          "pages": [
+            43
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ncwd-civil-parsed-v1-042bd955ca07cbc9",
+      "sourceDocumentId": "parsed-ncwd-042bd955ca07cbc9",
+      "sourceUrl": "https://www.ncwd.uscourts.gov/sites/default/files/local_rules/Revised%20Local%20Rules%20120122.pdf",
+      "pageIndex": 41,
+      "pageSpan": [
+        41,
+        43
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ncwd-civil:77.1",
+      "collectionId": "ncwd-civil",
+      "districtId": "ncwd",
+      "number": "77.1",
+      "citation": "Western District of North Carolina · Rule 77.1",
+      "title": "ORDERS AND JUDGMENTS THE CLERK OF COURT MAY GRANT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-44",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR 77.1 ORDERS AND JUDGMENTS THE CLERK OF COURT MAY GRANT\nPursuant to Fed. R. Civ. P. 77(c), the Clerk of Court, or any authorized Deputy Clerk within \nthe district, may grant and enter the following orders and judgments without further direction by \nthe Court, although the Court may suspend, alter, or rescind the orders and judgments for good \ncause shown:\n(1) orders directing inmates and the correctional facility in which the inmate is housed \nto file a copy of the inmate’s trust fund account statement (or institutional equivalent) pursuant to \n28 U.S.C. §195; and\n(2) orders waiving the filing fee or directing the inmate to pay a partial filing fee \npursuant to Section 804 of the Prison Litigation Reform Act of 1995. These orders may also \ninclude directing the correctional facility where the inmate is incarcerated to deduct monthly \npayments from the inmate’s trust fund account and forward payment to the Clerk of Court.\n",
+          "pages": [
+            43
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ncwd-civil-parsed-v1-042bd955ca07cbc9",
+      "sourceDocumentId": "parsed-ncwd-042bd955ca07cbc9",
+      "sourceUrl": "https://www.ncwd.uscourts.gov/sites/default/files/local_rules/Revised%20Local%20Rules%20120122.pdf",
+      "pageIndex": 43,
+      "pageSpan": [
+        43,
+        43
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ncwd-civil:79.1",
+      "collectionId": "ncwd-civil",
+      "districtId": "ncwd",
+      "number": "79.1",
+      "citation": "Western District of North Carolina · Rule 79.1",
+      "title": "PRESENTATION, CUSTODY, AND DISPOSITION OF EVIDENCE,",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-44",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR 79.1 PRESENTATION, CUSTODY, AND DISPOSITION OF EVIDENCE, \nMODELS, EXHIBITS, AND DEPOSITIONS\n(a) Presentation of Evidence. Evidence must be presented in electronic format \nthrough use of the presentation technology available in the courtroom to display evidence to the \njury and the Court. Requirements for courtroom technology training and the format of exhibits \ncan be found on the district court’s website at www.ncwd.uscourts.gov.",
+          "pages": [
+            43
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-45",
+          "path": [],
+          "type": "paragraph",
+          "text": "45\n(b) Custody with Clerk of Court. Unless otherwise directed by the Court, or except as \nprovided in Section (c), all trial exhibits admitted into evidence in criminal and civil actions shall \nbe placed in the custody of the Clerk of Court. See Standing Orders. \n(c) Custody with the Offering Party. All exhibits shall be retained in the custody of \nthe party offering them, subject to the orders of the Court. Exhibits presented in electronic format \nwill be available for transmission to the Court of Appeals as part of a record on appeal. Any \nphysical evidence presented during a Court proceeding shall remain in the offering party’s custody, \nincluding, but not limited to, the following types of bulky or sensitive exhibits: narcotics and other \ncontrolled substances; firearms; ammunition; explosive devices; jewelry; liquor; poisonous or \ndangerous chemicals; money or articles of high monetary value; counterfeit currency; biological \nhazards; and documents or physical exhibits of unusual bulk or weight. \nAt the end of a trial or proceedings, the party offering the exhibits must retain custody and \npreserve them in their condition as of the time admitted until any appeal is resolved or the time for \nappeal has expired. The party retaining custody must make the exhibits available to opposing \ncounsel for use in preparing an appeal and shall also be responsible for their safe transmission to \nthe appellate court, if required.\n(d) Disposition of Exhibits, Sealed Documents, and Filed Depositions by Clerk of \nCourt. Any exhibit, sealed document, or filed deposition in the Clerk of Court’s custody more \nthan thirty (30) days after (1) the time for appeal, if any, has expired or (2) an appeal has been \ndecided and mandate received, may be returned to the parties or destroyed by the Clerk of Court. \nThe unsealing of sealed documents is governed by LCvR 6.1. ",
+          "pages": [
+            44
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-46",
+          "path": [],
+          "type": "paragraph",
+          "text": "46\n(e) Depositions. Depositions read into the Court record are considered exhibits for \nwhich the parties are responsible as provided in Section (c). Depositions admitted into evidence \nbut not read into the record shall be retained in the Clerk of Court’s custody and disposed of as \nauthorized in Section (d).\n",
+          "pages": [
+            45
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ncwd-civil-parsed-v1-042bd955ca07cbc9",
+      "sourceDocumentId": "parsed-ncwd-042bd955ca07cbc9",
+      "sourceUrl": "https://www.ncwd.uscourts.gov/sites/default/files/local_rules/Revised%20Local%20Rules%20120122.pdf",
+      "pageIndex": 43,
+      "pageSpan": [
+        43,
+        45
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ncwd-civil:83.1",
+      "collectionId": "ncwd-civil",
+      "districtId": "ncwd",
+      "number": "83.1",
+      "citation": "Western District of North Carolina · Rule 83.1",
+      "title": "ATTORNEY ADMISSION AND ELIGIBILITY, ESTABLISHMENT OF AN",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-46",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR 83.1 ATTORNEY ADMISSION AND ELIGIBILITY, ESTABLISHMENT OF AN \nECF ACCOUNT BEFORE ADMISSION, DEFINITIONS OF TYPES OF \nADMISSIONS\n(a) Eligibility for Regular Admission. Any attorney who is a member in good standing \nof the North Carolina State Bar is eligible for admission to practice before this Court upon motion \nof a member of the Bar of this Court, which admission shall be granted as a matter of course upon \npayment of all admission fees and taking the prescribed oath. Attorneys already admitted to the \nBars of either the United States District Court for the Eastern District of North Carolina or the \nUnited States District Court for the Middle District of North Carolina may be admitted to the Bar \nof this Court upon tendering the application and fees required by this Rule, together with a copy \nof the Order or Certificate of Admission admitting the attorney to practice in either of the \naforementioned districts.\nCounsel representing governmental or tribal agencies who are members in good standing\nof the Bar of a United States District Court, the Bar of the highest court of any state, or the District\nof Columbia, are neither required to associate local counsel nor required to pay an attorney \nadmission fee. By making an appearance, such attorney agrees to abide by the Local Rules, the \nNorth Carolina Rules of Professional Conduct, and to submit themselves to this Court for the \nenforcement of such rules.",
+          "pages": [
+            45
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-47",
+          "path": [],
+          "type": "paragraph",
+          "text": "47\n(b) Other Types of Admissions. In addition to regular admission, an attorney may be \nadmitted to practice before the Bar of this Court under the following types of admission:\n(1) Pro Hac Vice Admissions. A pro hac vice admission is defined as an \nadmission to the Bar of this Court in a particular case by an attorney who is a member in good \nstanding of the Bar of a United States District Court, the Bar of the highest court of any state, or \nthe District of Columbia Bar. Such candidate must associate local counsel and be accompanied \nby local counsel at all hearings unless otherwise permitted by the Court.\n(2) Special Admissions. A special admission is defined as a conditional \nadmission to the Bar of this Court in a particular case without association of local counsel.\n(3) Nunc Pro Tunc Admissions. A nunc pro tunc admission is defined as \nretroactive admission to the Bar of this Court. A nunc pro tunc admission is normally allowed at \nthe time of a hearing or trial on behalf of an attorney who failed to be admitted to this Bar by \nregular, special, or pro hac vice admission. Nunc pro tunc admission is only temporary admission \nand must be followed up by seeking admission in one of the manners set forth above.\n(c) Procedures and Forms Applicable to Special, Pro Hac Vice, and Nunc Pro Tunc \nAdmissions.\n(1) Special, pro hac vice, and nunc pro tunc admissions are discretionary and\nadditional requirements or expectations for such admissions may be found in the Standing Civil\nOrder of the judge to whom the case is assigned.\n(2) A motion seeking admission under this Rule must be submitted to the Court \nupon the forms prescribed by this Court:",
+          "pages": [
+            46
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-48",
+          "path": [],
+          "type": "paragraph",
+          "text": "48\n(A) The motion must be filed by local counsel;\n(B) The motion must include the e-mail address of the attorney seeking\nadmission; and\n(C) The motion must be accompanied by a District Application Fee plus \nthe National Admission Fee established by the Judicial Conference of the United States.\n(3) Upon admission by the Court, the pro hac vice or special admission attorney \nwill be added to the docket and will receive only electronic notices from the Clerk of Court.\n(4) The Clerk of Court may permit the pre-admission filing of papers at the \nrequest of non-admitted counsel where justice requires; provided, however, further participation \nof such counsel is subject to compliance with this Court’s admission practices.\n(d) An ECF Account Must Be Established After Admission. Any attorney admitted \nto practice before this Court must establish an ECF account with the Clerk of Court before filing \nany documents or cases in this district. To establish an ECF account, an attorney must complete \nECF training in this district or certify that they have completed training in another federal district.\n(e) ECF Requirements Where a Party is Represented by Multiple Attorneys. Each \nattorney appearing of record in any matter must file an individual entry or notice of appearance \nusing the attorney’s ECF User ID issued upon establishment of the ECF account. For example, \nwhere multiple attorneys, either in the same firm or different firms, represent a party, each attorney\nmust file an individual notice of appearance, using the attorney’s own User ID to receive electronic\nnotification of future filings. The electronic filing system does not “read” the names of the \nattorneys who sign a document, but only notes the appearance of attorney(s) whose ECF passwords \nare used to file the document.",
+          "pages": [
+            47
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-49",
+          "path": [],
+          "type": "paragraph",
+          "text": "49\n(f) Withdrawal of Counsel. In support of a motion, counsel seeking to withdraw must \nfile written consent of their client to their withdrawal, which shall become effective only upon \nCourt approval. Absent the client’s consent, withdrawal may be obtained by filing a motion to \nwithdraw, showing good cause for the withdrawal. The motion must include the client’s last \nknown address.\n(g) Substitution of Counsel. Substitution of counsel is accomplished automatically \nwhen the new attorney files a “Notice of Substitution of Counsel,” which automatically terminates \nprevious counsel and substitutes the new attorney as counsel of record.\n(h) Law Student Practice Rule.\n(1) Generally. Law students may participate as counsel in civil and criminal \ncases in this Court subject to compliance with the requirements set forth in this Rule. The judicial \nofficer considering the admission of any student may, however, make such exceptions to this Rule \nas the judicial officer deems just and equitable.\n(2) Student Eligibility. An eligible student must:\n(A) Be duly enrolled in an accredited, provisionally accredited, or\napproved law school;\n(B) Have completed at least half the required credit hours for a juris\ndoctor degree;\n(C) Have a working knowledge of all applicable court rules, including",
+          "pages": [
+            48
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-50",
+          "path": [],
+          "type": "paragraph",
+          "text": "50\nbut not limited to the Federal Rules of Civil and/or Criminal Procedure; the Federal Rules of \nEvidence; the North Carolina Rules of Professional Conduct; and this Court’s Local Rules;\n(D) Be supervised by a supervising attorney, as defined herein;\n(E) Be certified by the dean of the law school (or the dean’s designee) \nwhere the student is enrolled, as:\n(i) Being of good character;\n(ii) Possessing a sufficient legal ability; and\n(iii) Having been adequately trained to fulfill the responsibilities \nto both the client and the Court;\n(F) Be certified by the Court to practice pursuant to this Rule;\n(G) Decline personal compensation for legal services performed in this \nCourt from a client or any other source, except that the student may receive a stipend from a law \nfirm or other employer through an internship or clerkship program that is not contingent on \nservices provided to a client in this Court; and\n(H) Have completed ECF training in this district, or certify that they \nhave completed training in another federal district.\n(3) Supervising Attorney Eligibility and Responsibilities. A supervising\nattorney must:\n(A) Be a member of the Bar of this Court;\n(B) Have established an ECF account before seeking admission of the\nstudent; and\n(C) Have at least two years’ experience as a member of the Bar of this",
+          "pages": [
+            49
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-51",
+          "path": [],
+          "type": "paragraph",
+          "text": "51\nCourt, or\n(i) Maintain faculty, adjunct faculty, or fellowship status at a \nlaw school where part of the supervisor’s duties includes supervising students in a clinical \nprogram; or\n(ii) Have substantial similar experience as an attorney employed \nby the United States Department of Justice, the United States Attorney for the Western District of \nNorth Carolina, the Office of the Federal Defender for the Western District of North Carolina, the \nNorth Carolina Attorney General, or a tribal counsel for the Eastern Band of Cherokee Indians;\n(D) Be certified by the Court as having demonstrated the ability to\nsupervise students;\n(E) Be present with the student at all times while they are in court, and \nat other proceedings in which testimony is taken;\n(F) Co-sign all pleadings or other documents filed with the Court;\n(G) Assume full personal and professional responsibility for a student’s \nguidance, any work undertaken, and the student’s work quality, and be available for consultation \nwith represented clients;\n(H) Assist and counsel the student in the “activities” discussed below \nand review such activities with the student, all to the extent required for proper practical training \nof the student and the protection of the client; and\n(I) Supplement the student’s oral or written work as needed to ensure \nproper representation of the client.",
+          "pages": [
+            50
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-52",
+          "path": [],
+          "type": "paragraph",
+          "text": "52\n(4) Certification of Student and Supervisor after Completion of ECF\nTraining and Establishment of an ECF Account.\n(A) Student. The Court’s certification of a student to practice under this \nRule will be entered with the Clerk of Court and will remain in effect for eighteen (18) months or \nuntil the student graduates from law school, whichever is earlier. The Court may at any time, in \nits discretion and without cause, withdraw certification to appear generally or in a particular case. \nTo assist the Court in maintaining a list of students certified to practice under this Rule, the \nsupervising attorney must notify the Court of the student’s graduation from law school.\n(B) Supervising Attorney. The Court’s certification of the supervising \nattorney will be entered with the Clerk of Court, and will remain in effect indefinitely unless \nwithdrawn by the Court, in its discretion, and without any showing of cause. The Supervising \nAttorney's ECF account will allow the supervisor to accept electronic service on behalf of the \nstudent practicing under this Local Rule.\n(5) Activities. A certified student may, under the supervising attorney’s\nsupervision:\n(A) Represent any client including federal, state, or local governmental \nbodies, if the client on whose behalf the certified student is appearing has consented in writing to \nthat appearance and the supervising attorney has given written approval of that appearance;\n(B) Represent a client in any criminal, civil, or administrative matter; \nhowever, the Court retains the authority to limit a student’s participation in any individual case; \nand\n(C) In connection with matters in this Court, engage in other activities",
+          "pages": [
+            51
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-53",
+          "path": [],
+          "type": "paragraph",
+          "text": "53\non the client’s behalf in all ways a licensed attorney may; however, a student shall make no binding\ncommitments on a client’s behalf, absent prior client and supervisor approval. The supervising \nattorney must accompany the student in any matter involving the taking of testimony, including \ndepositions. The supervising attorney must read, approve, and co-sign documents filed by the \nstudent. The Court may establish exceptions to such activities.\n(6) Scope of Participation Statement. Before a certified student orally \nparticipates in a hearing or trial, the supervising attorney must advise the Court of the scope of \nanticipated participation.\n",
+          "pages": [
+            52
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ncwd-civil-parsed-v1-042bd955ca07cbc9",
+      "sourceDocumentId": "parsed-ncwd-042bd955ca07cbc9",
+      "sourceUrl": "https://www.ncwd.uscourts.gov/sites/default/files/local_rules/Revised%20Local%20Rules%20120122.pdf",
+      "pageIndex": 45,
+      "pageSpan": [
+        45,
+        52
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ncwd-civil:83.2",
+      "collectionId": "ncwd-civil",
+      "districtId": "ncwd",
+      "number": "83.2",
+      "citation": "Western District of North Carolina · Rule 83.2",
+      "title": "ATTORNEY DISCIPLINE AND DISBARMENT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-53",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR 83.2 ATTORNEY DISCIPLINE AND DISBARMENT\n(a) Whenever an attorney who has been admitted to practice before the Court:\n(i) Has engaged in conduct a judge of this Court reasonably believes violates \nthe North Carolina Rules of Professional Conduct or any law or regulation; or\n(ii) Is disbarred or suspended from the practice of law in any court or by any \nstate bar, disciplinary board, or other state licensing agency, a judge of this Court may enter an order\nimmediately suspending that attorney from practice before this Court or taking such other lesser action the \nCourt deems appropriate. Upon entry of such order, the attorney may within 40 days thereof file a \nresponse to the order and show cause as to why the attorney’s admission to practice before this Court \nshould not be revoked or the attorney should not be subject to discipline, and may in such response \nrequest an opportunity to be heard. The appropriate procedure for addressing such response shall be\ndetermined by the Board of Judges. An appropriate order addressing the question of any discipline will be\nentered by the Court after a vote of the Board of Judges.",
+          "pages": [
+            52
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-54",
+          "path": [],
+          "type": "paragraph",
+          "text": "54\n(b) This Rule in no way limits or otherwise affects the authority of a judge of this Court \nto hold an attorney in contempt and award appropriate relief or otherwise impose appropriate \npenalties, fines, or other sanctions.\n(c) This Rule does not apply to special, pro hac vice, or other limited admissions, which \nmay be revoked at any time by a judge in the case in which such admission was allowed.\nAdvisory Committee Notes\nThis new Rule is modeled on the United States Supreme Court’s attorney discipline rule, \nbut certain arcane language in the Supreme Court rule was modified and procedural protections \nwere explained in greater depth. Violations of Court orders and rules are covered in Section (b). \nFor the rare case where attorney discipline becomes an issue, the new Rule is intended to \nprovide a skeletal procedure that is compliant with Due Process and efficient administration of \njustice.\n",
+          "pages": [
+            53
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ncwd-civil-parsed-v1-042bd955ca07cbc9",
+      "sourceDocumentId": "parsed-ncwd-042bd955ca07cbc9",
+      "sourceUrl": "https://www.ncwd.uscourts.gov/sites/default/files/local_rules/Revised%20Local%20Rules%20120122.pdf",
+      "pageIndex": 52,
+      "pageSpan": [
+        52,
+        53
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ncwd-civil:83.3",
+      "collectionId": "ncwd-civil",
+      "districtId": "ncwd",
+      "number": "83.3",
+      "citation": "Western District of North Carolina · Rule 83.3",
+      "title": "USE OF ELECTRONIC DEVICES AND CAMERAS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-54",
+          "path": [],
+          "type": "paragraph",
+          "text": "LCvR 83.3 USE OF ELECTRONIC DEVICES AND CAMERAS \nIN THE COURTHOUSE\n(a) Broadcasts, Photography, and Use of Cameras during Court Proceedings.\n(1) Photography and Electronic Recording Prohibited. The taking of still or \nmoving photographs and/or the audio recording of any Court proceedings in the courtroom or in \nthe corridors immediately adjacent thereto, during the progress of judicial proceedings or during \nany recess, is prohibited. Such prohibition includes, but is not limited to, the transmittal or sound \nrecording of such proceedings for broadcast by radio, television, internet, and social or any other\nmedia.\n(2) Exceptions for Ceremonial and Educational Proceedings. Ceremonial \nproceedings, such as administration of oaths of office, presentation of portraits, investitures, and \nsimilar occasions, may be photographed, broadcast, or televised from the courtroom with the ",
+          "pages": [
+            53
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-55",
+          "path": [],
+          "type": "paragraph",
+          "text": "55\npermission and under the supervision of the Court. Seminars conducted in the courtroom, such as \nContinuing Legal Education seminars, may also be recorded and broadcast by the program sponsor \nunder the Court’s supervision.\n(3) Naturalization Proceedings. During Naturalization Proceedings, \nparticipants, spectators, and the media may bring cameras and cell phone cameras into the \ncourthouse and use such devices during the ceremonies. Such devices are, however, subject to \nscreening by a United States Marshal or Court Security Officer.\n(b) Cell Phones, Computers, and Other Electronic Devices.\n(1) Persons Permitted to Bring Electronic Devices Into the Courthouse. The \nfollowing persons may bring computers, cell phones, and similar electronic devices (hereinafter \n“devices”) into the courthouse after such devices have been screened by the United States Marshal \nService or a Court Security Officer: (1) attorneys; (2) paralegals; (3) federal employees; (4) law \nfirm staff when accompanied by an attorney; (5) state, county, or tribal law enforcement or \nemergency services personnel on official business; (6) jurors who have been selected to serve on \na jury; (7) invited guests of the Court for ceremonial proceedings; and (8) service and delivery \npersonnel. Where a pro se litigant needs to use a personal device during Court proceedings, the \nlitigant should contact the Clerk of Court in advance of that proceeding to secure permission from \nthe Court.\n(2) Prohibited Use. Unless otherwise permitted by this Rule, all devices must \nbe powered off in the courtroom. No device shall be used to record Court proceedings under any \ncircumstances. Use of such devices for voice or video communication from the courtroom or from \nthe corridors near courtrooms is prohibited. Use of devices for purposes of streaming of audio ",
+          "pages": [
+            54
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-56",
+          "path": [],
+          "type": "paragraph",
+          "text": "56\nand/or video and for gaming is also prohibited. Improper use may be treated as a contempt of \nCourt.\n(3) Permitted Use. Where a permitted device has been brought into the\ncourthouse by a permitted person, a device may be used in conjunction with a proceeding, in \npreparation for an upcoming proceeding, and to work on other matters while waiting for upcoming \nproceedings. Use of devices to communicate by e-mail, texting, and instant messaging is permitted \nif the use is not disruptive.\nAdvisory Committee Notes\nThis new Rule, drafted by the Local Rules Courtroom Technology Subcommittee, generally \nprohibits disruptive or unlawful uses of electronic devices while allowing authorized persons to \nwork on their devices in a non-disruptive manner while awaiting upcoming proceedings.",
+          "pages": [
+            55
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ncwd-civil-parsed-v1-042bd955ca07cbc9",
+      "sourceDocumentId": "parsed-ncwd-042bd955ca07cbc9",
+      "sourceUrl": "https://www.ncwd.uscourts.gov/sites/default/files/local_rules/Revised%20Local%20Rules%20120122.pdf",
+      "pageIndex": 53,
+      "pageSpan": [
+        53,
+        55
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    }
+  ],
+  "evidence": [
+    {
+      "number": "1.1",
+      "heading": "LCvR 1.1 APPLICATION OF LOCAL CIVIL RULES",
+      "page": 5,
+      "offset": 36,
+      "slices": [
+        {
+          "page": 5,
+          "start": 36,
+          "end": 454,
+          "sha256": "e649708b5b345b69145b158310814f23eee9de5a52eefd87efec1de720d24e37"
+        }
+      ]
+    },
+    {
+      "number": "3.1",
+      "heading": "LCvR 3.1 FILING FEE, BOND, SECURITY, PROHIBITED SURETIES, PAYMENT",
+      "page": 5,
+      "offset": 454,
+      "slices": [
+        {
+          "page": 5,
+          "start": 454,
+          "end": 1708,
+          "sha256": "d60140ae64d73056005c60ceecf7f641045400bb278ea7afc549db497597e866"
+        },
+        {
+          "page": 6,
+          "start": 0,
+          "end": 1686,
+          "sha256": "f026849026d8fb6b0273e21d482d87035d33bb42217295b66b2b92b7f65153f0"
+        },
+        {
+          "page": 7,
+          "start": 0,
+          "end": 449,
+          "sha256": "bb35e70ea4fcf12b572ec88d39f4119c158a8047de880250176a34d1c73a02f8"
+        }
+      ]
+    },
+    {
+      "number": "4.1.1",
+      "heading": "LCvR 4.1.1 SERVICE OF SUMMONS AND COMPLAINT",
+      "page": 7,
+      "offset": 449,
+      "slices": [
+        {
+          "page": 7,
+          "start": 449,
+          "end": 617,
+          "sha256": "f5b1574a2e8d41058ca6f865bc006c2d217285e203c79cc314afde5e0f6520ef"
+        }
+      ]
+    },
+    {
+      "number": "4.2",
+      "heading": "LCvR 4.2 PUBLICATION OF NOTICE BY THE UNITED STATES IN CIVIL",
+      "page": 7,
+      "offset": 617,
+      "slices": [
+        {
+          "page": 7,
+          "start": 617,
+          "end": 1079,
+          "sha256": "e883323814433c21a6d5d96a0cd85897a91e5cbe14f2d7b21e4d946ed82fd79c"
+        },
+        {
+          "page": 8,
+          "start": 0,
+          "end": 2,
+          "sha256": "aa67a169b0bba217aa0aa88a65346920c84c42447c36ba5f7ea65f422c1fe5d8"
+        }
+      ]
+    },
+    {
+      "number": "4.3",
+      "heading": "LCvR 4.3 WAIVER OF SERVICE UPON CURRENT AND FORMER NORTH",
+      "page": 8,
+      "offset": 2,
+      "slices": [
+        {
+          "page": 8,
+          "start": 2,
+          "end": 1652,
+          "sha256": "9fd64488bba3e2f60f27da729a838e2a7000904c87fe4cb99dd462b716e2a858"
+        },
+        {
+          "page": 9,
+          "start": 0,
+          "end": 1148,
+          "sha256": "40a883fc00ab29d5c6c3418bacadae644ba81bb92a6fadab210ba9a9526358b2"
+        }
+      ]
+    },
+    {
+      "number": "5.2.1",
+      "heading": "LCvR 5.2.1 FILING OF PAPERS, FILING OF REDACTED PLEADINGS, AND",
+      "page": 9,
+      "offset": 1148,
+      "slices": [
+        {
+          "page": 9,
+          "start": 1148,
+          "end": 1901,
+          "sha256": "94a9ff953d411c4b61c27d2df2133e151d18fd20b4cb004d10cfb8c755713ad6"
+        },
+        {
+          "page": 10,
+          "start": 0,
+          "end": 176,
+          "sha256": "f0f1f30b6e68b3e7bd7230a6ead3ecbc143491943b1213e2907ce25dcf77ce27"
+        }
+      ]
+    },
+    {
+      "number": "6.1",
+      "heading": "LCvR 6.1 SEALED FILINGS AND PUBLIC ACCESS",
+      "page": 10,
+      "offset": 176,
+      "slices": [
+        {
+          "page": 10,
+          "start": 176,
+          "end": 1571,
+          "sha256": "6385a53030cad9c7f077833e800e3c8608c5d8be1d813439ba019e5aa47873b1"
+        },
+        {
+          "page": 11,
+          "start": 0,
+          "end": 1802,
+          "sha256": "a0aefb284b6d6a56811db6125fd801777d580bf2b4f6be6488a544e53e9526f4"
+        },
+        {
+          "page": 12,
+          "start": 0,
+          "end": 1532,
+          "sha256": "350eb6275c25f0de1e5d1b29b3b5637dea4c5453ba8d125a6260345c8265d351"
+        }
+      ]
+    },
+    {
+      "number": "7.1",
+      "heading": "LCvR 7.1 MOTIONS IN CIVIL CASES, BRIEF REQUIREMENTS, EXHIBIT",
+      "page": 12,
+      "offset": 1532,
+      "slices": [
+        {
+          "page": 12,
+          "start": 1532,
+          "end": 1919,
+          "sha256": "b2138f71c6333d8482551d6ecca709585b693a2f743f02e0253746453abd71c3"
+        },
+        {
+          "page": 13,
+          "start": 0,
+          "end": 1970,
+          "sha256": "f9f2d5fad7a1ebba240a6bf0ea1bd4831001bf8e4d49eca052c1257c0e274663"
+        },
+        {
+          "page": 14,
+          "start": 0,
+          "end": 1865,
+          "sha256": "b1a60313bbdb33bda69f8a407208ef83487db8b280da158180db7617195a1301"
+        },
+        {
+          "page": 15,
+          "start": 0,
+          "end": 1852,
+          "sha256": "69edd0087e391700b3e6bce8fb7865bf3ffd2ae47755bdaec20434ae53df6a27"
+        },
+        {
+          "page": 16,
+          "start": 0,
+          "end": 3,
+          "sha256": "e6c21e8d260fe71882debdb339d2402a2ca7648529bc2303f48649bce0380017"
+        }
+      ]
+    },
+    {
+      "number": "7.2",
+      "heading": "LCvR 7.2 SOCIAL SECURITY CASES",
+      "page": 16,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 16,
+          "start": 3,
+          "end": 1724,
+          "sha256": "04f1235fd79fb9592f193709fab8a6e4db9634f2f7cbc9dce37c90a5d874ab26"
+        },
+        {
+          "page": 17,
+          "start": 0,
+          "end": 1509,
+          "sha256": "2eeb339378c55dd1b3db80b25cfb5176242773173d42a2ec51758b3c48ca202c"
+        },
+        {
+          "page": 18,
+          "start": 0,
+          "end": 1891,
+          "sha256": "4a93a90b03174b72b332fdcb7c1cfe8525d1c66b0ec95d883000ebdc909bf3d5"
+        },
+        {
+          "page": 19,
+          "start": 0,
+          "end": 390,
+          "sha256": "50bfeb71bf65a4f70a1d53c6751bc4912eb1e58224946d47ac41fdcce226c92f"
+        }
+      ]
+    },
+    {
+      "number": "16.1",
+      "heading": "LCvR 16.1 PRETRIAL CONFERENCES, INITIAL ATTORNEY’S CONFERENCE,",
+      "page": 19,
+      "offset": 390,
+      "slices": [
+        {
+          "page": 19,
+          "start": 390,
+          "end": 1813,
+          "sha256": "2f0825e81aa8bde4a299d192e803f92994362988ca3d9b5e956b7a38c6ed8a16"
+        },
+        {
+          "page": 20,
+          "start": 0,
+          "end": 1908,
+          "sha256": "6fe263e6a58aa312c40d690dd03b4fcee226d6ee8a48f1800ef943ab6a7adaa1"
+        },
+        {
+          "page": 21,
+          "start": 0,
+          "end": 1891,
+          "sha256": "c8351d730c2a71a74289821e566efe2f65c088f5f39491b5f93748f4f7f51931"
+        },
+        {
+          "page": 22,
+          "start": 0,
+          "end": 1607,
+          "sha256": "abb6f13542353f9a77e413df8c99aa931382ec286ac85fc673e6ca4ac465a0a9"
+        }
+      ]
+    },
+    {
+      "number": "16.2",
+      "heading": "LCvR 16.2 MEDIATION OR ALTERNATIVE DISPUTE RESOLUTION (“ADR”)",
+      "page": 22,
+      "offset": 1607,
+      "slices": [
+        {
+          "page": 22,
+          "start": 1607,
+          "end": 2135,
+          "sha256": "e32fcbb5fde1932bf0e56bba2abff7c4ac1a10530eba972104b34dd1daad320b"
+        },
+        {
+          "page": 23,
+          "start": 0,
+          "end": 427,
+          "sha256": "0e8ba0f7f33e81610dfae7ddda825c5519c5c60975783c90173b0710f0fe791b"
+        }
+      ]
+    },
+    {
+      "number": "16.3",
+      "heading": "LCvR 16.3 RULES APPLICABLE TO MEDIATION OR ADR",
+      "page": 23,
+      "offset": 427,
+      "slices": [
+        {
+          "page": 23,
+          "start": 427,
+          "end": 1407,
+          "sha256": "b632e900d7a590f013ca73c8957ad8d014672c28dce8bf949ceeeeba3088bcfc"
+        },
+        {
+          "page": 24,
+          "start": 0,
+          "end": 1733,
+          "sha256": "d0d34ef411ea379ad4cd4c73f68d63a730ca1be4927659b179f97b77a2027a16"
+        },
+        {
+          "page": 25,
+          "start": 0,
+          "end": 1731,
+          "sha256": "dae7b4fd68aa2304817758d2b9d1ccbbdb6b9be9aa10e00f72973b1f3e452f38"
+        },
+        {
+          "page": 26,
+          "start": 0,
+          "end": 374,
+          "sha256": "9497ac39bd8925d22c4d7f240650560c4f02ff6c631ef99b7b2c3eb371d57c24"
+        }
+      ]
+    },
+    {
+      "number": "16.4",
+      "heading": "LCvR 16.4 PRO SE SETTLEMENT ASSISTANCE PROGRAM",
+      "page": 26,
+      "offset": 374,
+      "slices": [
+        {
+          "page": 26,
+          "start": 374,
+          "end": 1422,
+          "sha256": "53f1e9e9db57c7d8a2d2254c1ef2bab0f956b5b9fd1f300e6eacb3ec97beff11"
+        },
+        {
+          "page": 27,
+          "start": 0,
+          "end": 1600,
+          "sha256": "ffbbdafbfb165b6618a612b9bb5770a3c281b4cdf1453ed0f35bb7038ccde0c3"
+        },
+        {
+          "page": 28,
+          "start": 0,
+          "end": 200,
+          "sha256": "e38c6c76943c97ac3c2ec6bf4ef3af390fe0d392e83a7fb0296693e50bb0f0d7"
+        }
+      ]
+    },
+    {
+      "number": "26.1",
+      "heading": "LCvR 26.1 COMMENCEMENT OF DISCOVERY",
+      "page": 28,
+      "offset": 200,
+      "slices": [
+        {
+          "page": 28,
+          "start": 200,
+          "end": 917,
+          "sha256": "e1baa1bdec5c7bb940ef7023513aa7412976374f72a33feac95cf3f036f0e973"
+        }
+      ]
+    },
+    {
+      "number": "26.2",
+      "heading": "LCvR 26.2 DISCOVERY MATERIAL NOT TO BE FILED UNLESS ORDERED OR",
+      "page": 28,
+      "offset": 917,
+      "slices": [
+        {
+          "page": 28,
+          "start": 917,
+          "end": 1557,
+          "sha256": "bca3e5baa751e53eab089797002988211aa785caae496c55d0a34af1cbf1d7df"
+        },
+        {
+          "page": 29,
+          "start": 0,
+          "end": 386,
+          "sha256": "c0479f92995ff09adefa7a8858c04ef3ce99664c1180fc862d18194cec8822ee"
+        }
+      ]
+    },
+    {
+      "number": "42.1",
+      "heading": "LCvR 42.1 MOTION FOR CONSOLIDATION OF CASES",
+      "page": 29,
+      "offset": 386,
+      "slices": [
+        {
+          "page": 29,
+          "start": 386,
+          "end": 862,
+          "sha256": "956d2c18fb96c4447d82928324e4d543fcee27944e3f2172848a693bcb33f948"
+        }
+      ]
+    },
+    {
+      "number": "45.1",
+      "heading": "LCvR 45.1 PRODUCTION OF SUBPOENAED MATERIAL BY CERTAIN NON￾PARTIES, CUSTODIANS OF RECORDS",
+      "page": 29,
+      "offset": 862,
+      "slices": [
+        {
+          "page": 29,
+          "start": 862,
+          "end": 1544,
+          "sha256": "5a79e7a93c13418c5cba6397d4723fc908dfdd9cb4a73aee7c90de30fe299677"
+        },
+        {
+          "page": 30,
+          "start": 0,
+          "end": 1938,
+          "sha256": "d357deef8657e250d5002118d14b35c744207db168d7f0cdbe6682625a05e8b1"
+        },
+        {
+          "page": 31,
+          "start": 0,
+          "end": 1569,
+          "sha256": "d4e735b0ddde87fbc46da2c13a3037b5e1aff793883aea3ae2431b6243987d92"
+        },
+        {
+          "page": 32,
+          "start": 0,
+          "end": 3,
+          "sha256": "2115cdb6bfcfb008eb2bab2bb79347cb064a48e4e7c4115ccbe4469c787bb6c4"
+        }
+      ]
+    },
+    {
+      "number": "45.2",
+      "heading": "LCvR 45.2 NOTICE OF DOCUMENT SUBPOENA TO NON-PARTY",
+      "page": 32,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 32,
+          "start": 3,
+          "end": 983,
+          "sha256": "f16e3ad28b40db6f2176d4a8c2ea781501745c48c4e1654c23bc183401b7463f"
+        }
+      ]
+    },
+    {
+      "number": "47.1",
+      "heading": "LCvR 47.1 CONTACT WITH JURORS BEFORE TRIAL AND DURING VOIR DIRE",
+      "page": 32,
+      "offset": 983,
+      "slices": [
+        {
+          "page": 32,
+          "start": 983,
+          "end": 1838,
+          "sha256": "0feeca7e5d42ef55a7fd1e8ba52c2219008760e27cceaecadd9d8768df29b5eb"
+        },
+        {
+          "page": 33,
+          "start": 0,
+          "end": 1327,
+          "sha256": "66c4d4933457713599954e457e7a80f000f412371a3bdd5d210536eccbf2970c"
+        },
+        {
+          "page": 34,
+          "start": 0,
+          "end": 3,
+          "sha256": "ea243e5457028e97f9bc93b37a72f8e80ea61ae081911bb037765590ee6aa435"
+        }
+      ]
+    },
+    {
+      "number": "54.1",
+      "heading": "LCvR 54.1 TAXATION OF COSTS OTHER THAN ATTORNEY FEES",
+      "page": 34,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 34,
+          "start": 3,
+          "end": 1598,
+          "sha256": "97ed39ff151e3e1d9b3eeeee92c6f98e7989ba880fa04687e93de9b8eeac2aed"
+        },
+        {
+          "page": 35,
+          "start": 0,
+          "end": 1254,
+          "sha256": "009ccc469040e7e8a7e043071ed63b923f17e5efa791ba34b73a0fcb390d2375"
+        },
+        {
+          "page": 36,
+          "start": 0,
+          "end": 1591,
+          "sha256": "021dccc4547827c1cd20be1973d793cf2e6216366915411af116f0d9fb04f0ac"
+        },
+        {
+          "page": 37,
+          "start": 0,
+          "end": 3,
+          "sha256": "b58a3da5fde2680191877ec88a1aa7d06927cc3b30cdf0d0db8c39b488891576"
+        }
+      ]
+    },
+    {
+      "number": "67.1",
+      "heading": "LCvR 67.1 REGISTRY FUNDS",
+      "page": 37,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 37,
+          "start": 3,
+          "end": 1564,
+          "sha256": "1881a03d6b04d9e93ece237c256554100288a86dfc51d7c12a8b1d9ae0f691ca"
+        },
+        {
+          "page": 38,
+          "start": 0,
+          "end": 1843,
+          "sha256": "83798d9a88514affd1902bf769c1edcf7a298cb1b9f8d56a65427dff77fd9a88"
+        },
+        {
+          "page": 39,
+          "start": 0,
+          "end": 1773,
+          "sha256": "ce5ff3ae4a5014528c5ab13e4f880bc212a70a189c4930ec92f45302cff1a67f"
+        },
+        {
+          "page": 40,
+          "start": 0,
+          "end": 1493,
+          "sha256": "25e0e85f766edcc4a934bf435a981f87cd37d705e4005beca76aebadd0cbb758"
+        },
+        {
+          "page": 41,
+          "start": 0,
+          "end": 3,
+          "sha256": "040316eca5e77dbb2212c1efe8b81cb23bc67ce0ac8cb5c9d902d98bd45ddfa1"
+        }
+      ]
+    },
+    {
+      "number": "72.1",
+      "heading": "LCvR 72.1 AUTHORITY OF UNITED STATES MAGISTRATE JUDGES IN CIVIL",
+      "page": 41,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 41,
+          "start": 3,
+          "end": 1562,
+          "sha256": "e886449603044f095107ad12fc6f3b9ac792dbbbefa95fe335ecff7cd285e07a"
+        },
+        {
+          "page": 42,
+          "start": 0,
+          "end": 828,
+          "sha256": "72e50f79c586e2abf5a28d86236cd1853b5b78d7930ac2762ae8d95f5c29ba52"
+        }
+      ]
+    },
+    {
+      "number": "73.1",
+      "heading": "LCvR 73.1 TRIAL BY CONSENT BEFORE A UNITED STATES MAGISTRATE",
+      "page": 42,
+      "offset": 828,
+      "slices": [
+        {
+          "page": 42,
+          "start": 828,
+          "end": 1488,
+          "sha256": "7a565c0d06fbf5d7cda7f223d086355141bc5100b328d43194c67113a812baea"
+        },
+        {
+          "page": 43,
+          "start": 0,
+          "end": 1964,
+          "sha256": "1ce185ea95be821eddfd2f5365b953523f189c885265ac9ba6a4f5931dacf451"
+        },
+        {
+          "page": 44,
+          "start": 0,
+          "end": 110,
+          "sha256": "67121541ad2f65c0d78f4cf6fb54472efe14bdc1f872835d446591fd1ed9ed03"
+        }
+      ]
+    },
+    {
+      "number": "77.1",
+      "heading": "LCvR 77.1 ORDERS AND JUDGMENTS THE CLERK OF COURT MAY GRANT",
+      "page": 44,
+      "offset": 110,
+      "slices": [
+        {
+          "page": 44,
+          "start": 110,
+          "end": 1049,
+          "sha256": "c2a3bcc6c40b4918a875e2d6589784afe9bdf2486a8b9c3c6a22c59fdd1d5fa5"
+        }
+      ]
+    },
+    {
+      "number": "79.1",
+      "heading": "LCvR 79.1 PRESENTATION, CUSTODY, AND DISPOSITION OF EVIDENCE,",
+      "page": 44,
+      "offset": 1049,
+      "slices": [
+        {
+          "page": 44,
+          "start": 1049,
+          "end": 1488,
+          "sha256": "22e955298f62aebb5dadac5f45e868775550459fdef4a86bb1454a221eb55fe7"
+        },
+        {
+          "page": 45,
+          "start": 0,
+          "end": 1878,
+          "sha256": "56568eb0882f83add86969e9fbc08ab5b001c3f4a0f0008839625788da709275"
+        },
+        {
+          "page": 46,
+          "start": 0,
+          "end": 312,
+          "sha256": "8c524dd0712916a1ede415408b9481ecf32655a90b25e73f6776fb104389da08"
+        }
+      ]
+    },
+    {
+      "number": "83.1",
+      "heading": "LCvR 83.1 ATTORNEY ADMISSION AND ELIGIBILITY, ESTABLISHMENT OF AN",
+      "page": 46,
+      "offset": 312,
+      "slices": [
+        {
+          "page": 46,
+          "start": 312,
+          "end": 1745,
+          "sha256": "7c06687c22c2729737f03f87ef81873e5c14efcb6f6cc5029ce9ba797fd40a22"
+        },
+        {
+          "page": 47,
+          "start": 0,
+          "end": 1666,
+          "sha256": "9fb1be7224474a982c8b986d7e93925618d5b3fbf2e39bcc81b59a27b8064d56"
+        },
+        {
+          "page": 48,
+          "start": 0,
+          "end": 1800,
+          "sha256": "132f2bc775c1f4688bead4f5c2bdaa8122214b4dc8d4d0858c77d600e76f7bf5"
+        },
+        {
+          "page": 49,
+          "start": 0,
+          "end": 1297,
+          "sha256": "19243f74874280e781cfbf5bca06d0ee92b5a35886aeb1afb7d2414a84cebef8"
+        },
+        {
+          "page": 50,
+          "start": 0,
+          "end": 1325,
+          "sha256": "6808af83cc73d47d45d425dfbcbcc7045a1e4f8b619e2c8a6874037af8021487"
+        },
+        {
+          "page": 51,
+          "start": 0,
+          "end": 1359,
+          "sha256": "4d5a422de67743d162a487a7405d9378492e044bac0954caf517d47a0d5542e2"
+        },
+        {
+          "page": 52,
+          "start": 0,
+          "end": 1687,
+          "sha256": "09dfab22bb9eeb833d90b0614cdf891d8dcf8f13c014a7240736dd565061270c"
+        },
+        {
+          "page": 53,
+          "start": 0,
+          "end": 654,
+          "sha256": "d6823524a1cefc4ac3e0b0ca28b0c7ea9395e8a611d1e2ff4df5a4e46a92dbde"
+        }
+      ]
+    },
+    {
+      "number": "83.2",
+      "heading": "LCvR 83.2 ATTORNEY DISCIPLINE AND DISBARMENT",
+      "page": 53,
+      "offset": 654,
+      "slices": [
+        {
+          "page": 53,
+          "start": 654,
+          "end": 1793,
+          "sha256": "d4c7aedca158a12cd97f60bd4347c6968b5b8d2724fa36a02deb9724c01fc877"
+        },
+        {
+          "page": 54,
+          "start": 0,
+          "end": 910,
+          "sha256": "57f23626687e92dcbff745331492a5f1eb54a5cbe62e12c94ecf4d2d3792584c"
+        }
+      ]
+    },
+    {
+      "number": "83.3",
+      "heading": "LCvR 83.3 USE OF ELECTRONIC DEVICES AND CAMERAS",
+      "page": 54,
+      "offset": 910,
+      "slices": [
+        {
+          "page": 54,
+          "start": 910,
+          "end": 1797,
+          "sha256": "4e8f786875eb095486c79c19db509f87ab31685fe10c083d814ab87143557b06"
+        },
+        {
+          "page": 55,
+          "start": 0,
+          "end": 1837,
+          "sha256": "d4246baceb0fc123cf5e40c9260f81a37118db74f4a7015b78e2df689c4b9b87"
+        },
+        {
+          "page": 56,
+          "start": 0,
+          "end": 789,
+          "sha256": "650b8c6d3da4a6283697ec26975a7c15e01287f1a8683a7390ffa4222e5a87a7"
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "startPage": 5,
+    "startOffset": 36,
+    "endPage": 56,
+    "endOffset": 789,
+    "ruleCount": 28,
+    "tocReconciled": false,
+    "editorialReviewComplete": false,
+    "currencyReviewed": false,
+    "flags": [
+      "Source extraction contains unresolved characters; consult the original publication."
+    ],
+    "excluded": "Source material outside the recorded range remains available in the district source library."
+  },
+  "transcriptionSha256": "25b44717de4e5230d7cd59e225e4ca6e2aa03ac7c4e0bcdede34e3291f313b0c"
+}

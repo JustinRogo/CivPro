@@ -1,0 +1,2751 @@
+{
+  "version": 1,
+  "reviewStatus": "parsed-draft",
+  "districtId": "vtd",
+  "sourceDocument": {
+    "id": "8048666fab25b6a7",
+    "title": "Local Rules of Procedure",
+    "format": "pdf",
+    "role": "primary",
+    "sourceUrl": "https://www.vtd.uscourts.gov/sites/vtd/files/LocalRules-20260420.pdf",
+    "sha256": "8048666fab25b6a7f9e35bd7fd8f486cca1041c9d5d047fd81c89338630300fa",
+    "bytes": 290057,
+    "retrievedAt": "2026-09-07T00:02:28.847597+00:00",
+    "snapshotPath": "sources/district-snapshots/8048666fab25b6a7f9e35bd7fd8f486cca1041c9d5d047fd81c89338630300fa.pdf",
+    "textPath": "data/source-library/8048666fab25b6a7f9e35bd7fd8f486cca1041c9d5d047fd81c89338630300fa.json",
+    "pdfPath": "data/source-pdfs/8048666fab25b6a7f9e35bd7fd8f486cca1041c9d5d047fd81c89338630300fa.pdf",
+    "pageCount": 60,
+    "reviewStatus": "source-document-only",
+    "blankTextPages": 0
+  },
+  "collection": {
+    "id": "vtd-civil",
+    "name": "District of Vermont Local Rules",
+    "shortName": "Local rules · draft",
+    "districtId": "vtd",
+    "scopeNote": "Civil and generally applicable local rules; unparsed supplements remain in the source library. Rule boundaries and transcription are drafts. Embedded notes, forms, and running headers may remain within rule text; subsection anchors and field-separated notes are not yet reviewed."
+  },
+  "provisions": [
+    {
+      "id": "vtd-civil:1",
+      "collectionId": "vtd-civil",
+      "districtId": "vtd",
+      "number": "1",
+      "citation": "District of Vermont · Rule 1",
+      "title": "Scope and Purpose; Definitions.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-9",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 1. Scope and Purpose; Definitions.\n(a) Scope and Purpose. These local rules supplement the Federal Rules of Civil Procedure. \nBoth sets of rules apply to civil actions in this district unless they conflict with each other or with\nany statute of the United States, in which event the Federal Rules of Civil Procedure or the statute\ngoverns. Any party asserting a conflict must call it to the court’s attention in writing and suggest\nan equitable resolution.\n(b) Effective Date. These rules become effective as revised on January 3, 2014 and supersede all\nprevious rules and related general orders promulgated by this court.\n(c) Definitions.\n(1) Judge. In these rules, “Judge” means:\n(A) a judge of this court;\n(B) a judge assigned to this court; or\n(C) a magistrate judge performing authorized duties in this court.\n(2) Clerk. In these rules, “Clerk” means:\n(A) the clerk of this court; or\n(B) any deputy clerk or assistant authorized by the clerk.\n",
+          "pages": [
+            8
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vtd-civil-parsed-v1-8048666fab25b6a7",
+      "sourceDocumentId": "parsed-vtd-8048666fab25b6a7",
+      "sourceUrl": "https://www.vtd.uscourts.gov/sites/vtd/files/LocalRules-20260420.pdf",
+      "pageIndex": 8,
+      "pageSpan": [
+        8,
+        8
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vtd-civil:3",
+      "collectionId": "vtd-civil",
+      "districtId": "vtd",
+      "number": "3",
+      "citation": "District of Vermont · Rule 3",
+      "title": "Materials to Accompany a Complaint.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-9",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 3. Materials to Accompany a Complaint.\n(a) Filing. To institute a civil action, a plaintiff must submit the following to the court: \n(1) the original complaint;\n(2) the filing fee or a motion and affidavit to proceed in forma pauperis;\n(3) a Civil Cover Sheet [form JS 44];\n(4) When applicable, a Notice of Lawsuit and Request for Waiver of Service [AO 398 \nor Fed. R. Civ. P. Form 5] for each defendant;\n1",
+          "pages": [
+            8
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-10",
+          "path": [],
+          "type": "paragraph",
+          "text": "(5) When applicable, a Waiver of Service of Summons [AO 399 or Fed. R. Civ. P. \nForm 6] for each defendant.\n(b) Waiver of Service. When sent to a defendant, the Notice of Lawsuit and Waiver of Service\nforms must be accompanied by a means for cost-free return of the forms back to the plaintiff after\nsigning. Executed Waiver of Service of Summons forms must be filed with the Clerk’s Office by\nthe plaintiff.\n(c) In Forma Pauperis Status. The granting of in forma pauperis status waives the cost of filing\nand serving the complaint, but not litigation expenses unless provided by statute. A party seeking\nto proceed in forma pauperis should refer to the Application to Proceed In Forma Pauperis\navailable on the court's website.\n",
+          "pages": [
+            9
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vtd-civil-parsed-v1-8048666fab25b6a7",
+      "sourceDocumentId": "parsed-vtd-8048666fab25b6a7",
+      "sourceUrl": "https://www.vtd.uscourts.gov/sites/vtd/files/LocalRules-20260420.pdf",
+      "pageIndex": 8,
+      "pageSpan": [
+        8,
+        9
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vtd-civil:4",
+      "collectionId": "vtd-civil",
+      "districtId": "vtd",
+      "number": "4",
+      "citation": "District of Vermont · Rule 4",
+      "title": "Summons.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-10",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 4. Summons.\n(a) Summons. Subject to Fed. R. Civ. P. 4(d), the plaintiff may request a formal summons from\nthe court [AO 440 or Fed. R. Civ. P. Form 3].\n(b) Third-Party Summons. A defending party may request a third-party summons from the\ncourt [AO 441 or Fed. R. Civ. P. Form 4].\n",
+          "pages": [
+            9
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vtd-civil-parsed-v1-8048666fab25b6a7",
+      "sourceDocumentId": "parsed-vtd-8048666fab25b6a7",
+      "sourceUrl": "https://www.vtd.uscourts.gov/sites/vtd/files/LocalRules-20260420.pdf",
+      "pageIndex": 9,
+      "pageSpan": [
+        9,
+        9
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vtd-civil:5",
+      "collectionId": "vtd-civil",
+      "districtId": "vtd",
+      "number": "5",
+      "citation": "District of Vermont · Rule 5",
+      "title": "Electronic Filing.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-10",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 5. Electronic Filing. \n(a) Voluntary Electronic Filing. Electronic filing is voluntary.\n(b) Electronic Filing Procedures. Electronic filings must comply with the court’s\nAdministrative Procedures for Electronic Case Filing located on the court’s website:\nhttp://www.vtd.uscourts.gov. Additional information regarding electronic filing is available from\nthe Electronic Filing Help Desk at <CMECFHelpDesk@vtd.uscourts.gov> or \n(802) 951-8123. \n2",
+          "pages": [
+            9
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vtd-civil-parsed-v1-8048666fab25b6a7",
+      "sourceDocumentId": "parsed-vtd-8048666fab25b6a7",
+      "sourceUrl": "https://www.vtd.uscourts.gov/sites/vtd/files/LocalRules-20260420.pdf",
+      "pageIndex": 9,
+      "pageSpan": [
+        9,
+        9
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vtd-civil:5.2",
+      "collectionId": "vtd-civil",
+      "districtId": "vtd",
+      "number": "5.2",
+      "citation": "District of Vermont · Rule 5.2",
+      "title": "Sealed Documents; Procedure.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-11",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 5.2. Sealed Documents; Procedure.\n(a) Order Required. Cases or court documents cannot be sealed without a court order. \nOtherwise, all official files in the court’s possession are public documents. \n(b) Procedure. In order to seal a document, a party must:\n(1) file a separate motion for each document; \n(2) place the document in a sealed envelope;\n(3) affix a copy of the document’s cover page (with confidential information redacted) to\nthe outside of the envelope; and \n(4) conspicuously mark the envelope with “SEALED DOCUMENT” or the equivalent.\n",
+          "pages": [
+            10
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vtd-civil-parsed-v1-8048666fab25b6a7",
+      "sourceDocumentId": "parsed-vtd-8048666fab25b6a7",
+      "sourceUrl": "https://www.vtd.uscourts.gov/sites/vtd/files/LocalRules-20260420.pdf",
+      "pageIndex": 10,
+      "pageSpan": [
+        10,
+        10
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vtd-civil:7",
+      "collectionId": "vtd-civil",
+      "districtId": "vtd",
+      "number": "7",
+      "citation": "District of Vermont · Rule 7",
+      "title": "Motions.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-11",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 7. Motions.\n(a) Generally.\n(1) Title. The court will not consider any motion unless it contains the word “motion” in\nthe title.\n(2) Memorandum in Support. Unless presented at trial, all written motions must be\naccompanied by, or contain, a memorandum of law concisely stating the legal contentions\nand supporting authorities. A copy of each motion and memorandum must be served on\nall opposing parties.\n(3) Memorandum in Opposition. Unless the judge extends the deadline: \n(A) a memorandum opposing dispositive motions, such as a motion to dismiss or\nmotion for summary judgment, must be filed no more than 30 days after the\nmotion is served; \n(B) a memorandum in opposition to all other motions must be filed no more than\n14 days after the motion is served.\n(4) Length of Memorandum. Unless the judge grants prior leave:\n(A) a memorandum supporting or opposing a dispositive motion must not exceed\n25 pages, excluding exhibits and attachments; and \n(B) a memorandum supporting or opposing a non-dispositive motion must not\nexceed 15 pages, excluding exhibits and attachments. \n3",
+          "pages": [
+            10
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-12",
+          "path": [],
+          "type": "paragraph",
+          "text": "(5) Reply Memorandum. A reply memorandum must: \n(A) be filed no more than 14 days after an opposing memorandum; and \n(B) not exceed 10 pages, excluding exhibits and attachments. \n(6) Oral Argument. Motions are decided without oral argument unless scheduled by the\nCourt. Parties may make a written request for oral argument, which is subject to the\ndiscretion of the presiding judge.\n(7) Attempt to Reach Agreement. A party filing a non-dispositive motion must certify\nthat the party has made a good faith attempt to obtain the opposing party’s agreement to\nthe requested relief. If obtained, the statement of agreement must be in the body of the\nmotion, and the word “Stipulated” must be in the document caption. This requirement\ndoes not apply to motions involving incarcerated pro se litigants. \n(8) Pending Matters in Stayed Cases. When the court grants a stay, it may dismiss any\npending motions without prejudice.\n(b) Motion for Continuance of Trial. A motion to continue a trial must contain counsel’s\ncertification that the represented party has been notified of the request.\n(c) Motion for Reconsideration. A motion to reconsider a court order, other than one governed\nby Fed. R. Civ. P. 59 or 60, must be filed within 14 days from the date of the order.\n",
+          "pages": [
+            11
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vtd-civil-parsed-v1-8048666fab25b6a7",
+      "sourceDocumentId": "parsed-vtd-8048666fab25b6a7",
+      "sourceUrl": "https://www.vtd.uscourts.gov/sites/vtd/files/LocalRules-20260420.pdf",
+      "pageIndex": 10,
+      "pageSpan": [
+        10,
+        11
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vtd-civil:7.1",
+      "collectionId": "vtd-civil",
+      "districtId": "vtd",
+      "number": "7.1",
+      "citation": "District of Vermont · Rule 7.1",
+      "title": "Corporate Disclosure; Purpose.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-12",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 7.1. Corporate Disclosure; Purpose. \n(a) Corporate Disclosure. In addition to the disclosures required by Fed. R. Civ. P. 7.1, a non￾governmental corporate party or a non-governmental party that seeks to intervene must file a\nstatement identifying:\n(1) any subsidiary (except wholly-owned subsidiaries); and \n(2) any affiliate that has issued shares of ownership to the public. \n(b) Purpose. This requirement is intended to assist the court in determining whether conflicts￾of-interest might disqualify the judge from the case. Counsel may obtain information regarding a\njudge’s financial interests by a written request to the clerk.\n4",
+          "pages": [
+            11
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vtd-civil-parsed-v1-8048666fab25b6a7",
+      "sourceDocumentId": "parsed-vtd-8048666fab25b6a7",
+      "sourceUrl": "https://www.vtd.uscourts.gov/sites/vtd/files/LocalRules-20260420.pdf",
+      "pageIndex": 11,
+      "pageSpan": [
+        11,
+        11
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vtd-civil:9",
+      "collectionId": "vtd-civil",
+      "districtId": "vtd",
+      "number": "9",
+      "citation": "District of Vermont · Rule 9",
+      "title": "Pleading Social Security Cases; Bankruptcy Appeals.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-13",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 9. Pleading Social Security Cases; Bankruptcy Appeals.\n(a) Social Security Cases. The following procedures govern all actions challenging a final\ndecision of the Commissioner of the Social Security Administration filed under the Social\nSecurity Act, 42 U.S.C. § 405. \n(1) Time for Filing Answer. Within 60 days after notice of the action is given under Rule\n3, the Commissioner must serve and file:\n(A) an answer, which may be limited to a certified copy of the administrative\nrecord (and may be filed in electronic form), and to any affirmative defenses under\nCivil Rule 8(c). Civil Rule 8(b) does not apply. \n(2) Motion for Order Reversing the Commissioner’s Decision. Within 30 days after the\nCommissioner files an answer, the plaintiff must serve and file:\n(A) a Motion for Order Reversing the Commissioner’s Decision or for other relief;\nand\n(B) a supporting memorandum.\n(3) Motion for Order Affirming the Commissioner’s Decision. Within 30 days after the\nplaintiff files the Motion for Order Reversing the Commissioner’s Decision, the\nCommissioner must serve and file:\n(A) a Motion for Order Affirming the Decision of the Commissioner or for other\nrelief; and\n(B) a supporting memorandum.\n(4) Reply Memorandum. Within 14 days after the Commissioner files the Motion for\nOrder Affirming the Commissioner’s Decision, the plaintiff may serve and file a reply.\n(5) Further Reply Memorandum. If the plaintiff raises new issues or arguments in a\nreply memorandum, the Commissioner may serve and file a sur-reply within 14 days after\nservice of the reply memorandum.\n(6) Content of Motions and Memoranda. \n(A) Motions and memoranda must not exceed a total of 25 pages, and must meet\nthe formatting requirements of Rule 10(a). \n(B) The first section of the memorandum must include a summary of the case’s\nprocedural history and a brief summary of the relevant background facts, with page\n5",
+          "pages": [
+            12
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-14",
+          "path": [],
+          "type": "paragraph",
+          "text": "citations to the administrative record.\n(C) The second section of the memorandum must include a concise statement of\neach issue for review, similar to an appellate brief; and must present the argument,\ndiscussing each issue in a separate subsection. The argument shall refer to the\npertinent facts, if any, and shall include specific page citations to the administrative\nrecord for supporting evidence. \n(b) Bankruptcy Appeals. \n(1) Filing. To appeal a bankruptcy judgment, the appellant must submit the following to\nthe bankruptcy court clerk within 14 calendar days after the court’s final judgment, order,\nor decree:\n(A) a notice of appeal; and\n(B) a fee for each notice of appeal (refer to Bankruptcy fee schedule).\n(2) Parties to Assist Bankruptcy Clerk with Transmitting Record. The designating party\nmust comply with any request by the bankruptcy court clerk to facilitate the assembly and\ntransmission of the record to the district court within 30 calendar days after filing the\ndesignation. A judge may dismiss the appeal or take other appropriate action for failure to\ncomply with this provision, including, but not limited to, failing to provide all copies of\ndesignated items or failing to notify or prepay the bankruptcy clerk for copy or filing fees.\n(c) Interlocutory Bankruptcy Appeals. \n(1) Filing. To appeal a decision in a pending bankruptcy action, a party must file the\nfollowing with the bankruptcy court clerk:\n(A) a motion for leave to appeal;\n(B) a notice of appeal; and\n(C) a notice of appeal fee (refer to Bankruptcy fee schedule).\n(2) If Granted. If the court grants the motion for leave to appeal, the appellant must pay\nan additional filing fee to the bankruptcy court clerk (refer to Bankruptcy fee schedule). \n(d) Withdrawal of Reference.\n6",
+          "pages": [
+            13
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-15",
+          "path": [],
+          "type": "paragraph",
+          "text": "(1) Filing. To file a motion for withdrawal of reference of a case or proceeding, a party\nmust submit the following to the bankruptcy court clerk:\n(A) a clear statement that the party is seeking relief from the district court; and\n(B) a filing fee (refer to Bankruptcy fee schedule).\n(2) Opposition. A party opposing withdrawal of reference must file an opposition paper\nwithin 14 calendar days after service of the motion for withdrawal of reference. The\nmoving party has 14 calendar days after service of the opposition to file a reply.\n(3) District Court Assignment. A district judge will be assigned according to the court’s\nusual system for assigning civil cases. Contested motions for withdrawal of reference\nreceive a civil case number. Uncontested motions for withdrawal receive a miscellaneous\ncase number.\n(4) Notification of Bankruptcy Court Clerk. The district court clerk must notify the\nbankruptcy court clerk of the case number and the assigned judge.\n",
+          "pages": [
+            14
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vtd-civil-parsed-v1-8048666fab25b6a7",
+      "sourceDocumentId": "parsed-vtd-8048666fab25b6a7",
+      "sourceUrl": "https://www.vtd.uscourts.gov/sites/vtd/files/LocalRules-20260420.pdf",
+      "pageIndex": 12,
+      "pageSpan": [
+        12,
+        14
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vtd-civil:10",
+      "collectionId": "vtd-civil",
+      "districtId": "vtd",
+      "number": "10",
+      "citation": "District of Vermont · Rule 10",
+      "title": "Format of Pleadings, Motions and Other Papers.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-15",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 10. Format of Pleadings, Motions and Other Papers.\n(a) Size and Format. Filings and attachments must:\n(1) be of 8 ½ x 11 inch size;\n(2) be plainly legible, whether keyed, typed, handwritten, or duplicated;\n(3) have at least 1 inch margins;\n(4) be no less than 12 point font;\n(5) be consecutively numbered;\n(6) be double-spaced, except for quoted material;\n(7) use footnotes sparingly; and\n(8) be paper-clipped or otherwise attached to facilitate scanning.\n(b) Facsimile Filings. \n(1) Prior Authorization for Facsimile Filing. The clerk’s office does not accept filings\nby facsimile without prior authorization from the court. \n(2) Filing Date. The filing date is the date the clerk’s office adequately receives the\ntransmission.\n7",
+          "pages": [
+            14
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "(3) Filing Original Document. Parties must file the original document within 3 business\ndays of receipt of the facsimile.\n(c) Affidavits and Declarations. An affidavit or declaration must identify the title of the\ndocument to which it relates.\n",
+          "pages": [
+            15
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vtd-civil-parsed-v1-8048666fab25b6a7",
+      "sourceDocumentId": "parsed-vtd-8048666fab25b6a7",
+      "sourceUrl": "https://www.vtd.uscourts.gov/sites/vtd/files/LocalRules-20260420.pdf",
+      "pageIndex": 14,
+      "pageSpan": [
+        14,
+        15
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vtd-civil:11",
+      "collectionId": "vtd-civil",
+      "districtId": "vtd",
+      "number": "11",
+      "citation": "District of Vermont · Rule 11",
+      "title": "Appearances; Pro Se or Otherwise; Withdrawal of Counsel.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 11. Appearances; Pro Se or Otherwise; Withdrawal of Counsel.\n(a) By Individuals. A party appearing pro se must:\n(1) declare pro se status in the initial filing or in the notice of pro se appearance form; \n(2) appear personally;\n(3) not authorize another person to appear on his or her behalf; and\n(4) include the words “pro se” after the party’s signature on all filings.\n(b) By Corporations. A corporation or unincorporated association may not appear pro se in any\nproceeding.\n(c) Change of Address. An attorney or pro se party must notify the court of any change of\naddress or telephone number.\n(d) Withdrawal of Counsel. An attorney may not withdraw until:\n(1) replacement counsel has entered an appearance, or a party has declared its pro se \nstatus under section (a); \n(2) the attorney files a motion to withdraw; and\n(3) the court grants the motion to withdraw.\n",
+          "pages": [
+            15
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vtd-civil-parsed-v1-8048666fab25b6a7",
+      "sourceDocumentId": "parsed-vtd-8048666fab25b6a7",
+      "sourceUrl": "https://www.vtd.uscourts.gov/sites/vtd/files/LocalRules-20260420.pdf",
+      "pageIndex": 15,
+      "pageSpan": [
+        15,
+        15
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vtd-civil:15",
+      "collectionId": "vtd-civil",
+      "districtId": "vtd",
+      "number": "15",
+      "citation": "District of Vermont · Rule 15",
+      "title": "Motion to Amend a Filing.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 15. Motion to Amend a Filing.\n(a) Filing Requirements. A motion to amend a filing must include:\n(1) a redlined version of the proposed amendment clearly designating additions and\ndeletions; and\n(2) a non-redlined reproduction of the entire amended filing.\n8",
+          "pages": [
+            15
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "(b) No Incorporation by Reference. No amendment may incorporate any prior filing by\nreference without prior authorization of the court.\n",
+          "pages": [
+            16
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vtd-civil-parsed-v1-8048666fab25b6a7",
+      "sourceDocumentId": "parsed-vtd-8048666fab25b6a7",
+      "sourceUrl": "https://www.vtd.uscourts.gov/sites/vtd/files/LocalRules-20260420.pdf",
+      "pageIndex": 15,
+      "pageSpan": [
+        15,
+        16
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vtd-civil:16",
+      "collectionId": "vtd-civil",
+      "districtId": "vtd",
+      "number": "16",
+      "citation": "District of Vermont · Rule 16",
+      "title": "Pretrial Conferences.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 16. Pretrial Conferences.\n(a) Conference to Discuss Trial Exhibits. Counsel must confer prior to trial about the\nadmission of exhibits. Counsel must prepare exhibits in accordance with L.R. 40 unless the court\ndirects otherwise.\n(b) Final Pretrial Conference.\n(1) Preparation. Before the final pretrial conference, counsel must: \n(A) be fully informed of the client’s supporting evidence;\n(B) identify witnesses expected to be called and the nature of their testimony so as\nto facilitate the exchange of substantive evidence with opposing counsel;\n(C) supplement or correct disclosures under Fed. R. Civ. P. 26(e);\n(D) if the court requires, meet and jointly prepare a proposed final pretrial order\nmeeting the requirements of subsection (2); and\n(E) if the court requires, confer and be prepared to report orally the items listed in\nsubsection (2). \n(2) Proposed Final Pretrial Order.\n(A) The court may require the parties to jointly prepare and sign a proposed final\npretrial order that contains some or all of the following:\n(i) a statement of the nature of the case;\n(ii) a statement as to whether there are amendments to the pleadings and\nif so, a motion to amend the pleadings;\n(iii) any stipulations, including proper venue, jurisdiction over the parties\nand subject matter, uncontested facts and the law governing the case;\n(iv) a statement of the factual issues to be determined at trial;\n(v) a statement of the issues of law to be determined at trial;\n9",
+          "pages": [
+            16
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "(vi) a statement of plaintiff's contentions, including the theory of recovery;\n(vii) a statement of defendant's contentions, including the theory of\ndefense;\n(viii) a list of plaintiff's witnesses, including expert witnesses, and a brief\ndescription of their anticipated testimony. If an expert witness has filed a\nreport under Fed. R. Civ. P. 26(a)(2)(B) and supplemented the report under\nFed. R. Civ. P. 26(e)(2), there is no need for a description of testimony;\n(ix) a list of defendant’s witnesses, including expert witnesses, and a brief\ndescription of their anticipated testimony. If an expert witness has filed a\nreport under Fed. R. Civ. P. 26(a)(2)(B) and supplemented the report under\nFed. R. Civ. P. 26(e)(2), there is no need for a description of testimony;\n(x) a list of plaintiff’s exhibits, indicating whether there is agreement as\nto admissibility in accordance with L.R. 40(b) and (c);\n(xi) a list of defendant’s exhibits, indicating whether there is agreement as\nto admissibility in accordance with L.R. 40(b) and (c);\n(xii) a statement of damages; and\n(xiii) an estimate of trial length.\n(3) Pretrial Conference.\n(A) Unless production is waived, the court may require counsel to bring all\ndocumentary evidence and physical exhibits that they expect to offer on contested\nissues to the final pretrial conference. The court may exclude large or cumbersome\nexhibits.\n(B) Counsel must be prepared to discuss:\n(i) the availability of witnesses and evidence, including alternative\narrangements for their presentation by transcript or video, etc.;\n(ii) evidentiary or other matters parties wish the court to consider before\ntrial; \n(iii) evidentiary issues that would consume a significant amount of time\nand disrupt the flow of the trial; \n10",
+          "pages": [
+            17
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "(iv) settlement; and\n(v) in jury cases, the extent and nature of prior settlement negotiations,\nincluding reasons for non-settlement. \n(C) Parties are discouraged from attending the final pretrial conference. Plaintiffs\nin personal injury cases, however, must be available to discuss settlement\nproposals.\n(D) Counsel must discuss acceptable terms of settlement with their clients before\nthe conference. Each party must be represented at the conference by counsel\nauthorized to discuss settlement. If counsel does not have full settlement authority,\na person with settlement authority should be available by phone.\n(E) The court may require the parties to submit:\n(i) a trial brief addressing doubtful or disputed points of law that may arise\nat trial; and\n(ii) memoranda before trial for a novel and complex evidentiary issue.\n",
+          "pages": [
+            18
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vtd-civil-parsed-v1-8048666fab25b6a7",
+      "sourceDocumentId": "parsed-vtd-8048666fab25b6a7",
+      "sourceUrl": "https://www.vtd.uscourts.gov/sites/vtd/files/LocalRules-20260420.pdf",
+      "pageIndex": 16,
+      "pageSpan": [
+        16,
+        18
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vtd-civil:16.1",
+      "collectionId": "vtd-civil",
+      "districtId": "vtd",
+      "number": "16.1",
+      "citation": "District of Vermont · Rule 16.1",
+      "title": "Early Neutral Evaluation (ENE).",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 16.1. Early Neutral Evaluation (ENE).\n(a) Purpose. ENE is meant to reduce costs and litigation by providing litigants the opportunity:\n(1) to articulate respective positions;\n(2) to hear, first-hand, opponent’s views on disputed matters;\n(3) to hear a neutral assessment of the strengths and weaknesses of each party’s case;\n(4) for realistic settlement negotiations; and\n(5) in the absence of settlement, to narrow issues and structure discovery and trial\npreparation.\n (b) Cases Subject to ENE. \n(1) District Court Cases. Unless the court exempts them for good cause, civil cases with\nthe following “nature of suit” statistical code categories, as shown by the JS-44 Civil\nCover Sheet, are subject to the ENE procedures:\n(A) Contract Cases. 110 (Insurance), 120 (Marine), 140 (Negotiable Instrument),\n11",
+          "pages": [
+            18
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "150 (Recovery of Overpayment and Enforcement of Judgment), 160 (Stockholders’\nSuits), 190 (Other Contract), 195 (Contract Product Liability), and 196 (Franchise);\n(B) Real Property Cases. 230 (Rent, Lease, and Ejectment), 240 (Torts to Land),\n245 (Tort Product Liability), and 290 (All Other Real Property);\n(C) Torts Cases. 310 – 368 (All Personal Injury Cases), 370 (Other Fraud), 371\n(Truth in Lending), 380 (Other Personal Property Damage), and 385 (Property\nDamage Product Liability);\n(D) Civil Rights Cases. 440 (Other Civil Rights), 442 (Employment), 445\n(Americans with Disabilities – Employment), 446 (Americans with Disabilities –\nOther), and 448 (Education);\n(E) Labor Cases. 720 (Labor/Management Relations), 740 (Railway Labor Act),\n751 (Family and Medical Leave Act), 790 (Other Labor Litigation), and 791\n(Employee Retirement Income Security Act);\n(F) Property Rights Cases. 820 (Copyrights), 830 (Patent), and 840\n(Trademark); and\n(G) Cases Arising Under Other Statutes. 375 (False Claims Act), 410\n(Antitrust), 430 (Banks and Banking), 470 (Racketeer Influenced and Corrupt\nOrganizations), 480 (Consumer Credit), 490 (Cable/Satellite TV), 850\n(Securities/Commodities/Exchange), 891 (Agricultural Acts), 893 (Environmental\nMatters), 896 (Arbitration), and 899 (Administrative Procedures Act/Review or\nAppeal of Agency Decision).\n(2) Bankruptcy Court. Bankruptcy cases are eligible for ENE as the bankruptcy judge\ndesignates.\n(3) Subject to Change. The court may change the categories of cases subject to this rule\nby order.\n(c) ENE Administration. A court staff member shall serve as ENE Administrator to oversee the\nENE program and perform the duties specified under this rule. \n12",
+          "pages": [
+            19
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "(d) Neutral Evaluators. \n(1) Appointment. The court maintains a roster of neutral evaluators.\n(2) Eligibility. To be eligible for the roster, a person must be:\n(A) an attorney admitted to practice for at least 5 years, who has significant trial\nexperience and substantive expertise that serves the ENE program’s objectives; or\n(B) a non-attorney, or an attorney admitted to practice for less than 5 years, having\nexpertise in a substantive or legal area that serves the ENE program’s objectives.\n(3) Compensation. Neutral evaluators are paid $500 per case. Parties share the cost\nequally. This fee assumes an ENE session of approximately one-half day, related\npreparation, and submission of an evaluator’s report. If the ENE session requires\nsignificantly more time, if an additional session is required, or if the parties request a\nformal evaluation, the parties and the evaluator must agree on any additional\ncompensation.\n(4) ENE by Stipulation. Parties may stipulate to a neutral evaluator of their choosing for\nan agreed-upon fee if:\n(A) the parties file a stipulation with the ENE administrator on or before the date\nthey are required to report their evaluator selection;\n(B) all parties and the evaluator sign the stipulation; and\n(C) the stipulation contains the following information:\n(i) the neutral evaluator’s name and address;\n(ii) the fee arrangement, which clearly sets forth each party’s share of the\nfees;\n(iii) each party’s agreement to participate in the evaluation procedure; and\n(iv) the evaluator’s agreement to perform the ENE in accordance with\nthese rules.\n(e) Neutral Evaluator Selection. \n(1) Choice and Assignment Process. \n(A) The ENE Administrator must send a list of potential evaluators from the\n13",
+          "pages": [
+            20
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "court’s roster to the parties after the last answer is filed. The number of evaluators\non the list must be one more than the number of “sides” in the litigation. For\npurposes of this rule, all plaintiffs are one side; all defendants are one side; and all\nthird-party defendants are one side.\n(B) Each party must report its selection to the ENE Administrator, in writing,\nwithin 14 days from when the list is mailed.\n(C) If the parties fail to agree, each “side” may strike one potential evaluator’s\nname, notifying the ENE Administrator, in writing, of the strike within that same\n14 days.\n(D) The ENE Administrator must assign the selected evaluator or, in the absence\nof agreement, an evaluator whose name was not stricken, and promptly notify the\nparties and the evaluator of the designation. The evaluator selection process should\nbe completed quickly to enable the parties to consult with the evaluator in\nscheduling the ENE session for inclusion in the discovery schedule required by\nL.R. 26(a)(4)(G).\n(2) Conflicts of Interest. Unless all parties waive objection, no person may serve as a\nneutral evaluator for a case in which any of the circumstances specified in 28 U.S.C. § 455\nexist. An evaluator must promptly disclose disqualifying circumstances to the ENE\nadministrator. A party who believes that a potential or assigned evaluator has a conflict of\ninterest must notify the ENE Administrator within 7 days of learning of the possible\nconflict; otherwise the party is deemed to have waived objection.\n(f) Scheduling and Reporting the Session Date. \n(1) Midpoint of Discovery. The ENE session should take place near the midpoint of the\n8-month discovery period on a date convenient for the parties and evaluator.\n(2) Rescheduling. \n(A) No Motion Required. The parties may reschedule the ENE session without\nmotion if:\n(i) the new date is within 60 days of the original date; and\n14",
+          "pages": [
+            21
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "(ii) rescheduling is not anticipated to affect the trial-readiness date; and\n(iii) the parties notify the ENE Administrator, in writing, of the new date.\n(B) Motion Required. A motion to reschedule the ENE session, for good cause, is \n required if:\n(i) the request is for indefinite postponement; or\n(ii) the new date requires extension of the trial-readiness date.\n(C) Other Situations. If (A) or (B) do not apply, parties should contact the ENE \nAdministrator.\n(g) Attendance at ENE Session. \n(1) Persons Required to Attend. The following persons must attend the ENE session:\n(A) Individuals. The parties, unless excused pursuant to subsection (g)(1)(D) or\n(g)(3);\n(B) Corporations. When a party is a corporation or not a natural person, a person\nother than outside counsel who possesses settlement authority and the authority to\nenter into stipulations for the entity;\n(C) United States Government. When the United States, or an agency or unit\nthereof, is party to a case, counsel from the United States Attorney’s Office who\nhas settlement authority and the authority to enter into stipulations;\n(D) Insurance Companies. In cases involving insurance companies, an insurance\ncompany representative with settlement authority. The insured party need not\nattend if the representative has exclusive settlement authority; and\n(E) Counsel. The attorney for each party who has primary responsibility for\nhandling the trial.\n(2) Settlement Authority Defined. As used in this rule, “settlement authority” means\ncontrol of the full financial settlement resources involved in the case, including insurance\nproceeds.\n(3) Excusal. The court may excuse an attorney or party’s attendance at the ENE session if:\n(A) the person shows undue hardship; and\n15",
+          "pages": [
+            22
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-24",
+          "path": [],
+          "type": "paragraph",
+          "text": "(B) the person files with the court a written request to be excused at least 21\ncalendar days before the session date; and\n(C) the person is available by telephone during the session; and/or\n(D) the person designates, in the written request, a substitute familiar with the case\nto attend in his or her place, and describes that substitute’s familiarity with the\ncase; and\n(E) the court grants the request and approves the substitute.\n(h) Evaluation Statements.\n(1) Requirements. At least 14 days before the ENE session, each party must submit to\nthe evaluator and serve upon each party, a written evaluation statement. The statement\nmust:\n(A) not exceed 10 pages in length (excluding exhibits and attachments);\n(B) provide a brief statement of facts;\n(C) identify the legal and factual issues in dispute and the submitting party’s\nposition relating to those issues;\n(D) address whether there are legal or factual issues that, if resolved, would\nfacilitate early settlement or reduce the scope of dispute;\n(E) identify the attorney who will represent the party at the ENE session; and\n(F) identify the person(s), in addition to counsel, who will attend the ENE\nsession as the party’s representative with decision-making authority. \n(2) Other Matters. Parties may include other matters in the statement to assist the\nevaluator.\n(3) Important Documents. Parties must attach to their statements copies of key\ndocuments that gave rise to the action (e.g., contracts) or other materials (e.g., medical\nreports, photographs) that will assist the evaluator and advance the ENE session’s\npurposes.\n(4) Statements Not Filed. Parties must not file evaluation statements with the court or\nprovide them to the judge.\n16",
+          "pages": [
+            23
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "(i) Process and Procedures at the ENE Session.\n(1) Structure. The evaluator has broad discretion in structuring the ENE session. The\nsession is informal, the rules of evidence do not apply, and there is no formal\nexamination or cross-examination.\n(2) Preparation. Each party must be prepared to fully participate and to discuss realistic\nestimates of:\n(A) case value;\n(B) case costs, including, but not limited to, costs of additional discovery, expert\nwitnesses, attorney’s fees, other costs associated with trial preparation, and actual\ntrial if settlement efforts are unsuccessful; and\n(C) delay that will result if settlement efforts are not successful. \n(3) Conducting the ENE Session. The evaluator must:\n(A) permit each party to make an oral presentation of its position;\n(B) help the parties to identify areas of agreement and enter a stipulation, where\nfeasible;\n(C) assess the strengths and weaknesses of the parties' contentions and evidence\nand explain the reasons for the assessments;\n(D) explore the possibility of settlement using private caucusing and mediation\ntechniques; and\n(E) estimate, where feasible, the likelihood of liability and the range of damages.\n(4) No Settlement. If the session does not result in settlement, the evaluator must:\n(A) discuss with the parties follow-up measures to facilitate case development or\nfuture settlement (e.g. an additional ENE session, formal evaluation, or other ADR\nprocedures); and\n(B) help the parties develop an information-sharing or discovery plan to expedite\nsettlement discussions or position the case for efficient disposition by other means.\n(5) Remedy for Noncompliance. A party who has a substantial belief that another party\nhas not complied in good faith with this rule may file a motion to that effect with the court.\n17",
+          "pages": [
+            24
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "(j) Evaluator's Report.\n(1) Items to Include. Within 21 calendar days after the ENE session, the evaluator must\nfile with the court and send to the parties a report (fillable form available on the court’s\nwebsite) that includes:\n(A) the date the session took place, including starting and finishing times;\n(B) the names of the persons who attended, noting each person’s role in the\nsession and identifying each party’s representative with decision-making authority;\n(C) a summary of any court-approved substitute arrangement regarding\nattendance;\n(D) the date the evaluator received each party’s evaluation statement;\n(E) notations showing whether each party did or did not make an oral presentation\nof its position; and\n(F) the results of the session, including:\n(i) whether full or partial settlement was reached;\n(ii) any stipulation to narrow the scope of the dispute; and\n(iii) any agreement to limit discovery, facilitate future settlement, or\notherwise reduce cost and delay related to trial preparation, including\nscheduling another ENE session.\n(2) Items to Exclude. The report must not disclose:\n(A) the evaluator's assessment of any aspect of the case; or\n(B) substantive matters discussed during the session, except as required in\n(j)(1)(F).\n(k) Supplemental Evaluator’s Report.\n(1) Requirements. An evaluator may file with the court a Supplemental Evaluator’s\nReport if:\n(A) an initial evaluator’s report has been filed with the court; and\n(B) evaluator diligently continued to work with the parties after the initial session; \nand\n18",
+          "pages": [
+            25
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "(C) such efforts resulted in partial or full settlement; and\n(D) the supplemental report is filed within 60 days from the date of the session. \n(l) Confidentiality.\n(1) ENE Process. The ENE process is treated as a settlement negotiation under Fed. R.\nEvid. 408. All written and oral communications made in connection with or during the\nENE process are confidential. \n(2) Exceptions. This section does not apply to any stipulation or agreement to narrow the\nscope of the dispute, facilitate future settlement, or otherwise reduce cost and delay that\nwas approved by all parties.\n(3) Evaluation of ENE Process. Parties, counsel, insurance representatives, and\nevaluators may respond to inquiries from persons authorized by the court to monitor or\nevaluate the ENE program. The sources of data and opinions collected for this purpose\nwill be kept confidential.\n",
+          "pages": [
+            26
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vtd-civil-parsed-v1-8048666fab25b6a7",
+      "sourceDocumentId": "parsed-vtd-8048666fab25b6a7",
+      "sourceUrl": "https://www.vtd.uscourts.gov/sites/vtd/files/LocalRules-20260420.pdf",
+      "pageIndex": 18,
+      "pageSpan": [
+        18,
+        26
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vtd-civil:23",
+      "collectionId": "vtd-civil",
+      "districtId": "vtd",
+      "number": "23",
+      "citation": "District of Vermont · Rule 23",
+      "title": "Class Actions; General Requirements.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 23. Class Actions; General Requirements.\n(a) Title. The words “Complaint – Class Action” must appear on the face of the complaint, next\nto the caption.\n(b) Separate Class Allegations. The complaint must contain the following under a separate\nheading, titled “Class Action Allegations”:\n(1) Rule Citation. A reference to the portion of Fed. R. Civ. P. 23 under which the party\nclaims the suit is properly maintainable as a class action.\n(2) Class Justification. Supporting allegations must comply with Fed. R. Civ. P. 23(a).\n(c) Other Claims. This rule applies, with appropriate adaptations, to counterclaims or cross￾claims brought for or against a class. \n19",
+          "pages": [
+            26
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vtd-civil-parsed-v1-8048666fab25b6a7",
+      "sourceDocumentId": "parsed-vtd-8048666fab25b6a7",
+      "sourceUrl": "https://www.vtd.uscourts.gov/sites/vtd/files/LocalRules-20260420.pdf",
+      "pageIndex": 26,
+      "pageSpan": [
+        26,
+        26
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vtd-civil:26",
+      "collectionId": "vtd-civil",
+      "districtId": "vtd",
+      "number": "26",
+      "citation": "District of Vermont · Rule 26",
+      "title": "Discovery.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 26. Discovery.\n(a) Discovery Schedule.\n(1) Discovery Conference. Counsel for the parties must confer as required by\nFed. R. Civ. P. 26(f), and jointly prepare and file a single schedule providing for the\ncompletion of discovery no later than 8 months after the last answer was filed.\n(2) Timing of the Discovery Schedule. Fed. R. Civ. P. 16(b)(2) requires the court to issue\na scheduling order within the earlier of 90 days after any defendant has been served with\nthe complaint or 60 days after any defendant has appeared. The Discovery Schedule must\nbe filed by the parties within the earlier of 75 days after any defendant has been served\nwith the complaint or 45 days after any defendant has appeared. If the Discovery Schedule\nis not filed within that deadline, the case will be set for a scheduling conference. For good\ncause, any party may file a motion to extend the time to file the Discovery Schedule.\n(3) Pending Motions. Discovery, including the obligation to file a Discovery Schedule,\nshall not be stayed during the pendency of a Fed. R. Civ. P. 12(b) or (c) motion. A party\nmay request a stay, or phased discovery, until the motion is decided, if a stay or phasing\nwill help to secure the just, speedy, and inexpensive determination of the action. Fed. R.\nCiv. P. 1. Participation in discovery as required under this rule will not be deemed a\nforfeiture or waiver of any Fed. R. Civ. P. 12 defenses.\n(4) Form. The Discovery Schedule must conform to the sample Stipulated Discovery\nSchedule/Order form found on the court's website (see L.R. 84). Discovery Schedules that\ndo not conform will be returned to the parties' counsel for re-submission.\n(5) Noncompliance. Failure to strictly comply with the terms of this section constitutes a\nwaiver of the need for discovery and the case will be scheduled for trial.\n(6) Final Order. Once approved, the discovery schedule becomes the scheduling order\nrequired by Fed. R. Civ. P. 16(b).\n(7) Extensions. If additional discovery time is required due to case complexity or other\nextraordinary circumstances, counsel may move for an extension of time for good cause. \nAbsent exceptional circumstances, requests must be made before the discovery deadline\nexpires.\n20",
+          "pages": [
+            27
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "(b) Third-Party Discovery Schedule. \n(1) General. Third-party proceedings are subject to subsection (a) except that the\ndiscovery schedule must be filed no more than 45 days after the third-party answer is filed\nor the third-party has otherwise appeared. \n(2) Discovery Completion Deadline. The schedule must provide for completion of\ndiscovery by the later of: \n(A) the date provided by any Discovery Schedule previously approved; or \n(B) 3 months after the third-party answer is filed or the third-party has otherwise\nappeared.\n(c) Motions Related to Discovery Procedure.\n(1) Before Filing. A party may not file a Fed. R. Civ. P. 26 or 37 motion unless the filing\nparty has conferred with opposing counsel in a good faith effort to reduce or eliminate the\ncontroversy or arrive at a mutually satisfactory resolution.\n(2) Motion with Affidavit. If discovery issues are not resolved, a motion must include an\naffidavit with the following:\n(A) certification that counsel have conferred in good faith to resolve the dispute\nwithout court intervention;\n(B) dates of consultation with opposing counsel;\n(C) names of the participants;\n(D) length of time of the conferences;\n(E) any issues still unresolved; and\n(F) the reasons for the unresolved issues. \n(3) Supporting Memoranda. In addition to complying with L.R. 7, memoranda must\ninclude:\n(A) a concise statement of the nature of the case; and\n(B) a specific, verbatim listing of each discovery item sought or opposed,\nincluding the reason the item should be allowed or disallowed, except where the\nmotion is based upon the failures under Fed. R. Civ. P. 37(d).\n21",
+          "pages": [
+            28
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "(d) Designated Portions of Videotaped Deposition Testimony Under Fed. R. Civ. P. 32(a)(6).\n At least 30 days before trial unless the court orders otherwise, counsel must provide to opposing\ncounsel the designated portions of videotaped depositions they intend to offer at trial. Within 7\nbusiness days after service, opposing counsel must both notify the offering party of any objections\nand provide any counter-designations pursuant to Fed R. Civ. P. 32(a)(6).\n",
+          "pages": [
+            29
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vtd-civil-parsed-v1-8048666fab25b6a7",
+      "sourceDocumentId": "parsed-vtd-8048666fab25b6a7",
+      "sourceUrl": "https://www.vtd.uscourts.gov/sites/vtd/files/LocalRules-20260420.pdf",
+      "pageIndex": 27,
+      "pageSpan": [
+        27,
+        29
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vtd-civil:33",
+      "collectionId": "vtd-civil",
+      "districtId": "vtd",
+      "number": "33",
+      "citation": "District of Vermont · Rule 33",
+      "title": "Interrogatories to Parties.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 33. Interrogatories to Parties.\nThe interrogatory must be restated when answering or objecting to it.\n",
+          "pages": [
+            29
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vtd-civil-parsed-v1-8048666fab25b6a7",
+      "sourceDocumentId": "parsed-vtd-8048666fab25b6a7",
+      "sourceUrl": "https://www.vtd.uscourts.gov/sites/vtd/files/LocalRules-20260420.pdf",
+      "pageIndex": 29,
+      "pageSpan": [
+        29,
+        29
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vtd-civil:34",
+      "collectionId": "vtd-civil",
+      "districtId": "vtd",
+      "number": "34",
+      "citation": "District of Vermont · Rule 34",
+      "title": "Producing Documents.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 34. Producing Documents.\nThe request must be restated when responding or objecting to it.\n",
+          "pages": [
+            29
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vtd-civil-parsed-v1-8048666fab25b6a7",
+      "sourceDocumentId": "parsed-vtd-8048666fab25b6a7",
+      "sourceUrl": "https://www.vtd.uscourts.gov/sites/vtd/files/LocalRules-20260420.pdf",
+      "pageIndex": 29,
+      "pageSpan": [
+        29,
+        29
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vtd-civil:40",
+      "collectionId": "vtd-civil",
+      "districtId": "vtd",
+      "number": "40",
+      "citation": "District of Vermont · Rule 40",
+      "title": "Exhibits.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 40. Exhibits.\n(a) Marking Exhibits for Trial. All exhibits must be marked prior to trial using the following\nprocedures unless an alternate procedure has been agreed upon at a pretrial conference.\n(1) Plaintiff’s Exhibits. Plaintiffs must mark exhibits numerically: 1-infinity.\n(2) Defendant’s Exhibits. Defendants must mark exhibits with letters: A-Z; A1-A26;\nB1-B26; C1-C26, etc.\n(3) Voluminous Exhibits. Parties should bring cases involving voluminous exhibits to\nthe court’s attention at the pretrial conference. Exhibits in such cases will be marked as\nfollows: \n(A) plaintiffs will be assigned exhibit numbers 1-499; and \n(B) defendants will be assigned exhibit numbers 500-infinity.\n(4) “Sub” Exhibits. The use of “sub” exhibits (e.g. Exhibit 1-A or A-1) is\ndiscouraged. If a group of exhibits is related, counsel are encouraged to mark it as one\nexhibit.\n(5) Multiple Plaintiffs or Defendants. If a trial involves more than one plaintiff and/or\ndefendant, counsel are encouraged to submit joint exhibit lists. If joint lists are not\npossible, counsel must confer and decide who will use which sequence of numbers or\nletters. For example, plaintiff #1 may use the 100 series; plaintiff #2 may use the 200\n22",
+          "pages": [
+            29
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "series; defendant #1 may use the A1-A26 series; defendant #2 may use the B1-B26 series,\netc.\n(b) Stipulated Exhibits. An exhibit list must indicate stipulated exhibits. Counsel must offer\nstipulated exhibits for admission prior to trial.\n(c) Copies of Exhibit Lists. Prior to trial, counsel must provide exhibit lists to:\n(1) each party; \n(2) the court;\n(3) the courtroom clerk; and \n(4) the court reporter.\n(d) Exhibit Notebook. If possible, counsel are to prepare a notebook with copies of\nall exhibits for the court’s use during trial. \n(e) Photocopying Exhibits During Trial. \n(1) Limited Photocopying. When required by the court for evidentiary purposes, trial\ncounsel may make a limited number of photocopies (generally no more than 10 pages) at\nthe Clerk’s Office. \n(2) Additional Photocopies. Photocopies made at the Clerk’s Office for the convenience\nof counsel or parties to a case require payment at the standard judicial conference fee rate\nof $.50 per page. Payment may be deferred until the final day of trial.\n(f) Responsibility for Exhibits. \n(1) During Trial. Counsel must retain custody of all original marked exhibits\nthroughout the trial. To admit an exhibit into evidence, counsel must give it to the\ncourtroom clerk for confirmation of admission either during the trial (time permitting) or\nduring a break in trial. The courtroom clerk confirms admission by placing some\nidentifying mark on the actual exhibit sticker. Once admitted, exhibits remain in the\nintroducing party’s custody until the case is submitted to the jury or to the court. Counsel\nare responsible for keeping all admitted exhibits together in numerical or alphabetical\n23",
+          "pages": [
+            30
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "order until the case is submitted to the jury or to the court.\n(2) After Trial. Responsibility for custody of all exhibits reverts back to the parties at the\nconclusion of the proceeding. Should any exhibits remain in court custody, the courtroom\nclerk will either notify counsel that the exhibits should be removed by a certain date or\nmail them to counsel. Without further notice, the court may dispose of exhibits that are\nnot removed after notification. \n(g) Non-permanent Diagrams as Exhibits. To make a record of a chalk or other non￾permanent diagram, the court may permit counsel to copy or photograph it.\n",
+          "pages": [
+            31
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vtd-civil-parsed-v1-8048666fab25b6a7",
+      "sourceDocumentId": "parsed-vtd-8048666fab25b6a7",
+      "sourceUrl": "https://www.vtd.uscourts.gov/sites/vtd/files/LocalRules-20260420.pdf",
+      "pageIndex": 29,
+      "pageSpan": [
+        29,
+        31
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vtd-civil:42",
+      "collectionId": "vtd-civil",
+      "districtId": "vtd",
+      "number": "42",
+      "citation": "District of Vermont · Rule 42",
+      "title": "Consolidation of Cases; Subsequent Filings.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 42. Consolidation of Cases; Subsequent Filings.\n(a) Consolidated Cases.\n(1) Notice. Counsel must inform the court of cases pending in other courts or other\njudicial fora related to the case before this court. A related case must be noted on the Civil\nCover Sheet [form JS 44]. If a related case becomes known subsequently, the court must\nbe apprised by separate notice.\n(2) Consolidation. If two or more cases are related, the court may enter an order of\nconsolidation on its own motion or upon motion of a party.\n(3) Lead Case. The order of consolidation must list chronologically all related cases in its\ncaption. The clerk will enter the order into the file of each affected case. Unless otherwise\nindicated by the judge, the oldest case is the lead case.\n(b) Subsequent Filings.\n(1) Docketing. After consolidation, all subsequent filings will be docketed only in the\nlead case.\n(2) Format. The caption for all filings must list consolidated cases chronologically.\n",
+          "pages": [
+            31
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vtd-civil-parsed-v1-8048666fab25b6a7",
+      "sourceDocumentId": "parsed-vtd-8048666fab25b6a7",
+      "sourceUrl": "https://www.vtd.uscourts.gov/sites/vtd/files/LocalRules-20260420.pdf",
+      "pageIndex": 31,
+      "pageSpan": [
+        31,
+        31
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vtd-civil:45",
+      "collectionId": "vtd-civil",
+      "districtId": "vtd",
+      "number": "45",
+      "citation": "District of Vermont · Rule 45",
+      "title": "Subpoena of Witnesses in In Forma Pauperis Cases or Pro Se Cases.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 45. Subpoena of Witnesses in In Forma Pauperis Cases or Pro Se Cases.\n(a) In General. At least 30 days before the trial or hearing, if a party proceeding in forma\npauperis or pro se requires the attendance of any witness by subpoena or writ, the party must file:\n24",
+          "pages": [
+            31
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "(1) a witness list containing:\n(A) the name of the witness(es);\n(B) their address(es); and\n(C) their inmate number(s) if applicable; and \n(2) a brief statement of each witness’s expected testimony.\n(b) Declining to Subpoena. The court may decline to subpoena a witness whose proposed\ntestimony is immaterial or repetitive. \n(c) Subpoena Costs. In an order to subpoena witness testimony in indigent criminal cases and\n28 U.S.C. §§ 2254-55 in forma pauperis cases, the court will direct the U.S. Marshals to pay all\nwitness, service, and subpoena fees.\n",
+          "pages": [
+            32
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vtd-civil-parsed-v1-8048666fab25b6a7",
+      "sourceDocumentId": "parsed-vtd-8048666fab25b6a7",
+      "sourceUrl": "https://www.vtd.uscourts.gov/sites/vtd/files/LocalRules-20260420.pdf",
+      "pageIndex": 31,
+      "pageSpan": [
+        31,
+        32
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vtd-civil:47",
+      "collectionId": "vtd-civil",
+      "districtId": "vtd",
+      "number": "47",
+      "citation": "District of Vermont · Rule 47",
+      "title": "Jury Costs in Civil Actions.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 47. Jury Costs in Civil Actions. \nIf a case is settled or otherwise disposed of after a jury has reported for duty, the court may assess\njury costs to one or more of the parties if, after a hearing, it determines that an earlier disposition\nwas reasonably possible.\n",
+          "pages": [
+            32
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vtd-civil-parsed-v1-8048666fab25b6a7",
+      "sourceDocumentId": "parsed-vtd-8048666fab25b6a7",
+      "sourceUrl": "https://www.vtd.uscourts.gov/sites/vtd/files/LocalRules-20260420.pdf",
+      "pageIndex": 32,
+      "pageSpan": [
+        32,
+        32
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vtd-civil:51",
+      "collectionId": "vtd-civil",
+      "districtId": "vtd",
+      "number": "51",
+      "citation": "District of Vermont · Rule 51",
+      "title": "Requests for Jury Instructions.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 51. Requests for Jury Instructions.\n(a) Requests. Requests for jury instructions must be filed at least 14 days before the scheduled\ntrial date.\n(b) Waiver. Absent exceptional circumstances, failure to file timely requests for jury\ninstructions may result in a waiver of a party’s right to file such a request.\n",
+          "pages": [
+            32
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vtd-civil-parsed-v1-8048666fab25b6a7",
+      "sourceDocumentId": "parsed-vtd-8048666fab25b6a7",
+      "sourceUrl": "https://www.vtd.uscourts.gov/sites/vtd/files/LocalRules-20260420.pdf",
+      "pageIndex": 32,
+      "pageSpan": [
+        32,
+        32
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vtd-civil:52",
+      "collectionId": "vtd-civil",
+      "districtId": "vtd",
+      "number": "52",
+      "citation": "District of Vermont · Rule 52",
+      "title": "Findings of Fact and Conclusions of Law by the Court.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 52. Findings of Fact and Conclusions of Law by the Court.\nAbsent leave from the court, when trial is by the court, parties must submit proposed findings of\nfact and conclusions of law at least 14 days before the scheduled trial date.\n25",
+          "pages": [
+            32
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vtd-civil-parsed-v1-8048666fab25b6a7",
+      "sourceDocumentId": "parsed-vtd-8048666fab25b6a7",
+      "sourceUrl": "https://www.vtd.uscourts.gov/sites/vtd/files/LocalRules-20260420.pdf",
+      "pageIndex": 32,
+      "pageSpan": [
+        32,
+        32
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vtd-civil:54",
+      "collectionId": "vtd-civil",
+      "districtId": "vtd",
+      "number": "54",
+      "citation": "District of Vermont · Rule 54",
+      "title": "Taxable Costs; Taxation on Appeal.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 54. Taxable Costs; Taxation on Appeal.\n(a) Taxable Costs. Taxable costs are limited to those specified by 28 U.S.C. § 1920 and must\nbe claimed using the Bill of Costs [Form AO-133]. All costs must be itemized and include\nsupporting documentation, such as billing statements, invoices, or receipts for expenses.\n(b) Appealed Cases. For cases on appeal, costs will be taxed under 28 U.S.C. § 1920 and Fed.\nR. App. P. 39(e) after the appellate court issues a final order or mandate.\n",
+          "pages": [
+            33
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vtd-civil-parsed-v1-8048666fab25b6a7",
+      "sourceDocumentId": "parsed-vtd-8048666fab25b6a7",
+      "sourceUrl": "https://www.vtd.uscourts.gov/sites/vtd/files/LocalRules-20260420.pdf",
+      "pageIndex": 33,
+      "pageSpan": [
+        33,
+        33
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vtd-civil:55",
+      "collectionId": "vtd-civil",
+      "districtId": "vtd",
+      "number": "55",
+      "citation": "District of Vermont · Rule 55",
+      "title": "Default Judgment.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 55. Default Judgment.\n(a) Clerk’s Entry of Default. When a party is entitled to default judgment under Fed. R. Civ. P.\n55(b)(1) or Fed. R. Civ. P. 55(b)(2), that party must first obtain a clerk’s entry of default\nunder Fed. R. Civ. P. 55(a). An application for a clerk’s entry of default must include a statement\nexplaining the basis for entitlement to an entry of default. \n(b) By the Clerk.\n(1) Documents to Submit. When a party is entitled to default judgment under Fed. R.\nCiv. P. 55(b)(1), that party must submit:\n(A) an application for entry of default judgment; \n(B) a proposed default judgment with a statement containing the following:\n(i) the amount due, not exceeding the amount of the original demand; and\ncrediting any payments, showing the amounts and dates of them;\n(ii) a computation of accrued interest as of the proposed judgment date;\nand\n(iii) any claimed costs and taxable disbursements.\n(C) an affidavit containing the following:\n(i) the party against whom judgment is sought is not an infant, an\nincompetent person, or in the military;\n(ii) the party against whom judgment is sought has defaulted by not\nappearing or defending; \n26",
+          "pages": [
+            33
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "(iii) the amount shown in the statement is justly due and no amount has\nbeen paid except as stated; and\n(iv) the disbursements sought to be taxed have been made or necessarily\nwill be made in the future. \n(2) Consultation and Referral to District Judge. If the clerk determines that it may not\nbe appropriate to enter a default judgment under Fed. R. Civ. P. 55(b)(1), the clerk may\nconfer with a district judge. The district judge will advise the clerk whether default\njudgment under Rule 55(b)(1) is appropriate. If such a judgment is not appropriate, the\nclerk shall so notify the applicant, who may then proceed to move for default judgment\nunder Fed. R. Civ. P. 55(b)(2), in accordance with subsection (c).\n(c) By the Court. When a party requests the court enter a default judgment, that party must\nsubmit the following documents:\n(1) a copy of the clerk’s entry of default;\n(2) a motion for entry of default judgment; and\n(3) a proposed default judgment order.\n",
+          "pages": [
+            34
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vtd-civil-parsed-v1-8048666fab25b6a7",
+      "sourceDocumentId": "parsed-vtd-8048666fab25b6a7",
+      "sourceUrl": "https://www.vtd.uscourts.gov/sites/vtd/files/LocalRules-20260420.pdf",
+      "pageIndex": 33,
+      "pageSpan": [
+        33,
+        34
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vtd-civil:56",
+      "collectionId": "vtd-civil",
+      "districtId": "vtd",
+      "number": "56",
+      "citation": "District of Vermont · Rule 56",
+      "title": "Summary Judgment; Notice to Pro Se Litigants Opposing Summary",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 56. Summary Judgment; Notice to Pro Se Litigants Opposing Summary \nJudgment.\n(a) Movant’s Statement of Undisputed Facts. Unless the court orders otherwise, any motion for\nsummary judgment under Fed. R. Civ. P. 56 must be accompanied by a separate and concise\nstatement, in numbered paragraphs, of the material facts that the moving party contends cannot be\ngenuinely disputed. Failure to submit a statement of undisputed facts may constitute a ground for\ndenial of the motion. This rule does not apply to claims brought under the Administrative\nProcedure Act or the Freedom of Information Act.\n(b) Opposing Statement. A party opposing summary judgment, or a motion under Fed. R. Civ.\nP. 12(b)(6) or 12(c) that has been converted to a summary judgment motion, must include a\nresponse to each numbered paragraph in the moving party's statement, in correspondingly\n27",
+          "pages": [
+            34
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "numbered paragraphs, admitting, denying, or otherwise responding to each numbered paragraph in\nthe moving party's statement. If necessary, the opposing party may include a separate and concise\nstatement, in numbered paragraphs, of additional material facts that the opposing party contends\ncannot be genuinely disputed; if such additional facts are included, the moving party must respond\nto each such numbered paragraph within fourteen (14) days or when its response to any\ncross-motion is due, if later, in accordance with this rule. Each numbered paragraph in either\nparty's statement may be deemed admitted for purposes of the motion unless it is specifically\ncontroverted by a correspondingly numbered paragraph in the other party's statement. \n(c) Provision of Movant’s Statement. In any case where all parties are represented by counsel,\nany party moving for summary judgment must provide all other parties with an electronic copy, in\na standard word processing format, of the moving party's statement. In any case where all parties\nare represented by counsel, any opposing statement required or allowed by this rule must include\neach entry in the moving party's statement and set out the opposing party's response directly\nbeneath it. \n(d) Support of Statement. Each numbered paragraph of any statement by the moving or\nopposing party under this rule, including each paragraph denying or controverting any statement\nof material fact, must be followed by citation to admissible evidence or to evidence that can be\npresented in admissible form at trial as required by Fed. R. Civ. P. 56(c).\n(e) Time for Filing. Summary judgment motions must be filed according to the schedule\nspecified in L.R. 26(a)(4)(J).\n(f) Required Notice for Pro Se Litigants. Any represented party filing a motion for summary\njudgment, or a motion to dismiss under Fed. R. Civ. P. 12(b)(6) or 12(c) that is converted to a\nmotion for summary judgment against a pro se party must serve and file the document reproduced\nbelow. That document, the \"Notice to Pro Se Litigant Opposing Motion for Summary Judgment,\"\nmust be filed together with the papers in support of the motion. Where the pro se party is not the\nplaintiff, the movant must amend the form as necessary to reflect that fact.\n28",
+          "pages": [
+            35
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-37",
+          "path": [],
+          "type": "paragraph",
+          "text": "Notice to Pro Se Litigant Opposing Motion for Summary Judgment\nThe defendant in this case has moved for summary judgment pursuant to Rule 56 of the Federal Rules of Civil\nProcedure. This means that the defendant has asked the court to decide this case without a trial, based on written\nmaterials, including affidavits, submitted in support of the motion. THE CLAIMS YOU ASSERT IN YOUR\nCOMPLAINT MAY BE DISMISSED WITHOUT A TRIAL IF YOU DO NOT RESPOND TO THIS MOTION by\nfiling your own sworn affidavits or other papers as required by Fed. R. Civ. P. 56(e) and Local Rule 56(b). An\naffidavit is a sworn statement of fact based on personal knowledge that would be admissible as evidence at trial. The\nfull text of Rule 56 is attached.\nBriefly, Rule 56 provides that you may NOT oppose summary judgment simply by relying upon the allegations in\nyour complaint. Rather, you must submit evidence, such as witness statements or documents, countering the facts\nasserted by the defendant and raising issues of fact for trial. Any witness statements, which may include your own\nstatements, must be in the form of affidavits. You may submit affidavits that were prepared specifically in response to\ndefendant's motion for summary judgment. Any issue of fact that you wish to raise in opposition to the motion for\nsummary judgment must be supported by affidavits or other documentary evidence contradicting the facts asserted by\nthe defendant. You may also file a memorandum of law in opposition to defendant's motion for summary judgment\n[pursuant to L.R. 7(a)(3)(A)]. \nYour response is due within 30 days pursuant to Local Rule 7(a)(3). If you do not respond to the motion for summary\njudgment on time with a statement of disputed facts and affidavits or documentary evidence contradicting the facts\nasserted by the defendant, the court may accept defendant's factual assertions as true. Judgment may then be entered\nin defendant's favor without a trial.\n",
+          "pages": [
+            36
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vtd-civil-parsed-v1-8048666fab25b6a7",
+      "sourceDocumentId": "parsed-vtd-8048666fab25b6a7",
+      "sourceUrl": "https://www.vtd.uscourts.gov/sites/vtd/files/LocalRules-20260420.pdf",
+      "pageIndex": 34,
+      "pageSpan": [
+        34,
+        36
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vtd-civil:67",
+      "collectionId": "vtd-civil",
+      "districtId": "vtd",
+      "number": "67",
+      "citation": "District of Vermont · Rule 67",
+      "title": "Deposit of Funds with the Court.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-37",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 67. Deposit of Funds with the Court.\n(a) Deposit into Court Registry Fund. Unless the parties stipulate otherwise, money paid into\nthe court under Fed. R. Civ. P. 67 and this rule will be deposited into the court’s Registry utilizing\nthe Court Registry Investment System (CRIS). CRIS funds are pooled nationally and are invested\nin U.S. Treasury securities. \n(b) Alternative Deposits. \n(1) Stipulation. A party wishing to invest funds using a private financial institution must\nprovide the court with a stipulation and obtain the consent of all parties to the case. The\nstipulation must contain:\n(A) the form of the interest-bearing account or instrument;\n(B) the name and address of the financial institution where funds are to be\ninvested;\n(C) for IRS reporting, the name, address, and social security or taxpayer\nidentification number of the person or party responsible for the investment\nearnings;\n29",
+          "pages": [
+            36
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-38",
+          "path": [],
+          "type": "paragraph",
+          "text": "(D) if existing insurance coverage is insufficient to insure the principal invested,\nthe form of collateral guaranteeing the investment principal, conforming to\nauthorized Treasury standards under 31 C.F.R. Part 202; and\n(E) any other information applicable to the facts and circumstances of the case that\nrelates to the funds to be invested.\n(2) Responsibility for Opening Account. Upon approval of the stipulation, the clerk of\ncourt or other individual designated by the court is responsible for opening the investment\naccount and serving as custodian. \n(c) Charge. A charge will be assessed for deposits made pursuant to subsection (b) of this rule\nunder the schedule of Registry fees set forth by 28 U.S.C. § 1914. \n",
+          "pages": [
+            37
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vtd-civil-parsed-v1-8048666fab25b6a7",
+      "sourceDocumentId": "parsed-vtd-8048666fab25b6a7",
+      "sourceUrl": "https://www.vtd.uscourts.gov/sites/vtd/files/LocalRules-20260420.pdf",
+      "pageIndex": 36,
+      "pageSpan": [
+        36,
+        37
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vtd-civil:72",
+      "collectionId": "vtd-civil",
+      "districtId": "vtd",
+      "number": "72",
+      "citation": "District of Vermont · Rule 72",
+      "title": "Duties of Magistrate Judge; Referral of Cases to Magistrate Judge;",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-38",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 72. Duties of Magistrate Judge; Referral of Cases to Magistrate Judge;\nObjections to Report and Recommendations of Magistrate Judge.\n(a) Duties.\n(1) General Authorization. The full-time United States magistrate judge is authorized to\nexercise all the powers and perform all duties conferred upon magistrate judges by 28\nU.S.C. § 636, and to exercise the powers stated in the rules governing proceedings under\n28 U.S.C. §§ 2254 and 2255.\n(2) Other Duties. A magistrate judge is also authorized to:\n(A) exercise general supervision of civil and criminal calendars and decide\nmotions to expedite or postpone trials;\n(B) conduct pretrial conferences, settlement conferences, omnibus hearings, and\nrelated pretrial proceedings in civil and criminal cases;\n(C) conduct arraignments in criminal cases not triable by the magistrate judge and\ntake not guilty pleas in such cases;\n(D) impanel grand juries and receive grand jury returns under Fed. R. Crim. P.\n6(f);\n(E) accept waivers of indictment under Fed. R. Crim. P. 7(b);\n(F) conduct voir dire and select petit juries for the court;\n30",
+          "pages": [
+            37
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "(G) accept petit jury verdicts in civil cases in the absence of a judge;\n(H) conduct necessary proceedings leading to the potential revocation,\ntermination, or modification of supervised release;\n(I) issue subpoenas, writs of habeas corpus ad testificandum or habeas corpus ad\nprosequendum, or other orders necessary to obtain the presence of parties,\nwitnesses, or evidence for court proceedings;\n(J) order the exoneration or forfeiture of bonds;\n(K) order the withdrawal of funds from the court’s registry;\n(L) conduct examinations of judgment debtors in accordance with Fed. R. Civ. P.\n69; and\n(M) perform any additional duty consistent with the Constitution and laws of the\nUnited States.\n(b) Absence or Unavailability of the Judge. During the absence or unavailability of either the\nchief judge or district judge, all civil and criminal cases are referred to the magistrate judge under\n28 U.S.C. § 636(b)(1).\n(c) Objections to Report and Recommendations. An objection to a report and recommendation\nof the magistrate judge must be served on all parties and upon the magistrate judge.\n",
+          "pages": [
+            38
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vtd-civil-parsed-v1-8048666fab25b6a7",
+      "sourceDocumentId": "parsed-vtd-8048666fab25b6a7",
+      "sourceUrl": "https://www.vtd.uscourts.gov/sites/vtd/files/LocalRules-20260420.pdf",
+      "pageIndex": 37,
+      "pageSpan": [
+        37,
+        38
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vtd-civil:73",
+      "collectionId": "vtd-civil",
+      "districtId": "vtd",
+      "number": "73",
+      "citation": "District of Vermont · Rule 73",
+      "title": "Direct Assignment of Civil Cases to the Magistrate Judge;",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 73. Direct Assignment of Civil Cases to the Magistrate Judge;\nNotification of Assignment; Voluntary Consent; Objections; Magistrate\nJudge’s Authority; Automatic Referrals to Magistrate Judge.\n(a) Direct Assignments. The clerk’s office is directed to assign a percentage of civil cases\ndirectly to the magistrate judge, excluding bankruptcy appeals, cases filed pursuant to 28 U.S.C.\n§§ 2254 and 2255 or challenging the conditions of confinement of prisoners, and cases seeking an\nimmediate temporary restraining order. The exact percentage of direct assignments shall be\ndetermined periodically by the judges of the court. \n(b) Notification. Notification of direct assignment will be given by service of the “Notice of\nAssignment” form. The clerk’s office will return to the plaintiff sufficient copies of the form for\n31",
+          "pages": [
+            38
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-40",
+          "path": [],
+          "type": "paragraph",
+          "text": "each party, which the plaintiff must then serve with the complaint. Each party must execute the\nform, indicating their consent or objection, and return it to the clerk’s office.\n(c) Voluntary Consent. Consent to assignment to the magistrate judge is strictly voluntary and\nno adverse consequences of any kind will come to any attorney or party who objects to an\nassignment. Return of the executed form to the clerk’s office is mandatory, however, whether the\nparty chooses to consent or object to the assignment.\n(d) Objections. If any party objects to the assignment, the case will be reassigned to a district\njudge and a new case will be directly assigned to the magistrate judge as a replacement.\n(e) Magistrate Judge’s Authority. The magistrate judge will exercise all authority under 28\nU.S.C. § 636(b) from the date the case is filed until all executed forms have been returned. Once\nit is confirmed that all forms have been returned and there are no objections to the assignment, the\nmagistrate judge will exercise all authority pursuant to 28 U.S.C. § 636(c). \n(f) Automatic Referrals to Magistrate Judge. Referral of any case or matter to the magistrate\njudge is by court order, except actions arising under 28 U.S.C. §§ 2254 and 2255 or challenging\nthe conditions of confinement of prisoners.\n",
+          "pages": [
+            39
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vtd-civil-parsed-v1-8048666fab25b6a7",
+      "sourceDocumentId": "parsed-vtd-8048666fab25b6a7",
+      "sourceUrl": "https://www.vtd.uscourts.gov/sites/vtd/files/LocalRules-20260420.pdf",
+      "pageIndex": 38,
+      "pageSpan": [
+        38,
+        39
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vtd-civil:74",
+      "collectionId": "vtd-civil",
+      "districtId": "vtd",
+      "number": "74",
+      "citation": "District of Vermont · Rule 74",
+      "title": "Certifying Questions of State Law.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-40",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 74. Certifying Questions of State Law.\n(a) Authorization. When authorized by state law, the court may certify to the state’s highest\ncourt an unsettled and significant question of state law that will control the outcome of a pending\ncase.\n(b) Procedure. \n(1) Who May Certify. The court may certify a question:\n(A) on its own motion; or \n(B) upon written motion of a party.\n(2) State Law Governs Certification Procedures. State law or court rules govern\ncertification procedures.\n32",
+          "pages": [
+            39
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-41",
+          "path": [],
+          "type": "paragraph",
+          "text": "(c) Stay. The court may grant a stay pending the state court’s decision whether to accept the\ncertified question and its decision of the certified question.\n",
+          "pages": [
+            40
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vtd-civil-parsed-v1-8048666fab25b6a7",
+      "sourceDocumentId": "parsed-vtd-8048666fab25b6a7",
+      "sourceUrl": "https://www.vtd.uscourts.gov/sites/vtd/files/LocalRules-20260420.pdf",
+      "pageIndex": 39,
+      "pageSpan": [
+        39,
+        40
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vtd-civil:77",
+      "collectionId": "vtd-civil",
+      "districtId": "vtd",
+      "number": "77",
+      "citation": "District of Vermont · Rule 77",
+      "title": "Orders by the Clerk.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-41",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 77. Orders by the Clerk.\nIn addition to the clerk’s authority to issue orders under Fed. R. Civ. P. 77(c)(2), the clerk may\nissue the following orders without further direction from the court:\n(a) Stipulated Motions. Orders granting stipulated, non-dispositive motions that do not alter a\npreviously established deadline; and\n(b) Criminal Scheduling Orders. Scheduling orders in criminal cases if a judge is absent or\nunavailable.\n",
+          "pages": [
+            40
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vtd-civil-parsed-v1-8048666fab25b6a7",
+      "sourceDocumentId": "parsed-vtd-8048666fab25b6a7",
+      "sourceUrl": "https://www.vtd.uscourts.gov/sites/vtd/files/LocalRules-20260420.pdf",
+      "pageIndex": 40,
+      "pageSpan": [
+        40,
+        40
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vtd-civil:81",
+      "collectionId": "vtd-civil",
+      "districtId": "vtd",
+      "number": "81",
+      "citation": "District of Vermont · Rule 81",
+      "title": "Removed Actions.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-41",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 81. Removed Actions.\n(a) Filing. A notice of removal must be accompanied by:\n(1) all documents required by 28 U.S.C. § 1446(a);\n(2) the filing fee payable to “Clerk, U.S. District Court”; and\n(3) a Civil Cover Sheet [form JS 44].\n(b) State Court Record. The clerk may request the complete file directly from the state court\nand instruct it to bill the removing attorney for any associated costs.\n",
+          "pages": [
+            40
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vtd-civil-parsed-v1-8048666fab25b6a7",
+      "sourceDocumentId": "parsed-vtd-8048666fab25b6a7",
+      "sourceUrl": "https://www.vtd.uscourts.gov/sites/vtd/files/LocalRules-20260420.pdf",
+      "pageIndex": 40,
+      "pageSpan": [
+        40,
+        40
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vtd-civil:83.1",
+      "collectionId": "vtd-civil",
+      "districtId": "vtd",
+      "number": "83.1",
+      "citation": "District of Vermont · Rule 83.1",
+      "title": "Admission of Attorneys.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-41",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 83.1. Admission of Attorneys.\n(a) Admission of Attorneys.\n(1) Qualifications. Subject to subsection (2), the following attorneys, whose professional\ncharacter is good, may be admitted to practice in this court:\n(A) any attorney of the Bar of the State of Vermont; or\n(B) any attorney of the Bar of a federal district court in the First and Second\nCircuits.\n(2) Procedure. An applicant who meets the qualifications above must comply with the\nfollowing procedure:\n33",
+          "pages": [
+            40
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-42",
+          "path": [],
+          "type": "paragraph",
+          "text": "(A) Application. An attorney seeking admission to the Bar of this court must file\nwith the clerk of this court a written application for admission in the form\nprescribed by the judges of this court. A certificate of good standing from the bar\nin the state in which the applicant has his/her primary office must be included with\nthe application. \n(B) Supporting Affidavit. The application must also be accompanied by an \naffidavit setting forth the following information: \n(i) the applicant’s residence and office address, office telephone number,\nfax number, and email address; \n(ii) a list of courts to which the applicant has been admitted to practice; \n(iii) the applicant's legal training and experience at the bar; \n(iv) the applicant’s representation that he or she has fully reviewed and is\nfamiliar with the Federal Rules of Civil and Criminal Procedure, the\nLocal Rules of The United States District Court for the District of\nVermont, and the Vermont Rules of Professional Conduct; \n(v) the applicant has never been convicted of any crimes or violations,\nother than minor traffic infractions not involving damage to persons\nor property;\n(vi) the applicant has no prior or pending disciplinary complaint(s) as to\nwhich a finding has been made that the complaint(s) should proceed\nto a hearing; and \n(vii) the applicant has not been denied admission to, been disciplined by,\nresigned from, surrendered his license to practice before, or\nwithdrawn an application for admission to practice while facing a\ndisciplinary complaint before, this court or any other court. \nIf the applicant cannot so state as to (B)(v), (vi) and (vii), then the applicant must describe in full\nthe circumstances of any conviction, complaint, denial, discipline, resignation, surrender, or\nwithdrawal, including the reasons therefor. The applicant must also describe any penalty,\nsanction, or other discipline imposed, whether the discipline was satisfied, and whether the\nattorney is currently in good standing in the relevant jurisdiction(s). The judges of this district or\ntheir designee shall make an inquiry as they deem appropriate. It shall take a majority vote of the\n34",
+          "pages": [
+            41
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-43",
+          "path": [],
+          "type": "paragraph",
+          "text": "judges to admit the applicant to this Bar. For the purpose of this Rule, \"minor traffic infractions\"\nwill mean motor vehicle violations which are neither felonies nor misdemeanors. \n(C) Sponsoring Attorney. The application and affidavit of the applicant must be\naccompanied by an affidavit of a sponsoring member of the Bar of this court. The\nsponsoring attorney’s affidavit must attest: \n(i) where and when the sponsor was admitted to practice in this court;\n(ii) that the sponsor has known the applicant in a professional legal\ncapacity for at least six months;\n(iii) that the applicant has good professional character; \n(iv) that the applicant is experienced at the bar;\n(v) how long and under what circumstances the sponsor has known the \napplicant’s professional character and experience as an attorney; and\n(vi) that the sponsor knows of no fact which would call into question the \nintegrity or character of the applicant.\n(D) Fee. A non-refundable fee (see Fee Schedule), payable to “Clerk, U.S.\nDistrict Court,” must accompany the application for admission. \n(E) Verification. The clerk will examine the application and affidavits and, if\nfound to be in compliance with this Rule, the application for admission will be\npresented to the court at a time and place selected by the clerk. \n(F) Oath. When a hearing is held on an application, a member of the Bar of this\ndistrict shall move the admission of the applicant. The applicant must take an oath\nin open court to support the Constitution and laws of the United States of America,\nand to discharge faithfully the duties of an attorney according to the law and the\nrecognized standards of ethics of the profession.\n(3) Certificate. If the application for admission is granted by the court, the attorney will\nreceive by mail a formal certificate of admission and a letter containing the attorney’s\nfederal bar number.\n(4) Duty to Notify. Any attorney admitted to the bar of this court must promptly disclose\nto the court any discipline imposed by any other court of the United States, by a court of\nany state, territory, or commonwealth of the United States, or by a bar of any jurisdiction.\n35",
+          "pages": [
+            42
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-44",
+          "path": [],
+          "type": "paragraph",
+          "text": "(b) Admission of Attorneys Pro Hac Vice.\n(1) Application for Admission. Subject to subsection (2), an attorney who is a member in\ngood standing of the Bar of any federal court, or of the highest court of any state, may\napply for pro hac vice admission.\n(2) Procedure. An attorney seeking pro hac vice admission to this court who satisfies the\nabove requirements must comply with the following procedure: \n(A) Motion. A member in good standing of the Bar of this court who is actively\nassociated with the attorney seeking pro hac vice admission must file a motion\nmaking the request.\n(B) Supporting Affidavit. The attorney seeking admission must attach to the\nmotion an affidavit containing the following information:\n(i) the proposed visiting attorney’s office address, telephone number, fax\nnumber, and e-mail address; \n(ii) the bar of each court the attorney is and has ever been a member, and\nhis or her corresponding bar identification number(s); \n(iii) the attorney has no pending disciplinary complaints as to which a\nfinding has been made that the complaint should proceed to a hearing; \n(iv) the attorney has not been denied admission to, been disciplined by,\nresigned from, surrendered his or her licence to practice before, or\nwithdrawn an application for admission to practice before this court\nor any other court, while facing a disciplinary complaint; or, if the\nvisiting attorney cannot so state, then the visiting attorney must\ndescribe in full the circumstances of any complaint, denial, discipline,\nresignation, surrender, or withdrawal, including the reasons therefor,\nany penalty, sanction or other discipline imposed, whether the\ndiscipline was satisfied, and whether the attorney is currently in good\nstanding in the relevant jurisdiction(s); \n(v) the attorney has fully reviewed and is familiar with the Federal Rules\nof Civil and Criminal Procedure, the Local Rules of The United States\n36",
+          "pages": [
+            43
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-45",
+          "path": [],
+          "type": "paragraph",
+          "text": "District Court for the District of Vermont, and the Vermont Rules of\nProfessional Conduct; and \n(vi) designating the sponsoring attorney as his or her agent for service of\nprocess and the District of Vermont as the forum for the resolution of\nany dispute arising out of said attorney’s admission. \n(C) Fee. A non-refundable fee (see Fee Schedule), payable to “Clerk, U.S.\nDistrict Court,” must accompany the motion for pro hac vice admission. \n(D) Certificate of Good Standing. A certificate of good standing from the court\nof the state in which the attorney has his or her primary office must be included\nwith the motion.\n(3) Revocation. The court may revoke a pro hac vice admission for good cause at any\ntime without a hearing.\n(4) Required Association with Local Counsel. \n(A) An attorney admitted pro hac vice must remain associated in the action with a\nmember of the Bar of this court at all times. \n(B) The local attorney must also sign all filings and attend all court proceedings. \n(C) The court may waive the provision in (B) for good cause shown.\n(5) Special Allowance for Original Pleadings. An attorney seeking pro hac vice\nadmission may file original pleadings, but the time for filing a responsive pleading does\nnot commence until the court receives the associated local attorney’s notice of appearance.\n(c) Admission of Attorneys for the United States. An attorney employed by an agency of the\nUnited States Government may be admitted to practice in this court if:\n(1) the United States Attorney for the District of Vermont files a motion; \n(2) the attorney takes the proper oath;\n(3) the attorney is admitted to practice before a United States district court;\n(4) the attorney’s professional character is good; and \n(5) the attorney is not subject to any pending disciplinary proceedings.\n37",
+          "pages": [
+            44
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-46",
+          "path": [],
+          "type": "paragraph",
+          "text": "(d) Fee Waived for Attorneys for the United States. An attorney employed by an agency of\nthe United States Government applying to practice before this court under section (a), (b), or (c)\nwill be admitted without payment of an application fee.\n(e) Law Student Internship and Law Clerk Practice.\n(1) Requirements to Appear. An eligible law student or law clerk may appear on behalf\nof a party if the student or law clerk:\n(A) registers as an intern under the requirements of the Rules of Admission to the\nBar of the Vermont Supreme Court;\n(B) is supervised by a member of the bar of this court; and\n(C) has the party’s written consent.\n(2) Law Student Eligibility. A law student is eligible to appear if the student: \n(A) is enrolled in good standing in a law school approved by the American Bar\nAssociation;\n(B) has completed legal studies equivalent to two semesters of credit in a law\nschool approved by the American Bar Association; and\n(C) is not employed or compensated by a client. This rule does not prevent an\nattorney, legal aid bureau, law school, public defender, or other agency from\ncompensating a law student.\n(3) Law Clerk Eligibility. A law clerk is eligible to appear if the clerk:\n(A) graduated from a law school approved by the American Bar Association and is\nin the process of completing the clerkship law study requirements of the Rules of\nAdmission to the Bar of the Vermont Supreme Court; or\n(B) completed legal clerkship and studies amounting to at least three years under\nthe Rules of Admission to the Bar of the Vermont Supreme Court under the\nsupervision of a member in good standing of the Bar of the State of Vermont; \n(C) is not employed or compensated by a client. This rule does not prevent an\nattorney, legal aid bureau, law school, public defender, or other agency from\ncompensating a law clerk; and\n(D) in the case of a law clerk described in part (e)(3)(B), appears only in matters\ninvolving Titles 2 and 16 of the Social Security Act as amended. \n38",
+          "pages": [
+            45
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-47",
+          "path": [],
+          "type": "paragraph",
+          "text": "(4) Supervising Attorney. The attorney who supervises a law student or law clerk must:\n(A) be a member of the Bar of this court or of the United States District Court for\nthe district in which the intern’s law school is located;\n(B) assume personal professional responsibility for the student’s or law clerk’s\nwork;\n(C) assist the student or law clerk to the extent necessary;\n(D) introduce the student or law clerk to the court at the person’s first appearance; \n(E) appear with the student or law clerk at all subsequent court appearances unless\nthe court waives this requirement;\n(F) give written consent to supervise the student or law clerk; \n(G) sign any filed document prepared by the student or law clerk; and\n(H) notify the court in writing when the student or law clerk’s eligibility has\nterminated under subsection (6). \n(5) Eligible Duties. A law student or law clerk who meets the requirements of this\nsection may:\n(A) appear as counsel in court or at other proceedings; and\n(B) prepare and sign court filings and other documents in connection with these\nmatters. \n(6) One Year Limit. A law student or law clerk’s eligibility to appear under these rules\nexpires:\n(A) One year after the law student has graduated from a law school approved by\nthe American Bar Association; or\n(B) after the law clerk has pursued four years of legal studies in Vermont under\nthe supervision of a practicing Vermont attorney under Rule 6(g)(1) of the Rules\nof Admission to the Bar of the Vermont Supreme Court.\n",
+          "pages": [
+            46
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vtd-civil-parsed-v1-8048666fab25b6a7",
+      "sourceDocumentId": "parsed-vtd-8048666fab25b6a7",
+      "sourceUrl": "https://www.vtd.uscourts.gov/sites/vtd/files/LocalRules-20260420.pdf",
+      "pageIndex": 40,
+      "pageSpan": [
+        40,
+        46
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vtd-civil:83.2",
+      "collectionId": "vtd-civil",
+      "districtId": "vtd",
+      "number": "83.2",
+      "citation": "District of Vermont · Rule 83.2",
+      "title": "Security.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-47",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 83.2. Security.\nThe purposes of this Local Rule are to promote security for all persons who enter federal\ncourthouses (or the portions of federal buildings occupied by the District Court), to protect the\nintegrity of judicial proceedings, to facilitate legitimate use of electronic devices for\ncommunication or for the storage, retrieval, or presentation of information, and to comply with the\n39",
+          "pages": [
+            46
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-48",
+          "path": [],
+          "type": "paragraph",
+          "text": "mandates of the Federal Rules of Criminal Procedure and the policies of the Judicial Conference\nof the United States.\n(a) Courthouse Security.\n(1) Screening and Search. All persons entering a federal courthouse in this district and\nall items carried by them are subject to appropriate screening and search by a law\nenforcement officer. Persons may be requested to provide identification and to state the\nnature of their business in the courthouse. Anyone refusing to cooperate with these\nsecurity measures may be denied entrance to the courthouse.\n(2) Photographs and Broadcasting. Unless the court grants permission, no person may\ntake photographs or use broadcast equipment within a federal courthouse. This\nprohibition does not apply to non-court federal agency tenants within their space. When\nuse is necessary, tenants must coordinate use of such equipment with the United States\nMarshals Service.\n(3) Weapons Prohibited. No weapons are permitted in a courtroom, except:\n(A) when carried by United States Marshals Service personnel or a person\nspecifically authorized by the United States Marshals Service; or\n(B) when they are used as exhibits. The custodian must render the weapon\ninoperative and present it for a safety check by United States Marshals Service\npersonnel before introducing the weapon as an exhibit.\n(4) Other Prohibited Items. Unless the court gives permission, the following are\nprohibited in a courtroom:\n(A) cameras;\n(B) video cameras;\n(C) recording equipment;\n(D) dictaphones;\n(E) pagers;\n(F) cellular phones and smartphones; \n(G) personal digital assistants; and\n(H) computers and tablets.\n(5) Grand Jury Security. The secrecy of the grand jury proceedings is a matter of \n40",
+          "pages": [
+            47
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-49",
+          "path": [],
+          "type": "paragraph",
+          "text": "preeminent concern. When a grand jury is convened, the surrounding area is restricted to \nlaw enforcement officers, participating attorneys, witnesses, and court employees. The \nUnited States Marshals Service and Court Security Officers may secure the floor of the \ngrand jury session as necessary to preserve the secrecy and protect witnesses from any\nunwanted interference.\n(b) Possession and Use of Electronic Devices.\nPossession and use of electronic devices is prohibited except in accordance with this Local Rule.\n(1) Federal Rules and Judicial Conference Policy. The Federal Rules of Criminal\nProcedure prohibit the taking of photographs in the courtroom during judicial proceedings\nor the broadcasting of judicial proceedings from the courtroom. Judicial Conference Policy\nstates that courtroom proceedings in civil and criminal cases may not be broadcast,\ntelevised, recorded, or photographed for the purpose of public dissemination. \nAs technology advances, there are an ever-growing number of wireless communication\ndevices that have the capability of recording and/or transmitting sound, pictures, and\nvideo. Many of these devices are also capable of wireless Internet access. In order to\nenforce the Federal Rules of Criminal Procedure and Judicial Conference Policy, this\nLocal Rule sets forth the limitations on the use of electronic devices inside United States\nCourthouses within the District of Vermont.\n(2) Definition of Electronic Devices. As used in this Local Rule, the phrase \"electronic\ndevice\" embraces all equipment (regardless of how it is powered or operated) that can be\nused for:\n(A) wireless communication; or\n(B) receiving, creating, capturing, storing, retrieving, sending, or broadcasting any\nsignals or any text, sound, or images; or\n(C) accessing the Internet or any other network or off-site system or equipment for\ncommunicating or for storing or retrieving information.\n(3) Possession of Electronic Devices. Subject to court security screening procedures,\ncourt officials, law enforcement, members of the Bar of the United States District Court\nfor the District of Vermont, and credentialed members of the media in possession of\nMedia Identification Cards issued by the Clerk of the Court may bring electronic devices\n41",
+          "pages": [
+            48
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-50",
+          "path": [],
+          "type": "paragraph",
+          "text": "into the courthouse. Devices must remain in the possession of the permitted individual. \nJurors will be allowed to bring their cell phones into a courthouse; however, all cell\nphones must be turned over to the Court Security Officers.\n(4) Use of Electronic Devices. Subject to court security screening procedures and to other\nprovisions of this Local Rule, permitted individuals may use electronic devices in a\nnon-disruptive manner in the common areas of the building. With the exception of court\npersonnel, court reporters, Court Security Officers, and U.S. Marshals, no electronic\ndevice may be used to record or photograph any judicial proceeding or courtroom\nfor any purpose without express permission, in advance, from the presiding judge.\n(A) Counsel who wish to use electronic devices in any courtroom during and in\nconnection with judicial proceedings must secure permission, in advance, from the\npresiding judge. \n(B) Cell phones, pagers, and other electronic communication devices may not be\nactivated inside courtrooms. Such devices may also not be used in any mode that\nuses any sound to alert the user to incoming communication.\n(C) Except as authorized for the taking of the official record of judicial\nproceedings or grand jury deliberations by a court reporter or court recording\noperator, no part of any judicial proceedings or any deliberations by a petit jury or a\ngrand jury may be recorded or transmitted.\n(D) Petit Jurors may not use or possess any electronic device during or in\nconnection with any proceeding. On a case-by-case basis, access to a juror's\ncellphone may be allowed by the presiding judge for specific purposes, such as\narranging transportation or child care.\n(E) Grand jurors may not use or possess any electronic device during or in\nconnection with any proceeding.\n(F) Requests to bring electronic devices into a courtroom by a pro se party to a\ncase will be allowed only upon application to and permission from the presiding\njudge.\n(G) At the discretion of the presiding judge, in certain cases where the use of an\noverflow room is necessary for spectators and the media, the court may permit the\nuse of closed-circuit television linking the courtroom with another location. The\n42",
+          "pages": [
+            49
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-51",
+          "path": [],
+          "type": "paragraph",
+          "text": "restrictions on the use of electronic devices as outlined in this Local Rule will\napply to the overflow rooms.\n(H) The court may allow the use of cameras and other equipment during\nceremonial proceedings, including naturalization proceedings, mock trials, or a\njudge's investiture. Permission to bring this equipment into the courthouse for\nthese proceedings must be arranged through the United States Marshals Service or\nthe Clerk of Court.\n(I) Except as provided in Section (b)(4)(H), photographs and video may not be\ntaken and images may not be captured by any means in the courthouse except in\nnon-court federal agency tenant space and chambers as coordinated through the\nUnited States Marshals Service.\n(5) Sanctions. Unauthorized use of an electronic device during a court proceeding may be\nsubject to contempt proceedings before the presiding judge or another judicial officer\ndesignated by the presiding judge. Any person violating this policy in a courtroom shall\nbe immediately removed from the courtroom and may lose the privilege of keeping an\nelectronic device on his or her person while at the federal courthouses in the District.\n(6) Media Identification Card. A non-transferable Media Identification Card allows\nmembers of the media who have been issued such cards to possess electronic devices for\nuse in designated areas within the courthouse. Media Identification Cards will be valid for\nthree years unless requested and issued for the duration of a particular event or case. \nCards will be issued to approved members of a recognized media provider who have a\nneed for an identification card in order to fulfill their various assignments. Media\nIdentification Cards will not be granted to individuals who are employed in the business,\nadvertising, or circulation departments of media providers.\nApplication instructions, requirements and an application form for Media Identification\nCards are available at any Clerk's Office location or from the court's website,\nwww.vtd.uscourts.gov.\n",
+          "pages": [
+            50
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vtd-civil-parsed-v1-8048666fab25b6a7",
+      "sourceDocumentId": "parsed-vtd-8048666fab25b6a7",
+      "sourceUrl": "https://www.vtd.uscourts.gov/sites/vtd/files/LocalRules-20260420.pdf",
+      "pageIndex": 46,
+      "pageSpan": [
+        46,
+        50
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vtd-civil:83.3",
+      "collectionId": "vtd-civil",
+      "districtId": "vtd",
+      "number": "83.3",
+      "citation": "District of Vermont · Rule 83.3",
+      "title": "Judicial Misconduct.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-51",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 83.3. Judicial Misconduct.\nComplaints alleging judicial misconduct or disability are governed by 28 U.S.C. § 351(a) and the\nRules of the Judicial Council of the Second Circuit Governing Complaints of Judicial Misconduct\n43",
+          "pages": [
+            50
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-52",
+          "path": [],
+          "type": "paragraph",
+          "text": "or Disability. Additional information is provided at the circuit court website: \nwww.ca2.uscourts.gov at the link Judicial Misconduct. \n",
+          "pages": [
+            51
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vtd-civil-parsed-v1-8048666fab25b6a7",
+      "sourceDocumentId": "parsed-vtd-8048666fab25b6a7",
+      "sourceUrl": "https://www.vtd.uscourts.gov/sites/vtd/files/LocalRules-20260420.pdf",
+      "pageIndex": 50,
+      "pageSpan": [
+        50,
+        51
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vtd-civil:83.4",
+      "collectionId": "vtd-civil",
+      "districtId": "vtd",
+      "number": "83.4",
+      "citation": "District of Vermont · Rule 83.4",
+      "title": "Miscellaneous Fees.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-52",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 83.4. Miscellaneous Fees. \nFees not otherwise listed in these rules have been established by the Judicial Conference of the\nUnited States Courts and are set forth at the fee schedule incorporated by 28 U.S.C. § 1914. The\ncourt’s official fee schedule can also be found at the court's website: www.vtd.uscourts.gov. \n",
+          "pages": [
+            51
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vtd-civil-parsed-v1-8048666fab25b6a7",
+      "sourceDocumentId": "parsed-vtd-8048666fab25b6a7",
+      "sourceUrl": "https://www.vtd.uscourts.gov/sites/vtd/files/LocalRules-20260420.pdf",
+      "pageIndex": 51,
+      "pageSpan": [
+        51,
+        51
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vtd-civil:83.5",
+      "collectionId": "vtd-civil",
+      "districtId": "vtd",
+      "number": "83.5",
+      "citation": "District of Vermont · Rule 83.5",
+      "title": "Communication with Jurors",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-52",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 83.5. Communication with Jurors\nParties, attorneys, their agents and representatives shall not contact jurors before, during, or after a\ntrial without first obtaining the written permission of the trial judge.\n",
+          "pages": [
+            51
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vtd-civil-parsed-v1-8048666fab25b6a7",
+      "sourceDocumentId": "parsed-vtd-8048666fab25b6a7",
+      "sourceUrl": "https://www.vtd.uscourts.gov/sites/vtd/files/LocalRules-20260420.pdf",
+      "pageIndex": 51,
+      "pageSpan": [
+        51,
+        51
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vtd-civil:84",
+      "collectionId": "vtd-civil",
+      "districtId": "vtd",
+      "number": "84",
+      "citation": "District of Vermont · Rule 84",
+      "title": "Availability of Forms.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-52",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 84. Availability of Forms.\nAll forms referenced in these rules are available from each of the court’s three court locations\n(Burlington, Brattleboro or Rutland) or from the court’s website: http://www.vtd.uscourts.gov.\n",
+          "pages": [
+            51
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vtd-civil-parsed-v1-8048666fab25b6a7",
+      "sourceDocumentId": "parsed-vtd-8048666fab25b6a7",
+      "sourceUrl": "https://www.vtd.uscourts.gov/sites/vtd/files/LocalRules-20260420.pdf",
+      "pageIndex": 51,
+      "pageSpan": [
+        51,
+        51
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vtd-civil:85",
+      "collectionId": "vtd-civil",
+      "districtId": "vtd",
+      "number": "85",
+      "citation": "District of Vermont · Rule 85",
+      "title": "Title and Citation.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-52",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 85. Title and Citation.\nRefer to these rules as the “Local Rules of the United States District Court for the District of\nVermont.” Cite local civil rules as “L.R. .” Cite local criminal rules as “L.Cr. R. .”\n",
+          "pages": [
+            51
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vtd-civil-parsed-v1-8048666fab25b6a7",
+      "sourceDocumentId": "parsed-vtd-8048666fab25b6a7",
+      "sourceUrl": "https://www.vtd.uscourts.gov/sites/vtd/files/LocalRules-20260420.pdf",
+      "pageIndex": 51,
+      "pageSpan": [
+        51,
+        51
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vtd-civil:86",
+      "collectionId": "vtd-civil",
+      "districtId": "vtd",
+      "number": "86",
+      "citation": "District of Vermont · Rule 86",
+      "title": "Effective Date; Relationship to Prior Rules.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-52",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 86. Effective Date; Relationship to Prior Rules.\n(a) Effective Date. These local rules become effective as revised on April 15, 2013.\n(b) Relationship to Prior Rules. These local rules govern all actions filed after the effective\ndate and supersede all previous local rules and related orders. They do not apply to pending\nactions unless justice requires.\n44",
+          "pages": [
+            51
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vtd-civil-parsed-v1-8048666fab25b6a7",
+      "sourceDocumentId": "parsed-vtd-8048666fab25b6a7",
+      "sourceUrl": "https://www.vtd.uscourts.gov/sites/vtd/files/LocalRules-20260420.pdf",
+      "pageIndex": 51,
+      "pageSpan": [
+        51,
+        51
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    }
+  ],
+  "evidence": [
+    {
+      "number": "1",
+      "heading": "Rule 1. Scope and Purpose; Definitions.",
+      "page": 9,
+      "offset": 15,
+      "slices": [
+        {
+          "page": 9,
+          "start": 15,
+          "end": 968,
+          "sha256": "a6811c061ac8714a1631697ef647c8e90350906331c701c0bc116f66982bbe11"
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "heading": "Rule 3. Materials to Accompany a Complaint.",
+      "page": 9,
+      "offset": 968,
+      "slices": [
+        {
+          "page": 9,
+          "start": 968,
+          "end": 1379,
+          "sha256": "208c4a0b5e544b9f175256adc3f62858c08c86f863749bb7c61453b12c49bf23"
+        },
+        {
+          "page": 10,
+          "start": 0,
+          "end": 729,
+          "sha256": "27a9dff7540e4a555a3ca2c73c0f333834e73b9db57f7e10e4a04fcf8daffc49"
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "heading": "Rule 4. Summons.",
+      "page": 10,
+      "offset": 729,
+      "slices": [
+        {
+          "page": 10,
+          "start": 729,
+          "end": 1014,
+          "sha256": "f713881e59046aa5756de3f53e2eb8a47288b636b485c0a973e6fc55a67cf67b"
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "heading": "Rule 5. Electronic Filing.",
+      "page": 10,
+      "offset": 1014,
+      "slices": [
+        {
+          "page": 10,
+          "start": 1014,
+          "end": 1462,
+          "sha256": "fc3bd251317b6d6e951f0b0d728fca91138cfb04ed3c701365876b63d70ea8c9"
+        }
+      ]
+    },
+    {
+      "number": "5.2",
+      "heading": "Rule 5.2. Sealed Documents; Procedure.",
+      "page": 11,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 11,
+          "start": 0,
+          "end": 556,
+          "sha256": "29ae69dd8d96dcc2be84240d9a19923eca190886e016e420ab0146797aca786a"
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "heading": "Rule 7. Motions.",
+      "page": 11,
+      "offset": 556,
+      "slices": [
+        {
+          "page": 11,
+          "start": 556,
+          "end": 1640,
+          "sha256": "6f8ed382009b88e237787b7155e27ce21102b4d7ee67f6657adadbfd3cb5ba3c"
+        },
+        {
+          "page": 12,
+          "start": 0,
+          "end": 1264,
+          "sha256": "9fca0c051ccecc2bb13f56b803ad3d418687a1217e6dc512dd27ad83b0b4ebb5"
+        }
+      ]
+    },
+    {
+      "number": "7.1",
+      "heading": "Rule 7.1. Corporate Disclosure; Purpose.",
+      "page": 12,
+      "offset": 1264,
+      "slices": [
+        {
+          "page": 12,
+          "start": 1264,
+          "end": 1904,
+          "sha256": "82be1b413a5a5b29b41d43986bc22c30d97cf91f5c1fbc92768144103775caf4"
+        }
+      ]
+    },
+    {
+      "number": "9",
+      "heading": "Rule 9. Pleading Social Security Cases; Bankruptcy Appeals.",
+      "page": 13,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 13,
+          "start": 0,
+          "end": 1892,
+          "sha256": "6120a1678fdc2199dcd4e550f5106147bf3fe348a342d76a4b9f9f4e0b804650"
+        },
+        {
+          "page": 14,
+          "start": 0,
+          "end": 1772,
+          "sha256": "637711a8eee0ca9216887711925cd2567ca5468f8de3aabd479fe96cf3760883"
+        },
+        {
+          "page": 15,
+          "start": 0,
+          "end": 967,
+          "sha256": "9b55b09a67cc8dc8ddd38aeb0b52fbcd844eb509207051ab108bb73e3bc5e8e8"
+        }
+      ]
+    },
+    {
+      "number": "10",
+      "heading": "Rule 10. Format of Pleadings, Motions and Other Papers.",
+      "page": 15,
+      "offset": 967,
+      "slices": [
+        {
+          "page": 15,
+          "start": 967,
+          "end": 1702,
+          "sha256": "afde027379e0b276a3a88f9d73cf477b36c4c43b97cff9a38d177f483f13e23c"
+        },
+        {
+          "page": 16,
+          "start": 0,
+          "end": 244,
+          "sha256": "c9bd8c61d9d25e7b374a8a1725fbc5d4c38f3aa064708df063b97ba452668c5f"
+        }
+      ]
+    },
+    {
+      "number": "11",
+      "heading": "Rule 11. Appearances; Pro Se or Otherwise; Withdrawal of Counsel.",
+      "page": 16,
+      "offset": 244,
+      "slices": [
+        {
+          "page": 16,
+          "start": 244,
+          "end": 1117,
+          "sha256": "7512b7495e86426e49b67cdb630cf13da46fca401b8a03a1c4cdc56a00db5149"
+        }
+      ]
+    },
+    {
+      "number": "15",
+      "heading": "Rule 15. Motion to Amend a Filing.",
+      "page": 16,
+      "offset": 1117,
+      "slices": [
+        {
+          "page": 16,
+          "start": 1117,
+          "end": 1379,
+          "sha256": "2f1b2ba5a3fbd39621ce6aeff990a5de582472c8cf4cbf278b8aa20d175118ea"
+        },
+        {
+          "page": 17,
+          "start": 0,
+          "end": 136,
+          "sha256": "4736fda7a8e06a5f8e3a8c55c05894c538882e8e26d6ac0f19fb4d78bcc66844"
+        }
+      ]
+    },
+    {
+      "number": "16",
+      "heading": "Rule 16. Pretrial Conferences.",
+      "page": 17,
+      "offset": 136,
+      "slices": [
+        {
+          "page": 17,
+          "start": 136,
+          "end": 1604,
+          "sha256": "697f44a0764871d4c0e01b5d13b957589a01fc702e2da8388a3f5b936fc1928c"
+        },
+        {
+          "page": 18,
+          "start": 0,
+          "end": 1755,
+          "sha256": "46a6097057fe854e1bbe4f50858633e80a3ed6ada01d94451e7121c71156625a"
+        },
+        {
+          "page": 19,
+          "start": 0,
+          "end": 828,
+          "sha256": "0c9baed371a748e39e33818296432f12b2f3b9ca35454987360595bf2bd8ff4b"
+        }
+      ]
+    },
+    {
+      "number": "16.1",
+      "heading": "Rule 16.1. Early Neutral Evaluation (ENE).",
+      "page": 19,
+      "offset": 828,
+      "slices": [
+        {
+          "page": 19,
+          "start": 828,
+          "end": 1638,
+          "sha256": "078cb916645a50782a8c3854958e81e7bbbcefde92fd217f963adad7323e304e"
+        },
+        {
+          "page": 20,
+          "start": 0,
+          "end": 1698,
+          "sha256": "ee29da9a9ab8379709f0b7b184ab9a731f5ef0357d90c355f0ed735293b8d938"
+        },
+        {
+          "page": 21,
+          "start": 0,
+          "end": 1730,
+          "sha256": "13efff16809d5abd08dfdca5f3c87a4a7b0ba81aa116f9e21c1466ed3619afdf"
+        },
+        {
+          "page": 22,
+          "start": 0,
+          "end": 1893,
+          "sha256": "30f39babcb634c00aa6cf5d32cc89d5e2fe537b804c05db1b7a464b035c9a9ae"
+        },
+        {
+          "page": 23,
+          "start": 0,
+          "end": 1742,
+          "sha256": "67f882aa71ae09af8d6bea56a53df238df10e6fbc149ca2717f5b2bf766c3615"
+        },
+        {
+          "page": 24,
+          "start": 0,
+          "end": 1706,
+          "sha256": "b4db668d5047c9fb3bd31bb8f71dba99ca5f5be6455ec5c7484781d563219da4"
+        },
+        {
+          "page": 25,
+          "start": 0,
+          "end": 1796,
+          "sha256": "46abd9e1300730c66fb3e7100088a24ff0b44d0fa27b6a0f1b817dcec6cf9a1d"
+        },
+        {
+          "page": 26,
+          "start": 0,
+          "end": 1547,
+          "sha256": "5090a71899bac6005a9013ac6697ad770fdba91902b10877325e4e922f7dc60c"
+        },
+        {
+          "page": 27,
+          "start": 0,
+          "end": 858,
+          "sha256": "964107e1cf3983fcb3007afd834f848323428eb944dc2ccfdd5dc4ca886b885e"
+        }
+      ]
+    },
+    {
+      "number": "23",
+      "heading": "Rule 23. Class Actions; General Requirements.",
+      "page": 27,
+      "offset": 858,
+      "slices": [
+        {
+          "page": 27,
+          "start": 858,
+          "end": 1522,
+          "sha256": "7deb63fe27e747352b52fef5e7273c3e09357973c10e07d6d669f7c5d0b3b4e1"
+        }
+      ]
+    },
+    {
+      "number": "26",
+      "heading": "Rule 26. Discovery.",
+      "page": 28,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 28,
+          "start": 0,
+          "end": 2224,
+          "sha256": "e635d931cb38d738b18b4a93c1c82f8834380b6d5e27cb64d432fd2a66e384f8"
+        },
+        {
+          "page": 29,
+          "start": 0,
+          "end": 1613,
+          "sha256": "8aa717a1e10d38e8b5519449128a3b8a26576a5f1258befaad1bf024e4ead6ea"
+        },
+        {
+          "page": 30,
+          "start": 0,
+          "end": 462,
+          "sha256": "b26379c387ef077489df4312cf4caff63557c79500f06bfa44164bbd72fcdfe2"
+        }
+      ]
+    },
+    {
+      "number": "33",
+      "heading": "Rule 33. Interrogatories to Parties.",
+      "page": 30,
+      "offset": 462,
+      "slices": [
+        {
+          "page": 30,
+          "start": 462,
+          "end": 569,
+          "sha256": "f991cdf59a492c6d1702e63d2c619c6e2a546e78eb4c7d306ac82d142e42f9fc"
+        }
+      ]
+    },
+    {
+      "number": "34",
+      "heading": "Rule 34. Producing Documents.",
+      "page": 30,
+      "offset": 569,
+      "slices": [
+        {
+          "page": 30,
+          "start": 569,
+          "end": 664,
+          "sha256": "1ad1b41be9fc528e4c97ebfdd741429dfe7f1bc88170a59fc0031ef10fdf0268"
+        }
+      ]
+    },
+    {
+      "number": "40",
+      "heading": "Rule 40. Exhibits.",
+      "page": 30,
+      "offset": 664,
+      "slices": [
+        {
+          "page": 30,
+          "start": 664,
+          "end": 1883,
+          "sha256": "144e49db6d4afb0db310eb2e83dcf99ce2fc6ebab3c4988905991ad60dfd0b12"
+        },
+        {
+          "page": 31,
+          "start": 0,
+          "end": 1662,
+          "sha256": "a8080a9b68cf34beee0d1b522eacd3ebcd6ee8cb9a9df47f9c3680f3e53fd621"
+        },
+        {
+          "page": 32,
+          "start": 0,
+          "end": 614,
+          "sha256": "f87de336959f8f0ee05d78c038a72a330470a057ee477b2745af14f73a2155d9"
+        }
+      ]
+    },
+    {
+      "number": "42",
+      "heading": "Rule 42. Consolidation of Cases; Subsequent Filings.",
+      "page": 32,
+      "offset": 614,
+      "slices": [
+        {
+          "page": 32,
+          "start": 614,
+          "end": 1587,
+          "sha256": "c8ce154f4683209876e5b8b62127b04d9b275bf7cfe3cec3e14c3274807f8cf2"
+        }
+      ]
+    },
+    {
+      "number": "45",
+      "heading": "Rule 45. Subpoena of Witnesses in In Forma Pauperis Cases or Pro Se Cases.",
+      "page": 32,
+      "offset": 1587,
+      "slices": [
+        {
+          "page": 32,
+          "start": 1587,
+          "end": 1857,
+          "sha256": "1ef4c1313113e287858aacf4e98770e29472c618cf85231b6746d6687c3685c2"
+        },
+        {
+          "page": 33,
+          "start": 0,
+          "end": 551,
+          "sha256": "4247e9bc333bbfa2f0af413fcd66f00ac326027474dc6dc203644414d2652a62"
+        }
+      ]
+    },
+    {
+      "number": "47",
+      "heading": "Rule 47. Jury Costs in Civil Actions.",
+      "page": 33,
+      "offset": 551,
+      "slices": [
+        {
+          "page": 33,
+          "start": 551,
+          "end": 822,
+          "sha256": "4d44619ee4b88afe453563944d1374f37bc18f2c0db0ab023663e45e30db827a"
+        }
+      ]
+    },
+    {
+      "number": "51",
+      "heading": "Rule 51. Requests for Jury Instructions.",
+      "page": 33,
+      "offset": 822,
+      "slices": [
+        {
+          "page": 33,
+          "start": 822,
+          "end": 1138,
+          "sha256": "9cce4cef0c1b509e03b04843f19160450071f95dd367857bdbe241babe4541aa"
+        }
+      ]
+    },
+    {
+      "number": "52",
+      "heading": "Rule 52. Findings of Fact and Conclusions of Law by the Court.",
+      "page": 33,
+      "offset": 1138,
+      "slices": [
+        {
+          "page": 33,
+          "start": 1138,
+          "end": 1379,
+          "sha256": "6ba490d6572eab0b84d7357e57452d458b13b14c087c614c90e1609d2cb44c43"
+        }
+      ]
+    },
+    {
+      "number": "54",
+      "heading": "Rule 54. Taxable Costs; Taxation on Appeal.",
+      "page": 34,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 34,
+          "start": 0,
+          "end": 485,
+          "sha256": "fb461e95d0d3558884f1da6fda053daf2a3fa59172a394184db423964ddf84a2"
+        }
+      ]
+    },
+    {
+      "number": "55",
+      "heading": "Rule 55. Default Judgment.",
+      "page": 34,
+      "offset": 485,
+      "slices": [
+        {
+          "page": 34,
+          "start": 485,
+          "end": 1644,
+          "sha256": "1dc5136c19ad369776850621887e116fc842f31d5b00bb0a800dc600c4e6403f"
+        },
+        {
+          "page": 35,
+          "start": 0,
+          "end": 967,
+          "sha256": "2c6d96c30545992558ef67aedf683f9dde6f6b99fdc5a59b01c2d68332760d11"
+        }
+      ]
+    },
+    {
+      "number": "56",
+      "heading": "Rule 56. Summary Judgment; Notice to Pro Se Litigants Opposing Summary",
+      "page": 35,
+      "offset": 967,
+      "slices": [
+        {
+          "page": 35,
+          "start": 967,
+          "end": 1836,
+          "sha256": "55ad935260c5bd88eeb7e860ef520ff12b4c56566b39f6922e552e2a268b2b73"
+        },
+        {
+          "page": 36,
+          "start": 0,
+          "end": 2267,
+          "sha256": "0a8685112d21f5dd76043dda1fab180200d67f2dbe5790bffb6decee94730a3a"
+        },
+        {
+          "page": 37,
+          "start": 0,
+          "end": 1944,
+          "sha256": "664fb16f69a694372d66e5baed4e3b60dd80dd53fb05ad3eb9251c7af753775e"
+        }
+      ]
+    },
+    {
+      "number": "67",
+      "heading": "Rule 67. Deposit of Funds with the Court.",
+      "page": 37,
+      "offset": 1944,
+      "slices": [
+        {
+          "page": 37,
+          "start": 1944,
+          "end": 2853,
+          "sha256": "ab26ddd3bafee10e14430504876bb00f6af9b317d0b38129843ce1f9d0308e01"
+        },
+        {
+          "page": 38,
+          "start": 0,
+          "end": 721,
+          "sha256": "cbdced4837eeccf03303cd46f214eb21131ba4cf96babf7aaa1d62a1c55d543f"
+        }
+      ]
+    },
+    {
+      "number": "72",
+      "heading": "Rule 72. Duties of Magistrate Judge; Referral of Cases to Magistrate Judge;",
+      "page": 38,
+      "offset": 721,
+      "slices": [
+        {
+          "page": 38,
+          "start": 721,
+          "end": 1807,
+          "sha256": "d4cc1fc0553c54bd6934a8772f33f935f25d310e214b6eacdde5ad72f3f66340"
+        },
+        {
+          "page": 39,
+          "start": 0,
+          "end": 1089,
+          "sha256": "23913a5e9f1bb11e0e3ae73d6259d74f285520fae434384cf1318e7becbd54b3"
+        }
+      ]
+    },
+    {
+      "number": "73",
+      "heading": "Rule 73. Direct Assignment of Civil Cases to the Magistrate Judge;",
+      "page": 39,
+      "offset": 1089,
+      "slices": [
+        {
+          "page": 39,
+          "start": 1089,
+          "end": 1915,
+          "sha256": "01d5a812bdb61e8845072b264902c0dcbc5e83817b83644d3ce229b011e18252"
+        },
+        {
+          "page": 40,
+          "start": 0,
+          "end": 1303,
+          "sha256": "0c2c0c38a28669597e660ec52752da4d4172b2fa93a622b480196e08c1f91e61"
+        }
+      ]
+    },
+    {
+      "number": "74",
+      "heading": "Rule 74. Certifying Questions of State Law.",
+      "page": 40,
+      "offset": 1303,
+      "slices": [
+        {
+          "page": 40,
+          "start": 1303,
+          "end": 1789,
+          "sha256": "74c0c7b4262b3b415915caa5fc7325692272a39454a1cc2329863636cfc07ffa"
+        },
+        {
+          "page": 41,
+          "start": 0,
+          "end": 157,
+          "sha256": "3b9db805e7f81913c9953453a22d4a1459b43f9103a278bdc2aadaf25426489a"
+        }
+      ]
+    },
+    {
+      "number": "77",
+      "heading": "Rule 77. Orders by the Clerk.",
+      "page": 41,
+      "offset": 157,
+      "slices": [
+        {
+          "page": 41,
+          "start": 157,
+          "end": 593,
+          "sha256": "c57388db5fd46e30993f122d3aca5b9f19cf0cfb0a26628c13dd76ef56cb19af"
+        }
+      ]
+    },
+    {
+      "number": "81",
+      "heading": "Rule 81. Removed Actions.",
+      "page": 41,
+      "offset": 593,
+      "slices": [
+        {
+          "page": 41,
+          "start": 593,
+          "end": 994,
+          "sha256": "3f6e14330e407120fb34957e02f268bc56a213c74c4b41b1e5377ff23c31b135"
+        }
+      ]
+    },
+    {
+      "number": "83.1",
+      "heading": "Rule 83.1. Admission of Attorneys.",
+      "page": 41,
+      "offset": 994,
+      "slices": [
+        {
+          "page": 41,
+          "start": 994,
+          "end": 1463,
+          "sha256": "7761ff7022d913774887a52cf19b0f35cfaf3433a8edf306330f883b1cbd7827"
+        },
+        {
+          "page": 42,
+          "start": 0,
+          "end": 2160,
+          "sha256": "9bfe3a89327fb1c70eb03a6fee860afdbfb05732871c4d437dc15b1f4a9b12af"
+        },
+        {
+          "page": 43,
+          "start": 0,
+          "end": 2153,
+          "sha256": "07658e68877dcf7291c099a3b9122dc84eaa45800beff08e25018f6e0376121d"
+        },
+        {
+          "page": 44,
+          "start": 0,
+          "end": 1912,
+          "sha256": "a8da09fa9ee828c5ea32021e526588c774b0a53a75165e5fb1591193b8e79076"
+        },
+        {
+          "page": 45,
+          "start": 0,
+          "end": 1808,
+          "sha256": "13f14ac449650110cf9435f2534f29650fca6c499fb25779ffc8d6c0a41a4381"
+        },
+        {
+          "page": 46,
+          "start": 0,
+          "end": 1986,
+          "sha256": "823584d0a526a2b35c620b5ea9f35e1d27107e043cfbd3b85964f65a606ca7df"
+        },
+        {
+          "page": 47,
+          "start": 0,
+          "end": 1504,
+          "sha256": "4e7129c3e9c9b56ec52d2d312139ca70a0f04081d551ae3918da299bb4e0427e"
+        }
+      ]
+    },
+    {
+      "number": "83.2",
+      "heading": "Rule 83.2. Security.",
+      "page": 47,
+      "offset": 1504,
+      "slices": [
+        {
+          "page": 47,
+          "start": 1504,
+          "end": 1905,
+          "sha256": "7e5b40f160bc807857a86c02839f3b353645a0971b9a9715567214a24394d72d"
+        },
+        {
+          "page": 48,
+          "start": 0,
+          "end": 1704,
+          "sha256": "f0cd2e76c951fa3740b861a7944ccf38df23b46bc8a85bce7dd336fb7e7a38fe"
+        },
+        {
+          "page": 49,
+          "start": 0,
+          "end": 2259,
+          "sha256": "6f33909910d3f1380f84c4dbc7aadd81908475c879cdb8817c2c0e94b247f6d4"
+        },
+        {
+          "page": 50,
+          "start": 0,
+          "end": 2223,
+          "sha256": "dab610516a25af39572ecea18765dcd3b3c72f0117338b6bfa3dbd3c9db38dee"
+        },
+        {
+          "page": 51,
+          "start": 0,
+          "end": 2004,
+          "sha256": "06040fd854d3aa729d2d6efb417daa15a43cf4520eb24072c398c0f659c97107"
+        }
+      ]
+    },
+    {
+      "number": "83.3",
+      "heading": "Rule 83.3. Judicial Misconduct.",
+      "page": 51,
+      "offset": 2004,
+      "slices": [
+        {
+          "page": 51,
+          "start": 2004,
+          "end": 2231,
+          "sha256": "757c725ba6546b9e349492f66d2cb5ccb7420b46cadce7d2c452bfeaf13935d3"
+        },
+        {
+          "page": 52,
+          "start": 0,
+          "end": 136,
+          "sha256": "58e60b5b7491f8b096d5e50e8705b230227badba351c7303350119cc631282a8"
+        }
+      ]
+    },
+    {
+      "number": "83.4",
+      "heading": "Rule 83.4. Miscellaneous Fees.",
+      "page": 52,
+      "offset": 136,
+      "slices": [
+        {
+          "page": 52,
+          "start": 136,
+          "end": 457,
+          "sha256": "0456cdd79310e498b20879756e1d19a003cb576d90a4dfeb8ade36f487db3b4a"
+        }
+      ]
+    },
+    {
+      "number": "83.5",
+      "heading": "Rule 83.5. Communication with Jurors",
+      "page": 52,
+      "offset": 457,
+      "slices": [
+        {
+          "page": 52,
+          "start": 457,
+          "end": 672,
+          "sha256": "0cc95420714a0556ac9be1317e58f70b44e4f732d1979eea69e93518ef4d4809"
+        }
+      ]
+    },
+    {
+      "number": "84",
+      "heading": "Rule 84. Availability of Forms.",
+      "page": 52,
+      "offset": 672,
+      "slices": [
+        {
+          "page": 52,
+          "start": 672,
+          "end": 896,
+          "sha256": "23276b5f97a5d70035b82b13db2dc27b43488b944ba22e9d0c146a2c989730e5"
+        }
+      ]
+    },
+    {
+      "number": "85",
+      "heading": "Rule 85. Title and Citation.",
+      "page": 52,
+      "offset": 896,
+      "slices": [
+        {
+          "page": 52,
+          "start": 896,
+          "end": 1109,
+          "sha256": "9525626fd04b8ed2cb2b2827770cf710f3574175175c2a3a0a2f2e4b49ecc403"
+        }
+      ]
+    },
+    {
+      "number": "86",
+      "heading": "Rule 86. Effective Date; Relationship to Prior Rules.",
+      "page": 52,
+      "offset": 1109,
+      "slices": [
+        {
+          "page": 52,
+          "start": 1109,
+          "end": 1472,
+          "sha256": "2648fcab2fa70eecdcbe195a789694ed0ad4ed1af2222dc57643a00521baa6fc"
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "startPage": 9,
+    "startOffset": 15,
+    "endPage": 52,
+    "endOffset": 1472,
+    "ruleCount": 40,
+    "tocReconciled": false,
+    "editorialReviewComplete": false,
+    "currencyReviewed": false,
+    "flags": [
+      "Source extraction contains unresolved characters; consult the original publication."
+    ],
+    "excluded": "Source material outside the recorded range remains available in the district source library."
+  },
+  "transcriptionSha256": "e70f29242ea943d09034924abc3180649b21a08c0f1959fdf691bfe3f6c91eaa"
+}

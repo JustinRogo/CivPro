@@ -1,0 +1,1699 @@
+{
+  "version": 1,
+  "reviewStatus": "parsed-draft",
+  "districtId": "vawd",
+  "sourceDocument": {
+    "id": "1ffd80a63eaaf3c4",
+    "title": "Local Rules",
+    "format": "pdf",
+    "role": "primary",
+    "sourceUrl": "https://www.vawd.uscourts.gov/sites/Public/assets/File/court/local_rules.pdf",
+    "sha256": "1ffd80a63eaaf3c4b3ab9e405b4365f43b56ab5d8f8410b58eefb61b707e971c",
+    "bytes": 1175338,
+    "retrievedAt": "2026-09-07T00:02:32.284822+00:00",
+    "snapshotPath": "sources/district-snapshots/1ffd80a63eaaf3c4b3ab9e405b4365f43b56ab5d8f8410b58eefb61b707e971c.pdf",
+    "textPath": "data/source-library/1ffd80a63eaaf3c4b3ab9e405b4365f43b56ab5d8f8410b58eefb61b707e971c.json",
+    "pdfPath": "data/source-pdfs/1ffd80a63eaaf3c4b3ab9e405b4365f43b56ab5d8f8410b58eefb61b707e971c.pdf",
+    "pageCount": 45,
+    "reviewStatus": "source-document-only",
+    "blankTextPages": 0
+  },
+  "collection": {
+    "id": "vawd-civil",
+    "name": "Western District of Virginia Local Rules",
+    "shortName": "Local rules · draft",
+    "districtId": "vawd",
+    "scopeNote": "Civil and generally applicable local rules; unparsed supplements remain in the source library. Rule boundaries and transcription are drafts. Embedded notes, forms, and running headers may remain within rule text; subsection anchors and field-separated notes are not yet reviewed."
+  },
+  "provisions": [
+    {
+      "id": "vawd-civil:1",
+      "collectionId": "vawd-civil",
+      "districtId": "vawd",
+      "number": "1",
+      "citation": "Western District of Virginia · Rule 1",
+      "title": "Scope and Purpose of Rules",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-7",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 1. Scope and Purpose of Rules Return to Top\n(a) Application. These rules apply in all civil and criminal cases and other \nproceedings in the United States District Court for the Western District of \nVirginia.\n(b) Definitions. So far as applicable, 1 U.S.C. §§ 1 through 5 govern the construction \nof these rules. “This Court” refers to the United States District Court for the \nWestern District of Virginia. The words “the Court” or “judge” as used in these \nrules include any judicial officer sitting in this Court. “Clerk” as used in these \nrules means the Clerk of this Court or any authorized deputy thereof. Persons \nappearing pro se are bound by these rules, and any reference to “attorney” or \n“counsel” applies to pro se parties unless the context requires otherwise.\n(c) Amendment. These rules may be amended at any time by this Court, after giving \npublic notice and an opportunity for comment.\n(d) Citation. These rules may be cited as W.D. Va. Gen. R., W.D. Va. Civ. R., or \nW.D. Va. Crim. R., as the case may be.",
+          "pages": [
+            6
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-8",
+          "path": [],
+          "type": "paragraph",
+          "text": "2\n(e) Effective Date. These rules and amendments thereto take effect as provided in \nthe order of adoption and govern all proceedings thereafter commenced and, insofar \nas just and practicable, all then pending proceedings.\n",
+          "pages": [
+            7
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vawd-civil-parsed-v1-1ffd80a63eaaf3c4",
+      "sourceDocumentId": "parsed-vawd-1ffd80a63eaaf3c4",
+      "sourceUrl": "https://www.vawd.uscourts.gov/sites/Public/assets/File/court/local_rules.pdf",
+      "pageIndex": 6,
+      "pageSpan": [
+        6,
+        7
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vawd-civil:2",
+      "collectionId": "vawd-civil",
+      "districtId": "vawd",
+      "number": "2",
+      "citation": "Western District of Virginia · Rule 2",
+      "title": "Divisions of the Western District",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-8",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 2. Divisions of the Western District Return to Top\n(a) Divisions. The divisions of this Court are as follows.\n(1) Abingdon Division. The Abingdon Division embraces the counties of \nSmyth, Tazewell, Russell, Washington, Buchanan, Grayson, Bland, Wythe, \nthe city of Bristol, Dickenson, Wise, Scott, Lee, and the city of Norton; \n(2) Charlottesville Division. The Charlottesville Division embraces the \ncounties of Albemarle, Fluvanna, Madison, Greene, Nelson, \nRappahannock, Culpeper, Louisa, Orange, and the city of Charlottesville; \n(3) Harrisonburg Division. The Harrisonburg Division embraces the \ncounties of Frederick, Clarke, Warren, Shenandoah, Page, Rockingham, \nAugusta, Highland, Bath and the cities of Harrisonburg, Staunton, \nWaynesboro and Winchester; \n(4) Lynchburg Division. The Lynchburg Division embraces the counties of \nRockbridge, Amherst, Bedford, Campbell, Pittsylvania, Halifax, Charlotte, \nAppomattox, Buckingham, Cumberland and the cities of Buena Vista, \nDanville, Lexington and Lynchburg; \n(5) Roanoke Division. The Roanoke Division embraces the counties of \nAlleghany, Botetourt, Craig, Giles, Pulaski, Montgomery, Roanoke, Floyd, ",
+          "pages": [
+            7
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-9",
+          "path": [],
+          "type": "paragraph",
+          "text": "3\nFranklin, Carroll, Patrick, Henry, and the cities of Covington,\nMartinsville, Radford, Roanoke, Salem, and Galax.\n(b) Venue in Civil Cases. Civil actions for which venue is proper in this district must \nbe brought in the proper division as well. The venue rules for United States district \ncourts contained in the United States Code also apply in determining the proper \ndivision in which an action must be filed, so that such venue rules are construed as \nif the terms “judicial district” and “district” were replaced with the word “division.”\n(c) Venue in Criminal Cases. Upon the return of an indictment by any grand jury, it \nshall be filed in the division in which the crime charged is alleged to have occurred \nand assigned to the judge next in rotation for that division. Where the indictment \ncharges a crime or crimes that are alleged to have occurred in more than one \ndivision, the indictment shall be filed in the division in which it is alleged that a \ncrime occurred that is the residence of a defendant, or if there are more than two \ndefendants, and a majority of the defendants reside in one division, in that division. \nIf the appropriate division cannot be determined using the rules set forth herein, the \nClerk shall consult with the chief judge of the district, or in the chief judge’s \nabsence, with the next available active district judge in seniority, for direction as to \nthe proper division for filing. Superseding indictments in any case shall be filed \nin the division in which the existing indictment is filed. Nothing in this rule shall \naffect the discretion of the presiding judge in any case in determining the proper \nplace of trial.",
+          "pages": [
+            8
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-10",
+          "path": [],
+          "type": "paragraph",
+          "text": "4\n(d) Assignment of Cases. Cases are assigned among the district judges pursuant to \nStanding Order, as amended from time to time. If a judge to whom a case is \nassigned is disqualified from the case by statute or by the Code of Conduct for \nUnited States Judges, the case must be reassigned by the Clerk to the judge who is \nnext in rotation pursuant to the Standing Order, and if there is no other available \njudge, then the chief judge must reassign the case, and if the chief judge is so \ndisqualified or is unavailable, then the next available active district judge in \nseniority must reassign the case.\n(e) Continuous Session. All of the divisions of this Court shall be deemed in \ncontinuous session for transaction of judicial business on all business days \nthroughout the year.\n",
+          "pages": [
+            9
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vawd-civil-parsed-v1-1ffd80a63eaaf3c4",
+      "sourceDocumentId": "parsed-vawd-1ffd80a63eaaf3c4",
+      "sourceUrl": "https://www.vawd.uscourts.gov/sites/Public/assets/File/court/local_rules.pdf",
+      "pageIndex": 7,
+      "pageSpan": [
+        7,
+        9
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vawd-civil:3",
+      "collectionId": "vawd-civil",
+      "districtId": "vawd",
+      "number": "3",
+      "citation": "Western District of Virginia · Rule 3",
+      "title": "Bankruptcy Referrals and Jury Trials",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-10",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 3. Bankruptcy Referrals and Jury Trials Return to Top\n(a) Assignments. In accordance with the provisions of 28 U.S.C. § 157, all cases \nunder Title 11 of the United States Code and all proceedings arising under Title 11, \nor arising in or relating to a case under Title 11, are referred to the bankruptcy \njudges for this district, to be assigned in accordance with their assignment rules.\n(b) Jury Trials. In accordance with the provisions of 28 U.S.C. § 157(e), bankruptcy \njudges of this district are hereby specifically designated to conduct jury trials when \nall parties have expressly consented thereto.",
+          "pages": [
+            9
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-11",
+          "path": [],
+          "type": "paragraph",
+          "text": "5\n",
+          "pages": [
+            10
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vawd-civil-parsed-v1-1ffd80a63eaaf3c4",
+      "sourceDocumentId": "parsed-vawd-1ffd80a63eaaf3c4",
+      "sourceUrl": "https://www.vawd.uscourts.gov/sites/Public/assets/File/court/local_rules.pdf",
+      "pageIndex": 9,
+      "pageSpan": [
+        9,
+        10
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vawd-civil:4",
+      "collectionId": "vawd-civil",
+      "districtId": "vawd",
+      "number": "4",
+      "citation": "Western District of Virginia · Rule 4",
+      "title": "Social Security Cases",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-11",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 4. Social Security Cases Return to Top\n(a) Applications to Proceed without Prepayment of Funds in Disability \nInsurance and Supplemental Security Income Appeals. Pursuant to the \nprovisions of 28 U.S.C. § 636(b)(l)(B) and Federal Rule of Civil Procedure \n72(b), all applications to proceed without prepayment of funds in Social \nSecurity disability insurance or supplemental security income appeals may be\nreferred to a United States magistrate judge for consideration. Pursuant to \nFederal Rule of Civil Procedure 72(b), the petitioner may object to any order\nentered by the magistrate judge denying in forma pauperis status and may seek \nreview by the district judge to whom the case would be assigned by filing a\nwritten objection to the order with the court within 14 days of notice thereof.\n(b) Social Security Disability Filings. Pursuant to the Supplemental Rules for \nSocial Security actions and 42 U.S.C. § 405(g), on judicial review of decisions\nby the Commissioner of Social Security, the following rules apply:\n(1) The parties may use the form Social Security Complaint and Social Security\nAnswer which are hyperlinked here and also available on the Court’s \nwebsite under the “Forms” tab.\n(2) In all cases in which the Court has entered a judgment affirming,\nmodifying, or reversing the decision of the Commissioner and remands\nthe cause for a rehearing, the order of remand shall be deemed a final\norder for all purposes, except a petition for approval of attorneys’ fees, ",
+          "pages": [
+            10
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-12",
+          "path": [],
+          "type": "paragraph",
+          "text": "6\nand the claimant must file a new complaint pursuant to the terms of 42 \nU.S.C. § 405(g) to obtain further judicial review, and in such cases, the\nCourt shall waive prepayment of any statutory filing fee;\n(3) The Court shall retain jurisdiction in all cases in which the Court \nremands the case to the Commissioner for consideration of new \nevidence which is material and for which good cause is shown for \nfailure to incorporate the evidence in prior proceedings. Claimants \ndissatisfied with the Commissioner’s decision upon remand may \npetition the Court to reinstate the case on the active docket for review \nof the decision; if all parties are satisfied with the decision upon \nremand, the prevailing party shall petition the Court for entry of a final \norder adopting and ratifying the decision; and\n(4) Any petition for approval of attorneys’ fees pursuant to §406(b) shall \nbe filed within 30 days of the date of the Notice of Award. A copy of \nthe Notice of Award shall be filed with the petition for approval of \nattorney’s fees.\n(c) Briefing of Social Security Cases. In all cases seeking judicial review of \ndecisions by the Commissioner of Social Security pursuant to 42 U.S.C. §\n405(g), the following procedures are applicable, unless changed by the \npresiding judge:\n(1) The plaintiff must file, within 30 days of service of a copy of the \nadministrative record, a brief addressing why the Commissioner’s",
+          "pages": [
+            11
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-13",
+          "path": [],
+          "type": "paragraph",
+          "text": "7\ndecision is not supported by substantial evidence or why the decision \notherwise should be reversed or the case remanded;\n(2) If the plaintiff desires oral argument, it must be requested in writing at \nthe time the plaintiff’s brief is filed. Whether to allow oral argument is \nat the discretion of the Court. If oral argument is allowed, a party may\nparticipate either telephonically or in person;\n(3) If the Commissioner desires to file a brief in response, such brief must \nbe filed within 30 days after service of the plaintiff’s brief;\n(4) If the plaintiff desires to file a reply brief, such brief must be filed within \n14 days after service of the Commissioner’s brief; and\n(5) In the event that the Commissioner files a motion to remand the case to\nthe Commissioner for further proceedings, the motion must set forth \nwhether or not the plaintiff consents to such remand. If no such consent \nis indicated, the plaintiff must file the grounds of any objection to \nremand within 14 days of service of the motion to remand, or it will be\nassumed that plaintiff consents to remand.\n",
+          "pages": [
+            12
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vawd-civil-parsed-v1-1ffd80a63eaaf3c4",
+      "sourceDocumentId": "parsed-vawd-1ffd80a63eaaf3c4",
+      "sourceUrl": "https://www.vawd.uscourts.gov/sites/Public/assets/File/court/local_rules.pdf",
+      "pageIndex": 10,
+      "pageSpan": [
+        10,
+        12
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vawd-civil:5",
+      "collectionId": "vawd-civil",
+      "districtId": "vawd",
+      "number": "5",
+      "citation": "Western District of Virginia · Rule 5",
+      "title": "Prejudicial Influences",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-13",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 5. Prejudicial Influences Return to Top\nThe conduct of a trial will be insulated by all court personnel, lawyers and litigants from \nall prejudicial influences. Except for naturalization and ceremonial proceedings, photography ",
+          "pages": [
+            12
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-14",
+          "path": [],
+          "type": "paragraph",
+          "text": "8\nduring a session of court, as well as sound and video broadcasting or recording, is prohibited in \nthe courtroom, its environs, and the offices of this Court.\n",
+          "pages": [
+            13
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vawd-civil-parsed-v1-1ffd80a63eaaf3c4",
+      "sourceDocumentId": "parsed-vawd-1ffd80a63eaaf3c4",
+      "sourceUrl": "https://www.vawd.uscourts.gov/sites/Public/assets/File/court/local_rules.pdf",
+      "pageIndex": 12,
+      "pageSpan": [
+        12,
+        13
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vawd-civil:6",
+      "collectionId": "vawd-civil",
+      "districtId": "vawd",
+      "number": "6",
+      "citation": "Western District of Virginia · Rule 6",
+      "title": "Attorneys",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-14",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 6. Attorneys Return to Top\n(a) Eligibility to Practice. Any person who is an active or emeritus member of the \nVirginia State Bar in good standing is eligible to practice before this Court upon \nadmission.\n(b) Procedure. Admission to practice is upon motion in open court any day during \nwhich this Court is in session. An attorney desiring to be admitted, not less than \n2 weeks before the day on which the motion is to be submitted, must file in the \nclerk’s office at the place where such motion is to be made, an application for \nadmission to practice, which application must be made in writing, stating the \nqualifications hereinbefore prescribed and, in addition thereto, the name and office \naddress of the applicant; and such application must be accompanied by the \ncertificates of at least 2 members of the bar of this Court, that they are acquainted \nwith the applicant and that the applicant is of good character and ethical conduct. \nUpon the filing of the application for admission to practice by an attorney, the Clerk \nmust ascertain from the Virginia State Bar that the applicant is an active or emeritus \nmember in good standing. The Court may, in its discretion, hear motions for \nadmission to practice at times other than a day in which court is in session. Persons \nwho are associate, retired, or disabled members of the Virginia State Bar and who \ndo not engage in the practice of law may, in the discretion of the Court, be admitted ",
+          "pages": [
+            13
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-15",
+          "path": [],
+          "type": "paragraph",
+          "text": "9\nas members of the bar of this Court upon following the procedures set forth herein, \nbut may not practice before this Court.\n(c) Eastern District Attorneys. Any attorney admitted to practice in the United \nStates District Court for the Eastern District of Virginia is permitted to practice in \nthis Court upon the filing of a certificate of good standing from the Clerk of the \nEastern District of Virginia showing that the attorney has been duly admitted to \npractice in that district.\n(d) Pro Hac Vice Admission. Attorneys who are not qualified and licensed to \npractice under the laws of Virginia, but who are qualified and licensed to practice \nbefore the Supreme Court of the United States, or before the highest court of any \nstate in the United States, or before the courts of the District of Columbia, or any \nother Article III federal court, may not become members of the bar of this Court, \nbut may appear only in association with a member of the bar of this Court, upon \nmotion of such member, and only for the conduct of a case in which he or she is \nassociated and then pending before the Court. In any case removed or \ntransferred to this Court in which a party is represented by an attorney who is not \na member of the bar of this Court, such attorney must, within 30 days of such \nremoval or transfer (or such other time as directed by the presiding judge), be \nadmitted to practice before this Court or be permitted to appear in association \nwith a member of the bar of this Court. Pro hac vice admitted attorneys must \npromptly qualify for electronic case filing. Pro hac vice admitted attorneys may \nbe permitted to appear at hearings or trials in the absence of an associated member ",
+          "pages": [
+            14
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "10\nof the bar of this Court in the discretion of the presiding judge.\n(e) Signing of Pleadings. No pleading, notice, or other paper required to be signed \nby counsel shall be accepted for filing by the Clerk unless signed by a member of \nthe bar of this Court, who shall have entered an appearance of record in the case, \nwith the address where notice can be served upon the attorney, and which attorney \nis deemed to have such authority that the Court can deal with the attorney alone in \nall matters affecting the disposition of the case. Such appearance must not be \nwithdrawn without the leave of the Court. Service of notice, process, or any other \npaper upon the attorney is equivalent to such service on the parties for whom the \nattorney has appeared. Provided, however, that the foregoing provisions shall not \napply to a party who conducts his or her own case. A party who conducts his or \nher own case shall file with the pleadings a memorandum of an address where\nnotice can be served upon the party.\n(f) Government Attorneys. Notwithstanding any provision of this rule:\n(1) Any attorney appearing pursuant to the authority of the United States \nAttorney’s Office for the Western District of Virginia, or any attorney \nemployed by the Federal Public Defender’s Office, may appear and file \npleadings in an official capacity without admission to practice in this Court, \nso long as such attorney is qualified and licensed to the practice before the \nSupreme Court of the United States, or before any other Article III federal \ncourt, or before the highest court of any state in the United States, or before ",
+          "pages": [
+            15
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "11\nthe courts of the District of Columbia. Attorneys appearing pursuant to this \nsubsection must promptly qualify for electronic case filing.\n(2) Any other federal government attorney representing the United States\ngovernment, or any agency or employee thereof, may appear and sign \npleadings and other filings in an action without admission to practice in the \nCourt as long as such attorney is qualified and licensed to practice before \nthe Supreme Court of the United States, or before any other Article III \nfederal court, or before the highest court of any state in the United States, \nor before the courts of the District of Columbia. However, any such attorney \nmust secure local counsel by associating an attorney from the United States \nAttorney’s Office for the Western District of Virginia, and all pleadings and \nother filings must be signed by such local counsel. Attorneys appearing \npursuant to this subsection must promptly qualify for electronic case filing.\n(g) Law Students. Prior to an attorney presenting an eligible law student to the court \nfor the purpose of participating in any civil or criminal case, the attorney must in \naccordance with Court’s Plan for Third-Year Practice, file a motion, the \ncertifications referenced in the Plan, and a proposed order requesting the court to \nauthorize the student to participate in the matter. These documents should be filed \nin the division of court with the judicial officer before whom the student will \nprimarily appear. An eligible law student who has qualified under this Court’s \nPlan for Third-Year Practice may participate in any civil or criminal case in \naccordance with the Plan.",
+          "pages": [
+            16
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "12\n(h) Discipline. All attorneys admitted to practice before this Court or admitted for the \npurpose of a particular proceeding are admitted subject to the disciplinary rules, \nconditions, and procedures set forth in this Court’s Rules of Disciplinary \nEnforcement.\n(i) Entry and Withdrawal by Attorney. Any attorney entering a cause, at any time \nafter its inception, must promptly give written notice thereof to the Clerk, \nrequesting to be entered as an attorney of record. No attorney of record shall \nwithdraw from any cause pending in this Court, except with the consent of the Court \nfor good cause shown.\n(j) Surety. No attorney appearing as counsel in any case shall become bail or surety \nin any cause or proceeding, civil or criminal, in this Court or to be returned thereto. \n",
+          "pages": [
+            17
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vawd-civil-parsed-v1-1ffd80a63eaaf3c4",
+      "sourceDocumentId": "parsed-vawd-1ffd80a63eaaf3c4",
+      "sourceUrl": "https://www.vawd.uscourts.gov/sites/Public/assets/File/court/local_rules.pdf",
+      "pageIndex": 13,
+      "pageSpan": [
+        13,
+        17
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vawd-civil:7",
+      "collectionId": "vawd-civil",
+      "districtId": "vawd",
+      "number": "7",
+      "citation": "Western District of Virginia · Rule 7",
+      "title": "Service and Filing of Pleadings and Other Papers",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 7. Service and Filing of Pleadings and Other Papers Return to Top\nPursuant to the authority granted by Federal Rules of Civil Procedure 5(d) (3) and 83, and \nFederal Rule of Criminal Procedure 57, the following practices and procedures apply to filing, \nsigning, and verifying documents by electronic means: \n(a) Implementation of Procedures by Clerk. The Clerk is authorized to implement \nand publish Administrative Procedures for Filing, Signing, and Verifying Pleadings \nand Papers by Electronic Means (“electronic filing procedures”), as amended from \ntime to time, including the procedure for registration of attorneys and for \ndistribution of user login identifications and passwords to permit electronic filing \nand notice of pleadings and other papers.",
+          "pages": [
+            17
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "13\n(b) Case Management/Electronic Case Files. The official court record in all cases \nshall be the electronic file maintained in the Court’s Case Management/Electronic \nCase Files (“CM/ECF”) servers together with any paper attachments and exhibits \nfiled in accordance with the electronic procedures. \n(c) Signatures. The electronic filing of a petition, pleading, motion, or other paper \nby an attorney who is a registered participant in this Court’s CM/ECF system shall \nconstitute the signature of that attorney under Federal Rule of Civil Procedure 11 \nand for all other purposes. \n(d) Use of Passwords. No attorney shall knowingly permit or cause to permit the \nattorney’s password to be utilized by anyone other than an authorized employee of \nthe attorney or the attorney’s law firm. No person shall knowingly utilize or cause \nanother person to utilize the password of a registered attorney unless such person \nis an authorized employee of that attorney’s law firm. \n(e) Entry of Pleadings and Other Papers on the Docket. The electronic filing of a \npleading or other paper in accordance with the electronic filing procedures shall \nconstitute entry of that pleading or other paper on the docket kept by the Clerk \nunder Federal Rule of Civil Procedure 79 and Federal Rule of Criminal Procedure \n55.\n(f) Entry of Orders and Other Proceedings on the Docket. The Clerk or chambers \nstaff at the direction of the judge to whom a case is assigned shall enter all orders, \ndecrees, judgments, and proceedings of the Court in accordance with the electronic \nfiling procedures, which shall constitute entry of the order, decree, judgment, or ",
+          "pages": [
+            18
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "14\nproceeding on the docket kept by the Clerk under Federal Rule of Civil Procedure \n58 and Federal Rule of Criminal Procedure 55. \n(g) Service.\n(1) Notice of Electronic Filing. Whenever a pleading or other paper is filed \nelectronically in accordance with the electronic filing procedures, the \nCourt’s CM/ECF system shall serve the filing party with a “Notice of \nElectronic Filing” by electronic means at the time of docketing.\n(2) Persons Entitled to Service. The filing party shall serve the pleading or \nother paper upon all persons entitled to notice or service in accordance with \nthe applicable rules, or, if service by first class mail is permitted under the \nrules, the filing party may make service on registered participants in the \nCourt’s CM/ECF system in accordance with sub-paragraph three below. \n(3) Service to Registered Participants of CM/ECF. If the recipient of notice \nor service is a registered participant in the Court’s CM/ECF system, service \nby electronic means of the “Notice of Electronic Filing” with a hyperlink to \nthe document shall constitute proper service. \n(4) Service Complete on Transmission. Service by electronic means is \ncomplete on transmission. \n(5) Ineffective Electronic Service. Service by electronic means is not \neffective if the party making service learns that the attempted service did \nnot reach the person to be served. ",
+          "pages": [
+            19
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "15\n(h) Consent to Service and Notice by Electronic Means. Participation in this \nCourt’s CM/ECF system by receipt of a user login identification and password from \nthe Court shall constitute a request for and consent to service and notice \nelectronically pursuant to Federal Rule of Civil Procedure 5(b)(2)(E) and Federal \nRule of Criminal Procedure 49. Participants in the CM/ECF system, by receiving \na user login identification and password from this Court, agree to receive service \nby electronic means. \n(i) Electronic Filing Required. All attorneys must file all documents electronically, \nunless otherwise authorized by the presiding judge in a particular case or the \napplicable electronic filing procedures.\n",
+          "pages": [
+            20
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vawd-civil-parsed-v1-1ffd80a63eaaf3c4",
+      "sourceDocumentId": "parsed-vawd-1ffd80a63eaaf3c4",
+      "sourceUrl": "https://www.vawd.uscourts.gov/sites/Public/assets/File/court/local_rules.pdf",
+      "pageIndex": 17,
+      "pageSpan": [
+        17,
+        20
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vawd-civil:8",
+      "collectionId": "vawd-civil",
+      "districtId": "vawd",
+      "number": "8",
+      "citation": "Western District of Virginia · Rule 8",
+      "title": "Redaction of Personal Data Identifiers from Pleadings",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 8. Redaction of Personal Data Identifiers from Pleadings Return to Top\nThe responsibility for redacting personal identifiers as required by the federal rules of \nprocedure rests solely with counsel or with the pro se party. The Clerk will not review each \npleading for compliance. \n",
+          "pages": [
+            20
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vawd-civil-parsed-v1-1ffd80a63eaaf3c4",
+      "sourceDocumentId": "parsed-vawd-1ffd80a63eaaf3c4",
+      "sourceUrl": "https://www.vawd.uscourts.gov/sites/Public/assets/File/court/local_rules.pdf",
+      "pageIndex": 20,
+      "pageSpan": [
+        20,
+        20
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vawd-civil:9",
+      "collectionId": "vawd-civil",
+      "districtId": "vawd",
+      "number": "9",
+      "citation": "Western District of Virginia · Rule 9",
+      "title": "Sealed Documents",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 9. Sealed Documents Return to Top\nThe following procedures govern documents under seal in criminal and civil cases in this \nCourt. ",
+          "pages": [
+            20
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "16\n(a) General. A “sealed document” is a document in the form of a pleading, exhibit \nor other paper to which access is restricted to the Court and authorized court \npersonnel. A document may be sealed only by order of the Court, except where \notherwise permitted by law or as set forth in paragraph (c) of this Rule. Portions \nof a document cannot be filed or placed under seal—only the entire document \nmay be sealed. No sealed document may be disclosed except upon order of the \nCourt.\n(b) Procedures for Filing a Sealed Document. \n(1) Format. Any sealed document must be tendered to the Clerk and \nconspicuously labeled “SEALED.” \n(2) Motion to Seal. To obtain a sealing order a party must file an unsealed \nwritten motion containing:\na. a generic, non-confidential identification of the document to be \nsealed; \nb. the bases upon which the party seeks the order, including the reasons \nwhy alternatives to sealing are inadequate; and \nc. the duration for which sealing is requested. \nThe moving party also must file with the motion a proposed unsealed order \ngranting the motion and setting forth the bases for the Court’s action. If it \nalready has not been tendered, the moving party also must tender to the \ncourt, in camera, the document proposed to be sealed. The document will \nbe kept under seal by the Clerk pending a decision by the Court on the ",
+          "pages": [
+            21
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "17\nmotion. If the motion to seal is denied, the document will be returned by the \nClerk to the party tendering it, unless the Court orders otherwise. \n(3) Public Notice of Motion to Seal or Sealing Order. A motion to seal and \nany order to seal must be docketed according to the administrative \nprocedures of the Court.\n(4) Objection to Sealing. Any person or entity, whether a party or not, may \nobject to a motion to seal a document or may file a motion to unseal a \ndocument previously sealed. \n(5) Agreement by Parties. These provisions do not limit the ability of the \nparties by agreement to restrict access to documents that are not filed with \nthe Court. Any agreement calling for the sealing of any document to be filed \nwith the Court will be deemed to have incorporated the provisions of this \nrule.\n(6) Extension of Sealing. No order to seal will be extended except upon a \nsubsequent order of the Court obtained in accordance with this rule. \n(7) Sealed Case. No case may be sealed in its entirety except by order of the \nCourt for cause shown, obtained in accordance with this rule. \n(c) Exceptions. \n(1) No motion or order is required to file the following under seal:\na. An unredacted version of a pleading, paper, exhibit, a reference list \nor other document containing personal data identifiers, in \ncompliance with these rules, the federal rules of procedure, or the E-",
+          "pages": [
+            22
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-24",
+          "path": [],
+          "type": "paragraph",
+          "text": "18\nGovernment Act; \nb. An ex parte motion or application where sealing is permitted or \nrequired by law; \nc. Presentence investigation reports, pretrial services reports, \npsychiatric or psychological evaluations in criminal cases, including \ndocuments incorporating the content of the foregoing documents;\nd. Affidavits submitted in support of a motion for in forma pauperis \nstatus; \ne. Motions, orders, notices, and other matters occurring before the \ngrand jury, subject to the provisions of Fed. R. Cr. P. 6;\nf. Applications and orders for the disclosure of tax information (26 \nU.S.C. § 6103);\ng. Motions and orders involving the Classified Information Procedures \nAct (18 U.S.C. app 3 §§1 – 16) or Foreign Intelligence Surveillance \nAct (50 U.S.C. § 1801);\nh. Pleadings and documents involving the Juvenile Delinquency Act;\ni. Requests and orders for authorization of investigative, expert, or \nother services pursuant to the Criminal Justice Act;\nj. Other documents required by law to be filed under seal.\n(2) No publicly filed motion and order under this rule is required for sealing the \nfollowing:\na. Motion by the United States for a downward departure or reduction ",
+          "pages": [
+            23
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "19\nof sentence in a criminal case, with leave of court upon a showing \nof particular need in an individual case to prevent serious harm;\nb. Search, seizure and arrest warrants and affidavits; \n(3) A publicly filed motion and order citing only the statutory authority for \nsealing is required for the following:\na. Applications and orders for pen/trap devices (18 U.S.C. §2703)\nb. Applications and orders for wire, oral, or electronic communication \ninterception (18 U.S.C. § 2516).\n(d) Unsealing. Unless the Court orders otherwise, the Clerk will unseal the following \nsealed documents when indicated: \n(1) Search Warrant. After the search is executed and the warrant is returned\nto the Clerk;\n(2) Arrest Warrant, and In a Violation Case, Any Violation Report.\nAfter the arrest is made; \n(3) Indictment. Upon the arrest or appearance of a single defendant. In \nmulti-defendant cases, and unless the court orders otherwise, upon the \nearliest of any of the following:\na. 10 days following the arrest of any defendant;\nb. 30 days after return of the indictment; or \nc. when all defendants have been arrested or summoned.\nIn criminal cases, each defendant must be provided with a copy of the charges \nagainst that defendant (with other portions redacted, if necessary), even if the ",
+          "pages": [
+            24
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "20\nindictment or complaint is otherwise sealed. In multi-defendant cases in which the \nindictment is to remain sealed, the government is responsible for submitting to the \nmagistrate judge for approval, reasonably in advance of the initial appearance, an \nappropriately redacted indictment for disclosure to the defendant and to the public.\n(4) Criminal Complaint. 30 days after issuance or when all defendants \nnamed are in custody or have been summoned, whichever is the earliest. \n(5) As for any other sealed documents, the documents will be unsealed 120 \ndays from the date of entry of the sealing order, unless the sealing order \nprovides otherwise.\nCommentary\nThis rule describes the procedures in criminal and civil cases relating to sealed documents, \nincluding pleadings, motions, exhibits, and other material. Case law protects generally the right of \npublic access to documents filed in court, both under the First Amendment and the common law. \nSee, e.g., Va. Dept of State Police v. Washington Post, 386 F.3d 567, 575 (4th Cir. 2004).\nQuestions relating to sealed documents are presented in varying circumstances. For \nexample, a party to a case may desire to file an exhibit to a brief containing confidential business \ninformation that has been disclosed to the opposing party under an agreement of confidentiality, \nbut which the parties do not wish the public to see. The procedure to be followed is to file a \nmotion not under seal that describes in a non-confidential way the document that the party desires \nto file under seal (in this hypothetical example, the exhibit). The motion must also state, in a \ngeneric, non-confidential way, the reasons why sealing is requested (in this case, the fact that the \nexhibit contains confidential trade secrets whose disclosure would be harmful to the business of \nthe party) and why alternatives to sealing are inadequate. Finally, the motion must also state the \nlength of time that the party desires the document to be sealed. The motion must be accompanied \nby the document desired to be sealed (the exhibit, in this example) for review by the presiding \njudge, as well as a proposed unsealed order allowing the document to be sealed, which order recites \nthe necessary findings. \nOften the parties to a case will enter into a confidentiality agreement that provides that \ncertain information exchanged between them in the course of discovery will remain confidential. ",
+          "pages": [
+            25
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "21\nThe procedures described in this rule do not affect the ability of the parties to enter into such an \nagreement. However, the parties cannot agree to the sealing of documents filed in court without \nfollowing the mandatory procedures set forth in this rule. \nIn other words, the parties cannot seal documents filed in court merely by agreement or by \nlabeling them “sealed.” \nThere are certain exceptions to the rule that any document to be sealed must be \naccompanied by an unsealed motion. Where the sealed document is an unredacted version of a \ndocument required to be redacted by these rules, the federal rules of procedure, or the E￾Government Act, or a reference list of personal data identifiers, then no motion or order is required. \nLike all sealed documents, however, the unredacted version or the reference list must be clearly \nlabeled “SEALED.” \nThe government, a defendant or other party may have a basis for a confidential\ncommunication to the court that is permitted or required by law. There is no need for an unsealed \nmotion or order in those circumstances, but the motion must be clearly labeled “EX PARTE AND \nSEALED.” \nThis rule provides that unless the Court orders otherwise, all documents in a case will be \nunsealed at the conclusion of the case. The rule does not flatly prohibit the continued sealing of \na document, but leaves that decision to the presiding judge. As an alternative, the judge may order \na sealed document in paper form returned to the party submitting it at the conclusion of the case. \nIf a document is ordered sealed for a particular period of time, the period may be extended by a \nlater order, obtained by following the procedures set forth.\n",
+          "pages": [
+            26
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vawd-civil-parsed-v1-1ffd80a63eaaf3c4",
+      "sourceDocumentId": "parsed-vawd-1ffd80a63eaaf3c4",
+      "sourceUrl": "https://www.vawd.uscourts.gov/sites/Public/assets/File/court/local_rules.pdf",
+      "pageIndex": 20,
+      "pageSpan": [
+        20,
+        26
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vawd-civil:10",
+      "collectionId": "vawd-civil",
+      "districtId": "vawd",
+      "number": "10",
+      "citation": "Western District of Virginia · Rule 10",
+      "title": "Communication with Jurors",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 10. Communication with Jurors Return to Top\nNo attorney or party litigant shall personally, or through any investigator or any other \nperson acting for the attorney or party litigant, interview, examine or question any juror or alternate \njuror during the juror’s term of service as a potential juror with respect to the verdict or \ndeliberations of the jury in any action, civil or criminal, except by leave of Court upon good cause \nshown and upon such conditions as the Court in the particular case may fix.",
+          "pages": [
+            26
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "22\n",
+          "pages": [
+            27
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vawd-civil-parsed-v1-1ffd80a63eaaf3c4",
+      "sourceDocumentId": "parsed-vawd-1ffd80a63eaaf3c4",
+      "sourceUrl": "https://www.vawd.uscourts.gov/sites/Public/assets/File/court/local_rules.pdf",
+      "pageIndex": 26,
+      "pageSpan": [
+        26,
+        27
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vawd-civil:11",
+      "collectionId": "vawd-civil",
+      "districtId": "vawd",
+      "number": "11",
+      "citation": "Western District of Virginia · Rule 11",
+      "title": "Imposition of Jury Costs",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 11. Imposition of Jury Costs Return to Top\nThe Court may in its discretion impose the costs of a jury where a case is settled or \notherwise disposed of after it is too late to reasonably notify the jury not to appear.\n",
+          "pages": [
+            27
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vawd-civil-parsed-v1-1ffd80a63eaaf3c4",
+      "sourceDocumentId": "parsed-vawd-1ffd80a63eaaf3c4",
+      "sourceUrl": "https://www.vawd.uscourts.gov/sites/Public/assets/File/court/local_rules.pdf",
+      "pageIndex": 27,
+      "pageSpan": [
+        27,
+        27
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vawd-civil:12",
+      "collectionId": "vawd-civil",
+      "districtId": "vawd",
+      "number": "12",
+      "citation": "Western District of Virginia · Rule 12",
+      "title": "Exhibits Presented in Court Proceedings",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 12. Exhibits Presented in Court Proceedings Return to Top\nUpon jury verdict or decision by the Court, the Clerk shall return documents of \nunusual bulk or weight and physical exhibits to the custody of the party who produced them. \nThe party shall permit inspection of the same for the purpose of preparing the record on \nappeal. The party also shall be charged with the responsibility of safekeeping said exhibits \nand, if requested, transporting the exhibits to the appellate court. \nWhere the Clerk takes custody of exhibits as noted above, such exhibits may not be \ntaken from the custody of the Clerk until final disposition of the matter, except upon order of \nthe court. \nIn all cases where money, firearms, narcotics, controlled substances or any manner of \ncontraband is introduced into evidence, such evidence shall be returned by the Clerk to the \nparty producing them for safekeeping immediately after the return of the jury verdict or, in a \nnonjury case, at the close of all the evidence. The party who introduces an exhibit into \nevidence in a case will be responsible for its custody. \nIn a civil case, parties must take custody of exhibits of unusual bulk or weight and \nphysical exhibits they filed in the proceeding. In the event no appeal is perfected, the \nexhibits must be removed within 60 days from the date of final disposition of the case by this \nCourt. In the event an appeal is perfected and thereafter disposed of by the court of appeals, \nthe exhibits must be removed within 30 days after receipt of the judgment, other process, or ",
+          "pages": [
+            27
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "23\ncertificate disclosing disposition of the case by that court. If a case is appealed to the U.S. \nSupreme Court, the exhibits must be removed within 30 days after receipt of judgment, other \nprocess, or certificate disclosing disposition of the case by that court. \nIn criminal cases, parties must take custody of exhibits of unusual bulk or weight and \nphysical exhibits they filed in the proceeding within 30 days after final disposition of a case. \nFinal disposition occurs at the expiration or termination of the one-year limitation period \nprescribed in 28 U.S.C. § 2255(f)(1).\nIf exhibits are not removed from the custody of the Clerk within the required time \nunder this rule, the Clerk shall notify appropriate parties of their responsibilities under this \nRule. If the parties have not removed the exhibits from the custody of the Clerk within 30 \ndays from the date of that notice, the Clerk shall destroy said exhibits.",
+          "pages": [
+            28
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "24\nTITLE II - CIVIL RULES\nRule 3. Commencing an Action Return to Top\n(a) Pursuant to Federal Rule of Civil Procedure 3, a civil action is commenced by filing \na complaint. In any civil case in this Court, the complaint is deemed filed the day \nthe clerk receives it together with payment of the required filing fee. If the filing \nfee is paid on a later day, the complaint will be deemed filed the day the complaint \nwas received by the Clerk if the presiding judge in the case determines that the late \npayment of the filing fee was due to good cause.\n(b) In the event that a civil complaint is submitted together with an application to \nproceed without the payment of the required filing fee, the complaint is deemed \nfiled on the day it was received if (a) the application is granted or (b) the application \nis denied and the filing fee is thereafter paid within a reasonable time. \n(c) In the event a fee is erroneously paid by way of credit card through the Court’s \nelectronic filing system, no refund may be made except upon the order of the \npresiding judge in the case. In the event that a user of the system has made \nrepeated mistakes or good cause otherwise exists, the judge may decline to order a \nrefund. \nRule 11. Pleadings and Motions Return to Top\n(a) Address and Telephone Number. All pleadings and motions must include the \nattorney’s office address, telephone number, e-mail address, and the attorney’s bar \nidentification number. All pleadings and motions filed by a non-prisoner litigant ",
+          "pages": [
+            29
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "25\nproceeding pro se must contain an address where notice can be served on such \nperson and a telephone number where such person can be reached or a message left. \nAll pleadings and motions filed by a prisoner proceeding pro se must contain an \naddress where notice can be served on such person. \n(b) Determination of Motions. A party may request a hearing on a motion or advise \nthat all parties agree that no hearing is requested. All hearings are to be at a date \nand time obtained from and scheduled by the Court. In accordance with Federal \nRule of Civil Procedure 78(b), the Court may determine a motion without an oral \nhearing.\n(c) Briefs Required. \n(1) All motions, unless otherwise directed by the Court and except as noted \nhereinbelow, must be accompanied by a written brief setting forth a concise \nstatement of the facts and supporting reasons, along with a citation of the \nauthorities upon which the movant relies. Unless otherwise directed by the \nCourt, the opposing party must file a responsive brief and such supporting \ndocuments as are appropriate within 14 days after service, and the moving \nparty may file a rebuttal brief within 7 days after the service of the opposing \nparty’s reply brief. No further briefs (including letter briefs) are to be \nsubmitted without first obtaining leave of court.\n(2) Briefs need not accompany motions: (a) for a more definite statement; (b) \nfor an extension of time to respond to or file pleadings, unless the time has \nalready expired; (c) for a default judgment; (d) for continuances; and (e) to ",
+          "pages": [
+            30
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "26\namend pleadings or add or substitute parties. These motions, while not \nrequiring a brief, must state good cause justifying the relief requested. In \naddition, a separate brief is not required where a motion itself contains the \nlegal and factual argument necessary to support the motion.\n(3) Procedural motions, including motions for enlargement of time, whether or \nnot opposed, may be acted upon at any time by the Court, without awaiting \na response, and any party adversely affected by such action may request \nreconsideration, vacation, or modification of such action.\n",
+          "pages": [
+            31
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vawd-civil-parsed-v1-1ffd80a63eaaf3c4",
+      "sourceDocumentId": "parsed-vawd-1ffd80a63eaaf3c4",
+      "sourceUrl": "https://www.vawd.uscourts.gov/sites/Public/assets/File/court/local_rules.pdf",
+      "pageIndex": 27,
+      "pageSpan": [
+        27,
+        31
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vawd-civil:16",
+      "collectionId": "vawd-civil",
+      "districtId": "vawd",
+      "number": "16",
+      "citation": "Western District of Virginia · Rule 16",
+      "title": "Scheduling Orders",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 16. Scheduling Orders Return to Top\nScheduling orders shall be issued in all cases except pro se prisoner, Social Security, and \nhabeas cases or other cases exempted by the presiding judge and may be issued by a magistrate \njudge. The scheduling order shall govern any deadline fixed or procedure ordered that is in \nconflict with that contained in these rules.\n",
+          "pages": [
+            31
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vawd-civil-parsed-v1-1ffd80a63eaaf3c4",
+      "sourceDocumentId": "parsed-vawd-1ffd80a63eaaf3c4",
+      "sourceUrl": "https://www.vawd.uscourts.gov/sites/Public/assets/File/court/local_rules.pdf",
+      "pageIndex": 31,
+      "pageSpan": [
+        31,
+        31
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vawd-civil:26",
+      "collectionId": "vawd-civil",
+      "districtId": "vawd",
+      "number": "26",
+      "citation": "Western District of Virginia · Rule 26",
+      "title": "Expert Disclosure",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 26. Expert Disclosure Return to Top\n(a) Agreement Upon Disclosure. Counsel are encouraged to agree in a discovery \nplan or otherwise upon the sequence and timing of the expert disclosures required \nby Federal Rule of Civil Procedure 26(a)(2). \n(b) Objections to Expert Testimony. Unless otherwise fixed by the Court, or unless \ngood cause is shown, any objections to the admissibility of expert testimony or \nopinions must be by motion filed and set for hearing or submitted without hearing ",
+          "pages": [
+            31
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "27\nwithin a reasonable time before the date of trial, thus permitting an adequate time \nfor the Court to consider the motion.\n",
+          "pages": [
+            32
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vawd-civil-parsed-v1-1ffd80a63eaaf3c4",
+      "sourceDocumentId": "parsed-vawd-1ffd80a63eaaf3c4",
+      "sourceUrl": "https://www.vawd.uscourts.gov/sites/Public/assets/File/court/local_rules.pdf",
+      "pageIndex": 31,
+      "pageSpan": [
+        31,
+        32
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vawd-civil:40",
+      "collectionId": "vawd-civil",
+      "districtId": "vawd",
+      "number": "40",
+      "citation": "Western District of Virginia · Rule 40",
+      "title": "Scheduling of Cases for Trial",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 40. Scheduling of Cases for Trial Return to Top\nCases shall be scheduled for trial in the manner directed by the presiding judge.\n",
+          "pages": [
+            32
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vawd-civil-parsed-v1-1ffd80a63eaaf3c4",
+      "sourceDocumentId": "parsed-vawd-1ffd80a63eaaf3c4",
+      "sourceUrl": "https://www.vawd.uscourts.gov/sites/Public/assets/File/court/local_rules.pdf",
+      "pageIndex": 32,
+      "pageSpan": [
+        32,
+        32
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vawd-civil:51",
+      "collectionId": "vawd-civil",
+      "districtId": "vawd",
+      "number": "51",
+      "citation": "Western District of Virginia · Rule 51",
+      "title": "Proposed Instructions",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 51. Proposed Instructions Return to Top\nExcept as otherwise directed by the Court, in all cases tried to a jury, any proposed \ninstructions must be filed at least 7 days before the scheduled trial date. Each instruction must be \nset forth on a separate page, numbered and identified appropriately by the party submitting it, \nbearing at its foot a citation of the authority in support of the instruction. Instructions must be \nfiled as a group together with a cover sheet in pleading form and a certificate of service.\n",
+          "pages": [
+            32
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vawd-civil-parsed-v1-1ffd80a63eaaf3c4",
+      "sourceDocumentId": "parsed-vawd-1ffd80a63eaaf3c4",
+      "sourceUrl": "https://www.vawd.uscourts.gov/sites/Public/assets/File/court/local_rules.pdf",
+      "pageIndex": 32,
+      "pageSpan": [
+        32,
+        32
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vawd-civil:54",
+      "collectionId": "vawd-civil",
+      "districtId": "vawd",
+      "number": "54",
+      "citation": "Western District of Virginia · Rule 54",
+      "title": "Fees and Costs",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 54. Fees and Costs Return to Top\n(a) Attorneys’ Fees\n(1) Time for Filing. Unless otherwise provided by statute, or in Social \nSecurity cases, or as otherwise ordered by the Court, any motion requesting \nthe award of attorneys’ fees must be filed no later than 21 days after the \nentry of judgment. Any opposition must be filed within 21 days of service \nof the motion. Any reply must be filed within 7 days of service of the \nopposition\n(2) Contents. Any motion requesting the award of attorneys’ fees must be \nsupported by a memorandum setting forth the nature of the case, the claims ",
+          "pages": [
+            32
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "28\nas to which the party prevailed, the claims as to which the party did not \nprevail, a detailed description of the work performed broken down by hours \nor fractions thereof expended on each task, the attorney’s customary fee for \nsuch like work, the customary fee for like work prevailing in the attorney’s \ncommunity, a listing of any expenditures for which reimbursement is \nsought, any additional factors which are required by the case law, and any \nadditional factors that the attorney wishes to bring to the Court’s attention. \n",
+          "pages": [
+            33
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vawd-civil-parsed-v1-1ffd80a63eaaf3c4",
+      "sourceDocumentId": "parsed-vawd-1ffd80a63eaaf3c4",
+      "sourceUrl": "https://www.vawd.uscourts.gov/sites/Public/assets/File/court/local_rules.pdf",
+      "pageIndex": 32,
+      "pageSpan": [
+        32,
+        33
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vawd-civil:56",
+      "collectionId": "vawd-civil",
+      "districtId": "vawd",
+      "number": "56",
+      "citation": "Western District of Virginia · Rule 56",
+      "title": "Summary Judgment-Time of Filing",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 56. Summary Judgment-Time of Filing Return to Top\n(a) Except for good cause shown, no motion for summary judgment or other dispositive \nmotion will be considered unless it is filed and set for hearing, or submitted without \nhearing, within the time fixed by the Court, or if no time is fixed by the Court, within \na reasonable time before the date of trial, thus permitting adequate time for the Court \nto consider the motion.\n(b) Any motion for summary judgment or any other dispositive motion must contain a \nseparately captioned section setting forth with specificity the material facts claimed \nto be undisputed together with specific record citations in support thereof.\n ",
+          "pages": [
+            33
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "29\n",
+          "pages": [
+            34
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vawd-civil-parsed-v1-1ffd80a63eaaf3c4",
+      "sourceDocumentId": "parsed-vawd-1ffd80a63eaaf3c4",
+      "sourceUrl": "https://www.vawd.uscourts.gov/sites/Public/assets/File/court/local_rules.pdf",
+      "pageIndex": 33,
+      "pageSpan": [
+        33,
+        34
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vawd-civil:67",
+      "collectionId": "vawd-civil",
+      "districtId": "vawd",
+      "number": "67",
+      "citation": "Western District of Virginia · Rule 67",
+      "title": "Deposit and Investment of Registry Funds",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 67. Deposit and Investment of Registry Funds Return to Top\n(a) Receipt of Funds\n(1) No money shall be sent to the Court or its officers for deposit in the \nCourt’s registry without a court order signed by the presiding judge in the \ncase or proceeding.\n(2) The party making the deposit or transferring funds to the Court’s registry \nshall serve the order permitting the deposit or transfer on the Clerk of \nCourt.\n(3) Unless provided for elsewhere in this Local Rule, all monies ordered to be \npaid to the Court or received by its officers in any case pending or \nadjudicated shall be deposited with the Treasurer of the United States in \nthe name and to the credit of this Court pursuant to 28 U.S.C. § 2041 \nthrough depositories designated by the Treasury to accept such deposit on \nits behalf.\n(b) Investment of Registry Funds Return to Top\n(1) Where, by order of the Court, funds on deposit with the Court are to be \nplaced in some form of interest-bearing account or invested in a court￾approved, interest-bearing instrument in accordance with Rule 67 of the \nFederal Rules of Civil Procedure, the Court Registry Investment System \n(“CRIS”), administered by the Administrative Office of the United States ",
+          "pages": [
+            34
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "30\nCourts under 28 U.S.C. § 2045, shall be the only investment mechanism \nauthorized.\n(2) Interpleader funds deposited under 28 U.S.C. § 1335 meet the Internal \nRevenue Service definition of a “Disputed Ownership Fund” (DOF), a \ntaxable entity that requires tax administration. Unless otherwise ordered \nby the Court, interpleader funds shall be deposited in the DOF established \nwithin the CRIS and administered by the Administrative Office of the \nUnited States Courts, which shall be responsible for meeting all DOF tax \nadministration requirements.\n(3) The Director of the Administrative Office of the United States Courts is \ndesignated as custodian for all CRIS funds. The Director or the \nDirector’s designee shall perform the duties of custodian. Funds held in \nthe CRIS remain subject to the control and jurisdiction of the Court.\n(4) Money from each case deposited in the CRIS shall be “pooled” together \nwith those on deposit with Treasury to the credit of other courts in the \nCRIS and used to purchase Government Account Series securities through \nthe Bureau of Public Debt, which will be held at Treasury, in an account in \nthe name and to the credit of the Director of the Administrative Office of \nthe United States Courts. The pooled funds will be invested in \naccordance with the principles of the CRIS Investment Policy as approved \nby the Registry Monitoring Group.",
+          "pages": [
+            35
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-37",
+          "path": [],
+          "type": "paragraph",
+          "text": "31\n(5) An account will be established in the CRIS Liquidity Fund titled in the \nname of the case giving rise to the deposit invested in the fund. Income \ngenerated from fund investments will be distributed to each case based on \nthe ratio each account’s principal and earnings has to the aggregate \nprincipal and income total in the fund after the CRIS fee has been applied. \nReports showing the interest earned and the principal amounts contributed \nin each case will be prepared and distributed to each court participating in \nthe CRIS and made available to litigants and/or their counsel.\n(6) For each interpleader case, an account shall be established in the CRIS \nDisputed Ownership Fund, titled in the name of the case giving rise to the \ndeposit invested in the fund. Income generated from fund investments \nwill be distributed to each case after the DOF fee has been applied and tax \nwithholdings have been deducted from the fund. Reports showing the \ninterest earned and the principal amounts contributed in each case will be \navailable through the FedInvest/CMS application for each court \nparticipating in the CRIS and made available to litigants and/or their \ncounsel. \n(c) Fees and Taxes Return to Top\n(1) The custodian is authorized and directed by this Local Rule to deduct the \nCRIS fee of an annualized 10 basis points on assets on deposit for all \nCRIS funds, excluding the case funds held in the DOF, for the \nmanagement of investments in the CRIS. According to the Court’s ",
+          "pages": [
+            36
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-38",
+          "path": [],
+          "type": "paragraph",
+          "text": "32\nMiscellaneous Fee Schedule, the CRIS fee is assessed from interest \nearnings to the pool before a pro rata distribution of earnings is made to \ncourt cases.\n(2) The custodian is authorized and directed by this Local Rule to deduct the \nDOF fee of an annualized 20 basis points on assets on deposit in the DOF \nfor management of investments and tax administration. According to the \nCourt’s Miscellaneous Fee Schedule, the DOF fee is assessed from \ninterest earnings to the pool before a pro rata distribution of earnings is \nmade to court cases. The custodian is further authorized and directed by \nthis Local Rule to withhold and pay federal taxes due on behalf of the \nDOF.\n(d) Transition from Former Investment Procedure Return to Top\n(1) Deposits to the CRIS DOF will not be transferred from any existing CRIS \nFunds. Only new deposits pursuant to 28 U.S.C. § 1335 from the \neffective date of this Local Rule will be placed in the CRIS DOF.\n(2) This Local Rule supersedes and abrogates all prior orders and Local Rules \nof this Court regarding the deposit and investment of registry funds.\n(3) The effective date of this Local Rule is the date the CRIS DOF begins \naccepting deposits.",
+          "pages": [
+            37
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "33\n",
+          "pages": [
+            38
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vawd-civil-parsed-v1-1ffd80a63eaaf3c4",
+      "sourceDocumentId": "parsed-vawd-1ffd80a63eaaf3c4",
+      "sourceUrl": "https://www.vawd.uscourts.gov/sites/Public/assets/File/court/local_rules.pdf",
+      "pageIndex": 34,
+      "pageSpan": [
+        34,
+        38
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vawd-civil:73",
+      "collectionId": "vawd-civil",
+      "districtId": "vawd",
+      "number": "73",
+      "citation": "Western District of Virginia · Rule 73",
+      "title": "Magistrate Judges",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 73. Magistrate Judges Return to Top\nPursuant to the provisions of 28 U.S.C. § 636 and Federal Rule of Civil Procedure 73, the \nfull time magistrate judges of this Court are designated to conduct any or all proceedings in a \njury or nonjury civil matter and order entry of judgment in the case, upon the consent of the \nparties, and upon entry of an order of reference in the particular civil matter by a district judge of \nthis court, which order specifically transfers, assigns or refers the matter to a magistrate judge for \nall proceedings and for the entry of dispositive orders or judgment.\n",
+          "pages": [
+            38
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vawd-civil-parsed-v1-1ffd80a63eaaf3c4",
+      "sourceDocumentId": "parsed-vawd-1ffd80a63eaaf3c4",
+      "sourceUrl": "https://www.vawd.uscourts.gov/sites/Public/assets/File/court/local_rules.pdf",
+      "pageIndex": 38,
+      "pageSpan": [
+        38,
+        38
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vawd-civil:83",
+      "collectionId": "vawd-civil",
+      "districtId": "vawd",
+      "number": "83",
+      "citation": "Western District of Virginia · Rule 83",
+      "title": "Alternative Dispute Resolution Program",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 83. Alternative Dispute Resolution Program Return to Top\n(a) Availability. This Court shall offer alternative dispute resolution to all parties in \nevery civil case. Mediation shall be the common and preferred means of \nalternative dispute resolution. Other means of alternative dispute resolution shall \nbe made available by this Court upon request of all parties, except in those cases \nin which the alternative form may be prohibited by statute. \n(b) Requests for Referrals. Alternative dispute resolution shall not be \nautomatically required in every case. Upon joint motion of all parties, the Court \nshall refer the case for alternative dispute resolution in the form requested by the \nparties, unless that form is prohibited by statute. If one party makes a unilateral \nrequest for referral, the Court may refer the case for alternative dispute resolution \nin any nonbinding form deemed appropriate by the presiding judge. In any other \ncase, the presiding judge may require the parties to participate in alternative ",
+          "pages": [
+            38
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-40",
+          "path": [],
+          "type": "paragraph",
+          "text": "34\ndispute resolution in any nonbinding form permitted by statute and deemed \nappropriate by this Court. \n(c) Neutrals. Upon joint motion of all parties, the Court shall refer the case to an \nalternative dispute resolution resource outside the Court. In all other cases, a \nUnited States district judge, magistrate judge, or bankruptcy judge shall serve as \nthe neutral when the matter is designated by the presiding judge for alternative \ndispute resolution. \n(d) Training and Disqualification of Neutrals. As the primary alternative dispute \nresolution resource persons for the Court, the magistrate judges shall receive \nappropriate training as may be offered by the Federal Judicial Center, \nAdministrative Office, or other approved agency. In requesting referral to an \noutside alternative dispute resolution resource, the parties shall provide to the \nCourt satisfactory documentation as to the qualifications of the designated neutral. \nComplaints concerning the performance of any neutral, including a district, \nmagistrate, or bankruptcy judge, shall be addressed to the chief United States \ndistrict judge. This Court may disqualify from further service any person, who is \ndeemed unqualified to serve as a neutral in a particular case, or in all cases. \n(e) Confidentiality. If requested by the applicant, any unilateral request for \nalternative dispute resolution referral shall be maintained in the strictest \nconfidence by all officers of this Court. Once entered, however, all orders of \nreferral shall be matters of public record. Communications and/or information \nprovided during any alternative dispute resolution process shall be kept ",
+          "pages": [
+            39
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-41",
+          "path": [],
+          "type": "paragraph",
+          "text": "35\nconfidential by all parties and by the neutral. Any information or document \nwhich is otherwise produced through a legitimate discovery process is exempted \nfrom this confidentiality requirement. Any party may seek entry of a protective \norder to prevent or limit discovery of any information or document which has \nbecome known to the opposing party only because of participation in an \nalternative dispute resolution process. Any party who participates in alternative \ndispute resolution with a district, magistrate, or bankruptcy judge of this Court \nshall be deemed to have consented to any party’s ex parte communication with \nthat judge made in the course of attempted resolution of the dispute.\n(f) Scheduling. Alternative dispute resolution sessions may be scheduled at the \ndiscretion of the parties and the neutral. Alternative dispute resolution shall \nproceed independently of all other pretrial development in the case. Referral of a \ncase for alternative dispute resolution shall not operate so as to modify or stay any \nscheduling provisions of any pretrial order. Parties engaged in alternative \ndispute resolution may apply to the Court for such modifications or stays upon \ndemonstration of exceptional cause. \n(g) Enforceability. The Court will not assist in the enforcement of any agreement, \nsettlement, or fee arrangement from any alternative dispute resolution process \nwhich is not annexed by the Court. In all other situations, the parties may invoke \nany of the Court’s traditional enforcement mechanisms. \n(h) Coordinator. This Court shall designate an employee or a judicial officer who \nis knowledgeable in alternative dispute resolution practices and processes to ",
+          "pages": [
+            40
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-42",
+          "path": [],
+          "type": "paragraph",
+          "text": "36\nimplement, administer, oversee, and evaluate the Court’s alternative dispute \nresolution program.",
+          "pages": [
+            41
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vawd-civil-parsed-v1-1ffd80a63eaaf3c4",
+      "sourceDocumentId": "parsed-vawd-1ffd80a63eaaf3c4",
+      "sourceUrl": "https://www.vawd.uscourts.gov/sites/Public/assets/File/court/local_rules.pdf",
+      "pageIndex": 38,
+      "pageSpan": [
+        38,
+        41
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    }
+  ],
+  "evidence": [
+    {
+      "number": "1",
+      "heading": "Rule 1. Scope and Purpose of Rules Return to Top",
+      "page": 7,
+      "offset": 98,
+      "slices": [
+        {
+          "page": 7,
+          "start": 98,
+          "end": 1128,
+          "sha256": "a5df3b9628002cb78b1d2440cc2406a4c77a2e744056494224ad90e0e8dd7691"
+        },
+        {
+          "page": 8,
+          "start": 0,
+          "end": 224,
+          "sha256": "548eb6d75d87f9bc28fc2892a355f8c631ccb60996f072a55a422cba4464d6e0"
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "heading": "Rule 2. Divisions of the Western District Return to Top",
+      "page": 8,
+      "offset": 224,
+      "slices": [
+        {
+          "page": 8,
+          "start": 224,
+          "end": 1388,
+          "sha256": "0bd2878b704e3a544a319ca4bd810dc37e752199694f9ef641993e9e980a5d2d"
+        },
+        {
+          "page": 9,
+          "start": 0,
+          "end": 1671,
+          "sha256": "5e194a21bc6379565cc8bc6e218d2bfbc3843106060d7d54ea703d071c6f0d08"
+        },
+        {
+          "page": 10,
+          "start": 0,
+          "end": 787,
+          "sha256": "66a432c33fa465e6eb4cca05e10f1f985788e2446508584478b62fd1edd9d33b"
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "heading": "Rule 3. Bankruptcy Referrals and Jury Trials Return to Top",
+      "page": 10,
+      "offset": 787,
+      "slices": [
+        {
+          "page": 10,
+          "start": 787,
+          "end": 1401,
+          "sha256": "321ec49fcaec3bb43ac5fcfceef03e087b04ed4e6002dacb9382aeab540cf39b"
+        },
+        {
+          "page": 11,
+          "start": 0,
+          "end": 2,
+          "sha256": "f0b5c2c2211c8d67ed15e75e656c7862d086e9245420892a7de62cd9ec582a06"
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "heading": "Rule 4. Social Security Cases Return to Top",
+      "page": 11,
+      "offset": 2,
+      "slices": [
+        {
+          "page": 11,
+          "start": 2,
+          "end": 1494,
+          "sha256": "86d2de92dafa0b2374cdcee963cd3a4784a6bfbe3fa35c39c1fd0a1e51849a26"
+        },
+        {
+          "page": 12,
+          "start": 0,
+          "end": 1420,
+          "sha256": "dad9dadc053fe2908015c50943b52b59f9d7b1ac7c14b57d49effb5135321229"
+        },
+        {
+          "page": 13,
+          "start": 0,
+          "end": 1088,
+          "sha256": "e953e3575d52ada87feda088c5b0836831d51eecb60724995bfc9d4e29ce5245"
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "heading": "Rule 5. Prejudicial Influences Return to Top",
+      "page": 13,
+      "offset": 1088,
+      "slices": [
+        {
+          "page": 13,
+          "start": 1088,
+          "end": 1320,
+          "sha256": "66186231ffe812dbb28ce088aa1af9a379f6e81e821cf55bc1f4148861d3afbb"
+        },
+        {
+          "page": 14,
+          "start": 0,
+          "end": 161,
+          "sha256": "f9b306e293991b4edaeef9857f77b853ede4ae265c89ea6ac3bf184ba8614de8"
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "heading": "Rule 6. Attorneys Return to Top",
+      "page": 14,
+      "offset": 161,
+      "slices": [
+        {
+          "page": 14,
+          "start": 161,
+          "end": 1621,
+          "sha256": "3c8b245b4aff6527f83a36acafc36833be525f31d2c59d3492d18843ba70d61a"
+        },
+        {
+          "page": 15,
+          "start": 0,
+          "end": 1705,
+          "sha256": "88bc2a5cc5a52b0085fe99579ac2c8363c8713f646921106550c9fbaa1d80a7b"
+        },
+        {
+          "page": 16,
+          "start": 0,
+          "end": 1618,
+          "sha256": "30b2f62fe887838536c22b82a4fa1c4e8897c25069d52d40d7da191ac95a8c1a"
+        },
+        {
+          "page": 17,
+          "start": 0,
+          "end": 1659,
+          "sha256": "516626c248256b53d1f4390f0fa7cd9c7173f1e455ff8bf56c89774ee45b727e"
+        },
+        {
+          "page": 18,
+          "start": 0,
+          "end": 788,
+          "sha256": "035359d0d6941aba788f9138581529ea79b98f705f1acceff92e22360e1d6ad8"
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "heading": "Rule 7. Service and Filing of Pleadings and Other Papers Return to Top",
+      "page": 18,
+      "offset": 788,
+      "slices": [
+        {
+          "page": 18,
+          "start": 788,
+          "end": 1553,
+          "sha256": "c380e1944525d18a7a2bb110964ca264eab2bb98ea8682776e79aa1e1a5d7dfb"
+        },
+        {
+          "page": 19,
+          "start": 0,
+          "end": 1643,
+          "sha256": "27f41cb45d76f3a83915b0e36a46356cde23d894e4388980075b3e1deed80fe2"
+        },
+        {
+          "page": 20,
+          "start": 0,
+          "end": 1377,
+          "sha256": "9db0fd7e6317dcd367cf921128f54e16cc6843a89ad88282ec1ed56e184a6b96"
+        },
+        {
+          "page": 21,
+          "start": 0,
+          "end": 717,
+          "sha256": "9565810dc9a3ee3db38c14583c48f62f81bb055d10774cadf9adaf5adfa0da8d"
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "heading": "Rule 8. Redaction of Personal Data Identifiers from Pleadings Return to Top",
+      "page": 21,
+      "offset": 717,
+      "slices": [
+        {
+          "page": 21,
+          "start": 717,
+          "end": 1004,
+          "sha256": "dd29a83d0b079f84b23851310b35318831a2aafd5a74e0228bebd45fbb0f1ea7"
+        }
+      ]
+    },
+    {
+      "number": "9",
+      "heading": "Rule 9. Sealed Documents Return to Top",
+      "page": 21,
+      "offset": 1004,
+      "slices": [
+        {
+          "page": 21,
+          "start": 1004,
+          "end": 1140,
+          "sha256": "16f47403718fe16ac5801e3f44fc05aef69085b30f18230f2bc0baa504310243"
+        },
+        {
+          "page": 22,
+          "start": 0,
+          "end": 1360,
+          "sha256": "77ec16bdddf0624ba142ddb4a361e0b8c349eea711cf4437cc56a068fa7f2f6c"
+        },
+        {
+          "page": 23,
+          "start": 0,
+          "end": 1388,
+          "sha256": "f9e727d3852092540d0000cf39ccb9e72e40209cfcae3ca9cab8a924639864c3"
+        },
+        {
+          "page": 24,
+          "start": 0,
+          "end": 1178,
+          "sha256": "1711c1ff68aa88d342c21f7b728e43f17b21624bc3ce574402867a3f5535488e"
+        },
+        {
+          "page": 25,
+          "start": 0,
+          "end": 1279,
+          "sha256": "eb2c2b75014df87b33095254537a5b3a88c044255b56989f13d53fe086fa6b61"
+        },
+        {
+          "page": 26,
+          "start": 0,
+          "end": 2434,
+          "sha256": "964b11567cab7a5de5100f149fe290dbf05edfe003408d5de7d5cb089954b382"
+        },
+        {
+          "page": 27,
+          "start": 0,
+          "end": 1697,
+          "sha256": "0f6b2deaca5b20bc3df74d95de760e64c88b9e4e1cd24e08662c03798e2da4f8"
+        }
+      ]
+    },
+    {
+      "number": "10",
+      "heading": "Rule 10. Communication with Jurors Return to Top",
+      "page": 27,
+      "offset": 1697,
+      "slices": [
+        {
+          "page": 27,
+          "start": 1697,
+          "end": 2212,
+          "sha256": "930a36b26d149e87296620ade2baa3a5ea03f2cba833ca9ba8bd6b146c1b5e8c"
+        },
+        {
+          "page": 28,
+          "start": 0,
+          "end": 3,
+          "sha256": "f14b4987904bcb5814e4459a057ed4d20f58a633152288a761214dcd28780b56"
+        }
+      ]
+    },
+    {
+      "number": "11",
+      "heading": "Rule 11. Imposition of Jury Costs Return to Top",
+      "page": 28,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 28,
+          "start": 3,
+          "end": 226,
+          "sha256": "666eb3d0b12212abdf94684dd8c40cb6fe4cabbbe7b9ec2911881f4048a3602d"
+        }
+      ]
+    },
+    {
+      "number": "12",
+      "heading": "Rule 12. Exhibits Presented in Court Proceedings Return to Top",
+      "page": 28,
+      "offset": 226,
+      "slices": [
+        {
+          "page": 28,
+          "start": 226,
+          "end": 1794,
+          "sha256": "2a0d4327677d8208ecea1580f15c994c2d4dca69e2614931af77de775063c32c"
+        },
+        {
+          "page": 29,
+          "start": 0,
+          "end": 932,
+          "sha256": "d13a1bbdff7ea01e5ae9abb3d9785bce6c3d5f53be022b85fdab1f9a91f93071"
+        },
+        {
+          "page": 30,
+          "start": 0,
+          "end": 1511,
+          "sha256": "7652a9f1c3e261fc1939031127da5644e17cc4db39ff339df13036299fd36b1d"
+        },
+        {
+          "page": 31,
+          "start": 0,
+          "end": 1559,
+          "sha256": "cacceab0be9113e2c04b038b011af0ed248fe9d95396408fc4d6d9db10720a75"
+        },
+        {
+          "page": 32,
+          "start": 0,
+          "end": 578,
+          "sha256": "997a511fc7dcde776ec63eff0e623dcafe31c7aec329a5240dedc6286cf69ac0"
+        }
+      ]
+    },
+    {
+      "number": "16",
+      "heading": "Rule 16. Scheduling Orders Return to Top",
+      "page": 32,
+      "offset": 578,
+      "slices": [
+        {
+          "page": 32,
+          "start": 578,
+          "end": 945,
+          "sha256": "1fd35f8ddcab77c6dd964c06dbf4ef00ee5e128910d1c99558d648bee68076ea"
+        }
+      ]
+    },
+    {
+      "number": "26",
+      "heading": "Rule 26. Expert Disclosure Return to Top",
+      "page": 32,
+      "offset": 945,
+      "slices": [
+        {
+          "page": 32,
+          "start": 945,
+          "end": 1441,
+          "sha256": "7bb88e4bfba790e9242866e441c1269834fd4d607cff96bd4a990f28d5da1bb4"
+        },
+        {
+          "page": 33,
+          "start": 0,
+          "end": 126,
+          "sha256": "08baeae73baf42ea739a9af49663110d7c30c772907fc0d0370de67b0b9ddd99"
+        }
+      ]
+    },
+    {
+      "number": "40",
+      "heading": "Rule 40. Scheduling of Cases for Trial Return to Top",
+      "page": 33,
+      "offset": 126,
+      "slices": [
+        {
+          "page": 33,
+          "start": 126,
+          "end": 261,
+          "sha256": "e82764165d31ae57a99883e5369dbb1ba2183f9c10bffe4b8ab579db4c078cdd"
+        }
+      ]
+    },
+    {
+      "number": "51",
+      "heading": "Rule 51. Proposed Instructions Return to Top",
+      "page": 33,
+      "offset": 261,
+      "slices": [
+        {
+          "page": 33,
+          "start": 261,
+          "end": 785,
+          "sha256": "5db07f1d91eee665a56f595a80b15a550409d7a72c43d2e3e4196ace2d9029b9"
+        }
+      ]
+    },
+    {
+      "number": "54",
+      "heading": "Rule 54. Fees and Costs Return to Top",
+      "page": 33,
+      "offset": 785,
+      "slices": [
+        {
+          "page": 33,
+          "start": 785,
+          "end": 1376,
+          "sha256": "5893c85d0e2325a921b5a8cd04c2d44a0cd8bc4db9c955a62998c6cbba302aa2"
+        },
+        {
+          "page": 34,
+          "start": 0,
+          "end": 535,
+          "sha256": "5fef0bb9005b31d5ccfbe56b00728e393731f9d36c79e518739ac5e19d62db15"
+        }
+      ]
+    },
+    {
+      "number": "56",
+      "heading": "Rule 56. Summary Judgment-Time of Filing Return to Top",
+      "page": 34,
+      "offset": 535,
+      "slices": [
+        {
+          "page": 34,
+          "start": 535,
+          "end": 1217,
+          "sha256": "d27b2bd4916856ec54a7da6436a9af3ce2021e5231c5d6a2f436da8893621c73"
+        },
+        {
+          "page": 35,
+          "start": 0,
+          "end": 3,
+          "sha256": "3840bc236ee03aacbb1ef7d5108ddfa347c59f10b68d4174affbb53140f31273"
+        }
+      ]
+    },
+    {
+      "number": "67",
+      "heading": "Rule 67. Deposit and Investment of Registry Funds Return to Top",
+      "page": 35,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 35,
+          "start": 3,
+          "end": 1218,
+          "sha256": "6ad45b851ce2c735e5b57920a33078f853b8b4f73e714878dcc57480d83ec20f"
+        },
+        {
+          "page": 36,
+          "start": 0,
+          "end": 1385,
+          "sha256": "8f2d7d77fd6715aca1cb3644ab3acd099a59dece2f3d72aad3e2b1ddc695653b"
+        },
+        {
+          "page": 37,
+          "start": 0,
+          "end": 1493,
+          "sha256": "f345357b97f997afae0568d189618e3b9c9487285313c554388a9b65b7e19ef6"
+        },
+        {
+          "page": 38,
+          "start": 0,
+          "end": 1191,
+          "sha256": "63ff334e437c6d6f11ec33a17b219a202d724280feca88e08d877ea2736376f6"
+        },
+        {
+          "page": 39,
+          "start": 0,
+          "end": 3,
+          "sha256": "19b8d5c59e421f037fe563007c7254eb8d98bc221b278c3db3e5fdbbfd52e273"
+        }
+      ]
+    },
+    {
+      "number": "73",
+      "heading": "Rule 73. Magistrate Judges Return to Top",
+      "page": 39,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 39,
+          "start": 3,
+          "end": 604,
+          "sha256": "a250501f04d82fbf5146be1c398e0be02f62daa103dae958bdd9b8c85f94e05c"
+        }
+      ]
+    },
+    {
+      "number": "83",
+      "heading": "Rule 83. Alternative Dispute Resolution Program Return to Top",
+      "page": 39,
+      "offset": 604,
+      "slices": [
+        {
+          "page": 39,
+          "start": 604,
+          "end": 1633,
+          "sha256": "15ae95dce686cbb350916dda7998ee9629ee30d20ccb675194cced80e4631363"
+        },
+        {
+          "page": 40,
+          "start": 0,
+          "end": 1655,
+          "sha256": "5c4137c61e3ab2151ba9cfb689ac14ca67a5b1a296a9912e55e6c08fb77ea768"
+        },
+        {
+          "page": 41,
+          "start": 0,
+          "end": 1697,
+          "sha256": "3475a75133014b56f195a442ec512826ddd1086baebcdb60f649afcfa3d9bc1b"
+        },
+        {
+          "page": 42,
+          "start": 0,
+          "end": 100,
+          "sha256": "919a2d5ba5b81fc96e239321f4e7115117d7988c2a5c4d81c3fc46b7d2e3d2eb"
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "startPage": 7,
+    "startOffset": 98,
+    "endPage": 42,
+    "endOffset": 100,
+    "ruleCount": 21,
+    "tocReconciled": false,
+    "editorialReviewComplete": false,
+    "currencyReviewed": false,
+    "flags": [
+      "Source extraction contains unresolved characters; consult the original publication."
+    ],
+    "excluded": "Source material outside the recorded range remains available in the district source library."
+  },
+  "transcriptionSha256": "f9b4a27cb375c685a9fb37c687db9a6c662b206cf0b1624de840980eb6480b5c"
+}

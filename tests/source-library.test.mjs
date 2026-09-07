@@ -8,7 +8,7 @@ const json=async p=>JSON.parse(await readFile(p,'utf8'));
 const library=await json('data/source-library.json'),districts=await json('data/districts.json');
 test('all 94 selectable districts have hash-verified snapshots and nonempty page text',async()=>{
   assert.equal(districts.filter(d=>d.supported&&d.id!=='us').length,94);
-  assert.equal(districts.filter(d=>d.readerMode==='source').length,93);
+  assert.equal(districts.filter(d=>d.readerMode==='structured').length,93);
   assert.equal(await validateSourceLibrary(library,districts),96);
 });
 test('source routes preserve document identity and reject invalid pages and editions',()=>{

@@ -1,0 +1,1379 @@
+{
+  "version": 1,
+  "reviewStatus": "parsed-draft",
+  "districtId": "ndd",
+  "sourceDocument": {
+    "id": "a5ac31739c05d890",
+    "title": "Local Rules",
+    "format": "pdf",
+    "role": "primary",
+    "sourceUrl": "https://www.ndd.uscourts.gov/lci/Local_Rules.pdf",
+    "sha256": "a5ac31739c05d89026e64d3656f9fc1fc8b1c6ceeecced44b33d9b3f84a5a119",
+    "bytes": 1103092,
+    "retrievedAt": "2026-09-07T00:01:55.605006+00:00",
+    "snapshotPath": "sources/district-snapshots/a5ac31739c05d89026e64d3656f9fc1fc8b1c6ceeecced44b33d9b3f84a5a119.pdf",
+    "textPath": "data/source-library/a5ac31739c05d89026e64d3656f9fc1fc8b1c6ceeecced44b33d9b3f84a5a119.json",
+    "pdfPath": "data/source-pdfs/a5ac31739c05d89026e64d3656f9fc1fc8b1c6ceeecced44b33d9b3f84a5a119.pdf",
+    "pageCount": 92,
+    "reviewStatus": "source-document-only",
+    "blankTextPages": 0
+  },
+  "collection": {
+    "id": "ndd-civil",
+    "name": "District of North Dakota Local Rules",
+    "shortName": "Local rules · draft",
+    "districtId": "ndd",
+    "scopeNote": "Civil and generally applicable local rules; unparsed supplements remain in the source library. Rule boundaries and transcription are drafts. Embedded notes, forms, and running headers may remain within rule text; subsection anchors and field-separated notes are not yet reviewed."
+  },
+  "provisions": [
+    {
+      "id": "ndd-civil:3.1",
+      "collectionId": "ndd-civil",
+      "districtId": "ndd",
+      "number": "3.1",
+      "citation": "District of North Dakota · Rule 3.1",
+      "title": "CASE ASSIGNMENT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "CIVIL RULE 3.1\nCASE ASSIGNMENT\n(A) DIVISION ASSIGNMENT AND OBJECTIONS\nCivil cases must be assigned to and tried in the division where the action arose or where the \ndefendant resides. D.N.D. Gen. L.R. 1.1 sets forth the counties comprising each division.\nThe plaintiff must designate the appropriate division in the caption of the complaint. If a party \nbelieves the case has been assigned to the wrong division, a party must object within the time \nperiod for answering either by including an objection in the answer or by filing a motion seeking \na change in the division assignment, except in removal cases. In removal cases, a party must object \nwithin thirty (30) days from the notice of removal. The failure to timely object constitutes a waiver \nof an objection to the division assignment.\n(B) REASSIGNMENT OR CHANGE OF PLACE OF TRIAL\nThe court may order a change of division assignment or a change in the place of trial upon timely \nmotion made by a party when the initial division assignment is improper, upon stipulation of the \nparties, or in the court’s discretion.\n(C) DIRECT ASSIGNMENT CASES\nA percentage of civil cases are assigned to magistrate judges in accordance with the court’s Plan \nfor Direct Assignment of Civil Cases to a Magistrate Judge. If all parties consent in writing to the \nmagistrate judge’s exercise of civil trial jurisdiction, the case will remain assigned to the magistrate \njudge for all purposes, including trial and entry of final judgment.",
+          "pages": [
+            30
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "CIVIL RULES\n22\nEffective October 6, 2025\n",
+          "pages": [
+            31
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ndd-civil-parsed-v1-a5ac31739c05d890",
+      "sourceDocumentId": "parsed-ndd-a5ac31739c05d890",
+      "sourceUrl": "https://www.ndd.uscourts.gov/lci/Local_Rules.pdf",
+      "pageIndex": 30,
+      "pageSpan": [
+        30,
+        31
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ndd-civil:4.1",
+      "collectionId": "ndd-civil",
+      "districtId": "ndd",
+      "number": "4.1",
+      "citation": "District of North Dakota · Rule 4.1",
+      "title": "SERVICE OF PROCESS AND COURT ORDERS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "CIVIL RULE 4.1\nSERVICE OF PROCESS AND COURT ORDERS\n(A) SERVICE BY UNITED STATES MARSHALS SERVICE\nThe United States Marshals Service is relieved from serving civil process and court orders for non￾federal litigants except as required by law or court order for good cause shown.\n(B) APPOINTMENT OF SPECIAL PROCESS SERVERS\nState sheriffs and their deputies are specially appointed to serve and execute civil process and court \norders under Fed. R. Civ. P. 4 and 4.1 without court order.\n(C) PROOF OF SERVICE OF SUBPOENAS\nA party must retain proof of service of subpoenas until the entry of a final non-appealable judgment \nor dismissal. A party may not file proof of service of subpoenas unless required to support a \ncontested issue or unless ordered by the court.",
+          "pages": [
+            31
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "CIVIL RULES\n23\nEffective October 6, 2025\n",
+          "pages": [
+            32
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ndd-civil-parsed-v1-a5ac31739c05d890",
+      "sourceDocumentId": "parsed-ndd-a5ac31739c05d890",
+      "sourceUrl": "https://www.ndd.uscourts.gov/lci/Local_Rules.pdf",
+      "pageIndex": 31,
+      "pageSpan": [
+        31,
+        32
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ndd-civil:5.1",
+      "collectionId": "ndd-civil",
+      "districtId": "ndd",
+      "number": "5.1",
+      "citation": "District of North Dakota · Rule 5.1",
+      "title": "FILES AND FILING",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "CIVIL RULE 5.1\nFILES AND FILING\n(A) ELECTRONIC CASE FILING (ECF)\nThe specific requirements, procedures, and limitations of ECF are in the Administrative Policy \nGoverning Electronic Filing and Service.\n(B) FORM\n(1) Documents for filing must be on standard size (8 ½\" x 11\") paper or equivalent \nPDF format, with page numbers at the bottom of each page.\n(2) Text must appear on only one side of the page with a minimum margin of one inch \n(1\"). Text must be typeset with 12-point font or larger and must be double-spaced, \nexcept the title of the case and quoted material may be single-spaced. \n(3) Documents offered for filing, after the initial pleading, except exhibits, must be in \npleading format, each containing the venue, case title, and file number.\n(C) SEALED DOCUMENTS AND FILES\nThe filing of sealed documents and files is governed by the Administrative Policy Governing \nElectronic Filing and Service. A party seeking to file a document under seal must comply with \nthe Guide to Filing Sealed Documents and Motions, which addresses requirements for motions \nseeking to seal a document in its entirety and motions seeking to seal only portions of a document.",
+          "pages": [
+            32
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "CIVIL RULES\n24\nEffective October 6, 2025\n",
+          "pages": [
+            33
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ndd-civil-parsed-v1-a5ac31739c05d890",
+      "sourceDocumentId": "parsed-ndd-a5ac31739c05d890",
+      "sourceUrl": "https://www.ndd.uscourts.gov/lci/Local_Rules.pdf",
+      "pageIndex": 32,
+      "pageSpan": [
+        32,
+        33
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ndd-civil:6.1",
+      "collectionId": "ndd-civil",
+      "districtId": "ndd",
+      "number": "6.1",
+      "citation": "District of North Dakota · Rule 6.1",
+      "title": "TIME",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "CIVIL RULE 6.1\nTIME\n[REPEALED October 6, 2025]",
+          "pages": [
+            33
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "CIVIL RULES\n25\nEffective October 6, 2025\n",
+          "pages": [
+            34
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ndd-civil-parsed-v1-a5ac31739c05d890",
+      "sourceDocumentId": "parsed-ndd-a5ac31739c05d890",
+      "sourceUrl": "https://www.ndd.uscourts.gov/lci/Local_Rules.pdf",
+      "pageIndex": 33,
+      "pageSpan": [
+        33,
+        34
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ndd-civil:7.1",
+      "collectionId": "ndd-civil",
+      "districtId": "ndd",
+      "number": "7.1",
+      "citation": "District of North Dakota · Rule 7.1",
+      "title": "MOTIONS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "CIVIL RULE 7.1\nMOTIONS\n(A) MOTION TYPES\n(1) DISPOSITIVE MOTIONS\n(a) DEADLINES AND PAGE LIMITS\nA dispositive motion is one which seeks relief, whether partial or complete, \nunder Fed. R. Civ. P. 12 or 56. When serving and filing a dispositive motion, \nthe moving party must contemporaneously serve and file a memorandum in \nsupport not to exceed forty (40) pages. The adverse party has twenty-eight \n(28) days after service and filing of the memorandum in support to serve \nand file a response not to exceed forty (40) pages. The moving party has \nfourteen (14) days after service and filing of the response to serve and file \na reply not to exceed ten (10) pages. A table of contents and a table of \nauthorities, if a party chooses to include them, are excluded from the page \nlimits described above. \nDISPOSITIVE MOTION DEADLINES AND PAGE LIMITS\nDAYS PAGES\nMemorandum in Support of Motion 40\nResponse 28 40\nReply 14 10\n(b) MEMORANDUM IN SUPPORT OF MOTION FOR SUMMARY\nJUDGMENT\nA memorandum in support of a motion for summary judgment must \ncontain, separate from the argument section of the memorandum, a \nrecitation of the material facts the moving party claims are uncontested. The \nstatement of facts may be in narrative form, but each significant material \nfact must be supported by reference to specific pages, paragraphs, or parts \nof the pleadings, depositions, answers to interrogatories, exhibits, and \naffidavits that have been served and filed with the court and that conform to ",
+          "pages": [
+            34
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "CIVIL RULES\n26\nEffective October 6, 2025\nthe requirements of Fed. R. Civ. P. 56(c). A party’s failure to comply with \nthis rule may result in the denial of the motion.\n(c) RESPONSE TO MOTION FOR SUMMARY JUDGMENT\nA response to a motion for summary judgment must state the facts upon \nwhich the party opposing summary judgment relies and must clearly \nidentify those facts the opposing party claims are contested. The recitation \nof facts in the response may be in narrative form, but must be supported by \nreference to specific pages, paragraphs, or parts of the pleadings, \ndepositions, answers to interrogatories, exhibits, and affidavits that have \nbeen served and filed with the court and that conform to the requirements \nof Fed. R. Civ. P. 56(c). The party opposing summary judgment must \nclearly explain in the argument section of the response why the facts \nclaimed to be contested are material to the matters at issue. A party’s failure \nto comply with this rule may result in granting of the motion.\n(2) NON-DISPOSITIVE MOTIONS\nA non-dispositive motion is a motion not outlined in subsection (A)(1) or otherwise \ndesignated by the court as a dispositive motion. When serving and filing a non￾dispositive motion, the moving party must contemporaneously serve and file a \nmemorandum in support not to exceed twenty (20) pages. The adverse party has \nfourteen (14) days after service and filing of a memorandum in support to serve and \nfile a response not to exceed twenty (20) pages. The moving party has seven (7) \ndays to serve and file a reply not to exceed seven (7) pages. A table of contents and \na table of authorities, if a party chooses to include them, are excluded from the page \nlimits described above. \nNON-DISPOSITIVE MOTION DEADLINES & PAGE LIMITS\nDAYS PAGES\nMemorandum in Support of Motion 20\nResponse 14 20\nReply 7 7",
+          "pages": [
+            35
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-37",
+          "path": [],
+          "type": "paragraph",
+          "text": "CIVIL RULES\n27\nEffective October 6, 2025\n(3) MOTIONS FOR INJUNCTIVE RELIEF\n(a) Deadlines. The deadlines for responses and replies outlined in subsection \n(A)(1)(a) also apply to briefing on motions for preliminary injunctions and \nother injunctive relief, except for motions for temporary restraining orders. \nMotions for temporary restraining orders are governed by Fed. R. Civ. P. \n65.\n(b) Page Limits. The page limits outlined in subsection (A)(1)(a) also apply to \nbriefing on motions for temporary restraining orders, preliminary \ninjunctions, and other injunctive relief.\n(4) MOTIONS FOR LEAVE OF COURT TO FILE ADDITIONAL FILINGS OR \nTO EXCEED PAGE LIMITS\nA party must serve and file a motion for leave of court to file additional filings or \nfilings that exceed the page limits described in (A)(1), (A)(2), and (A)(3). Leave of \ncourt is granted only upon a showing of good cause. A memorandum in support of \na motion for leave of court to file an additional filing or to file a filing that exceeds \nthe page limits is not required but, if filed, may not exceed two (2) pages.\n(5) MOTIONS AND STIPULATIONS FOR LEAVE TO FILE AMENDED \nDOCUMENT\nA party filing a motion for leave of court or a stipulation to file an amended \ndocument must file the proposed document as an attachment to the motion or \nstipulation.\nA party moving or stipulating to amend or supplement a pleading must file a version \nof the amended or supplemental pleading that identifies proposed changes.\n(6) MOTIONS FOR ORAL ARGUMENT\nThe court may order oral argument on its own or upon a party’s motion. A\nmemorandum in support of the motion for oral argument is not required but, if filed,\nmay not exceed two (2) pages.",
+          "pages": [
+            36
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-38",
+          "path": [],
+          "type": "paragraph",
+          "text": "CIVIL RULES\n28\nEffective October 6, 2025\n(B) GENERAL MATTERS\n(1) DEADLINES FOR PRO SE PARTIES WITHOUT ACCESS TO ELECTRONIC \nFILING\nUnder Fed. R. Civ. P. 6(d), pro se parties without access to electronic filing are \noften allowed three (3) additional days when calculating the deadlines in this rule.\n(2) SERVICE AND FILING NOT ON SAME DATE\nA party’s time to respond or reply does not begin until after the service and filing \nof the motion or response, whichever is later.\n(3) PROPOSED ORDERS NOT REQUIRED\nUnless otherwise ordered, a proposed order should not be filed.\n(4) FORM OF FILINGS AND EXHIBITS\n(a) A party must serve and file a complete PDF copy of a deposition or other \ntranscript offered in support of or in opposition to a motion. \n(b) A party must serve and file each exhibit offered in support of or in opposition \nto a motion as a separate attachment with a sufficiently detailed description, \nso the attachment is readily identifiable. A party may not file a document \nalready on file with the court but must instead refer to the docket number \nassigned to the filed document.\n(5) FAILURE TO FILE MEMORANDUM OR RESPONSE\nA party’s failure to serve and file a memorandum or a response within the\nprescribed time may subject a motion to summary ruling. A moving party’s \nfailure to serve and file a memorandum in support may be deemed an admission \nthat the motion is without merit. An adverse party’s failure to serve and file a \nresponse to a motion may be deemed an admission that the motion is well taken.\n(C) AMICUS CURIAE BRIEFS\n(1) The United States or its officer or agency; a State, Territory, or Commonwealth; or \nthe District of Columbia may file an amicus curiae brief without the consent of the ",
+          "pages": [
+            37
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "CIVIL RULES\n29\nEffective October 6, 2025\nparties or leave of court. Other amicus curiae may file a brief only with leave of \ncourt or if the brief states all parties have consented to its filing. \n(2) A motion for leave to file an amicus curiae brief must state the movant’s interest, \nthe reasons an amicus curiae brief is desirable, and how the matters asserted are \nrelevant to the disposition of the case. A motion for leave to file an amicus curiae \nbrief must be accompanied by the proposed brief. \nAn amicus curiae must serve and file its motion for leave to file an amicus curiae\nbrief and its proposed brief no later than seven (7) days after the party being\nsupported files a memorandum in support of a motion or response to a motion \nunless otherwise ordered by the court.\n(3) An amicus curiae who may file a brief without leave of court must serve and file \nits brief no later than seven (7) days after the party being supported files a \nmemorandum in support of a motion or response to a motion unless otherwise \nordered by the court. \n(4) Unless otherwise ordered by the court, an amicus curiae brief may not exceed\ntwenty (20) pages.",
+          "pages": [
+            38
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-40",
+          "path": [],
+          "type": "paragraph",
+          "text": "CIVIL RULES\n30\nEffective October 6, 2025\n",
+          "pages": [
+            39
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ndd-civil-parsed-v1-a5ac31739c05d890",
+      "sourceDocumentId": "parsed-ndd-a5ac31739c05d890",
+      "sourceUrl": "https://www.ndd.uscourts.gov/lci/Local_Rules.pdf",
+      "pageIndex": 34,
+      "pageSpan": [
+        34,
+        39
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ndd-civil:7.1.1",
+      "collectionId": "ndd-civil",
+      "districtId": "ndd",
+      "number": "7.1.1",
+      "citation": "District of North Dakota · Rule 7.1.1",
+      "title": "DISCLOSURE STATEMENT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-40",
+          "path": [],
+          "type": "paragraph",
+          "text": "CIVIL RULE 7.1.1\nDISCLOSURE STATEMENT\nEvery non-government organizational party or intervenor must file either a Corporate Disclosure \nStatement (disclosure statement) or a certificate that Fed. R. Civ. P. 7.1 is not applicable (certificate \nof non-applicability). Information provided under this rule may be used by the assigned judge to \ndetermine whether recusal is necessary and to confirm jurisdiction is proper. The disclosure \nstatement or certificate of non-applicability must be filed within fourteen (14) days of the party’s \nfirst filing or entry of appearance.",
+          "pages": [
+            39
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-41",
+          "path": [],
+          "type": "paragraph",
+          "text": "CIVIL RULES\n31\nEffective October 6, 2025\n",
+          "pages": [
+            40
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ndd-civil-parsed-v1-a5ac31739c05d890",
+      "sourceDocumentId": "parsed-ndd-a5ac31739c05d890",
+      "sourceUrl": "https://www.ndd.uscourts.gov/lci/Local_Rules.pdf",
+      "pageIndex": 39,
+      "pageSpan": [
+        39,
+        40
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ndd-civil:16.1",
+      "collectionId": "ndd-civil",
+      "districtId": "ndd",
+      "number": "16.1",
+      "citation": "District of North Dakota · Rule 16.1",
+      "title": "CIVIL CASE MANAGEMENT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-41",
+          "path": [],
+          "type": "paragraph",
+          "text": "CIVIL RULE 16.1\nCIVIL CASE MANAGEMENT\nThe court will hold pretrial conferences as required by Fed. R. Civ. P. 16(b) and as otherwise \nordered by the court. The following categories of actions are exempt from Rule 16(b) scheduling \nconferences unless otherwise ordered by the court:\n(1) IRS enforcement actions;\n(2) eminent domain proceedings;\n(3) forfeitures;\n(4) habeas corpus actions (28 U.S.C. '' 2241, 2254, and 2255; and 25 U.S.C. ' 1303);\n(5) Freedom of Information Act proceedings;\n(6) enforcement of out-of-state judgments;\n(7) appeals from the bankruptcy court;\n(8) appeals from administrative agency decisions (including the Social Security \nAdministration);\n(9) actions brought by the United States to collect debts or recover benefit payments;\n(10) actions in which one of the parties is incarcerated and appears pro se;\n(11) student loan cases;\n(12) overpayment of Veterans Administration benefits;\n(13) admission to or revocation of citizenship;\n(14) arbitration actions (to set aside, confirm, or compel arbitration);\n(15) actions to compel testimony or production of documents;\n(16) actions to enforce or quash administrative summons or subpoenas;",
+          "pages": [
+            40
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-42",
+          "path": [],
+          "type": "paragraph",
+          "text": "CIVIL RULES\n32\nEffective October 6, 2025\n(17) cases not reported for statistical purposes as “filed” cases (e.g., registration of \nforeign judgments, grand jury matters, in forma pauperisrequests which are denied, \ndisbarment or reinstatement of attorneys);\n(18) foreclosure actions; and\n(19) mandamus actions (28 U.S.C. ' 1361).\nIn any case, a party may request a pretrial conference.",
+          "pages": [
+            41
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-43",
+          "path": [],
+          "type": "paragraph",
+          "text": "CIVIL RULES\n33\nEffective October 6, 2025\n",
+          "pages": [
+            42
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ndd-civil-parsed-v1-a5ac31739c05d890",
+      "sourceDocumentId": "parsed-ndd-a5ac31739c05d890",
+      "sourceUrl": "https://www.ndd.uscourts.gov/lci/Local_Rules.pdf",
+      "pageIndex": 40,
+      "pageSpan": [
+        40,
+        42
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ndd-civil:16.2",
+      "collectionId": "ndd-civil",
+      "districtId": "ndd",
+      "number": "16.2",
+      "citation": "District of North Dakota · Rule 16.2",
+      "title": "ALTERNATIVE DISPUTE RESOLUTION (ADR)",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-43",
+          "path": [],
+          "type": "paragraph",
+          "text": "CIVIL RULE 16.2\nALTERNATIVE DISPUTE RESOLUTION (ADR)\n(A) AUTHORIZATION\n(1) The court authorizes the use of Alternative Dispute Resolution (ADR) in civil cases,\nincluding adversary proceedings in bankruptcy under 28 U.S.C. ' 651.\n(2) The primary form of ADR offered by the court is mediation in the form of court￾sponsored settlement conferences conducted by a judge. The court will not offer\narbitration as a court-sponsored ADR process but, in appropriate cases and with the\nconsent of the parties, the court will facilitate other forms of ADR, such as early\nneutral evaluation. The court encourages, but does not require, private ADR as an\nalternative to court-sponsored ADR.\n(B) DESIGNATION OF CASES\nThe court strongly encourages participation in ADR at an early stage of each civil case and \nrequires that the parties in civil cases not excluded under D.N.D. Gen. L.R. 16.1 discuss \nearly ADR participation and the appropriate timing of ADR. The parties must include in their \nFed. R. Civ. P. 26(f)(3) Scheduling/Discovery Plan the ADR option they choose and the \nappropriate timing. Upon request by a party or on the court’s own initiative, the court may \nschedule a settlement conference at any stage of the proceeding if the nature of the case, the \namount in controversy, and the status of the case indicate the conference may be beneficial. For \ncases in which a magistrate judge is the trial judge, another magistrate judge, a district judge, or a \nbankruptcy judge may be available to conduct a settlement conference.\n(C) CONFIDENTIALITY\n(1) The settlement judge will not inform the trial judge of positions taken by parties\nduring the ADR process and will only advise the trial judge whether the case settled.\nThe trial judge will not ordinarily serve as the settlement judge unless the parties\njointly agree otherwise in an appropriate jury case.\n(2) The ADR process is confidential and not open to the public. All written and oral\ncommunications by parties or their representatives in relation to court-sponsored\nADR proceedings are deemed confidential. Disclosure of confidential ADR\ncommunications is prohibited, except as authorized by the court or agreed to by the\nparties.",
+          "pages": [
+            42
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-44",
+          "path": [],
+          "type": "paragraph",
+          "text": "CIVIL RULES\n34\nEffective October 6, 2025\n(3) A judge conducting an ADR proceeding may not be called to testify in connection \nwith a dispute relating to the ADR proceeding or its result except upon written \nagreement of the parties and concurrence of the court, or when otherwise required \nby law.\n(D) ADMINISTRATION\nThe chief judge is designated to serve as program administrator to implement, oversee, and \nevaluate the court’s ADR program and may delegate the authority to an employee or judge as \npermitted by 28 U.S.C. ' 651(d). \n(E) DISQUALIFICATION\n(1) A judge may be disqualified from conducting an ADR proceeding because of bias \nor prejudice or for conflict of interest as specified in 28 U.S.C. '' 144 and 455.\n(2) A party who believes a judge conducting an ADR proceeding has a conflict of \ninterest must serve and file a motion for recusal at the earliest opportunity.\n(3) Upon disqualification of a judge from conducting an ADR proceeding, the ADR \nprogram administrator will assign another judge to conduct further ADR \nproceedings. If the ADR program administrator has been disqualified, another \njudge in the district will assign a judge to conduct further ADR proceedings.",
+          "pages": [
+            43
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-45",
+          "path": [],
+          "type": "paragraph",
+          "text": "CIVIL RULES\n35\nEffective October 6, 2025\n",
+          "pages": [
+            44
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ndd-civil-parsed-v1-a5ac31739c05d890",
+      "sourceDocumentId": "parsed-ndd-a5ac31739c05d890",
+      "sourceUrl": "https://www.ndd.uscourts.gov/lci/Local_Rules.pdf",
+      "pageIndex": 42,
+      "pageSpan": [
+        42,
+        44
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ndd-civil:26.1",
+      "collectionId": "ndd-civil",
+      "districtId": "ndd",
+      "number": "26.1",
+      "citation": "District of North Dakota · Rule 26.1",
+      "title": "CIVIL DISCOVERY",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-45",
+          "path": [],
+          "type": "paragraph",
+          "text": "CIVIL RULE 26.1\nCIVIL DISCOVERY\n(A) SCOPE AND TIMING\nThe scope of discovery and the time for completion of discovery must be determined at the Fed. \nR. Civ. P. 16(b) conference. In cases exempt from a Fed. R. Civ. P. 16(b) conference and in cases \nin which the time for completion of discovery has not been specifically provided for by court order, \ndiscovery must be completed thirty (30) days before the scheduled trial date. \n(B) FORM\nThe response to an interrogatory, document request, or request for admissions must set out the \ninterrogatory or request in full, followed by the response. Parties are encouraged to provide an \nelectronic courtesy copy of discovery requests to the opposing parties. \n(C) FILING\nA party may not file discovery materials except when relevant to a pending motion or when \notherwise ordered by the court. \n(D) EXEMPTIONS\nThe following types of proceedings are exempt from the requirements of Fed. R. Civ. P. 26(a)(1), \nunless otherwise ordered by the court:\n(1) proceedings under Fed. R. Civ. P. 26(a)(1)(B); \n(2) bankruptcy appeals;\n(3) collection actions; and \n(4) foreclosures.",
+          "pages": [
+            44
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-46",
+          "path": [],
+          "type": "paragraph",
+          "text": "CIVIL RULES\n36\nEffective October 6, 2025\n",
+          "pages": [
+            45
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ndd-civil-parsed-v1-a5ac31739c05d890",
+      "sourceDocumentId": "parsed-ndd-a5ac31739c05d890",
+      "sourceUrl": "https://www.ndd.uscourts.gov/lci/Local_Rules.pdf",
+      "pageIndex": 44,
+      "pageSpan": [
+        44,
+        45
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ndd-civil:37.1",
+      "collectionId": "ndd-civil",
+      "districtId": "ndd",
+      "number": "37.1",
+      "citation": "District of North Dakota · Rule 37.1",
+      "title": "CIVIL DISCOVERY MOTIONS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-46",
+          "path": [],
+          "type": "paragraph",
+          "text": "CIVIL RULE 37.1\nCIVIL DISCOVERY MOTIONS\n(A) OBLIGATION TO CONFER\nA party may not file a motion concerning a discovery or scheduling dispute (e.g., a motion to \ncompel discovery, motion for sanctions, motion for protective order, or motion to amend \nscheduling order) until the parties have conferred, either in person, by telephone, or by other \nreliable, real-time electronic means, to make a reasonable, good faith effort to resolve the dispute \nwithout involving the court. A written demand for relief, including a demand through email, is not \nsufficient. The moving party must make a reasonable effort to confer, and the opposing party \nmust make a reasonable effort to participate.\n(B) OBLIGATION FOR CONFERENCE WITH MAGISTRATE JUDGE\nIn addition to the requirements in subsection (A), the parties may not file a motion concerning a \ndiscovery or scheduling dispute until after the parties have participated in a conference with the \nassigned magistrate judge unless the court grants leave to file the motion. The parties must contact \nthe chambers of the assigned magistrate judge to request a conference be scheduled.\n(C) SANCTIONS FOR NON-COMPLIANCE\nA party’s failure to comply with the requirements of this rule may result in the court summarily \ngranting or denying the motion, as well as awarding costs and reasonable attorney’s fees. ",
+          "pages": [
+            45
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-47",
+          "path": [],
+          "type": "paragraph",
+          "text": "CIVIL RULES\n37\nEffective October 6, 2025\n",
+          "pages": [
+            46
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ndd-civil-parsed-v1-a5ac31739c05d890",
+      "sourceDocumentId": "parsed-ndd-a5ac31739c05d890",
+      "sourceUrl": "https://www.ndd.uscourts.gov/lci/Local_Rules.pdf",
+      "pageIndex": 45,
+      "pageSpan": [
+        45,
+        46
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ndd-civil:41.1",
+      "collectionId": "ndd-civil",
+      "districtId": "ndd",
+      "number": "41.1",
+      "citation": "District of North Dakota · Rule 41.1",
+      "title": "DISMISSAL OF SETTLED CIVIL CASE",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-47",
+          "path": [],
+          "type": "paragraph",
+          "text": "CIVIL RULE 41.1\nDISMISSAL OF SETTLED CIVIL CASE\nWithin thirty (30) days after advising the court a case has settled, or within a longer time as the \ncourt may set, the parties must serve and file the documents necessary to terminate the case, unless \nthe United States is a party. If the United States is a party, the parties must serve and file the \ndocuments necessary to terminate the case within sixty (60) days of advising the court the case has \nsettled. If the parties fail to do so, the court may order dismissal of the case, but a party may seek \nreinstatement of the case by serving and filing a motion to reinstate the case within sixty (60) days \nafter the date of the order. The motion must show good cause to reinstate the case.",
+          "pages": [
+            46
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-48",
+          "path": [],
+          "type": "paragraph",
+          "text": "CIVIL RULES\n38\nEffective October 6, 2025\n",
+          "pages": [
+            47
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ndd-civil-parsed-v1-a5ac31739c05d890",
+      "sourceDocumentId": "parsed-ndd-a5ac31739c05d890",
+      "sourceUrl": "https://www.ndd.uscourts.gov/lci/Local_Rules.pdf",
+      "pageIndex": 46,
+      "pageSpan": [
+        46,
+        47
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ndd-civil:43.1",
+      "collectionId": "ndd-civil",
+      "districtId": "ndd",
+      "number": "43.1",
+      "citation": "District of North Dakota · Rule 43.1",
+      "title": "EXHIBITS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-48",
+          "path": [],
+          "type": "paragraph",
+          "text": "CIVIL RULE 43.1\nEXHIBITS\n(A) MARKING EXHIBITS\nBefore a proceeding, a party must physically mark and number documents and objects expected \nto be introduced as exhibits in the proceeding and must follow the requirements of the pretrial \norder governing the marking of exhibits. Unless otherwise ordered, the parties must number the \nexhibits consecutively, with each party using a separate number with sufficient gaps for \nunanticipated or rebuttal exhibits (e.g., the plaintiff using numbers P1-P20 and the defendant using \nnumbers D50-D70). \n(B) CUSTODY OF EXHIBITS\nThe clerk must retain custody of exhibits that have been offered in evidence unless the court orders \notherwise. Parties retaining custody of exhibits of unusual bulk or weight must permit inspection, \nif requested, by another party and bear the responsibility for the exhibits’ safekeeping and \ntransportation to subsequent proceedings, if necessary.\n(C) SENSITIVE EXHIBITS\n(1) Sensitive exhibits include controlled substances, authentic or counterfeit currency, \narticles of high monetary value, explosives, weapons, firearms, ammunition, \nbiohazardous materials, contraband of any kind (including child pornography and \nchild sexual abuse materials), and any other items designated as a sensitive exhibit. \n(2) Explosives may not be brought into the courthouse or entered into evidence unless \napproved in advance by the court.\n(3) A party seeking admission of a sensitive exhibit, other than a firearm, must maintain \nthe exhibit in a sealed evidence bag or in a manner which prevents direct physical \naccess to the exhibit. The sealed evidence bag or container may not be opened \nexcept upon direction of the court.\n(4) A party seeking admission of a firearm must render the firearm inoperable, with a \nweapon lock (such as a trigger guard lock or cable gun lock) or by removing the \nfiring pin (zip ties are not acceptable). The United States Marshals Service must \ninspect the inoperable firearm at the time the firearm is brought into the courthouse. \nIf a firearm is rendered inoperable by a weapon lock, the key to the lock must be \nmaintained outside the courtroom. ",
+          "pages": [
+            47
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-49",
+          "path": [],
+          "type": "paragraph",
+          "text": "CIVIL RULES\n39\nEffective October 6, 2025\n(5) Sensitive exhibits may not be sent to a jury room, unless directed by the court. \n(6) The court must specify instructions for retention of sensitive exhibits, which may \ninclude retention by the clerk, counsel, a case agent, or other individual. If the \nclerk retained custody of a sensitive exhibit during a proceeding, immediately upon\nthe conclusion of the proceeding, the offering party or other custodian authorized \nby the court must take custody of the sensitive exhibit and must execute a receipt \nprepared by the clerk.\n(D) RETURN OF EXHIBITS\nAfter notice to all parties, the clerk must return exhibits to the offering party or other custodian \nauthorized by the court. A party or custodian who receives an exhibit must execute a receipt \nprepared by the clerk and is responsible for retention and safekeeping of the exhibit for the duration \nof subsequent proceedings.",
+          "pages": [
+            48
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-50",
+          "path": [],
+          "type": "paragraph",
+          "text": "CIVIL RULES\n40\nEffective October 6, 2025\n",
+          "pages": [
+            49
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ndd-civil-parsed-v1-a5ac31739c05d890",
+      "sourceDocumentId": "parsed-ndd-a5ac31739c05d890",
+      "sourceUrl": "https://www.ndd.uscourts.gov/lci/Local_Rules.pdf",
+      "pageIndex": 47,
+      "pageSpan": [
+        47,
+        49
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ndd-civil:45.1",
+      "collectionId": "ndd-civil",
+      "districtId": "ndd",
+      "number": "45.1",
+      "citation": "District of North Dakota · Rule 45.1",
+      "title": "SUBPOENAS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-50",
+          "path": [],
+          "type": "paragraph",
+          "text": "CIVIL RULE 45.1\nSUBPOENAS\nThe clerk may not issue a blank subpoena to a pro se party except by court order.",
+          "pages": [
+            49
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-51",
+          "path": [],
+          "type": "paragraph",
+          "text": "CIVIL RULES\n41\nEffective October 6, 2025\n",
+          "pages": [
+            50
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ndd-civil-parsed-v1-a5ac31739c05d890",
+      "sourceDocumentId": "parsed-ndd-a5ac31739c05d890",
+      "sourceUrl": "https://www.ndd.uscourts.gov/lci/Local_Rules.pdf",
+      "pageIndex": 49,
+      "pageSpan": [
+        49,
+        50
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ndd-civil:47.1",
+      "collectionId": "ndd-civil",
+      "districtId": "ndd",
+      "number": "47.1",
+      "citation": "District of North Dakota · Rule 47.1",
+      "title": "CIVIL JURY TRIALS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-51",
+          "path": [],
+          "type": "paragraph",
+          "text": "CIVIL RULE 47.1\nCIVIL JURY TRIALS\n(A) JURY SELECTION\nThe names of prospective jurors must be selected and drawn in accordance with the court’s Plan \nfor Random Jury Selection.\n(B) DISCLOSURE OF JUROR NAMES\nAfter a petit jury panel is drawn, the clerk must send a list of prospective jurors’ names to each \nparty in the case.\n(C) JURY SIZE\n(1) The court may exercise discretion in determining the size of the jury consistent with \nFed. R. Civ. P. 48.\n(2) The initial panel for voir dire examination must consist of the number of jurors and \nalternate jurors who will try the case, plus the number of individuals equal to the \ntotal number of peremptory challenges that will be allowed.\n(3) Unless otherwise ordered by the court, each party may exercise peremptory \nchallenges, beginning with the plaintiff, striking one (1) juror until each side has \nexhausted or waived its peremptory challenges.\n(4) The trial jury will consist of those jurors remaining after dismissal of jurors for \ncause and the exercise of peremptory challenges. If some peremptory challenges \nare not exercised, the trial jury will consist of those jurors remaining, in the order \ndrawn, after dismissal of jurors for cause and the exercise of peremptory challenges.",
+          "pages": [
+            50
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-52",
+          "path": [],
+          "type": "paragraph",
+          "text": "CIVIL RULES\n42\nEffective October 6, 2025\n(D) EXAMINATION OF WITNESSES\nOnly one attorney for a party may examine or cross-examine the same witness, unless\notherwise permitted by the court.\n(E) OPENING STATEMENTS AND CLOSING ARGUMENTS\n(1) Only one attorney for a party may present an opening statement or closing argument \nexcept by leave of court before the statement or argument begins. Different \nattorneys may present the main and rebuttal portions of closing argument without \nleave of court.\n(2) The court may impose time limits on opening statements and closing arguments. \n(3) The plaintiff must open and close the argument, unless otherwise ordered by the \ncourt.",
+          "pages": [
+            51
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-53",
+          "path": [],
+          "type": "paragraph",
+          "text": "CIVIL RULES\n43\nEffective October 6, 2025\n",
+          "pages": [
+            52
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ndd-civil-parsed-v1-a5ac31739c05d890",
+      "sourceDocumentId": "parsed-ndd-a5ac31739c05d890",
+      "sourceUrl": "https://www.ndd.uscourts.gov/lci/Local_Rules.pdf",
+      "pageIndex": 50,
+      "pageSpan": [
+        50,
+        52
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ndd-civil:51.1",
+      "collectionId": "ndd-civil",
+      "districtId": "ndd",
+      "number": "51.1",
+      "citation": "District of North Dakota · Rule 51.1",
+      "title": "CIVIL JURY INSTRUCTIONS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-53",
+          "path": [],
+          "type": "paragraph",
+          "text": "CIVIL RULE 51.1\nCIVIL JURY INSTRUCTIONS\n(A) DEADLINES\nEach party must serve and file requested jury instructions and a proposed verdict form at least \nseven (7) days before the first day of trial, unless ordered otherwise. At any time before closing \narguments, a party may present additional requested instructions relating to issues arising during \nthe trial. \n(B) FORM OF REQUESTED INSTRUCTIONS\nRequested jury instructions must be marked with the case number and must designate the party \nfiling the request. Each requested instruction must be numbered and written on a separate page, \nalong with a citation to authorities supporting the proposition of law stated in the instruction. A \nparty requesting an Eighth Circuit or North Dakota pattern jury instruction only needs to designate \nthe pattern jury instruction number and name, unless the pattern instruction is proposed to be \nmodified. If the pattern instruction is proposed to be modified, the entire proposed instruction must \nbe filed and must be clearly identified as modified.",
+          "pages": [
+            52
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-54",
+          "path": [],
+          "type": "paragraph",
+          "text": "CIVIL RULES\n44\nEffective October 6, 2025\n",
+          "pages": [
+            53
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ndd-civil-parsed-v1-a5ac31739c05d890",
+      "sourceDocumentId": "parsed-ndd-a5ac31739c05d890",
+      "sourceUrl": "https://www.ndd.uscourts.gov/lci/Local_Rules.pdf",
+      "pageIndex": 52,
+      "pageSpan": [
+        52,
+        53
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ndd-civil:54.1",
+      "collectionId": "ndd-civil",
+      "districtId": "ndd",
+      "number": "54.1",
+      "citation": "District of North Dakota · Rule 54.1",
+      "title": "COSTS AND ATTORNEY’S FEES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-54",
+          "path": [],
+          "type": "paragraph",
+          "text": "CIVIL RULE 54.1\nCOSTS AND ATTORNEY’S FEES\n(A) COSTS\n(1) DISTRICT COURT COSTS\nThe parties must serve and file a voluntary agreement with respect to taxable costs \nin the form of a written stipulation. If the parties are unable to stipulate to the costs, \nthe court will apply the following procedures unless otherwise ordered by the court.\n \nA party seeking an award of costs must serve and file a motion for costs no later \nthan fourteen (14) days after entry of judgment. The motion must be accompanied \nby a verified statement of costs that contains (1) for each category of costs being \nclaimed, a detailed breakdown of each item of claimed costs within the category \nwith sufficient description so the item can be readily understood, (2) a brief citation \nto the statutory or other legal authority that provides for recovery of the category of \nclaimed costs, and (3) supporting documents the moving party relies upon to \nestablish the claim of costs.\nThe moving party’s attorney must verify the statement of costs by affirming the \nitems are correct, the services were actually and necessarily performed, and the \ndisbursements were necessarily incurred. A party’s failure to comply with this rule \nmay be deemed a waiver of the claim for costs.\nEach party objecting to the claimed costs must serve and file a response within \nfourteen (14) days of service or filing of the motion that (1) sets forth specific \nobjections to each item of disputed cost, along with a citation to authority for not \nawarding the item or category of cost, and (2) includes as exhibits supporting \ndocuments relied upon to contest the claim of costs. A party’s failure to object to a \nspecific item of cost may be deemed a waiver of an objection to the claimed item. \nWithin seven (7) days after the response is served and filed, the moving party may \nfile a reply.\nThe clerk will tax as part of a judgment only those costs that are awarded by the \ncourt or that have been agreed upon by the parties in a stipulation filed with the \nclerk. Filing a motion for costs does not affect the finality and appealability of the \nfinal judgment previously entered. ",
+          "pages": [
+            53
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-55",
+          "path": [],
+          "type": "paragraph",
+          "text": "CIVIL RULES\n45\nEffective October 6, 2025\n(2) COSTS ON APPEAL TAXABLE IN THE DISTRICT COURT\nThe court will tax costs allowable under Fed. R. App. P. 39(e) in accordance with\nthis rule if a verified statement of costs is served and filed within fourteen (14) days\nof the issuance of a mandate by the court of appeals.\n(B) ATTORNEY’S FEES\n(1) The time periods and other procedures in this rule, including filing a verified\nstatement of fees and expenses along with supporting documents, apply to a claim\nfor attorney’s fees and related nontaxable expenses under Fed. R. Civ. P. 54(d)(2),\nunless the recovery of attorney’s fees and expenses is sought against the United\nStates.\n(2) If recovery of attorney’s fees is sought against the United States, a party must serve\nand file a motion as provided in 28 U.S.C. ' 2412(d)(1)(B). The United States has\nfourteen (14) days from service and filing of the motion to respond. Within seven\n(7) days after the response is served and filed, the moving party may file a reply,\nbut additional documents may be filed only upon court order for good cause shown.",
+          "pages": [
+            54
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-56",
+          "path": [],
+          "type": "paragraph",
+          "text": "CIVIL RULES\n46\nEffective October 6, 2025\n",
+          "pages": [
+            55
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ndd-civil-parsed-v1-a5ac31739c05d890",
+      "sourceDocumentId": "parsed-ndd-a5ac31739c05d890",
+      "sourceUrl": "https://www.ndd.uscourts.gov/lci/Local_Rules.pdf",
+      "pageIndex": 53,
+      "pageSpan": [
+        53,
+        55
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "ndd-civil:72.1",
+      "collectionId": "ndd-civil",
+      "districtId": "ndd",
+      "number": "72.1",
+      "citation": "District of North Dakota · Rule 72.1",
+      "title": "UNITED STATES MAGISTRATE JUDGES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-56",
+          "path": [],
+          "type": "paragraph",
+          "text": "CIVIL RULE 72.1\nUNITED STATES MAGISTRATE JUDGES\nExcept as hereinafter provided, a United States magistrate judge appointed in this district is \nauthorized and designated to exercise powers and duties consistent with the United States \nConstitution, 28 U.S.C. ' 636, other statutes as may be applicable, and the Federal Rules of Civil \nProcedure. These powers and duties include, but are not limited to, those enumerated in this rule.\n(A) ASSIGNMENT OF MATTERS TO MAGISTRATE JUDGES\nThe clerk will assign cases or duties in a case to a magistrate judge and allocate duties \namong the magistrate judges of the court in accordance with this rule, standing orders of \nthe court, the court’s Plan for Direct Assignment of Civil Cases to a Magistrate Judge, or \nby special reference of a district judge, which reference may be by formal order or informal \nrequest. This rule does not preclude a district judge from reserving a proceeding for \ndecision of a district judge rather than a magistrate judge. Assignment of duties or cases to \na magistrate judge will generally be based on geographic location of the magistrate judge’s \nchambers.\n(B) DUTIES IN CIVIL MATTERS\nThe magistrate judges of this court are authorized and designated to exercise the following \nduties in civil matters:\n(1) Conduct case management matters, including supervising discovery and holding \nstatus conferences, scheduling conferences, and final pretrial conferences;\n(2) Conduct Alternative Dispute Resolution proceedings, including mediation and \nsettlement conferences, early neutral evaluation, mini-trials, and summary jury \ntrials;\n(3) Rule on all non-dispositive motions (28 U.S.C. ' 636(b)(1)(A)) unless otherwise \ndirected by a district judge;\n(4) Rule on dispositive motions (28 U.S.C. ' 636(b)(1)(B)) by issuing a report and \nrecommendations upon designation by a district judge, or by final order and \njudgment upon consent of all parties (28 U.S.C. ' 636(c)) for final disposition of \nthe motion (as opposed to disposition of the entire case) by a magistrate judge;",
+          "pages": [
+            55
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-57",
+          "path": [],
+          "type": "paragraph",
+          "text": "CIVIL RULES\n47\nEffective October 6, 2025\n(5) Conduct all proceedings in cases brought by prisoners challenging conditions of\nconfinement, including conducting bench trials and issuing a report and\nrecommendations to the district judge (28 U.S.C. ' 636(b)(1)(B)) (if all parties do\nnot consent to final disposition by the magistrate judge);\n(6) Conduct all pre-trial, trial, and post-trial proceedings and enter final judgment upon\nconsent of all parties (28 U.S.C. ' 636(c));\n(7) Serve as a special master upon designation by a district judge;\n(8) Conduct jury voir dire and selection upon direction of a district judge, and in the\nabsence of the trial judge, preside over return of jury verdicts;\n(9) Conduct all proceedings in cases seeking post-conviction review under 28 U.S.C.\n'' 2254 or 2241 and 25 U.S.C. ' 1303, including issuing a report and\nrecommendations to a district judge (28 U.S.C. ' 636(b)(1)(B)) or entering final\njudgment upon consent of all parties (28 U.S.C. ' 636(c));\n(10) Conduct proceedings under 28 U.S.C. ' 1782 with respect to foreign tribunals and\nto litigants before those tribunals;\n(11) Issue statutory administrative inspection or search warrants on determination of\nprobable cause;\n(12) Preside over naturalization ceremonies and administer the oath as required by 8\nU.S.C. ' 1448(a);\n(13) Conduct examination of judgment debtors in accordance with Fed. R. Civ. P. 69;\nand\n(14) Authorize alternative process servers under Fed. R. Civ. P. 4 and 4.1 and service of\nprocess on an absent defendant under 28 U.S.C. ' 1655.\n(C) CIVIL CASE CONSENT PROCEDURE\n(1) NOTICE UPON FILING OF COMPLAINT\nFor civil cases initially assigned to a district judge, the clerk must notify the parties\nthat the parties may consent to a magistrate judge conducting any or all proceedings\nin the case and ordering the entry of final judgment (28 U.S.C. ' 636(c)). Upon the\nfiling of the complaint, the clerk will provide notice and consent forms (AO-85",
+          "pages": [
+            56
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-58",
+          "path": [],
+          "type": "paragraph",
+          "text": "CIVIL RULES\n48\nEffective October 6, 2025\nform) to the plaintiff, who in turn must serve them upon the defendants together \nwith the summons and complaint.\nIn preparing their proposed Fed. R. Civ. P. 16(b) scheduling plan, the parties must \ndiscuss whether they will unanimously consent to disposition by a magistrate judge. \nIn their proposed plan, the parties must state whether they unanimously consent and \nmust not identify which parties decline to consent.\nIf all parties consent to a magistrate judge conducting all proceedings and entering \nfinal judgment, the case will be reassigned for disposition to the magistrate judge \nwho served as the case manager or to another magistrate judge as may be designated \nby the district judge making the reassignment. \n(2) DIRECT ASSIGNMENT\nA percentage of civil cases are assigned to magistrate judges in accordance with the\ncourt’s Plan for Direct Assignment of Civil Cases to a Magistrate Judge.\n(3) LATER CONSENT\nNotwithstanding an initial decision declining to consent, the parties may later\nconsent to a magistrate judge conducting any or all proceedings and ordering entry\nof final judgment.\n(D) REVIEW AND APPEAL\n(1) APPEAL FROM JUDGMENTS IN CIVIL CONSENT CASES\nUpon entry of judgment by a magistrate judge in a civil consent case, an appeal lies\ndirectly to the Eighth Circuit Court of Appeals in the same manner as an appeal\nfrom other judgments of a district court.\n(2) OBJECTION TO NON-DISPOSITIVE ORDER\nA party may object to a magistrate judge’s determination of a non-dispositive\nmatter (other than in a civil consent case) within fourteen (14) days after being\nserved with a copy of the magistrate judge’s order unless the magistrate judge\norders a different time (28 U.S.C. ' 636(b)(1)(A) & Fed. R. Civ. P. 72(a)). The\nobjecting party must serve and file a written objection, which must specifically\ndesignate the order or part of the order from which the objection is taken and the\ngrounds for the objection. The adverse party has seven (7) days after service and",
+          "pages": [
+            57
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-59",
+          "path": [],
+          "type": "paragraph",
+          "text": "CIVIL RULES\n49\nEffective October 6, 2025\nfiling of the objection to serve and file a response. The objection and the response \nmay not exceed twenty (20) pages. A reply is not permitted.\nThe party filing an objection must file a transcript of a hearing during which the \nmagistrate judge made findings of fact. With leave of court, the party may rely on \nan audio recording of the hearing in lieu of a transcript. \nA district judge must consider the objection and set aside any portion of the \nmagistrate judge’s order found to be clearly erroneous or contrary to law. \nFiling an objection does not stay the magistrate judge’s order. A request to stay a \nmagistrate judge’s order pending objection must be made to the magistrate judge \nwith notice to all parties.\n(3) OBJECTION TO REPORT AND RECOMMENDATIONS\nA party may object to a magistrate judge’s report and recommendations on a\ndispositive matter within fourteen (14) days after being served with the report and\nrecommendations unless the magistrate judge orders a different time (28 U.S.C. '\n636(b)(1)(B) & Fed. R. Civ. P. 72(b)).\nThe objecting party must serve and file written objections, which must identify the\nportions of the proposed findings, recommendations, or report to which objections\nare made and the basis for the objections. The party filing objections must file a\ntranscript of any evidentiary proceeding related to the report and recommendations.\nWith leave of court, the party may rely on an audio recording of the hearing in lieu\nof a transcript.\nA party may respond to an objection as prescribed in Fed. R. Civ. P. 72(b)(2). A\nreply is not permitted.\nThe objection and the response may not exceed twenty (20) pages.\nA district judge must make a de novo determination of those portions of the report\nand recommendations to which a party makes specific objections and may accept,\nreject, or modify in whole or in part the magistrate judge’s findings or\nrecommendations. The district judge will generally not conduct a hearing but, in\nappropriate circumstances, may receive further evidence, recall witnesses, or\nrecommit the matter to the magistrate judge with instructions.",
+          "pages": [
+            58
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "ndd-civil-parsed-v1-a5ac31739c05d890",
+      "sourceDocumentId": "parsed-ndd-a5ac31739c05d890",
+      "sourceUrl": "https://www.ndd.uscourts.gov/lci/Local_Rules.pdf",
+      "pageIndex": 55,
+      "pageSpan": [
+        55,
+        58
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    }
+  ],
+  "evidence": [
+    {
+      "number": "3.1",
+      "heading": "CIVIL RULE 3.1",
+      "page": 31,
+      "offset": 41,
+      "slices": [
+        {
+          "page": 31,
+          "start": 41,
+          "end": 1522,
+          "sha256": "59b05cfa413f3751cc4823b39acbf2cc3bc439918695824af40e8445b99ea1d1"
+        },
+        {
+          "page": 32,
+          "start": 0,
+          "end": 41,
+          "sha256": "576ee14ecaf1868a88af0047fb9bdc58963e819eb0122cfaa4e47ae503193ae5"
+        }
+      ]
+    },
+    {
+      "number": "4.1",
+      "heading": "CIVIL RULE 4.1",
+      "page": 32,
+      "offset": 41,
+      "slices": [
+        {
+          "page": 32,
+          "start": 41,
+          "end": 803,
+          "sha256": "c4f8a1914894eacffb0eec69d1acfe81aa4717974fb0a2fa303731fbe1189454"
+        },
+        {
+          "page": 33,
+          "start": 0,
+          "end": 41,
+          "sha256": "5167afdba5b101fdab0ed2649b5b85e06b99994c1b83c50867307b1e37a37e3e"
+        }
+      ]
+    },
+    {
+      "number": "5.1",
+      "heading": "CIVIL RULE 5.1",
+      "page": 33,
+      "offset": 41,
+      "slices": [
+        {
+          "page": 33,
+          "start": 41,
+          "end": 1209,
+          "sha256": "b3c99fcc5e5ea8216fae27e6ffd675d190c220cafcb52eebb10a4e83a171276f"
+        },
+        {
+          "page": 34,
+          "start": 0,
+          "end": 41,
+          "sha256": "166a0992f940aba6d3d9e50636f5d9752c864d5312ce794707de8b430d66e688"
+        }
+      ]
+    },
+    {
+      "number": "6.1",
+      "heading": "CIVIL RULE 6.1",
+      "page": 34,
+      "offset": 41,
+      "slices": [
+        {
+          "page": 34,
+          "start": 41,
+          "end": 87,
+          "sha256": "bff30c73c6a4eb393b0f4d390c8fdc41810747043e533d8740ca5796da4a8272"
+        },
+        {
+          "page": 35,
+          "start": 0,
+          "end": 41,
+          "sha256": "d7c1dad8632baf091bcdcf375144a88ac10dfbd6e4056be241fcac69357cf489"
+        }
+      ]
+    },
+    {
+      "number": "7.1",
+      "heading": "CIVIL RULE 7.1",
+      "page": 35,
+      "offset": 41,
+      "slices": [
+        {
+          "page": 35,
+          "start": 41,
+          "end": 1531,
+          "sha256": "04433c56ba87db2690f098aa6b59f8e9891e00241f1a23832fc196186c803811"
+        },
+        {
+          "page": 36,
+          "start": 0,
+          "end": 1840,
+          "sha256": "92e1f78254e3f83f95f720d3e3536a42de5b435e0faf42ae5110e830e868ba60"
+        },
+        {
+          "page": 37,
+          "start": 0,
+          "end": 1694,
+          "sha256": "fc37872df63209bc0fd1f264fb71029f88a54ec2415889da2fb2d930cc4c9562"
+        },
+        {
+          "page": 38,
+          "start": 0,
+          "end": 1722,
+          "sha256": "8c6c2d9a8a71419b9583d81d33ceb7e4a6f7e67d6d4935dc5306d63796cc65da"
+        },
+        {
+          "page": 39,
+          "start": 0,
+          "end": 1148,
+          "sha256": "8c314f536b8fee0f8801f6980f0efa3b446922c764a5ae075f5ffc6298846b75"
+        },
+        {
+          "page": 40,
+          "start": 0,
+          "end": 41,
+          "sha256": "54787ade3a96a55ae4f2335330ca2b9610bca9e66605b8e6963419c49288363e"
+        }
+      ]
+    },
+    {
+      "number": "7.1.1",
+      "heading": "CIVIL RULE 7.1.1",
+      "page": 40,
+      "offset": 41,
+      "slices": [
+        {
+          "page": 40,
+          "start": 41,
+          "end": 613,
+          "sha256": "1afdad8fbd7aef556ed9e372aafc3a938efa68b654d1b65e9b80d8ae206ee4aa"
+        },
+        {
+          "page": 41,
+          "start": 0,
+          "end": 41,
+          "sha256": "e97608d466e2e6e0771e33849bfa458ff9063722ee9e35755813b50a117a1358"
+        }
+      ]
+    },
+    {
+      "number": "16.1",
+      "heading": "CIVIL RULE 16.1",
+      "page": 41,
+      "offset": 41,
+      "slices": [
+        {
+          "page": 41,
+          "start": 41,
+          "end": 1204,
+          "sha256": "e87fce6709ffa783e5063e093b9c1f38e8c1195ac6eda3e86a375e4cd2793823"
+        },
+        {
+          "page": 42,
+          "start": 0,
+          "end": 385,
+          "sha256": "593f70d05cc75e7c7383888f680f6e602926d661b20eba0166a44dffeccc0c1f"
+        },
+        {
+          "page": 43,
+          "start": 0,
+          "end": 41,
+          "sha256": "b958fe9cdf2445443473e54d1ccd716d2f1d7c3441f1b543ffa835431d769772"
+        }
+      ]
+    },
+    {
+      "number": "16.2",
+      "heading": "CIVIL RULE 16.2",
+      "page": 43,
+      "offset": 41,
+      "slices": [
+        {
+          "page": 43,
+          "start": 41,
+          "end": 2232,
+          "sha256": "175abc911ad6a4441e4c4c7ee4dcd3cc078e929b462360370c890f3f12798c3b"
+        },
+        {
+          "page": 44,
+          "start": 0,
+          "end": 1190,
+          "sha256": "23f4a32329052535df4283d8020b2c20cca5060c02b7ffafe854ebc70fafa0cf"
+        },
+        {
+          "page": 45,
+          "start": 0,
+          "end": 41,
+          "sha256": "838b5306681e8bb89ad998613abd7591609d2519afcb14fe71bf6211afd9fcf2"
+        }
+      ]
+    },
+    {
+      "number": "26.1",
+      "heading": "CIVIL RULE 26.1",
+      "page": 45,
+      "offset": 41,
+      "slices": [
+        {
+          "page": 45,
+          "start": 41,
+          "end": 1155,
+          "sha256": "5e4c796f7406b0b4ab3986c52a477b40c30b72075abd80d733372b8d898bd837"
+        },
+        {
+          "page": 46,
+          "start": 0,
+          "end": 41,
+          "sha256": "2b63321841c6b7686a8b102553321c37b9c20d25aced55e3280f3c08c9ae81a7"
+        }
+      ]
+    },
+    {
+      "number": "37.1",
+      "heading": "CIVIL RULE 37.1",
+      "page": 46,
+      "offset": 41,
+      "slices": [
+        {
+          "page": 46,
+          "start": 41,
+          "end": 1387,
+          "sha256": "aca0552f7d03f2345d31743eb69e7af9d658e9609a8d780dc573ee0c664941c4"
+        },
+        {
+          "page": 47,
+          "start": 0,
+          "end": 41,
+          "sha256": "0661ff7c9ae0184181ad99f5a0e67e741bf94e57b61abcd5171081e2bb8e200e"
+        }
+      ]
+    },
+    {
+      "number": "41.1",
+      "heading": "CIVIL RULE 41.1",
+      "page": 47,
+      "offset": 41,
+      "slices": [
+        {
+          "page": 47,
+          "start": 41,
+          "end": 783,
+          "sha256": "c362e8eac4287b07e2bd580453df0971f9b20a3d52e8beb754fe8d79476b7e58"
+        },
+        {
+          "page": 48,
+          "start": 0,
+          "end": 41,
+          "sha256": "8a47930d01a135e636593667ed236c5a2dc2b5d8dc169db1179cac6bed37d8f5"
+        }
+      ]
+    },
+    {
+      "number": "43.1",
+      "heading": "CIVIL RULE 43.1",
+      "page": 48,
+      "offset": 41,
+      "slices": [
+        {
+          "page": 48,
+          "start": 41,
+          "end": 2185,
+          "sha256": "eddbd9cbb9cd5cabdf8a86298e009748156db8d698f7650245f6a5e186c46a7f"
+        },
+        {
+          "page": 49,
+          "start": 0,
+          "end": 923,
+          "sha256": "39ca854b0c5ab1efa2ead3fc4720ea30f3aeae2e3b60ecd3b48d16ac3c33c79a"
+        },
+        {
+          "page": 50,
+          "start": 0,
+          "end": 41,
+          "sha256": "da4ebf78d81a9ea333eeb0d71a671441f2865ed972e692e7a83bac1aae70d8c8"
+        }
+      ]
+    },
+    {
+      "number": "45.1",
+      "heading": "CIVIL RULE 45.1",
+      "page": 50,
+      "offset": 41,
+      "slices": [
+        {
+          "page": 50,
+          "start": 41,
+          "end": 148,
+          "sha256": "193371f553fcbf0122df0401833b17c37484cac3c12ba73f870403ccbff69350"
+        },
+        {
+          "page": 51,
+          "start": 0,
+          "end": 41,
+          "sha256": "d3f2c7384e3c47eced2f28cc625374499c7bef0beb38bb3970999e5ad3d72fee"
+        }
+      ]
+    },
+    {
+      "number": "47.1",
+      "heading": "CIVIL RULE 47.1",
+      "page": 51,
+      "offset": 41,
+      "slices": [
+        {
+          "page": 51,
+          "start": 41,
+          "end": 1280,
+          "sha256": "d951dfab193adf72c512c32110415d7bbcc4d08376d44f4e9ca6e864d1800716"
+        },
+        {
+          "page": 52,
+          "start": 0,
+          "end": 670,
+          "sha256": "f5198037e7f51edc54ee5103c6b6681deac54eb25c91cb618d4b1abc2075a1c9"
+        },
+        {
+          "page": 53,
+          "start": 0,
+          "end": 41,
+          "sha256": "138885c3c11f1d3c8d36627ae14e35da000e408864eaa586337dbfb39326a742"
+        }
+      ]
+    },
+    {
+      "number": "51.1",
+      "heading": "CIVIL RULE 51.1",
+      "page": 53,
+      "offset": 41,
+      "slices": [
+        {
+          "page": 53,
+          "start": 41,
+          "end": 1083,
+          "sha256": "4a36613770eb18a905b5f25f37a542512edd0ed284ed8afe8dd41202041ac3e6"
+        },
+        {
+          "page": 54,
+          "start": 0,
+          "end": 41,
+          "sha256": "8e8baeec28667214fb32e61617f202e186da271083492e29d67db390f77fd744"
+        }
+      ]
+    },
+    {
+      "number": "54.1",
+      "heading": "CIVIL RULE 54.1",
+      "page": 54,
+      "offset": 41,
+      "slices": [
+        {
+          "page": 54,
+          "start": 41,
+          "end": 2181,
+          "sha256": "395808a27fd97171849810b2a4f8079af18146ec764465875479efab63102b39"
+        },
+        {
+          "page": 55,
+          "start": 0,
+          "end": 1094,
+          "sha256": "0da2f62c02d83c1de18066b9dc75ba91d56264d8cc7b8eb812a8b02475d8dcfb"
+        },
+        {
+          "page": 56,
+          "start": 0,
+          "end": 41,
+          "sha256": "d3de5fc0e148c32e57e184de49d4b3114bd49f84cb3519c4578a76c69a90f375"
+        }
+      ]
+    },
+    {
+      "number": "72.1",
+      "heading": "CIVIL RULE 72.1",
+      "page": 56,
+      "offset": 41,
+      "slices": [
+        {
+          "page": 56,
+          "start": 41,
+          "end": 2089,
+          "sha256": "aee98315737a1f68474c0fed3145f6db1013585932f5ad17a06b9d8067f388ae"
+        },
+        {
+          "page": 57,
+          "start": 0,
+          "end": 1959,
+          "sha256": "ab3c819cc38e8307cb3242787ef7c3f103d429a03439ebf8fb76b72a69e1d28b"
+        },
+        {
+          "page": 58,
+          "start": 0,
+          "end": 2026,
+          "sha256": "d077149ca0143c3059e7be3db03a8bac1ac30c2a63e9c1813e16c14842556433"
+        },
+        {
+          "page": 59,
+          "start": 0,
+          "end": 2148,
+          "sha256": "8c92506a147eb1501aeb368404e5cdac3ac2d8eff431a331f35f1abcb8b3da94"
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "startPage": 31,
+    "startOffset": 41,
+    "endPage": 59,
+    "endOffset": 2148,
+    "ruleCount": 17,
+    "tocReconciled": false,
+    "editorialReviewComplete": false,
+    "currencyReviewed": false,
+    "flags": [
+      "Source extraction contains unresolved characters; consult the original publication."
+    ],
+    "excluded": "Source material outside the recorded range remains available in the district source library."
+  },
+  "transcriptionSha256": "c940df20ecaa40df7e8829892eaf8430c5dd10d323e7322c420c47bc7fd8a4f4"
+}

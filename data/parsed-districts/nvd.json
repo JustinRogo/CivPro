@@ -1,0 +1,4179 @@
+{
+  "version": 1,
+  "reviewStatus": "parsed-draft",
+  "districtId": "nvd",
+  "sourceDocument": {
+    "id": "f90ed909fa5aa88c",
+    "title": "Local Rules",
+    "format": "pdf",
+    "role": "primary",
+    "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+    "sha256": "f90ed909fa5aa88cf17fc97853803b834aa791003d2894707b3fd93c5ae64346",
+    "bytes": 753023,
+    "retrievedAt": "2026-09-07T00:01:42.669844+00:00",
+    "snapshotPath": "sources/district-snapshots/f90ed909fa5aa88cf17fc97853803b834aa791003d2894707b3fd93c5ae64346.pdf",
+    "textPath": "data/source-library/f90ed909fa5aa88cf17fc97853803b834aa791003d2894707b3fd93c5ae64346.json",
+    "pdfPath": "data/source-pdfs/f90ed909fa5aa88cf17fc97853803b834aa791003d2894707b3fd93c5ae64346.pdf",
+    "pageCount": 115,
+    "reviewStatus": "source-document-only",
+    "blankTextPages": 0
+  },
+  "collection": {
+    "id": "nvd-civil",
+    "name": "District of Nevada Local Rules",
+    "shortName": "Local rules · draft",
+    "districtId": "nvd",
+    "scopeNote": "Civil and generally applicable local rules; unparsed supplements remain in the source library. Rule boundaries and transcription are drafts. Embedded notes, forms, and running headers may remain within rule text; subsection anchors and field-separated notes are not yet reviewed."
+  },
+  "provisions": [
+    {
+      "id": "nvd-civil:1-1",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "1-1",
+      "citation": "District of Nevada · Rule 1-1",
+      "title": "SCOPE AND PURPOSE",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-47",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 1-1. SCOPE AND PURPOSE\n(a) These are the Local Rules of Civil Practice for the United States District Court for \nthe District of Nevada. These rules are promulgated under 28 U.S.C. § 2071 and \nFed. R. Civ. P. 83 and apply to all civil proceedings unless the court orders \notherwise. These rules will be administered in a manner to secure the just, \nspeedy, and inexpensive determination of every action and proceeding.\n(b) The court is committed to assisting attorneys and parties in reducing costs in civil \ncases. It is the obligation of attorneys, as officers of the court, to work toward the \nprompt completion of each case and to minimize litigation expense. These rules \nprovide the basic tools for management of civil cases, including discovery. \nEffective advocacy depends on cooperative use of these rules to manage cases in \na cost-effective manner.\nAttorneys and litigants should consider the following non-exhaustive means for \nreducing costs: (1) limiting and phasing discovery; (2) using the assigned \nmagistrate judge to resolve discovery disputes by telephone or informal \nconference; (3) using pre-discovery alternative dispute resolution, including, if \nappropriate, a pre-discovery early settlement conference with a magistrate judge; \n(4) consent to trial by a magistrate judge under 28 U.S.C. § 636(c) and Fed. R. \nCiv. P. 73; and (5) use of the Short Trial Program, General Order 2013-1. The \ncourt will support the utilization of these tools and, if necessary, impose them \nwhen appropriate and helpful to reduce costs or more effectively manage and \nresolve civil cases.\n(c) The court expects a high degree of professionalism and civility from attorneys. \nThere should be no difference between an attorney’s professional conduct when \nappearing before the court and when engaged outside it, whether in discovery or \nany other phase of a case.\n",
+          "pages": [
+            46
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 46,
+      "pageSpan": [
+        46,
+        46
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:3-1",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "3-1",
+      "citation": "District of Nevada · Rule 3-1",
+      "title": "CIVIL COVER SHEET",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-47",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 3-1. CIVIL COVER SHEET\nExcept in actions initiated by inmates appearing pro se, every civil action tendered for \nfiling in this court must be accompanied by a properly completed civil cover sheet.\n",
+          "pages": [
+            46
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 46,
+      "pageSpan": [
+        46,
+        46
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:4-1",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "4-1",
+      "citation": "District of Nevada · Rule 4-1",
+      "title": "SERVICE AND ISSUANCE OF PROCESS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-47",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 4-1. SERVICE AND ISSUANCE OF PROCESS\n(a) The United States Marshal is authorized to serve summons and civil process on \nbehalf of the United States.",
+          "pages": [
+            46
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-48",
+          "path": [],
+          "type": "paragraph",
+          "text": "38\n(b) In cases where service of process is authorized and sought under state or \ninternational procedure, the attorney for the party seeking service must furnish the \nclerk with all forms and papers needed to comply with the requirements of the \nstate or international procedure.\n",
+          "pages": [
+            47
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 46,
+      "pageSpan": [
+        46,
+        47
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:5-1",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "5-1",
+      "citation": "District of Nevada · Rule 5-1",
+      "title": "PROOF OF SERVICE",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-48",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 5-1. PROOF OF SERVICE\n(a) When a proof of service is required, the proof must show the day and manner of \nservice and name of each person served. Proof of service may be by written \nacknowledgment of service or certificate of the person who made service.\n(b) Either on its own initiative or on a motion by a party, the court may strike an \nunserved paper or vacate any decision made on an unserved paper.\n",
+          "pages": [
+            47
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 47,
+      "pageSpan": [
+        47,
+        47
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:7-1",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "7-1",
+      "citation": "District of Nevada · Rule 7-1",
+      "title": "STIPULATIONS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-48",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 7-1. STIPULATIONS\n(a) Stipulations relating to proceedings before the court, except stipulations made in \nopen court that are noted in the clerk’s minutes or the court reporter’s notes, must \nbe in writing and signed by all parties who have appeared or their attorneys.\n(b) No stipulations relating to proceedings before the court, except those set forth in \nFed. R. Civ. P. 29, are effective until approved by the court.\n(c) A stipulation that has been signed by fewer than all the parties or their attorneys \nwill be treated—and must be filed—as a joint motion.\n(d) The clerk has authority to approve the stipulations described in LR 77-1.\n(e) Stipulations must be in the form required by LR IA 6-2.\n",
+          "pages": [
+            47
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 47,
+      "pageSpan": [
+        47,
+        47
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:7.1-1",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "7.1-1",
+      "citation": "District of Nevada · Rule 7.1-1",
+      "title": "CERTIFICATE OF INTERESTED PARTIES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-48",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 7.1-1. CERTIFICATE OF INTERESTED PARTIES\n(a) Unless the court orders otherwise, in all cases except habeas corpus cases, pro se \nparties and attorneys for private non-governmental parties must identify in the \ndisclosure statement all persons, associations of persons, firms, partnerships or \ncorporations (including parent corporations) that have a direct, pecuniary interest \nin the outcome of the case.\nThe disclosure statement must include the following certification:\nThe undersigned, pro se party or attorney of record for _________, certifies that \nthe following may have a direct, pecuniary interest in the outcome of this case: \n(here list the names of all such parties and identify their connection and interests.) \nThese representations are made to enable judges of the court to evaluate possible \ndisqualifications or recusal.\nSignature, Pro Se Party or Attorney of Record for ___________.",
+          "pages": [
+            47
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-49",
+          "path": [],
+          "type": "paragraph",
+          "text": "39\n(b) If there are no known interested parties other than those participating in the case, \na statement to that effect will satisfy this rule.\n(c) A party must file its disclosure statement with its first appearance, pleading, \npetition, motion, response, or other request addressed to the court. A party must \npromptly file a supplemental certification upon any change in the information that \nthis rule requires.\n",
+          "pages": [
+            48
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 47,
+      "pageSpan": [
+        47,
+        48
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:7-2",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "7-2",
+      "citation": "District of Nevada · Rule 7-2",
+      "title": "MOTIONS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-49",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 7-2. MOTIONS\n(a) All motions—unless made during a hearing or trial—must be in writing and \nserved on all other parties who have appeared. The motion must be supported by \na memorandum of points and authorities. The motion and supporting \nmemorandum of points and authorities must be combined into a single document \nthat complies with the page limits in LR 7-3.\n(b) Unless the court orders otherwise, the time for filing a motion for summary \njudgment is governed by Fed. R. Civ. P. 56(b). The deadline to file and serve any \npoints and authorities in response to a motion for summary judgment is 21 days \nafter service of the motion. The deadline to file and serve any reply in support of \nthe motion is 14 days after service of the response. For all other motions, the \ndeadline to file and serve any points and authorities in response to the motion is \n14 days after service of the motion. The deadline to file and serve any reply in \nsupport of the motion is seven days after service of the response. Surreplies are \nnot permitted without leave of court; motions for leave to file a surreply are \ndiscouraged.\n(c) Motions for summary judgment are also governed by LR 56-1. Motions for \nreconsideration of interlocutory orders are also governed by LR 59-1.\n(d) The failure of a moving party to file points and authorities in support of the \nmotion constitutes a consent to the denial of the motion. The failure of an \nopposing party to file points and authorities in response to any motion, except a \nmotion under Fed. R. Civ. P. 56 or a motion for attorney’s fees, constitutes a \nconsent to the granting of the motion.\n(e) The procedure for requesting oral argument on a motion is set forth in LR 78-1.",
+          "pages": [
+            48
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-50",
+          "path": [],
+          "type": "paragraph",
+          "text": "40\n(f) If the court instructs a prevailing party to file a proposed order, the prevailing \nparty must serve the proposed order on all opposing parties or attorneys for \napproval as to form. The opposing parties (or, if represented by counsel, their \nattorneys) then have three days after service of the proposed order to notify the \nprevailing party of any reason for disapproval; failure to notify the prevailing \nparty within three days of any reason for disapproval will be deemed an approval. \nThe prevailing party must then file the order with the word PROPOSED in the \ntitle and must certify to the court that it served the proposed order and that three \ndays have passed and state any reasons for disapproval received (or that none \nwere received). Opposing parties who have timely served reasons for disapproval \nmay file a competing proposed order within three days of being served with \nnotice that the prevailing party filed its proposed order.\n(g) Supplementation prohibited without leave of court. A party may not file \nsupplemental pleadings, briefs, authorities, or evidence without leave of court \ngranted for good cause. The judge may strike supplemental filings made without \nleave of court.\n",
+          "pages": [
+            49
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 48,
+      "pageSpan": [
+        48,
+        49
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:7-3",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "7-3",
+      "citation": "District of Nevada · Rule 7-3",
+      "title": "PAGE LIMITS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-50",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 7-3. PAGE LIMITS\n(a) Motions for summary judgment and responses to motions for summary judgment \nare limited to 30 pages, excluding exhibits. Replies in support of a motion for \nsummary judgment are limited to 20 pages. Parties must not circumvent this rule \nby filing multiple motions.\n(b) All other motions, responses to motions, and pretrial and post-trial briefs are \nlimited to 24 pages, excluding exhibits. All other replies are limited to 12 pages, \nexcluding exhibits.\n(c) The court looks with disfavor on motions to exceed page limits, so permission to \ndo so will not be routinely granted. A motion to file a brief that exceeds these \npage limits will be granted only upon a showing of good cause. A motion to \nexceed these page limits must be filed before the motion or brief is due and must \nbe accompanied by a declaration stating in detail the reasons for, and number of, \nadditional pages requested. The motion must not be styled as an ex parte or \nemergency motion and is limited to three pages in length. Failure to comply with \nthis subsection will result in denial of the request. The filing of a motion to \nexceed the page limit does not alter the briefing schedule for the underlying \nmotion or brief. In the absence of a court order on the motion to exceed page \nlimits, the responding party should respond to the over-length brief. If the court \npermits a longer document, the oversized document must include a table of \ncontents and a table of authorities.",
+          "pages": [
+            49
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-51",
+          "path": [],
+          "type": "paragraph",
+          "text": "41\n",
+          "pages": [
+            50
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 49,
+      "pageSpan": [
+        49,
+        50
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:7-4",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "7-4",
+      "citation": "District of Nevada · Rule 7-4",
+      "title": "EMERGENCY MOTIONS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-51",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 7-4. EMERGENCY MOTIONS\n(a) Written requests for judicial assistance in resolving an emergency dispute must be \ntitled “Emergency Motion” and be accompanied by a declaration setting forth:\n(1) The nature of the emergency;\n(2) The office addresses and telephone numbers of movant and all affected \nparties; and\n(3) A statement of movant certifying that, after participation in the meet-and￾confer process to resolve the dispute, the movant has been unable to \nresolve the matter without court action. The statement also must state \nwhen and how the other affected people or entities were notified of the \nmotion or, if not notified, why it was not practicable to do so. If the nature \nof the emergency precludes a meet and confer, the statement must include \na detailed description of the emergency, so the court can evaluate whether \na meet and confer truly was precluded.\n(b) Emergency motions should be rare. A party or attorney’s failure to effectively \nmanage deadlines, discovery, trial, or any other aspect of litigation does not \nconstitute an emergency. This rule’s provisions are not intended for requests for \nprocedural relief, e.g., a motion to extend time to file a brief or for enlargement of \npage limits.\n(c) The court may determine whether any matter submitted as an “emergency” is, in \nfact, an emergency. Failure to comply with the requirements for submitting an \nemergency motion may result in denial of the motion.\n(d) Concurrent with the emergency motion, or promptly after it is filed, the moving \nparty must advise the courtroom administrators for the assigned district judge and \nmagistrate judge that the motion was filed.\n",
+          "pages": [
+            50
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 50,
+      "pageSpan": [
+        50,
+        50
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:8-1",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "8-1",
+      "citation": "District of Nevada · Rule 8-1",
+      "title": "PLEADING JURISDICTION",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-51",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 8-1. PLEADING JURISDICTION\nEvery complaint, counterclaim, cross-claim, third-party complaint, or petition for \naffirmative relief must state the statutory or other basis of claimed federal jurisdiction and the \nfacts to support it.\n",
+          "pages": [
+            50
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 50,
+      "pageSpan": [
+        50,
+        50
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:10-1",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "10-1",
+      "citation": "District of Nevada · Rule 10-1",
+      "title": "COPIES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-51",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 10-1. COPIES\nAn attorney or pro se party who wishes to receive a file-stamped copy of any pleading or \nother paper must submit one additional copy and, if by mail, a self-addressed, postage-paid \nenvelope. A party who is granted leave to proceed in forma pauperis need not submit a self￾addressed, postage-paid envelope.",
+          "pages": [
+            50
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-52",
+          "path": [],
+          "type": "paragraph",
+          "text": "42\n",
+          "pages": [
+            51
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 50,
+      "pageSpan": [
+        50,
+        51
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:15-1",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "15-1",
+      "citation": "District of Nevada · Rule 15-1",
+      "title": "AMENDED PLEADINGS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-52",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 15-1. AMENDED PLEADINGS\n(a) Unless the court orders otherwise, the moving party must attach the proposed \namended pleading to a motion seeking leave of the court to file an amended \npleading. The proposed amended pleading must be complete in and of itself \nwithout reference to the superseded pleading and must include copies of all \nexhibits referred to in the proposed amended pleading.\n(b) If the court grants leave to file an amended pleading, and unless the court orders \notherwise, the moving party must then file and serve the amended pleading.\n",
+          "pages": [
+            51
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 51,
+      "pageSpan": [
+        51,
+        51
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:16-1",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "16-1",
+      "citation": "District of Nevada · Rule 16-1",
+      "title": "SCHEDULING AND CASE MANAGEMENT; TIME AND ISSUANCE OF",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-52",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 16-1. SCHEDULING AND CASE MANAGEMENT; TIME AND ISSUANCE OF \nSCHEDULING ORDER\n(a) In cases where a discovery plan is required, the court must approve, disapprove, \nor modify the discovery plan and enter the scheduling order within 30 days from \nthe date the discovery plan is submitted.\n(b) In actions by or on behalf of inmates under 42 U.S.C. § 1983 or the principles of \nBivens v. Six Unknown Named Agents of Federal Bureau of Narcotics, 403 U.S. \n388 (1971), and in forfeiture and condemnation actions, no discovery plan is \nrequired. In those cases, a scheduling order must be entered within 30 days after \nthe first defendant answers or otherwise appears.\n(c) The following categories of cases are governed by the entry of an order \nestablishing a briefing schedule and other appropriate matters:\n(1) Actions for review on an administrative record;\n(2) Petitions for habeas corpus or other proceedings to challenge a criminal \nconviction of sentence;\n(3) Actions brought without an attorney by a person in custody of the United \nStates, a state, or a state subdivision;\n(4) Actions to enforce or quash an administrative summons or subpoena;\n(5) Actions by the United States to recover benefit payments;\n(6) Actions by the United States to collect on a student loan guaranteed by the \nUnited States;\n(7) Proceedings ancillary to proceedings in other courts; and\n(8) Actions to enforce an arbitration award.",
+          "pages": [
+            51
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-53",
+          "path": [],
+          "type": "paragraph",
+          "text": "43\n(d) In all cases, the court may order the parties to meet and confer to discuss a \ndiscovery plan, scheduling order, briefing schedule, or any other matters the court \ndeems appropriate.\n",
+          "pages": [
+            52
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 51,
+      "pageSpan": [
+        51,
+        52
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:16-2",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "16-2",
+      "citation": "District of Nevada · Rule 16-2",
+      "title": "PRETRIAL CONFERENCES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-53",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 16-2. PRETRIAL CONFERENCES\nUnless the court orders otherwise, the court will not conduct pretrial conferences. A \nparty may at any time make a written request for a pretrial conference to expedite disposition of \nany case, particularly one that is complex or in which there has been delay.\n",
+          "pages": [
+            52
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 52,
+      "pageSpan": [
+        52,
+        52
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:16-3",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "16-3",
+      "citation": "District of Nevada · Rule 16-3",
+      "title": "MOTIONS IN LIMINE, PRETRIAL ORDER, AND TRIAL SETTING",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-53",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 16-3. MOTIONS IN LIMINE, PRETRIAL ORDER, AND TRIAL SETTING\n(a) Motions in limine will not be considered unless the movant attaches a statement \ncertifying that the parties have participated in the meet-and-confer process and \nhave been unable to resolve the matter without court action. Motions in limine \nmust identify the particular evidence or argument to be excluded and state the \nconstitutional, statutory, or regulatory reasons why the evidence is inadmissible or \nthe argument is inappropriate. Unless the court orders otherwise, motions in \nlimine must be filed 30 days before trial. Responses must be filed and served no \nlater than 14 days after service of the motion. Replies will be allowed only with \nleave of the court.\n(b) Upon the initiative of a pro se plaintiff or plaintiff’s attorney, the attorneys or \nparties who will try the case and who are authorized to make binding stipulations \nmust personally discuss settlement and prepare and file a proposed joint pretrial \norder containing the following:\n(1) A concise statement of the nature of the action and the parties’ \ncontentions;\n(2) A statement of the basis for this court’s jurisdiction with specific legal \ncitations;\n(3) A statement of all uncontested facts deemed material in the action;\n(4) A statement of the contested issues of fact in the case as agreed upon by \nthe parties;\n(5) A statement of the contested issues of law in the case as agreed upon by \nthe parties;\n(6) Plaintiff’s statement of any other issues of fact or law deemed to be \nmaterial;\n(7) Defendant’s statement of any other issues of fact or law deemed to be \nmaterial;",
+          "pages": [
+            52
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-54",
+          "path": [],
+          "type": "paragraph",
+          "text": "44\n(8) Lists or schedules of all exhibits that will be offered in evidence by the \nparties at the trial. The lists or schedules must describe the exhibits \nsufficiently for ready identification and:\n(A) Identify the exhibits the parties agree can be admitted at trial; and\n(B) List those exhibits to which objection is made and state the \ngrounds for the objection. Stipulations on admissibility, \nauthenticity, and/or identification of documents should be made \nwhenever possible;\n(9) A statement by each party of whether they intend to present evidence in \nelectronic format to jurors for purposes of jury deliberations. Parties \nshould consult the court’s website or contact the assigned judge’s \ncourtroom administrator for instructions on how to prepare evidence in \nelectronic format and other requirements; \n(10) A statement by each party identifying any depositions intended to be \noffered at the trial, except for impeachment purposes, and designating the \nportions of the deposition to be offered;\n(11) A statement of the objections, and the grounds for them, to deposition \ntestimony the opposing party has designated;\n(12) A list of witnesses, with their addresses, who may be called at the trial. \nThe list may not include witnesses whose identities were not, but should \nhave been, revealed in response to permitted discovery unless the court, \nfor good cause and on such conditions as are just, orders otherwise; and\n(13) A list of motions in limine filed, if any.\n(c) Unless offered for impeachment purposes, no exhibit will be received and no \nwitnesses will be permitted to testify at the trial unless listed in the pretrial order. \nHowever, for good cause shown, the court may allow an exception to this \nprovision.",
+          "pages": [
+            53
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-55",
+          "path": [],
+          "type": "paragraph",
+          "text": "45\n",
+          "pages": [
+            54
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 52,
+      "pageSpan": [
+        52,
+        54
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:16-4",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "16-4",
+      "citation": "District of Nevada · Rule 16-4",
+      "title": "FORM OF PRETRIAL ORDER",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-55",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 16-4. FORM OF PRETRIAL ORDER\nUnless the court orders otherwise, the pretrial order must be in the following format:\nUNITED STATES DISTRICT COURT\nDISTRICT OF NEVADA\n____________________, )\nPlaintiff ) CASE NO. \n)\n)\nVs. )\n)\n___________________, ) PRETRIAL ORDER\nDefendant )\n)\n)\nAfter pretrial proceedings in this case, \nIT IS ORDERED:\nI.\nThis is an action for: [State nature of action, relief sought, identification and contentions of \nparties.]\nII.\nStatement of jurisdiction: [State the facts and cite the statutes that give this court jurisdiction of \nthe case.]\nIII.\nThe following facts are admitted by the parties and require no proof:\n______________________________________________________________________________\n______________________________________________________________________________\n______________________________________________________________________________",
+          "pages": [
+            54
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-56",
+          "path": [],
+          "type": "paragraph",
+          "text": "46\nIV.\nThe following facts, though not admitted, will not be contested at trial by evidence to the \ncontrary:\n______________________________________________________________________________\n______________________________________________________________________________\n______________________________________________________________________________\nV.\nThe following are the issues of fact to be tried and determined at trial.1\n [Each issue of fact must \nbe stated separately and in specific terms.]\n______________________________________________________________________________\n______________________________________________________________________________\n______________________________________________________________________________\nVI.\nThe following are the issues of law to be to be tried and determined at trial.2\n [Each issue of law \nmust be stated separately and in specific terms.]\n______________________________________________________________________________\n______________________________________________________________________________\n______________________________________________________________________________\nVII.\n(a) The following exhibits are stipulated into evidence in this case and may be so \nmarked by the clerk:\n(b) As to the following exhibits, the party against whom the same will be offered \nobjects to their admission on the grounds stated:\n(1) Set forth the plaintiff’s exhibits and objections to them.\n(2) Set forth the defendant’s exhibits and objections to them.\n(c) Electronic evidence: [State whether the parties intent to present electronic \nevidence for purposes of jury deliberations.]\n1\n Should the attorneys or parties be unable to agree on the statement of issues of fact, the joint pretrial order should \ninclude separate statements of issues of fact to be tried and determined upon trial.\n2\n Should the attorneys or parties be unable to agree on the statement of issues of law, the joint pretrial order should \ninclude separate statements of issues of law to be tried and determined upon trial.",
+          "pages": [
+            55
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-57",
+          "path": [],
+          "type": "paragraph",
+          "text": "47\n(d) Depositions:\n(1) Plaintiff will offer the following depositions: [Indicate name of deponent \nand identify portions to be offered by pages and lines and the party or \nparties against whom offered.]\n(2) Defendant will offer the following depositions: [Indicate name of \ndeponent and identify portions to be offered by pages and lines and the \nparty or parties against who offered.]\n(e) Objections to depositions:\n(1) Defendant objects to plaintiff’s depositions as follows:\n______________________________________________________________________________\n______________________________________________________________________________\n______________________________________________________________________________\n(2) Plaintiff objects to defendant’s depositions as follows:\n______________________________________________________________________________\n______________________________________________________________________________\n______________________________________________________________________________\n______________________________________________________________________________\nVIII.\nThe following witnesses may be called by the parties at trial:\n(a) Provide names and addresses of plaintiff’s witnesses.\n(b) Provide names and addresses of defendant’s witnesses.\nIX.\nThe attorneys or parties have met and jointly offer these three trial dates:\n___________________ ____________________ ____________________ \nIt is expressly understood by the undersigned that the court will set the trial of this matter on one \nof the agreed-upon dates if possible; if not, the trial will be set at the convenience of the court’s \ncalendar.",
+          "pages": [
+            56
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-58",
+          "path": [],
+          "type": "paragraph",
+          "text": "48\nX.\nIt is estimated that the trial will take a total of _____ days. \nAPPROVED AS TO FORM AND CONTENT:\n___________________________________________ \nSignature of Attorney for Plaintiff or Pro Se Plaintiff\n______________________________________________\nSignature of Attorney for Defendant or Pro Se Defendant\nXI.\nACTION BY THE COURT\nThis case is set for court/jury trial on the fixed/stacked calendar on ___________. Calendar call \nwill be held on _______________________________________________.\nDATED: ____________________.\n____________________________________\nUNITED STATES DISTRICT JUDGE or \nUNITED STATES MAGISTRATE JUDGE\n",
+          "pages": [
+            57
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 54,
+      "pageSpan": [
+        54,
+        57
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:16-5",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "16-5",
+      "citation": "District of Nevada · Rule 16-5",
+      "title": "SETTLEMENT CONFERENCE AND ALTERNATIVE METHODS OF",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-58",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 16-5. SETTLEMENT CONFERENCE AND ALTERNATIVE METHODS OF \nDISPUTE RESOLUTION\nThe court may set any appropriate civil case for settlement conference or other alternative \nmethod of dispute resolution (ADR) and may propose that the parties participate in the Short \nTrial Program (General Order 2013-01).\nThe court’s ADR process is confidential. Unless otherwise agreed by the parties or \nordered by the court, no disclosure may be made to anyone, including the judicial officer to \nwhom the case is assigned, of any confidential dispute-resolution communication that reveals the \nparties’ dispute-resolution positions or the evaluating magistrate judge’s advice or opinions. \nConfidential dispute-resolution communications will not be admissible in any subsequent \nproceeding except as permitted by the Federal Rules of Evidence. In the event of a dispute to \nenforce a settlement agreement, the court may order the disclosure of confidential information.",
+          "pages": [
+            57
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-59",
+          "path": [],
+          "type": "paragraph",
+          "text": "49\n",
+          "pages": [
+            58
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 57,
+      "pageSpan": [
+        57,
+        58
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:16-6",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "16-6",
+      "citation": "District of Nevada · Rule 16-6",
+      "title": "EARLY NEUTRAL EVALUATION",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-59",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 16-6. EARLY NEUTRAL EVALUATION\n(a) All employment-discrimination actions filed in this court must undergo early \nneutral evaluation as defined by this rule. The purpose of the early neutral \nevaluation session is for the evaluating magistrate judge to give the parties a \ncandid evaluation of the merits of their claims and defenses. For purposes of this \nrule, “employment-discrimination action” includes actions filed under the \nfollowing statutes: Title VII of the Civil Rights Act of 1964, as amended, 42 \nU.S.C. § 2000e, et seq.; Title I of the Americans With Disabilities Act, as \namended, 42 U.S.C. § 12101, et seq.; prohibition of employment discrimination \nunder 42 U.S.C. § 1981; Age Discrimination in Employment Act, 29 U.S.C.\n§ 626, et seq.; Equal Pay Act, 29 U.S.C. § 206; Genetic Information Non￾Discrimination Act of 2008, 42 U.S.C. § 2000ff, et seq.; Vocational \nRehabilitation Act of 1973, 29 U.S.C. § 794; and under 42 U.S.C. § 1983, if the \ncomplaint alleges discrimination in employment on the basis of race, color, \ngender, national origin, or religion.\n(b) If an action is not initially assigned to the Early Neutral Evaluation Program, an \naction must be assigned to the program upon the filing by any party of a notice \nstating that action falls under one or more of the statutes listed in LR 16-6(a).\n(c) A motion for exemption from the Early Neutral Evaluation Program must be filed \nno later than seven days after entry of an order scheduling the early neutral \nevaluation session. A response to the motion for exemption must be filed within \n14 days after service of the original motion. A reply will not be allowed. The \nevaluating magistrate judge has final authority to grant or deny any motion \nrequesting exemption from the program and may exempt any case from early \nneutral evaluation on the judge’s own motion. These orders are not appealable.\n(d) Unless good cause is shown, the early neutral evaluation session must be held by \nthe court not later than 90 days after the first responding party appears in the case.\n(e) Unless excused by the evaluating magistrate judge, the parties with authority to \nsettle the case and their attorneys must attend the early neutral session in person.\n(f) Parties must submit their written evaluation statements to the chambers of the \nevaluating magistrate judge by 4:00 p.m. seven days before the session. The \nwritten evaluation statement must not be filed with the clerk or served on the \nopposing parties.\n(1) Evaluation statements must be concise and must:\n(A) Identify by name or status the person(s) with decision-making \nauthority who, in addition to the attorney, will attend the early \nneutral evaluation session as representative(s) of the party, and \npersons connected with a party opponent (including an insurer \nrepresentative) whose presence might substantially improve the ",
+          "pages": [
+            58
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-60",
+          "path": [],
+          "type": "paragraph",
+          "text": "50\nutility of the early neutral evaluation session or the prospects of \nsettlement;\n(B) Describe briefly the substance of the suit, addressing the party’s \nviews on the key liability and damages issues;\n(C) Address whether there are legal or factual issues whose early \nresolution would reduce significantly the scope of the dispute or \ncontribute to settlement negotiations;\n(D) Include copies of documents, pictures, recordings, etc. out of \nwhich the suit arose, or whose availability would materially \nadvance the purposes of the evaluation session (e.g., medical \nreports, documents by which special damages might be \ndetermined);\n(E) Discuss the strongest and weakest points of your case, both factual \nand legal, including a candid evaluation of the merits of your case;\n(F) Estimate the costs (including attorney’s fees and costs) of taking \nthis case through trial;\n(G) Describe the history of any settlement discussions and detail the \ndemands and offers that have been made and the reason settlement \ndiscussions have been unsuccessful; and\n(H) Certify that the party has made initial disclosures under Fed. R. \nCiv. P. 26(a)(1) and that the plaintiff has provided a computation \nof damages to the defendant under Fed. R. Civ. P. 26(a)(1)(A)(iii).\n(2) Each evaluation statement must remain confidential unless a party gives \nthe court permission to reveal some or all of the information in the \nstatement during the session. The parties should consider whether it \nwould be beneficial to exchange non-confidential portions of the \nevaluation statement.\n(g) Each evaluating magistrate judge must:\n(1) Permit each party (through an attorney or otherwise), orally and through \ndocuments or other media, to present its claims or defenses and to describe \nthe principal evidence on which they are based;\n(2) Assist the parties to identify areas of agreement and, where feasible, enter \nstipulations;\n(3) Assess the relative strengths and weaknesses of the parties’ contentions \nand evidence, and carefully explain the reasoning that supports them;",
+          "pages": [
+            59
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-61",
+          "path": [],
+          "type": "paragraph",
+          "text": "51\n(4) When appropriate, assist the parties through private caucusing or \notherwise to explore the possibility of settling the case;\n(5) Estimate, where feasible, the likelihood of liability and the range of \ndamages;\n(6) Assist the parties to devise a plan for expediting discovery, both formal \nand informal, to enter into meaningful settlement discussions or to \nposition the case for disposition by other means;\n(7) Assist the parties to realistically assess litigation costs; and\n(8) Determine whether some form of follow-up to the session would \ncontribute to the case-development process or promote settlement.\n(h) The early neutral evaluation process is subject to the confidentiality provision of \nLR 16-5.\n",
+          "pages": [
+            60
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 58,
+      "pageSpan": [
+        58,
+        60
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:22-1",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "22-1",
+      "citation": "District of Nevada · Rule 22-1",
+      "title": "INTERPLEADER ACTIONS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-61",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 22-1. INTERPLEADER ACTIONS\nIn all interpleader actions, the plaintiff must file a motion requesting that the court set a \nscheduling conference. The motion must be filed within 30 days after the first defendant \nanswers or otherwise appears. At the scheduling conference, the plaintiff must advise the court \nabout the status of service on all defendants who have not appeared. In addition, the court and \nparties will develop a briefing schedule or discovery plan and scheduling order for resolving the \nparties’ competing claims. If the plaintiff fails to prosecute the interpleader action by failing to \nfile the motion required by this rule, the court may dismiss the action. No discharge will be \ngranted and no plaintiff will be dismissed before the scheduling conference takes place.\n",
+          "pages": [
+            60
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 60,
+      "pageSpan": [
+        60,
+        60
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:26-1",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "26-1",
+      "citation": "District of Nevada · Rule 26-1",
+      "title": "DISCOVERY PLANS AND MANDATORY DISCLOSURES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-61",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 26-1. DISCOVERY PLANS AND MANDATORY DISCLOSURES\n(a) Fed. R. Civ. P. 26(f) Meeting; Filing and Contents of Discovery Plan and \nScheduling Order.\nThe pro se plaintiff or plaintiff’s attorney must initiate the scheduling of the \nconference required by Fed. R. Civ. P. 26(f) to be held within 30 days after the \nfirst defendant answers or otherwise appears. Fourteen days after the mandatory \nFed. R. Civ. P. 26(f) conference, the parties must submit a stipulated discovery \nplan and scheduling order. The plan must be formatted to permit the plan, once \nthe court approves it, to become the scheduling order required by Fed. R. Civ. P. \n16(b). If the plan sets deadlines within those specified in LR 26-1(b), the plan \nmust state on its face in bold type, “SUBMITTED IN COMPLIANCE WITH LR \n26-1(b).” If longer deadlines are proposed, the plan must state on its face \n“SPECIAL SCHEDULING REVIEW REQUESTED.” Plans requesting special \nscheduling review must include, in addition to the information required by Fed. R. \nCiv. P. 26(f) and LR 26-1(b), a statement of the reasons why longer or different \ntime periods should apply to the case or, in cases in which the parties disagree on ",
+          "pages": [
+            60
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-62",
+          "path": [],
+          "type": "paragraph",
+          "text": "52\nthe form or contents of the discovery plan, a statement of each party’s position on \neach point in dispute.\n(b) Form of Stipulated Discovery Plan and Scheduling Order; Applicable Deadlines.\nThe discovery plan must include, in addition to the information required by Fed. \nR. Civ. P. 26(f), the following information:\n(1) Discovery Cut-Off Date. The plan must state the date the first defendant \nanswered or otherwise appeared, the number of days required for \ndiscovery measured from that date, and the calendar date on which \ndiscovery will close. Unless the court orders otherwise, discovery periods \nlonger than 180 days from the date the first defendant answers or appears \nwill require special scheduling review;\n(2) Amending the Pleadings and Adding Parties. Unless the discovery plan \notherwise provides and the court so orders, the deadline for filing motions \nto amend the pleadings or to add parties is 90 days before the close of \ndiscovery. The plan must state the calendar date on which these \namendments are due;\n(3) Fed. R. Civ. P. 26(a)(2) Disclosures (Experts). Unless the discovery plan \notherwise provides and the court so orders, the deadlines in Fed. R. Civ. P. \n26(a)(2)(D) for expert disclosures are modified to require that the \ndisclosures be made 60 days before the discovery cut-off date and that \nrebuttal-expert disclosures be made 30 days after the initial disclosure of \nexperts. The plan must state the calendar dates on which these exchanges \nare due;\n(4) Dispositive Motions. Unless the discovery plan otherwise provides and \nthe court so orders, the deadline for filing dispositive motions is 30 days \nafter the discovery cut-off date. The plan must state the calendar date on \nwhich dispositive motions are due;\n(5) Pretrial Order. Unless the discovery plan otherwise provides and the court \nso orders, the deadline for the joint pretrial order is 30 days after the \ndispositive-motion deadline. If dispositive motions are filed, the deadline \nfor filing the joint pretrial order will be suspended until 30 days after \ndecision on the dispositive motions or further court order;\n(6) Fed. R. Civ. P. 26(a)(3) Disclosures. Unless the discovery plan otherwise \nprovides and the court so orders, the disclosures required by Fed. R. Civ. \nP. 26(a)(3) and any objections to them must be included in the joint \npretrial order;\n(7) Alternative Dispute Resolution. The parties must certify that they met and \nconferred about the possibility of using alternative dispute-resolution \nprocesses including mediation, arbitration, and if applicable, early neutral \nevaluation;",
+          "pages": [
+            61
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-63",
+          "path": [],
+          "type": "paragraph",
+          "text": "53\n(8) Alternative Forms of Case Disposition. The parties must certify that they \nconsidered consent to trial by a magistrate judge under 28 U.S.C. § 636(c) \nand Fed. R. Civ. P. 73 and the use of the Short Trial Program (General \nOrder 2013-01);\n(9) Electronic Evidence. In cases in which a jury trial has been demanded, the \nparties must certify that they discussed whether they intend to present \nevidence in electronic format to jurors for the purposes of jury \ndeliberations. The plan must state any stipulations the parties reached \nregarding providing discovery in an electronic format compatible with the \ncourt’s electronic jury evidence display system. Parties should consult the \ncourt’s website or contact the assigned judge’s courtroom administrator \nfor instructions about how to prepare evidence in an electronic format and \nother requirements for the court’s electronic jury evidence display system; \nand \n(10) Form of Order. All discovery plans must include on the last page of the \nplan the words “IT IS SO ORDERED” with a date and signature block for \nthe judge in the manner set forth in LR IA 6-2.\n(c) The discovery plan may direct that before moving for an order relating to \ndiscovery, the movant must request a conference with the assigned magistrate \njudge.\n(d) Unless the court orders otherwise, subsections (a) and (b) do not apply to \ninterpleader actions. The procedures in LR 22-1 govern all interpleader actions.\n",
+          "pages": [
+            62
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 60,
+      "pageSpan": [
+        60,
+        62
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:26-2",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "26-2",
+      "citation": "District of Nevada · Rule 26-2",
+      "title": "TIME FOR COMPLETION OF DISCOVERY WHEN NO SCHEDULING",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-63",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 26-2. TIME FOR COMPLETION OF DISCOVERY WHEN NO SCHEDULING \nORDER IS ENTERED\nUnless the court orders otherwise, in cases where no discovery plan is required, discovery \nmust be completed within 180 days from the time the first defendant answers or otherwise \nappears.",
+          "pages": [
+            62
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-64",
+          "path": [],
+          "type": "paragraph",
+          "text": "54\n",
+          "pages": [
+            63
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 62,
+      "pageSpan": [
+        62,
+        63
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:26-3",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "26-3",
+      "citation": "District of Nevada · Rule 26-3",
+      "title": "EXTENSION OF SCHEDULED DEADLINES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-64",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 26-3. EXTENSION OF SCHEDULED DEADLINES\nA motion or stipulation to extend any date set by the discovery plan, scheduling order, or \nother order must, in addition to satisfying the requirements of LR IA 6-1, be supported by a \nshowing of good cause for the extension. A motion or stipulation to extend a deadline set forth \nin a discovery plan must be received by the court no later than 21 days before the expiration of \nthe subject deadline. A request made within 21 days of the subject deadline must be supported \nby a showing of good cause. A request made after the expiration of the subject deadline will not \nbe granted unless the movant also demonstrates that the failure to act was the result of excusable \nneglect. A motion or stipulation to extend a discovery deadline or to reopen discovery must \ninclude:\n(a) A statement specifying the discovery completed;\n(b) A specific description of the discovery that remains to be completed;\n(c) The reasons why the deadline was not satisfied or the remaining discovery was \nnot completed within the time limits set by the discovery plan; and\n(d) A proposed schedule for completing all remaining discovery.\n",
+          "pages": [
+            63
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 63,
+      "pageSpan": [
+        63,
+        63
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:26-4",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "26-4",
+      "citation": "District of Nevada · Rule 26-4",
+      "title": "RESPONSES TO WRITTEN DISCOVERY",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-64",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 26-4. RESPONSES TO WRITTEN DISCOVERY\nAll responses to written discovery must, immediately preceding the response, identify the \nnumber or other designation and set forth in full the text of the discovery sought.\n",
+          "pages": [
+            63
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 63,
+      "pageSpan": [
+        63,
+        63
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:26-5",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "26-5",
+      "citation": "District of Nevada · Rule 26-5",
+      "title": "DEMAND FOR PRIOR DISCOVERY",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-64",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 26-5. DEMAND FOR PRIOR DISCOVERY\nA party who enters a case after discovery has begun is entitled, on written request, to \ninspect and copy, at the requesting party’s expense, all discovery provided or taken in the case by \nany other party. The request must be directed to the party who provided the discovery or, if the \ndiscovery was obtained from a person not a party to the case, to the party who took the \ndiscovery.\n",
+          "pages": [
+            63
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 63,
+      "pageSpan": [
+        63,
+        63
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:26-6",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "26-6",
+      "citation": "District of Nevada · Rule 26-6",
+      "title": "DISCOVERY MOTIONS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-64",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 26-6. DISCOVERY MOTIONS\n(a) Unless the court orders otherwise, all discovery disputes are referred to the \nmagistrate judge assigned to the case.\n(b) All motions to compel discovery or for a protective order must set forth in full the \ntext of the discovery originally sought and any response to it.\n(c) Discovery motions will not be considered unless the movant (1) has made a good￾faith effort to meet and confer as defined in LR IA 1-3(f) before filing the motion, \nand (2) includes a declaration setting forth the details and results of the meet-and￾confer conference about each disputed discovery request.",
+          "pages": [
+            63
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-65",
+          "path": [],
+          "type": "paragraph",
+          "text": "55\n(d) In the event of an emergency discovery dispute, the movant may apply for relief \nby written motion or, when time does not permit, by a telephone call to the \nmagistrate judge assigned to the case. The court may determine whether a \ndiscovery dispute is an emergency. Written requests for judicial assistance to \nresolve an emergency discovery dispute must satisfy LR 7-4. \n",
+          "pages": [
+            64
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 63,
+      "pageSpan": [
+        63,
+        64
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:26-7",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "26-7",
+      "citation": "District of Nevada · Rule 26-7",
+      "title": "DISCOVERY PAPERS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-65",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 26-7. DISCOVERY PAPERS\nOriginals of responses to written discovery requests must be served on the party who \nserved the discovery request, and that party must make the originals available at the pretrial \nhearing, at trial, or when ordered by the court. In addition to the documents listed in Fed. R. Civ. \nP. 5(d)(1)(A), deposition notices and deposition transcripts must not be filed with the court until \nthey are used in the proceeding, unless the court orders otherwise. \n",
+          "pages": [
+            64
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 64,
+      "pageSpan": [
+        64,
+        64
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:30-1",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "30-1",
+      "citation": "District of Nevada · Rule 30-1",
+      "title": "DEPOSITIONS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-65",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 30-1. DEPOSITIONS\nA deposing party must make the original transcript of a deposition available at the pretrial \nhearing, at trial, or when ordered by the court.\n",
+          "pages": [
+            64
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 64,
+      "pageSpan": [
+        64,
+        64
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:38-1",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "38-1",
+      "citation": "District of Nevada · Rule 38-1",
+      "title": "JURY DEMAND",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-65",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 38-1. JURY DEMAND\nWhen a party demands a jury trial in a pleading under Fed. R. Civ. P. 38(b), the words \n“JURY DEMAND” must be typed or printed in capital letters on the first page immediately \nbelow the title of the pleading.\n",
+          "pages": [
+            64
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 64,
+      "pageSpan": [
+        64,
+        64
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:41-1",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "41-1",
+      "citation": "District of Nevada · Rule 41-1",
+      "title": "DISMISSAL FOR WANT OF PROSECUTION",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-65",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 41-1. DISMISSAL FOR WANT OF PROSECUTION\nAll civil actions that have been pending in this court for more than 270 days without any \nproceeding of record having been taken may, after notice, be dismissed for want of prosecution \nby the court sua sponte or on the motion of an attorney or pro se party.\n",
+          "pages": [
+            64
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 64,
+      "pageSpan": [
+        64,
+        64
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:42-1",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "42-1",
+      "citation": "District of Nevada · Rule 42-1",
+      "title": "NOTICING THE COURT ON RELATED CASES; CONSOLIDATION OF",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-65",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 42-1. NOTICING THE COURT ON RELATED CASES; CONSOLIDATION OF \nCASES\n(a) Related Cases. A party who has reason to believe that an action on file or about \nto be filed is related to another action on file (whether active or terminated) must \nfile in each action and serve on all parties in each action a notice of related cases. \nThis notice must set forth the title and case number of each possibly related \naction, together with a brief statement of their relationship and the reasons why \nassignment to a single district judge or magistrate judge is desirable.\nAn action may be considered to be related to another action when:\n(1) Both actions involve the same parties and are based on the same or similar \nclaim;\n(2) Both actions involved the same property, transaction, or event;",
+          "pages": [
+            64
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-66",
+          "path": [],
+          "type": "paragraph",
+          "text": "56\n(3) Both actions involve similar questions of fact and the same question of \nlaw, and their assignment to the same district judge or magistrate judge is \nlikely to effect a substantial savings of judicial effort;\n(4) Both actions involve the same patent, trademark, or copyright, and one of \nthe factors identified in (1), (2), or (3) above is present; or\n(5) For any other reason, it would entail substantial duplication of labor if the \nactions were heard by different district judges or magistrate judges.\nIf a notice of related cases is filed, the assigned judges will determine whether the \nactions will be assigned to a single district judge or magistrate judge.\n(b) Consolidation of Cases. Under Fed. R. Civ. P. 42(a), if actions before the court \ninvolve a common question of law or fact, the court may: (1) join for hearing or \ntrial any or all matters at issue in the actions; (2) consolidate the actions; or \n(3) issue any other orders to avoid unnecessary cost or delay.\nThe court may make a determination to consolidate actions sua sponte. A party \nmay file a motion for consolidation as soon as it reasonably appears the actions \ninvolve common questions of law or fact and consolidation would aid in the \nefficient and economic disposition of an action. A party seeking consolidation \nmust file and serve the motion in each of the pending lawsuits the party seeks to \nhave consolidated. If the party seeking to consolidate actions is not a party to an \naction it seeks to have consolidated, it may file a motion for leave to intervene in \nthat action for the limited purpose of seeking consolidation of actions. The party \nmust include the proposed motion for consolidation as an exhibit to the motion for \nleave to intervene.\nA motion to consolidate must identify all actions that are the subject of the motion \nby case name and number and must address in detail the asserted common \nquestions of law or fact in the actions the party seeks to consolidate.\nThe motion to consolidate will be decided by the judge to whom the earliest-filed \naction is assigned. If the actions are consolidated, they will be transferred to the \njudge to whom the earliest-filed action is assigned. A joint order signed by all \njudges in the cases to be consolidated will be filed in each of the pending cases. \nAfter consolidation, the Clerk of Court must administratively close the latter-filed \nactions.\n",
+          "pages": [
+            65
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 64,
+      "pageSpan": [
+        64,
+        65
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:43-1",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "43-1",
+      "citation": "District of Nevada · Rule 43-1",
+      "title": "USE OF INTERPRETERS IN COURT PROCEEDINGS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-66",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 43-1. USE OF INTERPRETERS IN COURT PROCEEDINGS\nA party who anticipates needing the services of an interpreter in a court proceeding must \nmake the necessary arrangements at its own expense and file a written notice at least 14 days \nbefore the proceeding in which the interpreter’s services will be used. The notice must include \nthe name and credentials of the interpreter, the name of the witness or witnesses requiring the \ninterpreter, and the reason the interpreter is needed. Any party anticipating the need for an \nAmerican Sign Language interpreter must contact the assigned judge’s courtroom administrator \nat least 14 days before the proceeding.",
+          "pages": [
+            65
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-67",
+          "path": [],
+          "type": "paragraph",
+          "text": "57\n",
+          "pages": [
+            66
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 65,
+      "pageSpan": [
+        65,
+        66
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:48-1",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "48-1",
+      "citation": "District of Nevada · Rule 48-1",
+      "title": "CONTACT WITH JURORS PROHIBITED",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-67",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 48-1. CONTACT WITH JURORS PROHIBITED\nUnless the court permits otherwise, no party, attorney, or other interested person may \ncommunicate with or contact any juror until the jury concludes its deliberations and is \ndischarged.\n",
+          "pages": [
+            66
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 66,
+      "pageSpan": [
+        66,
+        66
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:54-1",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "54-1",
+      "citation": "District of Nevada · Rule 54-1",
+      "title": "COSTS OTHER THAN ATTORNEY’S FEES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-67",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 54-1. COSTS OTHER THAN ATTORNEY’S FEES\n(a) A prevailing party who claims costs must file and serve a bill of costs and \ndisbursements on the form provided by the clerk no later than 14 days after the \ndate of entry of the judgment or decree. See 28 U.S.C. §§ 1920, 1921, and 1923; \nFed. R. Civ. P. 54(d)(1).\n(b) A bill of costs and disbursements must be supported by an affidavit and distinctly \nset forth each item so that its nature can be readily understood. An itemization \nand, where available, documentation of requested costs in all categories must be \nattached to the bill of costs. See 28 U.S.C. § 1924.\n(c) The deadline to file and serve any objection to a bill of costs is 14 days after \nservice of the bill of costs. An objection must specify each item to which \nobjection is made and the grounds for the objection and, if appropriate, must \ninclude supporting declarations or other material. The deadline to file and serve \nany response to an objection is seven days after service of the objection.\n(d) If no objection is filed, the clerk must enter the bill of costs as submitted. Failure \nto object to a bill of costs may constitute a consent to the award of all costs \nincluded, but it does not prevent a party from filing a motion to re-tax as provided \nin LR 54-12, subject to the court’s consideration of the party’s failure to file an \nobjection.\n(e) If an objection is filed, once a response to the objection is filed or the deadline for \ndoing so has passed, the clerk may prepare, sign, and enter an order disposing of a \nbill of costs, subject to a motion to re-tax under LR 54-12. The clerk’s taxation of \ncosts is final, unless modified on review as provided in these rules.\n(f) Notice of the clerk’s taxation of costs must be given by serving a copy of the bill \nof costs approved by the clerk on all parties in compliance with Fed. R. Civ. P. 5.\n(g) Neither the parties nor their attorneys may appear on the date set for the taxation \nof costs.\n",
+          "pages": [
+            66
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 66,
+      "pageSpan": [
+        66,
+        66
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:54-2",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "54-2",
+      "citation": "District of Nevada · Rule 54-2",
+      "title": "PROCESS SERVER’S FEES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-67",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 54-2. PROCESS SERVER’S FEES \nAn authorized process server’s fees are ordinarily taxable.",
+          "pages": [
+            66
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-68",
+          "path": [],
+          "type": "paragraph",
+          "text": "58\n",
+          "pages": [
+            67
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 66,
+      "pageSpan": [
+        66,
+        67
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:54-3",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "54-3",
+      "citation": "District of Nevada · Rule 54-3",
+      "title": "TRANSCRIPTS OF COURT PROCEEDINGS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-68",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 54-3. TRANSCRIPTS OF COURT PROCEEDINGS\nThe cost of transcripts of pretrial, trial, and post-trial proceedings is not taxable unless the \ntranscripts are (1) requested by the court or (2) prepared under a stipulation approved by the \ncourt. Mere acceptance of the transcripts by the court does not constitute a request. The cost of \ncopies of transcripts for an attorney or party’s own use is not taxable absent a prior court order.\n",
+          "pages": [
+            67
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 67,
+      "pageSpan": [
+        67,
+        67
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:54-4",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "54-4",
+      "citation": "District of Nevada · Rule 54-4",
+      "title": "DEPOSITION COSTS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-68",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 54-4. DEPOSITION COSTS\n(a) The following are taxable deposition costs:\n(1) The cost of a deposition transcript, either the original or a copy, but not \nboth, whether taken solely for discovery or for use at trial; \n(2) Reasonable costs of a deposition reporter and the notary or other official \npresiding at the deposition including travel, where necessary, and \nsubsistence;\n(3) Reasonable costs for videography;\n(4) Witness fees at the same rate as the rate for attendance at trial. The \nwitness need not be under subpoena; and\n(5) Reasonable costs for a necessary interpreter at the taking of a taxable-cost \ndeposition.\n(b) The following are not taxable deposition costs:\n(1) Attorney’s fees, expenses in arranging for taking a deposition, and \nexpenses in attending the deposition are not taxable, except as provided by \nstatute or by the Federal Rules of Civil Procedure;\n(2) Postage, handling, and delivery fees for deposition transcripts; and\n(3) Condensed, ASCII, or other special formatting or production of deposition \ntranscripts.\n",
+          "pages": [
+            67
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 67,
+      "pageSpan": [
+        67,
+        67
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:54-5",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "54-5",
+      "citation": "District of Nevada · Rule 54-5",
+      "title": "WITNESS FEES, MILEAGE, AND SUBSISTENCE",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-68",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 54-5. WITNESS FEES, MILEAGE, AND SUBSISTENCE\n(a) The rate for witness fees, mileage, and subsistence are fixed by statute. See 28 \nU.S.C. § 1821. These fees are taxable even if the witness did not testify when it is \nshown that the attendance was necessary. But if a witness is not used, the \npresumption is that the attendance was unnecessary. The witness need not be \nunder subpoena. Costs may be taxed for each day the witness is necessarily in \nattendance and are not limited to the actual day the witness testified. Fees will be \nlimited, however, to the days of actual testimony and the days required for travel \nunless a showing is made that the witness necessarily attended for a longer time.",
+          "pages": [
+            67
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-69",
+          "path": [],
+          "type": "paragraph",
+          "text": "59\n(b) No party may receive witness fees for testifying on that party’s own behalf, unless \nthe party is subpoenaed to court by the opposing party. Witness fees for officers \nof a corporation are taxable if the officers are not defendants and recovery is not \nsought against the officers individually. Fees for expert witnesses are not taxable \nin a greater amount than statutorily allowable for ordinary witnesses.\n(b) The reasonable fee of a competent interpreter is taxable if the fee of the witness \nfor whom the interpreting services were required is taxable. The reasonable fee of \na competent translator is taxable if the document translated is necessarily filed or \nadmitted into evidence.\n",
+          "pages": [
+            68
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 67,
+      "pageSpan": [
+        67,
+        68
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:54-6",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "54-6",
+      "citation": "District of Nevada · Rule 54-6",
+      "title": "EXEMPLIFICATION, COPIES OF PAPERS, AND DISBURSEMENTS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-69",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 54-6. EXEMPLIFICATION, COPIES OF PAPERS, AND DISBURSEMENTS \nFOR PRINTING\n(a) The following are taxable costs for exemplification, copies of papers, and \ndisbursements for printing:\n(1) The cost of copies of an exhibit necessarily attached to a filed document;\n(2) The costs of copies of trial exhibits for the judge and opposing parties;\n(3) An official’s fee for certification or proof regarding the non-existence of a \ndocument;\n(4) Notary fees, but only for documents that are required to be notarized and \nthat are necessarily filed; and\n(5) The cost of patent file wrappers and prior art patents at the rate charged by \nthe United States Patent and Trademark Office.\n(b) The following costs are not taxable:\n(1) The cost of reproducing copies of motions, pleadings, notices, and other \nroutine case papers;\n(2) The costs and page fees for electronic access to court records;\n(3) The cost of copies obtained for an attorney’s own use; and\n(4) Expenses for services of persons checking patent office records to \ndetermine what should be ordered.\n(c) An itemization of costs claimed under subsection (a) must be attached to the bill \nof costs with a detailed description of the specific nature of the costs and, when \navailable, documentation to support the costs.",
+          "pages": [
+            68
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-70",
+          "path": [],
+          "type": "paragraph",
+          "text": "60\n",
+          "pages": [
+            69
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 68,
+      "pageSpan": [
+        68,
+        69
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:54-7",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "54-7",
+      "citation": "District of Nevada · Rule 54-7",
+      "title": "MAPS, CHARTS, MODELS, PHOTOGRAPHS, SUMMARIES,",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-70",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 54-7. MAPS, CHARTS, MODELS, PHOTOGRAPHS, SUMMARIES, \nCOMPUTATIONS, AND STATISTICAL SUMMARIES\nThe cost of maps and charts is taxable if they are admitted into evidence. The cost of \nphotographs, 8” x 10” in size or less, is taxable if the photographs are admitted into evidence or \nattached to documents required to be filed and served on opposing parties. The cost of \nenlargements greater than 8” x l0,” models, summaries, computations, and statistical \ncomparisons are not taxable except by prior court order.\n",
+          "pages": [
+            69
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 69,
+      "pageSpan": [
+        69,
+        69
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:54-8",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "54-8",
+      "citation": "District of Nevada · Rule 54-8",
+      "title": "FEES OF RECEIVERS AND COMMISSIONERS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-70",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 54-8. FEES OF RECEIVERS AND COMMISSIONERS\nUnless the court orders otherwise, fees of receivers and commissioners are taxable costs.\n",
+          "pages": [
+            69
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 69,
+      "pageSpan": [
+        69,
+        69
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:54-9",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "54-9",
+      "citation": "District of Nevada · Rule 54-9",
+      "title": "PREMIUMS ON UNDERTAKINGS AND BONDS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-70",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 54-9. PREMIUMS ON UNDERTAKINGS AND BONDS\nPremiums paid on undertakings and bonds are ordinarily taxable when they were \nfurnished by reason of express requirement of law, when they were ordered by the court, or when \nthey were provided to enable the party to secure some right in the action or proceeding.\n",
+          "pages": [
+            69
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 69,
+      "pageSpan": [
+        69,
+        69
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:54-10",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "54-10",
+      "citation": "District of Nevada · Rule 54-10",
+      "title": "REMOVED CASES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-70",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 54-10. REMOVED CASES\nIn a removed case, costs incurred in the state court before removal are taxable in favor of \nthe prevailing party. \n",
+          "pages": [
+            69
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 69,
+      "pageSpan": [
+        69,
+        69
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:54-11",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "54-11",
+      "citation": "District of Nevada · Rule 54-11",
+      "title": "COSTS NOT ORDINARILY ALLOWED",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-70",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 54-11. COSTS NOT ORDINARILY ALLOWED\nThe following costs will not ordinarily be allowed:\n(a) Accountant’s fees incurred for investigation;\n(b) The purchase of infringing devices in patent cases;\n(c) The physical examination of an opposing party;\n(d) Courtesy copies of exhibits furnished to opposing counsel without request, except \nas provided in LR 54-6(a)(2);\n(e) Motion pictures;\n(f) Pro hac vice admission fees;\n(g) Computer research fees;\n(h) Expert witness fees;\n(i) Fees for investigative or paralegal services;",
+          "pages": [
+            69
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-71",
+          "path": [],
+          "type": "paragraph",
+          "text": "61\n(j) Fees for general office overhead; and\n(k) An attorney’s travel expenses.\n",
+          "pages": [
+            70
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 69,
+      "pageSpan": [
+        69,
+        70
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:54-12",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "54-12",
+      "citation": "District of Nevada · Rule 54-12",
+      "title": "REVIEW OF COSTS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-71",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 54-12. REVIEW OF COSTS\n(a) A party may obtain review of the clerk’s taxation of costs by filing a motion to re￾tax under Fed. R. Civ. P. 54(d), accompanied by points and authorities. A motion \nto re-tax costs must be filed and served within seven days after receipt of the \nnotice under LR 54-1(f).\n(b) A motion to re-tax must specify the particular portions of the clerk’s ruling to \nwhich the party objects, and only those portions of the clerk’s ruling will be \nconsidered by the court. The motion to re-tax will be decided on the same papers \nand evidence submitted to the clerk.\n",
+          "pages": [
+            70
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 70,
+      "pageSpan": [
+        70,
+        70
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:54-13",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "54-13",
+      "citation": "District of Nevada · Rule 54-13",
+      "title": "APPELLATE COSTS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-71",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 54-13. APPELLATE COSTS\nThe district court does not tax or re-tax appellate costs. The certified copy of the \njudgment or the mandate of the Court of Appeals, without further action by the district court, is \nsufficient basis to request the clerk of the district court to issue a writ of execution to recover \ncosts taxed by the Court of Appeals.\n",
+          "pages": [
+            70
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 70,
+      "pageSpan": [
+        70,
+        70
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:54-14",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "54-14",
+      "citation": "District of Nevada · Rule 54-14",
+      "title": "MOTIONS FOR ATTORNEY’S FEES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-71",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 54-14. MOTIONS FOR ATTORNEY’S FEES\n(a) Content of Motions. Unless the court orders otherwise, a motion for attorney’s \nfees must include the following in addition to those matters required by Fed. R. \nCiv. P. 54(d)(2)(B):\n(1) A reasonable itemization and description of the work performed;\n(2) An itemization of all costs sought to be charged as part of the fee award \nand not otherwise taxable under LR 54-1 through 54-13;\n(3) A brief summary of:\n(A) The results obtained and the amount involved;\n(B) The time and labor required;\n(C) The novelty and difficulty of the questions involved;\n(D) The skill requisite to perform the legal service properly;\n(E) The preclusion of other employment by the attorney due to \nacceptance of the case;\n(F) The customary fee;",
+          "pages": [
+            70
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-72",
+          "path": [],
+          "type": "paragraph",
+          "text": "62\n(G) Whether the fee is fixed or contingent;\n(H) The time limitations imposed by the client or the circumstances;\n(I) The experience, reputation, and ability of the attorney(s);\n(J) The undesirability of the case, if any;\n(K) The nature and length of the professional relationship with the \nclient;\n(L) Awards in similar cases; and\n(M) Any other information the court may request.\n(b) Attorney Affidavit. Each motion must be accompanied by an affidavit from the \nattorney responsible for the billings in the case authenticating the information \ncontained in the motion and confirming that the bill was reviewed and edited and \nthat the fees and costs charged are reasonable.\n(c) Failure to provide the information required by subsections (a) and (b) in a motion \nfor attorney’s fees may be deemed a consent to the denial of the motion.\n(d) Opposition. If no opposition is filed, the court may grant the motion after \nindependent review of the record. If an opposition is filed, it must set forth the \nspecific charges that are disputed and state with reasonable particularity the basis \nfor the opposition. The opposition must include affidavits to support any \ncontested fact.\n(e) Hearing. If either party wishes to examine the affiant, the party must specifically \nmake that request in writing. Absent such a request, the court may decide the \nmotion on the papers or set the matter for evidentiary hearing.\n",
+          "pages": [
+            71
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 70,
+      "pageSpan": [
+        70,
+        71
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:56-1",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "56-1",
+      "citation": "District of Nevada · Rule 56-1",
+      "title": "MOTIONS FOR SUMMARY JUDGMENT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-72",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 56-1. MOTIONS FOR SUMMARY JUDGMENT\nMotions for summary judgment and responses thereto must include a concise statement \nsetting forth each fact material to the disposition of the motion that the party claims is or is not \ngenuinely in issue, citing the particular portions of any pleading, affidavit, deposition, \ninterrogatory, answer, admission, or other evidence on which the party relies. The statement of \nfacts will be counted toward the applicable page limit in LR 7-3.",
+          "pages": [
+            71
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-73",
+          "path": [],
+          "type": "paragraph",
+          "text": "63\n",
+          "pages": [
+            72
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 71,
+      "pageSpan": [
+        71,
+        72
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:59-1",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "59-1",
+      "citation": "District of Nevada · Rule 59-1",
+      "title": "MOTIONS FOR RECONSIDERATION OF INTERLOCUTORY ORDERS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-73",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 59-1. MOTIONS FOR RECONSIDERATION OF INTERLOCUTORY ORDERS\n(a) Motions seeking reconsideration of case-dispositive orders are governed by Fed. \nR. Civ. P. 59 or 60, as applicable. A party seeking reconsideration under this rule \nmust state with particularity the points of law or fact that the court has overlooked \nor misunderstood. Changes in legal or factual circumstances that may entitle the \nmovant to relief also must be stated with particularity. The court possesses the \ninherent power to reconsider an interlocutory order for cause, so long as the court \nretains jurisdiction. Reconsideration also may be appropriate if (1) there is newly \ndiscovered evidence that was not available when the original motion or response \nwas filed, (2) the court committed clear error or the initial decision was manifestly \nunjust, or (3) if there is an intervening change in controlling law.\n(b) Motions for reconsideration are disfavored. A movant must not repeat arguments \nalready presented unless (and only to the extent) necessary to explain controlling, \nintervening law or to argue new facts. A movant who repeats arguments will be \nsubject to appropriate sanctions.\n(c) Motions for reconsideration must be brought within a reasonable time. Lack of \ndiligence or timeliness may result in denial of the motion.\n",
+          "pages": [
+            72
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 72,
+      "pageSpan": [
+        72,
+        72
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:65.1-1",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "65.1-1",
+      "citation": "District of Nevada · Rule 65.1-1",
+      "title": "QUALIFICATION OF SURETY",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-73",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 65.1-1. QUALIFICATION OF SURETY\nExcept for bonds secured by cash or negotiable bonds or notes of the United States \ngoverned by LR 65.1-2, every bond must have as surety:\n(a) A corporation authorized by the United States Secretary of the Treasury to act as \nsurety on official bonds under 31 U.S.C. §§ 9304 through 9306;\n(b) A corporation authorized to act as surety under the laws of the State of Nevada, \nwhich corporation must have on file with the clerk a certified copy of its \ncertificate of authority to do business in Nevada, together with a certified copy of \nthe power of attorney appointing the agent authorized to execute the bond;\n(c) One or more individuals each of whom owns real or personal property sufficient \nto justify the full amount of the suretyship; or\n(d) Any other security the court may require by order.\n",
+          "pages": [
+            72
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 72,
+      "pageSpan": [
+        72,
+        72
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:65.1-2",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "65.1-2",
+      "citation": "District of Nevada · Rule 65.1-2",
+      "title": "DEPOSIT OF MONEY OR UNITED STATES OBLIGATION IN LIEU OF",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-73",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 65.1-2. DEPOSIT OF MONEY OR UNITED STATES OBLIGATION IN LIEU OF \nSURETY\nWhen ordered by the court, there may be deposited with the clerk in lieu of surety:\n(a) Lawful money accompanied by an affidavit that identifies the money’s legal \nowner; or",
+          "pages": [
+            72
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-74",
+          "path": [],
+          "type": "paragraph",
+          "text": "64\n(b) Negotiable bonds or notes of the United States accompanied by an executed \nagreement as required by 31 U.S.C. § 9303(a)(3) authorizing the clerk to collect \nor sell the bonds or notes in the event of default.\n",
+          "pages": [
+            73
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 72,
+      "pageSpan": [
+        72,
+        73
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:65.1-3",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "65.1-3",
+      "citation": "District of Nevada · Rule 65.1-3",
+      "title": "APPROVAL",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-74",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 65.1-3. APPROVAL\nUnless approval of the bond or the individual sureties is endorsed thereon by opposing \ncounsel or the party, if appearing pro se, the party offering the bond must apply to the court for \napproval. The clerk is authorized to approve bonds unless court approval is expressly required \nby law.\n",
+          "pages": [
+            73
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 73,
+      "pageSpan": [
+        73,
+        73
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:65.1-4",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "65.1-4",
+      "citation": "District of Nevada · Rule 65.1-4",
+      "title": "PERSONS NOT TO ACT AS SURETIES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-74",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 65.1-4. PERSONS NOT TO ACT AS SURETIES\nOfficers of this court, members of the bar of this court, nonresident attorneys specially \nadmitted to practice before this court, and their office associates or employees may not act as \nsurety in this court.\n",
+          "pages": [
+            73
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 73,
+      "pageSpan": [
+        73,
+        73
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:65.1-5",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "65.1-5",
+      "citation": "District of Nevada · Rule 65.1-5",
+      "title": "JUDGMENT AGAINST SURETIES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-74",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 65.1-5. JUDGMENT AGAINST SURETIES\nRegardless of what may be otherwise provided in any security instrument, every surety \nwho provides a bond or other undertaking for filing with this court thereby submits to the court’s \njurisdiction and irrevocably appoints the clerk as agent on whom any paper affecting liability on \nthe bond or undertaking may be served. Liability will be joint and several and may be enforced \nsummarily without independent action. Service may be made on the clerk, who must \nimmediately mail a copy to the surety at the last known address.\n",
+          "pages": [
+            73
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 73,
+      "pageSpan": [
+        73,
+        73
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:65.1-6",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "65.1-6",
+      "citation": "District of Nevada · Rule 65.1-6",
+      "title": "FURTHER SECURITY OR JUSTIFICATION OF PERSONAL SURETIES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-74",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 65.1-6. FURTHER SECURITY OR JUSTIFICATION OF PERSONAL SURETIES\nAt any time and upon reasonable notice to all other parties, a party for whose benefit a \nbond is presented or posted may apply to the court for further or different security or for an order \nrequiring personal sureties.\n",
+          "pages": [
+            73
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 73,
+      "pageSpan": [
+        73,
+        73
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:66-1",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "66-1",
+      "citation": "District of Nevada · Rule 66-1",
+      "title": "RECEIVERS IN GENERAL",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-74",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 66-1. RECEIVERS IN GENERAL\nRules 66-1 through 66-9 are promulgated under Fed. R. Civ. P. 66 for the administration \nof estates by receivers or other similar officers appointed by the court. \n",
+          "pages": [
+            73
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 73,
+      "pageSpan": [
+        73,
+        73
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:66-2",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "66-2",
+      "citation": "District of Nevada · Rule 66-2",
+      "title": "NOTICE; TEMPORARY RECEIVER",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-74",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 66-2. NOTICE; TEMPORARY RECEIVER\nA receiver must not be appointed except after hearing, preceded by at least 14 days’ \nnotice to the party sought to be subjected to receivership and to all known creditors, but a \ntemporary receiver may be appointed without notice upon adequate showing provided by Fed. R. \nCiv. P. 65(b).",
+          "pages": [
+            73
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-75",
+          "path": [],
+          "type": "paragraph",
+          "text": "65\n",
+          "pages": [
+            74
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 73,
+      "pageSpan": [
+        73,
+        74
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:66-3",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "66-3",
+      "citation": "District of Nevada · Rule 66-3",
+      "title": "REVIEW OF APPOINTMENT OF TEMPORARY RECEIVER",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-75",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 66-3. REVIEW OF APPOINTMENT OF TEMPORARY RECEIVER\nUpon being appointed, a temporary receiver must give the notice required in LR 66-2, \nand at the hearing the court must determine whether a receiver should be appointed and the \nreceivership continued or terminated in the same manner as though no temporary receiver had \nbeen appointed.\n",
+          "pages": [
+            74
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 74,
+      "pageSpan": [
+        74,
+        74
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:66-4",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "66-4",
+      "citation": "District of Nevada · Rule 66-4",
+      "title": "REPORTS OF RECEIVERS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-75",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 66-4. REPORTS OF RECEIVERS\n(a) At the hearing provided for in LR 66-3, the temporary receiver must file with the \ncourt a summary report of the temporary receivership.\n(b) Within 60 days of being appointed, a permanent receiver must file a verified \nreport and account of the receiver’s administration, which must be heard on 14 \ndays’ notice to all parties and known creditors of the party subject to receivership. \nThe report and account must contain the following:\n(1) A summary of the receiver’s operations;\n(2) An inventory of the assets and their appraised value;\n(3) A schedule of all the receiver’s receipts and disbursements;\n(4) A list of all known creditors with their addresses and the amounts of their \nclaims; and\n(5) The receiver’s recommendations for a continuation or discontinuation of \nthe receivership and the reasons for the recommendations.\n(c) At the hearing, the court must approve or disapprove the receiver’s report and \naccount, determine whether the receivership may continue, and fix the time for \nfurther regular reports by the receiver, if applicable.\n",
+          "pages": [
+            74
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 74,
+      "pageSpan": [
+        74,
+        74
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:66-5",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "66-5",
+      "citation": "District of Nevada · Rule 66-5",
+      "title": "NOTICE OF HEARINGS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-75",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 66-5. NOTICE OF HEARINGS\nUnless the court orders otherwise, the receiver must give all interested parties and \ncreditors at least 14 days’ notice of the time and place of hearings of:\n(a) All further reports of the receiver;\n(b) All petitions for approval of the payment of dividends to creditors;\n(c) All petitions for confirmation of sales of real or personal property;\n(d) All applications for fees of the receiver, or of any attorney, accountant, or \ninvestigator;\n(e) Any application for the discharge of the receiver; and",
+          "pages": [
+            74
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-76",
+          "path": [],
+          "type": "paragraph",
+          "text": "66\n(f) All petitions for authority to sell property at private sale.\n",
+          "pages": [
+            75
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 74,
+      "pageSpan": [
+        74,
+        75
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:66-6",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "66-6",
+      "citation": "District of Nevada · Rule 66-6",
+      "title": "EMPLOYMENT OF ATTORNEYS, ACCOUNTANTS, AND",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-76",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 66-6. EMPLOYMENT OF ATTORNEYS, ACCOUNTANTS, AND \nINVESTIGATORS\nA receiver must not employ an attorney, accountant, or investigator without first \nobtaining a court order authorizing the employment. The compensation of an attorney, \naccountant, or investigator will be fixed by the court, after hearing, upon the receiver’s verified \napplication setting forth in reasonable detail the nature of the services. The application must \nstate under oath that the receiver has not entered into any agreement, written or oral, express or \nimplied, with any other person concerning the amount of compensation paid or to be paid from \nthe assets of the estate, or any sharing of it.\n",
+          "pages": [
+            75
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 75,
+      "pageSpan": [
+        75,
+        75
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:66-7",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "66-7",
+      "citation": "District of Nevada · Rule 66-7",
+      "title": "PERSONS PROHIBITED FROM ACTING AS RECEIVERS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-76",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 66-7. PERSONS PROHIBITED FROM ACTING AS RECEIVERS\nExcept as otherwise allowed by statute or court order, no party in interest, attorney, \naccountant, employee, or representative of a party in interest may be appointed as a receiver or \nemployed by the receiver.\n",
+          "pages": [
+            75
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 75,
+      "pageSpan": [
+        75,
+        75
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:66-8",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "66-8",
+      "citation": "District of Nevada · Rule 66-8",
+      "title": "DEPOSIT OF FUNDS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-76",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 66-8. DEPOSIT OF FUNDS\nAll funds received by a receiver must be deposited in a depository designated by the \ncourt in an account entitled “Receiver’s Account,” together with the name of the action.\n",
+          "pages": [
+            75
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 75,
+      "pageSpan": [
+        75,
+        75
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:66-9",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "66-9",
+      "citation": "District of Nevada · Rule 66-9",
+      "title": "UNDERTAKING OF RECEIVER",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-76",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 66-9. UNDERTAKING OF RECEIVER\nA receiver must not act as such until a sufficient undertaking in an adequate amount as \ndetermined by the court is filed with the clerk.\n",
+          "pages": [
+            75
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 75,
+      "pageSpan": [
+        75,
+        75
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:67-1",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "67-1",
+      "citation": "District of Nevada · Rule 67-1",
+      "title": "DEPOSIT AND INVESTMENT OF FUNDS IN THE REGISTRY",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-76",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 67-1. DEPOSIT AND INVESTMENT OF FUNDS IN THE REGISTRY \nACCOUNT; CERTIFICATE OF CASH DEPOSIT\n(a) Cash tendered to the clerk for deposit into the court’s Registry Account must be \naccompanied by a written statement titled “Certificate of Cash Deposit,” which \nmust be signed by the attorney or pro se party. The certificate must contain the \nfollowing information:\n(1) The amount of cash tendered for deposit;\n(2) The party on whose behalf the tender is being made;\n(3) The nature of the tender (e.g., interpleader funds deposit, cash bond in lieu \nof corporate surety in support of temporary restraining order, etc.);\n(4) The court order permitting the deposit;\n(5) The conditions of the deposit signed and acknowledged by the depositor;",
+          "pages": [
+            75
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-77",
+          "path": [],
+          "type": "paragraph",
+          "text": "67\n(6) The name and address of the legal owner to whom a refund, if applicable, \nshould be made; and\n(7) A signature block on which the clerk can acknowledge receipt of the cash \ntendered. The signature block must not be on a separate page, but must \nappear approximately one inch below the last typewritten line on the left￾hand side of the last page of the certificate and must read as follows:\nRECEIPT\nCash as identified herein is hereby \nacknowledged as being received this date. \nDated: ___________________________ \nCLERK, U.S. DISTRICT COURT\nBy: ___________________________\nDeputy Clerk\n(b) The depositing party must attach a copy of the order permitting the deposit.\n(c) The clerk may refuse cash tendered without the Certificate of Cash Deposit \nrequired by this rule.\n",
+          "pages": [
+            76
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 75,
+      "pageSpan": [
+        75,
+        76
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:67-2",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "67-2",
+      "citation": "District of Nevada · Rule 67-2",
+      "title": "INVESTMENT OF FUNDS ON DEPOSIT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-77",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 67-2. INVESTMENT OF FUNDS ON DEPOSIT\n(a) Unless the court orders otherwise, funds on deposit in the court’s Registry \nAccount under to 28 U.S.C. § 2041 will be invested in an interest-bearing account \nestablished by the clerk.\n(b) All motions or stipulations for an order directing the clerk to invest Registry \nAccount funds in an account other than the court’s standard interest-bearing \naccount must contain the following:\n(1) The name of the bank or financial institution where the funds are to be \ninvested;\n(2) The type of account or instrument and the terms of investment where a \ntimed instrument is involved; and\n(3) Language that either:\n(A) Directs the clerk to deduct from income earned on the investment a \nfee, not exceeding that authorized by the Judicial Conference of \nthe United States and set by the Director of the Administrative \nOffice; or\n(B) States affirmatively the investment is being made for the benefit of \nthe United States and, therefore, no fee may be charged.",
+          "pages": [
+            76
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-78",
+          "path": [],
+          "type": "paragraph",
+          "text": "68\n(c) An attorney or pro se party obtaining an order under these rules must cause a copy \nof the order to be served personally on (1) the clerk or (2) the chief deputy and the \nfinancial deputy. A supervisory deputy clerk may accept service on behalf of the \nclerk, chief deputy, or financial deputy in their absence.\n(d) The clerk must take all reasonable steps to deposit funds into interest-bearing \naccounts or instruments within 14 days after service of the order for such \ninvestment.\n(e) An attorney or pro se party who obtains an order directing investment of funds by \nthe clerk must, within 14 days after service of the order on the clerk, verify the \nfunds were invested as ordered.\n(f) An attorney or pro se party’s failure to personally serve (1) the clerk or (2) the \nchief deputy and the financial deputy, or in their absence a supervisory deputy \nclerk, with a copy of the order, or failure to verify investment of the funds, will \nrelease the clerk from any liability for lost earned interest on the funds.\n(g) An attorney or pro se party must notify the clerk regarding disposition of funds at \nmaturity of a timed instrument. In the absence of such notice, funds invested in a \ntimed instrument subject to renewal must be reinvested for a like period of time at \nthe prevailing interest rate. Funds invested in a timed instrument not subject to \nrenewal will be deposited by the clerk into the court’s Registry Account.\n(h) Service of notice by an attorney or pro se party required by LR 67-2(g) must be \nmade as provided in LR 67-2(c) not later than 14 days before maturity of the \ntimed instrument.\n(i) Any change in terms or conditions of an investment must be only by court order, \nand an attorney or pro se party must comply with LR 67-2(b) and (c).\n",
+          "pages": [
+            77
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 76,
+      "pageSpan": [
+        76,
+        77
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:77-1",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "77-1",
+      "citation": "District of Nevada · Rule 77-1",
+      "title": "JUDGMENTS AND ORDERS GRANTABLE BY THE CLERK",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-78",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 77-1. JUDGMENTS AND ORDERS GRANTABLE BY THE CLERK\n(a) The clerk is authorized, without further direction by the court, to sign and enter \nany order permitted to be signed by the clerk under the Federal Rules of Civil \nProcedure and the following:\n(1) Orders specially appointing persons to serve process;\n(2) Orders withdrawing exhibits under LR 79-1;\n(3) Orders on stipulations:\n(A) Satisfying judgments;\n(B) Noting satisfaction of orders for the payment of money;\n(C) Withdrawing stipulations;",
+          "pages": [
+            77
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-79",
+          "path": [],
+          "type": "paragraph",
+          "text": "69\n(D) Annulling bonds; or\n(E) Exonerating sureties.\n(b) The clerk must:\n(1) Enter judgments on verdicts or decisions of the court in circumstances \nauthorized by Fed. R. Civ. P. 58(b)(1);\n(2) Enter default for failure to plead or otherwise defend under Fed. R. Civ. P. \n55(a);\n(3) Enter judgments by default in the circumstances authorized by Fed. R. \nCiv. P. 55(b)(1);\n(4) Enter judgments after acceptance of an offer of judgment in the \ncircumstances authorized by Fed. R. Civ. P. 68(a);\n(5) When ordered by the court in the particular case or in all cases assigned to \na particular judge, enter orders under LR IA 11-2 granting permission to \nan attorney to practice in a particular case and orders under LR IA 11-6 \ngranting leave of the court for substitution of counsel; and\n(6) Enter any other order that, under Fed. R. Civ. P. 77(c)(2)(D), does not \nrequire special direction by the court.\n(c) For the purposes of subsection (b)(3), “sum certain or a sum that can be made \ncertain by computation” means an amount that appears in, or can be simply \ncalculated from, the complaint and supporting affidavits. If the complaint and \nsupporting affidavits leave doubt about the amount to which a plaintiff is entitled \nas a result of the defendant’s default, the claim is not for a sum certain.\n",
+          "pages": [
+            78
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 77,
+      "pageSpan": [
+        77,
+        78
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:78-1",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "78-1",
+      "citation": "District of Nevada · Rule 78-1",
+      "title": "ORAL ARGUMENT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-79",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 78-1. ORAL ARGUMENT\nAll motions may be considered and decided with or without a hearing. Any party making \nor opposing a motion who believes oral argument may assist the court and wishes to be heard \nmay request a hearing by inserting the words ORAL ARGUMENT REQUESTED below the title \nof the document on the first page of the motion or response. Parties must not file separate \nmotions requesting a hearing.\n",
+          "pages": [
+            78
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 78,
+      "pageSpan": [
+        78,
+        78
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:79-1",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "79-1",
+      "citation": "District of Nevada · Rule 79-1",
+      "title": "FILES AND EXHIBITS: CUSTODY AND WITHDRAWAL",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-79",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 79-1. FILES AND EXHIBITS: CUSTODY AND WITHDRAWAL\n(a) All files and records of the court must remain in the custody of the clerk, and \nrecords or papers in the court’s files may not be taken from the clerk’s custody \nwithout the court’s written permission, and then, only after a receipt has been \nsigned by the person obtaining the record or paper.",
+          "pages": [
+            78
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-80",
+          "path": [],
+          "type": "paragraph",
+          "text": "70\n(b) The clerk must mark and have safekeeping responsibility for all exhibits marked \nand identified at trial or hearing. Unless there is some special reason why the \noriginals should be retained, the court may order exhibits to be returned to the \nparty who offered the exhibits upon the filing of true copies of the exhibits in \nplace of the originals.\n(c) Unless the court orders otherwise, the clerk must continue to have custody of the \nexhibits until the judgment has become final and the deadlines for filing a notice \nof appeal and motion for a new trial have passed, or appeal proceedings have \nterminated.\n(d) If no appeal is taken, after final judgment has been entered and the deadline for \nfiling a notice of appeal and a motion for a new trial have passed, or upon the \nfiling of a stipulation waiving the right to appeal and to a new trial, any party \nmay, upon 21-days’ prior written notice to all parties, withdraw any exhibit \noriginally produced by it unless some other party or person files prior notice with \nthe clerk of a claim to the exhibit. If a notice of claim is filed, the clerk must not \ndeliver the exhibit unless both the party who produced it and the claimant consent \nin writing, or until the court has determined who is entitled to the exhibit.\n(e) If exhibits are not withdrawn within 21 days after the clerk notifies the parties to \nclaim the exhibits, the clerk must destroy or otherwise dispose of the exhibits as \nordered by the court.\n",
+          "pages": [
+            79
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 78,
+      "pageSpan": [
+        78,
+        79
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nvd-civil:81-1",
+      "collectionId": "nvd-civil",
+      "districtId": "nvd",
+      "number": "81-1",
+      "citation": "District of Nevada · Rule 81-1",
+      "title": "REMOVED ACTIONS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-80",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 81-1. REMOVED ACTIONS\nAll pending motions and other requests directed to the state court are automatically \ndenied without prejudice upon removal, and they may be refiled in this court. Motions refiled in \nthis court must include citation to all relevant federal law and must be revised as necessary to \ncomply with this court’s rules.",
+          "pages": [
+            79
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-81",
+          "path": [],
+          "type": "paragraph",
+          "text": "71\nPART III—PATENT PRACTICE\nLPR 1-1. TITLE\nThese are the Local Rules of Practice for Patent Cases before the United States District \nCourt for the District of Nevada.\nLPR 1-2. SCOPE AND CONSTRUCTION\nThese rules supplement the Federal Rules of Civil Procedure and apply to all civil actions \nfiled in or transferred to this court that allege infringement of a utility patent in a complaint, \ncounterclaim, cross-claim, or third-party claim, or that seek a declaratory judgment that a patent \nis not infringed, is invalid, or is unenforceable. These Rules apply to both pre-Leahy-Smith \nAmerica Invents Act (“AIA”) patents and post-AIA patents. For purposes of these Local Patent \nRules, a “pre-AIA” and “post-AIA” patent is defined pursuant to 35 U.S.C. § 100 (note) AIA \nFirst Inventor to File Provisions. The Local Rules of Civil Practice in Part II also apply to these \nactions, except to the extent that they are inconsistent with these Local Patent Rules.\nLPR 1-3. MODIFICATION OF RULES\nThe court may apply all or part of these rules to any case already pending on the effective \ndate of these rules. The court may modify the obligations and deadlines of these rules based on \nthe circumstances of any particular case, including, without limitation, the simplicity or \ncomplexity of the case as shown by the patents, claims, products, processes, or parties involved. \nModifications may be proposed by one or more parties at the mandatory Fed. R. Civ. P. 26(f) \nmeeting (“Initial Scheduling Conference”), and then submitted in the stipulated discovery plan \nand scheduling order. Modifications also may be proposed by request upon a showing of good \ncause. Before submitting any request for a modification, the parties must meet and confer for \npurposes of reaching an agreement, if possible, on any modification.\nLPR 1-4. GENERAL PROVISIONS\n(a) Confidentiality. Discovery and disclosures under these rules cannot be withheld \non the basis of confidentiality absent court order. Not later than 14 days after the \nInitial Scheduling Conference, the parties must file a proposed protective order. \nPending entry of a discovery confidentiality protective order, disclosures deemed \nconfidential by a party must be produced with a confidential designation (e.g., \n“Confidential—Attorneys Eyes Only”), and the disclosure of the information will \nbe limited to each party’s outside attorney of record, including employees of \noutside attorney of record, and used only for litigation purposes.\n(b) Compliance. A party who contends that an opposing party has not complied with \nits disclosure obligations set forth herein is not excused from complying with its \nown disclosure obligations to the best of its ability.\n(c) Patent Ineligibility Motions under 35 U.S.C. § 101. A party moving to dismiss \none or more claims as patent-ineligible under § 101 must demonstrate in its \nmotion, if appropriate, that there is no factual issue, claim construction or \notherwise, that the court need determine before deciding dismissal under ",
+          "pages": [
+            80
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nvd-civil-parsed-v1-f90ed909fa5aa88c",
+      "sourceDocumentId": "parsed-nvd-f90ed909fa5aa88c",
+      "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+      "pageIndex": 79,
+      "pageSpan": [
+        79,
+        80
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    }
+  ],
+  "evidence": [
+    {
+      "number": "1-1",
+      "heading": "LR 1-1. SCOPE AND PURPOSE",
+      "page": 47,
+      "offset": 26,
+      "slices": [
+        {
+          "page": 47,
+          "start": 26,
+          "end": 1896,
+          "sha256": "d9a0a50bafd10d668c41815a1bc2551ce902b6a701682e282f5ba4518f3922fa"
+        }
+      ]
+    },
+    {
+      "number": "3-1",
+      "heading": "LR 3-1. CIVIL COVER SHEET",
+      "page": 47,
+      "offset": 1896,
+      "slices": [
+        {
+          "page": 47,
+          "start": 1896,
+          "end": 2096,
+          "sha256": "7d1bd72e792dfafb4136ef7623c0bedb7d10d1e9a178b479764409321f6469c7"
+        }
+      ]
+    },
+    {
+      "number": "4-1",
+      "heading": "LR 4-1. SERVICE AND ISSUANCE OF PROCESS",
+      "page": 47,
+      "offset": 2096,
+      "slices": [
+        {
+          "page": 47,
+          "start": 2096,
+          "end": 2247,
+          "sha256": "8de6d84cd0fbb6ebee097198dc57927191fee7f132630caba3e4a6d271f9820b"
+        },
+        {
+          "page": 48,
+          "start": 0,
+          "end": 281,
+          "sha256": "32fae071a886ead3ebfc06deac8d0f5fed96a269c9f1ef7019c801ca368129a6"
+        }
+      ]
+    },
+    {
+      "number": "5-1",
+      "heading": "LR 5-1. PROOF OF SERVICE",
+      "page": 48,
+      "offset": 281,
+      "slices": [
+        {
+          "page": 48,
+          "start": 281,
+          "end": 689,
+          "sha256": "79a2ac9fffbd7150abc895b91aba237c24c8e84287e635a2e732c90e83535f99"
+        }
+      ]
+    },
+    {
+      "number": "7-1",
+      "heading": "LR 7-1. STIPULATIONS",
+      "page": 48,
+      "offset": 689,
+      "slices": [
+        {
+          "page": 48,
+          "start": 689,
+          "end": 1394,
+          "sha256": "63a9378ee395ab259a2a59127c79ef897b449ccdb495ffd90824d8fc39c4a2b8"
+        }
+      ]
+    },
+    {
+      "number": "7.1-1",
+      "heading": "LR 7.1-1. CERTIFICATE OF INTERESTED PARTIES",
+      "page": 48,
+      "offset": 1394,
+      "slices": [
+        {
+          "page": 48,
+          "start": 1394,
+          "end": 2298,
+          "sha256": "8071425b18195cbbc40743567bb2806273aa0ad1642a19ecfd98f87fbc4b0c10"
+        },
+        {
+          "page": 49,
+          "start": 0,
+          "end": 416,
+          "sha256": "b5f1fa071a58b91310d2a660258edbf435f78d9958fc16dfa78e3c26be643d6a"
+        }
+      ]
+    },
+    {
+      "number": "7-2",
+      "heading": "LR 7-2. MOTIONS",
+      "page": 49,
+      "offset": 416,
+      "slices": [
+        {
+          "page": 49,
+          "start": 416,
+          "end": 2125,
+          "sha256": "3c33f0fd2f6c21f29e2d08bfe25101d5536e98e27a93246b5665b778af5c648e"
+        },
+        {
+          "page": 50,
+          "start": 0,
+          "end": 1210,
+          "sha256": "bb78c0866034da794d243d22bfc851e07043f0d963cde26d527520dad4ad3b31"
+        }
+      ]
+    },
+    {
+      "number": "7-3",
+      "heading": "LR 7-3. PAGE LIMITS",
+      "page": 50,
+      "offset": 1210,
+      "slices": [
+        {
+          "page": 50,
+          "start": 1210,
+          "end": 2693,
+          "sha256": "dcccab372d743201d0857d75270bf60069e172c130190cf476e1478ca30499b4"
+        },
+        {
+          "page": 51,
+          "start": 0,
+          "end": 3,
+          "sha256": "040316eca5e77dbb2212c1efe8b81cb23bc67ce0ac8cb5c9d902d98bd45ddfa1"
+        }
+      ]
+    },
+    {
+      "number": "7-4",
+      "heading": "LR 7-4. EMERGENCY MOTIONS",
+      "page": 51,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 51,
+          "start": 3,
+          "end": 1654,
+          "sha256": "4ddb14ba0f814d7ad9e39b5684a98680a1129e252231a3306f3ad2366ac792bf"
+        }
+      ]
+    },
+    {
+      "number": "8-1",
+      "heading": "LR 8-1. PLEADING JURISDICTION",
+      "page": 51,
+      "offset": 1654,
+      "slices": [
+        {
+          "page": 51,
+          "start": 1654,
+          "end": 1889,
+          "sha256": "f07d12a971fd9fa34ca67118f3ce253391c0131d4ee3749e3f53be13653175b9"
+        }
+      ]
+    },
+    {
+      "number": "10-1",
+      "heading": "LR 10-1. COPIES",
+      "page": 51,
+      "offset": 1889,
+      "slices": [
+        {
+          "page": 51,
+          "start": 1889,
+          "end": 2212,
+          "sha256": "a918fb440db724d10f16b994f94da644fa960f85a32cb76ff0f200089b490a9a"
+        },
+        {
+          "page": 52,
+          "start": 0,
+          "end": 3,
+          "sha256": "084c799cd551dd1d8d5c5f9a5d593b2e931f5e36122ee5c793c1d08a19839cc0"
+        }
+      ]
+    },
+    {
+      "number": "15-1",
+      "heading": "LR 15-1. AMENDED PLEADINGS",
+      "page": 52,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 52,
+          "start": 3,
+          "end": 558,
+          "sha256": "bdfa364e862d14c42ac3599dc1e084e585d7e530cb05098de1203639650afecb"
+        }
+      ]
+    },
+    {
+      "number": "16-1",
+      "heading": "LR 16-1. SCHEDULING AND CASE MANAGEMENT; TIME AND ISSUANCE OF",
+      "page": 52,
+      "offset": 558,
+      "slices": [
+        {
+          "page": 52,
+          "start": 558,
+          "end": 1971,
+          "sha256": "2f85ed2ef143a755e795878a5c84c20cf2dc9b8a223be8d05bd61099ebbb1f64"
+        },
+        {
+          "page": 53,
+          "start": 0,
+          "end": 190,
+          "sha256": "b4ca6b5c9cb0e2d278916b687644bef2c90150d50c1a45751d243c8dae148bd7"
+        }
+      ]
+    },
+    {
+      "number": "16-2",
+      "heading": "LR 16-2. PRETRIAL CONFERENCES",
+      "page": 53,
+      "offset": 190,
+      "slices": [
+        {
+          "page": 53,
+          "start": 190,
+          "end": 483,
+          "sha256": "ba190a01a064c3ac88c2e07c77b428986e1dc582158553c2923efb39a0751d18"
+        }
+      ]
+    },
+    {
+      "number": "16-3",
+      "heading": "LR 16-3. MOTIONS IN LIMINE, PRETRIAL ORDER, AND TRIAL SETTING",
+      "page": 53,
+      "offset": 483,
+      "slices": [
+        {
+          "page": 53,
+          "start": 483,
+          "end": 2106,
+          "sha256": "eeae9998e92500d4bf6f43a0c2d44152078ea63f612035cff6f6e4c3146c5d0e"
+        },
+        {
+          "page": 54,
+          "start": 0,
+          "end": 1734,
+          "sha256": "343b9c4386848e6ab5d7cd8dff7f6514f410bbc140515fe95651a98360585257"
+        },
+        {
+          "page": 55,
+          "start": 0,
+          "end": 3,
+          "sha256": "420002158111bff8adb3347d84029e480f45e60e1869b454b6adac3345f9f7d4"
+        }
+      ]
+    },
+    {
+      "number": "16-4",
+      "heading": "LR 16-4. FORM OF PRETRIAL ORDER",
+      "page": 55,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 55,
+          "start": 3,
+          "end": 880,
+          "sha256": "2fe557dd62311c046cbcb67772b963334ba42075d96c3915ffcf89b9a18605cb"
+        },
+        {
+          "page": 56,
+          "start": 0,
+          "end": 2036,
+          "sha256": "8027b218dc659d9e8f3a5fa1da7719588a22214ca2510c47a9dfe70948000ac1"
+        },
+        {
+          "page": 57,
+          "start": 0,
+          "end": 1637,
+          "sha256": "83fd05cd4bc7af0b3f05f00e2153bc97c16e5511d71930812525912e90580343"
+        },
+        {
+          "page": 58,
+          "start": 0,
+          "end": 626,
+          "sha256": "20746349619e0e4dfc14c670c19885c69d7b6b4cb42f9eb4923ced79dc8960e6"
+        }
+      ]
+    },
+    {
+      "number": "16-5",
+      "heading": "LR 16-5. SETTLEMENT CONFERENCE AND ALTERNATIVE METHODS OF",
+      "page": 58,
+      "offset": 626,
+      "slices": [
+        {
+          "page": 58,
+          "start": 626,
+          "end": 1581,
+          "sha256": "e2afca4fece8bbe310561bb5febdaf2996bf399ce0968d1093fb6ed8a639471e"
+        },
+        {
+          "page": 59,
+          "start": 0,
+          "end": 3,
+          "sha256": "6169555d9248be7e184f52250129b0d66c9932af74f4ac7bc716c20013fca362"
+        }
+      ]
+    },
+    {
+      "number": "16-6",
+      "heading": "LR 16-6. EARLY NEUTRAL EVALUATION",
+      "page": 59,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 59,
+          "start": 3,
+          "end": 2868,
+          "sha256": "9e774425635dbdc029c2c2d438d48d04118baf94bbb6d88f12c3a9a1869cf225"
+        },
+        {
+          "page": 60,
+          "start": 0,
+          "end": 2053,
+          "sha256": "94e6e96b821868f64bd24e437554ab65b23645f896f3a5398d20046cb5765ceb"
+        },
+        {
+          "page": 61,
+          "start": 0,
+          "end": 716,
+          "sha256": "7f560b991b7cc5a1a2acd5736c388788277706c2dd116bfab104e456c266c26a"
+        }
+      ]
+    },
+    {
+      "number": "22-1",
+      "heading": "LR 22-1. INTERPLEADER ACTIONS",
+      "page": 61,
+      "offset": 716,
+      "slices": [
+        {
+          "page": 61,
+          "start": 716,
+          "end": 1510,
+          "sha256": "ad01709ddbcdcd2e3974f49fda6fbb95bad13cb47055b63fae931566fc73a2a2"
+        }
+      ]
+    },
+    {
+      "number": "26-1",
+      "heading": "LR 26-1. DISCOVERY PLANS AND MANDATORY DISCLOSURES",
+      "page": 61,
+      "offset": 1510,
+      "slices": [
+        {
+          "page": 61,
+          "start": 1510,
+          "end": 2692,
+          "sha256": "ff4d7c1bcbb46fd534575adb1cd41e367ebd34f65da705710b431392acbf87d2"
+        },
+        {
+          "page": 62,
+          "start": 0,
+          "end": 2601,
+          "sha256": "ec3203e6d252b7f95f8cd705d6d34204c1a750448cf174648a2485b411e096f0"
+        },
+        {
+          "page": 63,
+          "start": 0,
+          "end": 1443,
+          "sha256": "93409d737ec58484489af83cc4547c9a6451b47969152fc2bf7fd47988294b79"
+        }
+      ]
+    },
+    {
+      "number": "26-2",
+      "heading": "LR 26-2. TIME FOR COMPLETION OF DISCOVERY WHEN NO SCHEDULING",
+      "page": 63,
+      "offset": 1443,
+      "slices": [
+        {
+          "page": 63,
+          "start": 1443,
+          "end": 1712,
+          "sha256": "415401364ea8bb1460c5f6fde669031841b6d621d7b49a547fe073c490d2890c"
+        },
+        {
+          "page": 64,
+          "start": 0,
+          "end": 3,
+          "sha256": "64459cd36006fa4bb2f5314f2a1ad69c8cbbb95f319c5459b32a9cdc870b54aa"
+        }
+      ]
+    },
+    {
+      "number": "26-3",
+      "heading": "LR 26-3. EXTENSION OF SCHEDULED DEADLINES",
+      "page": 64,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 64,
+          "start": 3,
+          "end": 1162,
+          "sha256": "40d8820c3a5a9cf4cb68a2ea8a515f1ddf499bb50203c4d0c928f0630f2c2321"
+        }
+      ]
+    },
+    {
+      "number": "26-4",
+      "heading": "LR 26-4. RESPONSES TO WRITTEN DISCOVERY",
+      "page": 64,
+      "offset": 1162,
+      "slices": [
+        {
+          "page": 64,
+          "start": 1162,
+          "end": 1377,
+          "sha256": "8712142c8860501ded8eed57df17d8ca5d076b65799a019e62a0db6daf6bc13e"
+        }
+      ]
+    },
+    {
+      "number": "26-5",
+      "heading": "LR 26-5. DEMAND FOR PRIOR DISCOVERY",
+      "page": 64,
+      "offset": 1377,
+      "slices": [
+        {
+          "page": 64,
+          "start": 1377,
+          "end": 1801,
+          "sha256": "8b5002dfec08f337693ba757aa3784fbc0b8d243edc7475202d1b5bed757fa7c"
+        }
+      ]
+    },
+    {
+      "number": "26-6",
+      "heading": "LR 26-6. DISCOVERY MOTIONS",
+      "page": 64,
+      "offset": 1801,
+      "slices": [
+        {
+          "page": 64,
+          "start": 1801,
+          "end": 2414,
+          "sha256": "7bafd9b5d6bebe134f6f272475f4dec83ec7f758265d0625eb0ac5f6d9dc85ac"
+        },
+        {
+          "page": 65,
+          "start": 0,
+          "end": 380,
+          "sha256": "665b2a0305282fe5325ae6fa81995d8c156c71e8dfdbb014a272e057dbb6ba83"
+        }
+      ]
+    },
+    {
+      "number": "26-7",
+      "heading": "LR 26-7. DISCOVERY PAPERS",
+      "page": 65,
+      "offset": 380,
+      "slices": [
+        {
+          "page": 65,
+          "start": 380,
+          "end": 860,
+          "sha256": "187edc483c70d02134541a995deccdc5289b3fcd5f737ac295db1729533036b4"
+        }
+      ]
+    },
+    {
+      "number": "30-1",
+      "heading": "LR 30-1. DEPOSITIONS",
+      "page": 65,
+      "offset": 860,
+      "slices": [
+        {
+          "page": 65,
+          "start": 860,
+          "end": 1024,
+          "sha256": "f80729f111481ed0a92c39a076d1938f29d4f4ce6331ee0d300f90a79b6c9f00"
+        }
+      ]
+    },
+    {
+      "number": "38-1",
+      "heading": "LR 38-1. JURY DEMAND",
+      "page": 65,
+      "offset": 1024,
+      "slices": [
+        {
+          "page": 65,
+          "start": 1024,
+          "end": 1255,
+          "sha256": "849b06614abdd67e6e69037bb81ab8032184cbe1069ae0c02a9d7ff6465084c4"
+        }
+      ]
+    },
+    {
+      "number": "41-1",
+      "heading": "LR 41-1. DISMISSAL FOR WANT OF PROSECUTION",
+      "page": 65,
+      "offset": 1255,
+      "slices": [
+        {
+          "page": 65,
+          "start": 1255,
+          "end": 1558,
+          "sha256": "f7cc6021e98696cb09ed7addb6b8627b83b24c45ae68009a28bcdf2b409db89c"
+        }
+      ]
+    },
+    {
+      "number": "42-1",
+      "heading": "LR 42-1. NOTICING THE COURT ON RELATED CASES; CONSOLIDATION OF",
+      "page": 65,
+      "offset": 1558,
+      "slices": [
+        {
+          "page": 65,
+          "start": 1558,
+          "end": 2342,
+          "sha256": "6cc9cd7a2b3cd692a6a2b4d0790f7d237ecfa53b89f575f00906379073803329"
+        },
+        {
+          "page": 66,
+          "start": 0,
+          "end": 2405,
+          "sha256": "7ff58f656180b3797fb00c3e7147da70820d48942ac1e610e066e858ac924c99"
+        }
+      ]
+    },
+    {
+      "number": "43-1",
+      "heading": "LR 43-1. USE OF INTERPRETERS IN COURT PROCEEDINGS",
+      "page": 66,
+      "offset": 2405,
+      "slices": [
+        {
+          "page": 66,
+          "start": 2405,
+          "end": 3063,
+          "sha256": "fec7f3588341a8a2e833e3ec358f99b04f11e013236f0cfea2ae8aa1abac8120"
+        },
+        {
+          "page": 67,
+          "start": 0,
+          "end": 3,
+          "sha256": "1326faec3eb42dc72ddffe46daf3940b932f48b9799f6cbf28e80504e7b34958"
+        }
+      ]
+    },
+    {
+      "number": "48-1",
+      "heading": "LR 48-1. CONTACT WITH JURORS PROHIBITED",
+      "page": 67,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 67,
+          "start": 3,
+          "end": 232,
+          "sha256": "0296a80f011a814a7385d0e8016fd6d972bf444ca552da2d056304d1e2b48e58"
+        }
+      ]
+    },
+    {
+      "number": "54-1",
+      "heading": "LR 54-1. COSTS OTHER THAN ATTORNEY’S FEES",
+      "page": 67,
+      "offset": 232,
+      "slices": [
+        {
+          "page": 67,
+          "start": 232,
+          "end": 2208,
+          "sha256": "75b2d38802f009b51b40f7766ecbb4099b0f3145627b8a6aea4dd880978d6911"
+        }
+      ]
+    },
+    {
+      "number": "54-2",
+      "heading": "LR 54-2. PROCESS SERVER’S FEES",
+      "page": 67,
+      "offset": 2208,
+      "slices": [
+        {
+          "page": 67,
+          "start": 2208,
+          "end": 2299,
+          "sha256": "ad4505d34b067ddbb6cc1b6a350d240421ede5ead6b70d382d73bea0e484c42a"
+        },
+        {
+          "page": 68,
+          "start": 0,
+          "end": 3,
+          "sha256": "1a62e878f334291869f88f4b71f8c157ee774b6bdb11d2ca86cccf2b48cef87b"
+        }
+      ]
+    },
+    {
+      "number": "54-3",
+      "heading": "LR 54-3. TRANSCRIPTS OF COURT PROCEEDINGS",
+      "page": 68,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 68,
+          "start": 3,
+          "end": 438,
+          "sha256": "d7ca97939618b911b479780bebab71999000c4e634ab3f2f8f56efdf333e7ffa"
+        }
+      ]
+    },
+    {
+      "number": "54-4",
+      "heading": "LR 54-4. DEPOSITION COSTS",
+      "page": 68,
+      "offset": 438,
+      "slices": [
+        {
+          "page": 68,
+          "start": 438,
+          "end": 1484,
+          "sha256": "db944f5a167d4c22d415e235ffc558edbafe9617cb2254ff50b5791abad295a7"
+        }
+      ]
+    },
+    {
+      "number": "54-5",
+      "heading": "LR 54-5. WITNESS FEES, MILEAGE, AND SUBSISTENCE",
+      "page": 68,
+      "offset": 1484,
+      "slices": [
+        {
+          "page": 68,
+          "start": 1484,
+          "end": 2187,
+          "sha256": "5ee193aa8077f9782e27bee65034a95a15707ad87fdd50a9a104fd890341f62d"
+        },
+        {
+          "page": 69,
+          "start": 0,
+          "end": 698,
+          "sha256": "4a7ac243d1c9d9c2536fdfde52e7e38f37692533c5d0c0fca934a32ce568b2c3"
+        }
+      ]
+    },
+    {
+      "number": "54-6",
+      "heading": "LR 54-6. EXEMPLIFICATION, COPIES OF PAPERS, AND DISBURSEMENTS",
+      "page": 69,
+      "offset": 698,
+      "slices": [
+        {
+          "page": 69,
+          "start": 698,
+          "end": 1967,
+          "sha256": "83b81500d544be468079e24b67f233ec1f27955ee73f1c3023682c1e124ea813"
+        },
+        {
+          "page": 70,
+          "start": 0,
+          "end": 3,
+          "sha256": "95cf32708a31caa478a0e9141103ac567d85e5186e697e7e0c81f75589999e31"
+        }
+      ]
+    },
+    {
+      "number": "54-7",
+      "heading": "LR 54-7. MAPS, CHARTS, MODELS, PHOTOGRAPHS, SUMMARIES,",
+      "page": 70,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 70,
+          "start": 3,
+          "end": 518,
+          "sha256": "b474e01d8b6bd3bbefa6906d618d420c28fccb61fb04246e97cacc6594ae62a0"
+        }
+      ]
+    },
+    {
+      "number": "54-8",
+      "heading": "LR 54-8. FEES OF RECEIVERS AND COMMISSIONERS",
+      "page": 70,
+      "offset": 518,
+      "slices": [
+        {
+          "page": 70,
+          "start": 518,
+          "end": 653,
+          "sha256": "1be45bcc01effb79498313baaaa6fc60f5bb63545cec0dfc58d96bda9d222edc"
+        }
+      ]
+    },
+    {
+      "number": "54-9",
+      "heading": "LR 54-9. PREMIUMS ON UNDERTAKINGS AND BONDS",
+      "page": 70,
+      "offset": 653,
+      "slices": [
+        {
+          "page": 70,
+          "start": 653,
+          "end": 962,
+          "sha256": "a185ac49b24dbb581f9251cdf83462c9e28eb8b66fc62caf4af6bfd7b1ce6bf7"
+        }
+      ]
+    },
+    {
+      "number": "54-10",
+      "heading": "LR 54-10. REMOVED CASES",
+      "page": 70,
+      "offset": 962,
+      "slices": [
+        {
+          "page": 70,
+          "start": 962,
+          "end": 1102,
+          "sha256": "c97de9c27668a3971543c41179d887892a183b82080ad79738b135949c1e3d3e"
+        }
+      ]
+    },
+    {
+      "number": "54-11",
+      "heading": "LR 54-11. COSTS NOT ORDINARILY ALLOWED",
+      "page": 70,
+      "offset": 1102,
+      "slices": [
+        {
+          "page": 70,
+          "start": 1102,
+          "end": 1623,
+          "sha256": "ca54b4154f9fbb67e5d3217a6f4441c6f3da7916dc15f90c5962f0a4a5e73028"
+        },
+        {
+          "page": 71,
+          "start": 0,
+          "end": 80,
+          "sha256": "c611caf80ecc9968b6b0b8a7cd3ce6333ee938221947442990c1beb10309fced"
+        }
+      ]
+    },
+    {
+      "number": "54-12",
+      "heading": "LR 54-12. REVIEW OF COSTS",
+      "page": 71,
+      "offset": 80,
+      "slices": [
+        {
+          "page": 71,
+          "start": 80,
+          "end": 667,
+          "sha256": "5f7bc6322ef5ab6e090791714ff2df2aa5dabb7a999ede589411e5a3ea5a03dd"
+        }
+      ]
+    },
+    {
+      "number": "54-13",
+      "heading": "LR 54-13. APPELLATE COSTS",
+      "page": 71,
+      "offset": 667,
+      "slices": [
+        {
+          "page": 71,
+          "start": 667,
+          "end": 1016,
+          "sha256": "7fd7c088f94c07d658f089f8df3510ea0483641549901a1ae3b87b3a210d9d41"
+        }
+      ]
+    },
+    {
+      "number": "54-14",
+      "heading": "LR 54-14. MOTIONS FOR ATTORNEY’S FEES",
+      "page": 71,
+      "offset": 1016,
+      "slices": [
+        {
+          "page": 71,
+          "start": 1016,
+          "end": 1780,
+          "sha256": "1c4fa892d99a0b7157ffbc749f312f08d0a55629e7d2fefabb01caf6a5dee776"
+        },
+        {
+          "page": 72,
+          "start": 0,
+          "end": 1412,
+          "sha256": "ff34aaf298f78b4bce362c6a8842fd1da045c961118b5a82887e03faac8fd26c"
+        }
+      ]
+    },
+    {
+      "number": "56-1",
+      "heading": "LR 56-1. MOTIONS FOR SUMMARY JUDGMENT",
+      "page": 72,
+      "offset": 1412,
+      "slices": [
+        {
+          "page": 72,
+          "start": 1412,
+          "end": 1891,
+          "sha256": "24825c37ce82158c608025ff3d9ef36ceaffe28e12e51633d59d08cfebc597ce"
+        },
+        {
+          "page": 73,
+          "start": 0,
+          "end": 3,
+          "sha256": "eecd262c3ecab667b61ebb70835f3b181a1d1530d3ebc0ef99a3a8dc3d5b193f"
+        }
+      ]
+    },
+    {
+      "number": "59-1",
+      "heading": "LR 59-1. MOTIONS FOR RECONSIDERATION OF INTERLOCUTORY ORDERS",
+      "page": 73,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 73,
+          "start": 3,
+          "end": 1317,
+          "sha256": "8ec83fdd56cadb4684f526e67f77d49d527d018964ee1e91efb4baf8a8a1fcb8"
+        }
+      ]
+    },
+    {
+      "number": "65.1-1",
+      "heading": "LR 65.1-1. QUALIFICATION OF SURETY",
+      "page": 73,
+      "offset": 1317,
+      "slices": [
+        {
+          "page": 73,
+          "start": 1317,
+          "end": 2152,
+          "sha256": "2b8450d33d9655c24dee16dfff4e6de3a0435114acd33b6e907405e4b4fa73a8"
+        }
+      ]
+    },
+    {
+      "number": "65.1-2",
+      "heading": "LR 65.1-2. DEPOSIT OF MONEY OR UNITED STATES OBLIGATION IN LIEU OF",
+      "page": 73,
+      "offset": 2152,
+      "slices": [
+        {
+          "page": 73,
+          "start": 2152,
+          "end": 2400,
+          "sha256": "99485cbe31eb86674fae2931c8b1dbf0c0b41f9178f128a1cd9fbfa444978017"
+        },
+        {
+          "page": 74,
+          "start": 0,
+          "end": 216,
+          "sha256": "e471cb5a7dff42a144d28dea1932e4af59177c191432d7b9100316cd4618539f"
+        }
+      ]
+    },
+    {
+      "number": "65.1-3",
+      "heading": "LR 65.1-3. APPROVAL",
+      "page": 74,
+      "offset": 216,
+      "slices": [
+        {
+          "page": 74,
+          "start": 216,
+          "end": 528,
+          "sha256": "391f76c4865675d45c9d15a39ddd7a4f15d32e3bf1839f0f1551622a65d460b4"
+        }
+      ]
+    },
+    {
+      "number": "65.1-4",
+      "heading": "LR 65.1-4. PERSONS NOT TO ACT AS SURETIES",
+      "page": 74,
+      "offset": 528,
+      "slices": [
+        {
+          "page": 74,
+          "start": 528,
+          "end": 780,
+          "sha256": "f1f6f2f670bc68ad95a958e327f36eb2771b64af6916eaa73e57182c5ceec27e"
+        }
+      ]
+    },
+    {
+      "number": "65.1-5",
+      "heading": "LR 65.1-5. JUDGMENT AGAINST SURETIES",
+      "page": 74,
+      "offset": 780,
+      "slices": [
+        {
+          "page": 74,
+          "start": 780,
+          "end": 1346,
+          "sha256": "883e63bca3e40551d57d53246d897cd3696e0991e34bc395ab65e9769bc28b98"
+        }
+      ]
+    },
+    {
+      "number": "65.1-6",
+      "heading": "LR 65.1-6. FURTHER SECURITY OR JUSTIFICATION OF PERSONAL SURETIES",
+      "page": 74,
+      "offset": 1346,
+      "slices": [
+        {
+          "page": 74,
+          "start": 1346,
+          "end": 1633,
+          "sha256": "bd84239e8a9cb57a780e4f3257858715cbe5c03671daaad2853f631d291efd0c"
+        }
+      ]
+    },
+    {
+      "number": "66-1",
+      "heading": "LR 66-1. RECEIVERS IN GENERAL",
+      "page": 74,
+      "offset": 1633,
+      "slices": [
+        {
+          "page": 74,
+          "start": 1633,
+          "end": 1827,
+          "sha256": "44ca4a2ab75fd18546ace536430426aa9cd2a22ac9c1bc136cf020a6f761dbae"
+        }
+      ]
+    },
+    {
+      "number": "66-2",
+      "heading": "LR 66-2. NOTICE; TEMPORARY RECEIVER",
+      "page": 74,
+      "offset": 1827,
+      "slices": [
+        {
+          "page": 74,
+          "start": 1827,
+          "end": 2151,
+          "sha256": "4ed57aefca7b5b0a3f21bc09a0d08577d296f6bd75943ee41028b02c29765190"
+        },
+        {
+          "page": 75,
+          "start": 0,
+          "end": 3,
+          "sha256": "979b894f2d91bf199766571d58024f020d1a44a417da5f48e1fa1cdf554a14f5"
+        }
+      ]
+    },
+    {
+      "number": "66-3",
+      "heading": "LR 66-3. REVIEW OF APPOINTMENT OF TEMPORARY RECEIVER",
+      "page": 75,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 75,
+          "start": 3,
+          "end": 343,
+          "sha256": "ec780961e86c4fd43d1c0cf68b18d803b4814674dfcb6441b286c3eece00b34b"
+        }
+      ]
+    },
+    {
+      "number": "66-4",
+      "heading": "LR 66-4. REPORTS OF RECEIVERS",
+      "page": 75,
+      "offset": 343,
+      "slices": [
+        {
+          "page": 75,
+          "start": 343,
+          "end": 1429,
+          "sha256": "33584e4015ec8ce007882c724fed5d086847639e7a6712f36e98b47497bb414a"
+        }
+      ]
+    },
+    {
+      "number": "66-5",
+      "heading": "LR 66-5. NOTICE OF HEARINGS",
+      "page": 75,
+      "offset": 1429,
+      "slices": [
+        {
+          "page": 75,
+          "start": 1429,
+          "end": 1959,
+          "sha256": "650f82100da839aa31a444a8a456f819ee5ac792be586e828a02855e6a3d2340"
+        },
+        {
+          "page": 76,
+          "start": 0,
+          "end": 69,
+          "sha256": "7d936528fdbc461606892ed662e8376b885b0aaf891fd4ecac154015625a9895"
+        }
+      ]
+    },
+    {
+      "number": "66-6",
+      "heading": "LR 66-6. EMPLOYMENT OF ATTORNEYS, ACCOUNTANTS, AND",
+      "page": 76,
+      "offset": 69,
+      "slices": [
+        {
+          "page": 76,
+          "start": 69,
+          "end": 744,
+          "sha256": "8d57b8f52edf14e6ac44c38826b6b987e49b2770db1a57b38c25ea8a76cd0090"
+        }
+      ]
+    },
+    {
+      "number": "66-7",
+      "heading": "LR 66-7. PERSONS PROHIBITED FROM ACTING AS RECEIVERS",
+      "page": 76,
+      "offset": 744,
+      "slices": [
+        {
+          "page": 76,
+          "start": 744,
+          "end": 1009,
+          "sha256": "981940d1b324dd328a27cfdb9ce9826fba3cc6ff24f3861ca793937efa0a50f0"
+        }
+      ]
+    },
+    {
+      "number": "66-8",
+      "heading": "LR 66-8. DEPOSIT OF FUNDS",
+      "page": 76,
+      "offset": 1009,
+      "slices": [
+        {
+          "page": 76,
+          "start": 1009,
+          "end": 1210,
+          "sha256": "c37988a2891028733af75a7bbeb353c70d798adfdf641aea4453099f3809aa42"
+        }
+      ]
+    },
+    {
+      "number": "66-9",
+      "heading": "LR 66-9. UNDERTAKING OF RECEIVER",
+      "page": 76,
+      "offset": 1210,
+      "slices": [
+        {
+          "page": 76,
+          "start": 1210,
+          "end": 1381,
+          "sha256": "ab65d053bfc3818158a9fe33abfdda91caf8f39d362ed2686dc5215c59c427ad"
+        }
+      ]
+    },
+    {
+      "number": "67-1",
+      "heading": "LR 67-1. DEPOSIT AND INVESTMENT OF FUNDS IN THE REGISTRY",
+      "page": 76,
+      "offset": 1381,
+      "slices": [
+        {
+          "page": 76,
+          "start": 1381,
+          "end": 2120,
+          "sha256": "6c7af21e235698f5cb18d25f844236dc511ba179129adc79141178408d8ef9d1"
+        },
+        {
+          "page": 77,
+          "start": 0,
+          "end": 777,
+          "sha256": "9e8f788abf7f00bdb6caed376991464a19a828d82ef764ab407399db60d9176b"
+        }
+      ]
+    },
+    {
+      "number": "67-2",
+      "heading": "LR 67-2. INVESTMENT OF FUNDS ON DEPOSIT",
+      "page": 77,
+      "offset": 777,
+      "slices": [
+        {
+          "page": 77,
+          "start": 777,
+          "end": 1772,
+          "sha256": "b26d19b2e900811bd55e7e22cf52f3aeafe97e933e52d03577023ed8e45c43a1"
+        },
+        {
+          "page": 78,
+          "start": 0,
+          "end": 1775,
+          "sha256": "bfbcf36c18993e8dec033940892d70f7e483c012b0c0a87c7d66b1ca43eb9249"
+        }
+      ]
+    },
+    {
+      "number": "77-1",
+      "heading": "LR 77-1. JUDGMENTS AND ORDERS GRANTABLE BY THE CLERK",
+      "page": 78,
+      "offset": 1775,
+      "slices": [
+        {
+          "page": 78,
+          "start": 1775,
+          "end": 2273,
+          "sha256": "d37cfe0de10ea095494fe64eba216385caec187b0699ab09fe1b552f7c5eb2f0"
+        },
+        {
+          "page": 79,
+          "start": 0,
+          "end": 1298,
+          "sha256": "e9e9f5b91b1099aa053ad9b96d4c5d682c604a2a2af9a9ada0b54f937c57939c"
+        }
+      ]
+    },
+    {
+      "number": "78-1",
+      "heading": "LR 78-1. ORAL ARGUMENT",
+      "page": 79,
+      "offset": 1298,
+      "slices": [
+        {
+          "page": 79,
+          "start": 1298,
+          "end": 1710,
+          "sha256": "0f1e66c71ddfbdd84f486a2a1eda2f4cf649ec4b36bd944120a99d6dcee840db"
+        }
+      ]
+    },
+    {
+      "number": "79-1",
+      "heading": "LR 79-1. FILES AND EXHIBITS: CUSTODY AND WITHDRAWAL",
+      "page": 79,
+      "offset": 1710,
+      "slices": [
+        {
+          "page": 79,
+          "start": 1710,
+          "end": 2061,
+          "sha256": "50ae3af6d505c11e55031e4c60a6c6924c197823c10a77bfa977c6b5decb577a"
+        },
+        {
+          "page": 80,
+          "start": 0,
+          "end": 1478,
+          "sha256": "415f164a6436954a578ec178f79f355a790c48c42ee24ebe60c2ac4c77c5df65"
+        }
+      ]
+    },
+    {
+      "number": "81-1",
+      "heading": "LR 81-1. REMOVED ACTIONS",
+      "page": 80,
+      "offset": 1478,
+      "slices": [
+        {
+          "page": 80,
+          "start": 1478,
+          "end": 1816,
+          "sha256": "5c972f5ec64a2e2e1d538ea9c1d14815d436bd0a51bd4b2d5238ea1bc622f4cc"
+        },
+        {
+          "page": 81,
+          "start": 0,
+          "end": 3024,
+          "sha256": "97781d9f1bec04be4b82eb476cace22238b401307ee73a342f8c1a42799a45a1"
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "startPage": 47,
+    "startOffset": 26,
+    "endPage": 81,
+    "endOffset": 3024,
+    "ruleCount": 69,
+    "tocReconciled": false,
+    "editorialReviewComplete": false,
+    "currencyReviewed": false,
+    "flags": [
+      "Source extraction contains unresolved characters; consult the original publication."
+    ],
+    "excluded": "Source material outside the recorded range remains available in the district source library."
+  },
+  "transcriptionSha256": "fb89423c8efa2a16c2a578f05520f4653a7a88ff84b8532065bd66c221d19fc9"
+}

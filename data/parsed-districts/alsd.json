@@ -1,0 +1,2159 @@
+{
+  "version": 1,
+  "reviewStatus": "parsed-draft",
+  "districtId": "alsd",
+  "sourceDocument": {
+    "id": "e3b7d7c414fe29ce",
+    "title": "Local Rules",
+    "format": "pdf",
+    "role": "primary",
+    "sourceUrl": "https://www.alsd.uscourts.gov/sites/alsd/files/local-rules.pdf",
+    "sha256": "e3b7d7c414fe29cecc4ca7a26b0a777d34c514f03dfb37fa67cfea986e8bbf06",
+    "bytes": 2793169,
+    "retrievedAt": "2026-09-07T00:00:53.388096+00:00",
+    "snapshotPath": "sources/district-snapshots/e3b7d7c414fe29cecc4ca7a26b0a777d34c514f03dfb37fa67cfea986e8bbf06.pdf",
+    "textPath": "data/source-library/e3b7d7c414fe29cecc4ca7a26b0a777d34c514f03dfb37fa67cfea986e8bbf06.json",
+    "pdfPath": "data/source-pdfs/e3b7d7c414fe29cecc4ca7a26b0a777d34c514f03dfb37fa67cfea986e8bbf06.pdf",
+    "pageCount": 155,
+    "reviewStatus": "source-document-only",
+    "blankTextPages": 0
+  },
+  "collection": {
+    "id": "alsd-civil",
+    "name": "Southern District of Alabama Local Rules",
+    "shortName": "Local rules · draft",
+    "districtId": "alsd",
+    "scopeNote": "Civil and generally applicable local rules; unparsed supplements remain in the source library. Rule boundaries and transcription are drafts. Embedded notes, forms, and running headers may remain within rule text; subsection anchors and field-separated notes are not yet reviewed."
+  },
+  "provisions": [
+    {
+      "id": "alsd-civil:1",
+      "collectionId": "alsd-civil",
+      "districtId": "alsd",
+      "number": "1",
+      "citation": "Southern District of Alabama · Rule 1",
+      "title": "Scope of Rules",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L.R. 1. Scope of Rules\nThe Civil Rules set forth in Part B govern all civil proceedings in this District.\nII. COMMENCING AN ACTION; SERVICE OF PROCESS AND PAPERS\n",
+          "pages": [
+            34
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "alsd-civil-parsed-v1-e3b7d7c414fe29ce",
+      "sourceDocumentId": "parsed-alsd-e3b7d7c414fe29ce",
+      "sourceUrl": "https://www.alsd.uscourts.gov/sites/alsd/files/local-rules.pdf",
+      "pageIndex": 34,
+      "pageSpan": [
+        34,
+        34
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "alsd-civil:3",
+      "collectionId": "alsd-civil",
+      "districtId": "alsd",
+      "number": "3",
+      "citation": "Southern District of Alabama · Rule 3",
+      "title": "Commencing an Action",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L.R. 3. Commencing an Action\n(a) Civil Cover Sheet. A Civil Cover Sheet (AO Form JS 44) must accompany \neach civil action or notice of removal presented for filing.\n(b) Civil Case Assignments. Except as provided in General Local Rule 73(c), \nall civil cases are randomly assigned to both a District Judge and a Magistrate \nJudge. As provided in General Local Rule 73(b), the parties may in any case \nconsent to the Magistrate Judge’s jurisdiction.\n(c) Assigning Related Actions. Where the Civil Cover Sheet discloses a \npending related civil action, the new civil action will be assigned to the same \nJudges as the pending action. Factors to be considered in determining whether \nthe actions are related include whether the actions arise from substantially the \nsame transaction or events or involve substantially the same parties or \nproperty. The Judge to whom the action with the lower case number is assigned \nwill resolve any dispute as to whether the actions are related.\n(d) Re-Filed Actions. Whenever an action terminated by entry of a notice or \norder of dismissal is re-filed without a substantial change in issues or parties, it \nshall be assigned or transferred to the Judges to whom the original action was \nassigned, unless otherwise ordered by the Chief Judge.\n",
+          "pages": [
+            34
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "alsd-civil-parsed-v1-e3b7d7c414fe29ce",
+      "sourceDocumentId": "parsed-alsd-e3b7d7c414fe29ce",
+      "sourceUrl": "https://www.alsd.uscourts.gov/sites/alsd/files/local-rules.pdf",
+      "pageIndex": 34,
+      "pageSpan": [
+        34,
+        34
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "alsd-civil:4",
+      "collectionId": "alsd-civil",
+      "districtId": "alsd",
+      "number": "4",
+      "citation": "Southern District of Alabama · Rule 4",
+      "title": "Service of Process",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L.R. 4. Service of Process\n(a) Unless otherwise ordered by the Court, the following procedures for service \nof process shall be followed in this District:\n(1) Service by Summons. If service is completed by summons, the party or \nperson making service shall file proof thereof within seven (7) days of the date \nof service.",
+          "pages": [
+            34
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "31\n(2) Waiver of Service. If service is waived, Plaintiff shall file the waiver of \nservice with the Court within seven (7) days after receipt of the waiver.\n(3) Notice of Service Attempt. If within forty-five (45) days after the filing \nof the Complaint, Plaintiff has neither completed service by summons nor \nreceived a waiver of service, Plaintiff shall file a notice describing the action \ntaken by Plaintiff to complete service and the results of those efforts.\n(b) Service Made by the Court. When the Court orders service under Fed.\nR. Civ. P. 4(c)(3), the Court shall utilize the procedures set forth in Standing \nOrder No. 17 to ensure that service is completed in the most efficient and cost￾effective manner.\n",
+          "pages": [
+            35
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "alsd-civil-parsed-v1-e3b7d7c414fe29ce",
+      "sourceDocumentId": "parsed-alsd-e3b7d7c414fe29ce",
+      "sourceUrl": "https://www.alsd.uscourts.gov/sites/alsd/files/local-rules.pdf",
+      "pageIndex": 34,
+      "pageSpan": [
+        34,
+        35
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "alsd-civil:5",
+      "collectionId": "alsd-civil",
+      "districtId": "alsd",
+      "number": "5",
+      "citation": "Southern District of Alabama · Rule 5",
+      "title": "Filing Discovery Materials and Exhibits",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L.R. 5. Filing Discovery Materials and Exhibits\n(a) Discovery Materials Filed with Motions. If discovery materials are \ngermane to any motion or response, only the relevant portions of the material \nshall be filed with the motion or response.\n(b) Notice to Clerk of Tendered Discovery. Whenever any discovery\nmaterial is served, counsel shall contemporaneously file a notice identifying the \ndate of service and the nature of the material.\n(c) Duties of Custodian of Discovery. During the pendency of any action, \nthe custodian of any discovery material shall provide all other parties \nreasonable access to the material and an opportunity to duplicate the material \nat the expense of the copying party. No other person may obtain a copy of any \ndiscovery material from its custodian except on motion and with leave of Court, \nupon payment of the expense of the copy.\nIII. PLEADINGS AND MOTIONS\n",
+          "pages": [
+            35
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "alsd-civil-parsed-v1-e3b7d7c414fe29ce",
+      "sourceDocumentId": "parsed-alsd-e3b7d7c414fe29ce",
+      "sourceUrl": "https://www.alsd.uscourts.gov/sites/alsd/files/local-rules.pdf",
+      "pageIndex": 35,
+      "pageSpan": [
+        35,
+        35
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "alsd-civil:7",
+      "collectionId": "alsd-civil",
+      "districtId": "alsd",
+      "number": "7",
+      "citation": "Southern District of Alabama · Rule 7",
+      "title": "Form of Motions and Other Papers",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L.R. 7. Form of Motions and Other Papers\n(a) Form of Motion. Every motion must state the statute, rule, or legal or \nequitable principle pursuant to which it is made.\n(b) Movant’s Supporting Materials. Except as ordered by the Court, any \nmotion filed pursuant to Fed. R. Civ. P. 12(b) or 56 must be supported by a brief. \nFor other motions, supporting briefs are required where necessary to set forth \nthe legal and factual basis for the relief sought. A supporting brief may be \nincluded within the body of the motion. Absent Court order otherwise, any \nbrief, exhibit, or other supporting paper must be filed contemporaneously with ",
+          "pages": [
+            35
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-37",
+          "path": [],
+          "type": "paragraph",
+          "text": "32\nthe motion. Failure to file a brief in support of a motion under Fed. R. Civ. P. \n12(b) or 56 is sufficient cause to deny the motion, and failure to file a brief may \nbe sufficient cause to deny any other motion.\n(c) Non-Movant’s Response. Unless the Court orders otherwise, the non￾movant must file any brief, exhibit, or other paper in opposition to a motion, \nexcept a motion under Fed. R. Civ. P. 56, within fourteen (14) days of service of \nthe motion. Failure to file a brief in opposition to any motion, other than one \nunder Fed. R. Civ. P. 12(b) or 56, may be sufficient cause to grant the motion.\n(d) Movant’s Reply. Unless the Court orders otherwise, any reply in support \nof a motion, except a motion under Fed. R. Civ. P. 56, must be filed within seven \n(7) days of service of the non-movant’s response.\n(e) Length of Briefs. Principal briefs in support of, or in opposition to, any \nmotion must not exceed thirty (30) pages, and reply briefs must not exceed \nfifteen (15) pages. These limitations exclude any caption, cover page, table of \ncontents, table of authorities, and signature block. No brief exceeding these \npage limitations may be filed unless the Court has previously granted leave to \nfile a brief in excess of these limits.\n(f) Citations.\n(1) This Court does not prohibit or restrict the citation of unreported or non￾precedential opinions, decisions, orders, judgments, or other written \ndispositions.\n(2) If a party cites a judicial opinion, order, judgment, or other written \ndisposition that is not available in a publicly accessible electronic database, \nthe party must file and serve a copy of the document with the brief or other \npaper in which it is cited.\n(3) If pertinent and significant authority comes to a party’s notice after the \nbriefs have been filed, but before decision, a party may promptly advise the \nCourt by notice setting forth the citations and stating the reason the \nauthority was not cited in the party’s brief. The notice must specifically refer \neither to a page of the brief(s) already filed or to a point argued orally. The \nnotice may not exceed two (2) pages and must not present a new argument. \nNo response may be filed unless the presiding Judge so authorizes.\n(g) Courtesy Copy of Supporting Papers. If a party’s exhibits in support \nof, or in opposition to, a motion exceed fifty (50) pages in the aggregate, that \nparty must submit a courtesy copy to chambers. The courtesy copy must be \nprinted from PACER (i.e., after electronic filing) so that the CM/ECF PDF ",
+          "pages": [
+            36
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-38",
+          "path": [],
+          "type": "paragraph",
+          "text": "33\nheaders, which contain the case number, docket number, and page number,\nappear at the top of every page. Additionally, where exhibits are numerous, it \nis helpful to the Court to receive well-organized, tabbed binders of double-sided \ncopies, along with an index or table of contents.\n(h) Oral Argument. In its discretion, the Court may rule on any motion \nwithout oral argument. Oral argument requests must contain specific reasons \nwhy oral argument would be helpful. Unless otherwise ordered by the Court, \noral arguments will not exceed thirty (30) minutes, apportioned among the \nparticipants as appropriate.\n(i) Modification of Provisions in Particular Cases. The Court in any case \nmay provide by order or other notice to the parties that different or additional \nprovisions regarding motion practice apply.\n",
+          "pages": [
+            37
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "alsd-civil-parsed-v1-e3b7d7c414fe29ce",
+      "sourceDocumentId": "parsed-alsd-e3b7d7c414fe29ce",
+      "sourceUrl": "https://www.alsd.uscourts.gov/sites/alsd/files/local-rules.pdf",
+      "pageIndex": 35,
+      "pageSpan": [
+        35,
+        37
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "alsd-civil:7.1",
+      "collectionId": "alsd-civil",
+      "districtId": "alsd",
+      "number": "7.1",
+      "citation": "Southern District of Alabama · Rule 7.1",
+      "title": "Disclosure Statements",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-38",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L.R. 7.1. Disclosure Statements\n(a) All non-governmental artificial entities appearing as parties or amici curiae\nshall file a Disclosure Statement along with the initial filing on behalf of that \nparty or amicus. Where filing the Disclosure Statement with the initial filing is \nimpossible or impracticable, it shall be filed within seven (7) days after the \ninitial filing, or within such other time as the Court may direct.\n(b) The Disclosure Statement shall identify the represented entity’s general \nnature and shall identify all parents, subsidiaries, partners, members, \nmanagers, trustees, affiliates, and similarly related persons and entities. \nMembers of a trade association or professional association need not be \nidentified. For purposes of this Rule, an “affiliate” is an entity that directly, or \nindirectly through one or more intermediaries, controls, is controlled by, or is \nunder common control with, the specified entity; a “parent” is an affiliate that \ncontrols such entity directly, or indirectly through intermediaries; a “subsidiary” \nis an affiliate controlled by such entity directly, or indirectly through one or \nmore intermediaries; and a “trade association” is a continuing association of \nnumerous organizations or individuals operated for the purpose of promoting \nthe general commercial, professional, legislative or other interests of the \nmembership.\n(c) The purpose of the Disclosure Statement is to enable the Judges of this \nCourt to determine the need for recusal pursuant to 28 U.S.C. § 455 or \notherwise. Counsel shall have the continuing obligation to amend the \nDisclosure Statement to reflect relevant changes.\n(d) The form of the Disclosure Statement is set forth in the Appendix of Forms \nattached to these Rules.",
+          "pages": [
+            37
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "34\n(e) A party who commences a civil action using a pseudonym instead of his or \nher actual name must file a Disclosure Statement, under seal, identifying the \nPlaintiff’s actual name.\n",
+          "pages": [
+            38
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "alsd-civil-parsed-v1-e3b7d7c414fe29ce",
+      "sourceDocumentId": "parsed-alsd-e3b7d7c414fe29ce",
+      "sourceUrl": "https://www.alsd.uscourts.gov/sites/alsd/files/local-rules.pdf",
+      "pageIndex": 37,
+      "pageSpan": [
+        37,
+        38
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "alsd-civil:8",
+      "collectionId": "alsd-civil",
+      "districtId": "alsd",
+      "number": "8",
+      "citation": "Southern District of Alabama · Rule 8",
+      "title": "Pleading Jurisdiction",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L.R. 8. Pleading Jurisdiction\nA pleading or notice of removal asserting jurisdiction based on diversity of \ncitizenship must identify the citizenship of each party to the litigation. If any party\nis a corporation, the pleading or notice must identify both the state of incorporation \nand the state in which the corporation has its principal place of business. If any \nparty is an unincorporated association, limited liability company, or partnership, \nthe pleading or notice must identify the citizenship of all members. A notice of \nremoval asserting diversity jurisdiction must also assert a factual basis supporting \nthe allegation that the requisite amount is in controversy.\n",
+          "pages": [
+            38
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "alsd-civil-parsed-v1-e3b7d7c414fe29ce",
+      "sourceDocumentId": "parsed-alsd-e3b7d7c414fe29ce",
+      "sourceUrl": "https://www.alsd.uscourts.gov/sites/alsd/files/local-rules.pdf",
+      "pageIndex": 38,
+      "pageSpan": [
+        38,
+        38
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "alsd-civil:9",
+      "collectionId": "alsd-civil",
+      "districtId": "alsd",
+      "number": "9",
+      "citation": "Southern District of Alabama · Rule 9",
+      "title": "Pleading Special Matters",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L.R. 9. Pleading Special Matters\n(a) All persons applying or petitioning for release from custody under 28 U.S.C. \n§ 2241 or 28 U.S.C. § 2254, or moving under 28 U.S.C. § 2255 to challenge a \nsentence imposed by this Court, must file their application, petition, or motion \nwith the Clerk using forms available from the Court. The Clerk will provide the \nforms and directions for their preparation without charge.\n(b) When an application for release from custody is filed, the respondent is not \nrequired to file an answer or respond to the application unless directed by the \nCourt. The Court may apply any of the Rules Governing 28 U.S.C. § 2254 Cases \nin the United States District Courts to applications for release from custody \nunder 28 U.S.C. § 2241.\n(c) Prisoners appearing pro se who commence an action under 42 U.S.C. § 1983 \nfor deprivations of federal rights by persons acting under color of state law must \nfile the complaint with the Clerk using the form available from the Court. The \nClerk will provide the forms and directions for their preparation without charge.\n",
+          "pages": [
+            38
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "alsd-civil-parsed-v1-e3b7d7c414fe29ce",
+      "sourceDocumentId": "parsed-alsd-e3b7d7c414fe29ce",
+      "sourceUrl": "https://www.alsd.uscourts.gov/sites/alsd/files/local-rules.pdf",
+      "pageIndex": 38,
+      "pageSpan": [
+        38,
+        38
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "alsd-civil:10",
+      "collectionId": "alsd-civil",
+      "districtId": "alsd",
+      "number": "10",
+      "citation": "Southern District of Alabama · Rule 10",
+      "title": "Form of Pleadings",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L.R. 10. Form of Pleadings\n(a) Paragraphs. A party, including a party proceeding pro se, must state its \nclaims or defenses in numbered paragraphs, each limited as far as practicable to \na single set of circumstances.\n(b) Answers and Replies. An answer or reply must respond in numbered \nparagraphs corresponding to the paragraphs of the pleading to which it refers.",
+          "pages": [
+            38
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-40",
+          "path": [],
+          "type": "paragraph",
+          "text": "35\n(c) Pseudonyms. A party who commences a civil action using a pseudonym \ninstead of his or her actual name must, within twenty-one (21) days of service of \nthe complaint, file and serve a motion seeking permission to proceed using a \npseudonym.\n",
+          "pages": [
+            39
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "alsd-civil-parsed-v1-e3b7d7c414fe29ce",
+      "sourceDocumentId": "parsed-alsd-e3b7d7c414fe29ce",
+      "sourceUrl": "https://www.alsd.uscourts.gov/sites/alsd/files/local-rules.pdf",
+      "pageIndex": 38,
+      "pageSpan": [
+        38,
+        39
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "alsd-civil:12",
+      "collectionId": "alsd-civil",
+      "districtId": "alsd",
+      "number": "12",
+      "citation": "Southern District of Alabama · Rule 12",
+      "title": "Motions to Dismiss or Motions for Judgment on the",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-40",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L.R. 12. Motions to Dismiss or Motions for Judgment on the \nPleadings in Pro Se Litigation\nUnless otherwise ordered by the Court, in litigation involving a pro se party \nwhere matters outside the pleadings are presented to the Court, in conjunction with \na motion to dismiss pursuant to Fed. R. Civ. P. 12(b)(6) or a motion for judgment on \nthe pleadings pursuant to Fed. R. Civ. P. 12(c), the procedure set forth in Civil Local \nRule 56(a) applies.\n",
+          "pages": [
+            39
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "alsd-civil-parsed-v1-e3b7d7c414fe29ce",
+      "sourceDocumentId": "parsed-alsd-e3b7d7c414fe29ce",
+      "sourceUrl": "https://www.alsd.uscourts.gov/sites/alsd/files/local-rules.pdf",
+      "pageIndex": 39,
+      "pageSpan": [
+        39,
+        39
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "alsd-civil:15",
+      "collectionId": "alsd-civil",
+      "districtId": "alsd",
+      "number": "15",
+      "citation": "Southern District of Alabama · Rule 15",
+      "title": "Amended and Supplemental Pleadings",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-40",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L.R. 15. Amended and Supplemental Pleadings\n(a) Any amendment to a pleading, whether filed as a matter of course or upon \na motion to amend, must reproduce the entire pleading as amended and may\nnot incorporate any prior pleading by reference.\n(b) A motion to amend a pleading must state specifically what changes are \nsought by the proposed amendments. The proposed amended pleading must be \nfiled as an attachment to the motion to amend.\n(c) If the Court grants the motion to amend, the party must promptly file the \namended pleading. If a responsive pleading is required, any party that has \nappeared in the action and was served with the proposed amended pleading \nmust serve an answer or other responsive pleading within fourteen (14) days \nafter the Court grants the motion to amend. The time for a party that has not \nappeared in the action to serve an answer or other responsive pleading begins to \nrun when that party is properly served with the amended pleading.\n",
+          "pages": [
+            39
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "alsd-civil-parsed-v1-e3b7d7c414fe29ce",
+      "sourceDocumentId": "parsed-alsd-e3b7d7c414fe29ce",
+      "sourceUrl": "https://www.alsd.uscourts.gov/sites/alsd/files/local-rules.pdf",
+      "pageIndex": 39,
+      "pageSpan": [
+        39,
+        39
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "alsd-civil:16",
+      "collectionId": "alsd-civil",
+      "districtId": "alsd",
+      "number": "16",
+      "citation": "Southern District of Alabama · Rule 16",
+      "title": "Pretrial Conferences; Scheduling; Management; Alternative",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-40",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L.R. 16. Pretrial Conferences; Scheduling; Management; Alternative \nDispute Resolution\n(a) Preliminary Pretrial Conferences.\n(1) A Judge may require the parties to appear to consider the future conduct \nof the case. The parties must be prepared to discuss the matters enumerated \nin Fed. R. Civ.P. 16 and 26(f). The parties also should be prepared to state:\n(A) The nature of the case;\n(B) Any contemplated motions;",
+          "pages": [
+            39
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-41",
+          "path": [],
+          "type": "paragraph",
+          "text": "36\n(C) The parties’ discovery plan, including the amount of further discovery \neach party contemplates, the approximate time for completion of discovery, \nand any disputes regarding discovery;\n(D) Whether the parties anticipate the disclosure or discovery of \nelectronically stored information;\n(E) Whether the parties have reached an agreement for asserting post￾production claims of privilege or of protection as trial-preparation material, \nand whether the parties request the Judge to enter an order including the \nagreement;\n(F) Whether settlement discussions have occurred;\n(G) The basis for the Court’s subject matter jurisdiction; and\n(H) Such other matters as may affect further scheduling of the case for \nfinal disposition.\n(2) The Judge may enter any orders necessary to aid in scheduling the action, \nincluding dates for further conferences, schedules for filing and briefing \nmotions, and cutoff dates for completing discovery. The Judge also may enter \nany orders permitted under Fed. R. Civ. P. 16, or 26(f), or Civil Local Rule \n26(e).\n(3) Scheduling orders are not necessary in the following categories of actions: \nadministrative proceedings, including all Social Security cases; habeas corpus \ncases or other proceedings to challenge a criminal conviction or sentence; pro \nse prisoner litigation; actions by the United States to recover benefit \npayments or to collect on a student loan guaranteed by the United States; \ncases in which the only relief sought is an order compelling arbitration or \nenforcing an arbitration award; actions to enforce or quash an administrative \nsummons or subpoena; proceedings ancillary to proceedings in other Courts; \nand mortgage foreclosure actions in which an agency of the United States is a \nsecured party. Fed. R. Civ. P. 16(b)(1).\n(b) Final Pretrial Conference. Counsel and any parties proceeding pro se\nmay be required to appear for a final pretrial conference to consider the subjects \nspecified in Fed. R. Civ. P. 16 or to consider other matters determined by the \nJudge. Unless excused by the Judge, principal trial counsel for each party must \nappear at the final pretrial conference.",
+          "pages": [
+            40
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-42",
+          "path": [],
+          "type": "paragraph",
+          "text": "37\n(c) Joint Pretrial Document.\n(1) Unless otherwise ordered, the parties must file a joint pretrial document \nseven (7) days before the final pretrial conference. The joint pretrial \ndocument must be signed by the attorneys (or the parties personally, if not \nrepresented by counsel) who will try the case. The joint pretrial document \nshall contain the information required by the forms adopted by the Judges of \nthis Court. A copy of the assigned Judge’s form order shall be attached to \neach Rule 16 Scheduling Order entered by the Magistrate Judges, and they \nare also available through the Clerk and on the Court’s website. Sanctions, \nwhich may include the dismissal of the action and entry of default judgment,\nmay be imposed if a joint pretrial document is not filed.\n(2) The parties are required to confer and make a good faith effort to settle \nthe case prior to the final pretrial conference. In preparing the joint pretrial \ndocument, the parties are expected to work together in good faith to reach \nstipulations that may save time during the trial.\n(d) Alternative Dispute Resolution.\n(1) Participation. Each Judge may conduct an Alternative Dispute \nResolution (ADR) Evaluation Conference during the early stages of case \ndevelopment to determine whether a civil case is appropriate for ADR. This \nconference may be held in conjunction with a pretrial conference or as a \nseparate conference. If the Judge determines that a case is appropriate for \nADR, the Judge may encourage the parties to participate in ADR before a \nMagistrate Judge or an appropriate neutral evaluator.\n(2) Exemptions. The types of cases identified in Civil Local Rule 16(a)(3) \nare exempt from this procedure.\n(3) Confidentiality. The Court, the neutral, all counsel and parties, and \nany other persons attending an ADR session under these Rules must treat as \nconfidential all written and oral communications made in connection with, or \nduring, any ADR session. Except as otherwise stipulated or ordered, the \ndisclosure of any written or oral communication made by any party, counsel, \nor other participant in connection with or during any ADR session is \nprohibited. ADR proceedings pursuant to these Rules must be treated as \ncompromise negotiations for purposes of all applicable rules of evidence.\n(4) Early Neutral Evaluation. Early Neutral Evaluation (ENE) is a \nprocedure in which the parties and their counsel, early in the case after an \nopportunity for limited discovery, meet with a neutral evaluator who is \nknowledgeable in the subject matter. The purpose is to reduce the cost and ",
+          "pages": [
+            41
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-43",
+          "path": [],
+          "type": "paragraph",
+          "text": "38\nduration of litigation by providing an early opportunity for the parties to \nobtain a neutral evaluation of their case and to engage in meaningful \nsettlement negotiations.\n(A) Cases Subject to ENE. Any civil case may be referred to ENE if all \nparties agree. A case may be selected for ENE at the preliminary pretrial \nconference held pursuant to Civil Local Rule 16(a), or at any other time by \nstipulation of the parties.\n(B) ENE Process. Within thirty (30) days of the case being referred to \nENE, the neutral evaluator, an experienced attorney with expertise in the \nsubject matter of the case, hosts a confidential and informal meeting of \nclients (companies are to be represented by someone knowledgeable about \nthe case and with full settlement authority) and lead counsel at which each \nside, through counsel, clients or witnesses, presents evidence and \narguments supporting its case (without regard to the Rules of Evidence and \nwithout direct or cross-examination of witnesses). The neutral evaluator \nidentifies areas of agreement, clarifies and focuses the issues, and \nencourages the parties to enter into procedural and substantive \nstipulations. The neutral evaluator, in private, prepares an evaluation that \nincludes an assessment of the case, the reasoning that supports the \nassessment, and, where feasible, an estimate of the likelihood of liability \nand range of damages. Before the neutral evaluator provides the \nevaluation to the parties, the parties may engage in settlement discussions \nfacilitated by the neutral evaluator. If settlement does not result, the \nneutral evaluator will present the parties with the evaluation. The neutral \nevaluator’s evaluation is not shared with the trial Judge.\n(C) Preservation of Right to Trial. The neutral evaluator has no power \nto impose settlement. The confidential evaluation is non-binding. If no \nsettlement is reached, the case remains on the litigation track.\n(D) The Neutral Evaluator. The neutral evaluator must have \nexperience in the substantive legal area of the lawsuit. The parties must \nattempt to agree upon a neutral evaluator. If the parties cannot agree \nupon a neutral evaluator, the trial Judge will appoint an available neutral \nevaluator. The neutral evaluator may be, but need not be, a member of the \nPanel of Neutrals under the District’s Alternative Resolution Plan. The \ntrial Judge may, but is not required to, appoint one of the Magistrate \nJudges of this District as the neutral evaluator.\n(E) Compensation of Neutral Evaluators other than Magistrate \nJudges. Neutral evaluators volunteer their preparation time and the first ",
+          "pages": [
+            42
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-44",
+          "path": [],
+          "type": "paragraph",
+          "text": "39\nfour (4) hours in an ENE session. After four (4) hours in an ENE session, \nthe neutral evaluator may either\n(i) Continue to volunteer his or her time, or\n(ii) Give the parties the option of concluding the session or paying the \nneutral evaluator for additional time at sixty percent (60%) of the neutral \nevaluator’s standard hourly billing rate, to be split equally among the \nparties unless they agree to a different apportionment.\nThe ENE session will continue only if all parties and the neutral \nevaluator agree. After eight (8) hours in one or more ENE sessions, if all \nthe parties agree that further assistance is desired, the neutral evaluator \nmay charge his or her standard hourly billing rate or such other rate that is \nacceptable to the neutral evaluator and all parties.\nIV. PARTIES [Reserved]\nV. DISCLOSURES AND DISCOVERY\n",
+          "pages": [
+            43
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "alsd-civil-parsed-v1-e3b7d7c414fe29ce",
+      "sourceDocumentId": "parsed-alsd-e3b7d7c414fe29ce",
+      "sourceUrl": "https://www.alsd.uscourts.gov/sites/alsd/files/local-rules.pdf",
+      "pageIndex": 39,
+      "pageSpan": [
+        39,
+        43
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "alsd-civil:26",
+      "collectionId": "alsd-civil",
+      "districtId": "alsd",
+      "number": "26",
+      "citation": "Southern District of Alabama · Rule 26",
+      "title": "Duty to Disclose; General Provisions Governing Discovery",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-44",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L.R. 26. Duty to Disclose; General Provisions Governing Discovery\n(a) Conference of the Parties; Planning for Discovery. The parties’ \ndiscovery plan must indicate whether they anticipate any party will be required \nto disclose or be requested to produce electronically stored information. If so,\nthe parties must consider:\n(1) The reasonable accessibility of electronically stored information and the \nburdens and expense of discovery of electronically stored information;\n(2) The format and media for the production of electronically stored \ninformation;\n(3) Measures taken to preserve potentially discoverable electronically stored \ninformation from alteration or destruction;\n(4) Procedures for asserting post-production claims of privilege or of \nprotection as trial-preparation material; and\n(5) Other issues in connection with the discovery of electronically stored \ninformation.",
+          "pages": [
+            43
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-45",
+          "path": [],
+          "type": "paragraph",
+          "text": "40\n(b) Disclosure of Expert Testimony.\n(1) Each party must disclose to every other party the substance of all \nevidence under Fed. R. Evid. 702, 703, or 705 that the party may use at trial, \nincluding the evidence of witnesses who have not been retained or specially \nemployed to provide testimony, subject to the following:\n(A) Each party must provide the written report required under Fed. R. \nCiv. P. 26(a)(2)(B) for a witness who has been retained or specially \nemployed to provide expert testimony or one whose duties, as the party’s \nemployee, regularly involve giving expert testimony.\n(B) A person, including a treating physician, who has not been retained or \nspecially employed to provide expert testimony, or whose duties as the \nparty’s employee do not regularly involve giving expert testimony, may be \nused to present evidence under Fed. R. Evid. 702, 703, or 705 only if the \nparty offering the evidence discloses to every other party the information \nidentified in Fed. R. Civ. P. 26(a)(2)(B)(i), although a report written and \nsigned by the witness is not required.\n(2) Absent a stipulation or a Court order, disclosures required under this \nRule must be made in accordance with Fed. R. Civ. P. 26(a)(2)(C).\n(c) Completion of Discovery. All discovery, including the filing of motions \nto compel, must be completed before the date established in the Rule 16 \nScheduling Order. Completion of discovery means that discovery (including \ndepositions to preserve testimony for trial) must be scheduled to allow \ndepositions to be completed, interrogatories and requests for admissions to be \nanswered, and documents to be produced before the deadline and in accordance \nwith the provisions of the Federal Rules of Civil Procedure. For good cause, \nwhich typically requires a showing that the parties have diligently pursued \ndiscovery, the Court may extend the time during which discovery may occur or \nmay reopen discovery.\n(d) Standard Definitions Applicable to All Discovery.\n(1) The full text of the definitions set forth in subparagraph (2) is deemed \nincorporated by reference in all discovery, and may not be varied by litigants, \nbut does not preclude:\n(A) The definition of other terms specific to the particular litigation;\n(B) The use of abbreviations; or",
+          "pages": [
+            44
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-46",
+          "path": [],
+          "type": "paragraph",
+          "text": "41\n(C) A more narrow definition of a term defined in subparagraph (2).\n(2) Definitions. The following definitions apply to all discovery:\n(A) Communication. The term “communication” means the transmittal \nof information (in the form of facts, ideas, inquiries, or otherwise).\n(B) Document. The term “document” is defined to be synonymous in \nmeaning and equal in scope to the usage of this term in Fed. R. Civ. P. \n34(a). A draft or non-identical copy is a separate document within the \nmeaning of this term.\n(C) To Identify.\n(i) With Respect to Persons. When referring to a person, “to \nidentify” means to give, to the extent known, the person’s full name, \npresent or last known address, and when referring to a natural person, \nadditionally, the present or last known place of employment. Once a \nperson has been identified in accordance with this subparagraph, only \nthe name of that person need be listed in response to subsequent \ndiscovery requesting the identification of that person.\n(ii) With Respect to Documents. When referring to documents, “to \nidentify” means to give, to the extent known, the type of document;\ngeneral subject matter; date of the document; and author(s), \naddressee(s), and recipient(s).\n(D) Person. The term “person” is defined as any natural person or any \nbusiness, legal, or governmental entity, or association.\n(e) Confidentiality of Discovery Materials.\n(1) Upon a showing of good cause, the Court may enter a protective order \nregarding the confidentiality of all, or—more likely—portions of, documents \nproduced in the course of discovery, answers to interrogatories, answers to \nrequests for admission, and deposition testimony.\n(2) At the conclusion of the litigation, all material not received in evidence \nand treated as confidential under this Rule must be returned to the \noriginating party. If the parties so stipulate, the material may be destroyed.\n(f) Filing Papers Under Seal. A party seeking to file a document under seal \nmust follow the procedure set forth in General Local Rule 5.2.",
+          "pages": [
+            45
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-47",
+          "path": [],
+          "type": "paragraph",
+          "text": "42\n",
+          "pages": [
+            46
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "alsd-civil-parsed-v1-e3b7d7c414fe29ce",
+      "sourceDocumentId": "parsed-alsd-e3b7d7c414fe29ce",
+      "sourceUrl": "https://www.alsd.uscourts.gov/sites/alsd/files/local-rules.pdf",
+      "pageIndex": 43,
+      "pageSpan": [
+        43,
+        46
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "alsd-civil:33",
+      "collectionId": "alsd-civil",
+      "districtId": "alsd",
+      "number": "33",
+      "citation": "Southern District of Alabama · Rule 33",
+      "title": "Interrogatories",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-47",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L.R. 33. Interrogatories\n(a) Limitation on Interrogatories.\n(1) Any party may serve upon any other party no more than twenty-five (25)\nwritten interrogatories. The twenty-five (25) permissible interrogatories may \nnot be expanded by the creative use of subparts.\n(2) For the purpose of computing the number of interrogatories served:\n(A) Parties represented by the same attorney or law firm are regarded as \none party.\n(B) Interrogatories inquiring about the names and locations of persons \nhaving knowledge of discoverable information or about the existence, \nlocation, or custodian of documents or physical evidence do not count \ntoward the twenty-five (25) interrogatory limit.\n(3) More than twenty-five (25) interrogatories may be served on a party only \nif that party agrees in writing or the Court so orders. A party seeking to serve \nmore than twenty-five (25) interrogatories may move the Court for permission \nonly after seeking the agreement of the party to whom the additional \ninterrogatories would be served. If a party desires to serve additional \ninterrogatories, the party must promptly consult with the party to whom the \nadditional interrogatories would be propounded and attempt to reach a \nwritten stipulation as to a reasonable number of additional interrogatories. \nThe stipulation allowing additional interrogatories to be served should not be \nfiled with the Court except in connection with a motion to compel answers. If \na stipulation cannot be reached, the party seeking to serve additional \ninterrogatories may move the Court for permission to serve additional \ninterrogatories.\n(4) The Court will not compel a party to answer any interrogatories served in \nviolation of this Rule.\n(b) Answering Interrogatories. An objection or an answer to an \ninterrogatory must reproduce the interrogatory to which it refers.\n",
+          "pages": [
+            46
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "alsd-civil-parsed-v1-e3b7d7c414fe29ce",
+      "sourceDocumentId": "parsed-alsd-e3b7d7c414fe29ce",
+      "sourceUrl": "https://www.alsd.uscourts.gov/sites/alsd/files/local-rules.pdf",
+      "pageIndex": 46,
+      "pageSpan": [
+        46,
+        46
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "alsd-civil:34",
+      "collectionId": "alsd-civil",
+      "districtId": "alsd",
+      "number": "34",
+      "citation": "Southern District of Alabama · Rule 34",
+      "title": "Producing Documents",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-47",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L.R. 34. Producing Documents\nA response or an objection to a request for production of documents must \nreproduce the request to which it refers.",
+          "pages": [
+            46
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-48",
+          "path": [],
+          "type": "paragraph",
+          "text": "43\n",
+          "pages": [
+            47
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "alsd-civil-parsed-v1-e3b7d7c414fe29ce",
+      "sourceDocumentId": "parsed-alsd-e3b7d7c414fe29ce",
+      "sourceUrl": "https://www.alsd.uscourts.gov/sites/alsd/files/local-rules.pdf",
+      "pageIndex": 46,
+      "pageSpan": [
+        46,
+        47
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "alsd-civil:36",
+      "collectionId": "alsd-civil",
+      "districtId": "alsd",
+      "number": "36",
+      "citation": "Southern District of Alabama · Rule 36",
+      "title": "Requests for Admission",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-48",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L.R. 36. Requests for Admission\nA response or an objection to a request for admission must reproduce the \nrequest to which it refers.\n",
+          "pages": [
+            47
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "alsd-civil-parsed-v1-e3b7d7c414fe29ce",
+      "sourceDocumentId": "parsed-alsd-e3b7d7c414fe29ce",
+      "sourceUrl": "https://www.alsd.uscourts.gov/sites/alsd/files/local-rules.pdf",
+      "pageIndex": 47,
+      "pageSpan": [
+        47,
+        47
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "alsd-civil:37",
+      "collectionId": "alsd-civil",
+      "districtId": "alsd",
+      "number": "37",
+      "citation": "Southern District of Alabama · Rule 37",
+      "title": "Discovery Motions",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-48",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L.R. 37. Discovery Motions\nAll motions to compel disclosure or discovery pursuant to Fed. R. Civ. P. 26-37 \nmust be accompanied by a written certification by the movant that, after the \nmovant in good faith has conferred or attempted to confer with the person or party \nfailing to make disclosure or discovery in an effort to obtain it without Court action, \nthe parties are unable to reach an accord. The statement must recite the date and \ntime of the conference or conferences and the names of all parties participating in \nthe conference or conferences.\nVI. TRIALS\n",
+          "pages": [
+            47
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "alsd-civil-parsed-v1-e3b7d7c414fe29ce",
+      "sourceDocumentId": "parsed-alsd-e3b7d7c414fe29ce",
+      "sourceUrl": "https://www.alsd.uscourts.gov/sites/alsd/files/local-rules.pdf",
+      "pageIndex": 47,
+      "pageSpan": [
+        47,
+        47
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "alsd-civil:41",
+      "collectionId": "alsd-civil",
+      "districtId": "alsd",
+      "number": "41",
+      "citation": "Southern District of Alabama · Rule 41",
+      "title": "Dismissal of Actions",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-48",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L.R. 41. Dismissal of Actions\n(a) Dismissal Where No Service of Process. Whenever the Plaintiff has not \ncompleted service of process within the time required by Fed. R. Civ. P. 4(m), \nand the Defendant has not waived service under Fed. R. Civ. P. 4(d), the Court\nupon notice may dismiss the action in accordance with Fed. R. Civ. P. 4(m).\n(b) Dismissal Where No Answer or Other Pleading Filed. Whenever a \nserved Defendant has failed to answer or otherwise defend within six (6)\nmonths from the filing of the complaint and the Plaintiff has not sought default \nand default judgment, the Court upon notice may dismiss the action for failure \nto prosecute, in accordance with applicable law.\n(c) Dismissal for Lack of Diligence. Whenever it appears that the Plaintiff \nis not diligently prosecuting the action, the Court upon notice may dismiss the \naction for failure to prosecute, in accordance with applicable law.\n(d) Dismissal of Frivolous Action or Pleading. Whenever it appears that \nthe Plaintiff’s complaint, the Defendant’s answer (including counterclaims), or \nany other pleading filed by a party is frivolous or interposed primarily for any \nimproper purpose, the Court upon notice may dismiss or strike the pleading, or \nany portion of the pleading, in accordance with applicable law.\n(e) Improper Re-Filing of Actions. No party or attorney may dismiss and \nre-file an action for the purpose of obtaining a different Judge.",
+          "pages": [
+            47
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-49",
+          "path": [],
+          "type": "paragraph",
+          "text": "44\n",
+          "pages": [
+            48
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "alsd-civil-parsed-v1-e3b7d7c414fe29ce",
+      "sourceDocumentId": "parsed-alsd-e3b7d7c414fe29ce",
+      "sourceUrl": "https://www.alsd.uscourts.gov/sites/alsd/files/local-rules.pdf",
+      "pageIndex": 47,
+      "pageSpan": [
+        47,
+        48
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "alsd-civil:42",
+      "collectionId": "alsd-civil",
+      "districtId": "alsd",
+      "number": "42",
+      "citation": "Southern District of Alabama · Rule 42",
+      "title": "Consolidation",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-49",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L.R. 42. Consolidation\n(a) When a party moves to consolidate two or more cases, whether for a limited \npurpose or for all future proceedings, the motion to consolidate and supporting \nmaterials must be captioned with the case names and numbers of all cases \nsought to be consolidated. Service and filing must be effected in all of the cases \nsought to be consolidated. The motion must be decided by the Judge to whom \nthe lowest-numbered case is assigned. If the motion is granted, the Judge to \nwhom the lowest-numbered case is assigned will handle all future proceedings \ncovered by the consolidation order.\n(b) After two or more cases are consolidated, all papers relevant to the \npurposes for which consolidation was granted will be filed and docketed only in \nthe lowest-numbered case. A notation to check the docket sheet for the lowest￾numbered case will be entered on the docket sheet for each higher-numbered \ncase.\n(c) If cases are consolidated for some but not all purposes, documents relating \nonly to a particular case will be docketed on the docket sheet for that case and \nbe filed only in that case file.\nVII. JUDGMENT\n",
+          "pages": [
+            48
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "alsd-civil-parsed-v1-e3b7d7c414fe29ce",
+      "sourceDocumentId": "parsed-alsd-e3b7d7c414fe29ce",
+      "sourceUrl": "https://www.alsd.uscourts.gov/sites/alsd/files/local-rules.pdf",
+      "pageIndex": 48,
+      "pageSpan": [
+        48,
+        48
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "alsd-civil:54",
+      "collectionId": "alsd-civil",
+      "districtId": "alsd",
+      "number": "54",
+      "citation": "Southern District of Alabama · Rule 54",
+      "title": "Costs",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-49",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L.R. 54. Costs\n(a) Bill of Costs.\n(1) No later than fourteen (14) days after entry of judgment, a party seeking \ncosts must file a verified bill of costs, using forms available from the Clerk. If \na timely motion pursuant to Fed. R. Civ. P. 50(b) or 59 is filed, the bill of costs \nmust be filed within fourteen (14) days after entry of the order resolving the \nmotion.\n(2) When an appeal is taken, the parties may jointly move to delay filing the \nbill of costs until after the appeal is decided. Absent Court order, an appeal \nwill not extend the deadline for filing a bill of costs or delay the taxing of \ncosts.\n(3) Any party opposing taxation of costs must file its objections within \nfourteen (14) days of service of the bill of costs. The party claiming costs must \nserve any response within seven (7) days of service of the objections. Costs \nwill be taxed by the Clerk on the basis of these materials.",
+          "pages": [
+            48
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-50",
+          "path": [],
+          "type": "paragraph",
+          "text": "45\n(b) Review of Clerk’s Taxation of Costs. A party may move for review of \nthe Clerk’s decision taxing costs pursuant to Fed. R. Civ. P. 54(d) no later than \nseven (7) days after taxation.\n",
+          "pages": [
+            49
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "alsd-civil-parsed-v1-e3b7d7c414fe29ce",
+      "sourceDocumentId": "parsed-alsd-e3b7d7c414fe29ce",
+      "sourceUrl": "https://www.alsd.uscourts.gov/sites/alsd/files/local-rules.pdf",
+      "pageIndex": 48,
+      "pageSpan": [
+        48,
+        49
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "alsd-civil:56",
+      "collectionId": "alsd-civil",
+      "districtId": "alsd",
+      "number": "56",
+      "citation": "Southern District of Alabama · Rule 56",
+      "title": "Summary Judgment",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-50",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L.R. 56. Summary Judgment\nMotions for summary judgment must comply with Fed. R. Civ. P. 56 and Civil \nLocal Rule 7. With the exception of Social Security reviews, other actions for review \nof administrative agency decisions, and other actions in which a Judge relieves the \nparties of this Rule’s requirements, the following additional requirements must be \nmet:\n(a) Movant’s Supporting Materials. The movant must file a brief that \nincludes: (1) all facts relied upon, each supported by a specific, pinpoint citation \nto the record; and (2) argument supported by legal authority as appropriate. \nThe movant must also file all evidence relied upon. A movant seeking \naffirmative relief other than, or in addition to, monetary damages (such as \ndeclaratory or injunctive relief) must file a proposed judgment (not order or \nopinion) granting such relief in the form sought by the movant. No other \nsupporting documents may be filed absent Court order.\n(b) Non-Movant’s Response. Unless the Court orders otherwise, the non￾movant must file any response in opposition to the motion within twenty-eight \n(28) days of service of the motion. The non-movant’s brief must include: (1) all \nfacts relied upon, each supported by a specific, pinpoint citation to the record; \n(2) all challenges to the movant’s asserted facts; and (3) argument supported by \nlegal authority as appropriate. The non-movant must also file all evidence \nrelied upon. No other supporting documents may be filed absent Court order.\n(c) Movant’s Reply. Unless the Court orders otherwise, any reply must be \nfiled within fourteen (14) days of service of the non-movant’s response.\n(d) Effect of Uncontroverted Facts. The Court will deem uncontroverted \nmaterial facts to be admitted solely for the purpose of deciding the motion for \nsummary judgment.\n(e) Stipulated Facts. Parties are encouraged to stipulate to facts. Facts so \nstipulated do not require references to evidentiary support.\n(f) Modification of Provisions in Particular Cases. The Court may \nprovide by order or other notice to the parties that different or additional \nprovisions regarding summary judgment motion practice apply.",
+          "pages": [
+            49
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-51",
+          "path": [],
+          "type": "paragraph",
+          "text": "46\n",
+          "pages": [
+            50
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "alsd-civil-parsed-v1-e3b7d7c414fe29ce",
+      "sourceDocumentId": "parsed-alsd-e3b7d7c414fe29ce",
+      "sourceUrl": "https://www.alsd.uscourts.gov/sites/alsd/files/local-rules.pdf",
+      "pageIndex": 49,
+      "pageSpan": [
+        49,
+        50
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "alsd-civil:62",
+      "collectionId": "alsd-civil",
+      "districtId": "alsd",
+      "number": "62",
+      "citation": "Southern District of Alabama · Rule 62",
+      "title": "Supersedeas Bonds",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-51",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L.R. 62. Supersedeas Bonds\n(a) A supersedeas bond, where the judgment is for a sum of money only, must \nbe in the amount of the judgment plus fifteen percent (15%) to cover interest \nand such damages for delay as may be awarded, as well as an additional \n$500.00 to cover costs. An appellant may move for relief from this Rule.\n(b) When a money judgment also provides non-monetary relief, the Court may, \non notice, grant a stay on such terms as to security and otherwise as it may \ndeem proper.\n(c) Upon approval, a supersedeas bond must be filed with the Clerk, and a copy \nwith a notice of filing must be served promptly on the parties affected thereby. \nIf the appellee objects to the form of the bond or to the sufficiency of the surety, \nthe Court may conduct a hearing to resolve the objections.\nVIII. PROVISIONAL AND FINAL REMEDIES\n",
+          "pages": [
+            50
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "alsd-civil-parsed-v1-e3b7d7c414fe29ce",
+      "sourceDocumentId": "parsed-alsd-e3b7d7c414fe29ce",
+      "sourceUrl": "https://www.alsd.uscourts.gov/sites/alsd/files/local-rules.pdf",
+      "pageIndex": 50,
+      "pageSpan": [
+        50,
+        50
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "alsd-civil:65.1",
+      "collectionId": "alsd-civil",
+      "districtId": "alsd",
+      "number": "65.1",
+      "citation": "Southern District of Alabama · Rule 65.1",
+      "title": "Sureties",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-51",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L.R. 65.1. Sureties\nA corporation authorized by the Secretary of the Treasury of the United States \nmust be accepted as surety on bonds.\n",
+          "pages": [
+            50
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "alsd-civil-parsed-v1-e3b7d7c414fe29ce",
+      "sourceDocumentId": "parsed-alsd-e3b7d7c414fe29ce",
+      "sourceUrl": "https://www.alsd.uscourts.gov/sites/alsd/files/local-rules.pdf",
+      "pageIndex": 50,
+      "pageSpan": [
+        50,
+        50
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "alsd-civil:65.2",
+      "collectionId": "alsd-civil",
+      "districtId": "alsd",
+      "number": "65.2",
+      "citation": "Southern District of Alabama · Rule 65.2",
+      "title": "Security for Costs",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-51",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L.R. 65.2. Security for Costs\nIn addition to any security required by law, the Court, at any time upon good \ncause shown, may order that security for costs be given by any party. Security for \ncosts must consist of a cash deposit or a bond, with surety, in the sum of $500.00, \nunless otherwise ordered. The security must be conditioned to secure the payment \nof costs that the posting party may ultimately be ordered to pay to a party. A party \nmay raise objections to the form, amount, or sufficiency of security for costs.\n",
+          "pages": [
+            50
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "alsd-civil-parsed-v1-e3b7d7c414fe29ce",
+      "sourceDocumentId": "parsed-alsd-e3b7d7c414fe29ce",
+      "sourceUrl": "https://www.alsd.uscourts.gov/sites/alsd/files/local-rules.pdf",
+      "pageIndex": 50,
+      "pageSpan": [
+        50,
+        50
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "alsd-civil:67",
+      "collectionId": "alsd-civil",
+      "districtId": "alsd",
+      "number": "67",
+      "citation": "Southern District of Alabama · Rule 67",
+      "title": "Deposit Into Court; Withdrawal of Monies; Registry Fee",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-51",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L.R. 67. Deposit Into Court; Withdrawal of Monies; Registry Fee\n(a) Registry Deposits. All funds to be deposited with the Court, with the \nexception of criminal cash bail, cost bonds, and civil garnishments, shall be \ndeposited in accordance with the provisions of Rule 67, 28 U.S.C. §§ 2041-2042, \nand any other applicable law.\n(b) Order and Directions for Deposit. Any party depositing money into the \nCourt must serve the Clerk with a Court order and notice in accordance with \nthe provisions of Fed. R. Civ. P. 67. The order must specify the amount to be \ndeposited. If the Clerk is not served with an order in accordance with this Rule \nupon tender of the monies to be deposited, the Clerk will deposit funds into the ",
+          "pages": [
+            50
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-52",
+          "path": [],
+          "type": "paragraph",
+          "text": "47\nCourt’s non-interest-bearing registry account until further order of the Court \ndirecting how to invest the funds.\n(c) Non-Interest Bearing Deposits. Cost bonds, and other bonds in the form \nof cash, such as admiralty cost bonds, injunction cost bonds, and supersedeas \nbonds, are not subject to Fed. R. Civ. P. 67, nor are civil garnishment payments. \nFunds not subject to Rule 67 will not be deposited in interest bearing accounts, \nexcept on the special order of the Court. These funds, when received, will be \ndeposited into the registry of the Court. Payments received on garnishments \nwill be deposited into the Court’s general deposit fund.\n(d) Investment of Registry Funds.\n(1) Court Registry Investment System (CRIS). Where, by order of the \nCourt, funds on deposit with the Court are to be placed in some form of \ninterest-bearing account, the Court Registry Investment System administered \nthrough the Administrative Office of the United States Courts will be the only \ninvestment mechanism authorized.\n(2) Custodian for CRIS. The Director of the Administrative Office of the \nUnited States Courts is designated as custodian for the CRIS. The Director or \nthe Director’s designee will perform the duties of custodian. Funds held in \nthe CRIS remain subject to the control and jurisdiction of the Court.\n(3) Pooling and Investing of Funds. Money from each case deposited in \nthe CRIS will be “pooled” together with those on deposit with the Treasury to \nthe credit of other Courts in the CRIS and used to purchase Government \nAccount Series securities through the Bureau of Public Debt, which will be \nheld at the Treasury, in an account in the name and to the credit of the \nDirector of the Administrative Office of the United States Courts. The pooled \nfunds will be invested in accordance with the principles of the CRIS \nInvestment Policy approved by the Registry Monitoring Group.\n(4) Minor’s Fund. A Minors’ Fund is established within CRIS to invest \npost-adjudication deposits held on behalf of minors until their age of majority, \nwhich is often longer than one hundred (100) days. The fund improves the \nmatch between investment holdings and the length of time each minor’s case \nremains invested, thereby capitalizing on higher-yielding securities. Minor’s \nfunds deposited with the Court shall be identified in a movant’s motion to \ndeposit sum of money and must include the estimate of the future withdrawal \ndate and the date the minor reaches the age of majority.\n(5) Individual Accounts. An account for each case will be established in \nthe CRIS titled in the name of the case giving rise to the investment in the ",
+          "pages": [
+            51
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-53",
+          "path": [],
+          "type": "paragraph",
+          "text": "48\nfund. Income generated from fund investments will be distributed to each \ncase based on the ratio each account’s principal and earnings have to the \naggregate principal and the income total in the fund. Reports showing the \ninterest earned and the principal amounts contributed in each case will be \nprepared and distributed to each Court participating in the CRIS and made \navailable to litigants and their counsel.\n(e) Disbursement of Funds. Funds deposited by the Clerk in accordance \nwith this Rule will be disbursed only with prior order signed by a Judge of this \nCourt. Funds will not be disbursed until counsel has furnished to the Clerk, in \nwriting, the social security number or tax identification number of any and all \nrecipients of more than ten dollars ($10.00) of the interest accrued. In any case \nproceeding before a Magistrate Judge by consent of all parties under 28 U.S.C. § \n636(c), the Magistrate Judge may order disbursement of funds from the registry \nof this Court in accordance with applicable law.\n(f) Designated Fiduciary Officers. The Clerk and Chief Deputy Clerk are \nthe fiduciary officers of this Court and have the authority to sign account checks \nand/or withdrawal slips from CRIS accounts.\n(g) Fees Assessed on Accounts. Under the authority of 28 U.S.C. §§ 1914 \nand 1930, the Clerk, whose fee schedules are set by the Judicial Conference of \nthe United States, will assess a fee for the handling of all funds deposited with \nthe Court in non-criminal proceedings and held in CRIS accounts pursuant to \n28 U.S.C. § 2041 and Fed. R. Civ. P. 67.\n",
+          "pages": [
+            52
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "alsd-civil-parsed-v1-e3b7d7c414fe29ce",
+      "sourceDocumentId": "parsed-alsd-e3b7d7c414fe29ce",
+      "sourceUrl": "https://www.alsd.uscourts.gov/sites/alsd/files/local-rules.pdf",
+      "pageIndex": 50,
+      "pageSpan": [
+        50,
+        52
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "alsd-civil:67.1",
+      "collectionId": "alsd-civil",
+      "districtId": "alsd",
+      "number": "67.1",
+      "citation": "Southern District of Alabama · Rule 67.1",
+      "title": "Special Attorney Admission Fund",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-53",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L.R. 67.1. Special Attorney Admission Fund\n(a) Purpose of Fund. The Special Attorney Admission Fund (“the Fund”) \nshall be maintained by the Clerk to compensate appointed counsel in civil rights \nactions for reasonably incurred expenses authorized by prior order of the Judge\nto whom the action is assigned. Compensation from the Fund is not authorized \nfor attorney’s fees or for expenses for which any other source of payment exists.\n(b) Source and Administration of Funds. The funds generated from the \nadmission fees required by General Local Rule 83.3 shall be used to establish \nthe Fund. The Fund shall be managed in accordance with the Court’s Plan for \nthe Administration of the Special Attorney Admissions Fund.\n(c) Authorization for Payment. Payments from the Fund require the order \nof the Chief District Judge or his/her designee, in an amount and with a priority \ndetermined by such District Judge in light of the condition of the Fund and any \nother pending or anticipated requests.",
+          "pages": [
+            52
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-54",
+          "path": [],
+          "type": "paragraph",
+          "text": "49\n(d) Requests for Payment. All requests for payment from the Fund shall \nfirst be submitted in writing to the Judge assigned to the action. If the request \nis approved, the assigned Judge’s written authorization shall then be forwarded \nto the Chief Judge or his/her designee for action in accordance with \nsubsection(c) above.\nIX. SPECIAL PROCEEDINGS [Reserved]\nX. DISTRICT COURTS AND CLERKS: CONDUCTING BUSINESS; ISSUING \nORDERS [Reserved]\nXI. GENERAL PROVISIONS [Reserved]\nXII. ADMIRALTY OR MARITIME CLAIMS AND ASSET FORFEITURE \nACTIONS\n",
+          "pages": [
+            53
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "alsd-civil-parsed-v1-e3b7d7c414fe29ce",
+      "sourceDocumentId": "parsed-alsd-e3b7d7c414fe29ce",
+      "sourceUrl": "https://www.alsd.uscourts.gov/sites/alsd/files/local-rules.pdf",
+      "pageIndex": 52,
+      "pageSpan": [
+        52,
+        53
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "alsd-civil:100",
+      "collectionId": "alsd-civil",
+      "districtId": "alsd",
+      "number": "100",
+      "citation": "Southern District of Alabama · Rule 100",
+      "title": "Rule A – Authority, Scope, and Definitions",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-54",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L.R. 100. Rule A – Authority, Scope, and Definitions\n(a) Scope. The Rules set forth in this Part XII (Local Admiralty Rules) apply \nto civil actions that are governed by Rule A of the Supplemental Rules for \nAdmiralty or Maritime Claims and Asset Forfeiture Actions (Supplemental \nRules). All other General and Civil Local Rules are applicable in these cases, \nbut to the extent that another Local Rule is inconsistent with the applicable \nLocal Admiralty Rule, the Local Admiralty Rule governs.\n(b) Definitions. As used in the Local Admiralty Rules, “Rule,” followed by a \nnumeral, e.g., Rule 12, means a Federal Rule of Civil Procedure; “Rule,” followed \nby a capital letter, e.g., Rule C, means a Supplemental Rule; “Judicial Officer” \nincludes both District Judges and Magistrate Judges; “keeper” means any \nperson or entity appointed by the Marshal to take physical custody of and \nmaintain the vessel or other property under arrest or attachment; and \n“substitute custodian” means the individual who, or entity that, upon motion \nand order of the Court, assumes the duties of the Marshal or keeper with \nrespect to the vessel or other property that is arrested or attached.\n",
+          "pages": [
+            53
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "alsd-civil-parsed-v1-e3b7d7c414fe29ce",
+      "sourceDocumentId": "parsed-alsd-e3b7d7c414fe29ce",
+      "sourceUrl": "https://www.alsd.uscourts.gov/sites/alsd/files/local-rules.pdf",
+      "pageIndex": 53,
+      "pageSpan": [
+        53,
+        53
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "alsd-civil:101",
+      "collectionId": "alsd-civil",
+      "districtId": "alsd",
+      "number": "101",
+      "citation": "Southern District of Alabama · Rule 101",
+      "title": "Rule B – Maritime Attachment and Garnishment",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-54",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L.R. 101. Rule B – Maritime Attachment and Garnishment\nWhen the Plaintiff invokes a state procedure in order to attach or garnish as \npermitted by the Federal Rules of Civil Procedure or the Supplemental Rules, the \nprocess of attachment or garnishment shall identify the state law upon which the \nattachment or garnishment is based.",
+          "pages": [
+            53
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-55",
+          "path": [],
+          "type": "paragraph",
+          "text": "50\n",
+          "pages": [
+            54
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "alsd-civil-parsed-v1-e3b7d7c414fe29ce",
+      "sourceDocumentId": "parsed-alsd-e3b7d7c414fe29ce",
+      "sourceUrl": "https://www.alsd.uscourts.gov/sites/alsd/files/local-rules.pdf",
+      "pageIndex": 53,
+      "pageSpan": [
+        53,
+        54
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "alsd-civil:102",
+      "collectionId": "alsd-civil",
+      "districtId": "alsd",
+      "number": "102",
+      "citation": "Southern District of Alabama · Rule 102",
+      "title": "Rule C – Actions In Rem: Special Provisions",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-55",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L.R. 102. Rule C – Actions In Rem: Special Provisions\n(a) Intangible Property. The summons issued pursuant to Rule C(3)(c) shall \ndirect the person having control of intangible property to show cause no later \nthan fourteen (14) days after service as to why the intangible property should \nnot be delivered to the Court to abide the judgment. A Judicial Officer for good \ncause shown may lengthen or shorten the time. Service of the summons has the \neffect of an arrest of the intangible property and brings it within the control of \nthe Court. Service of the summons to show cause requires a garnishee wishing \nto retain possession of the property to establish grounds for doing so, including \nspecification of the measures taken to segregate and safeguard the intangible \nproperty arrested. The person who is served may deliver or pay over to the \nMarshal the intangible property proceeded against to the extent sufficient to \nsatisfy the Plaintiff’s claim. If such delivery or payment is made, the person \nserved is excused from the duty to show cause. A person who asserts a right of \npossession or ownership may show cause as provided in Rule C(6)(a) as to why \nthe property should not be delivered to the Court.\n(b) Publication of Notice of Action and Arrest. The notice required by \nRule C(4) shall be published in a newspaper of general circulation in the \nDistrict once a week for three (3) consecutive weeks, said notice to begin not \nlater than twenty-one (21) days following seizure, and Plaintiff’s attorney shall \nfile with the Clerk a copy of the notice as it was published. The notice shall \ncontain:\n(1) The Court, title, and number of the action;\n(2) The date of the arrest;\n(3) The identity of the property arrested;\n(4) The name, address, and telephone number of the attorney for Plaintiff;\n(5) A statement that the claim of a person who is entitled to possession or \nwho claims an interest pursuant to Rule C(6)(a) must be filed with the Clerk \nand served on the attorney for Plaintiff within fourteen (14) days after final \npublication;\n(6) A statement that an answer to the complaint must be filed and served \nwithin twenty-one (21) days after filing the statement of interest or right and \nthat, otherwise, default may be entered and condemnation ordered;",
+          "pages": [
+            54
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-56",
+          "path": [],
+          "type": "paragraph",
+          "text": "51\n(7) A statement that applications for intervention under Rule 24 by persons \nclaiming maritime liens or other interests shall be filed within the time fixed \nby the Court; and\n(8) The name, address, and telephone number of the Marshal, keeper, or \nsubstitute custodian.\n(c) Default in Actions In Rem.\n(1) Notice Required. A party seeking a default judgment in an action in \nrem must satisfy the Court that notice of the action and arrest of the property \nhas been given:\n(A) By publication as required in Local Admiralty Rule 102(b);\n(B) By service upon the Marshal, keeper, substitute custodian, master, or \nother person having custody of the property; and\n(C) By mailing notice to every other person who has not appeared in the \naction and is known to have an interest in the property.\n(2) Persons with Recorded Interests.\n(A) If the Defendant property is a vessel documented under the laws of the \nUnited States, Plaintiff must attempt to notify all persons named in the \nUnited States Coast Guard certificate of ownership.\n(B) If the Defendant property is a vessel numbered as provided in the \nFederal Boat Safety Act, Plaintiff must attempt to notify the persons \nnamed in the records of the issuing authority.\n(C) If the Defendant property is of such character that there exists a \ngovernmental registry of property interests and/or security interests, the \nPlaintiff must attempt to notify all persons named in the records of each \nsuch registry.\n(d) Entry of Default and Default Judgment. After the time for filing an \nanswer has expired, the Plaintiff may move for entry of default under Rule \n55(a). The Court will enter default upon showing that:\n(1) Notice has been given as required by Local Admiralty Rule 102(c)(1);\n(2) Notice has been attempted as required by Local Admiralty Rule 102(c)(2),\nwhere appropriate;",
+          "pages": [
+            55
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-57",
+          "path": [],
+          "type": "paragraph",
+          "text": "52\n(3) The time to answer by claimants of ownership to or possession of the \nproperty has expired; and\n(4) No answer has been filed, or no one has appeared, to defend on behalf of \nthe property.\nThe Plaintiff may move for judgment under Rule 55(b) at any time after \ndefault has been entered.\n(e) Procedure for Giving Actual Notice to Mortgagee or Lien Claimant \nunder 46 U.S.C. 31325(d)(1)(B) or (C). In those instances where actual \nnotice is required to be given to a mortgagee or lien claimant under 46 U.S.C. \n31325 (d)(1)(B) or (C), or any amendments thereto with respect to the \nenforcement of preferred ship mortgages and maritime liens, the said notice \nshall be given by certified mail, return receipt requested, at the address stated \nin the mortgage or notice of claim of lien, as the case may be, or such other \naddress deemed by counsel in good faith to be better calculated to provide notice \nto said party.\n",
+          "pages": [
+            56
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "alsd-civil-parsed-v1-e3b7d7c414fe29ce",
+      "sourceDocumentId": "parsed-alsd-e3b7d7c414fe29ce",
+      "sourceUrl": "https://www.alsd.uscourts.gov/sites/alsd/files/local-rules.pdf",
+      "pageIndex": 54,
+      "pageSpan": [
+        54,
+        56
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "alsd-civil:103",
+      "collectionId": "alsd-civil",
+      "districtId": "alsd",
+      "number": "103",
+      "citation": "Southern District of Alabama · Rule 103",
+      "title": "Rule D – Possessory, Petitory, and Partition Actions",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-57",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L.R. 103. Rule D – Possessory, Petitory, and Partition Actions\nReturn Date. In a possessory action under Rule D, a Judicial Officer may \norder that the statement of right or interest and answer be filed on a date earlier \nthan twenty-one (21) days after arrest. The order may also set the date for \nexpedited hearing of the action.\n",
+          "pages": [
+            56
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "alsd-civil-parsed-v1-e3b7d7c414fe29ce",
+      "sourceDocumentId": "parsed-alsd-e3b7d7c414fe29ce",
+      "sourceUrl": "https://www.alsd.uscourts.gov/sites/alsd/files/local-rules.pdf",
+      "pageIndex": 56,
+      "pageSpan": [
+        56,
+        56
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "alsd-civil:104",
+      "collectionId": "alsd-civil",
+      "districtId": "alsd",
+      "number": "104",
+      "citation": "Southern District of Alabama · Rule 104",
+      "title": "Rule E – Actions In Rem and Quasi In Rem: General",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-57",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L.R. 104. Rule E – Actions In Rem and Quasi In Rem: General \nProvisions\n(a) Itemized Demand for Judgment. The demand for judgment in every \ncomplaint filed under Rule B or Rule C shall allege the dollar amount of the \ndebt or damages for which the action was commenced. The demand for \njudgment shall also allege the nature of other items of damage. The amount of \nthe special bond posted under Rule E(5)(a) may be based upon these allegations.\n(b) Salvage Action Complaints. In an action for a salvage reward, the \ncomplaint shall allege the dollar value of the vessel, cargo, freight, and other \nproperty salved, and the dollar amount of the reward claimed.\n(c) Verification of Pleadings. Every complaint in Rule B, C, and D actions \nshall be verified upon oath or solemn affirmation, or in the form provided by 28 \nU.S.C. § 1746, by a party or by an authorized officer of a corporate party. If no \nparty or authorized corporate officer is present within the District, verification ",
+          "pages": [
+            56
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-58",
+          "path": [],
+          "type": "paragraph",
+          "text": "53\nof a complaint may be made by an agent, attorney in fact, or attorney of record, \nwho shall state the sources of the knowledge, information, and belief contained \nin the complaint; declare that the document verified is true to the best of his or \nher knowledge, information, and belief; state why verification is not made by \nthe party or an authorized corporate officer; and state that the affiant is \nauthorized so to verify. A verification not made by a party or authorized \ncorporate officer will be deemed to have been made by the party as if verified \npersonally. If the verification was not made by a party or authorized corporate \nofficer, any interested party may move, with or without requesting a stay, for \nthe personal oath of a party or an authorized corporate officer, which shall be \nprocured by commission or as otherwise ordered.\n(d) Review by Judicial Officer. Unless otherwise required by the Judicial \nOfficer, the review of complaints and papers called for by Rules B(1) and C(3) \ndoes not require the affiant party or attorney to be present. The applicant for \nreview shall include a form of order to the Clerk which, upon signature by the \nJudicial Officer, will direct the arrest, attachment, or garnishment sought by \nthe applicant. In exigent circumstances, the certification of the Plaintiff, or \nhis/her attorney, under Rules B and C shall consist of an affidavit or a \ndeclaration pursuant to 28 U.S.C. § 1746 describing in detail the facts that \nestablish the exigent circumstances.\n(e) Return of Service. The party who requests a warrant of arrest or process \nof attachment or garnishment shall provide instructions to the Marshal. A \nperson specially appointed by the Court under Rule B or C, who has served \nprocess of maritime attachment and garnishment or a warrant of arrest that \nseized property, shall promptly file a verified return showing the name of the \nindividual on whom the process or warrant was served, the identity of the \nperson or entity on whom service was made, the documents served, the manner \nin which service was completed (e.g., personal delivery), and the address, date,\nand time of service.\n(f) Property in Possession of United States Officer. When the property \nto be attached or arrested is in the custody of an employee or officer of the \nUnited States, the Marshal shall deliver a copy of the complaint and warrant of \narrest or summons and process of attachment or garnishment to that officer or \nemployee, if present, and, otherwise, to the custodian of the property. The \nMarshal will instruct the officer or employee or custodian to retain custody of \nthe property until ordered to do otherwise by a Judicial Officer.\n(g) Security for Costs. In an action under the Supplemental Rules, a party \nmay move, upon notice to all parties, for an order to compel an adverse party to \npost security for costs with the Clerk pursuant to Rule E(2)(b). Unless \notherwise ordered, the amount of security shall be $500.00. The party so ",
+          "pages": [
+            57
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-59",
+          "path": [],
+          "type": "paragraph",
+          "text": "54\nordered shall post the security within seven (7) days after the order is entered.\nA party who fails to post security when due may not participate further in the \nproceedings except by order of Court. A party may move for an order increasing \nthe amount of security for costs.\n(h) Adversary Hearing. The adversary hearing following arrest or \nattachment or garnishment that is called for in Rule E(4)(f) shall be conducted \nby a Judicial Officer promptly. The person(s) requesting the hearing shall \nnotify all persons known to have an interest in the property of the time and \nplace of the hearing.\n(i) Appraisal. An order for appraisal of property so that security may be \ngiven or altered may be entered upon motion. If the parties do not agree in \nwriting upon an appraiser, a Judicial Officer will appoint the appraiser. The \nappraiser shall be sworn to the faithful and impartial discharge of the \nappraiser’s duties before any federal or state officer authorized by law to \nadminister oaths. The appraiser shall give one (1) business day’s notice of the \ntime and place of making the appraisal to counsel of record. The appraiser shall \npromptly file the appraisal with the Clerk and serve it upon counsel of record. \nThe moving party normally will pay the appraiser’s fee, but it is a taxable cost \nof the action.\n(j) Security Deposit for Seizure of Vessels. The first party who seeks \narrest or attachment of a vessel or property aboard a vessel shall deposit with \nthe Marshal such sums as may be required by the Marshal to cover the \nexpenses of the Marshal including, but not limited to, dockage, keepers, \nmaintenance, and insurance. The Marshal is not required to execute process \nuntil the deposit is made. The party shall advance additional sums from time to \ntime, at the Marshal’s request, to cover estimated expenses. A party who fails \nto advance such additional sums may not participate further in the proceedings \nexcept by order of the Court. The Marshal may, upon notice to all parties, \npetition the Court for an order to release the vessel if additional sums are not \nadvanced within seven (7) days after the request.\n(k) Intervenors’ Claims.\n(1) Presentation of Claim. When a vessel or other property has been \narrested, attached, or garnished, and is in the hands of the Marshal or \nsubstitute custodian, anyone having a claim against the vessel or property is \nrequired to present the claim by filing an intervening complaint and obtain a \nwarrant of arrest, and not by filing an original complaint, unless otherwise \nordered by a Judicial Officer. No formal motion is required. The intervening \nparty shall serve a copy of the intervening complaint and warrant of arrest \nupon all parties to the action and shall forthwith deliver a conformed copy of ",
+          "pages": [
+            58
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-60",
+          "path": [],
+          "type": "paragraph",
+          "text": "55\nthe complaint and warrant of arrest to the Marshal, who shall deliver the \ncopies to the vessel or custodian of the property. Intervenors shall thereafter \nbe subject to the rights and obligations of parties, and the vessel or property \nshall stand arrested, attached, or garnished by the intervenor. An intervenor \nshall not be required to advance a security deposit to the Marshal for seizure \nof a vessel as required by Local Admiralty Rule 104(j).\n(2) Sharing Marshal’s Fees and Expenses. An intervenor shall owe a \ndebt to any party who has previously advanced funds to cover the expenses of \nthe Marshal, enforceable on motion, consisting of the intervenor’s share of the \nMarshal’s fees and expenses in the proportion that the intervenor’s claim \nbears to the sum of all the claims. If a party Plaintiff permits the vacation of \nan arrest, attachment, or garnishment, the remaining Plaintiffs will share the \nresponsibility to the Marshal for fees and expenses in proportion to the \nremaining claims and for the duration of the Marshal’s custody because of \neach claim.\n(l) Custody of Property.\n(1) Safekeeping of Property. When a vessel or other property is brought \ninto the Marshal’s custody by arrest or attachment, the Marshal shall arrange \nfor adequate safekeeping, which may include the placing of keepers on or near \nthe vessel. A substitute custodian, in place of the Marshal, may be appointed \nby order of the Court. Any application for appointment of a substitute \ncustodian must show the name of the proposed custodian, the location of the \nvessel during the period of custody, and the proposed insurance coverage. \nNotice of the application to appoint a substitute custodian, if made concurrent \nwith the application for arrest or attachment, need only be given to the \nMarshal.\n(2) Insurance. The Marshal may procure insurance to protect the Marshal, \nkeepers, and substitute custodians from liabilities assumed in arresting and \nholding the vessel, cargo, or other property, in performing protective services, \nand in maintaining the Court’s custody. The party who applies for arrest or \nattachment shall reimburse the Marshal for premiums paid for the insurance \nand shall be an added insured on the policy. The party who applies for \nremoval of the vessel, cargo, or other property to another location, for \ndesignation of a substitute custodian, or for other relief that will require an \nadditional premium, shall reimburse the Marshal therefor. The premiums \ncharged for the liability insurance are taxable as administrative costs while \nthe vessel, cargo, or other property is in the custody of the Court.",
+          "pages": [
+            59
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-61",
+          "path": [],
+          "type": "paragraph",
+          "text": "56\n(3) Cargo Handling, Repairs, and Movement of the Vessel.\n(A) Following arrest or attachment of a vessel, cargo handling shall be \npermitted to commence or continue unless otherwise ordered by the Court. \nNo repairs to or movement of the vessel shall take place without order of \nthe Court. The applicant for an order shall give notice to the Marshal and \nto all parties of record.\n(B) If an applicant shows adequate insurance to indemnify the Marshal for \nliability, the Court may order the Marshal to permit repairs or movement \nof the vessel, cargo, or other property. The costs and expenses of such \nactivities shall be borne as ordered by the Court. Any party of record may \nmove for an order to dispense with keepers or to remove or place the vessel, \ncargo, or other property at a specified facility, to designate a substitute \ncustodian, or for similar relief. Notice of the motion shall be given to the \nMarshal, keeper, or substitute custodian, and to all parties of record. The \nJudicial Officer will require that adequate insurance on the property will \nbe maintained by the successor to the Marshal, before issuing the order to \nchange arrangements.\n(4) Claims by Suppliers for Payment of Charges. A person who has \nfurnished supplies or services to a vessel, cargo, or other property while in \ncustody of the Court, who has not been paid, and who claims the right to \npayment as an expense of administration, shall submit an invoice to the Clerk \nin the form of a verified claim at any time before the vessel, cargo, or other \nproperty is released or sold. The supplier must serve copies of the claim on \nthe Marshal, substitute custodian if one has been appointed, and all parties of \nrecord. The Court may consider the claims individually or schedule a single \nhearing for all claims.\n(m) Sale of Property.\n(1) Notice. Unless otherwise ordered, upon good cause shown, or as \nprovided by law, notice of sale of property in an action in rem shall be \npublished in a newspaper of general circulation in the District one (1) time a \nweek for two (2) consecutive weeks with the last date of publication not less \nthan seven (7) days immediately preceding the sale. The Marshal shall file \nwith the Clerk a copy of the notice as it was published. The notice of sale \nshall state the last date on which claims can be filed against the vessel or \nproperty or proceeds of sale of same, as provided in Local Admiralty Rule \n104(k)(1).\n(2) Payment of Bid. These provisions apply unless otherwise ordered in the \norder of sale:",
+          "pages": [
+            60
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-62",
+          "path": [],
+          "type": "paragraph",
+          "text": "57\n(A) The person whose bid is accepted shall immediately pay the Clerk the \nfull purchase price if the bid is $1,000.00 or less;\n(B) If the bid exceeds $1,000.00, the bidder shall immediately pay the \nClerk a deposit of at least $1,000.00 or ten percent (10%) of the bid, \nwhichever is greater, and shall pay the balance within three (3) business \ndays;\n(C) If an objection to the sale is filed within the period set forth in Local \nAdmiralty Rule 104(m)(6), the bidder is excused from paying the balance of \nthe purchase price until five (5) days after the sale is confirmed; and \n(D) Payment shall be made in cash, by certified check, cashier’s check, or \nwire transfer.\n(3) Late Payment. If the successful bidder does not pay the balance of the \npurchase price within the time allowed, the bidder shall pay the Marshal the \ncost of keeping the property from the due date of the bid amount until the \nbalance is paid, and the Marshal may refuse to release the property until this \ncharge is paid.\n(4) Default. If the successful bidder does not pay the balance of the \npurchase price within the time allowed, the bidder shall be in default, upon \norder of the Court entered in response to an appropriate motion, and the \nJudicial Officer may accept the second highest bid or may arrange a new sale. \nThe defaulting bidder’s deposit shall be forfeited and applied to any additional \ncosts incurred by the Marshal because of the default, and the balance shall be \nretained in the registry of the Court awaiting an order.\n(5) Report of Sale by Marshal. At the conclusion of the sale, the Marshal \nshall forthwith file a written report with the Court setting forth the notice \ngiven; the fact of the sale; the date of the sale; the names, addresses, and bid \namounts of the bidders; the price obtained; and any other pertinent \ninformation.\n(6) Time and Procedure for Objection to Sale. An interested person may \nobject to the sale by filing a written objection with the Clerk within three (3) \nbusiness days following the sale, serving the objection on all parties of record, \nthe successful bidder, and the Marshal, and depositing a sum with the \nMarshal that is sufficient to pay the expense of keeping the property for at \nleast seven (7) days. Payment to the Marshal of such sum shall be by certified \ncheck or cashier’s check. The Court shall hold a hearing on the confirmation \nof the sale.",
+          "pages": [
+            61
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-63",
+          "path": [],
+          "type": "paragraph",
+          "text": "58\n(7) Confirmation of Sale. If no objection to the sale has been timely filed, \nthe sale shall be confirmed by order of the Court no sooner than five (5) days \nafter the sale and no later than seven (7) days after the sale. The Marshal \nshall transfer title to the purchaser upon the order of the Court.\n(8) Disposition of Deposits.\n(A) If the objection is sustained, sums deposited by the successful bidder \nwill be returned to the bidder forthwith. The sum deposited by the objector \nwill be applied to pay the fees and expenses incurred by the Marshal in \nkeeping the property until it is resold, and any balance remaining shall be \nreturned to the objector. The objector will be reimbursed for the expense of \nkeeping the property from the proceeds of a subsequent sale.\n(B) If the objection is overruled, the sum deposited by the objector will be \napplied to pay the expense of keeping the property from the day the \nobjection was filed until the day the sale is confirmed, and any balance \nremaining will be returned to the objector forthwith.\n",
+          "pages": [
+            62
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "alsd-civil-parsed-v1-e3b7d7c414fe29ce",
+      "sourceDocumentId": "parsed-alsd-e3b7d7c414fe29ce",
+      "sourceUrl": "https://www.alsd.uscourts.gov/sites/alsd/files/local-rules.pdf",
+      "pageIndex": 56,
+      "pageSpan": [
+        56,
+        62
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "alsd-civil:105",
+      "collectionId": "alsd-civil",
+      "districtId": "alsd",
+      "number": "105",
+      "citation": "Southern District of Alabama · Rule 105",
+      "title": "Rule F – Limitation of Liability",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-63",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L.R. 105. Rule F – Limitation of Liability\n(a) Security for Costs. Unless otherwise ordered, the amount of security for \ncosts under Rule F(1) shall be $1,000.00, and security for costs may be combined \nwith security for value and interest, unless otherwise ordered.\n(b) Order of Proof at Trial. In an action where vessel interests seek to limit \ntheir liability, the damage claimants shall offer their proof first, whether the \nright to limit arises as a claim or as a defense.\n",
+          "pages": [
+            62
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "alsd-civil-parsed-v1-e3b7d7c414fe29ce",
+      "sourceDocumentId": "parsed-alsd-e3b7d7c414fe29ce",
+      "sourceUrl": "https://www.alsd.uscourts.gov/sites/alsd/files/local-rules.pdf",
+      "pageIndex": 62,
+      "pageSpan": [
+        62,
+        62
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    }
+  ],
+  "evidence": [
+    {
+      "number": "1",
+      "heading": "Civil L.R. 1. Scope of Rules",
+      "page": 35,
+      "offset": 203,
+      "slices": [
+        {
+          "page": 35,
+          "start": 203,
+          "end": 371,
+          "sha256": "a19e321b8f6ec5d7edee904719f61ed3f189394d2763a26d3b3e4a5094eb5523"
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "heading": "Civil L.R. 3. Commencing an Action",
+      "page": 35,
+      "offset": 371,
+      "slices": [
+        {
+          "page": 35,
+          "start": 371,
+          "end": 1653,
+          "sha256": "078b17dbdfbf25fc9e212fe142d90b9b8dd340761d1a0685c89832cee941e7d8"
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "heading": "Civil L.R. 4. Service of Process",
+      "page": 35,
+      "offset": 1653,
+      "slices": [
+        {
+          "page": 35,
+          "start": 1653,
+          "end": 1981,
+          "sha256": "b90e36aad9acf33dcd580bcb6dd9e272bb4a508e97d862ae6520d0186956269c"
+        },
+        {
+          "page": 36,
+          "start": 0,
+          "end": 720,
+          "sha256": "d7dd02d7d1c124e823e15c483c69be959fabf6264cd3b0479d3082f3b50e77aa"
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "heading": "Civil L.R. 5. Filing Discovery Materials and Exhibits",
+      "page": 36,
+      "offset": 720,
+      "slices": [
+        {
+          "page": 36,
+          "start": 720,
+          "end": 1621,
+          "sha256": "657a8d5f98b43fecb09deb9ccc128d41a819f735ac934ced63c5735aaf9b9896"
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "heading": "Civil L.R. 7. Form of Motions and Other Papers",
+      "page": 36,
+      "offset": 1621,
+      "slices": [
+        {
+          "page": 36,
+          "start": 1621,
+          "end": 2262,
+          "sha256": "33447ea8392b4e383ebe0df32f09ac7f28c2bf7b7a3dd4d07dd0b9f70b35d5ed"
+        },
+        {
+          "page": 37,
+          "start": 0,
+          "end": 2536,
+          "sha256": "814d75b8b8d4f1c44cad36a95a9a3fdbe6da508df67372b19044241e6d1203fc"
+        },
+        {
+          "page": 38,
+          "start": 0,
+          "end": 818,
+          "sha256": "c435ce299f3084db062f88aa9745efeb43ed80a559298b427f7e123ec7796b71"
+        }
+      ]
+    },
+    {
+      "number": "7.1",
+      "heading": "Civil L.R. 7.1. Disclosure Statements",
+      "page": 38,
+      "offset": 818,
+      "slices": [
+        {
+          "page": 38,
+          "start": 818,
+          "end": 2586,
+          "sha256": "e651fa5eaca7ca600d86245fb9eced6edf04a0678054aa0fb1447c6f676d5111"
+        },
+        {
+          "page": 39,
+          "start": 0,
+          "end": 185,
+          "sha256": "a3463d8ef7e38aa067012a50bb6ca14653bcf2afee9876495b52e86d09a1adfa"
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "heading": "Civil L.R. 8. Pleading Jurisdiction",
+      "page": 39,
+      "offset": 185,
+      "slices": [
+        {
+          "page": 39,
+          "start": 185,
+          "end": 871,
+          "sha256": "0f3ea6284741cad82318aea58dc28b6ec6b1a359656d296aee40cc7d2d5671d5"
+        }
+      ]
+    },
+    {
+      "number": "9",
+      "heading": "Civil L.R. 9. Pleading Special Matters",
+      "page": 39,
+      "offset": 871,
+      "slices": [
+        {
+          "page": 39,
+          "start": 871,
+          "end": 1959,
+          "sha256": "b0f431f976565750909847881482d8b9226b28e3ba2fe01c34b7b7d3046dbdf2"
+        }
+      ]
+    },
+    {
+      "number": "10",
+      "heading": "Civil L.R. 10. Form of Pleadings",
+      "page": 39,
+      "offset": 1959,
+      "slices": [
+        {
+          "page": 39,
+          "start": 1959,
+          "end": 2331,
+          "sha256": "a6b744b0e529ce0897aa1eadf1b1bb299132d4089f24bb568a072aec7e63e618"
+        },
+        {
+          "page": 40,
+          "start": 0,
+          "end": 247,
+          "sha256": "fbef338a5a2cac2edbae13d171a2678985e6ed1e5c76ef580f36cf031fa0d8d0"
+        }
+      ]
+    },
+    {
+      "number": "12",
+      "heading": "Civil L.R. 12. Motions to Dismiss or Motions for Judgment on the",
+      "page": 40,
+      "offset": 247,
+      "slices": [
+        {
+          "page": 40,
+          "start": 247,
+          "end": 703,
+          "sha256": "2802ed370d494cdc635307e16a512f819505b319a1777f7ecf38e6d4f70e4e42"
+        }
+      ]
+    },
+    {
+      "number": "15",
+      "heading": "Civil L.R. 15. Amended and Supplemental Pleadings",
+      "page": 40,
+      "offset": 703,
+      "slices": [
+        {
+          "page": 40,
+          "start": 703,
+          "end": 1682,
+          "sha256": "2378b95a833602dbedbf536feb32b76f2e4ab051ede7220987ec725d58627870"
+        }
+      ]
+    },
+    {
+      "number": "16",
+      "heading": "Civil L.R. 16. Pretrial Conferences; Scheduling; Management; Alternative",
+      "page": 40,
+      "offset": 1682,
+      "slices": [
+        {
+          "page": 40,
+          "start": 1682,
+          "end": 2103,
+          "sha256": "0b18f76bfa342f3c8b7762ab5a9cc237610bc901765c61b5f50b465135f1ca52"
+        },
+        {
+          "page": 41,
+          "start": 0,
+          "end": 2152,
+          "sha256": "2d95672d52f003690b1e01ecae2c8d9e681fdad2a00f27518febf5d9112adea6"
+        },
+        {
+          "page": 42,
+          "start": 0,
+          "end": 2588,
+          "sha256": "4b160c941d90611c1416686becae9dd9306cfb96eab6c4a93eaf7a1b7f3fa668"
+        },
+        {
+          "page": 43,
+          "start": 0,
+          "end": 2628,
+          "sha256": "7a17a6eb7815aa6210c0a7ada17d441d670de4ea39ea840dd676db68aeff575e"
+        },
+        {
+          "page": 44,
+          "start": 0,
+          "end": 841,
+          "sha256": "5968ad1d7426f00d8321bd51f6b478980d9dafb750a32a195263d9c00d064d85"
+        }
+      ]
+    },
+    {
+      "number": "26",
+      "heading": "Civil L.R. 26. Duty to Disclose; General Provisions Governing Discovery",
+      "page": 44,
+      "offset": 841,
+      "slices": [
+        {
+          "page": 44,
+          "start": 841,
+          "end": 1733,
+          "sha256": "750e8dc9161b7a4cd217cc9580219f00e65dc197674486df3275be85e357b0da"
+        },
+        {
+          "page": 45,
+          "start": 0,
+          "end": 2277,
+          "sha256": "9501a5f65bd1d7c8a5d86af053dccee4936767c46d5e573866cd637b632a7697"
+        },
+        {
+          "page": 46,
+          "start": 0,
+          "end": 2038,
+          "sha256": "6c8df03e76999512e04ce0a557a4467841b0019e19a86c843068e0f8bf7bcf39"
+        },
+        {
+          "page": 47,
+          "start": 0,
+          "end": 3,
+          "sha256": "084c799cd551dd1d8d5c5f9a5d593b2e931f5e36122ee5c793c1d08a19839cc0"
+        }
+      ]
+    },
+    {
+      "number": "33",
+      "heading": "Civil L.R. 33. Interrogatories",
+      "page": 47,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 47,
+          "start": 3,
+          "end": 1850,
+          "sha256": "7d5af13aebbcb536a89170c2f31d00888d6cf4f1aa29a295f95e916d4002097d"
+        }
+      ]
+    },
+    {
+      "number": "34",
+      "heading": "Civil L.R. 34. Producing Documents",
+      "page": 47,
+      "offset": 1850,
+      "slices": [
+        {
+          "page": 47,
+          "start": 1850,
+          "end": 2000,
+          "sha256": "7c7ad0c523baca5ff70d39efd7c45364170362f2970fb0ff6438855f2ac87b2d"
+        },
+        {
+          "page": 48,
+          "start": 0,
+          "end": 3,
+          "sha256": "0e55092af0746630c98d1b2e0d960617c33f8ea7b55739fd18cb7cd5342a28ca"
+        }
+      ]
+    },
+    {
+      "number": "36",
+      "heading": "Civil L.R. 36. Requests for Admission",
+      "page": 48,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 48,
+          "start": 3,
+          "end": 143,
+          "sha256": "b7eba03dd5a2c03307f60226653ae2456ca01e36ee6ea0be984d6465df07e7c0"
+        }
+      ]
+    },
+    {
+      "number": "37",
+      "heading": "Civil L.R. 37. Discovery Motions",
+      "page": 48,
+      "offset": 143,
+      "slices": [
+        {
+          "page": 48,
+          "start": 143,
+          "end": 718,
+          "sha256": "e7c04cb097cef7c3242e02afc6a97de3107185bc8148cb01256d480f3fbffb1f"
+        }
+      ]
+    },
+    {
+      "number": "41",
+      "heading": "Civil L.R. 41. Dismissal of Actions",
+      "page": 48,
+      "offset": 718,
+      "slices": [
+        {
+          "page": 48,
+          "start": 718,
+          "end": 2159,
+          "sha256": "57e33b18ee4611fa7dce5f3f5683bd977712f944c1b25e3639319299685492a8"
+        },
+        {
+          "page": 49,
+          "start": 0,
+          "end": 3,
+          "sha256": "b1ce0aa6fdf3cf349d773243dab9fbbe09d30619f38b0c1e8977e28c4f0bc495"
+        }
+      ]
+    },
+    {
+      "number": "42",
+      "heading": "Civil L.R. 42. Consolidation",
+      "page": 49,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 49,
+          "start": 3,
+          "end": 1144,
+          "sha256": "f4319857b1d273adbc26c81f26bab760456db7aa89c35a081e20295612f47e85"
+        }
+      ]
+    },
+    {
+      "number": "54",
+      "heading": "Civil L.R. 54. Costs",
+      "page": 49,
+      "offset": 1144,
+      "slices": [
+        {
+          "page": 49,
+          "start": 1144,
+          "end": 2060,
+          "sha256": "0a5be584e3e79393e83243deca4a74821718178705fa49c2e3f2201a2079eea8"
+        },
+        {
+          "page": 50,
+          "start": 0,
+          "end": 190,
+          "sha256": "bb56e4ae4e344fc1d864358ec1e10c6a8733577121cd811df7d0d0383da21845"
+        }
+      ]
+    },
+    {
+      "number": "56",
+      "heading": "Civil L.R. 56. Summary Judgment",
+      "page": 50,
+      "offset": 190,
+      "slices": [
+        {
+          "page": 50,
+          "start": 190,
+          "end": 2357,
+          "sha256": "2e0b6668c03e736e2637e0bf869bee180236cd2ef4a31cfebb97d575bececc35"
+        },
+        {
+          "page": 51,
+          "start": 0,
+          "end": 3,
+          "sha256": "a5331f18877e9e1543361e44b4cb0a1f5f0ed5f8297d850bf1fcc68bd7a3ab5f"
+        }
+      ]
+    },
+    {
+      "number": "62",
+      "heading": "Civil L.R. 62. Supersedeas Bonds",
+      "page": 51,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 51,
+          "start": 3,
+          "end": 849,
+          "sha256": "3dd35860bd2745294b66d3dca8943bba47b1ba1554647d23ddc0f7af35672f3b"
+        }
+      ]
+    },
+    {
+      "number": "65.1",
+      "heading": "Civil L.R. 65.1. Sureties",
+      "page": 51,
+      "offset": 849,
+      "slices": [
+        {
+          "page": 51,
+          "start": 849,
+          "end": 992,
+          "sha256": "980ee6c0719d6cb095bfdb8025d7c7fa4260ed3b51d71bd4ff8cbdfc6a4e056c"
+        }
+      ]
+    },
+    {
+      "number": "65.2",
+      "heading": "Civil L.R. 65.2. Security for Costs",
+      "page": 51,
+      "offset": 992,
+      "slices": [
+        {
+          "page": 51,
+          "start": 992,
+          "end": 1524,
+          "sha256": "770860ffdc9634f313ed29a0e4cdc1c795b37290434dd69457bef743f2e05ff2"
+        }
+      ]
+    },
+    {
+      "number": "67",
+      "heading": "Civil L.R. 67. Deposit Into Court; Withdrawal of Monies; Registry Fee",
+      "page": 51,
+      "offset": 1524,
+      "slices": [
+        {
+          "page": 51,
+          "start": 1524,
+          "end": 2253,
+          "sha256": "71effca7908d7b11707b5cfdc85fd3cd6bb086ed5ff092cbce4bb4f6d93e7a0f"
+        },
+        {
+          "page": 52,
+          "start": 0,
+          "end": 2642,
+          "sha256": "bba3f09ac22b4c9023796f6c205d521b9d6a56a2a97f45aa6b86151d694708cd"
+        },
+        {
+          "page": 53,
+          "start": 0,
+          "end": 1584,
+          "sha256": "e12320e032b52b9050229e83b84d1a092474c30ff2a082949d3f02047fb48789"
+        }
+      ]
+    },
+    {
+      "number": "67.1",
+      "heading": "Civil L.R. 67.1. Special Attorney Admission Fund",
+      "page": 53,
+      "offset": 1584,
+      "slices": [
+        {
+          "page": 53,
+          "start": 1584,
+          "end": 2587,
+          "sha256": "4cc90a47b4fa3915b4e661340722d90c5633cee933c0486600be533509bf3626"
+        },
+        {
+          "page": 54,
+          "start": 0,
+          "end": 542,
+          "sha256": "2af7bfced24c64d532d00a0597c3174799fa771bae3878dd9c027b528dad46ed"
+        }
+      ]
+    },
+    {
+      "number": "100",
+      "heading": "Civil L.R. 100. Rule A – Authority, Scope, and Definitions",
+      "page": 54,
+      "offset": 542,
+      "slices": [
+        {
+          "page": 54,
+          "start": 542,
+          "end": 1728,
+          "sha256": "33248e66bed205ffc3d5554b6b4eee26993e31f8251055228393aa110670cecc"
+        }
+      ]
+    },
+    {
+      "number": "101",
+      "heading": "Civil L.R. 101. Rule B – Maritime Attachment and Garnishment",
+      "page": 54,
+      "offset": 1728,
+      "slices": [
+        {
+          "page": 54,
+          "start": 1728,
+          "end": 2067,
+          "sha256": "20b08e1b9a6c17b97d3e1c274dbe38a01accca263110721d46cd6ba18f9955a7"
+        },
+        {
+          "page": 55,
+          "start": 0,
+          "end": 3,
+          "sha256": "7ea9844ae84eccbf55e8330640865e36c43521e45a1baec24233327aab7e6595"
+        }
+      ]
+    },
+    {
+      "number": "102",
+      "heading": "Civil L.R. 102. Rule C – Actions In Rem: Special Provisions",
+      "page": 55,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 55,
+          "start": 3,
+          "end": 2288,
+          "sha256": "e4144577c06ef927f6d05135a561eda9ab1d20390e146f5a40670bd4040309a5"
+        },
+        {
+          "page": 56,
+          "start": 0,
+          "end": 1829,
+          "sha256": "b26f40325698ba72cbd52159dd55f0c3fb6ea25fc1b98655ab28001caf6fd21e"
+        },
+        {
+          "page": 57,
+          "start": 0,
+          "end": 923,
+          "sha256": "d5d9323044dac96a74e71f799c143173041cbac64856cf6ccdcb17e8f73db0e1"
+        }
+      ]
+    },
+    {
+      "number": "103",
+      "heading": "Civil L.R. 103. Rule D – Possessory, Petitory, and Partition Actions",
+      "page": 57,
+      "offset": 923,
+      "slices": [
+        {
+          "page": 57,
+          "start": 923,
+          "end": 1261,
+          "sha256": "c74938216c77837fe0a13429448d3a62143914507a56e405b1d64ec0e5604ff8"
+        }
+      ]
+    },
+    {
+      "number": "104",
+      "heading": "Civil L.R. 104. Rule E – Actions In Rem and Quasi In Rem: General",
+      "page": 57,
+      "offset": 1261,
+      "slices": [
+        {
+          "page": 57,
+          "start": 1261,
+          "end": 2251,
+          "sha256": "3a8bf86f03f760692fb61e38d3ffc7b21575346d881067cc2f09f464333a82bd"
+        },
+        {
+          "page": 58,
+          "start": 0,
+          "end": 2994,
+          "sha256": "3e6ea52387b923b7831a7d5d446ebb9232e168a8777e271c6ac69daee63e08a4"
+        },
+        {
+          "page": 59,
+          "start": 0,
+          "end": 2783,
+          "sha256": "f375e48be63a62ef923e9c67ba8315000409d6c715a783ed941799634192fb0e"
+        },
+        {
+          "page": 60,
+          "start": 0,
+          "end": 2636,
+          "sha256": "fb4886188a56b5fc58c5193416cea7693798f74f478069af5ddc9cc8624556a6"
+        },
+        {
+          "page": 61,
+          "start": 0,
+          "end": 2533,
+          "sha256": "07754c4b6a3b6311517d0085c655ff9489c2c8cac330f31a1a8f14f54fec3a7e"
+        },
+        {
+          "page": 62,
+          "start": 0,
+          "end": 2395,
+          "sha256": "c50f514c3e5ac27b4cdef5ccee23b03ebc95e62b51e6fd26f1a648366b23b6b1"
+        },
+        {
+          "page": 63,
+          "start": 0,
+          "end": 1051,
+          "sha256": "bd860a30286bd3de3a7da606247f5ac2a735fac142603a5d70122a0514cf4bbd"
+        }
+      ]
+    },
+    {
+      "number": "105",
+      "heading": "Civil L.R. 105. Rule F – Limitation of Liability",
+      "page": 63,
+      "offset": 1051,
+      "slices": [
+        {
+          "page": 63,
+          "start": 1051,
+          "end": 1536,
+          "sha256": "9fb10560ed542dfdbd1231f1525ddb7fc8209e1ada3f61cab9762d2205baff2e"
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "startPage": 35,
+    "startOffset": 203,
+    "endPage": 63,
+    "endOffset": 1536,
+    "ruleCount": 32,
+    "tocReconciled": false,
+    "editorialReviewComplete": false,
+    "currencyReviewed": false,
+    "flags": [
+      "Source extraction contains unresolved characters; consult the original publication."
+    ],
+    "excluded": "Source material outside the recorded range remains available in the district source library."
+  },
+  "transcriptionSha256": "91638f324cd233d108b436d574b36da7be4a863f156510ca35a05c0a5b7fdefe"
+}

@@ -1,0 +1,1939 @@
+{
+  "version": 1,
+  "reviewStatus": "parsed-draft",
+  "districtId": "txed",
+  "sourceDocument": {
+    "id": "be1176ce485e76f3",
+    "title": "Complete Local Rules (download linked from Rules & Orders)",
+    "format": "pdf",
+    "role": "primary",
+    "sourceUrl": "https://www.txed.uscourts.gov/sites/default/files/HR_Docs/TXED%20Local%20Rules%202025%20-%20As%20Amended%202.9.2026%20Updated%206.2.2026.pdf",
+    "sha256": "be1176ce485e76f362660a702a10d548954095c20635f8a1a63af68ff1a59d88",
+    "bytes": 623842,
+    "retrievedAt": "2026-09-07T00:02:24.933022+00:00",
+    "snapshotPath": "sources/district-snapshots/be1176ce485e76f362660a702a10d548954095c20635f8a1a63af68ff1a59d88.pdf",
+    "textPath": "data/source-library/be1176ce485e76f362660a702a10d548954095c20635f8a1a63af68ff1a59d88.json",
+    "pdfPath": "data/source-pdfs/be1176ce485e76f362660a702a10d548954095c20635f8a1a63af68ff1a59d88.pdf",
+    "pageCount": 66,
+    "reviewStatus": "source-document-only",
+    "blankTextPages": 0
+  },
+  "collection": {
+    "id": "txed-civil",
+    "name": "Eastern District of Texas Local Rules",
+    "shortName": "Local rules · draft",
+    "districtId": "txed",
+    "scopeNote": "Civil and generally applicable local rules; unparsed supplements remain in the source library. Rule boundaries and transcription are drafts. Embedded notes, forms, and running headers may remain within rule text; subsection anchors and field-separated notes are not yet reviewed."
+  },
+  "provisions": [
+    {
+      "id": "txed-civil:1",
+      "collectionId": "txed-civil",
+      "districtId": "txed",
+      "number": "1",
+      "citation": "Eastern District of Texas · Rule 1",
+      "title": "Scope and Purpose of Rules",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-4",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE CV-1 Scope and Purpose of Rules \n(a) The rules of procedure in any proceeding in this court are those prescribed by the laws of \nthe United States, the Federal Rules of Civil Procedure, these local rules, and any orders \nentered by the court. These local rules shall be construed as consistent with Acts of \nCongress and rules of practice and procedure prescribed by the Supreme Court of the \nUnited States and the United States Court of Appeals for the Fifth Circuit. \n(b) Admiralty Rules. The Supplemental Rules for Certain Admiralty and Maritime Claims, \nas adopted by the Supreme Court of the United States, shall govern all admiralty and \nmaritime actions in this court. \n(c) Patent Rules. The “Rules of Practice for Patent Cases before the Eastern District of Texas” \nshall apply to all civil actions filed in or transferred to this court which allege infringement \nof a utility patent in a complaint, counterclaim, cross-claim, or third party claim, or which \nseek a declaratory judgment that a utility patent is not infringed, is invalid, or is \nunenforceable. \nJudges may opt out of this rule by entering an order. \n",
+          "pages": [
+            3
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txed-civil-parsed-v1-be1176ce485e76f3",
+      "sourceDocumentId": "parsed-txed-be1176ce485e76f3",
+      "sourceUrl": "https://www.txed.uscourts.gov/sites/default/files/HR_Docs/TXED%20Local%20Rules%202025%20-%20As%20Amended%202.9.2026%20Updated%206.2.2026.pdf",
+      "pageIndex": 3,
+      "pageSpan": [
+        3,
+        3
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txed-civil:3",
+      "collectionId": "txed-civil",
+      "districtId": "txed",
+      "number": "3",
+      "citation": "Eastern District of Texas · Rule 3",
+      "title": "Commencement of Action",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-4",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE CV-3 Commencement of Action \n(a) Habeas Corpus and 28 U.S.C. § 2255 Motions. The clerk may require that petitions for \na writ of habeas corpus and motions filed pursuant to 28 U.S.C. § 2255 be filed on a set of \nstandardized forms approved by this court and supplied, upon request, by the clerk without \ncost to the petitioner. Petitioners who do not proceed in forma pauperis must pay a $5.00 \nfiling fee. See 28 U.S.C. § 1914(a). There is no filing fee for Section 2255 motions filed \nby prisoners in federal custody. \n(b) Page Limitation for Petitions for a Writ of Habeas Corpus and 28 U.S.C. § 2255 \nMotions. Absent leave of court, 28 U.S.C. §§ 2241 and 2254 habeas corpus petitions and \n28 U.S.C. § 2255 motions and the initial responsive pleadings thereto, shall not exceed \nthirty pages in non-death penalty cases, and one hundred pages in death penalty cases, \nexcluding attachments. Replies and sur-replies, along with all other motions and responses \nthereto, shall not exceed fifteen pages in length in non-death penalty cases and thirty pages \nin length in death penalty cases, excluding attachments. Documents that exceed ten pages \nin length must include a table of contents and table of authorities, with page references. \nTables and certificates of service and conference are not counted against the applicable \npage limit. ",
+          "pages": [
+            3
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-5",
+          "path": [],
+          "type": "paragraph",
+          "text": "5\n(c) Motions for Stay of Execution. A motion for stay of execution filed on behalf of a \npetitioner challenging a sentence of death must be filed at least seven days before the \npetitioner’s scheduled execution date or recite good cause for any late filing. \n(d) Page Limitations in Civil Rights Lawsuits. Absent leave of court, complaints and the \ninitial responsive pleadings thereto filed in civil rights proceedings shall not exceed thirty \npages, excluding attachments. Documents that exceed ten pages in length must include a \ntable of contents and table of authorities, with page references. Tables and certificates of \nservice and conference are not counted against the applicable page limit. \n",
+          "pages": [
+            4
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txed-civil-parsed-v1-be1176ce485e76f3",
+      "sourceDocumentId": "parsed-txed-be1176ce485e76f3",
+      "sourceUrl": "https://www.txed.uscourts.gov/sites/default/files/HR_Docs/TXED%20Local%20Rules%202025%20-%20As%20Amended%202.9.2026%20Updated%206.2.2026.pdf",
+      "pageIndex": 3,
+      "pageSpan": [
+        3,
+        4
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txed-civil:4",
+      "collectionId": "txed-civil",
+      "districtId": "txed",
+      "number": "4",
+      "citation": "Eastern District of Texas · Rule 4",
+      "title": "Complaint, Summons, and Return",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-5",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE CV-4 Complaint, Summons, and Return\n(a) At the commencement of the action, counsel shall prepare and file the civil cover sheet, \nForm JS 44, along with the complaint. When filing a patent, trademark, or copyright case, \ncounsel is also responsible for electronically filing an AO Form 120 or 121 using the event \nNotice of Filing of Patent/Trademark Form (AO 120) or Notice of Filing of Copyright \nForm (AO 121). \nIf service of summons is not waived, the plaintiff must prepare and submit a summons to \nthe clerk for each defendant to be served with a copy of the complaint. Unless exempt \nfrom electronic filing under Local Rule CV-5(a), the plaintiff must submit the summons\nby uploading it to the Electronic Filing System using the Request for Clerk to Issue \nDocument event.\n(b) Electronic Filing of Complaints. Attorneys must electronically file a civil complaint \nupon opening a civil case in CM/ECF. \n(c) On the complaint, all litigants shall type or print all party names contained in the case \ncaption with the accurate capitalization and spacing for each party (e.g., Martha \nvanDerkloot, James De Borne). This procedure seeks to ensure that accurate computer \nparty name searches can later be performed. \n(d) Service of civil process shall not be executed by the United States Marshal except for \ngovernment initiated process, extraordinary writ, or when ordered to do so by a judge. The \nparty requesting service is responsible for preparing all process forms to be supplied by \nthe clerk. When process is to be served by the United States Marshal, the party seeking \nservice shall complete the required U.S. Marshal Form 285. \n",
+          "pages": [
+            4
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txed-civil-parsed-v1-be1176ce485e76f3",
+      "sourceDocumentId": "parsed-txed-be1176ce485e76f3",
+      "sourceUrl": "https://www.txed.uscourts.gov/sites/default/files/HR_Docs/TXED%20Local%20Rules%202025%20-%20As%20Amended%202.9.2026%20Updated%206.2.2026.pdf",
+      "pageIndex": 4,
+      "pageSpan": [
+        4,
+        4
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txed-civil:5",
+      "collectionId": "txed-civil",
+      "districtId": "txed",
+      "number": "5",
+      "citation": "Eastern District of Texas · Rule 5",
+      "title": "Service and Filing of Pleadings and Other Documents",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-5",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE CV-5 Service and Filing of Pleadings and Other Documents\n(a) Electronic Filing Required. All documents filed with the court shall be electronically \nfiled in the court’s Electronic Filing System by a Filing User in compliance with the \nprocedures outlined below, except as expressly provided or in exceptional circumstances.\n(1) Exemptions from Electronic Filing Requirement. The following are exempted\nfrom the requirement of electronic filing: ",
+          "pages": [
+            4
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-6",
+          "path": [],
+          "type": "paragraph",
+          "text": "6\n(A) In a criminal case, the charging documents, including the complaint, \ninformation, indictment, and any superseding indictment; affidavits in \nsupport of search and arrest warrants, pen registers, trap and trace requests, \nwiretaps, and other related documentation; and ex parte documents filed in \nconnection with ongoing criminal investigations; \n(B) Documents filed by pro se litigants (prisoner and non-prisoner); \n(C) Official administrative records or transcripts of prior court or \nadministrative proceedings from other courts or agencies that are required \nto be filed by law, rule, or local rule; and \n(D) Sealed civil complaints (these documents should be filed with the clerk \nalong with a motion to seal the case pursuant to submission instructions \nprovided by the clerk’s office). See Local Rule CV-5(a)(7)(A). \n(2) Registration for Electronic Filing. \n(A) The clerk shall register all attorneys admitted to the bar of this court, \nincluding those admitted pro hac vice, as Filing Users of the court’s \nElectronic Filing System. Registration as a Filing User constitutes consent \nto electronic service of all documents as provided in these rules in \naccordance with the Federal Rules of Civil and Criminal Procedure. The \nclerk shall provide Filing Users with a user log-in and password once \nregistration is completed. Filing Users agree to protect the security of their \npasswords and immediately notify the clerk if they learn that their password \nhas been compromised. After registration, attorneys are required to \nmaintain their own account information, including changes in e-mail \naddress. Documents sent from the court will be deemed delivered if sent to \nthe last known e-mail address given to the court. \n(B) After filing an action in paper, a non-prisoner pro se litigant may register \nas a Filing User in the Electronic Filing System solely for purposes of the \naction. If, during the course of the proceeding, the party retains an attorney \nwho appears on the party’s behalf, the attorney must advise the clerk to \nterminate the party’s registration as a Filing User upon the attorney’s \nappearance. \n(C) A Filing User may apply to the court for permission to withdraw from \nparticipation in the Electronic Filing System for good cause shown. \n(3) Significance of Electronic Filing. \n(A) Electronic transmission of a document to the Electronic Filing System \nconsistent with these rules, together with the transmission of a Notice of \nElectronic Filing from the court, constitutes filing of the document for all ",
+          "pages": [
+            5
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-7",
+          "path": [],
+          "type": "paragraph",
+          "text": "7\npurposes and constitutes entry of the document on the docket kept by the \nclerk. Receipt by the filing party of a Notice of Electronic Filing from the \ncourt is proof of service of the document on all counsel who are deemed to \nhave consented to electronic service. \n(B) When a document has been filed electronically, the official record is the \nelectronic recording of the document as stored by the court, and the filing \nparty is bound by the document as filed. A document filed electronically is \ndeemed filed at the “entered on” date and time stated on the Notice of \nElectronic Filing from the court. \n(C) Service is deemed completed at the “entered on” date and time stated on \nthe Notice of Electronic Filing from the court, except that documents filed \nelectronically after 5:00 p.m. Central Time shall be deemed served on the \nfollowing day. \n(D) Filing a document electronically does not alter the filing deadline for that \ndocument. Filing must be completed before midnight Central Time in order \nto be considered timely filed that day. \n(4) File Size Limitations. No single electronic file, whether containing a document or an \nattachment, may exceed fifty megabytes in size. Documents or attachments in excess of \nfifty megabytes must be divided into multiple files and accurately described to the court. \nSee Local Rule CV-7 (page requirements for motions and responses).\n(5) Signatures. The user log-in and password required to submit documents to the \nElectronic Filing System serves as the Filing User’s signature on all electronic \ndocuments filed with the court. The name of the Filing User under whose log-in \nand password the document is submitted must be preceded by either an image of \nthe Filing User’s signature or an “/s/” typed in the space where the signature would \notherwise appear. See Local Rule CV-11(b) (“Signing the Pleadings”). \n(6) Attachments and Exhibits. Filing Users must submit and describe each exhibit \nor attachment with specificity as a separate PDF document, unless the court \npermits conventional filing. See Local Rules CV-5(a)(4) (“File Size Limitations”), \nCV-7(b) (“Documents Supporting Motions”), and CV-56(d) (“Proper Summary \nJudgment Evidence”). Non-documentary exhibits to motions (e.g., CD-ROM \ndisks) should be filed with the clerk’s office with a copy to the presiding judge. \n(7) Sealed Documents. \n(A) All sealed documents must state “Filed Under Seal” at the top of the \ndocument. \n(B) Unless authorized by statute or rule, a document in a civil case shall not be \nfiled under seal unless it contains a statement by counsel following the ",
+          "pages": [
+            6
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-8",
+          "path": [],
+          "type": "paragraph",
+          "text": "8\ncertificate of service that certifies that (1) a motion to seal the document \nhas been filed, or (2) the court already has granted authorization to seal the \ndocument. \n(C) A motion to file document(s) under seal must be filed separately and \nimmediately before the document(s) sought to be sealed. If the motion to \nseal is granted, the document will be deemed to have been filed as of the \noriginal date of its filing. If the motion is denied, the document will be \nstruck. A motion to seal that is filed as a sealed document does not need to \ninclude the certification specified in Section (B) above. See Local Rule CR￾49(b) (additional rules regarding the filing of sealed documents in criminal \ncases). \n(D) Documents requested or authorized to be filed under seal or ex parte shall \nbe filed in electronic form. Service in “electronic form” shall be of \ndocuments identical in all respects to the documents(s) filed with the court; \nservice copies shall not include encryption, password security, or other \nextra steps to open or access unless the same are found in the document as \nfiled. All sealed or ex parte documents filed with the court must comply \nwith the file size and other form requirements of Local Rules CV-5(a) and \nCV-7. Counsel is responsible for serving documents under seal to opposing \ncounsel and may do so in electronic form. Counsel is also responsible for \ncomplying with Local Rule CV-5(a)(9) regarding courtesy copies of filings. \nWhen a sealed order is entered by the court, the clerk will send a copy of \nthe sealed order to each party’s lead attorney who is responsible for \ndistributing the order to all other counsel of record for that party. See Local \nRule CV-11. \n(E) Except as otherwise provided by Local Rule CR-49, a party filing a \ndocument under seal must publicly file a version of that document with the \nconfidential information redacted within seven days, unless the entire \ndocument is confidential information. For purposes of this rule, \n“confidential information” is information that the filing party contends is \nconfidential or proprietary in a pending motion to file under seal; \ninformation that has been designated as confidential or proprietary under a \nprotective order or non-disclosure agreement; or information otherwise \nentitled to protection from disclosure under a statute, rule, order, or other \nlegal authority. \n(8) Entry of Court Orders. \n(A) All orders, decrees, judgments, and court proceedings will be filed \nelectronically by the court or court personnel in accordance with these \nrules, which will constitute entry on the docket kept by the clerk. Any order \nfiled electronically has the same force and effect as if the judge had signed ",
+          "pages": [
+            7
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-9",
+          "path": [],
+          "type": "paragraph",
+          "text": "9\na paper copy of the order and it had been entered on the docket in a \nconventional manner. \n(B) A Filing User submitting a document electronically that requires a judge’s \nsignature must promptly deliver the document in such form as the court \nrequires. \n(9) Paper Copies of Lengthy Documents. Unless otherwise ordered by the presiding \njudge, if a document to be filed electronically exceeds ten pages in length, \nincluding attachments, a paper copy of the filed document must be sent \ncontemporaneously to the presiding judge’s chambers. A copy of the “Notice of \nElectronic Filing” must be attached to the front of the paper copy of the filed \ndocument. The paper copy should be sent directly to the judge’s chambers and not \nto the clerk’s office. See Local Rule CV-10(b) (regarding tabs and dividers for \nvoluminous documents). Judges may opt out of this rule by entering an order. Such \norders can be found on the court’s website, located at txed.uscourts.gov.\n(10) Technical Failures. A technical failure does not relieve a party from exercising \ndue diligence to timely file and serve documents. A Filing User whose filing is \nmade untimely as the result of a technical failure of the court will have a reasonable \ngrace period to file from the time that the technical failure is cured. There will be \na notice on the court’s website indicating when the database was down and the \nduration of the grace period. A Filing User whose filing is made untimely as the \nresult of a technical failure not attributable to the court may seek appropriate relief \nfrom the court. \n(b) Filing by Paper. When filing by paper is permitted, the original pleadings, motions, and \nother papers shall be filed with the clerk. \n(c) Certificates of Service. The certificate of service required by Fed. R. Civ. P. 5(d) shall \nindicate the date and method of service. Sealed documents in civil cases must indicate that \nthe sealed document was promptly served by means other than the CM/ECF system (e.g., \nemail, conventional mail). \n(d) Service by Facsimile or Electronic Means Authorized. Except with regard to pro se \nlitigants that have not consented in writing to receiving service by electronic means, parties \nmay serve copies of pleadings and other case related documents to other parties by \nfacsimile or electronic means in lieu of service and notice by mail. Such service is deemed \ncomplete upon sending. Service after 5:00 p.m. Central Time shall be deemed served on \nthe following day for purposes of calculating responsive deadlines. \n(e) Service of Documents Filed by Pro Se Litigants. A document filed by a pro se litigant \nshall be deemed “served” for purposes of calculating deadlines under the Local Rules or \nFederal Rules of Civil Procedure on the date it is electronically docketed in the court’s \nCM/ECF system. ",
+          "pages": [
+            8
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-10",
+          "path": [],
+          "type": "paragraph",
+          "text": "10\n",
+          "pages": [
+            9
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txed-civil-parsed-v1-be1176ce485e76f3",
+      "sourceDocumentId": "parsed-txed-be1176ce485e76f3",
+      "sourceUrl": "https://www.txed.uscourts.gov/sites/default/files/HR_Docs/TXED%20Local%20Rules%202025%20-%20As%20Amended%202.9.2026%20Updated%206.2.2026.pdf",
+      "pageIndex": 4,
+      "pageSpan": [
+        4,
+        9
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txed-civil:5.2",
+      "collectionId": "txed-civil",
+      "districtId": "txed",
+      "number": "5.2",
+      "citation": "Eastern District of Texas · Rule 5.2",
+      "title": "Privacy Protections for Filings Made with the Court",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-10",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE CV-5.2 Privacy Protections for Filings Made with the Court \n(a) Electronic Filing of Transcripts by Court Reporters. The following procedures apply \nto all court transcripts filed on or after May 19, 2008. The court reporter or transcriber \nshall electronically file all court transcripts,2\nincluding a completed version of the attached \n“Notice of Filing of Official Transcript.” Upon request, the clerk shall make an electronic \nversion of any transcript available for public inspection without charge at the clerk’s office \npublic terminal. See 28 U.S.C. § 753(b). \n(b) Availability of Transcripts of Court Proceedings. Electronically-filed transcripts of \ncourt proceedings are subject to the following rules: \n(1) A transcript provided to a court by a court reporter or transcriber will be available \nat the clerk’s office for inspection for a period of ninety days after it is \nelectronically filed with the clerk. During the ninety-day inspection period, access \nto the transcript in CM/ECF is limited to the following users: (a) court staff; (b) \npublic terminal users; (c) attorneys of record or parties who have purchased the \ntranscript from the court reporter or transcriber; and (d) other persons as directed \nby the court. During the ninety-day period, court staff may not copy or print \ntranscripts for a requester and the transcript may not be printed from the public \ncomputer terminals in the clerk’s office. \n(2) During the ninety-day period, a copy of the transcript may be obtained from the \ncourt reporter or transcriber at the rate established by the Judicial Conference. The \ntranscript will also be available within the court for internal use, and an attorney \nwho obtains the transcript from the court reporter or transcriber may obtain remote \nelectronic access to the transcript through the court’s CM/ECF system for purposes \nof creating hyperlinks to the transcript in court filings and for other purposes. \n(3) Within seven days of the filing of the transcript in CM/ECF, each party wishing to \nredact a transcript must inform the court, by filing the attached “Notice of Intent \nto Request Redaction,” of the party’s intent to redact personal data identifiers from \nthe transcript as required by Fed. R. Civ. P. 5.2. If no such notice is filed within the \nallotted time, the court will assume redaction of personal data identifiers from the \ntranscript is not necessary. \n(4) If redaction is requested, a party is to submit to the court reporter or transcriber and \nfile with the court, within twenty-one days of the transcript’s delivery to the clerk, \nor longer if a court so orders, a statement indicating where the personal data \nidentifiers to be redacted appear in the transcript. The court reporter or transcriber \nmust redact the identifiers as directed by the party. These procedures are limited to \n2 Contract court reporters may either file court transcripts electronically in the CM/ECF database \nor submit an electronic PDF version of the transcript to the clerk, who will thereupon file it. ",
+          "pages": [
+            9
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-11",
+          "path": [],
+          "type": "paragraph",
+          "text": "11\nthe redaction of the specific personal identifiers listed in Fed. R. Civ. P. 5.2. If an \nattorney wishes to redact additional information, he or she must make a motion to \nthe court. The transcript will not be electronically available until the court has ruled \non any such motion. \n(5) The court reporter or transcriber must, within thirty-one days of the filing of the \ntranscript, or longer if the court so orders, perform the requested redactions and \nfile a redacted version of the transcript with the clerk. Redacted transcripts are \nsubject to the same access restrictions as outlined above during the initial ninety \ndays after the first transcript has been filed. The original unredacted electronic \ntranscript shall be retained by the clerk as a restricted document. \n(6) If, after the ninety-day period has ended, there are no redacted documents or \nmotions linked to the transcript, the clerk will remove the public access restrictions \nand make the unredacted transcript available for inspection and copying in the \nclerk’s office and for download from the CM/ECF system. \n(7) If, after the ninety-day period has ended, a redacted transcript has been filed with \nthe court, the clerk will remove the access restrictions as appropriate and make the \nredacted transcript available for inspection and copying in the clerk’s office and \nfor download from the CM/ECF system or from the court reporter or transcriber. \n",
+          "pages": [
+            10
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txed-civil-parsed-v1-be1176ce485e76f3",
+      "sourceDocumentId": "parsed-txed-be1176ce485e76f3",
+      "sourceUrl": "https://www.txed.uscourts.gov/sites/default/files/HR_Docs/TXED%20Local%20Rules%202025%20-%20As%20Amended%202.9.2026%20Updated%206.2.2026.pdf",
+      "pageIndex": 9,
+      "pageSpan": [
+        9,
+        10
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txed-civil:6",
+      "collectionId": "txed-civil",
+      "districtId": "txed",
+      "number": "6",
+      "citation": "Eastern District of Texas · Rule 6",
+      "title": "Computation of Time",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-11",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE CV-6 Computation of Time \nDeficient or Corrected Documents. When a document is corrected or re-filed by an attorney \nfollowing a deficiency notice from the clerk’s office (e.g., for a missing certificate of service or \ncertificate of conference), the time for filing a response runs from the service of the corrected or \nrefiled document, not the original document. \n",
+          "pages": [
+            10
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txed-civil-parsed-v1-be1176ce485e76f3",
+      "sourceDocumentId": "parsed-txed-be1176ce485e76f3",
+      "sourceUrl": "https://www.txed.uscourts.gov/sites/default/files/HR_Docs/TXED%20Local%20Rules%202025%20-%20As%20Amended%202.9.2026%20Updated%206.2.2026.pdf",
+      "pageIndex": 10,
+      "pageSpan": [
+        10,
+        10
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txed-civil:7",
+      "collectionId": "txed-civil",
+      "districtId": "txed",
+      "number": "7",
+      "citation": "Eastern District of Texas · Rule 7",
+      "title": "Pleadings Allowed; Form of Motions and Other Documents",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-11",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE CV-7 Pleadings Allowed; Form of Motions and Other Documents \n(a) Generally. All pleadings, motions, and responses to motions, unless made during a \nhearing or trial, shall be in writing, conform to the requirements of Local Rules CV-5 and \nCV-10, and shall be accompanied by a separate proposed order in searchable and editable \nPDF format for the judge’s signature. Each pleading, motion, or response to a motion must \nbe filed as a separate document, except for motions for alternative relief (e.g., a motion to \ndismiss or, alternatively, to transfer). The proposed order shall be endorsed with the style \nand number of the cause and shall not include a date or signature block. Motions, \nresponses, replies, and proposed orders, if filed electronically, shall be submitted in \n“searchable PDF” format and shall not contain restrictions or security settings that prohibit \ncopying, highlighting, or commenting. All other documents, including attachments and \nexhibits, should be in “searchable PDF” form whenever possible. \n(1) Case Dispositive Motions. Case dispositive motions shall not exceed thirty pages, \nexcluding attachments, unless leave of court is first obtained. Likewise, responses \nto such motions shall not exceed thirty pages, excluding attachments, unless leave ",
+          "pages": [
+            10
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-12",
+          "path": [],
+          "type": "paragraph",
+          "text": "12\nof court is first obtained. See Local Rule CV-56 (regarding attachments to motions \nfor summary judgment and responses thereto). Any reply or sur-reply to an \nopposed case dispositive motion filed pursuant to Section (f) of this rule shall not \nexceed ten pages, excluding attachments. \nCase dispositive motions shall contain a statement of the issues to be decided by \nthe court. Responses to case dispositive motions must include a response to the \nmovant’s statement of issues. \n(2) Non-dispositive Motions. Non-dispositive motions shall not exceed fifteen pages, \nexcluding attachments, unless leave of court is first obtained. Likewise, responses \nto such motions shall not exceed fifteen pages, excluding attachments, unless leave \nof court is first obtained. Any reply or sur-reply brief to an opposed non-dispositive \nmotion filed pursuant to Section (f) of this rule shall not exceed five pages, \nexcluding attachments. Non-dispositive motions include, among others, motions \nto transfer venue, motions for partial summary judgment, and motions for new trial \npursuant to Fed. R. Civ. P. 59. \n(3) Total Page Limits for Summary Judgment Motions. If a party files more than \none summary judgment motion, the following additional limitations apply: \n(A) A party’s summary judgment motions shall not exceed sixty pages \ncollectively, excluding attachments; \n(B) A nonmovant’s responses to a party’s summary judgment motions shall not \nexceed sixty pages collectively, excluding attachments; \n(C) Reply briefing to a party’s summary judgment motions shall not exceed \ntwenty pages collectively, excluding attachments; and \n(D) A nonmovant’s sur-reply briefing to a party’s summary judgment motions \nshall not exceed twenty pages collectively, excluding attachments. \n(4) Motions to Reconsider. Motions to reconsider must specifically state the action \nand the docket sheet document number to be reconsidered in the title of the motion \n(e.g., “Motion to Reconsider Denial of Motion for Partial Summary Judgment (dkt \n# x)”). \n(b) Documents Supporting Motions. When allegations of fact not appearing in the record \nare relied upon in support of a motion, all affidavits and other pertinent documents shall \nbe served and filed with the motion. The court strongly recommends that any attached \nmaterials have the cited portions highlighted or underlined in the copy provided to the \ncourt, unless the citation encompasses the entire page. The page preceding and following \na highlighted or underlined page may be submitted if necessary to place the highlighted or \nunderlined material in context. Only relevant, cited-to excerpts of attached materials \nshould be attached to the motion or the response. ",
+          "pages": [
+            11
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-13",
+          "path": [],
+          "type": "paragraph",
+          "text": "13\n(c) Briefing Supporting Motions. The motion and any briefing shall be contained in one \ndocument. The briefing shall contain a concise statement of the reasons in support of the \nmotion and citation of authorities upon which the movant relies. Briefing is an especially \nhelpful aid to the judge in deciding motions to dismiss, motions for summary judgment, \nmotions to remand, and post-trial motions. \n(d) Response and Briefing. The response and any briefing shall be contained in one \ndocument. A party opposing a motion shall file the response, any briefing and supporting \ndocuments within the time period prescribed by Subsection (e) of this rule. A response \nshall be accompanied by a proposed order conforming to the requirements of Subsection \n(a) of this rule. Briefing shall contain a concise statement of the reasons in opposition to \nthe motion and a citation of authorities upon which the party relies. A party’s failure to \noppose a motion in the manner prescribed herein creates a presumption that the party does \nnot controvert the facts set out by movant and has no evidence to offer in opposition to the \nmotion. \n(e) Time to File Response. A party opposing a motion has fourteen days (twenty-one days \nfor summary judgment motions) from the date the motion was served in which to file a \nresponse and any supporting documents, after which the court will consider the submitted \nmotion for decision. Any party may separately move for an order of this court lengthening \nor shortening the response period. \n(f) Reply Briefs. Unless otherwise directed by the presiding judge, a party who has filed an \nopposed motion may serve and file a reply brief responding to the issues raised in the \nresponse within seven days from the date the response is served. A sur-reply responding \nto issues raised in the reply may be served and filed within seven days from the date the \nreply is served. The court need not wait for the reply or sur-reply before ruling on the \nmotion. Absent leave of court, no further submissions on the motion are allowed. \n(g) Oral Hearings. A party may in a motion or a response specifically request an oral hearing, \nbut the allowance of an oral hearing shall be within the sole discretion of the judge to \nwhom the motion is assigned. \n(h) “Meet and Confer” Requirement. The “meet and confer” motions practice requirement \nimposed by this rule has two components, a substantive and a procedural component. \nFor opposed motions, the substantive component requires, at a minimum, a personal \nconference, by telephone or in person, between an attorney for the movant and an attorney \nfor the non-movant. In any discovery-related motion, the substantive component requires, \nat a minimum, a personal conference, by telephone or in person, between the lead attorney \nand any local counsel for the movant and the lead attorney and any local counsel for the \nnonmovant. \nIn the personal conference, the participants must give each other the opportunity to express \nhis or her views concerning the disputes. The participants must also compare views and \nhave a discussion in an attempt to resolve their differing views before coming to court. ",
+          "pages": [
+            12
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-14",
+          "path": [],
+          "type": "paragraph",
+          "text": "14\nSuch discussion requires a sincere effort in which the participants present the merits of \ntheir respective positions and meaningfully assess the relative strengths of each position. \nIn discovery-related matters, the discussion shall consider, among other things: (1) \nwhether and to what extent the requested material would be admissible in a trial or is \nreasonably calculated to lead to the discovery of admissible evidence; (2) the burden and \ncosts imposed on the responding party; (3) the possibility of cost-shifting or sharing; and \n(4) the expectations of the court in ensuring that parties fully cooperate in discovery of \nrelevant information. \nExcept as otherwise provided by this rule, a request for court intervention is not \nappropriate until the participants have met and conferred, in good faith, and concluded, in \ngood faith, that the discussions have conclusively ended in an impasse, leaving an open \nissue for the court to resolve. Good faith requires honesty in one’s purpose to discuss \nmeaningfully the dispute, freedom from intention to defraud or abuse the discovery \nprocess and faithfulness to one’s obligation to secure information without court \nintervention. For opposed motions, correspondence, e-mails, and facsimile transmissions \ndo not constitute compliance with the substantive component and are not evidence of good \nfaith. Such materials, however, may be used to show bad faith of the author.\nAn unreasonable failure to meet and confer violates Local Rule AT-3 and is grounds for \ndisciplinary action. A party may file an opposed motion without the required conference \nonly when the non-movant has acted in bad faith by failing to meet and confer. \nThe procedural requirement of the “meet and confer” rule is one of certification. It appears \nin Section (i) of this rule, entitled “Certificates of Conference.” \n(i) Certificates of Conference. Except as specified below, all motions must be accompanied \nby a “certificate of conference” at the end of the motion following the certificate of service. \nThe certificate must state: (1) that counsel has complied with the meet and confer \nrequirement in Local Rule CV-7(h); and (2) whether the motion is opposed or unopposed. \nOpposed motions shall include a statement in the certificate of conference, signed by the \nmovant’s attorney, that the personal conference or conferences required by this rule have \nbeen conducted or were attempted, the date and manner of such conference(s) or attempts, \nthe names of the participants in the conference(s), an explanation of why no agreement \ncould be reached, and a statement that discussions have conclusively ended in an impasse, \nleaving an open issue for the court to resolve. In discovery-related motions, the certificate \nof conference shall be signed by the lead attorney and any local counsel. In situations \ninvolving an unreasonable failure to meet and confer, the movant shall set forth in the \ncertificate of conference the facts believed to constitute bad faith. \nNeither the “meet and confer” nor the “certificate of conference” requirements are \napplicable to pro se litigants (prisoner or non-prisoner) or to the following motions: \n(1) to dismiss; ",
+          "pages": [
+            13
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-15",
+          "path": [],
+          "type": "paragraph",
+          "text": "15\n(2) for judgment on the pleadings; \n(3) for summary judgment, including motions for partial summary judgment; \n(4) for judgment as a matter of law; \n(5) for new trial; \n(6) issuance of letters rogatory; \n(7) objections to report and recommendations of magistrate judges or special masters; \n(8) for reconsideration; \n(9) for sanctions under Fed. R. Civ. P. 11, provided the requirements of Fed. R. Civ. P. \n11(c)(2) have been met; \n(10) for writs of garnishment; and \n(11) any enforcement remedy provided for by the Federal Debt Collection Procedure \nAct, 28 U.S.C. § 3101, et seq. \n(j) Re-urged Motions in Transferred/Removed Cases. Except in prisoner cases, any \nmotions pending in another federal or state court made by any party will be considered \nmoot at the time of transfer or removal unless they are re-urged in this court. See Local \nRule CV-81(d). \n(k) Motions for Leave to File. Motions for leave to file a document should be filed separately \nand immediately before the document for which leave is sought. If the motion for leave to \nfile is granted, the document will be deemed to have been filed as of the original date of \nits filing. If the motion is denied, the document will be struck or, in the case of motions to \nfile a document exceeding page limitations, the excess pages and attachments cited only \ntherein will not be considered by the court. The time for filing any responsive documents \nwill run from the date of the order on the motion for leave. \n(l) Emergency Motions. Emergency motions are only those necessary to avoid imminent, \nirreparable harm such that a motion pursuant to LOCAL RULE CV-7(e) to shorten the \nperiod for a response is inadequate. Counsel filing an emergency motion should ensure \nthat: (1) the caption of the motion begins with the word “emergency;” (2) the motion is \nelectronically filed using the CM/ECF drop down menu option entitled “emergency;” (3) \nthe motion clearly states the alleged imminent, irreparable harm and the circumstances \nmaking proceeding under LOCAL RULE CV-7(e) inadequate; and (4) the chambers of \nthe presiding judge is notified, either by telephone, e-mail, or fax, that an emergency \nmotion has been filed. ",
+          "pages": [
+            14
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "16\n(m) Motions in Limine. Motions in limine should be contained within a single document \nsubject to the page limitations of Local Rule CV-7(a)(2) for non-dispositive motions. \n",
+          "pages": [
+            15
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txed-civil-parsed-v1-be1176ce485e76f3",
+      "sourceDocumentId": "parsed-txed-be1176ce485e76f3",
+      "sourceUrl": "https://www.txed.uscourts.gov/sites/default/files/HR_Docs/TXED%20Local%20Rules%202025%20-%20As%20Amended%202.9.2026%20Updated%206.2.2026.pdf",
+      "pageIndex": 10,
+      "pageSpan": [
+        10,
+        15
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txed-civil:10",
+      "collectionId": "txed-civil",
+      "districtId": "txed",
+      "number": "10",
+      "citation": "Eastern District of Texas · Rule 10",
+      "title": "Form of Pleadings",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE CV-10 Form of Pleadings \n(a) Generally. When offered for filing, all documents, excluding preexisting documentary \nexhibits and attachments, shall: \n(1) be endorsed with the style and number of the action; \n(2) have a caption containing the name and party designation of the party filing the \ndocument and a statement of the character of the document clearly identifying it \n(e.g., Defendant John Doe’s Answer; Defendant John Doe’s Motion to Dismiss \nunder Rule 12(b)(6)). See Local Rule CV-38(a) (cases involving jury demands); \nsee also Local Rule CV-7(a) (each motion must be filed as a separate document, \nexcept when the motion concerns a request for alternative relief); \n(3) be signed by the lead attorney or with his or her permission; \n(4) when filed by paper, be plainly written, typed, or printed, double-spaced, on 8 ½-\ninch by 11-inch white paper; and \n(5) be double spaced and in a font no smaller than 12-point type. \n(b) Tabs and Dividers. When filed by paper, original documents offered for filing shall not \ninclude tabs or dividers. The copy of the original that is required to be filed for the court’s \nuse, if voluminous, should have dividers or tabs, as should all copies sent to opposing \ncounsel. See Fed. R. Civ. P. 5(a). \n(c) Covers. “Blue backs” and other covers are not to be submitted with paper filings. \n(d) Deficient Pleadings/Documents. The clerk shall monitor filed documents for \ncompliance with the federal and local rules as to format and form. If a document is\nidentified as deficient as to form, the clerk shall enter a notice on the docket that identifies \nthe perceived deficiency. The filing party will be given a reasonable opportunity, \npreferably within one day, to cure the perceived deficiency. If the perceived deficiency\nis not cured in a timely fashion, the clerk shall refer the matter to the assigned district or \nmagistrate judge.\n(e) Hyperlinks. Electronically filed documents may contain the following types of \nhyperlinks: \n(1) Hyperlinks to other portions of the same document; \n(2) Hyperlinks to CM/ECF that contains a source document for a citation; ",
+          "pages": [
+            15
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "17\n(3) Hyperlinks to documents already filed in any CM/ECF database; \n(4) Hyperlinks between documents that will be filed together at the same time; \n(5) Hyperlinks that the clerk may approve in the future as technology advances. \nHyperlinks to cited authority may not replace standard citation format. Complete citations \nmust be included in the text of the filed document. A hyperlink, or any site to which it \nrefers, will not be considered part of the record. Hyperlinks are simply convenient \nmechanisms for accessing material cited in a filed document. The court accepts no \nresponsibility for, and does not endorse, any product, organization, or content at any \nhyperlinked site, or at any site to which that site might be linked. The court accepts no \nresponsibility for the availability or functionality of any hyperlink. \n",
+          "pages": [
+            16
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txed-civil-parsed-v1-be1176ce485e76f3",
+      "sourceDocumentId": "parsed-txed-be1176ce485e76f3",
+      "sourceUrl": "https://www.txed.uscourts.gov/sites/default/files/HR_Docs/TXED%20Local%20Rules%202025%20-%20As%20Amended%202.9.2026%20Updated%206.2.2026.pdf",
+      "pageIndex": 15,
+      "pageSpan": [
+        15,
+        16
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txed-civil:11",
+      "collectionId": "txed-civil",
+      "districtId": "txed",
+      "number": "11",
+      "citation": "Eastern District of Texas · Rule 11",
+      "title": "Signing of Pleadings, Motions, and Other Documents",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE CV-11 Signing of Pleadings, Motions, and Other Documents \n(a) Lead Attorney. \n(1) Designation. On the first appearance through counsel, each party shall designate \na lead attorney on the pleadings or otherwise. \n(2) Responsibility. The lead attorney is responsible in that action for the party. That \nindividual attorney shall attend all court proceedings or send a fully informed \nattorney with authority to bind the client. \n(b) Signing the Pleadings. Every document filed must be signed by the lead attorney or by \nan attorney of record who has the permission of the lead attorney. Requests for \npostponement of the trial shall also be signed by the party making the request. \n(1) Required Information. Under the signature, the following information shall \nappear: \n(A) attorney’s individual name; \n(B) state bar number; \n(C) office address, including zip code; \n(D) telephone and facsimile numbers; and \n(E) e-mail address. \n(c) Withdrawal of Counsel. Attorneys may withdraw from a case only by motion and order \nunder conditions imposed by the court. If the client consents to a motion to withdraw or \nsubstitute counsel, the motion should so state. When an Assistant United States Attorney \nenters an appearance in a case, another Assistant United States Attorney may replace the ",
+          "pages": [
+            16
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "18\nattorney by filing a notice of substitution that identifies the attorney being replaced. \nUnless the presiding judge otherwise directs, the notice effects the withdrawal of the \nattorney being replaced. Change of counsel will not be cause for delay. \n(d) Change of Address. Notices will be sent only to an e-mail and/or mailing address on file. \nA pro se litigant must provide the court with a physical address (i.e., a post office box is \nnot acceptable) and is responsible for keeping the clerk advised in writing of his or her \ncurrent physical address. Pro se litigants must also advise the court of the case numbers \nof all pending cases in which they are participants in this district. \n(e) Request for Termination of Electronic Notice. If an attorney no longer desires to receive \nelectronic notification of filings in a particular case due to settlement or dismissal of his \nor her client, the attorney may file a request for termination of electronic notice. \n(f) Sanctions Concerning Vexatious Pro Se Litigants. The court may make orders as are \nappropriate to control the conduct of a vexatious pro se litigant. See Local Rule CV￾65.1(b). \n(g) Use of Generative Artificial Intelligence Technology. All litigants remain responsible \nfor the accuracy and quality of legal documents produced with the assistance of\ngenerative artificial intelligence technology. Litigants are cautioned that certain \ngenerative artificial intelligence technologies may produce factually or legally inaccurate \ncontent. If a litigant chooses to employ generative artificial intelligence technology, the \nlitigant continues to be bound by the requirements of Fed. R. Civ. P. 11 and must review \nand verify all content to ensure that it complies with all such standards. See also Local \nRule AT-3(m).\n",
+          "pages": [
+            17
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txed-civil-parsed-v1-be1176ce485e76f3",
+      "sourceDocumentId": "parsed-txed-be1176ce485e76f3",
+      "sourceUrl": "https://www.txed.uscourts.gov/sites/default/files/HR_Docs/TXED%20Local%20Rules%202025%20-%20As%20Amended%202.9.2026%20Updated%206.2.2026.pdf",
+      "pageIndex": 16,
+      "pageSpan": [
+        16,
+        17
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txed-civil:12",
+      "collectionId": "txed-civil",
+      "districtId": "txed",
+      "number": "12",
+      "citation": "Eastern District of Texas · Rule 12",
+      "title": "Filing of Answers and Defenses",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE CV-12 Filing of Answers and Defenses \nAn attorney may request that the deadline be extended for a defendant to answer the complaint or \nfile a motion under Fed. R. Civ. P. 12(b). Unless otherwise ordered by the court, where the \nrequested extension: (1) is not opposed; and (2) does not result in an overall extension of the \ndefendant’s deadline exceeding forty-five days, the request shall be by application to the clerk, \nnot motion. The application shall be acted upon with dispatch by the clerk on the court’s behalf, \nand the deadline to answer or otherwise respond is stayed pending action by the clerk. \n",
+          "pages": [
+            17
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txed-civil-parsed-v1-be1176ce485e76f3",
+      "sourceDocumentId": "parsed-txed-be1176ce485e76f3",
+      "sourceUrl": "https://www.txed.uscourts.gov/sites/default/files/HR_Docs/TXED%20Local%20Rules%202025%20-%20As%20Amended%202.9.2026%20Updated%206.2.2026.pdf",
+      "pageIndex": 17,
+      "pageSpan": [
+        17,
+        17
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txed-civil:26",
+      "collectionId": "txed-civil",
+      "districtId": "txed",
+      "number": "26",
+      "citation": "Eastern District of Texas · Rule 26",
+      "title": "Provisions Governing Discovery; Duty of Disclosure",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE CV-26 Provisions Governing Discovery; Duty of Disclosure \n(a) No Excuses. Except in cases involving qualified immunity or a court order to the contrary, \na party is not excused from responding to discovery because there are pending motions to \ndismiss, to remand, or to change venue. ",
+          "pages": [
+            17
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "19\n(b) Disclosure of Expert Testimony. \n(1) When listing the cases in which the witness has testified as an expert, the disclosure \nshall include the styles of the cases, the courts in which the cases were pending, \nthe cause numbers, and whether the testimony was in trial or by deposition. \n(2) By order in the case, the judge may alter the type or form of disclosures to be made \nwith respect to particular experts or categories of experts, such as treating \nphysicians. \n(c) Notice of Disclosure. The parties shall promptly file a notice with the court that the \ndisclosures required under Fed. R. Civ. P. 26(a)(1) and (a)(2) have taken place. \n(d) Relevant to Any Party’s Claim or Defense. The following observations are provided for \ncounsel’s guidance in evaluating whether a particular piece of information is “relevant to \nany party’s claim or defense”: \n(1) it includes information that would not support the disclosing parties’ contentions; \n(2) it includes those persons who, if their potential testimony were known, might \nreasonably be expected to be deposed or called as a witness by any of the parties; \n(3) it is information that is likely to have an influence on or affect the outcome of a \nclaim or defense; \n(4) it is information that deserves to be considered in the preparation, evaluation, or \ntrial of a claim or defense; and \n(5) it is information that reasonable and competent counsel would consider reasonably \nnecessary to prepare, evaluate, or try a claim or defense. \n(e) Discovery Hotline (903) 590-1198. The court shall provide a judge on call during business \nhours to rule on discovery disputes and to enforce provisions of these rules. Counsel may \ncontact the duty judge for that month by dialing the hotline number listed above for any \ncase in the district and get a hearing on the record and ruling on the discovery dispute, \nincluding whether a particular discovery request falls within the applicable scope of \ndiscovery, or request to enforce or modify provisions of the rules as they relate to a \nparticular case. \n",
+          "pages": [
+            18
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txed-civil-parsed-v1-be1176ce485e76f3",
+      "sourceDocumentId": "parsed-txed-be1176ce485e76f3",
+      "sourceUrl": "https://www.txed.uscourts.gov/sites/default/files/HR_Docs/TXED%20Local%20Rules%202025%20-%20As%20Amended%202.9.2026%20Updated%206.2.2026.pdf",
+      "pageIndex": 17,
+      "pageSpan": [
+        17,
+        18
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txed-civil:30",
+      "collectionId": "txed-civil",
+      "districtId": "txed",
+      "number": "30",
+      "citation": "Eastern District of Texas · Rule 30",
+      "title": "Depositions Upon Oral Examination",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE CV-30 Depositions Upon Oral Examination \nIn cases where there is a neutral non-party witness or a witness whom all parties must examine, \nthe time limit shall be divided equally among plaintiffs and defendants. Depositions may be taken \nafter 5:00 p.m., on weekends, or holidays with approval of a judge or by agreement of counsel. \nUnless permitted by Fed. R. Civ. P. 30(c)(2), a party may not instruct a deponent not to answer a \nquestion. Objections to questions during the oral deposition are limited to “Objection, leading” ",
+          "pages": [
+            18
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "20\nand “Objection, form.” Objections to testimony during the oral deposition are limited to \n“Objection, nonresponsive.” These objections are waived if not stated as phrased during the oral \ndeposition. All other objections need not be made or recorded during the oral deposition to be later \nraised with the court. The objecting party must give a clear and concise explanation of an objection \nif requested by the party taking the oral deposition, or the objection is waived. \n",
+          "pages": [
+            19
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txed-civil-parsed-v1-be1176ce485e76f3",
+      "sourceDocumentId": "parsed-txed-be1176ce485e76f3",
+      "sourceUrl": "https://www.txed.uscourts.gov/sites/default/files/HR_Docs/TXED%20Local%20Rules%202025%20-%20As%20Amended%202.9.2026%20Updated%206.2.2026.pdf",
+      "pageIndex": 18,
+      "pageSpan": [
+        18,
+        19
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txed-civil:34",
+      "collectionId": "txed-civil",
+      "districtId": "txed",
+      "number": "34",
+      "citation": "Eastern District of Texas · Rule 34",
+      "title": "Production of Documents and Things",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE CV-34 Production of Documents and Things \nAuthorizations. At any time after the parties have conferred as required by Fed. R. Civ. P. 26(f), \na party may request medical records, wage and earning records, or Social Security Administration \nrecords of another party as follows: \n(a) Where a party’s physical or mental condition is at issue, that party shall provide to the \nopposing counsel either the party’s medical records or a signed authorization so that \nrecords of health care providers which are relevant to injuries and damages claimed may \nbe obtained. If additional records are desired, the requesting party must show the need for \nthem. \n(b) Where lost earnings, lost earning capacity, or back pay is at issue, the party making such \nclaims shall furnish signed authorizations to the opposing party’s counsel so that wage and \nearning records of past and present employers and the Social Security Administration \nrecords may be obtained. \n(c) Copies of any records obtained with authorizations provided pursuant to Sections (1) or \n(2) above shall be promptly furnished to that party’s counsel. Records obtained shall \nremain confidential. The attorney obtaining such records shall limit their disclosure to the \nattorney’s client (or, in the case of an entity, those employees or officers of the entity \nnecessary to prepare the defense), the attorney’s own staff, and consulting and testifying \nexperts who may review the records in connection with formulating their opinions in the \ncase. \n",
+          "pages": [
+            19
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txed-civil-parsed-v1-be1176ce485e76f3",
+      "sourceDocumentId": "parsed-txed-be1176ce485e76f3",
+      "sourceUrl": "https://www.txed.uscourts.gov/sites/default/files/HR_Docs/TXED%20Local%20Rules%202025%20-%20As%20Amended%202.9.2026%20Updated%206.2.2026.pdf",
+      "pageIndex": 19,
+      "pageSpan": [
+        19,
+        19
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txed-civil:38",
+      "collectionId": "txed-civil",
+      "districtId": "txed",
+      "number": "38",
+      "citation": "Eastern District of Texas · Rule 38",
+      "title": "Right to a Jury Trial; Demand",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE CV-38 Right to a Jury Trial; Demand \n(a) Jury Demand. A party demanding trial by jury pursuant to Fed. R. Civ. P. 38(b) is \nencouraged to do so by electronically filing a separate document styled as a “jury \ndemand.” If the jury demand is included in a pleading, that pleading must bear the word \n“jury” at the top, immediately below the case number. See Fed. R. Civ. P. 38(b)(1). \n(b) Taxation of Jury Costs for Late Settlement. Except for good cause shown, whenever \nthe settlement of an action tried by a jury causes a trial to be postponed, canceled, or \nterminated before a verdict, all juror costs, including attendance fees, mileage, and \nsubsistence, may be imposed upon the parties unless counsel has notified the court and the \nclerk’s office of the settlement at least one day prior to the day on which the trial is \nscheduled to begin. The costs shall be assessed equally against the parties and their counsel \nunless otherwise ordered by the court. ",
+          "pages": [
+            19
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "21\n",
+          "pages": [
+            20
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txed-civil-parsed-v1-be1176ce485e76f3",
+      "sourceDocumentId": "parsed-txed-be1176ce485e76f3",
+      "sourceUrl": "https://www.txed.uscourts.gov/sites/default/files/HR_Docs/TXED%20Local%20Rules%202025%20-%20As%20Amended%202.9.2026%20Updated%206.2.2026.pdf",
+      "pageIndex": 19,
+      "pageSpan": [
+        19,
+        20
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txed-civil:42",
+      "collectionId": "txed-civil",
+      "districtId": "txed",
+      "number": "42",
+      "citation": "Eastern District of Texas · Rule 42",
+      "title": "Consolidation; Separate Trials Consolidation of Actions",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE CV-42 Consolidation; Separate Trials Consolidation of Actions\n(a) Duty to Notify Court of Related Cases or Proceedings. Whenever a civil matter in this \ncourt involves subject matter that either comprises all or a material part of the subject \nmatter or operative facts of another case or proceeding, whether civil or criminal, then \npending before this or another court or administrative agency, or previously dismissed or \ndecided by this court, the parties shall identify the related case(s) or proceeding(s) on the \ncivil cover sheet or a notice filed in this court. The duty to notify the court and all parties \nof any related case or proceeding continues throughout the pendency of the case.\n(b) Consolidation—Multiple Judges Involved. Upon the assignment of related actions to \ntwo or more different judges with the district, the affected judges may, in their discretion, \nagree to assign the related actions to one judge. \n",
+          "pages": [
+            20
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txed-civil-parsed-v1-be1176ce485e76f3",
+      "sourceDocumentId": "parsed-txed-be1176ce485e76f3",
+      "sourceUrl": "https://www.txed.uscourts.gov/sites/default/files/HR_Docs/TXED%20Local%20Rules%202025%20-%20As%20Amended%202.9.2026%20Updated%206.2.2026.pdf",
+      "pageIndex": 20,
+      "pageSpan": [
+        20,
+        20
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txed-civil:43",
+      "collectionId": "txed-civil",
+      "districtId": "txed",
+      "number": "43",
+      "citation": "Eastern District of Texas · Rule 43",
+      "title": "Taking of Testimony",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE CV-43 Taking of Testimony \nInterpreters in Civil Cases Not Instituted by the United States. The presiding judge shall \napprove the utilization of interpreters in all civil cases not instituted by the United States. Absent \na judicial order to the contrary, the presiding judge shall encourage the use of certified interpreters, \nor when no certified interpreter is reasonably available, “otherwise qualified” interpreters. See 28 \nU.S.C. § 1827(b). The presiding judge may approve the use of an interpreter who is not certified \nor “otherwise qualified” if no certified or “otherwise qualified” interpreter is reasonably available. \nUpon request, the clerk shall make lists of certified and otherwise qualified interpreters available \nto parties. \n",
+          "pages": [
+            20
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txed-civil-parsed-v1-be1176ce485e76f3",
+      "sourceDocumentId": "parsed-txed-be1176ce485e76f3",
+      "sourceUrl": "https://www.txed.uscourts.gov/sites/default/files/HR_Docs/TXED%20Local%20Rules%202025%20-%20As%20Amended%202.9.2026%20Updated%206.2.2026.pdf",
+      "pageIndex": 20,
+      "pageSpan": [
+        20,
+        20
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txed-civil:47",
+      "collectionId": "txed-civil",
+      "districtId": "txed",
+      "number": "47",
+      "citation": "Eastern District of Texas · Rule 47",
+      "title": "Selecting Jurors",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE CV-47 Selecting Jurors \nCommunication with Jurors. \n(a) No party or attorney for a party shall converse with a member of the jury during the trial \nof an action. \n(b) After a verdict is rendered, an attorney must obtain leave of court to converse with \nmembers of the jury. \n",
+          "pages": [
+            20
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txed-civil-parsed-v1-be1176ce485e76f3",
+      "sourceDocumentId": "parsed-txed-be1176ce485e76f3",
+      "sourceUrl": "https://www.txed.uscourts.gov/sites/default/files/HR_Docs/TXED%20Local%20Rules%202025%20-%20As%20Amended%202.9.2026%20Updated%206.2.2026.pdf",
+      "pageIndex": 20,
+      "pageSpan": [
+        20,
+        20
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txed-civil:50",
+      "collectionId": "txed-civil",
+      "districtId": "txed",
+      "number": "50",
+      "citation": "Eastern District of Texas · Rule 50",
+      "title": "Judgment as a Matter of Law in a Jury Trial",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE CV-50 Judgment as a Matter of Law in a Jury Trial \nTotal Page Limits for Motions for Judgment as a Matter of Law. The total page limits imposed \nby Local Rule CV-7(a)(3) on motions for summary judgment shall also apply to motions for \njudgment as a matter of law pursuant to Fed. R. Civ. P. 50. \n",
+          "pages": [
+            20
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txed-civil-parsed-v1-be1176ce485e76f3",
+      "sourceDocumentId": "parsed-txed-be1176ce485e76f3",
+      "sourceUrl": "https://www.txed.uscourts.gov/sites/default/files/HR_Docs/TXED%20Local%20Rules%202025%20-%20As%20Amended%202.9.2026%20Updated%206.2.2026.pdf",
+      "pageIndex": 20,
+      "pageSpan": [
+        20,
+        20
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txed-civil:54",
+      "collectionId": "txed-civil",
+      "districtId": "txed",
+      "number": "54",
+      "citation": "Eastern District of Texas · Rule 54",
+      "title": "Judgments; Costs",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE CV-54 Judgments; Costs \n(a) A party awarded costs by final judgment or by judgment that a presiding judge directs be \nentered as final under Fed. R. Civ. P. 54(b) must apply to the clerk for taxation of such \ncosts by filing a bill of costs. Unless otherwise provided by statute or by an order of the ",
+          "pages": [
+            20
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "22\npresiding judge, the bill of costs must be filed with the clerk and served on any party \nentitled to such service no later than fourteen days after the clerk enters the judgment on \nthe docket. \n(b) Procedure for Contested Bill of Costs. Before filing a bill of costs, a party must: \n(1) submit the proposed bill of costs to opposing counsel for review in light of the \napplicable law; and \n(2) if there are any areas of disagreement, meet and confer with opposing counsel in \nan effort to submit an agreed bill of costs to the court. If the parties have a \nlegitimate dispute on which they cannot agree, the parties have the option of filing \neither (A) a joint motion indicating the areas of agreement and the areas of \ndisagreement to be resolved by the court or (B) a motion by the party requesting \ncosts indicating the areas of agreement and the areas of disagreement to be resolved \nby the court, to which the opposing party may file a response. Either type of motion \nmust contain a certificate confirming compliance with the conference requirements \nof this rule. \n",
+          "pages": [
+            21
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txed-civil-parsed-v1-be1176ce485e76f3",
+      "sourceDocumentId": "parsed-txed-be1176ce485e76f3",
+      "sourceUrl": "https://www.txed.uscourts.gov/sites/default/files/HR_Docs/TXED%20Local%20Rules%202025%20-%20As%20Amended%202.9.2026%20Updated%206.2.2026.pdf",
+      "pageIndex": 20,
+      "pageSpan": [
+        20,
+        21
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txed-civil:56",
+      "collectionId": "txed-civil",
+      "districtId": "txed",
+      "number": "56",
+      "citation": "Eastern District of Texas · Rule 56",
+      "title": "Summary Judgment Procedure",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE CV-56 Summary Judgment Procedure \n(a) Motion. Any motion for summary judgment must include: (1) a statement of the issues to \nbe decided by the court; and (2) a “Statement of Undisputed Material Facts.” If the movant \nrelies upon evidence to support its motion, the motion should include appropriate citations \nto proper summary judgment evidence as set forth below. Proper summary judgment \nevidence should be attached to the motion in accordance with Section (d) of this rule. \n(b) Response. Any response to a motion for summary judgment must include: (1) a response \nto the statement of issues; and (2) a response to the “Statement of Undisputed Material \nFacts.” The responsive brief should be supported by appropriate citations to proper \nsummary judgment evidence as set forth below. Proper summary judgment evidence \nshould be attached in accordance with Section (d) of this rule. \n(c) Ruling. In resolving the motion for summary judgment, the court will assume that the \nfacts as claimed and supported by admissible evidence by the moving party are admitted \nto exist without controversy, except to the extent that such facts are controverted in the\nresponsive brief filed in opposition to the motion, as supported by proper summary \njudgment evidence. The court will not scour the record in an attempt to unearth an \nundesignated genuine issue of material fact. \n(d) Proper summary judgment evidence. As used within this rule, “proper summary \njudgment evidence” means excerpted copies of pleadings, depositions, documents, \nelectronically stored information, answers to interrogatories, admissions, affidavits or \ndeclarations, stipulations (including those made for purposes of the motion only), and \nother admissible evidence cited in the motion for summary judgment or the response \nthereto. “Appropriate citations” means that any excerpted evidentiary materials that are ",
+          "pages": [
+            21
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "23\nattached to the motion or the response should be referred to by page and, if possible, by \nline. Counsel are strongly encouraged to highlight or underline the cited portion of any \nattached evidentiary materials, unless the citation encompasses the entire page. The page \npreceding and following a highlighted page may be submitted if necessary to place the \nhighlighted material in context. Only relevant, cited-to excerpts of evidentiary materials \nshould be attached to the motion or the response. \n",
+          "pages": [
+            22
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txed-civil-parsed-v1-be1176ce485e76f3",
+      "sourceDocumentId": "parsed-txed-be1176ce485e76f3",
+      "sourceUrl": "https://www.txed.uscourts.gov/sites/default/files/HR_Docs/TXED%20Local%20Rules%202025%20-%20As%20Amended%202.9.2026%20Updated%206.2.2026.pdf",
+      "pageIndex": 21,
+      "pageSpan": [
+        21,
+        22
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txed-civil:62",
+      "collectionId": "txed-civil",
+      "districtId": "txed",
+      "number": "62",
+      "citation": "Eastern District of Texas · Rule 62",
+      "title": "Stay of Proceedings to Enforce a Judgment",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE CV-62 Stay of Proceedings to Enforce a Judgment \n(a) Bond or Other Security. Unless otherwise ordered by the presiding judge, a bond or \nother security staying execution of a money judgment shall be in the amount of the \njudgment, plus 20% of that amount to cover interest and any award of damages for delay, \nplus $250.00 to cover costs. The parties may waive the requirement of a bond or other \nsecurity by stipulation. The bond shall: \n(1) confirm whether the security provider is on the Treasury Department’s list of \ncertified companies, unless the court orders otherwise (a link to this list may be \nfound on the court’s website); and \n(2) confirm the underwriting limitation, if applicable for the type of security. \n(b) Electronic Filing Requirement for Bonds. When a bond or other security is posted for \nany reason, it must be electronically filed in the case by the posting party. The paper \noriginal of the security shall be retained by the posting party unless otherwise directed by \nthe court. \n",
+          "pages": [
+            22
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txed-civil-parsed-v1-be1176ce485e76f3",
+      "sourceDocumentId": "parsed-txed-be1176ce485e76f3",
+      "sourceUrl": "https://www.txed.uscourts.gov/sites/default/files/HR_Docs/TXED%20Local%20Rules%202025%20-%20As%20Amended%202.9.2026%20Updated%206.2.2026.pdf",
+      "pageIndex": 22,
+      "pageSpan": [
+        22,
+        22
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txed-civil:63",
+      "collectionId": "txed-civil",
+      "districtId": "txed",
+      "number": "63",
+      "citation": "Eastern District of Texas · Rule 63",
+      "title": "Inability of a Judge to Proceed, Reassignment of Actions after",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE CV-63 Inability of a Judge to Proceed, Reassignment of Actions after \nRecusal or Disqualification \n(a) Single-Judge Divisions. \n(1) Upon the disqualification or recusal of a judge from participation in an action or \nproceeding pending in a division wherein actions are assigned to only one judge, \na reassignment of the action or matter shall be made in accordance with an order \nof the chief judge of the district. \n(2) When the chief judge is the only judge who is assigned actions in a particular \ndivision and is disqualified or recuses himself in an action or proceeding pending \nin that division, the action or matter systematically shall be reassigned to the judge \nin active service, present in the district and able and qualified to act as chief judge, \nwho is senior in precedence over the remaining judges in the district. Such action \nor matter may be reassigned by such acting chief judge as provided in Section \n(a)(1) above.\n(b) Multi-Judge Divisions. Upon the disqualification of a judge from participation in an \naction or proceeding pending in a division wherein the caseload is divided between two ",
+          "pages": [
+            22
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-24",
+          "path": [],
+          "type": "paragraph",
+          "text": "24\njudges, the action or matter systematically shall be reassigned and transferred to the other \njudge sitting in that division. Where the caseload in the division is divided between more \nthan two judges, the action or matter systematically shall be randomly reassigned and \ntransferred to a judge in the division who is not disqualified. The clerk shall randomly \nassign another case to the recusing/disqualified judge in place of the case he or she recused \nin or was disqualified in. In instances where each judge in a two-judge or a multi-judge \ndivision recuses himself or herself or is disqualified, the action or matter systematically \nshall be reassigned and transferred in accordance with an order of the chief judge of the \ndistrict to any judge in active service, in another division, who is not disqualified. \n(c) All Judges Disqualified. If all judges in the district recuse themselves or are disqualified \nto preside over a particular civil or criminal action or matter, the clerk shall, without delay, \nso certify to the chief judge of the United States Court of Appeals for the Fifth Circuit, in \norder that he may re-assign such action or matter to a suitable judge. \n(d) Recusal When Former Judge of this District Appears as Counsel. For a period of one \nyear after the retirement or resignation of a former federal judge of this district, the judges \nof this court shall recuse themselves in any case in which the former colleague appears as \ncounsel. See 28 U.S.C. § 455; Committee on Codes of Conduct Advisory Opinion No. 70. \n",
+          "pages": [
+            23
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txed-civil-parsed-v1-be1176ce485e76f3",
+      "sourceDocumentId": "parsed-txed-be1176ce485e76f3",
+      "sourceUrl": "https://www.txed.uscourts.gov/sites/default/files/HR_Docs/TXED%20Local%20Rules%202025%20-%20As%20Amended%202.9.2026%20Updated%206.2.2026.pdf",
+      "pageIndex": 22,
+      "pageSpan": [
+        22,
+        23
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txed-civil:65",
+      "collectionId": "txed-civil",
+      "districtId": "txed",
+      "number": "65",
+      "citation": "Eastern District of Texas · Rule 65",
+      "title": "Injunctions",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-24",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE CV-65 Injunctions \nAn application for a temporary restraining order or for a preliminary injunction shall be made on \nan instrument separate from the complaint. \n",
+          "pages": [
+            23
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txed-civil-parsed-v1-be1176ce485e76f3",
+      "sourceDocumentId": "parsed-txed-be1176ce485e76f3",
+      "sourceUrl": "https://www.txed.uscourts.gov/sites/default/files/HR_Docs/TXED%20Local%20Rules%202025%20-%20As%20Amended%202.9.2026%20Updated%206.2.2026.pdf",
+      "pageIndex": 23,
+      "pageSpan": [
+        23,
+        23
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txed-civil:65.1",
+      "collectionId": "txed-civil",
+      "districtId": "txed",
+      "number": "65.1",
+      "citation": "Eastern District of Texas · Rule 65.1",
+      "title": "Security; Proceedings Against Sureties",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-24",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE CV-65.1 Security; Proceedings Against Sureties \n(a) No Attorneys, Clerks, or Marshals as Sureties. No attorney, clerk, or marshal, or the \ndeputies of any clerk or marshal shall be received as security on any cost, bail, attachment, \nforthcoming or replevy bond, without written permission of a judge of this court. \n(b) Vexatious Litigants; Security for Costs. On its own motion or on motion of a party and \nafter an opportunity to be heard, the court may at any time order a pro se litigant to give \nsecurity in such amount as the court determines to be appropriate to secure the payment \nof any costs, sanctions, or other amounts which may be awarded against a vexatious pro \nse litigant. \n",
+          "pages": [
+            23
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txed-civil-parsed-v1-be1176ce485e76f3",
+      "sourceDocumentId": "parsed-txed-be1176ce485e76f3",
+      "sourceUrl": "https://www.txed.uscourts.gov/sites/default/files/HR_Docs/TXED%20Local%20Rules%202025%20-%20As%20Amended%202.9.2026%20Updated%206.2.2026.pdf",
+      "pageIndex": 23,
+      "pageSpan": [
+        23,
+        23
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txed-civil:72",
+      "collectionId": "txed-civil",
+      "districtId": "txed",
+      "number": "72",
+      "citation": "Eastern District of Texas · Rule 72",
+      "title": "Magistrate Judges",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-24",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE CV-72 Magistrate Judges \n(a) Powers and Duties of a United States Magistrate Judge in Civil Cases. Each United \nStates magistrate judge of this court is authorized to perform the duties conferred by \nCongress or applicable rule. \n(b) Objections to Non-dispositive Matters — 28 U.S.C. § 636(b)(1)(A). An objection to a \nmagistrate judge’s order made on a non-dispositive matter shall be specific. Any objection \nand response thereto shall not exceed five pages. A party may respond to another party’s ",
+          "pages": [
+            23
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "25\nobjections within fourteen days after being served with a copy; however, the court need \nnot await the filing of a response before ruling on an objection. No further briefing is \nallowed absent leave of court. \n(c) Review of Case Dispositive Motions and Prisoner Litigation — 28 U.S.C. § \n636(b)(1)(B). Objections to reports and recommendations and any response thereto shall \nnot exceed eight pages. No further briefing is allowed absent leave of court. \n(d) Assignment of Matters to Magistrate Judges. The method for assignment of duties to a \nmagistrate judge and for the allocation of duties among the several magistrate judges of \nthe court shall be made in accordance with orders of the court or by special designation of \na District Judge. \n",
+          "pages": [
+            24
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txed-civil-parsed-v1-be1176ce485e76f3",
+      "sourceDocumentId": "parsed-txed-be1176ce485e76f3",
+      "sourceUrl": "https://www.txed.uscourts.gov/sites/default/files/HR_Docs/TXED%20Local%20Rules%202025%20-%20As%20Amended%202.9.2026%20Updated%206.2.2026.pdf",
+      "pageIndex": 23,
+      "pageSpan": [
+        23,
+        24
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txed-civil:77",
+      "collectionId": "txed-civil",
+      "districtId": "txed",
+      "number": "77",
+      "citation": "Eastern District of Texas · Rule 77",
+      "title": "District Courts and Clerks",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE CV-77 District Courts and Clerks \nNotice of Orders, Judgments, and Other Filings. The clerk may serve and give notice of \norders, judgments, and other filings as provided in Fed. R. Civ. P. 5(b).\n",
+          "pages": [
+            24
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txed-civil-parsed-v1-be1176ce485e76f3",
+      "sourceDocumentId": "parsed-txed-be1176ce485e76f3",
+      "sourceUrl": "https://www.txed.uscourts.gov/sites/default/files/HR_Docs/TXED%20Local%20Rules%202025%20-%20As%20Amended%202.9.2026%20Updated%206.2.2026.pdf",
+      "pageIndex": 24,
+      "pageSpan": [
+        24,
+        24
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txed-civil:79",
+      "collectionId": "txed-civil",
+      "districtId": "txed",
+      "number": "79",
+      "citation": "Eastern District of Texas · Rule 79",
+      "title": "Records Kept by the Clerk",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE CV-79 Records Kept by the Clerk\n(a) Submission of Hearing/Trial Exhibits. \n(1) The parties shall not submit exhibits to the clerk’s office prior to a hearing/trial \nwithout a court order. The clerk shall return to the party any physical exhibits not \ncomplying with this rule. \n(2) Exhibits shall be properly marked but not placed in binders. Multiple-paged \ndocumentary exhibits should be properly fastened. Additional copies of exhibits \nmay be submitted in binders for the court’s use. \n(3) The parties shall provide letter-sized copies of any documentary, physical, or \noversized exhibit to the court prior to the conclusion of a hearing/trial. At the \nconclusion of a hearing/trial, the parties shall provide the courtroom deputy with \nPDF copies of all exhibits that were admitted by the court, unless otherwise \nordered. Oversized exhibits will be returned at the conclusion of the trial or \nhearing. If parties desire the oversized exhibits to be sent to the appellate court, it \nwill be their responsibility to send them. \n(4) Exhibits in the court’s custody that are not docketed as part of the case file need \nonly be retained through the final disposition of the case as defined on the court’s \nwebsite. The party offering any exhibit shall be responsible for its removal within \n30 days after final disposition of the case. Any exhibit remaining more than 30 \ndays after final disposition of the case may be disposed of by the clerk.",
+          "pages": [
+            24
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "26\n(b) Hazardous Documents or Items Sent to the Court. Prisoners and other litigants shall \nnot send to this court (including the district clerk, any judges, and any other court \nagency) documents or items that constitute a health hazard as defined below: \n(1) The clerk is authorized to routinely and immediately dispose of, without seeking a \njudge’s permission, any papers or items sent to the court by prisoners or other \nlitigants that are smeared with or contain blood, hair, food, feces, urine, or other \nbody fluids. Although “[t]he clerk must not refuse to file a paper solely because it \nis not in the form prescribed by these rules or by a local rule or practice,” Fed. R. \nCiv. P. 5(d), papers or other items containing or smeared with excrement or body \nfluids are excepted from this rule on the ground that they constitute a health hazard \nand can be refused by the clerk for that reason, which is a reason other than \nimproper form. \n(2) In the event the clerk receives weapons or drugs that are intended to be filed as \nexhibits, the clerk shall notify the judge assigned to the case of that fact, or in the \nevent that no case has been filed, the chief judge. \n(3) The clerk shall maintain a log of the items that are disposed of pursuant to General \nOrder 96-6. The log shall contain the case number and style, if any, the name of \nthe prisoner or litigant who sent the offending materials, and a brief description of \nthe item disposed of. The clerk also shall notify the prisoner/litigant and, if \napplicable, the warden or other supervising official of the appropriate correctional \nfacility that the item in question was destroyed and that sanctions may be imposed \nif the prisoner continues to forward papers, items, or physical exhibits in violation \nof General Order 96-6. \n",
+          "pages": [
+            25
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txed-civil-parsed-v1-be1176ce485e76f3",
+      "sourceDocumentId": "parsed-txed-be1176ce485e76f3",
+      "sourceUrl": "https://www.txed.uscourts.gov/sites/default/files/HR_Docs/TXED%20Local%20Rules%202025%20-%20As%20Amended%202.9.2026%20Updated%206.2.2026.pdf",
+      "pageIndex": 24,
+      "pageSpan": [
+        24,
+        25
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txed-civil:81",
+      "collectionId": "txed-civil",
+      "districtId": "txed",
+      "number": "81",
+      "citation": "Eastern District of Texas · Rule 81",
+      "title": "Removed Actions",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE CV-81 Removed Actions\nParties removing cases from state court to federal court shall comply with the following: \n(a) File with the clerk a notice of removal which reflects the style of the case exactly as it was \nstyled in state court; \n(b) If a jury was requested in state court, the removed action will be placed on the jury docket \nof this court provided the removing party or parties file a separate jury demand pursuant \nto Local Rule CV-38(a); \n(c) The removing party or parties shall furnish to the clerk the following information at the \ntime of removal: \n(1) a list of all parties in the case, their party type (e.g., plaintiff, defendant, intervenor, \nreceiver, etc.) and current status of the removed case (e.g., pending, dismissed); \n(2) a civil cover sheet and copy of the state court docket sheet; a copy of all pleadings \nthat assert causes of action (e.g., complaints, amended complaints, supplemental ",
+          "pages": [
+            25
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "27\ncomplaints, petitions, counter-claims, cross-actions, third party actions, \ninterventions, etc.); all answers to such pleadings and a copy of all process and \norders served upon the party removing the case to this court as required by 28 \nU.S.C. § 1446(a); \n(3) a complete list of attorneys involved in the action being removed, including each \nattorney’s bar number, address, telephone number, and party or parties represented \nby that attorney; \n(4) a record of which parties have requested jury trial (this information is in addition \nto filing a separate jury demand pursuant to Local Rule CV-38(a)); and \n(5) the name and address of the court from which the case was removed. \n(d) Any motions pending in state court will be considered moot at the time of removal unless \nthey are re-urged in this court. \n",
+          "pages": [
+            26
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txed-civil-parsed-v1-be1176ce485e76f3",
+      "sourceDocumentId": "parsed-txed-be1176ce485e76f3",
+      "sourceUrl": "https://www.txed.uscourts.gov/sites/default/files/HR_Docs/TXED%20Local%20Rules%202025%20-%20As%20Amended%202.9.2026%20Updated%206.2.2026.pdf",
+      "pageIndex": 25,
+      "pageSpan": [
+        25,
+        26
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txed-civil:83",
+      "collectionId": "txed-civil",
+      "districtId": "txed",
+      "number": "83",
+      "citation": "Eastern District of Texas · Rule 83",
+      "title": "Rules by District Courts; Judge’s Directives",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE CV-83 Rules by District Courts; Judge’s Directives\n(a) Docket Calls. Traditional docket calls are abolished. Each judge shall endeavor to set early \nand firm trial dates which will eliminate the need for multiple-case docket calls. \n(b) Transferred or Remanded Cases. Absent an order to the contrary, no sooner than the \ntwenty-first day following an order of the court transferring or remanding a case, the clerk \nshall effect the transfer or remand. Where a case has been remanded to state court, the \nclerk shall mail certified copies of the court’s order directing such action and the docket \nsheet. Where a case has been transferred to another federal district court, the electronic \ncase file shall be transferred to the directed court. If a timely motion for reconsideration \nof the order of transfer or remand has been filed, the clerk shall delay mailing or \ntransferring the file until the court has ruled on the motion for reconsideration. \n(c) Standing Orders. Any standing order adopted by a judge pursuant to Fed. R. Civ. P. 83(b) \nmust conform to any uniform numbering system prescribed by the Judicial Conference of \nthe United States and must be filed with the clerk. The court will periodically review all \nstanding orders for compliance with Rule 83(b) and for possible inclusion in the local \nrules. This subsection does not apply to provisions in scheduling or other case-specific \norders. \n(d) Courtroom Attire and Conduct. All persons present in a courtroom where a trial, \nhearing, or other proceeding is in progress must dress and conduct themselves in a manner \ndemonstrating respect for the court. The presiding judge has discretion to establish \nappropriate standards of dress and conduct. \n(e) Alternative Dispute Resolution. – Consistent with 28 U.S.C. § 651, the use of alternative \ndispute resolution processes in all civil actions, including adversary proceedings in \nbankruptcy, is authorized. Litigants in all civil actions shall consider the use of an ",
+          "pages": [
+            26
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "28\nalternative dispute resolution process at an appropriate stage in the litigation. This \nconsideration shall include, but is not limited to, mediation as provided in the Court￾Annexed Mediation Plan set forth on the court’s website (per General Order 14-06) which \nis incorporated herein by reference.",
+          "pages": [
+            27
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txed-civil-parsed-v1-be1176ce485e76f3",
+      "sourceDocumentId": "parsed-txed-be1176ce485e76f3",
+      "sourceUrl": "https://www.txed.uscourts.gov/sites/default/files/HR_Docs/TXED%20Local%20Rules%202025%20-%20As%20Amended%202.9.2026%20Updated%206.2.2026.pdf",
+      "pageIndex": 26,
+      "pageSpan": [
+        26,
+        27
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    }
+  ],
+  "evidence": [
+    {
+      "number": "1",
+      "heading": "LOCAL RULE CV-1 Scope and Purpose of Rules",
+      "page": 4,
+      "offset": 101,
+      "slices": [
+        {
+          "page": 4,
+          "start": 101,
+          "end": 1237,
+          "sha256": "72eb63b5f2181f6a341f94429fe20d7cf85444449b803c12330a201d3d5cd1a0"
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "heading": "LOCAL RULE CV-3 Commencement of Action",
+      "page": 4,
+      "offset": 1237,
+      "slices": [
+        {
+          "page": 4,
+          "start": 1237,
+          "end": 2589,
+          "sha256": "4385959a9acad4ede5dfd92e8cde9ca15bc354766b51218e4fe339cda3842a01"
+        },
+        {
+          "page": 5,
+          "start": 0,
+          "end": 703,
+          "sha256": "8126259793be25a8d89c24e7f7334580b90d16fec9041267ae19a15a585d134d"
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "heading": "LOCAL RULE CV-4 Complaint, Summons, and Return",
+      "page": 5,
+      "offset": 703,
+      "slices": [
+        {
+          "page": 5,
+          "start": 703,
+          "end": 2355,
+          "sha256": "579b5b69a64dca6f67f63668c9a4452d5eb78eb92746ef6e3255194bb77f05ec"
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "heading": "LOCAL RULE CV-5 Service and Filing of Pleadings and Other Documents",
+      "page": 5,
+      "offset": 2355,
+      "slices": [
+        {
+          "page": 5,
+          "start": 2355,
+          "end": 2812,
+          "sha256": "d2e2e6a80b4071262cace36ac2fe7ac21a45e7d1bc97ee683fb53324e124d3a0"
+        },
+        {
+          "page": 6,
+          "start": 0,
+          "end": 2545,
+          "sha256": "7397b4561fdcd6df309ba8dc737d78f78544f5d113d6b0fb2d890234d39f5860"
+        },
+        {
+          "page": 7,
+          "start": 0,
+          "end": 2603,
+          "sha256": "67dc47bf3617a4c34a3b804f9a9e6b1161e21554e7b149b9e79f57a3aa70dbba"
+        },
+        {
+          "page": 8,
+          "start": 0,
+          "end": 2716,
+          "sha256": "6f7086d0a218f2aaae33236d024df32d616f331836eafd7e749def845e6fc029"
+        },
+        {
+          "page": 9,
+          "start": 0,
+          "end": 2823,
+          "sha256": "e86a4afe85e4b9be72b2cc251eefc67dc31be7ddd3ad1520ca487161a50e2c57"
+        },
+        {
+          "page": 10,
+          "start": 0,
+          "end": 3,
+          "sha256": "917df3320d778ddbaa5c5c7742bc4046bf803c36ed2b050f30844ed206783469"
+        }
+      ]
+    },
+    {
+      "number": "5.2",
+      "heading": "LOCAL RULE CV-5.2 Privacy Protections for Filings Made with the Court",
+      "page": 10,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 10,
+          "start": 3,
+          "end": 3051,
+          "sha256": "a8f1178fdaa666b4d9ff5f257b6c21cc644bf9d2968d3676081d72f63e934518"
+        },
+        {
+          "page": 11,
+          "start": 0,
+          "end": 1429,
+          "sha256": "776a2476007ab1c622c6a78aa0b27110898f67af448bc0be865cd8fa8e5d8669"
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "heading": "LOCAL RULE CV-6 Computation of Time",
+      "page": 11,
+      "offset": 1429,
+      "slices": [
+        {
+          "page": 11,
+          "start": 1429,
+          "end": 1807,
+          "sha256": "885cf5d8f4c3b3197380ec0330b760f13e1ed34823cce842bec654b9d3c6d1d8"
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "heading": "LOCAL RULE CV-7 Pleadings Allowed; Form of Motions and Other Documents",
+      "page": 11,
+      "offset": 1807,
+      "slices": [
+        {
+          "page": 11,
+          "start": 1807,
+          "end": 3100,
+          "sha256": "2a8444b1b671c6a1e79f287f9dde4e133cf21b28c952b1baa9259c28ab571a7d"
+        },
+        {
+          "page": 12,
+          "start": 0,
+          "end": 2708,
+          "sha256": "30ad4c3435d07053e330a40e6893e00f114f724699268d63bb0143254d903b98"
+        },
+        {
+          "page": 13,
+          "start": 0,
+          "end": 3176,
+          "sha256": "7424a6067de995db8be0055b6bbf8fcbf398e37233b1e957ae8659ffe56bb207"
+        },
+        {
+          "page": 14,
+          "start": 0,
+          "end": 3201,
+          "sha256": "ea23dd57c47e5ad4c2ec39c466db54047b93f51bcd710f41b0aa1577181dc52a"
+        },
+        {
+          "page": 15,
+          "start": 0,
+          "end": 2192,
+          "sha256": "5351e591e236355c431649912c7fef3e89573275183abd494b0960c2eda78865"
+        },
+        {
+          "page": 16,
+          "start": 0,
+          "end": 177,
+          "sha256": "6e06a571c590f5b873092ffd3464f678fe7375655e4da115f0ef280fe2484457"
+        }
+      ]
+    },
+    {
+      "number": "10",
+      "heading": "LOCAL RULE CV-10 Form of Pleadings",
+      "page": 16,
+      "offset": 177,
+      "slices": [
+        {
+          "page": 16,
+          "start": 177,
+          "end": 2297,
+          "sha256": "901a7adda62072c42927b7836d7a1cfd360336f63244332a184a10e33bb8d05d"
+        },
+        {
+          "page": 17,
+          "start": 0,
+          "end": 832,
+          "sha256": "0fa4cb530ee1f032f50ca54fc53c8cd014ccb615f367a2d581033c08e9bf9cc8"
+        }
+      ]
+    },
+    {
+      "number": "11",
+      "heading": "LOCAL RULE CV-11 Signing of Pleadings, Motions, and Other Documents",
+      "page": 17,
+      "offset": 832,
+      "slices": [
+        {
+          "page": 17,
+          "start": 832,
+          "end": 2129,
+          "sha256": "f111bbcf170a3d610a40fdb276344fde1c4fe704fec1b49c06a97a0798a4fa10"
+        },
+        {
+          "page": 18,
+          "start": 0,
+          "end": 1792,
+          "sha256": "43358f3f1238cf02c8c02643e65db86c8c908f6e9664f208a73b0792716ce0c6"
+        }
+      ]
+    },
+    {
+      "number": "12",
+      "heading": "LOCAL RULE CV-12 Filing of Answers and Defenses",
+      "page": 18,
+      "offset": 1792,
+      "slices": [
+        {
+          "page": 18,
+          "start": 1792,
+          "end": 2415,
+          "sha256": "8661d3912448a2993ed3d1471792cb41bfb91e6a30fd13d8ed2077dc115ed44e"
+        }
+      ]
+    },
+    {
+      "number": "26",
+      "heading": "LOCAL RULE CV-26 Provisions Governing Discovery; Duty of Disclosure",
+      "page": 18,
+      "offset": 2415,
+      "slices": [
+        {
+          "page": 18,
+          "start": 2415,
+          "end": 2710,
+          "sha256": "b2c47799db2f366279e6145faf86f3af4bf88729d382cdc2bf908df127d5b17f"
+        },
+        {
+          "page": 19,
+          "start": 0,
+          "end": 2058,
+          "sha256": "d3c789b3d69ec1bba870eade5ebb92596e937c94b805a8112254fd9f01004e2a"
+        }
+      ]
+    },
+    {
+      "number": "30",
+      "heading": "LOCAL RULE CV-30 Depositions Upon Oral Examination",
+      "page": 19,
+      "offset": 2058,
+      "slices": [
+        {
+          "page": 19,
+          "start": 2058,
+          "end": 2598,
+          "sha256": "7e61b99af7f12d2deea2010ecafd0daae68127c200819d18d4140d56a7c5d986"
+        },
+        {
+          "page": 20,
+          "start": 0,
+          "end": 478,
+          "sha256": "42397fec44aacbb42afdbcc7832174a763d379fb4048c156cf4f61413ff6681d"
+        }
+      ]
+    },
+    {
+      "number": "34",
+      "heading": "LOCAL RULE CV-34 Production of Documents and Things",
+      "page": 20,
+      "offset": 478,
+      "slices": [
+        {
+          "page": 20,
+          "start": 478,
+          "end": 1993,
+          "sha256": "7f5918a8bb4725d545f48e84dd543cdf003961d684a1489ef8fd2da85cdaf11a"
+        }
+      ]
+    },
+    {
+      "number": "38",
+      "heading": "LOCAL RULE CV-38 Right to a Jury Trial; Demand",
+      "page": 20,
+      "offset": 1993,
+      "slices": [
+        {
+          "page": 20,
+          "start": 1993,
+          "end": 2966,
+          "sha256": "37489f4e859bef2b9b671fe458ead18fbf1890801fb8da77d099cdd1190385bc"
+        },
+        {
+          "page": 21,
+          "start": 0,
+          "end": 3,
+          "sha256": "6e2ae11dad0616f66bbb2b6e6556f580bb987fd911d7132aa6bee2bfc7cc7b52"
+        }
+      ]
+    },
+    {
+      "number": "42",
+      "heading": "LOCAL RULE CV-42 Consolidation; Separate Trials Consolidation of Actions",
+      "page": 21,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 21,
+          "start": 3,
+          "end": 945,
+          "sha256": "b089869782aa1a34ac3ff6778532947bba739190bb4c906db3ff87213be59157"
+        }
+      ]
+    },
+    {
+      "number": "43",
+      "heading": "LOCAL RULE CV-43 Taking of Testimony",
+      "page": 21,
+      "offset": 945,
+      "slices": [
+        {
+          "page": 21,
+          "start": 945,
+          "end": 1704,
+          "sha256": "bcd2f4d3010dd1bad814094865bd853e90248d42fe2f524549a971fb66136652"
+        }
+      ]
+    },
+    {
+      "number": "47",
+      "heading": "LOCAL RULE CV-47 Selecting Jurors",
+      "page": 21,
+      "offset": 1704,
+      "slices": [
+        {
+          "page": 21,
+          "start": 1704,
+          "end": 1990,
+          "sha256": "5dc78912aa0a98ec7effc67777c7fa0e6acaecf6c304e3782f15b8864a4ea8e4"
+        }
+      ]
+    },
+    {
+      "number": "50",
+      "heading": "LOCAL RULE CV-50 Judgment as a Matter of Law in a Jury Trial",
+      "page": 21,
+      "offset": 1990,
+      "slices": [
+        {
+          "page": 21,
+          "start": 1990,
+          "end": 2297,
+          "sha256": "0fc6d0dfd585f6d246e696bbbbefab1c65295d5f369d0866ed6e6f1c286bff1b"
+        }
+      ]
+    },
+    {
+      "number": "54",
+      "heading": "LOCAL RULE CV-54 Judgments; Costs",
+      "page": 21,
+      "offset": 2297,
+      "slices": [
+        {
+          "page": 21,
+          "start": 2297,
+          "end": 2609,
+          "sha256": "98f44876208eae645b3e199f714dd4ebdad2a08d5021e9fe3a7861340a489c03"
+        },
+        {
+          "page": 22,
+          "start": 0,
+          "end": 1077,
+          "sha256": "7c0cdfb783e3d4455222e823f9a77ec2e150237650ae29daf87610d3ac68d728"
+        }
+      ]
+    },
+    {
+      "number": "56",
+      "heading": "LOCAL RULE CV-56 Summary Judgment Procedure",
+      "page": 22,
+      "offset": 1077,
+      "slices": [
+        {
+          "page": 22,
+          "start": 1077,
+          "end": 2973,
+          "sha256": "461c6321fc404a44c5f23644ec86d1353bd91c9e330f2fb60da1269b4ab4659d"
+        },
+        {
+          "page": 23,
+          "start": 0,
+          "end": 505,
+          "sha256": "08b71d725b5f2d66c9cfa8ef1b776197c78252c9fa19da9f7701db44a1c6d499"
+        }
+      ]
+    },
+    {
+      "number": "62",
+      "heading": "LOCAL RULE CV-62 Stay of Proceedings to Enforce a Judgment",
+      "page": 23,
+      "offset": 505,
+      "slices": [
+        {
+          "page": 23,
+          "start": 505,
+          "end": 1525,
+          "sha256": "c6f6ebc0726376e7ce84e61754b77505ee9aebaffb4311f79b2acdb3b39e9e1e"
+        }
+      ]
+    },
+    {
+      "number": "63",
+      "heading": "LOCAL RULE CV-63 Inability of a Judge to Proceed, Reassignment of Actions after",
+      "page": 23,
+      "offset": 1525,
+      "slices": [
+        {
+          "page": 23,
+          "start": 1525,
+          "end": 2653,
+          "sha256": "e56940f06a5314669c8d3483ac51d9ebba4c37896ff18e722fa4c15c4734c4b2"
+        },
+        {
+          "page": 24,
+          "start": 0,
+          "end": 1549,
+          "sha256": "b5edf40db51ed88b80e8890eaef23756f5d76824046388946a2646255ec34d5a"
+        }
+      ]
+    },
+    {
+      "number": "65",
+      "heading": "LOCAL RULE CV-65 Injunctions",
+      "page": 24,
+      "offset": 1549,
+      "slices": [
+        {
+          "page": 24,
+          "start": 1549,
+          "end": 1722,
+          "sha256": "705cbe3275d799479ec34a68c5231538923da211bb229413513280ac49a1186e"
+        }
+      ]
+    },
+    {
+      "number": "65.1",
+      "heading": "LOCAL RULE CV-65.1 Security; Proceedings Against Sureties",
+      "page": 24,
+      "offset": 1722,
+      "slices": [
+        {
+          "page": 24,
+          "start": 1722,
+          "end": 2426,
+          "sha256": "f0ab9eef9a8cac09c4d23c5d3d5bb16642d9faee9dbc7f6c6155cc032e7aa247"
+        }
+      ]
+    },
+    {
+      "number": "72",
+      "heading": "LOCAL RULE CV-72 Magistrate Judges",
+      "page": 24,
+      "offset": 2426,
+      "slices": [
+        {
+          "page": 24,
+          "start": 2426,
+          "end": 2937,
+          "sha256": "7e062f1aeed75f0456c136c3ee1010edc69370164a33392891dcc740ae0fe025"
+        },
+        {
+          "page": 25,
+          "start": 0,
+          "end": 751,
+          "sha256": "7b03657b1eec2d42f7ad0c9fb6481ff2167441e765a75049f9f22d37a2c56e62"
+        }
+      ]
+    },
+    {
+      "number": "77",
+      "heading": "LOCAL RULE CV-77 District Courts and Clerks",
+      "page": 25,
+      "offset": 751,
+      "slices": [
+        {
+          "page": 25,
+          "start": 751,
+          "end": 958,
+          "sha256": "3f26fdd6b8848496967253c4ca62213bce6693a40b86e20daef7cb4e72c1b288"
+        }
+      ]
+    },
+    {
+      "number": "79",
+      "heading": "LOCAL RULE CV-79 Records Kept by the Clerk",
+      "page": 25,
+      "offset": 958,
+      "slices": [
+        {
+          "page": 25,
+          "start": 958,
+          "end": 2415,
+          "sha256": "74676a05958d184ed08aa073dfe91d6ea9bedbceac9644b496f6b9e11be30964"
+        },
+        {
+          "page": 26,
+          "start": 0,
+          "end": 1799,
+          "sha256": "23da57e0f4bea0ee179af9980390c344926f97d00fe610dd3daa95bb1b738a91"
+        }
+      ]
+    },
+    {
+      "number": "81",
+      "heading": "LOCAL RULE CV-81 Removed Actions",
+      "page": 26,
+      "offset": 1799,
+      "slices": [
+        {
+          "page": 26,
+          "start": 1799,
+          "end": 2728,
+          "sha256": "ef1806c708c6a35222e4f4eef7256e79f18b9feff126dd9a334774b78bc9642f"
+        },
+        {
+          "page": 27,
+          "start": 0,
+          "end": 813,
+          "sha256": "cc9c83574e6080df4e9b6aa383e91e44f8792c71c798d76276c94f36aa0bae00"
+        }
+      ]
+    },
+    {
+      "number": "83",
+      "heading": "LOCAL RULE CV-83 Rules by District Courts; Judge’s Directives",
+      "page": 27,
+      "offset": 813,
+      "slices": [
+        {
+          "page": 27,
+          "start": 813,
+          "end": 2812,
+          "sha256": "316c0cc39f718b74f18970c9a66bbcfacb4380b2083913d0b6fa51ae63d55224"
+        },
+        {
+          "page": 28,
+          "start": 0,
+          "end": 303,
+          "sha256": "8406aaabc8ce8198fc8dcece998901f8d997d5e306a5ff7e3f09898e5a3a17ae"
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "startPage": 4,
+    "startOffset": 101,
+    "endPage": 28,
+    "endOffset": 303,
+    "ruleCount": 29,
+    "tocReconciled": false,
+    "editorialReviewComplete": false,
+    "currencyReviewed": false,
+    "flags": [
+      "Source extraction contains unresolved characters; consult the original publication."
+    ],
+    "excluded": "Source material outside the recorded range remains available in the district source library."
+  },
+  "transcriptionSha256": "3d6a6dd5e1f136ab5a43ae1b4421683249218fdfcd38e4846c01ffd739dad146"
+}

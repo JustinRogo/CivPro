@@ -1,0 +1,2633 @@
+{
+  "version": 1,
+  "reviewStatus": "parsed-draft",
+  "districtId": "wvnd",
+  "sourceDocument": {
+    "id": "7b5520cb858b057c",
+    "title": "Local Rules »",
+    "format": "pdf",
+    "role": "primary",
+    "sourceUrl": "http://www.wvnd.uscourts.gov/sites/wvnd/files/NDWV%20Local%20Rules%202018%20MASTER.pdf",
+    "sha256": "7b5520cb858b057cd98a1b54a6954b7e4a9ccf590a8f96934dfbc647abe249e9",
+    "bytes": 655804,
+    "retrievedAt": "2026-09-07T00:02:35.838264+00:00",
+    "snapshotPath": "sources/district-snapshots/7b5520cb858b057cd98a1b54a6954b7e4a9ccf590a8f96934dfbc647abe249e9.pdf",
+    "textPath": "data/source-library/7b5520cb858b057cd98a1b54a6954b7e4a9ccf590a8f96934dfbc647abe249e9.json",
+    "pdfPath": "data/source-pdfs/7b5520cb858b057cd98a1b54a6954b7e4a9ccf590a8f96934dfbc647abe249e9.pdf",
+    "pageCount": 162,
+    "reviewStatus": "source-document-only",
+    "blankTextPages": 0
+  },
+  "collection": {
+    "id": "wvnd-civil",
+    "name": "Northern District of West Virginia Local Rules",
+    "shortName": "Local rules · draft",
+    "districtId": "wvnd",
+    "scopeNote": "Civil and generally applicable local rules; unparsed supplements remain in the source library. Rule boundaries and transcription are drafts. Embedded notes, forms, and running headers may remain within rule text; subsection anchors and field-separated notes are not yet reviewed."
+  },
+  "provisions": [
+    {
+      "id": "wvnd-civil:1.01",
+      "collectionId": "wvnd-civil",
+      "districtId": "wvnd",
+      "number": "1.01",
+      "citation": "Northern District of West Virginia · Rule 1.01",
+      "title": "Applicability.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-63",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Civ P 1.01. Applicability.\nIn all civil proceedings, the General Rules of this Court shall be followed insofar \nas they are applicable.\nAll rights and duties contained in these Local Rules of Civil Procedure apply \nequally to all parties.\nSummons\n",
+          "pages": [
+            62
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wvnd-civil-parsed-v1-7b5520cb858b057c",
+      "sourceDocumentId": "parsed-wvnd-7b5520cb858b057c",
+      "sourceUrl": "http://www.wvnd.uscourts.gov/sites/wvnd/files/NDWV%20Local%20Rules%202018%20MASTER.pdf",
+      "pageIndex": 62,
+      "pageSpan": [
+        62,
+        62
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wvnd-civil:4.01",
+      "collectionId": "wvnd-civil",
+      "districtId": "wvnd",
+      "number": "4.01",
+      "citation": "Northern District of West Virginia · Rule 4.01",
+      "title": "Waiver of Service.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-63",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Civ P 4.01. Waiver of Service.\nA plaintiff who intends to request that a defendant waive service of a summons \nunder Fed. R. Civ. P. 4(d)(1) shall, within fourteen (14) days of filing the complaint, mail \na copy of the notice and request via first class mail or other reliable means to the \ndefendant and file the original thereof.\nIf a plaintiff fails to mail and file the notice and request within the specified period, \nservice of the complaint shall be effected by means other than by waiver of service \nunless otherwise ordered.\nA plaintiff who mails a notice and request under the provisions of Fed. R. Civ. P. \n4(d)(1) shall allow the defendant not less than thirty (30) days and not more than \nforty-five (45) days from the date on which the notice and request is sent within which to \nreturn the waiver of service. If notice is sent to the defendant outside any judicial district \nof the United States, a plaintiff who mails a notice and request under the provisions of \nFed. R. Civ. P. 4(d)(1) shall allow the defendant not less than sixty (60) days and not",
+          "pages": [
+            62
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-64",
+          "path": [],
+          "type": "paragraph",
+          "text": "40\nmore than seventy-five (75) days from that date within which to return the waiver of \nservice.\nThe Plaintiff shall file the executed waiver of service in CM/ECF within seven (7) \ndays of its return.\nCourt Filings\n",
+          "pages": [
+            63
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wvnd-civil-parsed-v1-7b5520cb858b057c",
+      "sourceDocumentId": "parsed-wvnd-7b5520cb858b057c",
+      "sourceUrl": "http://www.wvnd.uscourts.gov/sites/wvnd/files/NDWV%20Local%20Rules%202018%20MASTER.pdf",
+      "pageIndex": 62,
+      "pageSpan": [
+        62,
+        63
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wvnd-civil:5.01",
+      "collectionId": "wvnd-civil",
+      "districtId": "wvnd",
+      "number": "5.01",
+      "citation": "Northern District of West Virginia · Rule 5.01",
+      "title": "Discovery.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-64",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Civ P 5.01. Discovery.\n(a) Discovery Not Filed; Certificate of Service Filed: Parties shall not file in \nCM/ECF any disclosures pursuant to Fed. R. Civ. P. 26(a)(1), (2) and (3); depositions \nupon oral examination or written questions and any notice thereof; notices of receipt of \ndepositions; interrogatories; requests pursuant to Fed. R. Civ. P. 34; requests for \nadmissions or answers and responses thereto; or any other discovery materials, unless \nexpressly ordered by the Court or required under these Local Rules of Civil Procedure. \nParties shall file only certificates of service of discovery materials. \n(b) Custodial Responsibility: Unless otherwise stipulated or ordered, the party \ntaking a deposition or obtaining any material through discovery is responsible for its \ncustody, preservation and delivery to the Court if needed or ordered. This responsibility \nshall not terminate upon dismissal of any party while the action is still pending in the \ndistrict or appellate courts. The custodial responsibility of the dismissed party may be \ndischarged by stipulation of the parties to transfer the custody of the discovered material \nto one or more of the remaining parties. If for any reason a party or concerned citizen \nbelieves that any of the named documents should be filed, that party or citizen may \nrequest, ex parte, that the document be filed, stating the reasons therefor. The Court ",
+          "pages": [
+            63
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-65",
+          "path": [],
+          "type": "paragraph",
+          "text": "41\nmay also order filing sua sponte. A party seeking relief under Fed. R. Civ. P. 26(c) or \n37 shall file copies of the relevant portions of the disputed documents with any motion. \nIf the moving or nonmoving party relies on discovery documents during proceedings \nconcerning a motion under Fed. R. Civ. P. 56, that party shall file copies of the pertinent \nportions of any such documents together with the motion or brief in opposition.\n(c) Electronic Service of Discovery: Parties may serve documentary discovery \nmatters in electronic format—rather than traditionally via paper—on all non-pro se\nparties. Parties may convert the matters to PDF format and email them to all non-pro \nse parties. Service by electronic means constitutes service of the discovery materials \nand has the same legal force and effect as if served in paper. If the recipient counsel’s \nemail system rejects the mailing of documentary discovery, the sender may serve such \ndocuments, by agreement of the parties after confirming that the recipient has the \nappropriate technology available, through the regular mail by CD-ROM, DVD or other \nremovable media, or the sender may post the PDF files to a secured extranet site for \ndownloading. \n(d) Pro Se Parties: Because pro se parties are not electronic filers, parties must \nserve pro se parties traditionally with paper. This Rule applies to all documentary \ndiscovery, including but not limited to depositions upon oral examination or written \nquestions and any notice thereof; notices of receipt of depositions; interrogatories;\nrequests pursuant to Fed. R. Civ. P. 34; requests for admissions and answers and \nresponses thereto; and any other discovery material that can be scanned or otherwise \nconverted into PDF format. Consistent with LR Civ P 5.01(a), counsel must file \ncertificates of service of all discovery materials filed electronically, specifying the method ",
+          "pages": [
+            64
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-66",
+          "path": [],
+          "type": "paragraph",
+          "text": "42\nused to serve the discovery materials.\nFilings\n",
+          "pages": [
+            65
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wvnd-civil-parsed-v1-7b5520cb858b057c",
+      "sourceDocumentId": "parsed-wvnd-7b5520cb858b057c",
+      "sourceUrl": "http://www.wvnd.uscourts.gov/sites/wvnd/files/NDWV%20Local%20Rules%202018%20MASTER.pdf",
+      "pageIndex": 63,
+      "pageSpan": [
+        63,
+        65
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wvnd-civil:7.01",
+      "collectionId": "wvnd-civil",
+      "districtId": "wvnd",
+      "number": "7.01",
+      "citation": "Northern District of West Virginia · Rule 7.01",
+      "title": "Stipulations.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-66",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Civ P 7.01. Stipulations.\nUnless otherwise ordered, stipulations under the Federal Rules of Civil Procedure \nand these Local Rules of Civil Procedure must be in writing, signed by the stipulating \nparties or their counsel, and promptly filed. With electronic filings, each party or \nattorney may sign in “s/ signature” form, consistent with the Court’s Administrative \nProcedures for Electronic Filing.\n",
+          "pages": [
+            65
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wvnd-civil-parsed-v1-7b5520cb858b057c",
+      "sourceDocumentId": "parsed-wvnd-7b5520cb858b057c",
+      "sourceUrl": "http://www.wvnd.uscourts.gov/sites/wvnd/files/NDWV%20Local%20Rules%202018%20MASTER.pdf",
+      "pageIndex": 65,
+      "pageSpan": [
+        65,
+        65
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wvnd-civil:7.02",
+      "collectionId": "wvnd-civil",
+      "districtId": "wvnd",
+      "number": "7.02",
+      "citation": "Northern District of West Virginia · Rule 7.02",
+      "title": "Motion Practice.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-66",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Civ P 7.02. Motion Practice.\n(a) Motions and Supporting Memoranda: All motions shall be concise, state the \nrelief requested precisely, be filed timely, but not prematurely, and, except for \nnondispositive motions other than a motion for sanctions, be accompanied by a \nsupporting memorandum of not more than twenty-five (25) pages, double-spaced, and \nshall be further accompanied by copies of depositions (or the pertinent portions thereof), \nadmissions, documents, affidavits and other such materials upon which the motion \nrelies. A judicial officer, for good cause shown on motion made to the Court, may allow \na supporting memorandum to exceed twenty-five (25) pages. The proposed supporting \nmemoranda must be attached to the motion during the e-filing process. A dispositive \nmotion or a motion for sanctions that is unsupported by a memorandum may be denied \nwithout prejudice. The memorandum must be submitted on 8½ by 11-inch paper. \nMargins must be one inch on all four sides. Page numbers, but no text, may be placed \nin the margins. The memorandum must be in either Times New Roman, Courier New ",
+          "pages": [
+            65
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-67",
+          "path": [],
+          "type": "paragraph",
+          "text": "43\nor Arial font. The font size must be twelve (12) point proportionally spaced type or \neleven (11) point non-proportionally spaced type. Footnotes and indented quotations \nmay be single-spaced and footnote text shall be no smaller than eleven (11) point \nproportionally spaced or ten (10) point non-proportionally spaced type. \nParties may file a memorandum in support of a nondispositive motion, but are not \nrequired to do so. Motions for summary judgment shall include or be accompanied by \na short and plain statement of uncontroverted facts.\n(b) Memoranda in Response to Motions and Reply Memoranda:\n(1) Memoranda in Response: Except for responses to motions for \nsummary judgment, responses to motions shall be filed and served within \nfourteen (14) days from the date of service of the motion. Responses to \nmotions for summary judgment shall be filed and served within twenty-one \n(21) days from the date of service of the motion.\n(i) Traditional Filing: When not filing electronically in CM/ECF,\nparties shall file the original and two (2) copies of the memoranda \nand other materials and serve paper copies on opposing counsel \nand unrepresented parties.\n(ii) Electronic Filing: When filing in CM/ECF, the filer must provide \nany non-CM/ECF filer with the document according to this Rule. \nCM/ECF filers need not, however, provide paper copies to other \nCM/ECF filers, as the document will be served electronically.\n(iii) Page Limitations: Responsive memoranda may not exceed \ntwenty-five (25) pages and are subject to the restrictions set forth in ",
+          "pages": [
+            66
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-68",
+          "path": [],
+          "type": "paragraph",
+          "text": "44\nLR Civ P 7.02(a) regarding paper size, font size and line spacing. \nA judicial officer, for good cause shown on motion made to the \nCourt, may allow a memorandum in response to exceed twenty-five \n(25) pages. The proposed memoranda in response must be \nattached to the motion during the e-filing process.\n(2) Memoranda in Reply: Except for replies to responses to motions for \nsummary judgment, replies shall be filed and served within seven (7) days \nfrom the date of service of the response to the motion. Replies to \nresponses to motions for summary judgment shall be filed and served \nwithin fourteen (14) days from the date of service of the response to the \nmotion.\n(i) Traditional Filing: When filing in paper and not filing in \nCM/ECF, parties shall file the original and two (2) copies of the reply \nmemoranda and serve paper copies on opposing counsel and \nunrepresented parties. \n(ii) Electronic Filing: When filing in CM/ECF, the filer must provide \nany non-CM/ECF filer with the document according to these Rules.\nCM/ECF filers need not, however, provide paper copies to other \nCM/ECF filers, as the document will be served electronically.\n(iii) Page Limitations: Reply memoranda may not exceed fifteen \n(15) pages, subject to the restrictions set forth in LR Civ P 7.02(a) \nregarding paper size, font size and line spacing. A judicial officer,\nfor good cause shown on motion made to the Court, may allow a ",
+          "pages": [
+            67
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-69",
+          "path": [],
+          "type": "paragraph",
+          "text": "45\nreply memorandum to exceed fifteen (15) pages. The proposed \nreply memoranda must be attached to the motion during the e-filing \nprocess.\n(3) Surreply and Surrebuttal: Except by leave of court, parties shall not \nfile surreply or surrebuttal memoranda. The proposed surreply or \nsurrebuttal must be attached to the motion during the e-filing process.\n(4) Time Limits; Judicial Officer Discretion: The judicial officer to whom \nthe motion is addressed may modify the times for serving memoranda.\n(5) Courtesy Copy: When electronically filing a memorandum, the filing \nparty must file a courtesy copy of the memorandum with the Court if the \nmemorandum, together with documents in support thereof, is twenty-five \n(25) pages or more, or where any administrative record is seventy-five (75) \npages or more in length. Courtesy copies should be delivered to the \nClerk’s Office at the appropriate courthouse. Courtesy copies should not \nbe delivered directly to chambers.\n(c) Referral to Magistrate Judges: All nondispositive motions and any \ndispositive motion may be referred to a magistrate judge by the presiding district judge. \n(d) Action on Motions: All motions shall be decided expeditiously to facilitate \ncompliance with the deadlines established by the scheduling order. Failure of a judicial \nofficer to rule on a dispositive motion may, upon motion of a party, constitute good cause \nfor modification of a scheduling order pursuant to LR Civ P 16.01(f)(1).\nDistrict judges may impose time limits on referred motions and monitor those time \nlimits accordingly.",
+          "pages": [
+            68
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-70",
+          "path": [],
+          "type": "paragraph",
+          "text": "46\n",
+          "pages": [
+            69
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wvnd-civil-parsed-v1-7b5520cb858b057c",
+      "sourceDocumentId": "parsed-wvnd-7b5520cb858b057c",
+      "sourceUrl": "http://www.wvnd.uscourts.gov/sites/wvnd/files/NDWV%20Local%20Rules%202018%20MASTER.pdf",
+      "pageIndex": 65,
+      "pageSpan": [
+        65,
+        69
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wvnd-civil:7.10",
+      "collectionId": "wvnd-civil",
+      "districtId": "wvnd",
+      "number": "7.10",
+      "citation": "Northern District of West Virginia · Rule 7.10",
+      "title": "Disclosure Statement.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-70",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Civ P 7.10. Disclosure Statement.\nIn order for a presiding judicial officer to be aware of any potential issues \nregarding judicial disqualification on the basis of financial information unknown to the \nCourt, a non-governmental corporate party to any civil or criminal proceeding, and the \ngovernment in a criminal proceeding, must provide the Court with sufficient information \nto allow the judge to make an informed decision about any potential conflict of interest \npursuant to the applicable Federal Rules of Civil Procedure, Federal Rules of Criminal \nProcedure and Rules Governing Judicial Conduct.\n(a) Form Provided by the Clerk of Court: The Clerk of Court shall provide a \nform on the Court Internet Site (www.wvnd.uscourts.gov) that parties \nmay use to provide any statement required by this Rule or, in lieu \nthereof, a party may prepare and file a similar statement containing \nthe same information required by this Rule.\n(b) Form Filed by Counsel: The form shall be filed by counsel in CM/ECF.\n",
+          "pages": [
+            69
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wvnd-civil-parsed-v1-7b5520cb858b057c",
+      "sourceDocumentId": "parsed-wvnd-7b5520cb858b057c",
+      "sourceUrl": "http://www.wvnd.uscourts.gov/sites/wvnd/files/NDWV%20Local%20Rules%202018%20MASTER.pdf",
+      "pageIndex": 69,
+      "pageSpan": [
+        69,
+        69
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wvnd-civil:7.20",
+      "collectionId": "wvnd-civil",
+      "districtId": "wvnd",
+      "number": "7.20",
+      "citation": "Northern District of West Virginia · Rule 7.20",
+      "title": "Disclosure Statement in a Diversity Action.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-70",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Civ P 7.20. Disclosure Statement in a Diversity Action. \nIn diversity actions, any party that is a limited liability corporation (LLC), a limited \nliability partnership (LLP), a master limited partnership (MLP), or a partnership must, in \nthe disclosure statement required by Fed. R. Civ. P. 7.1, list those states from which the \nowners/members/partners of the LLC, LLP, MLP, or partnership are citizens. If any \nowner/member/partner of the LLC, LLP, MLP, or partnership is another LLC, LLP, MLP, \nor partnership, then the disclosure statement must also list those states from which the \nowners/members/partners of the LLC, LLP, MLP, or partnership are citizens.",
+          "pages": [
+            69
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-71",
+          "path": [],
+          "type": "paragraph",
+          "text": "47\nSocial Security Cases\n",
+          "pages": [
+            70
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wvnd-civil-parsed-v1-7b5520cb858b057c",
+      "sourceDocumentId": "parsed-wvnd-7b5520cb858b057c",
+      "sourceUrl": "http://www.wvnd.uscourts.gov/sites/wvnd/files/NDWV%20Local%20Rules%202018%20MASTER.pdf",
+      "pageIndex": 69,
+      "pageSpan": [
+        69,
+        70
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wvnd-civil:9.01",
+      "collectionId": "wvnd-civil",
+      "districtId": "wvnd",
+      "number": "9.01",
+      "citation": "Northern District of West Virginia · Rule 9.01",
+      "title": "Complaints Filed Pursuant to Social Security Act.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-71",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Civ P 9.01. Complaints Filed Pursuant to Social Security Act.\n(a) Electronic Filing: Absent a showing of good cause, litigants shall file and \nnotice all documents in social security reviews, except case opening documents, \nelectronically. The United States Attorney shall file social security transcripts \nelectronically in CM/ECF. The United States Attorney shall provide a paper copy of the \nsocial security transcript to the appropriate magistrate judge, who shall provide it to the\npresiding district judge upon request. The Clerk’s Office staff will not make copies of \nthe social security transcript.\n(b) Contents of Complaint: Complaints filed pursuant to Section 205(g) of the \nSocial Security Act, as amended, 42 U.S.C. § 405(g), shall contain, in addition to the \ninformation required by Fed. R. Civ. P. 8(a), the following:\n(1) in cases involving claims for retirement, survivor’s, disability and \nhealth insurance benefits, the Social Security number of the worker on \nwhose wage record the application for benefits was filed; and\n(2) in cases involving claims for supplemental security income benefits, \nthe Social Security number of the plaintiff.\n(c) Internet Access: Unless the Court orders otherwise, in an action for benefits \nunder the Social Security Act, access to the electronic file is authorized as follows:\n(1) the parties and their attorneys may have remote electronic access to \nany part of the case file, including the administrative record; and\n(2) any other person may have electronic access, whether remotely or at \nthe courthouse, only to:",
+          "pages": [
+            70
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-72",
+          "path": [],
+          "type": "paragraph",
+          "text": "48\n(i) the docket maintained by the Court; and\n(ii) an opinion, order, judgment or other disposition of the Court, but \nnot any other part of the case file or the administrative record. \n",
+          "pages": [
+            71
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wvnd-civil-parsed-v1-7b5520cb858b057c",
+      "sourceDocumentId": "parsed-wvnd-7b5520cb858b057c",
+      "sourceUrl": "http://www.wvnd.uscourts.gov/sites/wvnd/files/NDWV%20Local%20Rules%202018%20MASTER.pdf",
+      "pageIndex": 70,
+      "pageSpan": [
+        70,
+        71
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wvnd-civil:9.02",
+      "collectionId": "wvnd-civil",
+      "districtId": "wvnd",
+      "number": "9.02",
+      "citation": "Northern District of West Virginia · Rule 9.02",
+      "title": "Social Security Appeals.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-72",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Civ P 9.02. Social Security Appeals.\n(a) Referral: Upon receipt of a properly completed complaint and either (1) the \nfull filing fee or (2) an Application for Leave to Proceed Without Prepayment of Fees, \npursuant to 28 U.S.C. § 636(b) and Fed. R. Civ. P. 72 , actions filed pursuant to 42 \nU.S.C. § 405(g) will be referred to the designated United States Magistrate Judge, who \nis authorized to consider the record and do all things proper to recommend disposition of \nany dispositive motions filed in the action and to rule upon any nondispositive motions, \nincluding, without limitation, conducting a hearing on the motions, if necessary, and \nentering into the record a written order setting forth the disposition of the motions or \nrecommendation for disposition.\n(b) Answer: Within sixty (60) days after the date of service of the complaint, the \ndefendant shall file an answer and a complete copy of the record of the administrative \nproceedings. The defendant shall serve a copy of the same on plaintiff. \n(c) Plaintiff’s Motion for Summary Judgment and Memorandum in Support: \nWithin thirty (30) days after the defendant has filed an answer and a complete copy of \nthe administrative record, the plaintiff shall file a motion for summary judgment and \nmemorandum in support setting forth his or her claim(s) for relief. The plaintiff shall \nserve copies of his or her motion for summary judgment and memorandum in support \nupon the United States Attorney’s Office.\n(d) Defendant’s Memorandum in Opposition: Within thirty (30) days after the ",
+          "pages": [
+            71
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-73",
+          "path": [],
+          "type": "paragraph",
+          "text": "49\nplaintiff’s motion for summary judgment and memorandum in support are filed, the \ndefendant shall file a memorandum in opposition and serve copies upon the plaintiff. \nThe defendant is specifically directed to address all of the contentions and arguments \nmade by the plaintiff in the same order in which the plaintiff has stated them in his or her \nmotion and memorandum in support.\n(e) Page Limits: The memoranda shall not exceed a total of fifteen (15) pages, \nexcept as approved by the Court upon motion. Objections to a Magistrate Judge’s \nrecommended disposition, or any response to the opposing party’s objections, shall not \nexceed ten (10) typewritten pages or twenty (20) handwritten pages, including exhibits, \nexcept as approved by the Court upon motion. Any motion to exceed the Court’s page \nlimit shall be filed no later than one week before the deadline for the submission of the \nmemorandum, objection, or response. \n(f) Extension of Time: The Court will grant an extension of time only upon a\nshowing of good cause. If a party desires an extension of time within which to respond, \nthe moving party must file a motion for extension before the date upon which the \nmemorandum is due. The memorandum shall be deemed submitted as of the date on \nwhich the defendant’s memorandum is filed. If the Court, in response to a party’s \nmotion, grants an extension of time for a pleading or memorandum to be filed, the \nopposing party is automatically granted an extension for the same amount of time to file \na responsive pleading or memorandum.\n(g) References to the Administrative Record: Claims or contentions by the \nplaintiff alleging deficiencies in the Administrative Law Judge’s (ALJ) consideration of \nclaims or alleging mistaken conclusions of fact or law, and contentions or arguments by ",
+          "pages": [
+            72
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-74",
+          "path": [],
+          "type": "paragraph",
+          "text": "50\nthe Commissioner supporting the ALJ’s conclusions of fact or law, must include a \nspecific reference, by page number, to the portion of the record that (1) recites the ALJ’s \nconsideration or conclusion and (2) supports the party’s claims, contentions or \narguments.\n(h) Date Received: The time limitations set forth above shall not be altered \nexcept as set forth in LR Civ P 16.01(f). All dates for submissions, deliveries and filings \nrefer to the date the materials must actually be received, not the mailing date.\nAnswer\n",
+          "pages": [
+            73
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wvnd-civil-parsed-v1-7b5520cb858b057c",
+      "sourceDocumentId": "parsed-wvnd-7b5520cb858b057c",
+      "sourceUrl": "http://www.wvnd.uscourts.gov/sites/wvnd/files/NDWV%20Local%20Rules%202018%20MASTER.pdf",
+      "pageIndex": 71,
+      "pageSpan": [
+        71,
+        73
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wvnd-civil:12.01",
+      "collectionId": "wvnd-civil",
+      "districtId": "wvnd",
+      "number": "12.01",
+      "citation": "Northern District of West Virginia · Rule 12.01",
+      "title": "Extensions of Answer Date.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-74",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Civ P 12.01. Extensions of Answer Date.\nUnless otherwise ordered, the time to answer or otherwise respond to a complaint \nmay be extended by stipulation. For purposes of LR Civ P 16.01(a) only, the stipulation \nshall constitute an appearance by any defendant who is a party to the stipulation. An \nextension by stipulation will not affect other deadlines established by the Federal Rules \nof Civil Procedure, these Local Rules of Civil Procedure or the Court.\n",
+          "pages": [
+            73
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wvnd-civil-parsed-v1-7b5520cb858b057c",
+      "sourceDocumentId": "parsed-wvnd-7b5520cb858b057c",
+      "sourceUrl": "http://www.wvnd.uscourts.gov/sites/wvnd/files/NDWV%20Local%20Rules%202018%20MASTER.pdf",
+      "pageIndex": 73,
+      "pageSpan": [
+        73,
+        73
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wvnd-civil:12.02",
+      "collectionId": "wvnd-civil",
+      "districtId": "wvnd",
+      "number": "12.02",
+      "citation": "Northern District of West Virginia · Rule 12.02",
+      "title": "Motions to Dismiss.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-74",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Civ P 12.02. Motions to Dismiss.\nMotions to dismiss shall be given priority status by the Court, provided they are \ndesignated prominently as a motion to dismiss and filed as a separate pleading. \nAmended Pleadings\n",
+          "pages": [
+            73
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wvnd-civil-parsed-v1-7b5520cb858b057c",
+      "sourceDocumentId": "parsed-wvnd-7b5520cb858b057c",
+      "sourceUrl": "http://www.wvnd.uscourts.gov/sites/wvnd/files/NDWV%20Local%20Rules%202018%20MASTER.pdf",
+      "pageIndex": 73,
+      "pageSpan": [
+        73,
+        73
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wvnd-civil:15.01",
+      "collectionId": "wvnd-civil",
+      "districtId": "wvnd",
+      "number": "15.01",
+      "citation": "Northern District of West Virginia · Rule 15.01",
+      "title": "Motions to Amend.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-74",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Civ P 15.01. Motions to Amend.\nAny party filing a motion to amend a pleading that requires leave of court to file\nshall attach to that motion a signed copy of the proposed amended pleading. However, ",
+          "pages": [
+            73
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-75",
+          "path": [],
+          "type": "paragraph",
+          "text": "51\nthe amended pleading shall not be filed until the Court grants the particular motion. \nConferences\n",
+          "pages": [
+            74
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wvnd-civil-parsed-v1-7b5520cb858b057c",
+      "sourceDocumentId": "parsed-wvnd-7b5520cb858b057c",
+      "sourceUrl": "http://www.wvnd.uscourts.gov/sites/wvnd/files/NDWV%20Local%20Rules%202018%20MASTER.pdf",
+      "pageIndex": 73,
+      "pageSpan": [
+        73,
+        74
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wvnd-civil:16.01",
+      "collectionId": "wvnd-civil",
+      "districtId": "wvnd",
+      "number": "16.01",
+      "citation": "Northern District of West Virginia · Rule 16.01",
+      "title": "Scheduling Conferences.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-75",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Civ P 16.01. Scheduling Conferences. \n(a) Convening Scheduling Conferences; Transferred Actions: Except in actions \nexempted by paragraph (g) of this Rule or by standing order, a judicial officer may, \nunless the Court determines otherwise, convene a scheduling conference as soon as \npracticable.\nA judicial officer may establish the date, time and place of the scheduling \nconference. As soon as practicable, but in no event later than seven (7) days after the \nappearance of a defendant, the Court shall enter an order which shall be served on all \ncounsel then of record and mailed to each then unrepresented party for whom an \naddress is available from the record. The order shall also establish the date by which a \nmeeting of the parties must be held pursuant to Fed. R. Civ. P. 26(f) and paragraph (b) \nof this Rule, and the date by which a written report on the meeting of the parties must be \nfiled pursuant to Fed. R. Civ. P. 26(f) and paragraph (c) of this Rule.\nIn a case removed or transferred to this Court, a judicial officer shall convene a \nscheduling conference as soon as practicable, but in no event later than sixty (60) days \nafter removal or transfer. The Court shall enter an order which shall be served on all \ncounsel then of record and to each then unrepresented party for whom an address is \navailable from the record no later than seven (7) days after the case is removed or \ntransferred.\n(b) Obligation of the Parties to Meet: As soon as practicable, and in any event ",
+          "pages": [
+            74
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-76",
+          "path": [],
+          "type": "paragraph",
+          "text": "52\nat least twenty-one (21) days before the date set for the scheduling conference, the \nparties shall meet in person or by telephone to discuss and report on all Fed. R. Civ. P. \n16 and 26(f) matters, and:\n(1) consider, consistent with paragraph (d) of this Rule, whether the case \nis complex and appropriate for monitoring in an individualized and \ncase-specific manner through one or more case management conferences \nand, if applicable, to propose for the Court’s consideration three alternative \ndates and times for the first conference;\n(2) agree, if possible, upon the disputed facts that have been alleged with \nparticularity in the pleadings;\n(3) consider consenting to trial by a magistrate judge;\n(4) consider alternative dispute resolution processes; \n(5) confer and attempt to agree on discovery of ESI pursuant to LR Civ P \n26.06; and\n(6) prepare an agenda of matters to be discussed at the scheduling \nconference.\nCounsel and all unrepresented parties who have appeared in the case are jointly \nresponsible for arranging and being present or represented at the meeting, agreeing on \nmatters to be considered at the scheduling conference and considering a prompt \nsettlement or resolution of the case.\n(c) Written Report of Meeting; Canceled Scheduling Conference: Counsel and \nall unrepresented parties who were present or represented at the meeting are jointly \nresponsible for filing a written report on their meeting no later than fourteen (14) days ",
+          "pages": [
+            75
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-77",
+          "path": [],
+          "type": "paragraph",
+          "text": "53\nafter the meeting. \nAny matters on which the parties differ shall be set forth separately and explained \nin the parties’ meeting report. The parties’ proposed pretrial schedule and plan of \ndiscovery and disclosures shall advise the Court of their best estimates of the time \nneeded to accomplish specified pretrial steps. The parties’ meeting report shall be \nconsidered by the judicial officer as advisory only.\nIf, after the date fixed for filing the written report, the judicial officer determines \nthat the scheduling conference is not necessary, it may be canceled and the scheduling \norder may be entered.\n(d) Conducting Scheduling Conferences: Except in a case in which a \nscheduling conference has not been scheduled pursuant to order by a judicial officer or \nhas been canceled pursuant to paragraph (c) of this Rule, a judicial officer may \nconvene a scheduling meeting by telephone or by video conference, within the \nmandatory time frame specified in paragraph (a) of this Rule, regardless of whether the \nparties have met pursuant to paragraph (b) of this Rule or filed a written report pursuant \nto paragraph (c) of this Rule. At the scheduling meeting , the Court shall consider any \nwritten report filed by the parties and discuss time limits and other matters counsel were \nobligated to consider in their meeting and that may be addressed in the scheduling \norder.\nAt or following the scheduling conference, if one is held, or as soon as practicable \nafter the date fixed for filing the written report if the scheduling conference is canceled, \nthe judicial officer shall determine whether the case is complex or otherwise appropriate \nfor careful and deliberate monitoring in an individualized and case-specific manner. ",
+          "pages": [
+            76
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-78",
+          "path": [],
+          "type": "paragraph",
+          "text": "54\nThe judicial officer shall consider assigning in the scheduling order any case so \ncategorized to a case management conference or series of conferences under LR Civ P \n16.02. If the case is so assigned, the scheduling order, notwithstanding paragraph (e) \nof this Rule, may be limited to establishing time limits and addressing other matters that \nmust be resolved before the first case management conference. The factors to be \nconsidered by the judicial officer in determining whether the case is complex include:\n(1) the complexity of the issues, the number of parties, the difficulty of the \nlegal questions and the uniqueness of proof problems;\n(2) the amount of time reasonably needed by the parties and their \nattorneys to prepare the case for trial;\n(3) the judicial and other resources required and available for the \npreparation and disposition of the case;\n(4) whether the case belongs to those categories of cases that:\n(i) involve little or no discovery,\n(ii) ordinarily require little or no additional judicial intervention, or\n(iii) generally fall into identifiable and easily managed \npatterns;\n(5) the extent to which individualized, case-specific treatment will promote \nthe goal of reducing cost and delay; and\n(6) whether the public interest requires that the case receive more intense \njudicial attention.\n(e) Scheduling Orders: Following the scheduling conference, if one is held, or \nas soon as practicable after the date fixed for filing the written report if the scheduling ",
+          "pages": [
+            77
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-79",
+          "path": [],
+          "type": "paragraph",
+          "text": "55\nconference is canceled, but in any event within sixty (60) days after the appearance of a \ndefendant or within ninety (90) days after the complaint has been served on a \ndefendant, whichever is earlier, the judicial officer shall enter a scheduling order \npursuant to Fed. R. Civ. P. 16(b). The order shall advise the parties that the term \n“complete discovery,” as that term is used in Fed. R. Civ. P. 16(b), means that all \ndiscovery, objections, motions to compel and all other motions and replies relating to \ndiscovery must be filed in time for the parties objecting or responding to have the \nopportunity under the Federal Rules of Civil Procedure to make responses. Unless \notherwise ordered, the term “all discovery” as used in the preceding definition of \n“complete discovery” includes the disclosures required by Fed. R. Civ. P. 26(a)(1) and \n(2), but not the disclosures required by Fed. R. Civ. P. 26(a)(3).\n(f) Modification of Scheduling Order:\n(1) Time limits in the scheduling order, including limits \nconcerning the joinder of other parties, amendment of pleadings, filing of \nmotions and completion of discovery, and dates concerning pretrial \nconferences and trial, may be modified for cause by order. A party or \nparties requesting a continuance must first meet and confer with all of the \nother parties in an attempt to reach an agreement as to three (3) possible \nnon-consecutive dates to which to move the deadline or hearing. If an \nagreement is reached, the moving party must specify these three (3) \npossible non-consecutive dates within the motion to continue. If the \nparties cannot reach an agreement, then each party must advise the Court\nof their suggested dates. ",
+          "pages": [
+            78
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-80",
+          "path": [],
+          "type": "paragraph",
+          "text": "56\n(2) Subject to subparagraph (3), stipulations to modify disclosure or \ndiscovery procedures or limitations will be valid and enforced if they are in \nwriting, signed by the stipulating parties or their counsel, filed promptly and \ndo not affect the trial date or other dates and deadlines specified in \nsubparagraph (1).\n(g) Categories of Actions Exempted: In addition to those actions and \nproceedings identified in Fed. R. Civ. P. 81 to which the Federal Rules of Civil Procedure \ndo not apply, the following categories of actions are exempted from the requirements of \nFed. R. Civ. P. 16(b), 26(a)(1)–(4), 26(f) and the Local Rules of Civil Procedure relating \nthereto unless otherwise ordered:\n(1) habeas corpus cases and motions attacking a federal sentence;\n(2) procedures and hearings involving recalcitrant witnesses before federal \ncourts or grand juries pursuant to 28 U.S.C. § 1826; \n(3) actions for injunctive relief;\n(4) review of administrative rulings;\n(5) Social Security cases;\n(6) prisoner petitions pursuant to 42 U.S.C. § 1983 and Bivens v. Six Unknown \nNamed Agents of Federal Bureau of Narcotics, 403 U.S. 388 (1971), in which the \nplaintiff is unrepresented by counsel;\n(7) condemnation actions;\n(8) bankruptcy proceedings appealed to this Court;\n(9) collection and forfeiture cases in which the United States is the plaintiff and \nthe defendant is unrepresented by counsel;",
+          "pages": [
+            79
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-81",
+          "path": [],
+          "type": "paragraph",
+          "text": "57\n(10) Freedom of Information Act proceedings;\n(11) post-judgment enforcement proceedings and debtor examinations;\n(12) enforcement or vacation of arbitration awards;\n(13) civil forfeiture actions;\n(14) student loan collection cases;\n(15) actions that present purely legal issues, require no resolution of factual \nissues and that may be submitted on the pleadings, motions and memoranda of \nlaw; \n(16) certain cases involving the assertion of a right under the Constitution of the \nUnited States or a federal statute, if good cause for exemption is shown; and\n(17) such other categories of actions as may be exempted by standing order.\n",
+          "pages": [
+            80
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wvnd-civil-parsed-v1-7b5520cb858b057c",
+      "sourceDocumentId": "parsed-wvnd-7b5520cb858b057c",
+      "sourceUrl": "http://www.wvnd.uscourts.gov/sites/wvnd/files/NDWV%20Local%20Rules%202018%20MASTER.pdf",
+      "pageIndex": 74,
+      "pageSpan": [
+        74,
+        80
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wvnd-civil:16.02",
+      "collectionId": "wvnd-civil",
+      "districtId": "wvnd",
+      "number": "16.02",
+      "citation": "Northern District of West Virginia · Rule 16.02",
+      "title": "Case Management Conferences in Complex Cases.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-81",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Civ P 16.02. Case Management Conferences in Complex Cases.\n(a) Conduct of Case Management Conferences: Case management \nconferences shall be presided over by a judicial officer who, in furtherance of the \nscheduling order required by LR Civ P 16.01(e), may:\n(1) explore the possibility of settlement;\n(2) identify the principal issues in contention;\n(3) prepare a specific discovery schedule and plan that may:\n(i) identify and limit the discovery available to avoid \nunnecessary, unduly burdensome or expensive discovery,\n(ii) sequence discovery into two (2) or more stages, and \n(iii) include time limits for the completion of discovery;\n(4) establish deadlines for filing motions and a schedule for their ",
+          "pages": [
+            80
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-82",
+          "path": [],
+          "type": "paragraph",
+          "text": "58\ndisposition;\n(5) consider the bifurcation of issues for trial as set forth in Fed. R. Civ. P. \n42(b); and\n(6) explore any other matter appropriate for the management of the case.\n(b) Obligation of Counsel to Confer: The judicial officer may require counsel \nand unrepresented parties to confer before a case management conference and \nprepare a statement containing: \n(1) an agenda of matters that any party believes should be addressed at \nthe case management conference; and \n(2) a report of whether the case is progressing within the allotted time \nlimits and in accord with specified pretrial steps.\nThis statement is to be filed no later than seven (7) days before the case \nmanagement conference.\n(c) Number of Case Management Conferences and Orders: The judicial officer \nmay convene as many case management conferences as appropriate.\nAfter a case management conference, the judicial officer shall enter an order \nreciting the action taken. The order shall control the subsequent course of the action \nand may be modified in the same manner as a scheduling order under LR Civ P \n16.01(f).\n",
+          "pages": [
+            81
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wvnd-civil-parsed-v1-7b5520cb858b057c",
+      "sourceDocumentId": "parsed-wvnd-7b5520cb858b057c",
+      "sourceUrl": "http://www.wvnd.uscourts.gov/sites/wvnd/files/NDWV%20Local%20Rules%202018%20MASTER.pdf",
+      "pageIndex": 80,
+      "pageSpan": [
+        80,
+        81
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wvnd-civil:16.03",
+      "collectionId": "wvnd-civil",
+      "districtId": "wvnd",
+      "number": "16.03",
+      "citation": "Northern District of West Virginia · Rule 16.03",
+      "title": "Pretrial Conferences in Non-Complex Cases.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-82",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Civ P 16.03. Pretrial Conferences in Non-Complex Cases.\n(a) Convening Pretrial Conferences: In addition to any scheduling conference \nand the final pretrial conference, the judicial officer to whom the case is assigned for trial \nmay convene as many pretrial conferences as the judicial officer determines will reduce ",
+          "pages": [
+            81
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-83",
+          "path": [],
+          "type": "paragraph",
+          "text": "59\ncost and delay in the ultimate disposition of the case. The judicial officer may require \nthe parties to meet or confer in advance of a pretrial conference.\n(b) Pretrial Conference Order: After a pretrial conference, the judicial officer \nshall enter an order reciting the action taken. The order shall control the subsequent \ncourse of the action and may be modified in the same manner as a scheduling order \nunder LR Civ P 16.01(f).\n",
+          "pages": [
+            82
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wvnd-civil-parsed-v1-7b5520cb858b057c",
+      "sourceDocumentId": "parsed-wvnd-7b5520cb858b057c",
+      "sourceUrl": "http://www.wvnd.uscourts.gov/sites/wvnd/files/NDWV%20Local%20Rules%202018%20MASTER.pdf",
+      "pageIndex": 81,
+      "pageSpan": [
+        81,
+        82
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wvnd-civil:16.04",
+      "collectionId": "wvnd-civil",
+      "districtId": "wvnd",
+      "number": "16.04",
+      "citation": "Northern District of West Virginia · Rule 16.04",
+      "title": "Final Conferences; Pretrial Order.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-83",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Civ P 16.04. Final Conferences; Pretrial Order.\n(a) Obligation of Counsel to Meet; Pretrial Disclosures: Unless otherwise \nordered by the judicial officer to whom the case is assigned for trial, counsel and \nunrepresented parties shall meet no later than twenty-one (21) days before the date of \nthe final pretrial conference to conduct settlement negotiations. Lead counsel for the \nplaintiff first named in the complaint shall take the initiative in scheduling the meeting. If \nthe action is not settled, and if there is no order or stipulation to the contrary, counsel \nand unrepresented parties shall make all Fed. R. Civ. P. 26(a)(3) disclosures at the \nmeeting. The parties shall prepare a proposed pretrial order for filing. Counsel and \nunrepresented parties must be prepared at the final pretrial conference to certify that \nthey conducted settlement negotiations during their meeting.\n(b) Proposed Pretrial Order: Unless otherwise ordered by the judicial officer to \nwhom the case is assigned for trial, counsel and unrepresented parties shall file, no later \nthan seven (7) days prior to the final pretrial conference, a proposed pretrial order \nsetting forth:\n(1) the pretrial disclosures required by Fed. R. Civ. P. 26(a)(3) and any \nobjections thereto;",
+          "pages": [
+            82
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-84",
+          "path": [],
+          "type": "paragraph",
+          "text": "60\n(2) contested issues of law requiring a ruling before trial;\n(3) a realistic, brief statement by counsel for the plaintiff(s) and third-party \nplaintiff(s) of essential elements that must be proved to establish any \nmeritorious claim remaining for adjudication and the damages or relief \nsought, accompanied by supporting legal authorities;\n(4) a realistic, brief statement by counsel for the defendant(s) and \nthird-party defendant(s) of essential elements that must be proved to \nestablish any meritorious defense(s), accompanied by supporting legal \nauthorities. Corresponding statements must also be included for \ncounterclaims and cross-claims; \n(5) a brief summary of the material facts and theories of liability or \ndefense;\n(6) a single listing of the contested issues of fact and a single listing of the \ncontested issues of law, together with case and statutory citations;\n(7) stipulations;\n(8) suggestions for the avoidance of unnecessary proof and cumulative \nevidence;\n(9) suggestions concerning any need for adopting special procedures for \nmanaging potentially difficult or protracted aspects of the trial that may \ninvolve complex issues, multiple parties, difficult legal questions or unusual \nproof problems;\n(10) a statement of all damages claimed, including an itemized list of \nspecial damages;",
+          "pages": [
+            83
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-85",
+          "path": [],
+          "type": "paragraph",
+          "text": "61\n(11) a statement setting forth a realistic estimate of the number of trial \ndays required; and\n(12) any other matters relevant for pretrial discussion or disposition, \nincluding those set forth in Fed. R. Civ. P. 16.\n(c) Final Pretrial Conference: The judicial officer to whom the case is assigned \nfor trial shall preside at the final pretrial conference.\nThe final pretrial conference shall be attended by unrepresented parties and by \nlead trial counsel for each represented party, rather than “by at least one attorney who \nwill conduct the trial for each party and by any unrepresented party” as provided in Fed. \nR. Civ. P. 16(e). \nThe final pretrial conference shall include consideration of those matters in the \nproposed pretrial order and any other appropriate matters, including those set forth in \nFed. R. Civ. P. 16(c).\n(d) Final Settlement Conference: Unless otherwise ordered, a final settlement \nconference may be held in each case. The conference shall be conducted by the \njudicial officer and attended by unrepresented parties and lead trial counsel for each \nrepresented party.\nIndividuals with full authority to settle the case for each party shall be present in \nperson or, if previously authorized by the Court, shall be immediately available by \ntelephone.\n(e) Settlement Before Trial: All fees and juror costs may be imposed upon the \nparties unless counsel have notified the Court and the Clerk’s Office of any settlement \nnot later than 4:00 p.m. of the last business day before trial. The costs shall be ",
+          "pages": [
+            84
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-86",
+          "path": [],
+          "type": "paragraph",
+          "text": "62\nassessed equally against the parties and their counsel unless otherwise ordered.\n",
+          "pages": [
+            85
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wvnd-civil-parsed-v1-7b5520cb858b057c",
+      "sourceDocumentId": "parsed-wvnd-7b5520cb858b057c",
+      "sourceUrl": "http://www.wvnd.uscourts.gov/sites/wvnd/files/NDWV%20Local%20Rules%202018%20MASTER.pdf",
+      "pageIndex": 82,
+      "pageSpan": [
+        82,
+        85
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wvnd-civil:16.05",
+      "collectionId": "wvnd-civil",
+      "districtId": "wvnd",
+      "number": "16.05",
+      "citation": "Northern District of West Virginia · Rule 16.05",
+      "title": "Authority Regarding Stipulations, Agreements, and Admissions",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-86",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Civ P 16.05. Authority Regarding Stipulations, Agreements, and Admissions \nat Conferences Before Judicial Officers.\nAt least one of the attorneys for each party and all unrepresented parties \nparticipating in any conference before a judicial officer shall have authority to make \ndecisions as to stipulations, agreements, and admissions on all matters that the \nparticipants reasonably anticipate may be discussed.\n",
+          "pages": [
+            85
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wvnd-civil-parsed-v1-7b5520cb858b057c",
+      "sourceDocumentId": "parsed-wvnd-7b5520cb858b057c",
+      "sourceUrl": "http://www.wvnd.uscourts.gov/sites/wvnd/files/NDWV%20Local%20Rules%202018%20MASTER.pdf",
+      "pageIndex": 85,
+      "pageSpan": [
+        85,
+        85
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wvnd-civil:16.06",
+      "collectionId": "wvnd-civil",
+      "districtId": "wvnd",
+      "number": "16.06",
+      "citation": "Northern District of West Virginia · Rule 16.06",
+      "title": "Mediation.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-86",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Civ P 16.06. Mediation.\n(a) Cases to Mediate: The judicial officer may order mediation sua sponte or at \nthe request of any party. The Northern District of West Virginia also supports the \nvoluntary use of alternate dispute resolution and will endeavor to facilitate mediation or \nsimilar proceedings when the presiding judicial officer finds a request to do so \nappropriate and timely. The parties are free to engage in mediation without court \ninvolvement so long as it does not interfere with court-ordered deadlines.\n(b) Selection of Mediator; Notice of Nomination: The parties are expected to \nagree upon a mediator, the amount of the mediator’s fee and the responsibility for \npayment. If the parties are unable to agree upon a mediator, then they shall promptly \nnotify the presiding judicial officer, who shall appoint a mediator, set the amount of the \nmediator’s fee and assign responsibility for payment. The parties may request that a \njudicial officer (who is not the presiding judicial officer) conduct the mediation. Such \nrequests are particularly appropriate in complex cases or in cases in which a party is \nfinancially unable to bear its proportionate share of the mediation expense. Except with \nconsent of the parties, a magistrate judge who has conducted a mediation shall not ",
+          "pages": [
+            85
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-87",
+          "path": [],
+          "type": "paragraph",
+          "text": "63\nthereafter handle discovery disputes or other substantive matters in the case. \n(c) Preparation for Mediation Conference: Attendance at the mediation \nconference is mandatory for counsel and the parties or their representatives, who must\nhave full authority to make final and binding decisions in accordance with the order \nscheduling the case for mediation. All parties and their counsel shall be prepared to \nknowledgeably discuss the facts and issues of the case and shall participate in \nmediation in good faith.\n(d) Mediation Statements: The mediator may require the submission of written \nmediation statements. Any party may submit a written mediation statement, even if the \nmediator does not require submission of written mediation statements. Mediation \nstatements submitted in writing to the mediator are confidential.\n(e) Confidentiality: Mediators shall maintain strict confidentiality with respect to \nall information that is communicated by the parties and their counsel in connection with \nthe mediation. The only information relative to an individual conference that will be \nreported to the Court by the mediator will be: (1) the fact that the conference was \nactually held; (2) whether the mediator intends to conduct further mediation in the case \nin the future; and (3) whether, in the opinion of the mediator, the case should continue \nroutinely through the judicial process or might benefit from being scheduled for a status \nor settlement conference before the Court. The mediator is also required to advise the \nCourt if a representative without settlement authority attends the conference or if either \nparty disrupts the mediation process, fails to appear or fails to mediate in good faith.\nMediation shall be regarded as a confidential settlement negotiation, subject to ",
+          "pages": [
+            86
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-88",
+          "path": [],
+          "type": "paragraph",
+          "text": "64\nRule 408 of the Federal Rules of Evidence. A mediator shall keep confidential from \nopposing parties any information obtained in an individual session unless the party to \nthat session or the party’s counsel authorizes disclosure. A mediator may not be \nsubpoenaed or called to testify or otherwise be subject to process requiring disclosure of \nconfidential information in any proceeding relating to or arising out of the mediated\ndispute.\n(f) Impartiality of Mediator: A mediator shall not serve in a case in which the \nmediator’s impartiality might reasonably be questioned. Possible conflicts of interest \nshall be promptly disclosed by the mediator to all counsel and pro se parties.\n(g) Immunity: A person acting as a mediator under these Rules shall have \nimmunity in the same manner and to the same extent as a judicial officer. \n(h) Mediation Report: Unless a different time period is set by the judicial officer, \nwithin seven (7) days of the conclusion of mediation, the mediator shall file with the \nClerk’s Office a Mediation Report Form, whether or not the mediation resulted in \nsettlement. This form can be found at the Court’s web page at www.wvnd.uscourts.gov\nunder the “Forms” link. This form shall be filed with the Clerk’s Office where the case is \npending. It is the responsibility of the parties to ensure compliance with this Rule.\n(i) Settlement Proceedings: In the event mediation of a pending civil matter by a \njudicial officer who is not the presiding judicial officer in the case results in a settlement \nof the case, the judicial officer is authorized, in addition to filing the obligatory mediation \nstatement, to forthwith convene a Court proceeding with the parties, parties’\nrepresentatives, and counsel present, to make an official record of the terms of the ",
+          "pages": [
+            87
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-89",
+          "path": [],
+          "type": "paragraph",
+          "text": "65\nsettlement agreement reached; to call upon the parties, parties’ representatives, and \ncounsel present to confirm the terms of the settlement; and to authorize the entry of an \nappropriate order of dismissal by the presiding judicial officer. \nDiscovery\n",
+          "pages": [
+            88
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wvnd-civil-parsed-v1-7b5520cb858b057c",
+      "sourceDocumentId": "parsed-wvnd-7b5520cb858b057c",
+      "sourceUrl": "http://www.wvnd.uscourts.gov/sites/wvnd/files/NDWV%20Local%20Rules%202018%20MASTER.pdf",
+      "pageIndex": 85,
+      "pageSpan": [
+        85,
+        88
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wvnd-civil:26.01",
+      "collectionId": "wvnd-civil",
+      "districtId": "wvnd",
+      "number": "26.01",
+      "citation": "Northern District of West Virginia · Rule 26.01",
+      "title": "Control of Discovery.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-89",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Civ P 26.01. Control of Discovery.\n(a) Initial Disclosures Under Fed. R. Civ. P. 26(a)(1): Unless otherwise ordered \nor stipulated by the parties, the disclosures required under Fed. R. Civ. P. 26(a)(1) shall \nbe made no later than fourteen (14) days after the meeting required under Fed. R. Civ. \nP. 26(f) and LR Civ P 16.01(b). In accordance with LR Civ P 5.01, parties shall file in \nCM/ECF only the certificate of service for any such disclosures. \n(b) Disclosures Under Fed. R. Civ. P. 26(a)(2) Regarding Experts: Unless \notherwise ordered or stipulated by the parties, the making, sequence and timing of \ndisclosures under Fed. R. Civ. P. 26(a)(2) will be as follows:\n(1) the disclosures required by Fed. R. Civ. P. 26(a)(2)(A), (B) and (C) \nmust be made to all other parties or their counsel at least ninety (90) days \nbefore the date set for trial or for the case to be ready for trial and\n(2) if the evidence is intended solely to contradict or rebut evidence on \nthe same issue identified by another party under Fed. R. Civ. P. \n26(a)(2)(B) or (C), the disclosures must be made no later than thirty (30) \ndays after the other party’s disclosure. \nThe written report described in Fed. R. Civ. P. 26(a)(2)(B) shall not be required of ",
+          "pages": [
+            88
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-90",
+          "path": [],
+          "type": "paragraph",
+          "text": "66\nwitnesses who have not been specially retained or employed by a party to give expert \ntestimony in the case, including physicians and other medical providers who examined \nor treated a party or party’s decedent unless the examination was for the sole purpose of \nproviding expert testimony in the case, or one whose duties as the party’s employee \nregularly involve giving expert testimony. In accordance with LR Civ P 5.01, parties \nshall file on CM/ECF only the certificate of service for any such disclosures.\nIn all events, a party seeking to elicit opinion testimony under Federal Rules of \nEvidence 702, 703 or 705 from such witnesses shall:\n(1) To the extent that such opinions are explicitly stated in records \nprepared by such witnesses and have been produced in the course of \ndiscovery, identify each such person as an expert witness who is \nanticipated to testify at trial.\n(2) To the extent that such opinions are not explicitly stated in records \nprepared by such witnesses or have not been produced in the course of \ndiscovery, identify each witness and state the subject matter on which the \nexpert will testify, the substance of the facts and opinions to which the \nexpert will testify and a summary of the grounds for each opinion or, in the \nalternative, provide a report, prepared by the witness, that comports with \nthe provisions of Fed. R. Civ. P. 26(a)(2)(B).\n(3) The disclosures discussed in paragraph (2) above must be made within \nthe timelines detailed in LR Civ P 26.01(b).\n(4) In no event may a health care provider or other person relying on",
+          "pages": [
+            89
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-91",
+          "path": [],
+          "type": "paragraph",
+          "text": "67\nscientific, technical or other specialized knowledge be considered a lay \nwitness under Fed. R. Evid. 701.\n(c) Discovery Event Limitations: Unless otherwise ordered or stipulated, and \nexcept as to complex cases governed by LR Civ P 16.02., discovery under Fed. R. Civ. \nP. 26(b)(2)(A) shall be limited as follows:\n(1) Ten (10) depositions upon oral examination or written questions by \neach plaintiff;\n(2) Ten (10) depositions upon oral examination or written questions by \neach defendant;\n(3) Ten (10) depositions upon oral examination or written questions by \neach third-party defendant;\n(4) Twenty-five (25) written interrogatories, including all discrete subparts, \nper party; and\n(5) Forty (40) requests for admission per party.\n(d) Further Discovery: After exhausting the opportunities for discovery pursuant \nto paragraph (c) of this Rule and any stipulation of the parties or order of the Court, any \nrequests that the parties may make for additional depositions, interrogatories or requests \nfor admissions must be made by discovery motion.\nThe judicial officer shall not consider any discovery motion under this Rule unless \nit is accompanied by a certification that the moving party has made a reasonable and \ngood-faith effort to reach agreement with counsel or any unrepresented parties who \noppose the additional discovery sought by the motion.",
+          "pages": [
+            90
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-92",
+          "path": [],
+          "type": "paragraph",
+          "text": "68\n",
+          "pages": [
+            91
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wvnd-civil-parsed-v1-7b5520cb858b057c",
+      "sourceDocumentId": "parsed-wvnd-7b5520cb858b057c",
+      "sourceUrl": "http://www.wvnd.uscourts.gov/sites/wvnd/files/NDWV%20Local%20Rules%202018%20MASTER.pdf",
+      "pageIndex": 88,
+      "pageSpan": [
+        88,
+        91
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wvnd-civil:26.02",
+      "collectionId": "wvnd-civil",
+      "districtId": "wvnd",
+      "number": "26.02",
+      "citation": "Northern District of West Virginia · Rule 26.02",
+      "title": "Uniform Definitions in Discovery Requests.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-92",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Civ P 26.02. Uniform Definitions in Discovery Requests.\n(a) Incorporation by Reference and Limitations: The full text of the definitions \nset forth in paragraph (c) of this Rule is incorporated by reference into all discovery \nrequests, but shall not preclude:\n(1) the definition of other terms specific to a particular case,\n(2) the use of abbreviations, or\n(3) a narrower definition of a term defined in paragraph (c).\n(b) Effect on Scope of Discovery: This Rule does not broaden or narrow the \nscope of discovery permitted by the Federal Rules of Civil Procedure or these Local \nRules.\n(c) Definitions: The following definitions apply to all discovery requests:\n(1) “communication” means the transmittal of information (in the form of \nfacts, ideas, inquiries or otherwise);\n(2) “document” is synonymous in meaning and equal in scope to the \nusage of this term in Fed. R. Civ. P. 34(a). A draft or non-identical copy is \na separate document;\n(3) “identify,” when referring to a person, means to give, to the extent \nknown, the person’s full name and present or last known address. Once a \nperson has been identified in accordance with this subparagraph, only the \nname of that person need be given in response to subsequent requests \nconcerning that person’s identity; \n(4) “identify,” when referring to documents, means to give, to the extent ",
+          "pages": [
+            91
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-93",
+          "path": [],
+          "type": "paragraph",
+          "text": "69\nknown, the: \n(i) type of document,\n(ii) general subject matter,\n(iii) author(s), addressee(s) and recipient(s), and\n(iv) date the document was prepared;\n(5) “plaintiff,” “defendant,” a party’s full or abbreviated name, or a pronoun \nreferring to a party, means the party, and where applicable, its officers, \ndirectors, employees and partners. This definition does not impose a \ndiscovery obligation on any person who is not a party to the case;\n(6) “person” means any natural person or any business, legal or \ngovernmental entity or association; and\n(7) “concerning” means referring to, describing, evidencing or constituting.\n",
+          "pages": [
+            92
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wvnd-civil-parsed-v1-7b5520cb858b057c",
+      "sourceDocumentId": "parsed-wvnd-7b5520cb858b057c",
+      "sourceUrl": "http://www.wvnd.uscourts.gov/sites/wvnd/files/NDWV%20Local%20Rules%202018%20MASTER.pdf",
+      "pageIndex": 91,
+      "pageSpan": [
+        91,
+        92
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wvnd-civil:26.03",
+      "collectionId": "wvnd-civil",
+      "districtId": "wvnd",
+      "number": "26.03",
+      "citation": "Northern District of West Virginia · Rule 26.03",
+      "title": "Inspection of Documents and Copying Expense.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-93",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Civ P 26.03. Inspection of Documents and Copying Expense.\n(a) Inspection of Documents: Except as otherwise provided in an order \npursuant to Fed. R. Civ. P. 26(c), all parties to an action shall be entitled to inspect \ndocuments produced by another party, pursuant to Fed. R. Civ. P. 33 or 34, at the \nlocation where the documents are produced.\n(b) Copies of Documents: Except as otherwise provided in an order pursuant to \nFed. R. Civ. P. 26(c), a party who produces documents pursuant to Fed. R. Civ. P. 33 or \n34 shall provide copies of all or any specified part of the documents upon the requesting \nparty’s agreement to pay the reasonable copying costs. No party shall be entitled to \nobtain copies of documents produced by another party pursuant to Fed. R. Civ. P. 33 or ",
+          "pages": [
+            92
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-94",
+          "path": [],
+          "type": "paragraph",
+          "text": "70\n34 without paying the reasonable copying costs. Parties are encouraged, but not \nrequired, to provide copies of documents in electronic format. \n",
+          "pages": [
+            93
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wvnd-civil-parsed-v1-7b5520cb858b057c",
+      "sourceDocumentId": "parsed-wvnd-7b5520cb858b057c",
+      "sourceUrl": "http://www.wvnd.uscourts.gov/sites/wvnd/files/NDWV%20Local%20Rules%202018%20MASTER.pdf",
+      "pageIndex": 92,
+      "pageSpan": [
+        92,
+        93
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wvnd-civil:26.04",
+      "collectionId": "wvnd-civil",
+      "districtId": "wvnd",
+      "number": "26.04",
+      "citation": "Northern District of West Virginia · Rule 26.04",
+      "title": "Discovery Disputes.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-94",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Civ P 26.04. Discovery Disputes.\n(a) Objections to Disclosures or Discovery:\n(1) Waiver: Objections to disclosures or discovery that are not filed \nwithin the response time allowed by the Federal Rules of Civil Procedure, \nthe scheduling order(s) or stipulation of the parties pursuant to Fed. R. Civ. \nP. 29, whichever governs, are waived unless otherwise ordered for good \ncause shown. Objections shall comply with Fed. R. Civ. P. 26(g). Any \nclaim of privilege and any objection must comply with Fed. R. Civ. P. \n26(b)(5). \n(2) Claims of Privilege:\n(i) Where a claim of privilege is asserted by a party who objects to \nany means of discovery or disclosure, including but not limited to a \ndeposition, and when an answer is not provided on the basis of \nsuch assertion, a party may lodge an objection on that issue.\n(A) A party’s attorney asserting a privilege shall identify the \nnature of the privilege that is being claimed, including \nattorney work product, if applicable. If the privilege is \ngoverned by state law, the attorney shall identify the state’s \npertinent privilege rule. The attorney must certify that he or \nshe has reviewed each document for which a privilege is ",
+          "pages": [
+            93
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-95",
+          "path": [],
+          "type": "paragraph",
+          "text": "71\nasserted.\n(B) The following information shall be provided in an\nobjection, unless divulgence of such information would cause \ndisclosure of the allegedly privileged information:\n(1) For documents: \n(a) the type of document (e.g., letter or \nmemorandum);\n(b) the general subject matter of the document; \n(c) the date of the document; and \n(d) such other information as is sufficient to \nidentify the document for purposes of a \nsubpoena duces tecum, including, where \nappropriate, the author of the document, the \naddressees of the document, any other \nrecipients shown in the document and, where \nnot readily apparent, the relationship of the \nauthor, addressees and recipients to each \nother;\n(2) For oral communications: \n(a) the name of the person who made the \ncommunication and the names of persons \npresent while the communication was made ",
+          "pages": [
+            94
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-96",
+          "path": [],
+          "type": "paragraph",
+          "text": "72\nand, where not readily apparent, the \nrelationship of the person who made the \ncommunication to the other persons who were \npresent; \n(b) the date and place of the communication; \nand \n(c) the general subject matter of the \ncommunication.\n(ii) Where a claim of privilege is asserted during a deposition, and\nwhen information is not provided on the basis of such an assertion, \nthe information set forth herein in paragraph (a) shall be furnished:\n(A) at the deposition, to the extent it is readily available from \nthe witness being deposed or otherwise; and \n(B) to the extent that the information is not readily available \nat the deposition, in writing within fourteen (14) days after the \ndeposition session at which the privilege is asserted, unless \notherwise ordered by the Court.\n(iii) Where a claim of privilege is asserted in response to discovery \nor disclosure other than a deposition, and when information is not \nprovided on the basis of such an assertion, the information set forth \nherein in paragraph (a) shall be furnished in writing at the time of the \nresponse to such discovery or disclosure, unless otherwise ordered ",
+          "pages": [
+            95
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-97",
+          "path": [],
+          "type": "paragraph",
+          "text": "73\nby the Court.\n(iv) A party who produces material or information without intending \nto waive a claim of privilege does not waive that claim under these \nRules or the Rules of Evidence if, within fourteen (14) days, or a \nshorter time ordered by the Court, after the producing party \ndiscovers that such production was made, the producing party \namends the response, identifying the material or information \nproduced and stating the privilege asserted. If the producing party \nthus amends the response in order to assert a privilege, the \nrequesting party must promptly return the specified material or \ninformation and any copies thereof, pending any ruling by the Court \nregarding the asserted privilege.\n(b) Duty to Meet: Before filing any discovery motion, including any motion for \nsanctions or for a protective order, counsel for each party shall make a good faith effort \nto meet in person or by telephone to narrow the areas of disagreement to the greatest \npossible extent. It shall be the responsibility of counsel for the moving party to arrange \nfor the meeting.\n",
+          "pages": [
+            96
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wvnd-civil-parsed-v1-7b5520cb858b057c",
+      "sourceDocumentId": "parsed-wvnd-7b5520cb858b057c",
+      "sourceUrl": "http://www.wvnd.uscourts.gov/sites/wvnd/files/NDWV%20Local%20Rules%202018%20MASTER.pdf",
+      "pageIndex": 93,
+      "pageSpan": [
+        93,
+        96
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wvnd-civil:26.05",
+      "collectionId": "wvnd-civil",
+      "districtId": "wvnd",
+      "number": "26.05",
+      "citation": "Northern District of West Virginia · Rule 26.05",
+      "title": "Protective Orders and Sealed Documents.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-97",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Civ P 26.05. Protective Orders and Sealed Documents. \n(a) Protective Orders: If a party, or parties jointly, seek entry of a protective order \nto shield information from dissemination, the movant or movants must demonstrate with \nspecificity that (1) the information qualifies for protection under Fed. R. Civ. P. 26(c), and \n(2) good cause exists for restricting dissemination of the information on the ground that ",
+          "pages": [
+            96
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-98",
+          "path": [],
+          "type": "paragraph",
+          "text": "74\nharm would result from disclosure.\n(b) Sealed Documents: \n(1) General. The rule requiring public inspection of Court documents is \nnecessary to allow interested parties to judge the Court’s work product in \nthe cases assigned to it. The rule may be abrogated only in exceptional \ncircumstances.\n(2) Submission. Unless otherwise authorized by law, a motion to seal \nshall be filed electronically pursuant to LR Gen P 6.01 and the Court’s \nAdministrative Procedures for Electronic Case Filing, shall include the \nproposed document to be filed under seal as an attachment to the motion, \nand shall be accompanied by a memorandum of law which contains: \n(A) the reasons why sealing is necessary, including the reasons why \nalternatives to sealing, such as redaction, are inadequate; \n(B) the requested duration of the proposed seal; and\n(C) a discussion of the propriety of sealing, giving due regard to the \nparameters of the common law and First Amendment rights of \naccess, as interpreted by the Supreme Court and the United States\nCourt of Appeals for the Fourth Circuit.\n",
+          "pages": [
+            97
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wvnd-civil-parsed-v1-7b5520cb858b057c",
+      "sourceDocumentId": "parsed-wvnd-7b5520cb858b057c",
+      "sourceUrl": "http://www.wvnd.uscourts.gov/sites/wvnd/files/NDWV%20Local%20Rules%202018%20MASTER.pdf",
+      "pageIndex": 96,
+      "pageSpan": [
+        96,
+        97
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wvnd-civil:26.06",
+      "collectionId": "wvnd-civil",
+      "districtId": "wvnd",
+      "number": "26.06",
+      "citation": "Northern District of West Virginia · Rule 26.06",
+      "title": "Discovery of Electronically Stored Information.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-98",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Civ P 26.06. Discovery of Electronically Stored Information. \n(a) Duty to Investigate: Prior to a Fed. R. Civ. P. 26(f) conference, counsel\nshall: \n(1) Investigate the client’s Electronically Stored Information (“ESI”), ",
+          "pages": [
+            97
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-99",
+          "path": [],
+          "type": "paragraph",
+          "text": "75\nincluding, but not limited to, email, mobile device data, social media and \nwebsite posts, electronic documents, databases, metadata, and \ncomputer-based and other digital systems, in order to understand how \nsuch ESI is stored; how it has been or can be preserved, accessed, \nretrieved, and produced; and any other issues to be discussed at the Fed. \nR. Civ. P. 26(f) conference, and\n(2) Identify a person or persons with knowledge about the client’s ESI,\nwith the ability to facilitate, through counsel, preservation and discovery of \nESI.\n(b) Designation of Resource Person: In order to facilitate communication and\ncooperation between the parties and the Court, each party shall, if deemed necessary \nby agreement or by the Court, designate a single resource person through whom all \nissues relating to the preservation and production of ESI should be addressed.\n(c) Preparation for Conference: Prior to the Fed. R. Civ. P. 26(f) conference, \nthe parties should refer to both the “Checklist for Rule 26(f) Conference Regarding \nElectronically Stored Information” set forth as Appendix LRCivP26.06A - CHECKLIST to \nthese Local Rules, and the “Guidelines for the Discovery of Electronically Stored \nInformation” set forth as Appendix LRCivP26.06B-GUIDELINES to these Local Rules.\n(d) Duty to Confer: At the Fed. R. Civ. P. 26(f) conference, and upon a later \nrequest for discovery of ESI, counsel shall meet and attempt to agree on the discovery \nof ESI. \n(e) Scheduling Conference: Prior to the scheduling conference, the parties",
+          "pages": [
+            98
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-100",
+          "path": [],
+          "type": "paragraph",
+          "text": "76\nshall complete and file their Rule 26(f) Meeting Report, as applicable. At the discretion \nof the Court, the parties may be required to submit a proposed stipulated order \nregarding discovery of ESI. The parties may also choose to file an order under Fed. R. \nEvid. 502(d). \nInterrogatories to Parties\n",
+          "pages": [
+            99
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wvnd-civil-parsed-v1-7b5520cb858b057c",
+      "sourceDocumentId": "parsed-wvnd-7b5520cb858b057c",
+      "sourceUrl": "http://www.wvnd.uscourts.gov/sites/wvnd/files/NDWV%20Local%20Rules%202018%20MASTER.pdf",
+      "pageIndex": 97,
+      "pageSpan": [
+        97,
+        99
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wvnd-civil:33.01",
+      "collectionId": "wvnd-civil",
+      "districtId": "wvnd",
+      "number": "33.01",
+      "citation": "Northern District of West Virginia · Rule 33.01",
+      "title": "Interrogatories.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-100",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Civ P 33.01. Interrogatories.\n(a) Form of Response: Each answer, statement or objection to an interrogatory\nmust be preceded by the interrogatory to which it responds.\n(b) Reference to Records: As permitted in Fed. R. Civ. P. 33(d), whenever a \nparty answers any interrogatory by reference to records from which the answer may be \nderived or ascertained:\n(1) The producing party shall make available any computerized \ninformation or summaries thereof that it either has or can adduce by a \nrelatively simple procedure, unless these materials are privileged or \notherwise not subject to discovery;\n(2) The producing party shall provide any relevant compilations, abstracts \nor summaries that are in its custody or that are readily obtainable, unless \nthese materials are privileged or otherwise not subject to discovery;\n(3) The documents shall be made available for inspection and copying \nwithin fourteen (14) days after service of the answers to interrogatories or \nat a date agreed upon by the parties; and",
+          "pages": [
+            99
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-101",
+          "path": [],
+          "type": "paragraph",
+          "text": "77\n(4) If a party answers an interrogatory by reference to a deposition in the \naction, the party shall identify the deponent and the pages of a specific \ntranscript where the information may be found. If a party answers an \ninterrogatory by reference to a deposition in another action, the party shall \nidentify the deponent, the date of deposition, the style of the action and the \npages of a specific transcript where the information may be found, and the \nparty shall make a copy of the deposition available for inspection and \ncopying.\n(c) Answers to Interrogatories Following Objections: When it is ordered that \ninterrogatories to which objections were made must be answered, the answers shall be \nserved within fourteen (14) days of the order, unless the Court directs or the parties \nstipulate otherwise.\nProduction of Documents\n",
+          "pages": [
+            100
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wvnd-civil-parsed-v1-7b5520cb858b057c",
+      "sourceDocumentId": "parsed-wvnd-7b5520cb858b057c",
+      "sourceUrl": "http://www.wvnd.uscourts.gov/sites/wvnd/files/NDWV%20Local%20Rules%202018%20MASTER.pdf",
+      "pageIndex": 99,
+      "pageSpan": [
+        99,
+        100
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wvnd-civil:34.01",
+      "collectionId": "wvnd-civil",
+      "districtId": "wvnd",
+      "number": "34.01",
+      "citation": "Northern District of West Virginia · Rule 34.01",
+      "title": "Document Production.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-101",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Civ P 34.01. Document Production.\n(a) Form of Response: Each answer, statement or objection to a request for \nproduction of documents must be preceded by the request to which it responds.\n(b) Objections to Document Requests:\n(1) When an objection is made to any document request or subpart, it \nshall state with specificity all grounds for the objection. Any ground not \nstated in an objection within the time provided by Fed. R. Civ. P. 34, or \nwithin any extension of time, is waived.",
+          "pages": [
+            100
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-102",
+          "path": [],
+          "type": "paragraph",
+          "text": "78\n(2) No part of a document request shall be left unanswered merely\nbecause an objection was made to another part of the document request.\n(c) Answers to Document Requests After Objections: When it is ordered that \ndocument requests to which objections were made must be answered, the answers shall \nbe served within twenty-one (21) days of the order, unless the Court directs or the \nparties stipulate otherwise.\nRequests for Admissions\n",
+          "pages": [
+            101
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wvnd-civil-parsed-v1-7b5520cb858b057c",
+      "sourceDocumentId": "parsed-wvnd-7b5520cb858b057c",
+      "sourceUrl": "http://www.wvnd.uscourts.gov/sites/wvnd/files/NDWV%20Local%20Rules%202018%20MASTER.pdf",
+      "pageIndex": 100,
+      "pageSpan": [
+        100,
+        101
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wvnd-civil:36.01",
+      "collectionId": "wvnd-civil",
+      "districtId": "wvnd",
+      "number": "36.01",
+      "citation": "Northern District of West Virginia · Rule 36.01",
+      "title": "Admissions.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-102",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Civ P 36.01. Admissions.\n(a) Form of Response: Each answer, statement or objection must be preceded \nby the request for admission to which it responds.\n(b) Statements in Response After Objections: When it is ordered that a request \nfor admission to which objections were made is proper, the matter shall be deemed \nadmitted unless, within fourteen (14) days of the order, the party to whom the request \nwas directed serves a statement denying the matter or setting forth the reasons why that \nparty cannot admit or deny the matter, as provided in Fed. R. Civ. P. 36.\nSanctions\n",
+          "pages": [
+            101
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wvnd-civil-parsed-v1-7b5520cb858b057c",
+      "sourceDocumentId": "parsed-wvnd-7b5520cb858b057c",
+      "sourceUrl": "http://www.wvnd.uscourts.gov/sites/wvnd/files/NDWV%20Local%20Rules%202018%20MASTER.pdf",
+      "pageIndex": 101,
+      "pageSpan": [
+        101,
+        101
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wvnd-civil:37.01",
+      "collectionId": "wvnd-civil",
+      "districtId": "wvnd",
+      "number": "37.01",
+      "citation": "Northern District of West Virginia · Rule 37.01",
+      "title": "Failure to Make Disclosures or to Cooperate in Discovery;",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-102",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Civ P 37.01. Failure to Make Disclosures or to Cooperate in Discovery;\nSanctions.\n(a) Failure to Preserve Electronically Stored Information: If electronically\nstored information that should have been preserved in the anticipation or conduct of ",
+          "pages": [
+            101
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-103",
+          "path": [],
+          "type": "paragraph",
+          "text": "79\nlitigation is lost because a party failed to take reasonable steps to preserve it, and it \ncannot be restored or replaced through additional discovery, the Court:\n(1) upon finding prejudice to another party from loss of the information, may \norder measures no greater than necessary to cure the prejudice; or\n(2) only upon finding that the party acted with the intent to deprive another \nparty of the information’s use in the litigation may:\n(i) presume that the lost information was unfavorable to the party;\n(ii) instruct the jury that it may or must presume the information was \nunfavorable to the party; or\n(iii) dismiss the action or enter a default judgment.\n(b) Sanctions: Counsel and parties are subject to sanctions for the types of\nfailures and lack of preparation specified in Fed. R. Civ. P. 16(f) regarding pretrial \nconferences and orders. Counsel and parties are also subject to the payment of \nreasonable expenses, including attorney’s fees, as provided in Fed. R. Civ. P. 37(f), for \nfailure to participate in good faith in the development and submission of a proposed \ndiscovery plan as required by Fed. R. Civ. P. 26(f) and LR Civ. P. 16.01(b) and (c). \nMotions to Compel\n",
+          "pages": [
+            102
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wvnd-civil-parsed-v1-7b5520cb858b057c",
+      "sourceDocumentId": "parsed-wvnd-7b5520cb858b057c",
+      "sourceUrl": "http://www.wvnd.uscourts.gov/sites/wvnd/files/NDWV%20Local%20Rules%202018%20MASTER.pdf",
+      "pageIndex": 101,
+      "pageSpan": [
+        101,
+        102
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wvnd-civil:37.02",
+      "collectionId": "wvnd-civil",
+      "districtId": "wvnd",
+      "number": "37.02",
+      "citation": "Northern District of West Virginia · Rule 37.02",
+      "title": "Motions to Compel.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-103",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Civ P 37.02. Motions to Compel.\n(a) Motions to Compel: A motion to compel disclosure or discovery must be \naccompanied by a statement setting forth:\n(1) Each discovery request or disclosure requirement, provided verbatim,",
+          "pages": [
+            102
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-104",
+          "path": [],
+          "type": "paragraph",
+          "text": "80\nand any response thereto to which exception is taken. If the discovery \nrequest or disclosure requirement is ignored, the movant need only file a \nmotion to compel without setting forth verbatim the discovery request or \ndisclosure requirement;\n(2) The specific rule, statute or case authority supporting the movant’s\nposition as to each such discovery request or disclosure requirement; and\n(3) The following specifics, presented in the certification of the good faith \nconference required under Fed. R. Civ. P. 37:\n(i) the names of the parties who conferred or attempted to \nconfer,\n(ii) the manner by which they conferred, and\n(iii) the date and time of the conference.\n(b) Waiver: A motion to compel, or other motion in aid of discovery, is deemed \nwaived if it is not filed within thirty (30) days after the discovery response or disclosure \nrequirement sought was due, which date is determined in accordance with a rule or by \nmutual agreement among the parties, unless such failure to file a motion was caused by \nexcusable neglect or by some action of the nonmoving party. In any event, if the \nmoving party seeks a continuance or a modification of the scheduling order, the moving \nparty must demonstrate that good cause exists to grant any such request.\n(c) Response: Every response to a motion to compel shall set forth the specific \nrule, statute or case authority supporting the position of the party responding as to each \nsuch discovery request or disclosure requirement.",
+          "pages": [
+            103
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-105",
+          "path": [],
+          "type": "paragraph",
+          "text": "81\nDismissal of Actions\n",
+          "pages": [
+            104
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wvnd-civil-parsed-v1-7b5520cb858b057c",
+      "sourceDocumentId": "parsed-wvnd-7b5520cb858b057c",
+      "sourceUrl": "http://www.wvnd.uscourts.gov/sites/wvnd/files/NDWV%20Local%20Rules%202018%20MASTER.pdf",
+      "pageIndex": 102,
+      "pageSpan": [
+        102,
+        104
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wvnd-civil:41.01",
+      "collectionId": "wvnd-civil",
+      "districtId": "wvnd",
+      "number": "41.01",
+      "citation": "Northern District of West Virginia · Rule 41.01",
+      "title": "Dismissal of Actions.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-105",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Civ P 41.01. Dismissal of Actions.\nWhen it is apparent in any pending civil action that the principal issues have been \nresolved or have become moot, or that the parties have shown no interest in further \nprosecution, the judicial officer may give notice to all counsel and unrepresented parties \nthat the action will be dismissed after notice is given unless good cause for its retention \non the docket is shown. In the absence of good cause shown within that period of time, \nthe judicial officer may dismiss the action. The Clerk of Court shall transmit a copy of \nany order of dismissal to all counsel and unrepresented parties. \nThis Rule does not modify or affect provisions for dismissal of actions under Fed. \nR. Civ. P. 41 or any other authority.\nTrial\n",
+          "pages": [
+            104
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wvnd-civil-parsed-v1-7b5520cb858b057c",
+      "sourceDocumentId": "parsed-wvnd-7b5520cb858b057c",
+      "sourceUrl": "http://www.wvnd.uscourts.gov/sites/wvnd/files/NDWV%20Local%20Rules%202018%20MASTER.pdf",
+      "pageIndex": 104,
+      "pageSpan": [
+        104,
+        104
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wvnd-civil:47.01",
+      "collectionId": "wvnd-civil",
+      "districtId": "wvnd",
+      "number": "47.01",
+      "citation": "Northern District of West Virginia · Rule 47.01",
+      "title": "Trial Juries.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-105",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Civ P 47.01. Trial Juries.\n(a) Examination of Prospective Jurors: The judicial officer shall conduct the \nexamination of prospective jurors called to serve in civil actions. In conducting the \nexamination, the judicial officer shall identify the parties and their respective counsel and \nbriefly outline the nature of the action. The judicial officer shall interrogate the jurors to \nelicit whether they have any prior knowledge of the case and what connections they may \nhave, if any, with the parties or their attorneys. Inquiries directed to the jurors shall \nembrace areas and matters designed to discover the basis for a challenge for cause, to \ngain knowledge enabling an intelligent exercise of peremptory challenges and to ",
+          "pages": [
+            104
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-106",
+          "path": [],
+          "type": "paragraph",
+          "text": "ascertain whether the jurors are qualified to serve in the case on trial. The judicial \nofficer may consult with the attorneys, who may request or suggest other areas of juror \ninterrogation. To the extent deemed proper, the judicial officer may then supplement or \nconclude his or her examination of the jurors.\n(b) Proposed Juror Questionnaires: Parties must submit for the judicial\nofficer’s review and approval any proposed juror questionnaire at least sixty (60) days \nprior to the trial date. \n(c) Jury Lists: Names of jurors drawn for jury service from the Court’s\nqualified jury wheel may be disclosed only in accordance with the Court’s Amended Jury \nPlan, approved and made effective February 27, 2009, and as it may be modified. Jury \nlists prepared by the Clerk of Court shall be made available to counsel and \nunrepresented parties as provided in the Amended Jury Plan. \nFees and Costs\n",
+          "pages": [
+            105
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wvnd-civil-parsed-v1-7b5520cb858b057c",
+      "sourceDocumentId": "parsed-wvnd-7b5520cb858b057c",
+      "sourceUrl": "http://www.wvnd.uscourts.gov/sites/wvnd/files/NDWV%20Local%20Rules%202018%20MASTER.pdf",
+      "pageIndex": 104,
+      "pageSpan": [
+        104,
+        105
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wvnd-civil:54.01",
+      "collectionId": "wvnd-civil",
+      "districtId": "wvnd",
+      "number": "54.01",
+      "citation": "Northern District of West Virginia · Rule 54.01",
+      "title": "Fees and Costs.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-106",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Civ P 54.01. Fees and Costs.\nFees and costs shall be taxed and paid in accordance with the provisions of 28 \nU.S.C. §§ 1911–1932 and other controlling statutes and rules. If costs are awarded, \nthe reasonable premiums or expenses paid on any bond or other security given by the \nprevailing party shall be taxed as part of the costs. \nThe prevailing party shall prepare and file a bill of costs within thirty (30) days \nafter entry of the final judgment on Form AO 133 (Bill of Costs), which may be supplied \nby the Clerk of Court or found on the Court’s website (www.wvnd.uscourts.gov). The \n82",
+          "pages": [
+            105
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-107",
+          "path": [],
+          "type": "paragraph",
+          "text": "83\nbill of costs shall contain an itemized schedule of the costs documenting each separate \ncost and a statement signed by counsel for the prevailing party that the schedule is \ncorrect and the charges were actually and necessarily incurred. The adverse party \nshall file specific objections, if any, to the bill of costs within fourteen (14) days of \nservice, with a copy served on counsel for the prevailing party or on the unrepresented \nprevailing party. The filer must provide any non-CM/ECF filer with the document \naccording to this Rule. CM/ECF filers need not, however, provide paper copies to other \nCM/ECF filers, as the document will be served electronically. \nMagistrate Judges\n",
+          "pages": [
+            106
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wvnd-civil-parsed-v1-7b5520cb858b057c",
+      "sourceDocumentId": "parsed-wvnd-7b5520cb858b057c",
+      "sourceUrl": "http://www.wvnd.uscourts.gov/sites/wvnd/files/NDWV%20Local%20Rules%202018%20MASTER.pdf",
+      "pageIndex": 105,
+      "pageSpan": [
+        105,
+        106
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wvnd-civil:72.01",
+      "collectionId": "wvnd-civil",
+      "districtId": "wvnd",
+      "number": "72.01",
+      "citation": "Northern District of West Virginia · Rule 72.01",
+      "title": "Authority of Magistrate Judges.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-107",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Civ P 72.01. Authority of Magistrate Judges. \nThe Federal Code at 28 U.S.C. §§ 631–639, sets forth provisions relating to the \nappointment, tenure, location, jurisdiction and powers of United States Magistrate \nJudges. \n(a) General: A magistrate judge is a judicial officer of the district court. A \nmagistrate judge of this district is designated to perform, and may be assigned, any duty \nallowed by law to be performed by a magistrate judge. Performance of a duty by a \nmagistrate judge will be governed by the applicable provisions of federal statutes and\nrules, the general procedural rules of this Court and the requirements specified in any \norder or reference from a district judge. In performing a duty, a magistrate judge may \ndetermine preliminary matters; require parties, attorneys and witnesses to appear; \nrequire briefs, proofs and argument; and conduct any hearing, conference or other ",
+          "pages": [
+            106
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-108",
+          "path": [],
+          "type": "paragraph",
+          "text": "84\nproceeding the magistrate judge deems appropriate.\n(b) Statutory Duties: Magistrate judges are authorized or specially designated to \nperform the duties prescribed by 28 U.S.C. § 636 and such other duties as may be \nassigned by the Court or a district judge which are not inconsistent with the Constitution \nand laws of the United States.\n(c) Habeas Corpus and Collateral Relief: Magistrate judges are authorized to \nperform the duties imposed upon district judges by Rules for Proceedings Under 28 \nU.S.C. § 2254 and Rules for Proceedings Under 28 U.S.C. § 2255, in accordance with \nRule 10 of those Rules and 28 U.S.C. § 636.\n(d) Post-Conviction Habeas Corpus and Related Actions: The following matters \nare referred to magistrate judges:\n(1) Post-conviction habeas corpus petitions or related motions, filed \npursuant to 28 U.S.C. §§ 2241, 2254, and 2255, and related actions;\n(2) Prisoner challenges filed pursuant to 42 U.S.C. § 1983, Bivens and \nrelated actions;\n(3) Appeals of administrative decisions under the Social Security Act and \nrelated actions, including motions or petitions for attorney’s fees arising out \nof such appeals;\n(4) Discovery disputes and pretrial motions relating to discovery practice;\n(5) Applications to proceed without prepayment of fees and costs; and\n(6) Actions filed by persons who are proceeding pro se, whether or not \nthey are in custody, until such person is represented by retained counsel.",
+          "pages": [
+            107
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-109",
+          "path": [],
+          "type": "paragraph",
+          "text": "85\n(e) Miscellaneous Duties: Magistrate judges are authorized to:\n(1) Exercise general supervision of civil calendars, conduct calendar and \nstatus calls, conduct hearings to resolve discovery disputes and determine \nmotions to expedite or postpone the trial of cases for the district judges;\n(2) Analyze civil cases to determine an appropriate schedule; report \nfindings to the assigned district judge; and, in complex and other selected \ncases, conduct conferences at which a schedule for the completion of \nvarious stages of the litigation will be established, the possibility of early \nsettlement will be evaluated and alternative dispute resolution mechanisms \nwill be considered;\n(3) Conduct pretrial conferences, scheduling conferences, mediations, \nsettlement conferences, omnibus hearings and related pretrial \nproceedings;\n(4) With the consent of the parties, conduct voir dire and preside over the \nselection of petit juries;\n(5) Accept petit jury verdicts in the absence of the district judge;\n(6) Issue subpoenas, writs of habeas corpus ad testificandum or other \norders necessary to obtain the presence of parties, witnesses or evidence \nfor court proceedings;\n(7) Rule on applications for disclosure of tax returns and tax return \ninformation pursuant to 26 U.S.C. § 6103(i)(1);\n(8) Order the exoneration or forfeiture of bonds;",
+          "pages": [
+            108
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-110",
+          "path": [],
+          "type": "paragraph",
+          "text": "86\n(9) Conduct proceedings for the collection of civil penalties of not more \nthan $200 assessed under the Federal Boat Safety Act of 1971, pursuant \nto 46 U.S.C. §§ 4311(d) and 12309(c);\n(10) Resolve post-judgment discovery motions and conduct examinations \nof judgment debtors pursuant to Fed. R. Civ. P. 69;\n(11) Supervise proceedings conducted pursuant to letters rogatory as set \nforth in 28 U.S.C. § 1782(a);\n(12) Issue orders of withdrawal of funds from the Court registry pursuant \nto 28 U.S.C. § 2042;\n(13) Issue orders or warrants authorizing acts necessary in the \nperformance of the duties of administrative and regulatory agencies and \ndepartments of the United States; \n(14) Conduct extradition proceedings in accordance with 18 U.S.C. § \n3184; and\n(15) Serve with designated committees or other judicial officers, \nparticipate in promulgation of local rules and procedures, oversee \nadministration of the forfeiture of collateral system, and other functions of \ncourt governance as approved by the Chief Judge.\n(f) Method of Assignment of Matters to Magistrate Judges: The method for \nassignment of duties to a magistrate judge shall be by standing order or case-specific \norder unless otherwise provided for in these Local Rules, the Federal Rules of Civil \nProcedure, the Rules for Proceedings Under 28 U.S.C. § 2254 and the Rules for ",
+          "pages": [
+            109
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-111",
+          "path": [],
+          "type": "paragraph",
+          "text": "87\nProceedings Under 28 U.S.C. § 2255. Individual district judges may, in their discretion, \nassign or request magistrate judges to perform such other duties as are not inconsistent \nwith the Constitution and the laws of the United States.\n",
+          "pages": [
+            110
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wvnd-civil-parsed-v1-7b5520cb858b057c",
+      "sourceDocumentId": "parsed-wvnd-7b5520cb858b057c",
+      "sourceUrl": "http://www.wvnd.uscourts.gov/sites/wvnd/files/NDWV%20Local%20Rules%202018%20MASTER.pdf",
+      "pageIndex": 106,
+      "pageSpan": [
+        106,
+        110
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wvnd-civil:72.02",
+      "collectionId": "wvnd-civil",
+      "districtId": "wvnd",
+      "number": "72.02",
+      "citation": "Northern District of West Virginia · Rule 72.02",
+      "title": "Effect of Magistrate Judge Ruling Pending Objection.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-111",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Civ P 72.02. Effect of Magistrate Judge Ruling Pending Objection.\nWhen an objection to a magistrate judge’s ruling on a non-dispositive pretrial \nmotion is filed pursuant to Fed. R. Civ. P. 72(a), the ruling remains in full force and effect \nunless and until it is stayed by the magistrate judge or by a district judge.\nHearings on Motions\n",
+          "pages": [
+            110
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wvnd-civil-parsed-v1-7b5520cb858b057c",
+      "sourceDocumentId": "parsed-wvnd-7b5520cb858b057c",
+      "sourceUrl": "http://www.wvnd.uscourts.gov/sites/wvnd/files/NDWV%20Local%20Rules%202018%20MASTER.pdf",
+      "pageIndex": 110,
+      "pageSpan": [
+        110,
+        110
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wvnd-civil:78.01",
+      "collectionId": "wvnd-civil",
+      "districtId": "wvnd",
+      "number": "78.01",
+      "citation": "Northern District of West Virginia · Rule 78.01",
+      "title": "Hearings on Motions.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-111",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR Civ P 78.01. Hearings on Motions. \nThe judicial officer may require or permit hearings on motions and may permit \nattendance by telephone.",
+          "pages": [
+            110
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wvnd-civil-parsed-v1-7b5520cb858b057c",
+      "sourceDocumentId": "parsed-wvnd-7b5520cb858b057c",
+      "sourceUrl": "http://www.wvnd.uscourts.gov/sites/wvnd/files/NDWV%20Local%20Rules%202018%20MASTER.pdf",
+      "pageIndex": 110,
+      "pageSpan": [
+        110,
+        110
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    }
+  ],
+  "evidence": [
+    {
+      "number": "1.01",
+      "heading": "LR Civ P 1.01. Applicability.",
+      "page": 63,
+      "offset": 69,
+      "slices": [
+        {
+          "page": 63,
+          "start": 69,
+          "end": 319,
+          "sha256": "3da65a25fb4c1f9204c5f787a4bc077734f44be77a4b0cba0545195d24c9e196"
+        }
+      ]
+    },
+    {
+      "number": "4.01",
+      "heading": "LR Civ P 4.01. Waiver of Service.",
+      "page": 63,
+      "offset": 319,
+      "slices": [
+        {
+          "page": 63,
+          "start": 319,
+          "end": 1389,
+          "sha256": "4458f7a8c4a4ba9b5d07fb979ce76f66a0150904983583bbe695a77b87a1d52f"
+        },
+        {
+          "page": 64,
+          "start": 0,
+          "end": 216,
+          "sha256": "c45bac4a3472a3e6439c1c345c01d4d0c81501530b08c4db50d23efbbbcc5db1"
+        }
+      ]
+    },
+    {
+      "number": "5.01",
+      "heading": "LR Civ P 5.01. Discovery.",
+      "page": 64,
+      "offset": 216,
+      "slices": [
+        {
+          "page": 64,
+          "start": 216,
+          "end": 1628,
+          "sha256": "c2be47382073e465f2017b2f609ea6b864cc6587a9f4e38f6fd474cbf794306a"
+        },
+        {
+          "page": 65,
+          "start": 0,
+          "end": 1902,
+          "sha256": "a6991bbe12ac36c49951f3512689ce9bfcad5b4ea904a979edb7a07609fe1dd4"
+        },
+        {
+          "page": 66,
+          "start": 0,
+          "end": 50,
+          "sha256": "a1e9a29ae2f6dee36e21888de8759e2c416bb5745e91ff06a486cc9277798a3b"
+        }
+      ]
+    },
+    {
+      "number": "7.01",
+      "heading": "LR Civ P 7.01. Stipulations.",
+      "page": 66,
+      "offset": 50,
+      "slices": [
+        {
+          "page": 66,
+          "start": 50,
+          "end": 456,
+          "sha256": "0e36eca948371920707bb1f3ca20bf4ead987976ba021f52b13deedd0f470b53"
+        }
+      ]
+    },
+    {
+      "number": "7.02",
+      "heading": "LR Civ P 7.02. Motion Practice.",
+      "page": 66,
+      "offset": 456,
+      "slices": [
+        {
+          "page": 66,
+          "start": 456,
+          "end": 1568,
+          "sha256": "2bf549865d907e262b6adf1be2f56eb4a5b96a3666a03fffc7544609bfa44166"
+        },
+        {
+          "page": 67,
+          "start": 0,
+          "end": 1561,
+          "sha256": "c7cd5c8cfecfe7d4f85f02b9f70a31da6ddd3530d5e671cefbdb10453b0ce830"
+        },
+        {
+          "page": 68,
+          "start": 0,
+          "end": 1423,
+          "sha256": "4bd258c87465af288596ed536271345c2cabd45da55e94cc56dc250944ac4f76"
+        },
+        {
+          "page": 69,
+          "start": 0,
+          "end": 1570,
+          "sha256": "7b4bb75e6e722f52361bb7c681e8f3a49a33d28a95a7ad1e9300b1656e6fd379"
+        },
+        {
+          "page": 70,
+          "start": 0,
+          "end": 3,
+          "sha256": "a5331f18877e9e1543361e44b4cb0a1f5f0ed5f8297d850bf1fcc68bd7a3ab5f"
+        }
+      ]
+    },
+    {
+      "number": "7.10",
+      "heading": "LR Civ P 7.10. Disclosure Statement.",
+      "page": 70,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 70,
+          "start": 3,
+          "end": 1014,
+          "sha256": "40da2ac9a290c6f3f0bc972fbb8caeb8c1eadcc60ea4505d08294be5ed4bd889"
+        }
+      ]
+    },
+    {
+      "number": "7.20",
+      "heading": "LR Civ P 7.20. Disclosure Statement in a Diversity Action.",
+      "page": 70,
+      "offset": 1014,
+      "slices": [
+        {
+          "page": 70,
+          "start": 1014,
+          "end": 1680,
+          "sha256": "6f74389531586fc6480c7bc6c574fc733c3f7d03592352007d5938fe6dede43b"
+        },
+        {
+          "page": 71,
+          "start": 0,
+          "end": 25,
+          "sha256": "508f4c49dadfe43942d067b826cedf013f238027214be298eb077bb7675243a7"
+        }
+      ]
+    },
+    {
+      "number": "9.01",
+      "heading": "LR Civ P 9.01. Complaints Filed Pursuant to Social Security Act.",
+      "page": 71,
+      "offset": 25,
+      "slices": [
+        {
+          "page": 71,
+          "start": 25,
+          "end": 1600,
+          "sha256": "68fe9a075bdffa357d26be105028f2d6a4e2e97eaaf0fbf4249a0dc3f15d5a0c"
+        },
+        {
+          "page": 72,
+          "start": 0,
+          "end": 187,
+          "sha256": "a3f74841902661bceeec73291248ba27fc1a4489a74fb5df17bd279df20afc2b"
+        }
+      ]
+    },
+    {
+      "number": "9.02",
+      "heading": "LR Civ P 9.02. Social Security Appeals.",
+      "page": 72,
+      "offset": 187,
+      "slices": [
+        {
+          "page": 72,
+          "start": 187,
+          "end": 1741,
+          "sha256": "64a301af395e28b9cd467b96c7871b6b46d85636e44140c7760e865f87662500"
+        },
+        {
+          "page": 73,
+          "start": 0,
+          "end": 1810,
+          "sha256": "b10beabf610c5831236f31cc0e3bef2416c9295f1dff74882a53bf16a3fec6d7"
+        },
+        {
+          "page": 74,
+          "start": 0,
+          "end": 529,
+          "sha256": "72f6e53fa1c2f015db1165a03b1a463cef9481fea121fc067776425d2a543d61"
+        }
+      ]
+    },
+    {
+      "number": "12.01",
+      "heading": "LR Civ P 12.01. Extensions of Answer Date.",
+      "page": 74,
+      "offset": 529,
+      "slices": [
+        {
+          "page": 74,
+          "start": 529,
+          "end": 992,
+          "sha256": "ba4de4dd3e2512d2c32878288e9d1d44e223053144ad8d867735a702cb92e936"
+        }
+      ]
+    },
+    {
+      "number": "12.02",
+      "heading": "LR Civ P 12.02. Motions to Dismiss.",
+      "page": 74,
+      "offset": 992,
+      "slices": [
+        {
+          "page": 74,
+          "start": 992,
+          "end": 1210,
+          "sha256": "ce4d7907f4f65b9d2cbe7c4a94b7f91223800da77c22e5e2e129308d041227d4"
+        }
+      ]
+    },
+    {
+      "number": "15.01",
+      "heading": "LR Civ P 15.01. Motions to Amend.",
+      "page": 74,
+      "offset": 1210,
+      "slices": [
+        {
+          "page": 74,
+          "start": 1210,
+          "end": 1412,
+          "sha256": "df6cd8b7c96bd406c69996b90fd15975d7bace0a5ce887aa842ae1e62f31c6b3"
+        },
+        {
+          "page": 75,
+          "start": 0,
+          "end": 102,
+          "sha256": "72edc605a7e48f7763808901bf7bab267de4f7c220ad4c0c144b238bd338252e"
+        }
+      ]
+    },
+    {
+      "number": "16.01",
+      "heading": "LR Civ P 16.01. Scheduling Conferences.",
+      "page": 75,
+      "offset": 102,
+      "slices": [
+        {
+          "page": 75,
+          "start": 102,
+          "end": 1604,
+          "sha256": "67eb166dab256a8ca9f9df2317725093ad895eed2ea0f2bad425faac86e9b4c5"
+        },
+        {
+          "page": 76,
+          "start": 0,
+          "end": 1468,
+          "sha256": "a7336d559670609e2ae73bf458aa7602ade909efc3a4f3c324cbc629a4f97a51"
+        },
+        {
+          "page": 77,
+          "start": 0,
+          "end": 1742,
+          "sha256": "7187ac2aadd4386cdc5c09b63ed41b8eaa7195d6955934338c9a2a648a4618b5"
+        },
+        {
+          "page": 78,
+          "start": 0,
+          "end": 1502,
+          "sha256": "61d4f2f2b9d9d366e98b1a24cfaf7225d2b84988fd345b6f8e33b067c6e43de6"
+        },
+        {
+          "page": 79,
+          "start": 0,
+          "end": 1697,
+          "sha256": "dbcc8f45e1a8391469af9ac42efab6ef33d71ade069674065c5b27609f855421"
+        },
+        {
+          "page": 80,
+          "start": 0,
+          "end": 1400,
+          "sha256": "a44bf3b091fc4cb98d8a5e362567648c61f1c2e9573aa0dab14a2b5bc7907058"
+        },
+        {
+          "page": 81,
+          "start": 0,
+          "end": 638,
+          "sha256": "cce2db5bb4a079dfd1333fa9a420b5b4de09a8d4424c2e53a37659c2ab2408f8"
+        }
+      ]
+    },
+    {
+      "number": "16.02",
+      "heading": "LR Civ P 16.02. Case Management Conferences in Complex Cases.",
+      "page": 81,
+      "offset": 638,
+      "slices": [
+        {
+          "page": 81,
+          "start": 638,
+          "end": 1349,
+          "sha256": "25966cd7b63d66ab3370e60b88ad16d1490d6f45a14180f20c4d20b9b2f659b3"
+        },
+        {
+          "page": 82,
+          "start": 0,
+          "end": 1100,
+          "sha256": "58a1a22dccd87911e289cc809692e773c7f0a32eacba60e036be6efadc473f21"
+        }
+      ]
+    },
+    {
+      "number": "16.03",
+      "heading": "LR Civ P 16.03. Pretrial Conferences in Non-Complex Cases.",
+      "page": 82,
+      "offset": 1100,
+      "slices": [
+        {
+          "page": 82,
+          "start": 1100,
+          "end": 1421,
+          "sha256": "7aba6eca020fb1c2e04ef9a7cb558f8bcc95b81b1dc89d90ba1fc0714b51e245"
+        },
+        {
+          "page": 83,
+          "start": 0,
+          "end": 438,
+          "sha256": "0704dae750231806eef15693f3277c1d1e18c2c9f1618b564d018ed9c7493e44"
+        }
+      ]
+    },
+    {
+      "number": "16.04",
+      "heading": "LR Civ P 16.04. Final Conferences; Pretrial Order.",
+      "page": 83,
+      "offset": 438,
+      "slices": [
+        {
+          "page": 83,
+          "start": 438,
+          "end": 1707,
+          "sha256": "0316a853bd5c57b46d801296d19f974bd428facb94833b63d952bf5059997c9a"
+        },
+        {
+          "page": 84,
+          "start": 0,
+          "end": 1318,
+          "sha256": "1ada267f3aad7c988cf3d77d04cbd4da5c4bd21d45e14d18f924f90bada6a37e"
+        },
+        {
+          "page": 85,
+          "start": 0,
+          "end": 1535,
+          "sha256": "1eeb0d19e201ce57e974cd8d178bb1b68a518565ee12eac6bb1354f0258eb698"
+        },
+        {
+          "page": 86,
+          "start": 0,
+          "end": 84,
+          "sha256": "2e91ca317edb07f54d30d7052ebd62e4941a6f151eadccee339a528778a097e8"
+        }
+      ]
+    },
+    {
+      "number": "16.05",
+      "heading": "LR Civ P 16.05. Authority Regarding Stipulations, Agreements, and Admissions",
+      "page": 86,
+      "offset": 84,
+      "slices": [
+        {
+          "page": 86,
+          "start": 84,
+          "end": 502,
+          "sha256": "8194ba3599edb4bd159b9ee6f9cc44dea2cf478775bfb939029b6ff7fcd58369"
+        }
+      ]
+    },
+    {
+      "number": "16.06",
+      "heading": "LR Civ P 16.06. Mediation.",
+      "page": 86,
+      "offset": 502,
+      "slices": [
+        {
+          "page": 86,
+          "start": 502,
+          "end": 1804,
+          "sha256": "5ba6ccdf32eb2cf5592e5af7f65baf0d07b5d56801a6e3dacb11e4756a0512f6"
+        },
+        {
+          "page": 87,
+          "start": 0,
+          "end": 1801,
+          "sha256": "01644cff42ca68f5081969107dc7b8d646927e3d69b244fd58b4e5f8c763be43"
+        },
+        {
+          "page": 88,
+          "start": 0,
+          "end": 1798,
+          "sha256": "a53fd2730c9f7771305cc41d64574246ae40ec786ee7fb555012b5feec1b18e0"
+        },
+        {
+          "page": 89,
+          "start": 0,
+          "end": 257,
+          "sha256": "fc8ab2cceb6a60119b98ae23a975813aea7123d159d72ca12858d78726c86d0b"
+        }
+      ]
+    },
+    {
+      "number": "26.01",
+      "heading": "LR Civ P 26.01. Control of Discovery.",
+      "page": 89,
+      "offset": 257,
+      "slices": [
+        {
+          "page": 89,
+          "start": 257,
+          "end": 1502,
+          "sha256": "86c53ed840dd73f007d03519d33ebac8740caa0dd42bca5a7a5bb96004c784a9"
+        },
+        {
+          "page": 90,
+          "start": 0,
+          "end": 1575,
+          "sha256": "227eaf662a3fd5f09ea6c88b95eb61f8d62d945f5c3da9b2637bfeed91bcb220"
+        },
+        {
+          "page": 91,
+          "start": 0,
+          "end": 1362,
+          "sha256": "3eef00553359fc4098793e81af61a4d41b3b3d0a3a2abf689bbe7e41fbd084c5"
+        },
+        {
+          "page": 92,
+          "start": 0,
+          "end": 3,
+          "sha256": "89e56b272669de11431602f3c77e560ecf6c61512fa8db5ac0006606e88d5282"
+        }
+      ]
+    },
+    {
+      "number": "26.02",
+      "heading": "LR Civ P 26.02. Uniform Definitions in Discovery Requests.",
+      "page": 92,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 92,
+          "start": 3,
+          "end": 1353,
+          "sha256": "9cfa9f8923ece7bc464d90a2f5734837eb5f57d15ffffc2b233815594ac3e3dc"
+        },
+        {
+          "page": 93,
+          "start": 0,
+          "end": 631,
+          "sha256": "c790c8d8bad6e6b412b6b34cf5eb57f536c55061d372f9b6bf8f775a4df26e00"
+        }
+      ]
+    },
+    {
+      "number": "26.03",
+      "heading": "LR Civ P 26.03. Inspection of Documents and Copying Expense.",
+      "page": 93,
+      "offset": 631,
+      "slices": [
+        {
+          "page": 93,
+          "start": 631,
+          "end": 1411,
+          "sha256": "d941c1cbfa133b8c452414898d77ebd3d7e105b905a041b252572d9594a57d26"
+        },
+        {
+          "page": 94,
+          "start": 0,
+          "end": 148,
+          "sha256": "3d43d227830742a48305489dd4d90a4289b2cab482a3d714be58a45dec9cde84"
+        }
+      ]
+    },
+    {
+      "number": "26.04",
+      "heading": "LR Civ P 26.04. Discovery Disputes.",
+      "page": 94,
+      "offset": 148,
+      "slices": [
+        {
+          "page": 94,
+          "start": 148,
+          "end": 1335,
+          "sha256": "f6a8e033809c66e1f3a75f4f77f802bc116a6d7aa0b0bbee07c1c84e672b9884"
+        },
+        {
+          "page": 95,
+          "start": 0,
+          "end": 849,
+          "sha256": "a701777349b865495888be0fe5d5297ad9f84e12122002870a11588363d76a25"
+        },
+        {
+          "page": 96,
+          "start": 0,
+          "end": 1140,
+          "sha256": "225125251b67deec8aaedc3c6f0fd1f55fd92dd25efa474827eaa4606b64764d"
+        },
+        {
+          "page": 97,
+          "start": 0,
+          "end": 1076,
+          "sha256": "80e0e9da6c9294ff2de40edd30fa18d51a61f60e433a09a8674b0fd74902dea5"
+        }
+      ]
+    },
+    {
+      "number": "26.05",
+      "heading": "LR Civ P 26.05. Protective Orders and Sealed Documents.",
+      "page": 97,
+      "offset": 1076,
+      "slices": [
+        {
+          "page": 97,
+          "start": 1076,
+          "end": 1495,
+          "sha256": "929095a1977cba0dd94d94e3940f34ad221ca86cff9b7be120b5eea078d9ac28"
+        },
+        {
+          "page": 98,
+          "start": 0,
+          "end": 1075,
+          "sha256": "2da24dc59c1a01e6bd9b364f638d0f711457d9603a0005f80a13f7678ae63625"
+        }
+      ]
+    },
+    {
+      "number": "26.06",
+      "heading": "LR Civ P 26.06. Discovery of Electronically Stored Information.",
+      "page": 98,
+      "offset": 1075,
+      "slices": [
+        {
+          "page": 98,
+          "start": 1075,
+          "end": 1298,
+          "sha256": "bb4d8ffaca36d2f3b26a1527aeb6287d92585d8036b78620358edfcc529e25dc"
+        },
+        {
+          "page": 99,
+          "start": 0,
+          "end": 1535,
+          "sha256": "a1d940e8189f482819c8b3e7cafb11bd24d7ce24257a74beff4fd1651b3a08d3"
+        },
+        {
+          "page": 100,
+          "start": 0,
+          "end": 305,
+          "sha256": "fd02db8d548be578dd928e59d3fa22a364a2dcccbc46c7f6eefa02bee4c84e86"
+        }
+      ]
+    },
+    {
+      "number": "33.01",
+      "heading": "LR Civ P 33.01. Interrogatories.",
+      "page": 100,
+      "offset": 305,
+      "slices": [
+        {
+          "page": 100,
+          "start": 305,
+          "end": 1317,
+          "sha256": "349c64645b95c2c2154c1261cba75e01fb61f8a638d5811243b8718185053e5d"
+        },
+        {
+          "page": 101,
+          "start": 0,
+          "end": 838,
+          "sha256": "fe5763f61ed2fa172d806c3d72024c2537d42fc5e9b21824f732f352014d8304"
+        }
+      ]
+    },
+    {
+      "number": "34.01",
+      "heading": "LR Civ P 34.01. Document Production.",
+      "page": 101,
+      "offset": 838,
+      "slices": [
+        {
+          "page": 101,
+          "start": 838,
+          "end": 1327,
+          "sha256": "01104e5d9cc762ed444f180a334eb2305b5674b32eb077c1a8b821f7089d28b2"
+        },
+        {
+          "page": 102,
+          "start": 0,
+          "end": 439,
+          "sha256": "05be70daa3f664833c951691ec28ff71fe8cca06cdfc2f4327806255e7dff3c5"
+        }
+      ]
+    },
+    {
+      "number": "36.01",
+      "heading": "LR Civ P 36.01. Admissions.",
+      "page": 102,
+      "offset": 439,
+      "slices": [
+        {
+          "page": 102,
+          "start": 439,
+          "end": 1019,
+          "sha256": "024e996fd636546f67ea2820aeeaa48944f81662de195ea9f72888eaf04eecdb"
+        }
+      ]
+    },
+    {
+      "number": "37.01",
+      "heading": "LR Civ P 37.01. Failure to Make Disclosures or to Cooperate in Discovery;",
+      "page": 102,
+      "offset": 1019,
+      "slices": [
+        {
+          "page": 102,
+          "start": 1019,
+          "end": 1266,
+          "sha256": "328d0908ec360efb7b8d12aac4c45dea8528d851afdff8c88105106b605a2118"
+        },
+        {
+          "page": 103,
+          "start": 0,
+          "end": 1194,
+          "sha256": "584dd06945698b78274657f935f9aced95dd61f2cdec3fb77d5cd0b5bf400ce2"
+        }
+      ]
+    },
+    {
+      "number": "37.02",
+      "heading": "LR Civ P 37.02. Motions to Compel.",
+      "page": 103,
+      "offset": 1194,
+      "slices": [
+        {
+          "page": 103,
+          "start": 1194,
+          "end": 1418,
+          "sha256": "0d215e112131de6c13a00e05e35495a1d00aafbd16321e9cdd4fe3f0d2ae6411"
+        },
+        {
+          "page": 104,
+          "start": 0,
+          "end": 1489,
+          "sha256": "8c0c99f3d5f2f1e4c0c7ec0728fb9987cd3b6d10e0d2a118142c3e54e1d5a768"
+        },
+        {
+          "page": 105,
+          "start": 0,
+          "end": 24,
+          "sha256": "10631fe29605af779d3e25809359aba752cbba19606564be630a09f14d76fd20"
+        }
+      ]
+    },
+    {
+      "number": "41.01",
+      "heading": "LR Civ P 41.01. Dismissal of Actions.",
+      "page": 105,
+      "offset": 24,
+      "slices": [
+        {
+          "page": 105,
+          "start": 24,
+          "end": 789,
+          "sha256": "ad77a7be8473477ab036bd027ee4598dd9e9e81495d603bd4aae479c2459f21b"
+        }
+      ]
+    },
+    {
+      "number": "47.01",
+      "heading": "LR Civ P 47.01. Trial Juries.",
+      "page": 105,
+      "offset": 789,
+      "slices": [
+        {
+          "page": 105,
+          "start": 789,
+          "end": 1523,
+          "sha256": "11fa7d917ab14dc0cb54d40e155ff493ad8bfb3feaaee0e905bf6886b9baec00"
+        },
+        {
+          "page": 106,
+          "start": 0,
+          "end": 899,
+          "sha256": "8497b66241f3dad2d0db0f7302e1c48dead10ec78bd574750a554117f4d4924c"
+        }
+      ]
+    },
+    {
+      "number": "54.01",
+      "heading": "LR Civ P 54.01. Fees and Costs.",
+      "page": 106,
+      "offset": 899,
+      "slices": [
+        {
+          "page": 106,
+          "start": 899,
+          "end": 1496,
+          "sha256": "6f08fbad791ddc53a3a4c68bcf38c63cfc09eb4f2e6c7cb09a176d3b20478cf9"
+        },
+        {
+          "page": 107,
+          "start": 0,
+          "end": 691,
+          "sha256": "5f06fd71e741afd8eb0e482008108dfe8755e608db5e72733b67a3e7c50ed04a"
+        }
+      ]
+    },
+    {
+      "number": "72.01",
+      "heading": "LR Civ P 72.01. Authority of Magistrate Judges.",
+      "page": 107,
+      "offset": 691,
+      "slices": [
+        {
+          "page": 107,
+          "start": 691,
+          "end": 1597,
+          "sha256": "eb3fe52c915d2c4a5623ced520142e6723ecda38a4c027f407c6e3ea228fa971"
+        },
+        {
+          "page": 108,
+          "start": 0,
+          "end": 1437,
+          "sha256": "5eb87de8aad6ec9b1ba4430ac7cfa09913363df29ecd8b106ea668bb296aa9f8"
+        },
+        {
+          "page": 109,
+          "start": 0,
+          "end": 1343,
+          "sha256": "a846825f5d496912565c576d35a0cd33143c0f47030da87b44a5cd184235cab7"
+        },
+        {
+          "page": 110,
+          "start": 0,
+          "end": 1352,
+          "sha256": "06c4ff822cef1b79d0066d94fbd0f45c65ee668b860ac01d9b82a18e986d9e95"
+        },
+        {
+          "page": 111,
+          "start": 0,
+          "end": 240,
+          "sha256": "988bd63ce94a71c680a62d6df624b0d363911c40e2419108523aa8d3e44af4ea"
+        }
+      ]
+    },
+    {
+      "number": "72.02",
+      "heading": "LR Civ P 72.02. Effect of Magistrate Judge Ruling Pending Objection.",
+      "page": 111,
+      "offset": 240,
+      "slices": [
+        {
+          "page": 111,
+          "start": 240,
+          "end": 583,
+          "sha256": "e232c276b1ceb2a37eb4e2b371a8d8fbad5781d0066b447098c526decd7f2d01"
+        }
+      ]
+    },
+    {
+      "number": "78.01",
+      "heading": "LR Civ P 78.01. Hearings on Motions.",
+      "page": 111,
+      "offset": 583,
+      "slices": [
+        {
+          "page": 111,
+          "start": 583,
+          "end": 724,
+          "sha256": "bab10d2f2bf24e4f4726bad6b4ad24ddb66dc7368d08d45f17da4b99ab16cada"
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "startPage": 63,
+    "startOffset": 69,
+    "endPage": 111,
+    "endOffset": 724,
+    "ruleCount": 35,
+    "tocReconciled": false,
+    "editorialReviewComplete": false,
+    "currencyReviewed": false,
+    "flags": [],
+    "excluded": "Source material outside the recorded range remains available in the district source library."
+  },
+  "transcriptionSha256": "5364764ec5397cd2a0f98520e77d0a01d7832058c6a50076cd3834f1c298e1a1"
+}

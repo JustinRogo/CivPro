@@ -1,0 +1,2129 @@
+{
+  "version": 1,
+  "reviewStatus": "parsed-draft",
+  "districtId": "gamd",
+  "sourceDocument": {
+    "id": "6a38fa2a50e3cc6a",
+    "title": "Local Rules",
+    "format": "pdf",
+    "role": "primary",
+    "sourceUrl": "https://www.gamd.uscourts.gov/sites/gamd/files/Local_Rules-12_1_2022.pdf",
+    "sha256": "6a38fa2a50e3cc6a9daea03964a09d50926a8bfd1dd2b186203c2bacbc6401f9",
+    "bytes": 838945,
+    "retrievedAt": "2026-09-07T00:01:01.261228+00:00",
+    "snapshotPath": "sources/district-snapshots/6a38fa2a50e3cc6a9daea03964a09d50926a8bfd1dd2b186203c2bacbc6401f9.pdf",
+    "textPath": "data/source-library/6a38fa2a50e3cc6a9daea03964a09d50926a8bfd1dd2b186203c2bacbc6401f9.json",
+    "pdfPath": "data/source-pdfs/6a38fa2a50e3cc6a9daea03964a09d50926a8bfd1dd2b186203c2bacbc6401f9.pdf",
+    "pageCount": 71,
+    "reviewStatus": "source-document-only",
+    "blankTextPages": 0
+  },
+  "collection": {
+    "id": "gamd-civil",
+    "name": "Middle District of Georgia Local Rules",
+    "shortName": "Local rules · draft",
+    "districtId": "gamd",
+    "scopeNote": "Civil and generally applicable local rules; unparsed supplements remain in the source library. Rule boundaries and transcription are drafts. Embedded notes, forms, and running headers may remain within rule text; subsection anchors and field-separated notes are not yet reviewed."
+  },
+  "provisions": [
+    {
+      "id": "gamd-civil:3",
+      "collectionId": "gamd-civil",
+      "districtId": "gamd",
+      "number": "3",
+      "citation": "Middle District of Georgia · Rule 3",
+      "title": "DIVISIONS OF THE COURT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-13",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 3: DIVISIONS OF THE COURT\n3.1 FIVE DIVISIONS. The United States District Court for the Middle District of Georgia is \ndivided into five divisions: Macon, Columbus, Albany, Athens, and Valdosta. See attached map of district.\n3.2 DIVISIONAL CLERK’S OFFICES. The Clerk maintains staffed offices in all divisions of \nthe Middle District of Georgia.\n3.3 DIVISION FILINGS IN PAPER. \nAlthough it is recommended that all paper pleadings in civil and criminal cases be filed in the divisional office \nin which the case file is maintained, such pleadings and papers may be filed in any staffed divisional clerk's \noffice within this district. In such event, the clerk of the court shall receive and mark the pleadings and papers \nfiled and promptly forward such pleadings and papers to the divisional office in which the case file is \nmaintained.\n3.4 VENUE IN CIVIL CASES. \nPlaintiff may file a civil case in the division in which the plaintiff resides, the defendant resides or the claim \narose. The clerk of the court is directed to transfer to the appropriate division any civil case that is filed in a \ndivision in which neither the plaintiff or defendant resides nor the claim arose. ",
+          "pages": [
+            12
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-14",
+          "path": [],
+          "type": "paragraph",
+          "text": "2\n",
+          "pages": [
+            13
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "gamd-civil-parsed-v1-6a38fa2a50e3cc6a",
+      "sourceDocumentId": "parsed-gamd-6a38fa2a50e3cc6a",
+      "sourceUrl": "https://www.gamd.uscourts.gov/sites/gamd/files/Local_Rules-12_1_2022.pdf",
+      "pageIndex": 12,
+      "pageSpan": [
+        12,
+        13
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "gamd-civil:5",
+      "collectionId": "gamd-civil",
+      "districtId": "gamd",
+      "number": "5",
+      "citation": "Middle District of Georgia · Rule 5",
+      "title": "FILING WITH THE COURT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-14",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 5: FILING WITH THE COURT\n5.0 CASE MANAGEMENT/ELECTRONIC CASE FILING (CM/ECF) SYSTEM. \nA. Documents to be filed by Electronic Means. Except as otherwise provided in this Rule 5.0, \nall documents to be filed with the court by attorneys must be filed by electronic means in a \nmanner authorized by the Clerk. The instructions for filing civil and criminal pleadings \nelectronically in CM/ECF can be found in the AAdministrative Procedures for Filing, Signing, \nand Verifying Documents by Electronic Means@ available on the Court’s website. Pro se \nparties are not authorized to file electronically without permission from the court. An attorney \nmay apply to the assigned judge for permission to file conventionally rather than electronically.\nB. Filing by Electronic Means. The filing of any document electronically following the\nprocedures set forth in this Rule and the Administrative Procedures constitutes filing for all \npurposes under the Federal Rules of Civil and Criminal Procedure.\n5.1 FILING OF DISCOVERY. \nDisclosures under F.R.Civ.P. 26(a)(1) or (2) and the following discovery requests and responses must not be \nfiled until they are used in the proceeding or the court orders filing: (a) depositions, (b) interrogatories, (c) \nrequest for documents or to permit entry upon land, and (d) requests for admission. Disclosures under \nF.R.Civ.P. 26(a)(3), however, must be promptly filed as provided in Rule 26 (a)(3).\nAny use of discovery materials in court in connection with a motion, a pretrial conference under Rule 16, or \notherwise, will require the filing of the discovery materials. To file discovery, counsel must attach a signed \nstatement certifying that the discovery documents have been either used in the proceedings or ordered filed by ",
+          "pages": [
+            13
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-15",
+          "path": [],
+          "type": "paragraph",
+          "text": "3\nthe court.\n5.2 ACCEPTANCE OF FACSIMILE TRANSMISSIONS. \nFilings by facsimile transmission will only be accepted in compelling circumstances and only with prior\nauthorization from any district judge, magistrate judge, the clerk or chief deputy of the court. The routine \nfiling of pleadings will not be authorized by facsimile transmission.\n5.3 AFTER FILING FACSIMILE TRANSMISSIONS. \nAfter receiving authorization to file pleadings by facsimile transmission, counsel shall immediately file the \noriginal pleading by conventional means. Upon receipt in the Clerk's Office the original will be filed nunc pro\ntunc to the receipt date of the facsimile transmission copy. The court may, at its election, act upon the facsimile \ntransmission copy prior to receipt of the original.\nIn the event that a document is transmitted by facsimile machine without prior authorization, the filing party \nwill be notified that the documents will not be accepted for filing and that filing must instead be accomplished \nby conventional means.\n5.4 PRIVACY PROTECTION FOR FILINGS MADE WITH THE COURT.\nA. Redacted Filings. Unless the court orders otherwise in an electronic or paper filing with the \ncourt that contains an individual’s social security number, taxpayer-identification number, or \nbirth date, the name of an individual known to be a minor, or a financial-account number, or \nthe home address of an individual, a party or nonparty making the filing may include only:\n(1) The last four digits of the social security number and taxpayer-identification number;",
+          "pages": [
+            14
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "4\n(2) The year of the individual’s birth;\n(3) The minor’s initials;\n(4) The last four digits of the financial-account number; and\n(5) The city and state of the home address. (This restriction applies only in criminal cases)\nB. Exemptions from the Redaction Requirement. The redaction requirement does not apply to \nthe following:\n(1) A financial account number that identifies the property allegedly subject to forfeiture \nin a forfeiture proceeding;\n(2) The record of an administrative or agency proceeding;*\n(3) The official record of a state-court proceeding;\n(4) The record of a court or tribunal, if that record was not subject to the redaction \nrequirement when originally filed;\n(5) A filing covered by Rule 5.4(c);\n(6) A pro se filing in an action brought under 28 U.S.C. §§ 2241, 2254, or 2255;\n(7) A court filing that is related to a criminal matter or investigation and that is prepared \nbefore the filing of a criminal charge or is not filed as part of any docketed criminal \ncase;\n(8) An arrest or search warrant; and\n(9) A crime charging document and an affidavit filed in support of any such charging \ndocument.\nC. Filings Made Under Seal. The court may order that a filing be made under seal without \n* Social Security Appeals and Immigration cases are subject to the limitations set forth in Rule 5.2(c), Fed.R.Civ.P., \neffective December 1, 2007.",
+          "pages": [
+            15
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "5\nredaction. The court may later unseal the filing or order the person who made the filing to file \na redacted version for the public record. \nD. Protective Orders. For good cause, the court may by order in a case:\n(1) Require redaction of additional information; or \n(2) Limit or prohibit a nonparty’s remote electronic access to a document filed with the \ncourt.\nE. Option for Additional Unredacted Filing Under Seal. A person making a redacted filing \nmay also file an unredacted copy under seal. The court must retain the unredacted copy as part \nof the record.\nF. Option for Filing a Reference List. A filing that contains redacted information may be filed \ntogether with a reference list that identifies each item of redacted information and specifies an \nappropriate identifier that uniquely corresponds to each item listed. The list must be filed under\nseal and may be amended as a right. Any reference in the case to a listed identifier will be \nconstrued to refer to the corresponding item of information.\nG. Waiver of Protection of Identifiers. A person waives the protection of Rule 5.4a or \ncorresponding Local Criminal Rule 49.2 as to the person’s own information by filing it without \nredaction and not under seal.",
+          "pages": [
+            16
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "6\n5.5 HYBRID REPRESENTATION.\nIn any case where a party is represented by counsel, the Clerk shall not accept pro se briefs, pleadings, or other \npapers for filing from the represented party. The Clerk shall acknowledge receipt and notify the party that the \ndocuments are not being filed. The Clerk shall forward the documents to the party’s attorney of record. The \nCourt will accept pro se motions in proper form addressing the removal of counsel.\n",
+          "pages": [
+            17
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "gamd-civil-parsed-v1-6a38fa2a50e3cc6a",
+      "sourceDocumentId": "parsed-gamd-6a38fa2a50e3cc6a",
+      "sourceUrl": "https://www.gamd.uscourts.gov/sites/gamd/files/Local_Rules-12_1_2022.pdf",
+      "pageIndex": 13,
+      "pageSpan": [
+        13,
+        17
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "gamd-civil:6",
+      "collectionId": "gamd-civil",
+      "districtId": "gamd",
+      "number": "6",
+      "citation": "Middle District of Georgia · Rule 6",
+      "title": "CONTINUANCES AND EXTENSIONS OF TIME",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 6: CONTINUANCES AND EXTENSIONS OF TIME\n6.1 GENERALLY. \nA continuance of any trial, pretrial conference, or other hearing will be granted only by the court on its own \nmotion or on motion of any party. Continuances may not be obtained by stipulation between counsel. Any \nextensions of time within which to answer the complaint or an amended complaint by affirmative defenses or \nother defensive pleadings may be done by written, filed stipulations of counsel, not to exceed more than thirty \n(30) days from the original answer deadline without approval of the court. Only one such stipulation may be \nfiled per complaint or amended complaint. If a party is unable to obtain a stipulation or if more than thirty (30) \ndays is needed, the party should seek an extension by motion to the court pursuant to Rule 6(b) of the Federal \nRules of Civil Procedure.\n6.2 EXTENSIONS FOR FILING OF BRIEFS. \nIn civil cases, the clerk of the court and his deputies are authorized to permit extensions of time to a date certain \nnot to exceed fourteen (14) days for the filing of briefs. No more than one (1) such extension may be granted \nby the clerk for the same brief. Permission of the court must be obtained for any additional extensions. A party \nrequesting an additional extension must do so by written motion filed no later than five (5) days before the \nexpiration of the extension granted by the clerk. The motion shall state why an additional extension is needed.",
+          "pages": [
+            17
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "7\n6.3 CALCULATION OF TIME. \nAll time periods are to be calculated as directed by Fed.R.Civ.P. 6, with three (3) days added to the computed \ndates when service is in accordance with Fed.R.Civ.P. 6(d).",
+          "pages": [
+            18
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "8\n",
+          "pages": [
+            19
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "gamd-civil-parsed-v1-6a38fa2a50e3cc6a",
+      "sourceDocumentId": "parsed-gamd-6a38fa2a50e3cc6a",
+      "sourceUrl": "https://www.gamd.uscourts.gov/sites/gamd/files/Local_Rules-12_1_2022.pdf",
+      "pageIndex": 17,
+      "pageSpan": [
+        17,
+        19
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "gamd-civil:7",
+      "collectionId": "gamd-civil",
+      "districtId": "gamd",
+      "number": "7",
+      "citation": "Middle District of Georgia · Rule 7",
+      "title": "MOTIONS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 7 MOTIONS\n7.1 FILING. \nUnless the assigned judge prescribes otherwise, every motion filed in a civil proceeding shall be accompanied \nby a memorandum of law citing supporting authorities. Civil motions that include allegations of fact must be \nsupported by a statement of fact. This rule does not apply to motions for enlargement of time. Where possible, \nmultiple motions filed at the same time, in the same case, shall be consolidated into one motion with multiple, \nclearly labeled parts and subparts.\n7.2 RESPONSE. \nA party desiring to submit a response, brief, or affidavits shall serve the same within twenty-one (21) days after \nservice of movant's motion and brief.\n7.3 REPLY. \nA party shall serve any desired reply brief, argument, or affidavit within fourteen (14) days after service of \nrespondent's response, brief, or affidavit.\n7.3.1 SUBSEQUENT BRIEFS. \nA. Briefing of any motion or issue concludes when the movant files a reply brief.\nB. Surreply briefs are not favored.\nC. A party desiring to file a surreply brief must move in writing for permission to do so within ",
+          "pages": [
+            19
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "9\nfourteen (14) days of the filing of the brief to which reply is desired, succinctly specifying the\nreasons why additional briefing is necessary. The proposed surreply brief shall not accompany \nthe motion and no response to the motion by the opposing party shall be allowed.\n7.4 PAGE LIMITATION. \nExcept upon good cause shown and leave given by the court, all briefs in support of a motion or in response to \na motion are limited in length to twenty (20) pages; the movant's reply brief may not exceed ten (10) pages. \nObjections to a Report and Recommendation are limited in length to twenty (20) pages. A party seeking \npermission to exceed these limitations shall do so by filing a written motion no later than five (5) days in \nadvance of the deadline for filing the brief or objections and by specifying the number of pages requested.\n7.5 HEARINGS. \nAll motions shall be decided by the court without a hearing unless otherwise ordered by the court on its own \nmotion or in its discretion upon request of counsel. Counsel desiring a hearing on a motion must make a request \nby written motion.\n7.6 MOTIONS FOR RECONSIDERATION. \nMotions for Reconsideration shall not be filed as a matter of routine practice. With the exception of motions \nfiled pursuant to Fed. R. Civ. P 59(e), motions for reconsideration shall be filed within fourteen (14) days after \nentry of the order. Responses shall be filed not later than fourteen (14) days after service of the motion. All \nbriefs are limited to five (5) pages. There shall be no reply brief. \nAny requests for extensions of time for the filing of briefs with respect to a motion for reconsideration \nmust be directed to the judge. The Clerk’s Office is not authorized to grant any such extensions. Parties and \nattorneys for the parties shall not file motions to reconsider the court’s denial or grant of a prior motion for ",
+          "pages": [
+            20
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "10\nreconsideration.\n7.7 MOTIONS EXCEPTED FROM STANDARD BRIEFING SCHEDULE. \nThe following motions may be considered by the Court immediately after filing: motions for extension of time, \nmotions to exceed the page limitation, motions for hearings, motions to file surreply briefs, motions which \nclearly have no basis in law, and such other motions as the Court may otherwise determine from the parties to \nbe unopposed or in which the Court may clearly determine from the record before it the relative legal positions \nof the parties so as to obviate the need for the filing of opposition thereto. Objections to the motions will be \nentertained even after entry of an order on the motion, however. Any party desiring to submit an objection to \none of the foregoing motions must file a written objection within seven (7) days after service of the motion.",
+          "pages": [
+            21
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "11\n",
+          "pages": [
+            22
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "gamd-civil-parsed-v1-6a38fa2a50e3cc6a",
+      "sourceDocumentId": "parsed-gamd-6a38fa2a50e3cc6a",
+      "sourceUrl": "https://www.gamd.uscourts.gov/sites/gamd/files/Local_Rules-12_1_2022.pdf",
+      "pageIndex": 19,
+      "pageSpan": [
+        19,
+        22
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "gamd-civil:9",
+      "collectionId": "gamd-civil",
+      "districtId": "gamd",
+      "number": "9",
+      "citation": "Middle District of Georgia · Rule 9",
+      "title": "SOCIAL SECURITY APPEALS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 9: SOCIAL SECURITY APPEALS\n9.1 JUDICIAL REVIEW. \nJudicial review of any final decision of the Commissioner is obtained by filing a civil action pursuant to 42 \nU.S.C. § 405(G) alleging that the Commissioner's decision should be modified, reversed, or remanded. As the \nterm \"review\" indicates, the court in such cases is acting as a quasi appellate court. Its task is to affirm, modify, \nremand, or reverse the Commissioner's decision, and the standard for doing so is as set forth in the statute. \nMotions for summary judgment are not appropriate since the issue is not whether there is any genuine issue as \nto any material fact; instead, it is whether the Commissioner's findings of fact are supported by substantial \nevidence.\n9.2 SERVICE.\nIn cases arising under 42 U.S.C. §405(g) or 42 U.S.C. §1383(c)(3), the plaintiff will file a Complaint with the \nClerk, along with a Social Security Identification Form containing the full name and complete Social Security \nnumber of the plaintiff, including that of a minor plaintiff not otherwise identified by his or her full name. If \nthe plaintiff’s application for Social Security benefits was filed on another person’s wage-record, that person’s \nfull name and Social Security number shall also be provided. The identifying information is necessary for the \nCommissioner to obtain and produce the certified administrative record. The Social Security Identification \nForm will be lodged in CM/ECF as a restricted document and sent via Notice of Electronic Filing to the U.S. \nAttorney’s Office for the Middle District of Georgia and Regional Counsel for the Social Security \nAdministration through the CM/ECF system. After the Administrative Record is filed, the Clerk shall remove \nthe Social Security Identification Form from the docket.\nService will be considered complete when CM/ECF generates electronic service of the Complaint and Social \nSecurity Identification Form on the U.S. Atttorney’s Office and Regional Counsel for the Social Security \nAdministration. The U.S. Attorney’s Office for the Middle District of Georgia and the Regional Counsel for ",
+          "pages": [
+            22
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-24",
+          "path": [],
+          "type": "paragraph",
+          "text": "12 \nthe Social Security Administration agree not to raise insufficient service as a defense if service of those \ndocuments is made electronically through CM/ECF. The agreement not to raise insufficient service as a defense \nis intended to more efficiently move the processing of Social Security disability cases through the litigation life \ncycle. Nothing in Local Rule 9.2 will be deemed a waiver of service under Fed. R. Civ. P. 4(d). Local Rule \n9.2 does not apply to any other complaints or claims besides Social Security disability claims against the \nCommissioner of Social Security in his or her official capacity under 42 U.S.C. §405(g) or 42 U.S.C. § \n1383(c)(3). \n9.3 BRIEFING SCHEDULE.\nAfter service of an answer by the Commissioner, claimant will have thirty (30) days within which to file his \nbrief. The Commissioner must then submit a brief within thirty (30) days after receipt of claimant's \nbrief. Within fourteen (14) days after receiving the Commissioner's brief, claimant may submit a reply brief if \nso desired. \n9.4 EXTENSIONS OF TIME. \nThe Clerk of court and deputy clerks are authorized to grant one (1) extension of time for filing briefs in \nsocial security appeals. The party seeking the extension must make this request in writing with a copy to \nopposing counsel. Reasonable requests for extensions of time will be granted. If either party needs any \nadditional extensions of time for filing briefs, they must make their request by way of a motion to the court. \n9.5 PROCEDURES FOR APPLYING FOR ATTORNEY’S FEES UNDER 42 U.S.C. \n§§ 406(b) AND 1383(d)(2).\nA. If the plaintiff’s attorney seeks attorney’s fees under 42 U.S.C. §§ 406(b) or 1383(d)(2) a",
+          "pages": [
+            23
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "13\nmotion for approval of such fees must be filed no later than thirty (30) days after the date of \nthe Social Security letter sent to the plaintiff’s counsel of record at the conclusion of the \nAgency’s past-due benefit calculation stating the amount withheld for attorney’s fees.\nB. The defendant’s response, if any, shall be filed no later than thirty (30) days after the \nplaintiff’s attorney serves the motion on the defendant. \nC. Plaintiff shall file any reply within ten (10) days of service of defendant’s response.",
+          "pages": [
+            24
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "14\n",
+          "pages": [
+            25
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "gamd-civil-parsed-v1-6a38fa2a50e3cc6a",
+      "sourceDocumentId": "parsed-gamd-6a38fa2a50e3cc6a",
+      "sourceUrl": "https://www.gamd.uscourts.gov/sites/gamd/files/Local_Rules-12_1_2022.pdf",
+      "pageIndex": 22,
+      "pageSpan": [
+        22,
+        25
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "gamd-civil:16.1",
+      "collectionId": "gamd-civil",
+      "districtId": "gamd",
+      "number": "16.1",
+      "citation": "Middle District of Georgia · Rule 16.1",
+      "title": "PRETRIAL CONFERENCES AND PROCEDURES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 16.1: PRETRIAL CONFERENCES AND PROCEDURES\n16.1.1 PRETRIAL CONFERENCE. \nA civil case may be scheduled for pretrial conference anytime after the expiration of the discovery period. \nCounsel who will actually try the case and other counsel of record with authority to define issues, make \nstipulations and discuss settlement, shall attend the pretrial conference.\n16.1.2 PRETRIAL ORDER. \nThe parties shall submit a jointly proposed pretrial order or report in the form prescribed by the assigned judge \non the date specified in the notice of the pretrial conference. When entered by or at the direction of the assigned \njudge, the pretrial order shall supersede all prior pleadings, shall control the trial of the case, and shall be \namended only by order of the court and only upon a showing of good cause.\n",
+          "pages": [
+            25
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "gamd-civil-parsed-v1-6a38fa2a50e3cc6a",
+      "sourceDocumentId": "parsed-gamd-6a38fa2a50e3cc6a",
+      "sourceUrl": "https://www.gamd.uscourts.gov/sites/gamd/files/Local_Rules-12_1_2022.pdf",
+      "pageIndex": 25,
+      "pageSpan": [
+        25,
+        25
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "gamd-civil:16.2",
+      "collectionId": "gamd-civil",
+      "districtId": "gamd",
+      "number": "16.2",
+      "citation": "Middle District of Georgia · Rule 16.2",
+      "title": "MEDIATION ENCOURAGED",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 16.2: MEDIATION ENCOURAGED\nPrivate mediation at the expense of the parties is encouraged by the court. With the consent of all parties, the \ncourt will assist in the scheduling of mediation and the selection of a mediator. Nothing in this rule prevents \nthe parties from scheduling mediation without the court’s involvement.",
+          "pages": [
+            25
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "15\n",
+          "pages": [
+            26
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "gamd-civil-parsed-v1-6a38fa2a50e3cc6a",
+      "sourceDocumentId": "parsed-gamd-6a38fa2a50e3cc6a",
+      "sourceUrl": "https://www.gamd.uscourts.gov/sites/gamd/files/Local_Rules-12_1_2022.pdf",
+      "pageIndex": 25,
+      "pageSpan": [
+        25,
+        26
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "gamd-civil:26",
+      "collectionId": "gamd-civil",
+      "districtId": "gamd",
+      "number": "26",
+      "citation": "Middle District of Georgia · Rule 26",
+      "title": "DISCOVERY PLAN AND ORDER",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 26: DISCOVERY PLAN AND ORDER\nA. After responsive pleadings are filed in civil cases (except those hereafter identified as exempt), \nthe parties shall confer to discuss the nature and basis of their claims and the possibilities for a \nprompt settlement. The court will order the parties to develop a proposed scheduling/discovery \norder or report and will describe the required contents and set a deadline for its filing.\nB. After receiving the proposed, combined order or report, the court may consult with counsel by \nconference, telephone or mail before entering an order. \nC. The following categories of civil cases are exempt from this Rule and from the initial disclosure \nrequirements of F.R.Civ.P. 26(a)(1):\n(1) an action brought without counsel by a person in custody of the United States, a state, \nor a state subdivision;\n(2) an action for review on an administrative record;\n(3) an action to enforce or quash an administrative summons or subpoena;\n(4) a petition for habeas corpus or other proceeding to challenge a criminal conviction or \nsentence;\n(5) an action by the United States to recover benefit payments;\n(6) an action by the United States to collect on a student loan guaranteed by the United \nStates;\n(7) a proceeding ancillary to proceedings in other courts; and\n(8) an action to enforce an arbitration award.\n ",
+          "pages": [
+            26
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "16\n",
+          "pages": [
+            27
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "gamd-civil-parsed-v1-6a38fa2a50e3cc6a",
+      "sourceDocumentId": "parsed-gamd-6a38fa2a50e3cc6a",
+      "sourceUrl": "https://www.gamd.uscourts.gov/sites/gamd/files/Local_Rules-12_1_2022.pdf",
+      "pageIndex": 26,
+      "pageSpan": [
+        26,
+        27
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "gamd-civil:30",
+      "collectionId": "gamd-civil",
+      "districtId": "gamd",
+      "number": "30",
+      "citation": "Middle District of Georgia · Rule 30",
+      "title": "DEPOSITIONS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 30: DEPOSITIONS\n30.1 NONRESIDENT PLAINTIFFS. \nIt is the general policy of this court that a nonresident plaintiff may be deposed once at his own expense in this \ndistrict during the discovery period of the case. A nonresident, within the meaning of this Rule, is a party \nresiding outside the state of Georgia. The court may order differently if extenuating circumstances exist and \nwritten request is made by a party.\n30.2 TIME LIMITS. \nUnless otherwise authorized by the court or stipulated by the parties, a deposition is limited to one day of seven \nhours. See Rule 30(d)(2) F.R.Civ.P. The party taking the deposition shall have seven full hours to complete \nthe interrogation of the witness, exclusive of all breaks, exclusive of time for document review by counsel, and \nexclusive of the time for examination of the deponent by the party offering him for deposition [OR by the \nopposing party ***]. The parties should instruct the court reporter to keep track of the times of testimony and \nbreaks.\n*** As in a case where the witness is not offered for deposition by either party.",
+          "pages": [
+            27
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "17\n",
+          "pages": [
+            28
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "gamd-civil-parsed-v1-6a38fa2a50e3cc6a",
+      "sourceDocumentId": "parsed-gamd-6a38fa2a50e3cc6a",
+      "sourceUrl": "https://www.gamd.uscourts.gov/sites/gamd/files/Local_Rules-12_1_2022.pdf",
+      "pageIndex": 27,
+      "pageSpan": [
+        27,
+        28
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "gamd-civil:33.1",
+      "collectionId": "gamd-civil",
+      "districtId": "gamd",
+      "number": "33.1",
+      "citation": "Middle District of Georgia · Rule 33.1",
+      "title": "INTERROGATORIES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 33.1: INTERROGATORIES\nExcept with written permission of the court first obtained, interrogatories may not exceed twenty-five \n(25) to each party. Form, canned, excessive-in-number interrogatories are not usually approved. The answering \nparty must retype the questions with the answers and/or objections following immediately thereafter.\n",
+          "pages": [
+            28
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "gamd-civil-parsed-v1-6a38fa2a50e3cc6a",
+      "sourceDocumentId": "parsed-gamd-6a38fa2a50e3cc6a",
+      "sourceUrl": "https://www.gamd.uscourts.gov/sites/gamd/files/Local_Rules-12_1_2022.pdf",
+      "pageIndex": 28,
+      "pageSpan": [
+        28,
+        28
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "gamd-civil:34",
+      "collectionId": "gamd-civil",
+      "districtId": "gamd",
+      "number": "34",
+      "citation": "Middle District of Georgia · Rule 34",
+      "title": "REQUESTS FOR PRODUCTION OF DOCUMENTS AND THINGS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 34: REQUESTS FOR PRODUCTION OF DOCUMENTS AND THINGS\nExcept with written permission of the court first obtained, requests for production under Rule 34 of the Federal \nRules of Civil Procedure may not exceed ten (10) requests to each party.\n",
+          "pages": [
+            28
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "gamd-civil-parsed-v1-6a38fa2a50e3cc6a",
+      "sourceDocumentId": "parsed-gamd-6a38fa2a50e3cc6a",
+      "sourceUrl": "https://www.gamd.uscourts.gov/sites/gamd/files/Local_Rules-12_1_2022.pdf",
+      "pageIndex": 28,
+      "pageSpan": [
+        28,
+        28
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "gamd-civil:36",
+      "collectionId": "gamd-civil",
+      "districtId": "gamd",
+      "number": "36",
+      "citation": "Middle District of Georgia · Rule 36",
+      "title": "REQUESTS FOR ADMISSIONS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 36: REQUESTS FOR ADMISSIONS\nExcept with written permission of the court first obtained, requests for admissions under Rule 36 of the Federal \nRules of Civil Procedure may not exceed fifteen (15) requests to each party.\n",
+          "pages": [
+            28
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "gamd-civil-parsed-v1-6a38fa2a50e3cc6a",
+      "sourceDocumentId": "parsed-gamd-6a38fa2a50e3cc6a",
+      "sourceUrl": "https://www.gamd.uscourts.gov/sites/gamd/files/Local_Rules-12_1_2022.pdf",
+      "pageIndex": 28,
+      "pageSpan": [
+        28,
+        28
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "gamd-civil:37",
+      "collectionId": "gamd-civil",
+      "districtId": "gamd",
+      "number": "37",
+      "citation": "Middle District of Georgia · Rule 37",
+      "title": "MOTIONS TO COMPEL",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 37: MOTIONS TO COMPEL\nMotions to compel disclosure or discovery will not be considered unless they contain a statement certifying that \nmovant has in good faith conferred or attempted to confer with the opposing party in an effort to secure the \ninformation without court action.",
+          "pages": [
+            28
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "18\n",
+          "pages": [
+            29
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "gamd-civil-parsed-v1-6a38fa2a50e3cc6a",
+      "sourceDocumentId": "parsed-gamd-6a38fa2a50e3cc6a",
+      "sourceUrl": "https://www.gamd.uscourts.gov/sites/gamd/files/Local_Rules-12_1_2022.pdf",
+      "pageIndex": 28,
+      "pageSpan": [
+        28,
+        29
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "gamd-civil:48",
+      "collectionId": "gamd-civil",
+      "districtId": "gamd",
+      "number": "48",
+      "citation": "Middle District of Georgia · Rule 48",
+      "title": "CIVIL JURIES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 48: CIVIL JURIES\n48.1 JURIES. \n[Deleted]\n48.2 JUROR QUESTIONNAIRES. \nQuestionnaires completed by prospective jurors and information obtained from the questionnaires are for the \nexclusive use of the court and parties to cases scheduled for trial and shall only be used for purposes of jury \nselection. Attorneys for parties may check out completed questionnaires from the Clerk’s Office. Immediately \nafter trial, attorneys shall destroy all copies of completed questionnaires and any other documents containing \ninformation obtained from the completed questionnaires.\n48.3 CONTACT WITH JURORS. \nAttorneys, parties, or anyone acting on their behalf shall not contact any juror without express permission of \nthe Court and under such conditions the Court may prescribe. ",
+          "pages": [
+            29
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "19\n",
+          "pages": [
+            30
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "gamd-civil-parsed-v1-6a38fa2a50e3cc6a",
+      "sourceDocumentId": "parsed-gamd-6a38fa2a50e3cc6a",
+      "sourceUrl": "https://www.gamd.uscourts.gov/sites/gamd/files/Local_Rules-12_1_2022.pdf",
+      "pageIndex": 29,
+      "pageSpan": [
+        29,
+        30
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "gamd-civil:54.1",
+      "collectionId": "gamd-civil",
+      "districtId": "gamd",
+      "number": "54.1",
+      "citation": "Middle District of Georgia · Rule 54.1",
+      "title": "MOTIONS FOR ATTORNEY'S FEES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 54.1: MOTIONS FOR ATTORNEY'S FEES\nIn all cases in which the prevailing party is entitled to an award of attorney's fees, a motion for attorney's fees \nmust be filed within fourteen (14) days from the entry of judgment by the clerk unless otherwise provided by \nstatute. Failure to file such a motion within the prescribed time period will be deemed a waiver of attorney's \nfees.\nAll motions for attorney's fees when filed shall include the following:\n(1) An itemized bill in which all segments of time are identified as to the nature of the work \nperformed;\n(2) A breakdown of time for each attorney working on the case;\n(3) The hourly rate applicable and an explanation of how that hourly rate was arrived at; and\n(4) A certification by the requesting attorneys that the work performed was reasonably necessary \nto the preparation and presentation of the case. ",
+          "pages": [
+            30
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "20\n",
+          "pages": [
+            31
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "gamd-civil-parsed-v1-6a38fa2a50e3cc6a",
+      "sourceDocumentId": "parsed-gamd-6a38fa2a50e3cc6a",
+      "sourceUrl": "https://www.gamd.uscourts.gov/sites/gamd/files/Local_Rules-12_1_2022.pdf",
+      "pageIndex": 30,
+      "pageSpan": [
+        30,
+        31
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "gamd-civil:54.2",
+      "collectionId": "gamd-civil",
+      "districtId": "gamd",
+      "number": "54.2",
+      "citation": "Middle District of Georgia · Rule 54.2",
+      "title": "TAXATION OF COSTS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 54.2: TAXATION OF COSTS\n54.2.1 GENERALLY. \nThe clerk of the court shall tax costs as authorized by the law in all civil cases. See Fed.R.Civ.P. 54(d). The \nrequests for taxation of costs by the prevailing party shall be made on a Bill of Costs form provided by the \nclerk. The Bill of Costs form shall be supplemented with citations of authority and copies of invoices and \nother supporting documentation. Opposing counsel will be given the opportunity to respond to the prevailing \nparty's Bill of Costs.\n54.2.2 TIME FOR FILING. \nA Bill of Costs must be filed by the prevailing party within thirty (30) days from the entry of the judgment \nthat awarded the costs. Opposing counsel shall have twenty-one (21) days from the service of the Bill of \nCosts to file a response.",
+          "pages": [
+            31
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "21\n",
+          "pages": [
+            32
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "gamd-civil-parsed-v1-6a38fa2a50e3cc6a",
+      "sourceDocumentId": "parsed-gamd-6a38fa2a50e3cc6a",
+      "sourceUrl": "https://www.gamd.uscourts.gov/sites/gamd/files/Local_Rules-12_1_2022.pdf",
+      "pageIndex": 31,
+      "pageSpan": [
+        31,
+        32
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "gamd-civil:56",
+      "collectionId": "gamd-civil",
+      "districtId": "gamd",
+      "number": "56",
+      "citation": "Middle District of Georgia · Rule 56",
+      "title": "SUMMARY JUDGMENTS - STATEMENT OF FACTS REQUIRED",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 56: SUMMARY JUDGMENTS - STATEMENT OF FACTS REQUIRED\nThe movant for summary judgment under Rule 56 of the Federal Rules of Civil Procedure shall attach to the \nmotion a separate and concise statement of the material facts to which the movant contends there is no genuine \ndispute to be tried. Each material fact shall be numbered separately and shall be supported by specific citation \nto particular parts of materials in the record. Material facts not supported by specific citation to particular parts \nof materials in the record and statements in the form of issues or legal conclusions (rather than material facts) \nwill not be considered by the court. Affidavits and the introductory portions of briefs do not constitute a \nstatement of material facts.\nThe respondent to a motion for summary judgment shall attach to the response a separate and concise statement \nof material facts, numbered separately, to which the respondent contends there exists a genuine dispute to be \ntried. Response shall be made to each of the movant’s numbered material facts. All material facts contained \nin the movant’s statement which are not specifically controverted by specific citation to particular parts of \nmaterials in the record shall be deemed to have been admitted, unless otherwise inappropriate. The respondent \nto a motion for summary judgment may not assert insufficient knowledge to admit or deny a material fact \nasserted by the movant unless the respondent has complied with the provisions of Rule 56(d) of the Federal \nRules of Civil Procedure.\nAll documents and other record materials relied upon by a party moving for or opposing a motion for summary \njudgment shall be clearly identified for the court. Where possible, dates, specific page numbers, and line \nnumbers shall be given.",
+          "pages": [
+            32
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "22\n",
+          "pages": [
+            33
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "gamd-civil-parsed-v1-6a38fa2a50e3cc6a",
+      "sourceDocumentId": "parsed-gamd-6a38fa2a50e3cc6a",
+      "sourceUrl": "https://www.gamd.uscourts.gov/sites/gamd/files/Local_Rules-12_1_2022.pdf",
+      "pageIndex": 32,
+      "pageSpan": [
+        32,
+        33
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "gamd-civil:72",
+      "collectionId": "gamd-civil",
+      "districtId": "gamd",
+      "number": "72",
+      "citation": "Middle District of Georgia · Rule 72",
+      "title": "UNITED STATES MAGISTRATE JUDGE DUTIES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 72: UNITED STATES MAGISTRATE JUDGE DUTIES\n72.1 DUTIES UNDER 28 U.S.C. § 636(a). \nEach full-time United States Magistrate Judge for the Middle District of Georgia is authorized and empowered \n(except as otherwise ordered by a district judge) to conduct proceedings in the following matters and to enter \nsuch orders, verdicts, judgments, sentences, findings and/or recommendations relating thereto, consistent with \nthe Constitution and laws of the United States:\n(1) All petty offenses, which include Class B misdemeanors, Class C misdemeanors, and \ninfractions. All Class A misdemeanors, subject to the provisions regarding consent of the \ndefendant set forth in 18 U.S.C. § 3401(b).\n(2) All cases brought by prisoners filed under 42 U.S.C. § 1983 or Bivens vs. SixUnknown Agents \nof the Federal Bureau of Narcotics, 403 U.S. 388 (1970);\n(3) All applications for post-trial relief made by individuals convicted of criminal offenses, \nincluding, but not limited to, motions for writs of habeas corpus under 28 U.S.C. § 2241 et. \nseq., § 2254, and § 2255;\n(4) All social security appeals;\n(5) All actions filed pursuant to provisions of Title VII of the Civil Rights Act of 1964, as amended \nif referred by a district judge; and\n(6) Such other civil actions referred by a judge of this court for trial and/or disposition provided \nall parties therein consent.\n72.2 NONDISPOSITIVE PRETRIAL MATTERS. \nIn accordance with 28 U.S.C. § 636(b)(1)(A), magistrate judges shall hear and determine all pretrial criminal \nand civil matters assigned by the judges of this court except a motion of injunctive relief, for judgment on the ",
+          "pages": [
+            33
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "23\npleadings, for summary judgment, to dismiss or quash an indictment or information made by the defendant, to \nsuppress evidence in a criminal case, to dismiss or to permit maintenance of a class action, to dismiss for failure \nto state a claim upon which relief can be granted, and to involuntarily dismiss an action.\n72.3 DISPOSITIVE PRETRIAL MATTERS. \nIn accordance with 28 U.S.C. § 636(b)(1)(B), magistrate judges are hereby authorized and empowered at the \nelection of the district judge to conduct hearings, including evidentiary hearings, and to submit to the judges of \nthis court PROPOSED FINDINGS OF FACT AND RECOMMENDATIONS for the disposition by said judges \nof the following motions: a motion of injunctive relief, for judgment on the pleadings, for summary judgment, \nto dismiss or quash an indictment or information made by the defendant, to suppress evidence in a criminal \ncase, to dismiss or to permit maintenance of a class action, to dismiss for failure to state a claim upon which \nrelief can be granted, and to involuntarily dismiss an action.\n72.4 OTHER DUTIES OF MAGISTRATE JUDGES. \nA magistrate judge is also authorized to: \n(a) Conduct arraignments in cases not triable by the magistrate judge to the extent of taking a not \nguilty plea;\n(b) Receive grand jury returns in accordance with Rule 6(f) of the Federal Rules of Criminal \nProcedure;\n(c) Issue subpoenas, writs of habeas corpus ad testificandum or habeas corpus ad prosequendum \nor other orders necessary to obtain the presence of parties or witnesses or evidence needed for \ncourt proceedings;\n(d) Order the exoneration or forfeiture of bonds;",
+          "pages": [
+            34
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "24\n(e) Conduct examinations of judgment debtors in accordance with Rule 69 of the Federal Rules of \nCivil Procedure; and\n(f) Any and all other duties of a judicial officer of this court as are not inconsistent with the \nConstitution and laws of the United States; it being the express intention of the court to \nauthorize magistrate judges to conduct any and all proceedings in this court permitted by 28 \nU.S.C. § 636 whether or not specifically set forth in these rules.\n(g) Approve and sign scheduling/discovery orders submitted pursuant to Local Rule 26 on all full \nconsent cases.\n",
+          "pages": [
+            35
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "gamd-civil-parsed-v1-6a38fa2a50e3cc6a",
+      "sourceDocumentId": "parsed-gamd-6a38fa2a50e3cc6a",
+      "sourceUrl": "https://www.gamd.uscourts.gov/sites/gamd/files/Local_Rules-12_1_2022.pdf",
+      "pageIndex": 33,
+      "pageSpan": [
+        33,
+        35
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "gamd-civil:73",
+      "collectionId": "gamd-civil",
+      "districtId": "gamd",
+      "number": "73",
+      "citation": "Middle District of Georgia · Rule 73",
+      "title": "SPECIAL MASTER REFERENCES AND TRIAL BY CONSENT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 73: SPECIAL MASTER REFERENCES AND TRIAL BY CONSENT\n(a) In accordance with 28 U.S.C. § 636 (b)(2), magistrate judges are hereby authorized and \nempowered to serve as a special master upon specific designation by the judge to whom said \nmatter is assigned.\n(b) Under 28 U.S.C. § 636(c), and with the consent of all parties, magistrate judges are specifically \nauthorized and empowered to conduct any and all proceedings in a jury or non-jury civil matter \nand to order the entry of judgment therein.",
+          "pages": [
+            35
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-37",
+          "path": [],
+          "type": "paragraph",
+          "text": "25\n",
+          "pages": [
+            36
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "gamd-civil-parsed-v1-6a38fa2a50e3cc6a",
+      "sourceDocumentId": "parsed-gamd-6a38fa2a50e3cc6a",
+      "sourceUrl": "https://www.gamd.uscourts.gov/sites/gamd/files/Local_Rules-12_1_2022.pdf",
+      "pageIndex": 35,
+      "pageSpan": [
+        35,
+        36
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "gamd-civil:79",
+      "collectionId": "gamd-civil",
+      "districtId": "gamd",
+      "number": "79",
+      "citation": "Middle District of Georgia · Rule 79",
+      "title": "FILES AND EXHIBITS AND REMOVAL THEREOF",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-37",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 79: FILES AND EXHIBITS AND REMOVAL THEREOF\n79.1 REMOVAL OF ORIGINAL PAPERS. \nOriginal papers in the custody of the clerk shall not be removed except by permission of the clerk and then, \nonly after a receipt provided by the clerk has been signed by the removing party.\n79.2 EXHIBITS AND DOCUMENTS. \nUnless otherwise directed by the presiding judge, all exhibits received into evidence at any trial or hearing shall \nbe provided to the clerk in electronic format as specified in the court’s administrative procedures guide. A \nphotograph of physical or demonstrative exhibits received into evidence shall be provided in electronic format \nas specified in the court’s administrative procedures guide. Electronic exhibits shall become part of the \nelectronic record. Before jury deliberations begin, counsel must ensure that electronic exhibits are identical to \nexhibits admitted at trial.\nSensitive exhibits received in evidence, which shall include but are not limited to, drugs, articles of high \nmonetary value, weapons or contraband of any kind may, at the discretion of the presiding judge, be entrusted \nto the custody of the United States Attorney or to the arresting or investigative agency of the government, who \nwill maintain the integrity of these exhibits pending disposition of the case and for any appeal period thereafter.",
+          "pages": [
+            36
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-38",
+          "path": [],
+          "type": "paragraph",
+          "text": "26\n",
+          "pages": [
+            37
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "gamd-civil-parsed-v1-6a38fa2a50e3cc6a",
+      "sourceDocumentId": "parsed-gamd-6a38fa2a50e3cc6a",
+      "sourceUrl": "https://www.gamd.uscourts.gov/sites/gamd/files/Local_Rules-12_1_2022.pdf",
+      "pageIndex": 36,
+      "pageSpan": [
+        36,
+        37
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "gamd-civil:83.1",
+      "collectionId": "gamd-civil",
+      "districtId": "gamd",
+      "number": "83.1",
+      "citation": "Middle District of Georgia · Rule 83.1",
+      "title": "ATTORNEYS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-38",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 83.1: ATTORNEYS\n83.1.1 ADMISSIONS\nA. ROLL OF ATTORNEYS. The bar of this Court shall consist of those persons heretofore \nadmitted to practice in this court and those who may hereafter be admitted in accordance with \nthis rule.\nB. ELIGIBILITY. To be eligible to practice in this court an attorney must have been admitted \nto practice in the trial courts of the State of Georgia and be an active member in good standing \nof the State Bar of Georgia. Only attorneys who are admitted to practice in this Court, or who \nhave otherwise obtained permission under Rule 83.1.2c, may appear as counsel.\nC. PROCEDURE FOR ADMISSION.\n(1) Each applicant for admission to the bar of this Court shall file with the clerk a written \npetition on the form provided by the clerk setting forth his state bar number and reciting \nthe fact that he is now a member in good standing of the State Bar of Georgia. Each \napplicant shall also sign an Oath of Admission.\n(2) The applicant for admission, after completing the petition and signing the oath, shall \nsubmit the same to the clerk of the court with the prescribed enrollment fee. If the \npetition and oath are in proper form, the Clerk for the judges of this court or a judge \nwill sign an order admitting petitioner to practice in this court. A certificate will issue \nfrom the clerk's office. Unless requested by the court, petitioner will not be required ",
+          "pages": [
+            37
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "27\nto make a personal appearance before the court.\n83.1.2 DUTIES\nA. DESIGNATION OF LEAD COUNSEL. In civil cases only, counsel shall designate the \nname, address, and telephone number of the attorney who shall act as lead counsel in the case \non the signature page of the first pleading filed in every action. In the absence of such \ndesignation, the first name appearing on the pleading shall be designated lead counsel. Any \nsubsequent change in lead counsel shall be noted by the filing of a notice.\nB. BAR NUMBERS. All counsel are required to designate their State Bar of Georgia Number \non the signature page of each pleading filed.\nC. PERMISSION TO PRACTICE IN A PARTICULAR CASE. Any member in good \nstanding of the bar of any other district court of the United States who is not a member of the \nState Bar of Georgia and who does not reside in or maintain an office in this state for the \npractice of law, will be permitted to appear and participate in a particular case, civil or criminal, \nin this court subject to the following provisions:\n(1) In a civil case in which a party is represented only by counsel not a member of the bar \nof this court, such counsel must designate some willing member of the local bar of this \ncourt upon whom motions and papers may be served and who will be designated as \nlocal counsel. That designation shall not become effective until such local counsel has \nentered a notice of appearance therein.",
+          "pages": [
+            38
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-40",
+          "path": [],
+          "type": "paragraph",
+          "text": "28\nIn addition, in any case in which an attorney makes an appearance in any action or case \npending in this court and said attorney is not a member of the bar of this court, he shall \ncertify that he is a member in good standing of a district court of the United States and\nshall file a certificate of good standing from that court with the clerk of this court.\n(2) Any attorney representing the United States government, or any agency thereof, and \nany attorney employed by the Community Defender Organization of this district may \nappear and participate in particular actions or proceedings in his official capacity \nwithout a petition for admission or certificate of good standing, provided he is a \nmember in good standing of a bar of a district court of the United States.\n83.1.3 ENTRY OF APPEARANCE. \nNo Attorney shall appear in that capacity before this court until he has entered an appearance by filing a signed \nentry of appearance form or by filing a signed pleading in a pending action. An entry of appearance shall state \n(1) the style and number, (2) the identity of the party for whom the appearance is made, and (3) the name and \ncurrent office address and telephone number of the attorney. The filing of any pleading, unless otherwise \nspecified by the court, shall constitute an appearance by the person(s) signing such pleading. \n83.1.4 WITHDRAWAL OF ATTORNEYS IN CIVIL CASES. \nIt is the longstanding policy of this court that attorneys will investigate claims before filing a complaint and, if \na complaint is filed, that the attorney will remain with the case until its conclusion. Nevertheless, if there is a \ncompelling reason to withdraw, the attorney must comply with the following procedure.\nIf co-counsel remains in the case, or if substitute counsel enters an appearance prior to, or contemporaneous \nwith the withdrawal, then the attorney who wishes to withdraw as counsel for a party continuing to be ",
+          "pages": [
+            39
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-41",
+          "path": [],
+          "type": "paragraph",
+          "text": "29\nrepresented may, and without leave of the court, withdraw from representing a party upon filing a notice of \nwithdrawal.\nIf the withdrawal would leave the client unrepresented, then the attorney who wishes to withdraw as counsel \nfor any party therein, shall submit a written motion for an order of court permitting such withdrawal. Such \nmotion shall state that the attorney has given due written notice to his client respecting such intention to \nwithdraw fourteen (14) days (or such lesser time as the court may permit in any specific instance) prior to \nsubmitting the request to the court and/or that such withdrawal is with the client’s consent. Such request may \nbe granted unless in the judge’s discretion to do so would delay the trial of the action or otherwise interrupt the \norderly operation of the court or be manifestly unfair to the client. The attorney requesting an order permitting \nwithdrawal shall give notice to opposing counsel and shall file with the clerk in each such action and serve upon \nhis client personally or at his last known address, a notice which shall contain at least the following information:\n(a) that the attorney wishes to withdraw;\n(b) that the court retains jurisdiction of the action;\n(c) that the client has the burden of keeping the court informed respecting where notices, pleadings \nor other papers may be served;\n(d) that the client has the obligation to prepare for trial or hire other counsel to prepare for trial \nwhen the trial date has been set;\n(e) that if the client fails or refuses to meet these burdens, the client may suffer adverse \nconsequences, including, in criminal cases, bond forfeiture and arrest;\n(f) the dates of any scheduled proceedings, including trial, and that holding of such \nproceedings will not be affected by the withdrawal of counsel;\n(g) that services of notices may be made upon the client at his last known address; and,\n(h) unless the withdrawal is with the client’s consent, the client’s right to object within fourteen \n(14) days of the date of the notice.",
+          "pages": [
+            40
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-42",
+          "path": [],
+          "type": "paragraph",
+          "text": "30\nThe client shall have fourteen (14) days from the date of the notice to file objections to the withdrawal. If the \ncourt enters an order permitting withdrawal, the client shall be notified at his last known address by the Clerk’s \nOffice of the effective date of the withdrawal; thereafter all notices or other papers may be served on the party \ndirectly by mail at the last known address of the party until new counsel enters an appearance. \n83.1.5 LEAVES OF ABSENCE. \nFormal applications by attorneys for leaves of absence should not be filed and will not be acted upon unless the \nattorney has been notified by the court to appear during the time he wishes to be absent.\n",
+          "pages": [
+            41
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "gamd-civil-parsed-v1-6a38fa2a50e3cc6a",
+      "sourceDocumentId": "parsed-gamd-6a38fa2a50e3cc6a",
+      "sourceUrl": "https://www.gamd.uscourts.gov/sites/gamd/files/Local_Rules-12_1_2022.pdf",
+      "pageIndex": 37,
+      "pageSpan": [
+        37,
+        41
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "gamd-civil:83.2",
+      "collectionId": "gamd-civil",
+      "districtId": "gamd",
+      "number": "83.2",
+      "citation": "Middle District of Georgia · Rule 83.2",
+      "title": "RULES GOVERNING ATTORNEY DISCIPLINE",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-42",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 83.2: RULES GOVERNING ATTORNEY DISCIPLINE\nPREFACTORY STATEMENT\nNothing contained in these rules shall be construed to deny the Court its inherent power to maintain control \nover the proceedings conducted before it or to deny the Court those powers derived from statute, rule of \nprocedure, or other rules of court.\nWhen alleged attorney misconduct is brought to the attention of the Court, whether by a Judge of the Court, \nany lawyer admitted to practice before the Court, any officer or employee of the Court, or otherwise, the Court \nmay, in its discretion, dispose of the matter through the use of its inherent, statutory, or other powers; refer the \nmatter to an appropriate state bar agency for investigation and disposition; refer the matter to the local grievance \ncommittee as hereinafter defined; or take any other action the court deems appropriate including referring the \nmatter for possible investigative and criminal prosecution. These procedures are not mutually exclusive.",
+          "pages": [
+            41
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-43",
+          "path": [],
+          "type": "paragraph",
+          "text": "31\n83.2.1 STANDARDS FOR PROFESSIONAL CONDUCT.\nA. Acts or omissions by an attorney admitted to practice before this Court, individually or in \nconcert with any other person or persons, which violate the Code of Professional Responsibility \nor Rules of Professional Conduct adopted by this Court shall constitute misconduct and shall \nbe grounds for discipline, whether or not the act or omission occurred in the course of an \nattorney/client relationship. Attorneys practicing before this Court shall be governed by this \nCourt's Local Rules, by the Rules of Professional Conduct adopted by the highest court of the \nstate in which this Court sits, as amended from time to time by that state court, and, to the \nextent not inconsistent with the preceding, the American Bar Association Model Rules of \nProfessional Conduct, except as otherwise provided by specific Rule of this Court. \nB. Discipline for misconduct defined in these rules may consist of (1) disbarment, (2) suspension, \n(3) reprimand, (4) monetary sanctions, (5) removal from this Court's roster of attorneys eligible \nfor practice before this Court, or (6) any other sanction the Court may deem appropriate.\n83.2.2 GRIEVANCE COMMITTEE.\nA. The Court, consisting of the active Judges thereof, may appoint a [at least one] standing \ncommittee consisting of at least five members of the bar to be known as the \"Grievance \nCommittee.\" One of those first appointed shall serve a term of one year; two for two years; \nand the remainder and all thereafter appointed for a term of three years. Each member shall ",
+          "pages": [
+            42
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-44",
+          "path": [],
+          "type": "paragraph",
+          "text": "32\nserve until his or her successor has been appointed. The Court may vacate any such \nappointment at any time. The Court shall designate one of the members to serve as chairman. \nA majority of the committee shall constitute a quorum.\nB. Purpose and Function. The purpose and function of the Committee is to conduct, upon referral \nby the Court, investigations of alleged misconduct of any member of the Bar of this Court, or \nany attorney appearing and participating in any proceeding before the Court; to conduct, upon \nreferral by the Court, inquiries and investigations into allegations of inadequate performance \nby an attorney practicing before the Court, as hereinafter provided; to conduct and preside over \ndisciplinary hearings when appropriate and as hereinafter provided; and to submit written \nfindings and recommendations to the Court for appropriate action by the Court, except as \notherwise described herein. The members of the Grievance Committee, while serving in their \nofficial capacities, shall be considered to be representatives of and acting under the powers and \nimmunities of the Court, and shall enjoy all such immunities while acting in good faith and in \ntheir official capacities.\nC. Jurisdiction and Powers\n(1) The Court may, in its discretion, refer to the Committee any accusation or evidence of \nmisconduct by way of violation of the disciplinary rules on the part of any member of \nthe bar with respect to any professional matter before this Court for such an \ninvestigation, hearing, and report as the Court deems advisable. The Committee may, \nin its discretion, refer such matters to an appropriate State Bar for preliminary \ninvestigation, or may request the Court to appoint special counsel to assist in or \nexclusively conduct such proceedings, as hereinafter provided in these rules. (See Rule ",
+          "pages": [
+            43
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-45",
+          "path": [],
+          "type": "paragraph",
+          "text": "33\n83.2.11, infra.). The Court may also, in its discretion, refer to the Committee any \nmatter concerning an attorney's failure to maintain an adequate level of competency in \nhis or her practice before this Court, as hereinafter provided. (See Rule 83.2.8, infra.). \nThe Committee may under no circumstances initiate and investigate such matters \nwithout prior referral by the Court.\n(2) The Committee shall be vested with such powers as are necessary to conduct the proper \nand expeditious disposition of any matter referred by the Court, including the power to \ncompel the attendance of witnesses, to take or cause to be taken the deposition of any \nwitnesses, and to order the production of books, records, or other documentary \nevidence, and those powers described elsewhere in these rules. The Chairman, or in \nhis or her absence each member of the Committee, has the power to administer oaths \nand affirmations to witnesses.\n83.2.3 DISCIPLINARY PROCEEDINGS.\nA. When misconduct or allegations of misconduct which, if substantiated, would warrant \ndiscipline on the part of an attorney admitted to practice before this Court shall come to the \nattention of a Judge of this Court, whether by complaint or otherwise, the Judge may, in his or \nher discretion, refer the matter to the Grievance Committee for investigation and, if warranted, \nthe prosecution of formal disciplinary proceedings or the formulation of such other \nrecommendation as may be appropriate. \nB. Should the Grievance Committee conclude, after investigation and review, that a formal \ndisciplinary proceeding should not be initiated against an attorney because sufficient evidence ",
+          "pages": [
+            44
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-46",
+          "path": [],
+          "type": "paragraph",
+          "text": "34\nis not present or for any other valid reason, the Committee shall file with the Court a \nrecommendation for disposition of the matter, whether by dismissal, admonition, deferral, or \nany other action. In cases of dismissal, the attorney who is the subject of the investigation need \nnot be notified that a complaint has been submitted or of its ultimate disposition. All \ninvestigative reports, records and recommendations generated by or on behalf of the Committee \nunder such circumstances shall remain strictly confidential.\nC. If the Committee concludes from preliminary investigation, or otherwise, that probable cause \nexists, the Committee shall file with the Court a written report of its investigation, stating with \nspecificity the facts supporting its conclusion, and shall apply to the Court for the issuance of \nan order requiring the attorney to show cause within thirty (30) days after service of that order \nwhy the attorney should not be disciplined. The order to show cause shall set forth the \nparticular act or acts of conduct for which he or she is sought to be disciplined. A copy of the \nCommittee's written report should be provided to the attorney along with the show cause order. \nThe accused attorney may file with the Committee within fourteen (14) days of service of the \norder a written response to the order to show cause. After receipt of the attorney's response, if \nany, the Committee may request that the Court rescind its previously issued order to show \ncause. If the show cause order is not rescinded, and upon at least fourteen (14) days notice, the \ncause shall be set for hearing before the Committee. A record of all proceedings before the \nCommittee shall be made, and shall be made available to the attorney. That record, and all \nother materials generated by or on behalf of the Committee or in relation to any disciplinary \nproceedings before the Committee, shall in all other respects remain strictly confidential unless \nand until otherwise ordered by the Court. In the event the attorney does not appear, the \nCommittee may recommend summary action and shall report its recommendation forthwith to \nthe Court. In the event that the attorney does appear, he or she shall be entitled to be represented ",
+          "pages": [
+            45
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-47",
+          "path": [],
+          "type": "paragraph",
+          "text": "35\nby counsel, to present witnesses and other evidence on his or her behalf, and to confront and \ncross examine witnesses against him. Except as otherwise ordered by the Court or provided in \nthese Rules, the disciplinary proceedings before the Committee shall be guided by the spirit of \nthe Federal Rules of Evidence. Unless he or she asserts a privilege or right properly available \nto him under applicable federal or state law, the accused attorney may be called as a witness \nby the Committee to make specific and complete disclosure of all matters material to the charge \nof misconduct.\nD. Upon completion of a disciplinary proceeding, the Committee shall make a full written report \nto the Court. The Committee shall include its findings of fact as to the charges of misconduct, \nrecommendations as to whether or not the accused attorney should be found guilty of \nmisconduct justifying disciplinary actions by the Court, and recommendations as to the \ndisciplinary measures to be applied by the Court. The report shall be accompanied by a \ntranscript of the proceedings before the Committee, all pleadings, and all evidentiary exhibits. \nA copy of the report and recommendation shall also be furnished the attorney. The Committee's \nwritten report, transcripts of the proceedings, and all related materials shall remain confidential \nunless and until otherwise ordered by the Court.\nE. Upon receipt of the Committee's finding that misconduct occurred, the Court shall issue an \norder requiring the attorney to show cause why the Committee's recommendation should not \nbe adopted by the Court. The Court may, after considering the attorney's response, by majority \nvote of the active Judges thereof, adopt, modify, or reject the Committee's findings that \nmisconduct occurred, and may either impose those sanctions recommended by the Committee \nor fashion whatever penalties provided by the rules which it deems appropriate.",
+          "pages": [
+            46
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-48",
+          "path": [],
+          "type": "paragraph",
+          "text": "36\n83.2.4 ATTORNEYS CONVICTED OF CRIMES.\nA. Upon the filing with this Court of a certified copy of a judgment of conviction demonstrating \nthat any attorney admitted to practice before the Court has been convicted in any court of the \nUnited States, or the District of Columbia, or of any state, territory, commonwealth, or \npossession of the United States of any serious crime as herein defined, the Court shall enter an \norder immediately suspending that attorney, whether the conviction resulted from a plea of \nguilty, nolo contendere, verdict after trial, or otherwise, and regardless of the pendency of any \nappeal. The suspension so ordered shall remain in effect until final disposition of the \ndisciplinary proceedings to be commenced upon such conviction. A copy of such order shall \nbe immediately served upon the attorney. Upon good cause shown, the Court may set aside \nsuch order when it appears in the interest of justice to do so.\nB. The term \"serious\" crime shall include any felony and any lesser crime a necessary element of \nwhich, as determined by the statutory or common law definition of such crime in the \njurisdiction in which it was entered, involves false swearing, misrepresentation, fraud, deceit, \nbribery, extortion, misappropriation, theft, or the use of dishonesty, or an attempt, conspiracy, \nor solicitation of another to commit a \"serious crime.”\nC. A certified copy of a judgment of conviction of an attorney for any crime shall be conclusive \nevidence of the commission of that crime in any disciplinary proceeding instituted against that \nattorney based on the conviction.\nD. Upon the filing of a certified copy of a judgment of conviction of any attorney for a serious \ncrime, the Court may, in addition to suspending that attorney in accordance with the provisions ",
+          "pages": [
+            47
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-49",
+          "path": [],
+          "type": "paragraph",
+          "text": "37\nof this rule, also refer the matter to the Grievance Committee for institution of disciplinary \nproceedings in which the sole issue to be determined shall be the extent of the final discipline \nto be imposed as a result of the conduct resulting in the conviction, provided that a disciplinary \nproceeding so instituted will not be brought to final hearing until all appeals from the conviction \nare concluded.\nE. An attorney suspended under the provisions of this rule will be reinstated immediately upon \nthe filing of a certificate demonstrating that the underlying conviction of a serious crime has \nbeen reversed, but the reinstatement will not terminate any disciplinary proceedings then \npending against the attorney, the disposition of which shall be determined by the Committee \non the basis of all available evidence pertaining to both guilt and the extent of the discipline to \nbe imposed.\n83.2.5 DISCIPLINE IMPOSED BY OTHER COURTS.\nA. An attorney admitted to practice before this Court shall, upon being subjected to suspension or \ndisbarment by a court of any state, territory, commonwealth, or possession of the United States, \nor upon being subject to any form of public discipline, including but not limited to suspension \nor disbarment, by any other court of the United States or the District of Columbia, promptly \ninform the Clerk of this Court of such action.\nB. Upon notification from any source that an attorney admitted to practice before this Court has\nbeen disciplined by another court as described above, the Clerk shall obtain a copy of any state \nor federal court orders regarding the discipline. This Court may then refer the matter to the \nGrievance Committee for a recommendation for appropriate action, or may issue a notice ",
+          "pages": [
+            48
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-50",
+          "path": [],
+          "type": "paragraph",
+          "text": "38\ndirected to the attorney containing:\n(1) A copy of the judgment or order from the other court, and\n(2) An order to show cause directing that the attorney inform this Court, within thirty (30)\ndays after service of that order upon the attorney, of any claim by the attorney \npredicated upon the grounds set forth in subsection E, supra, that the imposition of \nidentical discipline by the Court would be unwarranted and the reasons therefor.\nC. In the event that the discipline imposed in the other jurisdiction has been stayed there, any \nreciprocal disciplinary proceedings instituted or discipline imposed in this Court shall be \ndeferred until such stay expires.\nD. After consideration of the response called for by the order issued pursuant to subsection B, \nsupra, or after expiration of the time specified in that order, the Court may impose the identical \ndiscipline or may impose any other sanction the Court may deem appropriate.\nE. A final adjudication in another court that an attorney has been guilty of misconduct shall \nestablish conclusively the misconduct for purpose of a disciplinary proceeding in this Court, \nunless the attorney demonstrates and the Court is satisfied that upon the face of the record upon \nwhich the discipline in another jurisdiction is predicated it clearly appears that:\n(1) The procedure in that other jurisdiction was so lacking in notice or opportunity to be \nheard as to constitute a deprivation of due process; or\n(2) there was such an infirmity of proof establishing misconduct as to give rise to the clear \nconviction that this Court could not, consistent with its duty, accept as final the \nconclusion on that subject; or",
+          "pages": [
+            49
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-51",
+          "path": [],
+          "type": "paragraph",
+          "text": "39\n(3) the imposition of the same discipline by this Court would result in grave injustice; or\n(4) the misconduct established is deemed by this Court to warrant substantially different \ndiscipline.\nF. This Court may at any stage ask the Grievance Committee to conduct disciplinary proceedings \nor to make recommendations to the Court for appropriate action in light of the imposition of \nprofessional discipline by another court.\n83.2.6 DISBARMENT ON CONSENT OR RESIGNATION IN OTHER COURTS.\nA. Any attorney admitted to practice before this Court shall, upon being disbarred on consent or \nresigning from any other bar while an investigation into allegations of misconduct is pending, \npromptly inform the Clerk of this Court of such disbarment on consent or resignation.\nB. An attorney admitted to practice before this Court who shall be disbarred on consent or resign \nfrom the bar of any other court of the United States or the District of Columbia, or from the bar \nof any state, territory, commonwealth, or possession of the United States while an investigation \ninto allegations of misconduct is pending shall, upon the filing with this Court of a certified \ncopy of the judgment or order accepting such disbarment on consent or resignation, cease to be \npermitted to practice before this Court and be stricken from the role of attorneys admitted to \npractice before this Court.",
+          "pages": [
+            50
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-52",
+          "path": [],
+          "type": "paragraph",
+          "text": "40\n83.2.7 DISBARMENT ON CONSENT WHILE UNDER DISCIPLINARY INVESTIGATION \nOR PROSECUTION.\nA. Any attorney admitted to practice before this Court who is the subject of an investigation into, \nor a pending proceeding involving, allegations of misconduct may consent to disbarment, but \nonly by delivering to this Court an affidavit stating that the attorney desires to consent to \ndisbarment and that:\n1. The attorney's consent is freely and voluntarily rendered; the attorney is not being \nsubjected to coercion or duress; the attorney is fully aware of the implications of so \nconsenting;\n2. the attorney is aware that there is a presently pending investigation or proceeding \ninvolving allegations that there exist grounds for the attorney's discipline the nature of \nwhich the attorney shall specifically set forth;\n3. the attorney acknowledges that the material facts so alleged are true; and\n4. the attorney so consents because the attorney knows that if charges were predicated \nupon the matters under investigation, or if the proceeding were prosecuted, the attorney \ncould not successfully defend himself.\nB. Upon receipt of the required affidavit, this Court shall enter an order disbarring the attorney.\nC. The order disbarring the attorney on consent shall be a matter of public record. However, the \naffidavit required pursuant to the provisions of this rule shall not be publicly disclosed or made \navailable for use in any other proceeding except upon order of this Court.",
+          "pages": [
+            51
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-53",
+          "path": [],
+          "type": "paragraph",
+          "text": "41\n83.2.8 INCOMPETENCE AND INCAPACITY.\nA. When it appears that an attorney for whatever reason is failing to perform to an adequate level \nof competence necessary to protect his or her clients' interests, the Court may take any remedial \naction which it deems appropriate, including but not limited to referral of the affected attorney \nto appropriate institutions and professional personnel for assistance in raising the affected \nattorney's level of competency. The Court may also, in its discretion, refer the matter to the \nGrievance Committee for further investigation and recommendation.\nB. A referral to the Grievance Committee of any matter concerning an attorney's failure to \nmaintain an adequate level of competency in his or her practice before this Court is not a \ndisciplinary matter and does not implicate the formal procedures previously described in these \nRules. Upon a referral of this sort, the Grievance Committee may request that the attorney \nmeet with it informally and explain the circumstances which gave rise to the referral and may \nconduct such preliminary inquiries as it deems advisable. If after meeting with the attorney \nand conducting its preliminary inquiries the Committee determines that further attention is not \nneeded, the Committee shall notify the referring Judge and consider all inquiries terminated.\nC. If after meeting with the attorney and conducting its preliminary inquiries the Committee \ndeems the matter warrants further action, it may recommend to the attorney that the attorney \ntake steps to improve the quality of his or her professional performance and shall specify the \nnature of the recommended action designed to effect such improvement. The attorney shall be \nadvised of any such recommendation in writing and be given the opportunity to respond \nthereto, to seek review or revocation of the recommendation, or to suggest alternatives thereto. \nThe Committee may, after receiving such response, modify, amend, revoke, or adhere to its ",
+          "pages": [
+            52
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-54",
+          "path": [],
+          "type": "paragraph",
+          "text": "42\noriginal recommendation. If the attorney agrees to comply with the Committee's final \nrecommendation, the Committee shall report to the referring Judge that the matter has been \nresolved by the consent of the affected attorney. The Committee may monitor the affected \nattorney's compliance with its recommendation and may request the assistance of the Court in \nensuring that the attorney is complying with the final recommendation.\nD. If the Committee finds that there is a substantial likelihood that the affected attorney's continued \npractice of law may result in serious harm to the attorney's clients pending completion of the \nremedial program, it may recommend that the Court consider limiting or otherwise imposing \nappropriate restrictions on the attorney's continuing practice before the Court. The Court may \ntake any action which it deems appropriate to effectuate the Committee's recommendation.\nE. Any attorney who takes exception with the Committee's final recommendation shall have the \nright to have the Court, consisting of the active Judges thereof, consider the recommendation \nand the response of the affected attorney. The Court may, after considering the attorney's \nresponse, by majority vote of the active Judges thereof, adopt, modify, or reject the Committee's \nrecommendations as to the necessary remedial actions and may take whatever actions it deems \nappropriate to ensure the attorney's compliance.\nF. All information, reports, records, and recommendations gathered, possessed, or generated by \nor on behalf of the Committee in relation to the referral of a matter concerning an attorney's \nfailure to maintain an adequate level of competency in his or her practice before this Court shall \nbe confidential unless and until otherwise ordered by the Court.\nG. Nothing contained herein and no action taken hereunder shall be construed to interfere with or ",
+          "pages": [
+            53
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-55",
+          "path": [],
+          "type": "paragraph",
+          "text": "43\nsubstitute for any procedure relating to the discipline of any attorney as elsewhere provided in \nthese rules. Any disciplinary actions relating to the inadequacy of an attorney's performance \nshall occur apart from the proceedings of the Committee in accordance with law and as directed \nby the Court.\n83.2.9 REINSTATEMENT.\nA. After Disbarment or Suspension\nAn attorney suspended for three months or less shall be automatically reinstated at the end of \nthe period of suspension upon the filing with this Court of an affidavit of compliance with the \nprovisions of the order. An attorney suspended for more than three months or disbarred may \nnot resume the practice of law before this Court until reinstated by order of the Court.\nB. Time of Application Following Disbarment\nAn attorney who has been disbarred after hearing or consent may not apply for reinstatement \nuntil the expiration of at least five years from the effective date of disbarment.\nC. Hearing on Application\nPetitions for reinstatement by a disbarred or suspended attorney under this Rule shall be filed \nwith the Chief Judge of this Court. The Chief Judge may submit the petition to the Court or \nmay, in his or her discretion, refer the petition to the Grievance Committee which shall within \nthirty (30) days of the referral schedule a hearing at which the petitioner shall have the burden \nof establishing by clear and convincing evidence that he or she has the moral qualifications, \ncompetency, and learning the law required for admission to practice before this Court and that \nhis or her resumption of the practice of law will not be detrimental to the integrity and standing ",
+          "pages": [
+            54
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-56",
+          "path": [],
+          "type": "paragraph",
+          "text": "44\nof the bar or the administration of justice, or subversive of the public interest. Upon completion \nof the hearing, the Committee shall make a full report to the Court. The Committee shall \ninclude in its findings of fact as to the petitioner's fitness to resume the practice of law and its \nrecommendations as to whether or not the petitioner should be reinstated.\nD. Conditions of Reinstatement\nIf after consideration of the Committee's report and recommendation the Court finds that the \npetitioner is unfit to resume the practice of law, the petition shall be dismissed. If after \nconsideration of the Committee's report and recommendation the Court find that the petitioner \nis fit to resume the practice of law, the Court shall reinstate him, provided that the judgment \nmay make reinstatement conditional upon the payment of all or part of the costs of the \nproceedings, and on the making of partial or complete restitution to all parties harmed by the \npetitioner whose conduct led to the suspension or disbarment. Provided further, that if the \npetitioner has been suspended or disbarred for five years or more, reinstatement may be \nconditioned, in the discretion of the Court, upon the furnishing of proof of competency and \nlearning in the law, which proof may include certification by the bar examiners of a state or \nother jurisdiction of the attorney's successful completion of an examination for admission to\npractice subsequent to the date of suspension or disbarment. Provided further that any \nreinstatement may be subject to any conditions which the Court in its discretion deems \nappropriate.\nE. Successive Petitioners\nNo petition for reinstatement under this Rule shall be filed within one year following an adverse \njudgment upon a petition for reinstatement filed by or on behalf of the same person.",
+          "pages": [
+            55
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-57",
+          "path": [],
+          "type": "paragraph",
+          "text": "45\nF. Deposit for Costs of Proceeding\nPetitions for reinstatement under this Rule shall be accompanied by a deposit in an amount to \nbe set from time to time by the Court in consultation with the Grievance Committee to cover \nanticipated costs of the reinstatement proceeding.\n83.2.10 ATTORNEYS SPECIALLY ADMITTED.\nWhenever an attorney applies to be admitted or is admitted to this Court for purposes of a particular proceeding \n(pro hac vice), the attorney shall be deemed thereby to have conferred disciplinary jurisdiction upon this Court \nfor any alleged misconduct arising in the course of or in the preparation for such a proceeding which is a \nviolation of this Court's Local Rules and/or the Rules of Professional Conduct adopted by this Court as provided \nin these Rules.\n83.2.11 APPOINTMENT OF COUNSEL.\nWhenever, at the direction of the Court or upon request of the Grievance Committee, counsel is to be appointed \npursuant to these rules to investigate or assist in the investigation of misconduct, to prosecute or assist in the \nprosecution of disciplinary proceedings, or to assist in the disposition of a reinstatement petition filed by a \ndisciplined attorney, this Court, by a majority vote of the active Judges thereof, may appoint as counsel any \nactive member of the bar of this Court, or may, in its discretion, appoint the disciplinary agency of the highest \ncourt of the state wherein the Court sits, or other disciplinary agency having jurisdiction.\n83.2.12 SERVICE OF PAPER AND OTHER NOTICES.\nService of an order to show cause instituting a formal disciplinary proceeding shall be made by personal service \nor by registered or certified mail addressed to the affected attorney at the address shown on the role of attorneys \nadmitted to practice before this Court. Service of any other papers or notices required by these rules shall be ",
+          "pages": [
+            56
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-58",
+          "path": [],
+          "type": "paragraph",
+          "text": "46\ndeemed to have been made if such paper or notice is addressed to the attorney at the address shown on the role \nof attorneys admitted to practice before this Court; or to counsel or the respondent's attorney at the address \nindicated in the most recent pleading or document filed by them in the course of any proceeding.\n83.2.13 DUTIES OF THE CLERK.\nA. Upon being informed that an attorney admitted to practice before this Court has been convicted \nof any crime, the Clerk of this Court shall determine whether the court in which such conviction \noccurred has forwarded a certificate of such conviction to this Court. If a certificate has not \nbeen so forwarded, the Clerk of this Court shall promptly obtain a certificate and file it with \nthis Court.\nB. Whenever it appears that any person who has been convicted of any crime or disbarred or \nsuspended or censured or disbarred on consent by this Court is admitted to practice law in any \nother jurisdiction or before any other court, this Court shall, within fourteen (14) days of that \nconviction, disbarment, suspension, censure or disbarment on consent, transmit to the \ndisciplinary authority in such other jurisdiction, or for such other court, a certificate of the \nconviction or a certified or exemplified copy of the judgment or order of disbarment,\nsuspension, censure, or disbarment on consent, as well as the last known office and residence \naddress of the disciplined attorney.\nC. The Clerk of this Court shall, likewise, promptly notify the National Discipline Bank operated \nby the American Bar Association of any order imposing public discipline on any attorney \nadmitted to practice before this Court.",
+          "pages": [
+            57
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-59",
+          "path": [],
+          "type": "paragraph",
+          "text": "47\n",
+          "pages": [
+            58
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "gamd-civil-parsed-v1-6a38fa2a50e3cc6a",
+      "sourceDocumentId": "parsed-gamd-6a38fa2a50e3cc6a",
+      "sourceUrl": "https://www.gamd.uscourts.gov/sites/gamd/files/Local_Rules-12_1_2022.pdf",
+      "pageIndex": 41,
+      "pageSpan": [
+        41,
+        58
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "gamd-civil:83.3",
+      "collectionId": "gamd-civil",
+      "districtId": "gamd",
+      "number": "83.3",
+      "citation": "Middle District of Georgia · Rule 83.3",
+      "title": "COMPLAINTS OF JUDICIAL MISCONDUCT AND DISABILITY",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-59",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 83.3: COMPLAINTS OF JUDICIAL MISCONDUCT AND DISABILITY\n83.3.1 INTRODUCTION. \nSection 372(c) of Title 28 of the United States Code provides a way for any person to complain about a federal \njudge or magistrate judge who the person believes \"has engaged in conduct prejudicial to the effective and \nexpeditious administration of the business of the courts\" or \"is unable to discharge all the duties of office by \nreason of mental or physical disability.\"\n83.3.2 HOW TO FILE A COMPLAINT. \nAny person desiring to file a complaint against a judge of this court should follow the procedure provided in \nthe \"Rules of the Judicial Council of the Eleventh Circuit Governing Complaints of Judicial Misconduct and \nDisability\" found at Addendum Three to the Rules of the United States Court of Appeals for the Eleventh \nCircuit. The requirements for filing and a sample complaint form are contained in the Addendum. The address \nfor the Clerk of the Eleventh Circuit Court of Appeals is:\nUnited States Court of Appeals\nfor the Eleventh Circuit\n56 Forsyth Street, N.W.\nAtlanta, GA 30303\n",
+          "pages": [
+            58
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "gamd-civil-parsed-v1-6a38fa2a50e3cc6a",
+      "sourceDocumentId": "parsed-gamd-6a38fa2a50e3cc6a",
+      "sourceUrl": "https://www.gamd.uscourts.gov/sites/gamd/files/Local_Rules-12_1_2022.pdf",
+      "pageIndex": 58,
+      "pageSpan": [
+        58,
+        58
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "gamd-civil:83.4",
+      "collectionId": "gamd-civil",
+      "districtId": "gamd",
+      "number": "83.4",
+      "citation": "Middle District of Georgia · Rule 83.4",
+      "title": "APPEARANCE AND PRACTICE BY ELIGIBLE LAW STUDENTS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-59",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 83.4: APPEARANCE AND PRACTICE BY ELIGIBLE LAW STUDENTS\n(A) Scope of Legal Assistance.\n(1) Notice of Appearance. An eligible law student, as described below, acting under a supervisory ",
+          "pages": [
+            58
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-60",
+          "path": [],
+          "type": "paragraph",
+          "text": "48\nattorney of record, may enter an appearance in this court on behalf of any indigent person, the United \nStates, or governmental agency in any civil or criminal case, provided that the party on whose behalf \nthe student appears and the supervising attorney of record has consented thereto in writing. The written \nconsent of the party (or the parties representative) and the supervising attorney of records must be filed \nwith this court.\n(2) Pleadings, Briefs and Other Documents. An eligible law student may assist in the drafting \nor preparation of complaints, motions, briefs, appendices, or other pleadings and documents and may \nappear in proceedings on such pleadings, provided the supervising attorney also signs and appears on \nthe pleadings. Names of students participating in the preparation of pleadings, briefs and other \ndocuments may, however, be added to those documents. \n(3) Courtroom Proceedings. With the permission of the presiding judge, an eligible law student \nmay appear before this court and participate in conferences, oral argument, mediation, or the \nexamination or cross examination of witnesses provided the supervising attorney is present in court. \n(B) Law Student Eligibility Requirements. In order to appear before this court, the law student must:\n(1) Be enrolled in a law school approved by the American Bar Association;\n(2) Have completed legal studies for which the student has received 48 semester hours or 72 quarter \nhours of academic credit or the equivalent if the school is on some other basis;\n(3) Be certified by the Dean of the law student’s law school as qualified to provide the legal \nrepresentation permitted by this Rule. This certification, which shall be filed with the Clerk, may be \nwithdrawn by the Dean at any time by mailing a notice to the Clerk or by termination of this court \nwithout notice or hearing and without any showing of cause;\n(4) Neither ask for nor receive any compensation or remuneration of any kind for the student’s \nservice from the party on whose behalf the student renders services, but this shall not prevent an \nattorney, legal aid bureau, law school public defender agency, a state, or the United States from paying ",
+          "pages": [
+            59
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-61",
+          "path": [],
+          "type": "paragraph",
+          "text": "49\ncompensation to the eligible law student;\n(5) Certify in writing that the student has read and is familiar with the Code of Professional \nResponsibility of the American Bar Association, the Federal Rules of Civil Procedure, the Federal \nRules of Criminal Procedure, the Local Rules of this court; and any other federal rules relevant to the \ncase on which the student is appearing; and\n(6) File all of the certifications and consents necessary under this Rule with the Clerk of this court \nprior to the submission of pleadings, briefs or documents containing the law student’s name and the \nlaw student’s appearance at any court proceeding. \n(C) Supervising Attorney of Record Requirements.\n(1) The supervising attorney of record must be a member of good standing of the Bar of this court.\n(2) With respect to the law student’s appearance, the supervising attorney of record shall certify in \nwriting to this court that he or she:\n(a) Consents to the participation of the law student and agrees to supervise the law student;\n(b) Assumes full responsibility for the case and for the quality of the law student’s work;\n(c) Will assist the student to the extent necessary; and \n(d) Will appear with the student in all written and oral proceedings before this court and \nbe prepared to supplement any written or oral statement made by the student to this \ncourt or opposing counsel.",
+          "pages": [
+            60
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-62",
+          "path": [],
+          "type": "paragraph",
+          "text": "50\n",
+          "pages": [
+            61
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "gamd-civil-parsed-v1-6a38fa2a50e3cc6a",
+      "sourceDocumentId": "parsed-gamd-6a38fa2a50e3cc6a",
+      "sourceUrl": "https://www.gamd.uscourts.gov/sites/gamd/files/Local_Rules-12_1_2022.pdf",
+      "pageIndex": 58,
+      "pageSpan": [
+        58,
+        61
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "gamd-civil:87",
+      "collectionId": "gamd-civil",
+      "districtId": "gamd",
+      "number": "87",
+      "citation": "Middle District of Georgia · Rule 87",
+      "title": "CORPORATE DISCLOSURE STATEMENT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-62",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 87: CORPORATE DISCLOSURE STATEMENT\n87.1 WHO MUST FILE. Any nongovernmental corporate party to an action in this court shall file \na separate statement identifying all of its parent and subsidiary corporations and listing any publicly held \ncompany that owns 10% or more of the party’s stock. \n87.2 JURISDICTIONAL STATEMENT. In addition to the corporate disclosure, in any civil \naction asserting jurisdiction based on diversity of citizenship, any corporate party must also file a statement that \nidentifies its state of incorporation and the state in which the corporation has its principal place of business. If \nany party is an unincorporated association, limited liability company, or partnership, the statement must identify \nthe citizenship of all members, and if any member is itself an unincorporated association, the identity and \ncitizenship of such association’s constituents.\n87.3 TIME FOR FILING. A party shall file the statements with its initial pleading filed in this \ncourt and shall supplement the statements within a reasonable time of any change in the information. ",
+          "pages": [
+            61
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "gamd-civil-parsed-v1-6a38fa2a50e3cc6a",
+      "sourceDocumentId": "parsed-gamd-6a38fa2a50e3cc6a",
+      "sourceUrl": "https://www.gamd.uscourts.gov/sites/gamd/files/Local_Rules-12_1_2022.pdf",
+      "pageIndex": 61,
+      "pageSpan": [
+        61,
+        61
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    }
+  ],
+  "evidence": [
+    {
+      "number": "3",
+      "heading": "LOCAL RULE 3: DIVISIONS OF THE COURT",
+      "page": 13,
+      "offset": 2,
+      "slices": [
+        {
+          "page": 13,
+          "start": 2,
+          "end": 1192,
+          "sha256": "ab867c54fed99ea8e41b6f9b996140124a6ee5000f183b8359d242c31f7525b1"
+        },
+        {
+          "page": 14,
+          "start": 0,
+          "end": 2,
+          "sha256": "53c234e5e8472b6ac51c1ae1cab3fe06fad053beb8ebfd8977b010655bfdd3c3"
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "heading": "LOCAL RULE 5: FILING WITH THE COURT",
+      "page": 14,
+      "offset": 2,
+      "slices": [
+        {
+          "page": 14,
+          "start": 2,
+          "end": 1773,
+          "sha256": "75ed8804457ff36cc993df7863f1e06848d5d9a673787fc97e6ac4db48bf437b"
+        },
+        {
+          "page": 15,
+          "start": 0,
+          "end": 1550,
+          "sha256": "0a7f34d93a38eb4fafb98e3ff4187a1e74d3c3b6dc3e979434e78973c87f2d90"
+        },
+        {
+          "page": 16,
+          "start": 0,
+          "end": 1364,
+          "sha256": "447015fd16c60bb349c7e684adf94aecceddd71b0b5f48fd78f211802d6ef22e"
+        },
+        {
+          "page": 17,
+          "start": 0,
+          "end": 1229,
+          "sha256": "a37c7681d76ef866893d833f3b08aef18ec9f8c22da7d7a79507cdad7c2caead"
+        },
+        {
+          "page": 18,
+          "start": 0,
+          "end": 450,
+          "sha256": "b8ac55b79813fc0dd4fa8c6e8d315f18dd9d4705589d338273a4af8ccd44061e"
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "heading": "LOCAL RULE 6: CONTINUANCES AND EXTENSIONS OF TIME",
+      "page": 18,
+      "offset": 450,
+      "slices": [
+        {
+          "page": 18,
+          "start": 450,
+          "end": 1919,
+          "sha256": "5fd06c993bccd1528d66abca8a67ca2d2a232509cfd68e6ed0032c1aa7d20051"
+        },
+        {
+          "page": 19,
+          "start": 0,
+          "end": 199,
+          "sha256": "58ef267cf651e705a58ce7f34e974c6f78072ccf9145fde43c4d40c044cce31b"
+        },
+        {
+          "page": 20,
+          "start": 0,
+          "end": 2,
+          "sha256": "aa67a169b0bba217aa0aa88a65346920c84c42447c36ba5f7ea65f422c1fe5d8"
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "heading": "LOCAL RULE 7 MOTIONS",
+      "page": 20,
+      "offset": 2,
+      "slices": [
+        {
+          "page": 20,
+          "start": 2,
+          "end": 1096,
+          "sha256": "9a00c8d10eb2db17415b0eb1d7c38b9bbe28ca19111a0dd6dab7d3fe75b9bd3d"
+        },
+        {
+          "page": 21,
+          "start": 0,
+          "end": 1874,
+          "sha256": "42d45b88a194ee7b8819196fc4bd5c94dab4f15ea987ba6003a45ce8dd5cfe5d"
+        },
+        {
+          "page": 22,
+          "start": 0,
+          "end": 853,
+          "sha256": "66b6996a03f50111c507b6b4d326b624896bb587bc33b76fea5c002131c107ce"
+        },
+        {
+          "page": 23,
+          "start": 0,
+          "end": 3,
+          "sha256": "25d4f2a86deb5e2574bb3210b67bb24fcc4afb19f93a7b65a057daa874a9d18e"
+        }
+      ]
+    },
+    {
+      "number": "9",
+      "heading": "LOCAL RULE 9: SOCIAL SECURITY APPEALS",
+      "page": 23,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 23,
+          "start": 3,
+          "end": 2123,
+          "sha256": "2358f452058775bbc07941583e3c13bd3a00ff71c2ec029497733533fbdea672"
+        },
+        {
+          "page": 24,
+          "start": 0,
+          "end": 1678,
+          "sha256": "ec02f7d885fb5799faa1cfa74572171977f63a58efec873d9646d56d1f32c88e"
+        },
+        {
+          "page": 25,
+          "start": 0,
+          "end": 524,
+          "sha256": "e5f986fd9fa08b0d416d5d722e003ab55b9076e8142db7315b667410a9cf26ec"
+        },
+        {
+          "page": 26,
+          "start": 0,
+          "end": 3,
+          "sha256": "9a92adbc0cee38ef658c71ce1b1bf8c65668f166bfb213644c895ccb1ad07a25"
+        }
+      ]
+    },
+    {
+      "number": "16.1",
+      "heading": "LOCAL RULE 16.1: PRETRIAL CONFERENCES AND PROCEDURES",
+      "page": 26,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 26,
+          "start": 3,
+          "end": 819,
+          "sha256": "2463c797dd0a2b5bda28bb66b8e32ffa66e3927dba606aba4ead5c5b0b997d5b"
+        }
+      ]
+    },
+    {
+      "number": "16.2",
+      "heading": "LOCAL RULE 16.2: MEDIATION ENCOURAGED",
+      "page": 26,
+      "offset": 819,
+      "slices": [
+        {
+          "page": 26,
+          "start": 819,
+          "end": 1154,
+          "sha256": "f1d5fe057581a012f53fd442cc0308a1cb2abdb3cbd66147e2d11c28933d95ef"
+        },
+        {
+          "page": 27,
+          "start": 0,
+          "end": 3,
+          "sha256": "238903180cc104ec2c5d8b3f20c5bc61b389ec0a967df8cc208cdc7cd454174f"
+        }
+      ]
+    },
+    {
+      "number": "26",
+      "heading": "LOCAL RULE 26: DISCOVERY PLAN AND ORDER",
+      "page": 27,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 27,
+          "start": 3,
+          "end": 1348,
+          "sha256": "bb12b7133e69a9e125758b7d611322559b9c2a88f978c6cc2e1d68f8c75ae90d"
+        },
+        {
+          "page": 28,
+          "start": 0,
+          "end": 3,
+          "sha256": "e6c21e8d260fe71882debdb339d2402a2ca7648529bc2303f48649bce0380017"
+        }
+      ]
+    },
+    {
+      "number": "30",
+      "heading": "LOCAL RULE 30: DEPOSITIONS",
+      "page": 28,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 28,
+          "start": 3,
+          "end": 1100,
+          "sha256": "84b1d52c6f24bbc12219a5baeb4cbb6ee3a9aad73c700149bb5cc2220e5ca9f1"
+        },
+        {
+          "page": 29,
+          "start": 0,
+          "end": 3,
+          "sha256": "54183f4323f377b737433a1e98229ead0fdc686f93bab057ecb612daa94002b5"
+        }
+      ]
+    },
+    {
+      "number": "33.1",
+      "heading": "LOCAL RULE 33.1: INTERROGATORIES",
+      "page": 29,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 29,
+          "start": 3,
+          "end": 352,
+          "sha256": "5ffbc4cf94b1f8d4c61b81ff43586ec1ac535fd1c204e3064ca2eeae6ea9a6af"
+        }
+      ]
+    },
+    {
+      "number": "34",
+      "heading": "LOCAL RULE 34: REQUESTS FOR PRODUCTION OF DOCUMENTS AND THINGS",
+      "page": 29,
+      "offset": 352,
+      "slices": [
+        {
+          "page": 29,
+          "start": 352,
+          "end": 602,
+          "sha256": "0af719e92ac9be8841af3429e6f7f9a19e7f8d091b7607b10aa8bed668fa3114"
+        }
+      ]
+    },
+    {
+      "number": "36",
+      "heading": "LOCAL RULE 36: REQUESTS FOR ADMISSIONS",
+      "page": 29,
+      "offset": 602,
+      "slices": [
+        {
+          "page": 29,
+          "start": 602,
+          "end": 832,
+          "sha256": "a82f8a5f87784d7533eb8da664f6145867dd867465aa54d64ac10b79b8479da3"
+        }
+      ]
+    },
+    {
+      "number": "37",
+      "heading": "LOCAL RULE 37: MOTIONS TO COMPEL",
+      "page": 29,
+      "offset": 832,
+      "slices": [
+        {
+          "page": 29,
+          "start": 832,
+          "end": 1122,
+          "sha256": "1a9e445bcf62a98d2859312576d894743c0abd85da0a972f5c5417ef3d31fd1c"
+        },
+        {
+          "page": 30,
+          "start": 0,
+          "end": 3,
+          "sha256": "7ee29791fc17e986b97128845622b077fb45e349fdb80523fac9dba879b4ad60"
+        }
+      ]
+    },
+    {
+      "number": "48",
+      "heading": "LOCAL RULE 48: CIVIL JURIES",
+      "page": 30,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 30,
+          "start": 3,
+          "end": 783,
+          "sha256": "0353f1907bb8999ad1d48d184d109f8439f6d50ae2d1bc7881d519d0ad11b04a"
+        },
+        {
+          "page": 31,
+          "start": 0,
+          "end": 3,
+          "sha256": "a9742eb8ee320e006666aef25ae9aeed948247f3125c9cafa7cf97b7e7467dd5"
+        }
+      ]
+    },
+    {
+      "number": "54.1",
+      "heading": "LOCAL RULE 54.1: MOTIONS FOR ATTORNEY'S FEES",
+      "page": 31,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 31,
+          "start": 3,
+          "end": 876,
+          "sha256": "413c0398c2565939312b12f135ccd1b77e80506e449d1720bada6435c1ce9bcb"
+        },
+        {
+          "page": 32,
+          "start": 0,
+          "end": 3,
+          "sha256": "5378796307535df3ec8d8b15a2e2dc5641419c3d3060cfe32238c0fa973f7aa3"
+        }
+      ]
+    },
+    {
+      "number": "54.2",
+      "heading": "LOCAL RULE 54.2: TAXATION OF COSTS",
+      "page": 32,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 32,
+          "start": 3,
+          "end": 786,
+          "sha256": "a60d0cee7e5d60f52c7582faad9c25346db59f313e2b7f1ddb7dda5c3a7f297f"
+        },
+        {
+          "page": 33,
+          "start": 0,
+          "end": 3,
+          "sha256": "6e2ae11dad0616f66bbb2b6e6556f580bb987fd911d7132aa6bee2bfc7cc7b52"
+        }
+      ]
+    },
+    {
+      "number": "56",
+      "heading": "LOCAL RULE 56: SUMMARY JUDGMENTS - STATEMENT OF FACTS REQUIRED",
+      "page": 33,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 33,
+          "start": 3,
+          "end": 1803,
+          "sha256": "fe69dfe5f14bbd5de7ab85e0439aa21eb5923a4403b31fbb30f87c8d50d78ffe"
+        },
+        {
+          "page": 34,
+          "start": 0,
+          "end": 3,
+          "sha256": "f14b4987904bcb5814e4459a057ed4d20f58a633152288a761214dcd28780b56"
+        }
+      ]
+    },
+    {
+      "number": "72",
+      "heading": "LOCAL RULE 72: UNITED STATES MAGISTRATE JUDGE DUTIES",
+      "page": 34,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 34,
+          "start": 3,
+          "end": 1636,
+          "sha256": "8e2657f31ae102f0346c793bb8391f0574e28804c6a7700e7a6bf482a0d6682f"
+        },
+        {
+          "page": 35,
+          "start": 0,
+          "end": 1630,
+          "sha256": "cd5d7b674ac5de7cc2a087068a41563a6c5e4f36cedac4ff9bd937f17e1a4845"
+        },
+        {
+          "page": 36,
+          "start": 0,
+          "end": 586,
+          "sha256": "58d914b5147dd17c81ffa4fbe6c343eebc862582a8ec9ef1f0da84fe5985d69e"
+        }
+      ]
+    },
+    {
+      "number": "73",
+      "heading": "LOCAL RULE 73: SPECIAL MASTER REFERENCES AND TRIAL BY CONSENT",
+      "page": 36,
+      "offset": 586,
+      "slices": [
+        {
+          "page": 36,
+          "start": 586,
+          "end": 1094,
+          "sha256": "a681a1c83d7231f64ad2ae2b86b4fea3067732027f3d4fb8839c8ac89cd2d05e"
+        },
+        {
+          "page": 37,
+          "start": 0,
+          "end": 3,
+          "sha256": "64aeb9975f234becd55bb4635e6e2f2da7a6b7bf0a896f0c07763bdfbfb31420"
+        }
+      ]
+    },
+    {
+      "number": "79",
+      "heading": "LOCAL RULE 79: FILES AND EXHIBITS AND REMOVAL THEREOF",
+      "page": 37,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 37,
+          "start": 3,
+          "end": 1351,
+          "sha256": "b2112bd56a5f97c89f91601617b1e6d1381317a143208c8a7b9b19ecbb492ab3"
+        },
+        {
+          "page": 38,
+          "start": 0,
+          "end": 3,
+          "sha256": "20d2add851bf39edcc6b5e830930f962db7e19dffa2cab8610eed551eda6c302"
+        }
+      ]
+    },
+    {
+      "number": "83.1",
+      "heading": "LOCAL RULE 83.1: ATTORNEYS",
+      "page": 38,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 38,
+          "start": 3,
+          "end": 1403,
+          "sha256": "820ea85702a2352ef2d4f210d5a7a1b138c23422d697e294dece5d2b8e0ae20c"
+        },
+        {
+          "page": 39,
+          "start": 0,
+          "end": 1439,
+          "sha256": "c42e3612f8788cf8ea3f916a061aee4db6ee760c64558ca8f78b70721484660c"
+        },
+        {
+          "page": 40,
+          "start": 0,
+          "end": 1931,
+          "sha256": "bbfa817f2596298a7f762431c3b6c4eee455887643c540052bf723d457503d4d"
+        },
+        {
+          "page": 41,
+          "start": 0,
+          "end": 2048,
+          "sha256": "82b0284812539ffcf4d509286e55ff6716f49f7ec8cd55da629f6366e3a8e4cc"
+        },
+        {
+          "page": 42,
+          "start": 0,
+          "end": 677,
+          "sha256": "75f07db44415c4b20dc2a09ef45d78cccc51433971bfd2f11ed7ac93355bf68f"
+        }
+      ]
+    },
+    {
+      "number": "83.2",
+      "heading": "LOCAL RULE 83.2: RULES GOVERNING ATTORNEY DISCIPLINE",
+      "page": 42,
+      "offset": 677,
+      "slices": [
+        {
+          "page": 42,
+          "start": 677,
+          "end": 1677,
+          "sha256": "5a2af4d98be33c1ea493a5a208dad691950c674e6c2cbf3eba5ef9edf2ae3495"
+        },
+        {
+          "page": 43,
+          "start": 0,
+          "end": 1568,
+          "sha256": "429c3eaead36fa766e1e74674094fc8de0cb3cfb6e1bb318d687d740c527080f"
+        },
+        {
+          "page": 44,
+          "start": 0,
+          "end": 1836,
+          "sha256": "2576551644876aee97f83731cf891aa78a32de61e5d7f2b63a1a3231e536cfd2"
+        },
+        {
+          "page": 45,
+          "start": 0,
+          "end": 1655,
+          "sha256": "02c75c721f459e5f6c847d6640a74fa42c6c5448892a3e4a12d0a5f62ce50cc0"
+        },
+        {
+          "page": 46,
+          "start": 0,
+          "end": 2252,
+          "sha256": "d9f1ab4b7934141a805a88ecef576b51e9661e074b22604d8a339a149a6789c2"
+        },
+        {
+          "page": 47,
+          "start": 0,
+          "end": 1931,
+          "sha256": "71e05d71b1a0a01967fc731f6fe960ffe75e137d08352729aa6d54e241bcc340"
+        },
+        {
+          "page": 48,
+          "start": 0,
+          "end": 1806,
+          "sha256": "edd2f72fb9a28bc955fb06f8732a35d218ad91dce622b03a3d5cedea24fc9774"
+        },
+        {
+          "page": 49,
+          "start": 0,
+          "end": 1759,
+          "sha256": "28b9324b78551b98f3ed1c9afbb21aeef3059974b2d2fbc76434f170d4f01961"
+        },
+        {
+          "page": 50,
+          "start": 0,
+          "end": 1673,
+          "sha256": "fa39d97b8459a765e915b8a1e12a8f5b4c4e9ccf208826f54fc30de0685c054d"
+        },
+        {
+          "page": 51,
+          "start": 0,
+          "end": 1383,
+          "sha256": "f64f5e015ebd95e139d62e846cbb048a075031df2583dc22252d663ca28a63ff"
+        },
+        {
+          "page": 52,
+          "start": 0,
+          "end": 1483,
+          "sha256": "0da1c42dae06ae1fc85440b6f7bf27ff5ad90f71ad4f1978b4658eea15bad073"
+        },
+        {
+          "page": 53,
+          "start": 0,
+          "end": 1998,
+          "sha256": "e80df7617b9c778dc27196a8801d510afc630a96787ee1e72e26cc8402ba0437"
+        },
+        {
+          "page": 54,
+          "start": 0,
+          "end": 1890,
+          "sha256": "d309d8f4255809765bc2682e3a7e104457a0e13f0e6b7084b7c7d5c38ba85611"
+        },
+        {
+          "page": 55,
+          "start": 0,
+          "end": 1658,
+          "sha256": "d024ec6ee41e4d9fde5b0d5258d97a0ba138c57d6064befe2b2fe6e8494fcd67"
+        },
+        {
+          "page": 56,
+          "start": 0,
+          "end": 1826,
+          "sha256": "4b66d79bca452a7b252ce47304d99b40fa40ba182529b7df5751a81710ca2df7"
+        },
+        {
+          "page": 57,
+          "start": 0,
+          "end": 1860,
+          "sha256": "6ca4c315e32c7fb2ef0b4975a1a93ad2971035977f3fa9eb2c9497f0c7260509"
+        },
+        {
+          "page": 58,
+          "start": 0,
+          "end": 1673,
+          "sha256": "bb8a856fb09d05d36204e2d60df68aa65a16fb7431fb7d167e80c837318dba49"
+        },
+        {
+          "page": 59,
+          "start": 0,
+          "end": 3,
+          "sha256": "e3667f7d8c030260bf49046f955ec9bebdb9a4cb8a66b812fd498ded5431a821"
+        }
+      ]
+    },
+    {
+      "number": "83.3",
+      "heading": "LOCAL RULE 83.3: COMPLAINTS OF JUDICIAL MISCONDUCT AND DISABILITY",
+      "page": 59,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 59,
+          "start": 3,
+          "end": 1090,
+          "sha256": "355fa86b04431365fe3af64d4b8c08e42a15c1cafed4577c4b72bece58fc2519"
+        }
+      ]
+    },
+    {
+      "number": "83.4",
+      "heading": "LOCAL RULE 83.4: APPEARANCE AND PRACTICE BY ELIGIBLE LAW STUDENTS",
+      "page": 59,
+      "offset": 1090,
+      "slices": [
+        {
+          "page": 59,
+          "start": 1090,
+          "end": 1285,
+          "sha256": "c0c7b7d768167629e8526fbc6b5ea328d31b02760cb94d4f61cbec8d731b7df2"
+        },
+        {
+          "page": 60,
+          "start": 0,
+          "end": 2203,
+          "sha256": "df29ea88ca295daf0b9cfa13f534f66b397e4b6f6da223c9fe614c6e5038fb32"
+        },
+        {
+          "page": 61,
+          "start": 0,
+          "end": 1381,
+          "sha256": "7162909260731e2bfcf30d3f52204e76093330726405deb556a009abb1dca7fe"
+        },
+        {
+          "page": 62,
+          "start": 0,
+          "end": 3,
+          "sha256": "7ea9844ae84eccbf55e8330640865e36c43521e45a1baec24233327aab7e6595"
+        }
+      ]
+    },
+    {
+      "number": "87",
+      "heading": "LOCAL RULE 87: CORPORATE DISCLOSURE STATEMENT",
+      "page": 62,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 62,
+          "start": 3,
+          "end": 1100,
+          "sha256": "6d03ececfb2e0cdce5fb91451a7a4a9a80e6e7964b3b53893a557245eb2a849d"
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "startPage": 13,
+    "startOffset": 2,
+    "endPage": 62,
+    "endOffset": 1100,
+    "ruleCount": 25,
+    "tocReconciled": false,
+    "editorialReviewComplete": false,
+    "currencyReviewed": false,
+    "flags": [],
+    "excluded": "Source material outside the recorded range remains available in the district source library."
+  },
+  "transcriptionSha256": "fcef48b232a66a090d6b254fef7e34816d37d36f0c42b8618cb92d411778d16a"
+}

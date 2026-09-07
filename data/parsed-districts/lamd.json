@@ -1,0 +1,2823 @@
+{
+  "version": 1,
+  "reviewStatus": "parsed-draft",
+  "districtId": "lamd",
+  "sourceDocument": {
+    "id": "cdcfeeed1072e6fb",
+    "title": "Middle District of Louisiana - Local Rules",
+    "format": "pdf",
+    "role": "primary",
+    "sourceUrl": "https://www.lamd.uscourts.gov/sites/default/files/pdf/2022%20Local%20Rules%20Revisions%208-18-2022.pdf",
+    "sha256": "cdcfeeed1072e6fb368c5203995f4d247f8735b342a4155ee1762c9087a4e11e",
+    "bytes": 761796,
+    "retrievedAt": "2026-09-07T00:01:23.703974+00:00",
+    "snapshotPath": "sources/district-snapshots/cdcfeeed1072e6fb368c5203995f4d247f8735b342a4155ee1762c9087a4e11e.pdf",
+    "textPath": "data/source-library/cdcfeeed1072e6fb368c5203995f4d247f8735b342a4155ee1762c9087a4e11e.json",
+    "pdfPath": "data/source-pdfs/cdcfeeed1072e6fb368c5203995f4d247f8735b342a4155ee1762c9087a4e11e.pdf",
+    "pageCount": 78,
+    "reviewStatus": "source-document-only",
+    "blankTextPages": 0
+  },
+  "collection": {
+    "id": "lamd-civil",
+    "name": "Middle District of Louisiana Local Rules",
+    "shortName": "Local rules · draft",
+    "districtId": "lamd",
+    "scopeNote": "Civil and generally applicable local rules; unparsed supplements remain in the source library. Rule boundaries and transcription are drafts. Embedded notes, forms, and running headers may remain within rule text; subsection anchors and field-separated notes are not yet reviewed."
+  },
+  "provisions": [
+    {
+      "id": "lamd-civil:3",
+      "collectionId": "lamd-civil",
+      "districtId": "lamd",
+      "number": "3",
+      "citation": "Middle District of Louisiana · Rule 3",
+      "title": "COMMENCEMENT OF ACTION",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-7",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 3 - COMMENCEMENT OF ACTION\n(a) Collateral Proceedings and Refiled Cases. Whenever a civil matter, commenced in or \nremoved to the Court, involves subject matter that comprises all or a material part of the subject\nmatter or operative facts of another action, whether civil or criminal, then or previously pending\nin any court or administrative agency, counsel must file a list and description of all such\nactions then known to counsel and a brief summary of the relationship between the cases.\nCounsel shall file the list and description as a separate document at the time of filing the \ncomplaint. If information concerning any such action or proceeding is obtained after the filing of\nthe original pleading in the latter case, counsel must notify the Court and opposing counsel in\nwriting of the relationship between the cases.\n(b) Assignment of Collateral Proceedings and Refiled Cases. To promote judicial economy, \nconserve judicial resources, and avoid potential forum-shopping and conflicting court rulings,\nall actions described in LR 3(a) shall be transferred to the section with the lowest docket number,\nunless the two Judges involved determine that some other procedure is in the interest of justice. \nIf the Judges cannot agree upon whether a case should be transferred, the opinion of the\ntransferee Judge shall prevail.\n",
+          "pages": [
+            6
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "lamd-civil-parsed-v1-cdcfeeed1072e6fb",
+      "sourceDocumentId": "parsed-lamd-cdcfeeed1072e6fb",
+      "sourceUrl": "https://www.lamd.uscourts.gov/sites/default/files/pdf/2022%20Local%20Rules%20Revisions%208-18-2022.pdf",
+      "pageIndex": 6,
+      "pageSpan": [
+        6,
+        6
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "lamd-civil:4",
+      "collectionId": "lamd-civil",
+      "districtId": "lamd",
+      "number": "4",
+      "citation": "Middle District of Louisiana · Rule 4",
+      "title": "SUMMONS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-7",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 4 – SUMMONS\nDeposit for Service. Except as provided by law in cases involving indigent persons, or unless \nordered by the court, the United States Marshal shall not be required to perform any service until the \ndeposit of a sum sufficient to cover the immediate costs has been made, and, may demand security in a \nreasonable amount for further costs.\n",
+          "pages": [
+            6
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "lamd-civil-parsed-v1-cdcfeeed1072e6fb",
+      "sourceDocumentId": "parsed-lamd-cdcfeeed1072e6fb",
+      "sourceUrl": "https://www.lamd.uscourts.gov/sites/default/files/pdf/2022%20Local%20Rules%20Revisions%208-18-2022.pdf",
+      "pageIndex": 6,
+      "pageSpan": [
+        6,
+        6
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "lamd-civil:5",
+      "collectionId": "lamd-civil",
+      "districtId": "lamd",
+      "number": "5",
+      "citation": "Middle District of Louisiana · Rule 5",
+      "title": "SERVICE AND FILING OF PLEADINGS AND OTHER PAPERS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-7",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 5 - SERVICE AND FILING OF PLEADINGS AND OTHER PAPERS\n(a) Filing By Electronic Means.",
+          "pages": [
+            6
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-8",
+          "path": [],
+          "type": "paragraph",
+          "text": "2\n(1) All documents must be filed with the Clerk of Court in the manner provided in the Court’s \nAdministrative Procedures for Filing Electronic Documents, available at \nwww.lamd.uscourts.gov.\n(2) An attorney may, for good cause shown, request by written motion a temporary exemption\nfrom mandatory electronic case filing.\n(b) Filing of Extraordinary Pleadings. The attorneys filing any pleading of an extraordinary nature \n(e.g., temporary restraining orders, vessel seizures, writs of attachment, and other pleadings \nrequiring immediate judicial action) shall make themselves available by telephone to the Judge \nto whom the matter is assigned and shall provide a current cellular telephone number on the \npleading.\n(c) Advance Payment Required. The Clerk of Court shall not be required to file any paper or to\nrender any service for which a fee is legally collectible unless the fee for the particular service is\npaid in advance.\n(d) Filing by Unrepresented Prisoners, Subject to Electronic Filing, Regarding Civil Rights \nand Habeas Corpus Cases.\n(1) Original Documents - Prisoners subject to electronic filing must place all documents in an\nenvelope and place the envelope in a designated box for documents to be filed in\nLouisiana Federal District Courts only. No postage is required. All envelopes placed\nin the designated box shall be opened by authorized prison personnel in order to scan\nthe documents. Once scanned, prison personnel shall return all original documents to the\nprisoner, unlessotherwisedirectedby theCourt. Any envelope placed in thedesignated box\ncontaining postage shall not be opened for purposes of scanning. Prison officials shall\neither return the envelope to the prisoner or mail it to the Court. Documents submitted by\na prisoner to the Court for filing which have not been scanned and emailed by authorized\nprison personnel, may, at the direction of the Court, be returned to the prisoner.\n(2) Scanning - Authorized prison personnel will scan prisoner documents into a pre￾programmed Document Capture Workstation which converts the document to PDF. ",
+          "pages": [
+            7
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-9",
+          "path": [],
+          "type": "paragraph",
+          "text": "3\nAuthorized prison personnel will affix the “scanned” stamp on the document, prior to\nscanning, which indicates the date the document was scanned, total number of pages\nscanned, and the initials of the person who scanned it. Once the document has been\nscanned, authorized prison personnel will verify the legibility of the image on the computer\nscreen and email the document directly to the Court’s dedicated email address.\n(3) Filing into Court’s Electronic Case Management System - The Court will receive and review\nall documents received via email from the prison and electronically file submissions\ninto the case management system. After review, if it is determined by the Court that a\ndocument does not constitute a proper filing in accordance with the Federal Rules of Civil\nProcedure and the Local Rules of the Court, the document may be returned to the\nprisoner via the U. S. Postal Service, upon direction of the Court.\n(e) Certificate of Service.\n(1) When a document filed after the initial complaint is served by filing it with the Court’s \nelectronic filing system, no certificate of service is required when all parties are electronic \nfilers.\n(2) When a document that is required to be served is served by means other than the Court’s \nelectronic filing system, the document must include a certificate of service indicating the \ndocument has been served on all parties contemporaneously with its filing with the court. \nThe certificate of service must list each party on which the document has been served \nand must identify the method of service upon each party. \n(f) Service by Electronic Means.\n(1) As provided by Fed. R. Civ. P. 5(b)(2)(E), if a recipient is a registered filer in the Court’s \nElectronic CM/ECF Filing System, service is complete when the document is \nelectronically filed or uploaded to the Court’s system. If the recipient is not a registered \nfiler in the Court’s system, the filer must effect service on all parties in accordance with \nthe Federal Rules of Civil Procedure.",
+          "pages": [
+            8
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-10",
+          "path": [],
+          "type": "paragraph",
+          "text": "4\n(2) Most sealed filings do not produce a Notice of Electronic Filing, and therefore service\nby the filer of any sealed document must be in accordance with the Federal Rules of Civil\nProcedure and the Local Rules.\n",
+          "pages": [
+            9
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "lamd-civil-parsed-v1-cdcfeeed1072e6fb",
+      "sourceDocumentId": "parsed-lamd-cdcfeeed1072e6fb",
+      "sourceUrl": "https://www.lamd.uscourts.gov/sites/default/files/pdf/2022%20Local%20Rules%20Revisions%208-18-2022.pdf",
+      "pageIndex": 6,
+      "pageSpan": [
+        6,
+        9
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "lamd-civil:5.2",
+      "collectionId": "lamd-civil",
+      "districtId": "lamd",
+      "number": "5.2",
+      "citation": "Middle District of Louisiana · Rule 5.2",
+      "title": "PROTECTION OF PERSONAL AND SENSITIVE INFORMATION;",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-10",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 5.2 – PROTECTION OF PERSONAL AND SENSITIVE INFORMATION; \nPUBLIC ACCESS TO COURT FILES; REDACTED INFORMATION; SEALED INFORMATION\n(a) In General. Counsel should advise clients of the provisions of this Rule and Federal Rule of \nCivil Procedure 5.2 so that an informed decision may be made about the inclusion of protected \ninformation.\n(b) Remote Access. Counsel and parties must consider that the E-Government Act of 2002 (as\namended) and the policies of the Judicial Conference of the United States require federal courts\neventually to make all pleadings, orders, judgments, and other filed documents available in\nelectronic format accessible over the Internet and the Courts’ PACER (Public Access to Court\nElectronic Records) systems. Consequently, personal and sensitive information and data that\nformerly were available only by review of the Court’s physical case files will be available openly\nand publicly.\n(c) Redacted Filings. If a redacted document is filed, it is the sole responsibility of counsel and\nthe parties to ensure that all pleadings conform to Federal Rule of Civil Procedure 5.2, and the\nGeneral Orders of this Court. Neither the Court nor the Clerk of Court will review pleadings or \nother documents for compliance with this Rule.\n",
+          "pages": [
+            9
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "lamd-civil-parsed-v1-cdcfeeed1072e6fb",
+      "sourceDocumentId": "parsed-lamd-cdcfeeed1072e6fb",
+      "sourceUrl": "https://www.lamd.uscourts.gov/sites/default/files/pdf/2022%20Local%20Rules%20Revisions%208-18-2022.pdf",
+      "pageIndex": 9,
+      "pageSpan": [
+        9,
+        9
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "lamd-civil:7",
+      "collectionId": "lamd-civil",
+      "districtId": "lamd",
+      "number": "7",
+      "citation": "Middle District of Louisiana · Rule 7",
+      "title": "PLEADINGS ALLOWED; FORM OF MOTIONS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-10",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 7 - PLEADINGS ALLOWED; FORM OF MOTIONS\n(a) Extension of Time to Plead. Upon certification by a moving party that there has been no \nprevious extension of time to plead and that the opposing party has not filed in the record an \nobjection to an extension of time, then on an ex parte motion and order, the Court will allow one\nextension for a period of twenty-one days from the time the pleading would otherwise be due.\nFurther extensions will not be granted by stipulation, but only by motion to the Court and for good\ncause shown. This rule shall apply to pleadings listed in Fed. R. Civ. P. 7(a).",
+          "pages": [
+            9
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-11",
+          "path": [],
+          "type": "paragraph",
+          "text": "5\n(b) Submission of Motions. All motions, except those made during a hearing or trial which is\nbeing properly recorded into the Court record, shall be made in writing. Documents filed with the\nmotion are thereby made a part of the record.\n(c) Submission of Ex Parte or Consent Motions. An application for an order allowed by these\nRules to be submitted ex parte or by consent shall be accompanied by a proposed order on a\nseparately captioned page. Except as otherwise ordered in an individual case, every such\napplication shall be filed pursuant to LR5(a).\n(d) Motions Must Be Accompanied by Memorandum. All contested motions must be \naccompanied by separate memoranda which must contain a concise statement of reasons\nsupporting the motion and citations of authorities. If the motion requires consideration of facts\nnot in the record, the movant must also file and serve upon opposing counsel a copy of all\nevidence supporting the motion. Memoranda may not be supplemented, except with leave of\ncourt.\n(e) Motions Not Requiring Memorandum. All motions listed below, while not required to be\naccompanied by a memorandum, must state the grounds therefor and cite any applicable rule,\nstatute, or other authority justifying the relief sought. No memorandum is required by either\nmovant or respondent, unless otherwise directed by the Court, with respect to the following\nmotions: (1) For extension of time for the performance of an act required or allowed to be done,\nprovided request therefor is made before the expiration of the period originally prescribed or as\nextended by previous orders; (2) to continue a pretrial conference, hearing, motion, or the trial\nof an action; (3) to add additional parties; (4) to amend pleadings; (5) to file supplemental\npleadings; (6) to appoint next friend or guardian ad litem; (7) to intervene; (8) for substitution of\nparties; (9) joint motions to dismiss or consolidate; and (10) to withdraw as counsel. Prior to filing\nany motion under this section, the moving party shall attempt to obtain consent for the filing and\ngranting of such motion from all parties having an interest to oppose, and a certificate stating\nthe position of the other parties shall be included in the motion. A proposed order on a separately\ncaptioned page shall accompany each motion filed under this paragraph.",
+          "pages": [
+            10
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-12",
+          "path": [],
+          "type": "paragraph",
+          "text": "6\n(f) Response and Memorandum. Each respondent opposing a motion shall file a response, \nincluding opposing affidavits, and such supporting documents as are then available, within \ntwenty-one days after service of the motion. Memoranda shall contain a concise statement of \nreasons in opposition to the motion and a citation of authorities upon which the respondent \nrelies. Memoranda must also include appropriate citations to direct the Court to specific \nreferences within cited supporting material (e.g., Ex. 1 – Plaintiff Depo, p.5, ll. 8-10 or Rec. Doc. \n1 – Complaint, p.3, ¶22). For good cause appearing therefor, a respondent may be required to \nfile a response and supporting documents, including memoranda, within such shorter or longer \nperiod of time as the Court may order. Reply memoranda may be filed without leave of Court in \nRule 12 and Rule 56 motions only. Any such reply memoranda shall be filed within fourteen \ndays after service of the response to the motion. Leave of court must be obtained to file \nsurreplies in Rule 12 and Rule 56 motions. Leave of court must be obtained to file reply and \nsurreply memoranda in all other motions not listed.\n(g) Memoranda. All memoranda filed by a party (including briefs, memoranda in support of or in \nopposition to a motion and appeals to District Judges) shall be limited to twenty-five pages \nexcluding attachments. If included with memoranda or otherwise required by a court order, \nthese Local Rules, or the Federal rules of Civil Procedure, a table of contents, table of \nauthorities, and certificate of service are also excluded from the page limits for memoranda. \nSignature blocks must begin on or before the last page but can extend beyond the page limit. \nThe form of the memorandum shall comply with LR10(a). Reply and surreply memoranda, if \npermitted, shall be limited to ten pages. Leave of Court must be obtained to file memoranda in \nexcess of the limit above.\n(h) Mandatory Meet and Confer Prior to Filing Motions in Limine. To avoid the needless filing \nof motions in limine, the Court requires the party seeking to file a motion in limine on a subject \nmatter other than the admissibility of expert testimony (i.e., non-Daubert motions in limine), to \nconfer or attempt to confer with the opposing party (or any party having an interest to oppose) \nbefore filing the motion in a good faith effort to resolve the issue(s) amicably. If a consensus ",
+          "pages": [
+            11
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-13",
+          "path": [],
+          "type": "paragraph",
+          "text": "7\ncannot be reached, the motion in limine must contain a certification that the movant conferred \nor attempted to confer in a good faith effort to resolve the issue(s) amicably but was unable to \nreach an agreement. If after filing the motion in limine, the movant determines there is no longer \na dispute, the movant shall promptly file a motion to withdraw the motion in limine.\n",
+          "pages": [
+            12
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "lamd-civil-parsed-v1-cdcfeeed1072e6fb",
+      "sourceDocumentId": "parsed-lamd-cdcfeeed1072e6fb",
+      "sourceUrl": "https://www.lamd.uscourts.gov/sites/default/files/pdf/2022%20Local%20Rules%20Revisions%208-18-2022.pdf",
+      "pageIndex": 9,
+      "pageSpan": [
+        9,
+        12
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "lamd-civil:7.1",
+      "collectionId": "lamd-civil",
+      "districtId": "lamd",
+      "number": "7.1",
+      "citation": "Middle District of Louisiana · Rule 7.1",
+      "title": "CERTIFICATE OF INTERESTED PERSONS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-13",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 7.1 – CERTIFICATE OF INTERESTED PERSONS\nAll parties, including parties added during the pendency of a civil action, are required to file a \ncertificate of interested persons. In addition to the requirements of Fed. R. Civ. P. 7.1(a), civil complaints \nand the initial responsive pleading or motion filed in lieu of responsive pleadings that a defendant files in \na civil action must be accompanied by a separately filed and signed certificate of interested persons that \ncontains a complete list of all persons, associations of persons, firms, partnerships, corporations, \nguarantors, insurers, affiliates, parent or subsidiary corporations, or other legal entities that are financially \ninterested in the outcome of the case or else a statement that there are no such persons to identify. \nIf a civil action is removed, the plaintiff shall file a signed certificate of interested persons, which \nshall neither constitute a general appearance nor prejudice the party’s ability to file a motion for remand. \nAll parties must promptly file a supplemental certificate if any required information changes.\n",
+          "pages": [
+            12
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "lamd-civil-parsed-v1-cdcfeeed1072e6fb",
+      "sourceDocumentId": "parsed-lamd-cdcfeeed1072e6fb",
+      "sourceUrl": "https://www.lamd.uscourts.gov/sites/default/files/pdf/2022%20Local%20Rules%20Revisions%208-18-2022.pdf",
+      "pageIndex": 12,
+      "pageSpan": [
+        12,
+        12
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "lamd-civil:9",
+      "collectionId": "lamd-civil",
+      "districtId": "lamd",
+      "number": "9",
+      "citation": "Middle District of Louisiana · Rule 9",
+      "title": "PLEADING SPECIAL MATTERS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-13",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 9 - PLEADING SPECIAL MATTERS\n(a) Three-Judge Cases. Upon filing any suit or proceeding that may require a three-judge court\nfor disposition, the party instituting the action shall state in writing, to the Clerk of Court and\nother parties the provision under which said party is proceeding. Failure to comply with this\nrule may result in the matter being treated as one not requiring three judges.\n(b) Social Security Cases. Complaints filed in civil cases pursuant to Section 205(g) of the Social\nSecurity Act, 42 U.S.C. § 405(g), for benefits under Titles II, XVI, and XVIII of the Social Security\nAct shall be submitted for filing on forms furnished by the Clerk of Court or substantially in\nconformity therewith.",
+          "pages": [
+            12
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-14",
+          "path": [],
+          "type": "paragraph",
+          "text": "8\n",
+          "pages": [
+            13
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "lamd-civil-parsed-v1-cdcfeeed1072e6fb",
+      "sourceDocumentId": "parsed-lamd-cdcfeeed1072e6fb",
+      "sourceUrl": "https://www.lamd.uscourts.gov/sites/default/files/pdf/2022%20Local%20Rules%20Revisions%208-18-2022.pdf",
+      "pageIndex": 12,
+      "pageSpan": [
+        12,
+        13
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "lamd-civil:10",
+      "collectionId": "lamd-civil",
+      "districtId": "lamd",
+      "number": "10",
+      "citation": "Middle District of Louisiana · Rule 10",
+      "title": "FORM OF PLEADINGS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-14",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 10 - FORM OF PLEADINGS\n(a) Form: Statement Regarding Filing of Documents.\n(1) All documents drafted for filing in this Court shall be on 8-1/2 by 11 inch paper, \nnumbered sequentially, plainly written in ink or printed in no smaller than standard 12-point\ntypeface without defacing erasures or interlineations, shall be double spaced and if\nfiled in paper format, not printed on the reverse side of the paper. Footnotes may be\nprinted in no smaller than standard 10-point typeface. Quotations and footnotes may be\nsingle spaced. All margins must be no less than one inch. No print or writing, except\npage numbers, must appear in the margins, and page numbers must not be less than\none-half inch from the bottom of the page.\n(2) In addition to the requirement of Fed. R. Civ. P. 10(a), after allotment the caption shall\nalso indicate the initials of the United States District Judge and United States Magistrate\nJudge (“Magistrate Judge”) to whom the case is assigned (e.g., 10-CV-292-JVP-SCR).\n(3) A completed and executed Civil Cover Sheet form shall accompany the initial pleading\nof each civil case to be filed, except that such requirement shall not apply to persons in the\ncustody of civil, state, or federal institutions or to persons filing cases pro se.\n(4) In addition to the requirements of Fed. R. Civ. P. 7.1(a), civil complaints must also be \naccompanied by a separately filed and signed certificate of interested persons that \ncontains a complete list of all persons, associations of persons, firms, partnerships, \ncorporations, guarantors, insurers, affiliates, parent or subsidiary corporations, or other \nlegal entities that are financially interested in the outcome of the case or else a statement \nthat there are no such persons to identify. This requirement shall not apply to persons in \nthe custody of civil, state or federal institutions or to persons filing cases pro se. \n(5) An amended complaint will supersede any prior filed complaint. Except to the extent that \nadoption by reference is permitted under Fed. R. Civ. P. 10(c), an amended complaint \nshall set forth amended allegations and fully restate all other allegations against all \nparties. ",
+          "pages": [
+            13
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-15",
+          "path": [],
+          "type": "paragraph",
+          "text": "9\n(b) Consolidated Cases.\n(1) Unless otherwise ordered by the Court, where cases are consolidated, whether for trial only \nor for pretrial matters and trial, the caption of all documents filed after consolidation shall\nlist first the name and docket number of the lowest numbered case in the group, with \nwords “consolidated with” or abbreviation “c/w”. This shall be followed by a listing of the\nnames and docket numbers of only those cases to which the document applies. This \nrule does not apply to cases wherein the assigned Magistrate Judge has ordered \ncoordinated or consolidated discovery, but the cases are not consolidated for trial or any \nother purpose. See LR 10(b)(3).\n(2) The caption of the lowest numbered case will serve as the identifying caption during the\npendency of the consolidation and will continue to be used even if that particular case is\nclosed.\n(3) For cases consolidated for discovery purposes only, the caption of all discovery related \nfilings subject to the assigned Magistrate Judge’s discovery consolidation order shall list \nthe names and docket numbers of all cases in which coordinated discovery has been \nordered. The filing party’s case caption should appear at the top of the pleading followed \nby the other case caption(s) separated by “AND”. For discovery pleadings required to be \nfiled into the record, the filing party must file the pleading in each individual case subject \nto the discovery consolidation order.\n(c) Constitutional Questions. Whenever the constitutionality of any act of Congress is, or is \nintended to be, drawn into question in any suit or proceeding to which the United States, or any\nagency, officer or employee thereof as such officer or employee, is not a party, counsel for the\nparty raising or intending to raise the constitutional issue shall notify the Court, in writing, of the \nexistence of that question (to enable the Court to comply with 28 U.S.C. § 2403). A copy of such\nnotice shall be served upon each of the other parties. The notice shall give the title of the cause, \na reference to the questioned statute sufficient for its identification, and the grounds upon which\nthe statute is claimed to be unconstitutional.",
+          "pages": [
+            14
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "10\n",
+          "pages": [
+            15
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "lamd-civil-parsed-v1-cdcfeeed1072e6fb",
+      "sourceDocumentId": "parsed-lamd-cdcfeeed1072e6fb",
+      "sourceUrl": "https://www.lamd.uscourts.gov/sites/default/files/pdf/2022%20Local%20Rules%20Revisions%208-18-2022.pdf",
+      "pageIndex": 13,
+      "pageSpan": [
+        13,
+        15
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "lamd-civil:11",
+      "collectionId": "lamd-civil",
+      "districtId": "lamd",
+      "number": "11",
+      "citation": "Middle District of Louisiana · Rule 11",
+      "title": "SIGNING OF PLEADINGS, MOTIONS, AND OTHER PAPERS;",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 11 - SIGNING OF PLEADINGS, MOTIONS, AND OTHER PAPERS; \nREPRESENTATIONS TO COURT; SANCTIONS\n(a) Signing of Pleadings, Motions and Other Papers.\n(1) Every pleading, motion, or other document presented for filing shall, in accordance with the\nFederal Rules of Civil Procedure, be signed by counsel admitted to practice before this\nCourt. If the document is submitted by a pro hac vice attorney, the document must also\nbe signed by local counsel associated with such pro hac vice attorney in accordance with\nLR83(b)(8).\n(2) Electronic signatures must comply with the administrative procedures.\n(3) In addition, counsel's name, address, telephone and facsimile numbers, email address\nand Attorney Identification Number shall be typed or printed under the attorney’s \nsignature. If the attorney is admitted to practice before the Supreme Court of Louisiana,\nthe Attorney Identification Number shall be the same as the number assigned by the\nSupreme Court of Louisiana.\n(4) Documents filed by a party not represented by counsel shall be signed by the party and\nshall include name, address and telephone number.\n(5) Each attorney and pro se litigant has a continuing obligation to apprise the Court of any\naddress change.\n(b) Lead Attorney.\n(1) If a law firm or more than one attorney represents a party, one attorney will be designated\nin the first pleading filed on behalf of that party as lead attorney. This attorney may, but \nneed not, be the attorney who personally signs pleadings.\n(2) The designated lead attorney will be responsible for the case and all notices and other\ncommunications with respect to it will be directed to the designated lead attorney, or to\nlocal counsel in the event a visiting attorney is designated as lead attorney. The\ndesignation of the lead attorney may be changed at any time by written notice filed with\nthe Court. If a party desires to change the lead attorney, the new lead attorney will be ",
+          "pages": [
+            15
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "11\npromptly designated.\n",
+          "pages": [
+            16
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "lamd-civil-parsed-v1-cdcfeeed1072e6fb",
+      "sourceDocumentId": "parsed-lamd-cdcfeeed1072e6fb",
+      "sourceUrl": "https://www.lamd.uscourts.gov/sites/default/files/pdf/2022%20Local%20Rules%20Revisions%208-18-2022.pdf",
+      "pageIndex": 15,
+      "pageSpan": [
+        15,
+        16
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "lamd-civil:12",
+      "collectionId": "lamd-civil",
+      "districtId": "lamd",
+      "number": "12",
+      "citation": "Middle District of Louisiana · Rule 12",
+      "title": "DEFENSES AND OBJECTIONS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 12 – DEFENSES AND OBJECTIONS\nIf the Court grants leave to allow a party to file an amended complaint while a motion to dismiss \npursuant to Fed. R. Civ. P. 12 is pending, the Clerk will terminate the pending motion to dismiss without \nprejudice to the party to refile if grounds exist therefor based upon the allegations contained in the \namended complaint. \n",
+          "pages": [
+            16
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "lamd-civil-parsed-v1-cdcfeeed1072e6fb",
+      "sourceDocumentId": "parsed-lamd-cdcfeeed1072e6fb",
+      "sourceUrl": "https://www.lamd.uscourts.gov/sites/default/files/pdf/2022%20Local%20Rules%20Revisions%208-18-2022.pdf",
+      "pageIndex": 16,
+      "pageSpan": [
+        16,
+        16
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "lamd-civil:16",
+      "collectionId": "lamd-civil",
+      "districtId": "lamd",
+      "number": "16",
+      "citation": "Middle District of Louisiana · Rule 16",
+      "title": "PRETRIAL CONFERENCES; SCHEDULING; MANAGEMENT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 16 - PRETRIAL CONFERENCES; SCHEDULING; MANAGEMENT\n(a) Scheduling Orders.\n(1) The scope and timing of the scheduling order under Fed. R. Civ. P. 16(b) shall be as \nprescribed by the Civil Justice Expense and Delay Reduction Plan of this Court (see \nGeneral Orders of the Court).\n(2) Unless otherwise ordered by a Judge in a particular case, the following categories of\ncases are exempted from the requirements for a scheduling order:\nSocial Security Appeals \nBankruptcy Appeals Habeas\nCorpus cases Prisoner 1983\ncases\nGovernment Collection and Foreclosure cases\n(3) The Magistrate Judges of this Court are authorized to enter and/or modify scheduling \norders in matters referred to them or when directed by a District Judge.\n(b) Alternative Dispute Resolution. If the District Judge or Magistrate Judge determines at any\ntime that the case will benefit from alternative dispute resolution, the Judge may:\n(1) refer the case to private mediation, if the parties consent, even if such mediation efforts\nupset previously set trial or other dates;\n(2) order non-binding mini-trial or non-binding summary jury trial before a judge with the parties’",
+          "pages": [
+            16
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "12\nconsent; or\n(3) employ other dispute resolution programs which may be designated for use in this District.\nAll alternative dispute resolution proceedings shall be confidential.\n(c) Notice of Settlement. Whenever a civil case is settled or otherwise disposed of, counsel\nshall immediately file a Joint Notice of Settlement, signed by counsel for Plaintiff, into the record.\nAdditionally, counsel shall immediately inform the Clerk's office, the Judge to whom the case is\nassigned, and shall comply with LR45(b) relative to all persons subpoenaed as witnesses. If\na civil case is settled as to fewer than all of the parties or all of the claims, the Joint Notice shall \nalso set forth the remaining parties and unsettled claims. The Joint Notice may also include a\nrequest for a conditional order of dismissal, allowing for reinstatement of the matter if the\nsettlement is not consummated within the time stated in the order of dismissal.\n",
+          "pages": [
+            17
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "lamd-civil-parsed-v1-cdcfeeed1072e6fb",
+      "sourceDocumentId": "parsed-lamd-cdcfeeed1072e6fb",
+      "sourceUrl": "https://www.lamd.uscourts.gov/sites/default/files/pdf/2022%20Local%20Rules%20Revisions%208-18-2022.pdf",
+      "pageIndex": 16,
+      "pageSpan": [
+        16,
+        17
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "lamd-civil:23",
+      "collectionId": "lamd-civil",
+      "districtId": "lamd",
+      "number": "23",
+      "citation": "Middle District of Louisiana · Rule 23",
+      "title": "CLASS ACTIONS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 23 - CLASS ACTIONS\nIn any case sought to be maintained as a class action:\n(a) The complaint shall bear next to its caption the designation, \"Complaint-Class\nAction\";\n(1) Refer to the portions of Fed. R. Civ. P. 23 under which it is claimed that the suit is properly\nmaintainable as a class action;\n(2) Make allegations thought to justify the maintenance of the claim as a class action,\nincluding, but not necessarily limited to:\n(A) the size (or approximate size) and definition of the alleged class, \n(B) the basis upon which the plaintiff (or plaintiffs) claims,\n(i) to be an adequate representative of the class, or\n(ii) if the class is comprised of defendants, that those named as parties are\nadequate representatives of the class,\n(3) The alleged questions of law or fact claimed to be common to the class; and\n(4) In actions claimed to be maintainable as class actions under Fed. R. Civ. P. 23(b)(3),",
+          "pages": [
+            17
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "13\nallegations thought to support the findings required by that subdivision.\n(b) The foregoing provisions shall apply, with appropriate adaptations, to any counterclaim or cross claim\nalleged to be brought for or against a class.\n(c) Whenever a party or counsel desires to prohibit another party or counsel from communicating\nconcerning such action with any potential or actual class member not a formal party to the action,\nthe party or counsel shall apply in writing to the Court for such an order. In such application, the\nparties must set forth with particularity the abuses they fear will result from such communication, along\nwith the form of remedy they believe would be appropriate to prevent frustration of the policies of\nLR23.\n(1) The Court will not enter an order prohibiting communication with members of the class in\nthe absence of a clear record (and when necessary, an evidentiary hearing) reflecting:\n(A) specific findings regarding the abuse the Court seeks to prevent; \n(B) the need for such an order, weighing the abuse sought to be corrected and\nthe effect it will have on the right of a party to proceed pursuant to LR23 without\ninterference.\n(2) Any attorney who communicates with the class shall preserve and retain in one’s files, until\nthe final conclusion of the action, a copy of all communications which the attorney has\nsent to any members of the class or potential class.\n",
+          "pages": [
+            18
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "lamd-civil-parsed-v1-cdcfeeed1072e6fb",
+      "sourceDocumentId": "parsed-lamd-cdcfeeed1072e6fb",
+      "sourceUrl": "https://www.lamd.uscourts.gov/sites/default/files/pdf/2022%20Local%20Rules%20Revisions%208-18-2022.pdf",
+      "pageIndex": 17,
+      "pageSpan": [
+        17,
+        18
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "lamd-civil:26",
+      "collectionId": "lamd-civil",
+      "districtId": "lamd",
+      "number": "26",
+      "citation": "Middle District of Louisiana · Rule 26",
+      "title": "GENERAL PROVISIONS GOVERNING DISCOVERY; DUTY OF",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 26 - GENERAL PROVISIONS GOVERNING DISCOVERY; DUTY OF \nDISCLOSURE\n(a) Meeting of Parties Under Fed. R. Civ. P. 26(f). Except as otherwise ordered by the Court, the\nprovisions of Fed. R. Civ. P. 26(f), requiring a meeting of parties prior to the scheduling \nconference, shall apply to all civil actions in the Court subject to the following modifications: \n(1) The requirements for a meeting of the parties does not apply in cases exempted from \nthe requirements of a scheduling order under LR16(a)(2). \n(2) The parties may agree to hold the meeting by telephone.",
+          "pages": [
+            18
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "14\n(3) Any meeting of the parties shall be held in time to permit the report of the meeting to be\nfiled with the Court no later than two weeks prior to the date of the scheduling conference.\n(4) Formal discovery may begin in cases in which no meeting is required without regard to the\nrequirements of Fed. R. Civ. P. 26(d) and (f).\n(b) Initial Disclosure. Within the time designated in the Court’s initial order setting the Fed. R. Civ.\nP. 16 conference, the parties must make the disclosures required by Fed. R. Civ. P. 26(a)(1).\nDisclosures must be made no later than seven days before the Case Management Conference,\nunless a different time is set by court order or unless a party objects during the attorney conference\nand states the objection in the proposed case management order.\n(c) Withholding Privileged or Protected Information. A party withholding information claimed\nprivileged or otherwise protected must submit a privilege log that contains at least the following\ninformation: name of the document, electronically stored information, or tangible things;\ndescription of the document, electronically stored information, or tangible thing, which description\nmust include each requisite element of the privilege or protection asserted; date; author(s);\nrecipient(s); and nature of the privilege.\n(d) Discovery Deadlines.\n(1) Unopposed discovery may continue after the applicable deadline for discovery \ncontained in the scheduling order, provided that discovery does not delay other pretrial\npreparations or the trial setting. Absent exceptional circumstances, no motions relating\nto discovery, including motions under Fed. R. Civ. P. 26(c), 29, and 37, shall be filed after\nthe expiration of the discovery deadline, unless they are filed within seven days after the\ndiscovery deadline and pertain to conduct occurring during the final seven days of\ndiscovery.\n(2) Written discovery is not timely unless the response to that discovery would be due before\nthe discovery deadline. The responding party has no obligation to respond and object to\nwritten discovery if the response and objection would not be due until after the discovery\ndeadline. Discovery depositions must be completed before the discovery deadline.",
+          "pages": [
+            19
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "15\nNotices served before the discovery deadline which purport to schedule depositions after\nthe discovery deadline will not be enforced.\n",
+          "pages": [
+            20
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "lamd-civil-parsed-v1-cdcfeeed1072e6fb",
+      "sourceDocumentId": "parsed-lamd-cdcfeeed1072e6fb",
+      "sourceUrl": "https://www.lamd.uscourts.gov/sites/default/files/pdf/2022%20Local%20Rules%20Revisions%208-18-2022.pdf",
+      "pageIndex": 18,
+      "pageSpan": [
+        18,
+        20
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "lamd-civil:33",
+      "collectionId": "lamd-civil",
+      "districtId": "lamd",
+      "number": "33",
+      "citation": "Middle District of Louisiana · Rule 33",
+      "title": "INTERROGATORIES TO PARTIES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 33 - INTERROGATORIES TO PARTIES\nAnswers and/or objections to interrogatories must state in full the interrogatory, preceding each\nanswer or objection.\n",
+          "pages": [
+            20
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "lamd-civil-parsed-v1-cdcfeeed1072e6fb",
+      "sourceDocumentId": "parsed-lamd-cdcfeeed1072e6fb",
+      "sourceUrl": "https://www.lamd.uscourts.gov/sites/default/files/pdf/2022%20Local%20Rules%20Revisions%208-18-2022.pdf",
+      "pageIndex": 20,
+      "pageSpan": [
+        20,
+        20
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "lamd-civil:34",
+      "collectionId": "lamd-civil",
+      "districtId": "lamd",
+      "number": "34",
+      "citation": "Middle District of Louisiana · Rule 34",
+      "title": "REQUESTS FOR PRODUCTION",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 34 – REQUESTS FOR PRODUCTION\nAnswers and/or objections to requests for production must state in full the request for \nproduction immediately preceding each answer or objection.\n",
+          "pages": [
+            20
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "lamd-civil-parsed-v1-cdcfeeed1072e6fb",
+      "sourceDocumentId": "parsed-lamd-cdcfeeed1072e6fb",
+      "sourceUrl": "https://www.lamd.uscourts.gov/sites/default/files/pdf/2022%20Local%20Rules%20Revisions%208-18-2022.pdf",
+      "pageIndex": 20,
+      "pageSpan": [
+        20,
+        20
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "lamd-civil:35",
+      "collectionId": "lamd-civil",
+      "districtId": "lamd",
+      "number": "35",
+      "citation": "Middle District of Louisiana · Rule 35",
+      "title": "MOTIONS FOR PHYSICAL OR MENTAL EXAMINATION",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 35 - MOTIONS FOR PHYSICAL OR MENTAL EXAMINATION\nMotions for physical and/or mental examination of a party shall include, in addition to the \nrequirement of Fed. R. Civ. P. 35(a)(2):\n• Whether a personal and/or medical history will be obtained;\n• Whether a physical examination will be undertaken;\n• A description of the written, verbal-administered and/or physical tests to be \nperformed, both invasive and non-invasive;\n• The identities of any persons administering and/or interpreting the test results, if \ndifferent from the person identified in the motion; and\n• The anticipated duration of the examination.\n",
+          "pages": [
+            20
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "lamd-civil-parsed-v1-cdcfeeed1072e6fb",
+      "sourceDocumentId": "parsed-lamd-cdcfeeed1072e6fb",
+      "sourceUrl": "https://www.lamd.uscourts.gov/sites/default/files/pdf/2022%20Local%20Rules%20Revisions%208-18-2022.pdf",
+      "pageIndex": 20,
+      "pageSpan": [
+        20,
+        20
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "lamd-civil:36",
+      "collectionId": "lamd-civil",
+      "districtId": "lamd",
+      "number": "36",
+      "citation": "Middle District of Louisiana · Rule 36",
+      "title": "REQUESTS FOR ADMISSION",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 36 - REQUESTS FOR ADMISSION\n (a) Responses to Requests for Admission. Answers and/or objections to requests for \nadmission must state in full the request for admission immediately preceding each answer or\nobjection.\n(b) Number of Requests for Admission. No party shall serve on any other party more than 25\nrequests for admission in the aggregate without leave of Court. Each sub-part of a request for",
+          "pages": [
+            20
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "16\nadmission shall count as an additionalrequest for admission. Any party desiring to serve additional\nrequests for admission shall file a written motion setting forth the proposed additional requests\nfor admission and the reasons establishing good cause for their use.\n",
+          "pages": [
+            21
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "lamd-civil-parsed-v1-cdcfeeed1072e6fb",
+      "sourceDocumentId": "parsed-lamd-cdcfeeed1072e6fb",
+      "sourceUrl": "https://www.lamd.uscourts.gov/sites/default/files/pdf/2022%20Local%20Rules%20Revisions%208-18-2022.pdf",
+      "pageIndex": 20,
+      "pageSpan": [
+        20,
+        21
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "lamd-civil:37",
+      "collectionId": "lamd-civil",
+      "districtId": "lamd",
+      "number": "37",
+      "citation": "Middle District of Louisiana · Rule 37",
+      "title": "DISCOVERY VIOLATIONS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 37 - DISCOVERY VIOLATIONS\nMotions addressed to issues concerning discovery propounded under Fed. R. Civ. P. 33, 34, 36\nand 37 must quote verbatim each interrogatory, request for production, or request for admission to which\nthe motion is addressed, followed immediately by the verbatim response or objection which provided\nthereto.\n",
+          "pages": [
+            21
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "lamd-civil-parsed-v1-cdcfeeed1072e6fb",
+      "sourceDocumentId": "parsed-lamd-cdcfeeed1072e6fb",
+      "sourceUrl": "https://www.lamd.uscourts.gov/sites/default/files/pdf/2022%20Local%20Rules%20Revisions%208-18-2022.pdf",
+      "pageIndex": 21,
+      "pageSpan": [
+        21,
+        21
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "lamd-civil:38",
+      "collectionId": "lamd-civil",
+      "districtId": "lamd",
+      "number": "38",
+      "citation": "Middle District of Louisiana · Rule 38",
+      "title": "JURY TRIAL OF RIGHT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 38 - JURY TRIAL OF RIGHT\nIf a jury demand is made in the document, the caption shall contain words indicating that a\ndemand for jury trial is being made therein.\n",
+          "pages": [
+            21
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "lamd-civil-parsed-v1-cdcfeeed1072e6fb",
+      "sourceDocumentId": "parsed-lamd-cdcfeeed1072e6fb",
+      "sourceUrl": "https://www.lamd.uscourts.gov/sites/default/files/pdf/2022%20Local%20Rules%20Revisions%208-18-2022.pdf",
+      "pageIndex": 21,
+      "pageSpan": [
+        21,
+        21
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "lamd-civil:39",
+      "collectionId": "lamd-civil",
+      "districtId": "lamd",
+      "number": "39",
+      "citation": "Middle District of Louisiana · Rule 39",
+      "title": "TRIAL BY JURY OR BY THE COURT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 39 - TRIAL BY JURY OR BY THE COURT\nAll counsel of record and parties to the litigation must be present in court at all stages of trial,\nunless leave of Court is granted by the presiding Judge.\n",
+          "pages": [
+            21
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "lamd-civil-parsed-v1-cdcfeeed1072e6fb",
+      "sourceDocumentId": "parsed-lamd-cdcfeeed1072e6fb",
+      "sourceUrl": "https://www.lamd.uscourts.gov/sites/default/files/pdf/2022%20Local%20Rules%20Revisions%208-18-2022.pdf",
+      "pageIndex": 21,
+      "pageSpan": [
+        21,
+        21
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "lamd-civil:41",
+      "collectionId": "lamd-civil",
+      "districtId": "lamd",
+      "number": "41",
+      "citation": "Middle District of Louisiana · Rule 41",
+      "title": "DISMISSAL OF ACTIONS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 41 - DISMISSAL OF ACTIONS\n(a) Dismissals. Except as provided in Fed. R. Civ. P. 41(a)(1), if an attorney proposes to dismiss\na suit with the intention of refiling it, the attorney must bring this to the attention of the Judge to \nwhom the suit has been assigned. Such dismissal requests do not result in automatic dismissal \nand must be ruled upon by the assigned Judge.\n(b) Dismissal for Failure to Prosecute.\n(1) A civil action may be dismissed by the Court for lack of prosecution as follows:\n(A) Where no service of process has been made within 90 days after filing of the\ncomplaint;\n(B) Where no responsive pleadings have been filed or no default has been entered",
+          "pages": [
+            21
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "17\nwithin sixty days after service of process, except when Fed. R. Civ. P. 12(a)(3)\napplies or a dispositive motion is pending; or\n(C) Where a cause has been pending six months without proceedings being taken\nwithin such period. This provision shall not apply if the cause is awaiting action by\nthe Court.\n(2) Prior to issuance of a dismissal, notice shall be sent to the plaintiff, and plaintiff shall be\nallowed fourteen calendar days from mailing of the notice within which to file evidence of\ngood cause for plaintiff’s failure to act. If no response is received within the allotted time, the\nCourt may dismiss the civil action. If a timely response is filed, a District Judge or a\nMagistrate Judge may order additional time within which to take action, dismiss the civil\naction without prejudice, or issue any other appropriate order.\n(3) Dismissal under this Rule shall be without prejudice. The Order of Dismissal shall allow\nfor reinstatement of the action within thirty days for good cause shown.\n(4) The failure of an attorney or pro se litigant to keep the Court apprised of an address change\nmay be considered cause for dismissal for failure to prosecute, when a notice is returned\nto a party or the Court for the reason of an incorrect address and no correction is made to \nthe address for a period of thirty days.\n",
+          "pages": [
+            22
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "lamd-civil-parsed-v1-cdcfeeed1072e6fb",
+      "sourceDocumentId": "parsed-lamd-cdcfeeed1072e6fb",
+      "sourceUrl": "https://www.lamd.uscourts.gov/sites/default/files/pdf/2022%20Local%20Rules%20Revisions%208-18-2022.pdf",
+      "pageIndex": 21,
+      "pageSpan": [
+        21,
+        22
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "lamd-civil:43",
+      "collectionId": "lamd-civil",
+      "districtId": "lamd",
+      "number": "43",
+      "citation": "Middle District of Louisiana · Rule 43",
+      "title": "TAKING OF TESTIMONY",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 43 - TAKING OF TESTIMONY\n(a) Oral Testimony on Hearing of Motion. Oral testimony shall not be offered at the hearing on a\nmotion without prior authorization from the Court, and counsel shall not cause service of any\nsubpoenas or subpoena duces tecum in connection with any such hearing until such authorization\nhas been obtained and reasonable notice has been given to all parties.\n(b) One Counsel to Examine Witness and Present Objections. Only one counsel for each \nseparate interest shall conduct the examination of any one witness, or present argument or urge\nobjections with respect to the testimony of that witness, except with leave of Court.",
+          "pages": [
+            22
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-24",
+          "path": [],
+          "type": "paragraph",
+          "text": "18\n",
+          "pages": [
+            23
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "lamd-civil-parsed-v1-cdcfeeed1072e6fb",
+      "sourceDocumentId": "parsed-lamd-cdcfeeed1072e6fb",
+      "sourceUrl": "https://www.lamd.uscourts.gov/sites/default/files/pdf/2022%20Local%20Rules%20Revisions%208-18-2022.pdf",
+      "pageIndex": 22,
+      "pageSpan": [
+        22,
+        23
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "lamd-civil:45",
+      "collectionId": "lamd-civil",
+      "districtId": "lamd",
+      "number": "45",
+      "citation": "Middle District of Louisiana · Rule 45",
+      "title": "SUBPOENA",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-24",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 45 - SUBPOENA\n(a) Witness Fees and Mileage. It shall be the duty of the person provoking the issuance of any\nsubpoena for a witness to cause to be tendered to the witness, at the time of service of the\nsubpoena, one day's attendance fee and the legal amount for mileage to and from the place of\ntrial or hearing, as set forth in 28 U.S.C. § 1821, and further to cause to be paid concurrently to any\nsuch witness the daily attendance fee for each day the witness is required to attend said trial\nor hearing. No witness shall be liable to attachment for not obeying the subpoena if this Rule\nhas not been complied with. This Rule does not apply to witnesses for the United States.\n(b) Notification of Witnesses. Any person who has provoked the issuance of a subpoena shall\nnotify the person subpoenaed if the witness’s attendance will not be required in time to prevent\nthe witness from making a needless trip. Any person failing to comply with this Rule may be \nsubject to appropriate sanctions.\n(c) Subpoena Duces Tecum to Hospitals.\n(1) When a subpoena duces tecum is served upon the custodian of records or other qualified\nwitness from a hospital or other healthcarefacility in an action in which the hospital or facility\nis not a party and such subpoena requires the production for trial of all or any part of the\nrecords of the hospital or facility relating to the care and treatment of a patient in such\nhospital or facility, it shall be sufficient compliance therewith if the custodian or other\nofficer of the hospital or facility delivers by registered mail or by hand a true and correct\ncopy of all records described in such subpoena to the Clerk of Court or other tribunal, or if\nthere is no Clerk of Court, then the Court or other tribunal, together with the affidavit\ndescribed in Subsection (2). Production of the record shall occur prior to the time fixed for\nthe trial, but no earlier than ten working days before the trial date unless otherwise directed\nin the pretrial order. This section is limited to procedures for complying with a subpoena\nduces tecum for purposes of trial and shall not affect the rights of parties to production of \ndocuments pursuant to laws governing discovery or other laws pertaining thereto, ",
+          "pages": [
+            23
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "19\nincluding Fed. R. Evid. 902(11).\n(2) The records shall be accompanied by the affidavit of the custodianor otherqualified witness,\nstating in substance each of the following:\n(A) That the affiant is the duly authorized custodian of the records and has authority\nto certify the records.\n(B) That the copy is a true copy of all records described in the subpoena.\n(C) That the records were prepared by the personnel of the hospital or facility, staff\nphysicians, or persons acting under the control of either in the ordinary course of\nthe business of the hospital or facility at or near the time of the act, condition, or\nevent.\n(3) If the hospital or facility has none of the records described, or only part thereof, the \ncustodian shall so state in the affidavit, and deliver the affidavit and such records as are\navailable in the manner provided in Subsection (1).\n",
+          "pages": [
+            24
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "lamd-civil-parsed-v1-cdcfeeed1072e6fb",
+      "sourceDocumentId": "parsed-lamd-cdcfeeed1072e6fb",
+      "sourceUrl": "https://www.lamd.uscourts.gov/sites/default/files/pdf/2022%20Local%20Rules%20Revisions%208-18-2022.pdf",
+      "pageIndex": 23,
+      "pageSpan": [
+        23,
+        24
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "lamd-civil:47",
+      "collectionId": "lamd-civil",
+      "districtId": "lamd",
+      "number": "47",
+      "citation": "Middle District of Louisiana · Rule 47",
+      "title": "JURORS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 47 - JURORS\n(a) Juries. All juries for the District are drawn and convene as directed by the Court.\n(b) Voir Dire Examination. All voir dire examinations of prospective jurors will be conducted by the\nJudge alone, unless an exception to this rule is made by the presiding Judge. Counsel may\nsubmit in advance, in writing, questions to be asked upon such examination and may supplement\nthis by oral request at side bar when necessary.\n(c) Argument of Law to Jury Prohibited. In the argument of any case to a jury, counsel shall not\nread to the jury from any legal textbook or reported case, instruct the jury on any matter of law, or \nargue law to the jury.\n(d) Contacting Prospective Jurors and Jurors Before and During Trial.\n(1) A lawyer shall not knowingly communicate, either directly or through another, with a juror \nor prospective juror unless authorized to do so by law or court order, upon good cause ",
+          "pages": [
+            24
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "20\nshown.1\n(2) A lawyer may not, either personally or through another, send an access request to a juror \nor prospective juror through any electronic social media. An access request is a \ncommunication to a juror seeking access to a juror or prospective juror’s social media for \nthe purpose of obtaining information about a juror or potential juror which the juror or \npotential juror has not made public or that would be the type of ex parte communication \nprohibited by subsection (1) of this local rule.2\n(3) Unless otherwise limited by law, court order, or subsections (1) and (2) of this local rule, \na lawyer may review, in advance of or during a trial, a juror’s or prospective juror’s public \nInternet presence. “Internet presence” includes but is not limited to postings by the juror \nor prospective juror on electronic social media that are publicly available and that do not \nrequire an access request.3\n(4) In the course of reviewing a juror’s or potential juror’s Internet presence, if a lawyer \ndiscovers evidence of juror or potential juror misconduct, the lawyer must disclose the \nmisconduct or potential misconduct to the court as soon as possible.4\n(e) Interviewing Jurors After Trial\n(1) No party or their attorney shall, personally or through another person, contact, interview,\nexamine, or question any juror or alternate, except on leave of court granted upon good\ncause shown. If a party believes in good faith that grounds for legal challenge to a verdict \n1 This is drawn from the Louisiana Rule of Professional Conduct 3.5(b), ABA Model Rule 3.5(b) and ABA Formal \nOpinion 466. \n2 This is drawn verbatim from ABA Formal Opinion 466 except that “subsection (1) of this local rule” replaces \n“Model Rule 3.5(b).”\n3 This is drawn from ABA Formal Opinion 466. See also Jan L. Jacobowitz and John G. Browning, Legal Ethics \nand Social Media, A Practitioner’s Handbook, American Bar Association, 2017, at 96. (“[R]esearching the social \nmedia of prospective jurors, and continuing to monitor social media activity during trial, can be vital to seating an \nhonest, unbiased jury, and to ensuring that any online misconduct is promptly brought to the court’s attention.”) \nOne writer has suggested that “it is not only permissible for lawyers to research jurors before and during trial \nusing social media according to currently existing professional standards, but they may have an ethical obligation \nto do so.” Jessica L. Boylan, “Jury Duty”: The Ethical Obligations of Attorneys Researching Jurors Using Social \nMedia Technology, 29 Geo. J. Legal Ethics 867, 869 (2016).\n4 This is drawn from ABA Formal Opinion 466.",
+          "pages": [
+            25
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "21\nexist, he may move for an order permitting an interview of a juror or jurors to determine \nwhether the verdict is subject to challenge.5\n(2) No juror has any obligation to speak to any person about any case and may refuse all\ninterviews or comments;\n(3) No person may make repeated requests for interviews or questions after a juror has \nexpressed the desire not to be interviewed;\n(4) No juror or alternate who consents to be interviewed may disclose any information with\nrespect to the following:\n(A) The specific vote of any juror other than the juror being interviewed; \n(B) The deliberations of the jury; or\n(C) Evidence of improprieties in the jury's deliberation.\n",
+          "pages": [
+            26
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "lamd-civil-parsed-v1-cdcfeeed1072e6fb",
+      "sourceDocumentId": "parsed-lamd-cdcfeeed1072e6fb",
+      "sourceUrl": "https://www.lamd.uscourts.gov/sites/default/files/pdf/2022%20Local%20Rules%20Revisions%208-18-2022.pdf",
+      "pageIndex": 24,
+      "pageSpan": [
+        24,
+        26
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "lamd-civil:54",
+      "collectionId": "lamd-civil",
+      "districtId": "lamd",
+      "number": "54",
+      "citation": "Middle District of Louisiana · Rule 54",
+      "title": "JUDGMENTS; COSTS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 54 - JUDGMENTS; COSTS\n(a) Costs. Whenever any civil action scheduled for jury trial is settled or otherwise disposed of prior \nto trial, then, except for good cause shown, juror costs, including marshal's fees, mileage and\nper diem, shall be assessed as directed by the Court, unless the clerk's office is notified in time to \nadvise the jurors that it will not be necessary for them to attend.\n(b) Award of Attorney's Fees.\n(1) In all cases where attorney's fees are sought, the party desiring to be awarded such fees\nshall submit to the Court a contemporaneous time report reflecting the date, time involved, \nand nature of the services performed. The report shall be in both narrative and statistical\nform and provide hours spent and justification thereof.\n(2) Any Judge of the Court may, for good cause shown, relieve counsel of the obligation\nof filing such a report with the Court.\n(c) Memorandum of Costs. Within thirty days after receiving notice of entry of judgment, unless\n5 This combines M.D. Florida Local Rule 5.01(d) and N.D. Mississippi Local Rule 48.",
+          "pages": [
+            26
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "22\notherwise ordered by the Court, the party in whose favor judgment is rendered and who claims\nand is allowed costs, shall serve on the attorney for the adverse party and file with the Clerk of\nCourt a notice of application to have the costs taxed, together with a memorandum signed by\nthe attorney of record stating that the items are correct and that the costs have been necessarily\nincurred, which is supported by itemization and documentation of all costs requested in each \ncategory.\n(d) Objections. Specific objections may be made within fourteen days to any item of costs\nsupported by affidavit or other evidence, which may be rebutted. The Clerk of Court shall\nthereupon tax the costs.\n(e) Review of Taxation of Costs. A dissatisfied party may request within seven days that the Court\nreview the action of the Clerk of Court, in accordance with Fed. R. Civ. P. 54(d).\n(f) Security for Costs. In any civil matter, the Court, on motion or its own initiative, may order\nany party to file bond for costs or additional security for costs in such an amount and so \nconditioned as it may designate.\n(g) Payment and Application for Order of Satisfaction of Judgment. Whenever any party shall\npay into court an amount of money which fully satisfies any judgment or decree in principal,\ninterest, and costs, the attorney may apply to the Court for an order of satisfaction and, after notice\nto opposing counsel, or party (if no counsel), upon proof to the Court of such complete\nsatisfaction, shall be entitled to an order declaring same.\n(h) Filing Acknowledgment of Satisfaction Notice in Docket. Upon filing of acknowledgment\nof satisfaction made by the judgment creditor or creditor attorney, the Clerk of Court shall note\nupon the docket sheet \"Judgment Satisfied,\" together with the date of any judgment.\n(i) Seaman and Pauper Cases. In all actions in which the fees of the U.S. Marshal and the Clerk\nof Court are not required by law to be paid in advance and in which a seaman or a party\nproceeding in forma pauperis prevails, either by judgment or by settlement, no dismissal or\nsatisfaction of judgment shall be filed or entered until all fees of the U.S. Marshal and the Clerk",
+          "pages": [
+            27
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "23\nof Court have been paid, unless otherwise ordered by the Court. It shall be the responsibility of\ncounsel handling the payment of any settlement to see to it that all fees are paid whether or not\nany dismissal or satisfaction of judgment entry is applied for.\n",
+          "pages": [
+            28
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "lamd-civil-parsed-v1-cdcfeeed1072e6fb",
+      "sourceDocumentId": "parsed-lamd-cdcfeeed1072e6fb",
+      "sourceUrl": "https://www.lamd.uscourts.gov/sites/default/files/pdf/2022%20Local%20Rules%20Revisions%208-18-2022.pdf",
+      "pageIndex": 26,
+      "pageSpan": [
+        26,
+        28
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "lamd-civil:55",
+      "collectionId": "lamd-civil",
+      "districtId": "lamd",
+      "number": "55",
+      "citation": "Middle District of Louisiana · Rule 55",
+      "title": "DEFAULT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 55 - DEFAULT\nIn addition to the provisions of Fed. R. Civ. P. 55, the following rules apply to default \njudgments:\n• All requests for entry of default shall be made to the Clerk of Court in writing;\n• The clerk shall provide notice of entry of default to each defendant or the defendant’s\nattorney at the last known address;\n• A judgment of default shall not be entered until fourteen days after entry of default.\n",
+          "pages": [
+            28
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "lamd-civil-parsed-v1-cdcfeeed1072e6fb",
+      "sourceDocumentId": "parsed-lamd-cdcfeeed1072e6fb",
+      "sourceUrl": "https://www.lamd.uscourts.gov/sites/default/files/pdf/2022%20Local%20Rules%20Revisions%208-18-2022.pdf",
+      "pageIndex": 28,
+      "pageSpan": [
+        28,
+        28
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "lamd-civil:56",
+      "collectionId": "lamd-civil",
+      "districtId": "lamd",
+      "number": "56",
+      "citation": "Middle District of Louisiana · Rule 56",
+      "title": "SUMMARY JUDGMENT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 56 - SUMMARY JUDGMENT\n(a) Motions for Summary Judgment. In addition to the material required to be filed by Local Civil \nRule 7(d), (f), & (g), a motion for summary judgment and opposition thereto shall comply with \nthe requirements of this rule.\n(b) Supporting Statement of Material Facts.\n(1) A motion for summary judgment shall be supported by a separate, short, and concise \nstatement of material facts, each set forth in separately numbered paragraphs, as to which \nthe moving party contends there is no genuine issue of material fact to be tried. Each fact \nasserted in the statement shall be simply and directly stated in narrative without footnotes \nor tables and shall be supported by a record citation as required by subsection (f) of this \nrule.\n(2) Nothing in this Local Civil Rule 56 precludes the parties from filing a stipulated statement \nof material facts as to all, or some, of the facts underlying a motion for summary judgment, \nor any opposition thereto. In the event the parties file a stipulated statement of material \nfacts, such stipulated facts shall control and take precedence over any conflicting ",
+          "pages": [
+            28
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "24\nstatement of fact filed by any party to the stipulation.\n(c) Opposing Statement of Material Facts. A party opposing a motion for summary judgment \nshall submit with its opposition a separate, short, and concise statement of material facts. The \nopposing statement shall admit, deny or qualify the facts by reference to each numbered \nparagraph of the moving party’s statement of material facts and unless a fact is admitted, shall \nsupport each denial or qualification by a record citation as required by this rule. Each such \nstatement shall begin with the designation “Admitted,” “Denied,” or “Qualified” and, in the case \nof an admission, shall end with such designation. The opposing statement may contain in a \nseparately titled section additional facts, each set forth in a separately numbered paragraph and \nsupported by a record citation as required by subsection (f) of this rule.\n(d) Reply Statement of Material Facts. A party replying to the opposition to a motion for summary \njudgment shall submit with its reply a separate, short, and concise statement of material facts \nwhich shall be limited to any additional facts submitted by the opposing party. The reply \nstatement shall admit, deny or qualify such additional facts by reference to the numbered \nparagraphs of the opposing party’s statement of material facts and unless a fact is admitted, \nshall support each denial or qualification by a record citation as required by subsection (f) of this \nrule. Each such reply statement shall begin with the designation “Admitted,” “Denied,” or \n“Qualified” and, in the case of an admission, shall end with such designation.\n(e) Motions to Strike Not Allowed. Motions to strike statements of fact are not allowed. If a party \ncontends that an individual statement of fact should not be considered by the court, the party \nmay include as part of the response that the statement of fact “should be stricken” with a brief \nstatement of the reason(s) and the authority or record citation in support. Without prejudice to \nthe determination of the request to strike, the party shall admit, deny or qualify the statement as \nprovided in this rule. A party may respond to a request to strike either in the reply statement of \nmaterial facts as provided in this rule or, if the request was made in a reply statement of material \nfacts, by filing a response within 14 days of service of the reply statement. A response to a \nrequest to strike shall be strictly limited to a brief statement of the reason(s) why the statement ",
+          "pages": [
+            29
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "25\nof fact should be considered and the authority or record citation in support.\n(f) Statement of Facts Deemed Admitted Unless Properly Controverted; Specific Record of \nCitations Required. Facts contained in a supporting or opposing statement of material facts, \nif supported by record citations as required by this rule, shall be deemed admitted unless \nproperly controverted. An assertion of fact set forth in a statement of material facts shall be \nfollowed by a citation to the specific page or paragraph of identified record material supporting \nthe assertion. The court may disregard any statement of fact not supported by a specific citation \nto record material properly considered on summary judgment. The court shall have no \nindependent duty to search or consider any part of the record not specifically referenced in the \nparties’ separate statement of facts.\n(g) Facts Admitted for Purpose of Summary Judgment. Facts deemed admitted solely for \npurposes of summary judgment shall not be deemed admitted for purposes other than \ndetermining whether summary judgment is appropriate.\n(h) Number of Motions for Summary Judgment. As a general rule, a party may file only one \nmotion for summary judgment that addresses all issues for which that party seeks summary \njudgment. A party may submit multiple motions for summary judgment only after seeking leave \nof Court and demonstrating good cause.\n",
+          "pages": [
+            30
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "lamd-civil-parsed-v1-cdcfeeed1072e6fb",
+      "sourceDocumentId": "parsed-lamd-cdcfeeed1072e6fb",
+      "sourceUrl": "https://www.lamd.uscourts.gov/sites/default/files/pdf/2022%20Local%20Rules%20Revisions%208-18-2022.pdf",
+      "pageIndex": 28,
+      "pageSpan": [
+        28,
+        30
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "lamd-civil:58",
+      "collectionId": "lamd-civil",
+      "districtId": "lamd",
+      "number": "58",
+      "citation": "Middle District of Louisiana · Rule 58",
+      "title": "ENTRY OF JUDGMENT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 58 – ENTRY OF JUDGMENT\n(a) Judgments/Orders. Judgments and orders must be on a separate document and shall bear\nthe caption of the action.\n(b) Seaman Settlements.\n(1) To obtain a judgment based upon a joint stipulation and compromise, a complaint and a\njoint motion for approval of the compromise must be filed.\n(2) The filing must include:\n(A) Statements of the facts claimed by the respective parties;\n(B) Copies of all relevant and available medical reports, together with certification that",
+          "pages": [
+            30
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "26\nthe attached medical reports are all relevant reports that are available;\n(C) A copy of proposed disbursements. Attorney’s fees need not be set forth unless\nrequested by the Judge;\n(D) A copy of the proposed release.\n(3) The Judge must conduct an interview with the plaintiff in open court and on the record.\nIf the Court approves the compromise, an order will be entered in substantially the following form:\n“ORDER\n“Considering the joint motion of the parties, the statement of facts attached, \nannexed medical report, the proposed release, the Court having independently\ninterviewed the plaintiff and being satisfied that the plaintiff understands all legal\nrights and the consequences of the contemplated settlement that the Court\ndetermines to be fair and without making any determination as to seaman\nstatus,\n“IT IS ORDERED that the compromise between plaintiff and defendant with\nplaintiff in the amount of $ submitted this date, is hereby approved on the\nterms set forth in the proposed release.”\n(4) A similar procedure may be followed if a seaman’s case is compromised during trial. \n(5) If a matter is compromised after a bona fide complaint has been filed, pursuant to an out￾of-court interview with the plaintiff, a copy of the transcript of such proceedings shall be \nfiled in the record.\n",
+          "pages": [
+            31
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "lamd-civil-parsed-v1-cdcfeeed1072e6fb",
+      "sourceDocumentId": "parsed-lamd-cdcfeeed1072e6fb",
+      "sourceUrl": "https://www.lamd.uscourts.gov/sites/default/files/pdf/2022%20Local%20Rules%20Revisions%208-18-2022.pdf",
+      "pageIndex": 30,
+      "pageSpan": [
+        30,
+        31
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "lamd-civil:62",
+      "collectionId": "lamd-civil",
+      "districtId": "lamd",
+      "number": "62",
+      "citation": "Middle District of Louisiana · Rule 62",
+      "title": "STAY OF PROCEEDINGS TO ENFORCE A JUDGMENT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 62 – STAY OF PROCEEDINGS TO ENFORCE A JUDGMENT\n(a) Petitions to Stay Execution of State Court Judgments.\n(1) A petitioner who seeks a stay of enforcement of a state court judgment or order shall\nattach to the petition a copy of each pertinent state court opinion and judgment. The\npetition shall also state whether or not the same petitioner has previously sought relief\narising out of the same matter from this Court or from any other federal court. The",
+          "pages": [
+            31
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "27\nreasons for denying relief given by any court that has considered the matter shall also\nbe attached. If reasons for the ruling were not given in a written opinion, a copy of the\nrelevant portions of the transcript shall be supplied.\n(2) If any issue is raised that was not raised, or has not been fully exhausted, in state court,\nthe petition shall state the reasons why such action has not been taken.\n(b) Bond or Other Security. A bond or other security staying execution of a money judgment shall \nbe in the amount of the judgment plus 20% of the amount to cover interest, costs, and any award \nof damages for delay, unless the Court directs otherwise.\n",
+          "pages": [
+            32
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "lamd-civil-parsed-v1-cdcfeeed1072e6fb",
+      "sourceDocumentId": "parsed-lamd-cdcfeeed1072e6fb",
+      "sourceUrl": "https://www.lamd.uscourts.gov/sites/default/files/pdf/2022%20Local%20Rules%20Revisions%208-18-2022.pdf",
+      "pageIndex": 31,
+      "pageSpan": [
+        31,
+        32
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "lamd-civil:65",
+      "collectionId": "lamd-civil",
+      "districtId": "lamd",
+      "number": "65",
+      "citation": "Middle District of Louisiana · Rule 65",
+      "title": "INJUNCTIONS AND RESTRAINING ORDERS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 65 - INJUNCTIONS AND RESTRAINING ORDERS\nAn application or a motion for a temporary restraining order or for a preliminary injunction shall be\nmade in a document separate from the complaint and if not, may not be considered by the Court. An\napplication for a temporary restraining order shall be accompanied by a certificate of the applicant's\nattorney, or by an affidavit, or by other proof satisfactory to the Court, stating (1) that actual notice of the\ntime of making the application, and copies of all pleadings and other papers filed in the action to date or\nto be presented to the Court at the hearing, have been furnished to the adverse party's attorney, if known,\notherwise to the adverse party; or (2) the efforts made by the applicant to give such notice and furnish\nsuch copies.\n",
+          "pages": [
+            32
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "lamd-civil-parsed-v1-cdcfeeed1072e6fb",
+      "sourceDocumentId": "parsed-lamd-cdcfeeed1072e6fb",
+      "sourceUrl": "https://www.lamd.uscourts.gov/sites/default/files/pdf/2022%20Local%20Rules%20Revisions%208-18-2022.pdf",
+      "pageIndex": 32,
+      "pageSpan": [
+        32,
+        32
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "lamd-civil:65.1",
+      "collectionId": "lamd-civil",
+      "districtId": "lamd",
+      "number": "65.1",
+      "citation": "Middle District of Louisiana · Rule 65.1",
+      "title": "SECURITY: PROCEEDINGS AGAINST SURETIES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 65.1 - SECURITY: PROCEEDINGS AGAINST SURETIES\n(a) Qualifications of Sureties.\n(1) Every bond furnished in connection with a civil proceeding in this Court must have as\nsurety either (1) a cash deposit equal to the amount of the bond, (2) an obligation of the\nUnited States Government, or (3) a corporation authorized by the Secretary of the U. S.\nTreasury to act as surety on official bonds, pursuant to 31 U.S.C. § 9303-9309, except\nthat a bond for costs may instead have as surety an individual resident of the District\nwho satisfies the Court that the individual owns real or personal property within the",
+          "pages": [
+            32
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "28\nDistrict sufficient to justify the full amount of the suretyship.\n(2) Only by stipulation of the parties or by order of the Court may some other form of surety\nbe permitted.\n(b) Court Officers Not to Be Sureties. No clerk, marshal, member of the bar, or other officer of\nthis Court will be accepted as surety on any bond or undertaking in any action or proceeding\nin this Court.\n",
+          "pages": [
+            33
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "lamd-civil-parsed-v1-cdcfeeed1072e6fb",
+      "sourceDocumentId": "parsed-lamd-cdcfeeed1072e6fb",
+      "sourceUrl": "https://www.lamd.uscourts.gov/sites/default/files/pdf/2022%20Local%20Rules%20Revisions%208-18-2022.pdf",
+      "pageIndex": 32,
+      "pageSpan": [
+        32,
+        33
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "lamd-civil:67",
+      "collectionId": "lamd-civil",
+      "districtId": "lamd",
+      "number": "67",
+      "citation": "Middle District of Louisiana · Rule 67",
+      "title": "DEPOSIT IN COURT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 67 - DEPOSIT IN COURT\n(a) Receipt and Deposit of Registry Funds. All funds received in the Registry of the Court in civil\ncases whose principal sum is more than $500 will be deposited by the Clerk of Court with the\nCourt's designated depository, or, if otherwise ordered by the Court, in an interest bearing account\nat a rate no lower than ordinary passbook rates. Funds whose principal sum is $500 or less will\nbe deposited in the Court's U.S. Treasury registry and will bear no interest. In criminal cases,\nfunds received by the Court for a bail bond will be deposited in the U. S. Treasury and will bear\nno interest.\n(b) Form of Order.\n(1) A proposed order to deposit funds in the Court's Registry shall specify the amount to be \ndeposited. If the moving party desires to have the funds placed in a special investment,\na proposed order shall be filed with the Court which shall state the type of investment to be\nmade, the prevailing rate of interest, the length of time the funds are to be invested, and\nwhether the investment is to be automatically renewed at maturity.\n(2) Unless otherwise specifically provided by order of the Court, any interest earned on registry\naccounts will accrue to the person or persons ultimately found to be entitled to receive the\noriginal principal amount deposited in the Court's Registry.\n(c) Disbursement of Registry Funds.\n(1) Funds shall be disbursed from the registry of the Court only upon order of a Judge of this\nCourt. It shall be the responsibility of counsel filing a motion for disbursement to satisfy",
+          "pages": [
+            33
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "29\nthe Court of the recipient's entitlement to the funds sought to be disbursed.\n(2) A motion for disbursement of registry funds shall set forth the principal sum initially \ndeposited, the amount of principal funds to be disbursed, to whom the disbursement is to be\nmade, complete mailing instructions, and specific instructions regarding distribution of\naccrued interest.\n(3) Each motion shall be accompanied by a proposed order which shall contain substantially\nthe following language: \"The Clerk of Court is authorized and directed to draw a check (or\nchecks) on the funds on deposit in the registry of this Court in the principal amount of $ \nplus all interest earned less the assessment fee for the administration of funds, (or state\nother instruction regarding interest), payable to (name and address of payee), and mail or\ndeliver the check (or checks) to (payee or attorney) at (full address with zip code).\"\n(4) If more than one check is to be issued on a single order, the portion of principal due each\npayee must be stated separately.\n(5) Counsel must also provide the Social Security number or Tax I.D. number for each payee\nand complete mailing or delivery instructions for each payee. This information shall be\nsubmitted to the Clerk of Court’s Finance Department and shall not be filed into the case\nrecord.\n(6) On all checks drawn by the Clerk of Court on registry funds, the name of the payee shall be\nwritten as that name appears in the Court's order providing for disbursement.\n(7) The Clerk of Court will issue disbursements as soon after receipt of the order for \ndisbursement as the business of the Clerk's office allows, except when it is necessary\nto allow time for a check or draft to clear or when otherwise directed by the Court.\n",
+          "pages": [
+            34
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "lamd-civil-parsed-v1-cdcfeeed1072e6fb",
+      "sourceDocumentId": "parsed-lamd-cdcfeeed1072e6fb",
+      "sourceUrl": "https://www.lamd.uscourts.gov/sites/default/files/pdf/2022%20Local%20Rules%20Revisions%208-18-2022.pdf",
+      "pageIndex": 33,
+      "pageSpan": [
+        33,
+        34
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "lamd-civil:72",
+      "collectionId": "lamd-civil",
+      "districtId": "lamd",
+      "number": "72",
+      "citation": "Middle District of Louisiana · Rule 72",
+      "title": "MAGISTRATE JUDGES; PRETRIAL ORDERS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 72 - MAGISTRATE JUDGES; PRETRIAL ORDERS\n(a) Method of Review of Magistrate Judge Determination by a District Judge. A motion to\nreview a Magistrate Judge’s order or an objection to the proposed findings and recommendation\nof a Magistrate Judge must be made by filing a motion for review of the order or an objection to",
+          "pages": [
+            34
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "30\nthe proposed findings and recommendation, along with a supporting memorandum.\n(b) Referral of Proceedings in Civil Matters. Proceedings in civil matters may be referred to a\nMagistrate Judge for decision or for report and recommendation, in accordance with 28 U.S.C.\n§ 636(b)(1)(A) and (B), and any standing orders issued by the District Judge to whom the case\nis assigned.\n",
+          "pages": [
+            35
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "lamd-civil-parsed-v1-cdcfeeed1072e6fb",
+      "sourceDocumentId": "parsed-lamd-cdcfeeed1072e6fb",
+      "sourceUrl": "https://www.lamd.uscourts.gov/sites/default/files/pdf/2022%20Local%20Rules%20Revisions%208-18-2022.pdf",
+      "pageIndex": 34,
+      "pageSpan": [
+        34,
+        35
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "lamd-civil:73",
+      "collectionId": "lamd-civil",
+      "districtId": "lamd",
+      "number": "73",
+      "citation": "Middle District of Louisiana · Rule 73",
+      "title": "MAGISTRATE JUDGES; TRIAL BY CONSENT AND APPEAL",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 73 - MAGISTRATE JUDGES; TRIAL BY CONSENT AND APPEAL \nOPTIONS\n(a) Jurisdiction.\n(1) All Magistrate Judges are designated fully to exercise all powers and jurisdiction, and\nperform to the fullest extent the duties prescribed in 28 U.S.C. § 636(a), (b) and (c).\n(2) Nothing in these rules shall preclude the Court, or a Judge of this Court, from conducting\nany proceeding itself rather than by a Magistrate Judge.\n(b) Referral of Cases. The Clerk of Court shall refer cases to the Magistrate Judges in \naccordance with the Court's general orders and standing orders issued by the Judge to whom\nthe case is assigned.\n(c) Cases Referred for Trial Under 28 U.S.C. § 636(c). Upon the written consent of all parties\nand referral by the District Judge to whom the case is assigned, a Magistrate Judge may conduct\nany and all proceedings in a civil case which is filed in this Court, including the conduct of a jury or\nnon-jury trial and post-judgment proceedings, and shall order the entry of a final judgment. In the\ncourse of conducting such proceeding a Magistrate Judge shall hear and determine any and all\npre-trial and post-trial motions which are filed by the parties, including dispositive motions.\n(d) Other Duties. A Magistrate Judge may be assigned additional duties under 28 U.S.C. §\n636(b)(3), including the following matters, which are set forth for illustrative purposes only:\n(1) Conduct pre-trial conferences, settlement conferences, omnibus hearings, and\nrelated pre-trial proceedings in civil and criminal cases;\n(2) Accept waivers of indictment, pursuant to Fed. R. Civ. P. 7(b);",
+          "pages": [
+            35
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-37",
+          "path": [],
+          "type": "paragraph",
+          "text": "31\n(3) Conduct voir dire and select grand and petit juries for the Court;\n(4) Conduct necessary proceedings in a probation revocation action;\n(5) Issue subpoenas, writs of habeas corpus ad testificandum or habeas corpus ad \nprosequendum, or other orders necessary to obtain the presence of parties, witnesses,\nor evidence needed for Court proceedings;\n(6) Order the exoneration or forfeiture of bonds;\n(7) Conduct proceedings for the collection of civil penalties of not more than $200 assessed\nunder the Federal Boat Safety Act of 1971, in accordance with 46 U.S.C.\n§ 4311(d);\n(8) Conduct examinations of judgment debtors in accordance with Fed. R. Civ. P. 69;\n(9) Conduct proceedings for initial commitment of narcotics addicts under Title III of the\nNarcotic Addict Rehabilitation Act;\n(10) Perform the functions specified in 18 U.S.C. § 4107, 4108, and 4109, regarding \nproceedings for verification of consent by offenders to transfer to or from the United States\nand the appointment of counsel therein;\n(11) Conduct extradition proceedings pursuant to 18 U.S.C. § 3184;\n(12) Discharge indigent prisoners or persons imprisoned for debt under process or \nprovisions of 28 U.S.C. § 2007;\n(13) Issue attachment or order to enforce obedience to an Internal Revenue Summons to \nproduce books and give testimony under 26 U.S.C. § 6704(b);\n(14) Upon application, cause the arrest and detention of seaman in accordance with 22\nU.S.C. § 256 - 258; conduct proceedings for disposition of deceased seaman’s effects\nunder 46 U.S.C. § 10706, et seq. conduct hearings of offenses arising under\n46 U.S.C. § 11501, and submit reports and recommendations to the District Judge;\n(15) Review appeals of Social Security cases and submit a report and recommendation to the\nDistrict Court;",
+          "pages": [
+            36
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-38",
+          "path": [],
+          "type": "paragraph",
+          "text": "32\n(16) Enter a scheduling order and modify a scheduling order upon a showing of good cause\nunder Fed. R. Civ. P. 16(b);\n(17) Issue Order for Service by Publication under 28 U.S.C. § 1655; \n(18) Issue appropriate Orders for Execution of Judgment;\n(19) Issue Orders confirming sales by the U. S. Marshal under 28 U.S.C. § 2001 and\n2004.\n(20) Perform any additional duty that is consistent with the Constitution and laws of the\nUnited States.\n",
+          "pages": [
+            37
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "lamd-civil-parsed-v1-cdcfeeed1072e6fb",
+      "sourceDocumentId": "parsed-lamd-cdcfeeed1072e6fb",
+      "sourceUrl": "https://www.lamd.uscourts.gov/sites/default/files/pdf/2022%20Local%20Rules%20Revisions%208-18-2022.pdf",
+      "pageIndex": 35,
+      "pageSpan": [
+        35,
+        37
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "lamd-civil:77",
+      "collectionId": "lamd-civil",
+      "districtId": "lamd",
+      "number": "77",
+      "citation": "Middle District of Louisiana · Rule 77",
+      "title": "DISTRICT COURTS AND CLERKS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-38",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 77 - DISTRICT COURTS AND CLERKS\nConference in Chambers - Notice.\nExcept as to applications normally considered and acted upon ex parte, no ex parte \ncommunication with a Judge in chambers is allowed, except upon notice of the date and hour of the\nproposed conference to opposing counsel, or if counsel is unknown, to the opposing party.\n",
+          "pages": [
+            37
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "lamd-civil-parsed-v1-cdcfeeed1072e6fb",
+      "sourceDocumentId": "parsed-lamd-cdcfeeed1072e6fb",
+      "sourceUrl": "https://www.lamd.uscourts.gov/sites/default/files/pdf/2022%20Local%20Rules%20Revisions%208-18-2022.pdf",
+      "pageIndex": 37,
+      "pageSpan": [
+        37,
+        37
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "lamd-civil:78",
+      "collectionId": "lamd-civil",
+      "districtId": "lamd",
+      "number": "78",
+      "citation": "Middle District of Louisiana · Rule 78",
+      "title": "MOTION DAY",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-38",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 78 - MOTION DAY\n(a) Motion Day. Each Judge may designate a particular day or days as Motion Day. On this day\npriority may be given to the presentation of motions. Motions may also be designated for hearing\nat some other time by order of the Judge to whom the action is assigned. On Motion Day, the\nCourt may also consider reviews from Magistrate Judges' rulings, contradictory motions\nrequiring action by the Court after hearing and other matters required by law or court order to be \nheard and determined summarily.\n(b) Oral Argument. Oral argument shall be allowed only when ordered by the Court. All other \nmotions shall be decided by the Court on the basis of the record, including timely filed briefs and\nany supporting or opposing documents filed therewith.\n",
+          "pages": [
+            37
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "lamd-civil-parsed-v1-cdcfeeed1072e6fb",
+      "sourceDocumentId": "parsed-lamd-cdcfeeed1072e6fb",
+      "sourceUrl": "https://www.lamd.uscourts.gov/sites/default/files/pdf/2022%20Local%20Rules%20Revisions%208-18-2022.pdf",
+      "pageIndex": 37,
+      "pageSpan": [
+        37,
+        37
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "lamd-civil:79",
+      "collectionId": "lamd-civil",
+      "districtId": "lamd",
+      "number": "79",
+      "citation": "Middle District of Louisiana · Rule 79",
+      "title": "BOOKS AND RECORDS KEPT BY THE CLERK OF COURT AND",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-38",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 79 - BOOKS AND RECORDS KEPT BY THE CLERK OF COURT AND \nENTRIES THEREIN",
+          "pages": [
+            37
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "33\n(a) Withdrawal of Files. Files in the office of the Clerk of Court may be removed from it only for the\nuse of the court or with leave of court or permission of the Clerk of Court first obtained.\n(b) Electronic Evidence for Trials. Evidence offered during trial shall be provided by each party\nin electronic format as described in the Court’s Administrative Procedures, court orders, and\nnotices.\n(c) Electronic Evidence for All Other Proceedings. Evidence offered during proceedings other\nthan trial shall be provided by each party in electronic format as described in the Court’s\nAdministrative Procedures, court orders and notices.\n(d) Custody of Exhibits With the Clerk of Court.\n(1) These rules provide for all exhibits offered and received in evidence to be submitted in\nelectronic format; therefore, the electronic evidence becomes the official record.\n(2) After being received in evidence, all exhibits shall be placed in the custody of the Clerk\nof Court, in electronic format, as outlined in the Court’s Administrative Procedures, court\norders and notices, unless otherwise ordered by the Court.\n(e) Custody of Exhibits With the Offering Party.\n(1) Offering parties are required to submit digital photographs of all oversized or physical\nexhibits, received into evidence (e.g., models, enlarged diagrams), properly showing\nsignificant features of those exhibits.\n(2) At the conclusion of a trial or proceeding, the party offering such exhibits shall retain custody\nof the physicalexhibits and be responsible to the Courtfor preserving them in their condition\nas of the time admitted until any appeal is resolved or the time for appeal has expired.\n(3) The party retaining custody shall make such exhibits available to opposing counsel for use\nin preparation of an appeal and be responsible for their safe transmission to the appellate\ncourt, if required.\n(f) Disposition of Exhibits. All exhibits in the custody of the Clerk of Court shall be removed within\nthirty days of the final disposition of the case. The party offering exhibits shall be responsible",
+          "pages": [
+            38
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-40",
+          "path": [],
+          "type": "paragraph",
+          "text": "34\nfor their removal and shall give a detailed receipt for the clerk's records. If the parties or their\nattorneys fail or refuse to remove exhibits within thirty days, the exhibits may be destroyed or \notherwise disposed of by the Clerk of Court.\n(g) Offer and Marking of Exhibits. Before referring to or using or offering in evidence any exhibit,\n(whether book, paper, document, model, diagram, or any other type of exhibit), counsel shall\nfirst ensure that it is marked for identification.\n",
+          "pages": [
+            39
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "lamd-civil-parsed-v1-cdcfeeed1072e6fb",
+      "sourceDocumentId": "parsed-lamd-cdcfeeed1072e6fb",
+      "sourceUrl": "https://www.lamd.uscourts.gov/sites/default/files/pdf/2022%20Local%20Rules%20Revisions%208-18-2022.pdf",
+      "pageIndex": 37,
+      "pageSpan": [
+        37,
+        39
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "lamd-civil:83",
+      "collectionId": "lamd-civil",
+      "districtId": "lamd",
+      "number": "83",
+      "citation": "Middle District of Louisiana · Rule 83",
+      "title": "RULES BY DISTRICT COURTS; JUDGES' DIRECTIVES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-40",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 83 - RULES BY DISTRICT COURTS; JUDGES' DIRECTIVES\n(a) Naturalization. The District Court administers the Oath of Allegiance to applicants for \nnaturalization.\n(b) Attorneys.\n(1) Roll of Attorneys. The bar of this Court consists of those lawyers admitted to practice\nbefore this Court who have taken the prescribed oath.\n(2) Eligibility. Any member in good standing of the bar of the Supreme Court of\nLouisiana is eligible for admission to the bar of this Court.\n(3) Procedure for Admission.\n(A) Each applicant for admission to the bar of this Court shall file with the Clerk of \nCourt a written petition signed by the applicant and endorsed by two members of \nthe bar of this Court listing the applicant's office address, general and legal \neducation, the courts that have admitted the applicant to practice, and stating that \nthe applicant is qualified to practice before this Court, is of good moral character, \nand is not subject to any pending disbarment or professional discipline procedure \nin any other court. If the applicant has previously been subject to any disciplinary \nproceedings, full information about the proceedings, the charges, and the result \nmust be given.\n(B) The petitioner may then be admitted in open court, or in chambers, by electronic\nmeans or by mail, and upon taking an oath to conduct oneself as an attorney or",
+          "pages": [
+            39
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-41",
+          "path": [],
+          "type": "paragraph",
+          "text": "35\ncounselor of this Court uprightly and according to law and to support the\nConstitution of the United States. The petitioner shall then, under the direction \nof the Clerk of Court, pay the fee required by law and any other fee required by\nthe Court. Unless a motion for admission is made within six months of the filing of\nthe petition, the Clerk of Court may destroy the petition and a new petition will be\nnecessary before the applicant can be admitted.\n(4) Attorneys Representing the United States. Attorneys representing the United \nStates or any of its departments, agencies, or employees are permitted to appear on\nbehalf of the United States government and to represent its interests in any matter in\nwhich the UnitedStates government is interested, upon written request to theClerk of Court\nand proper introduction to the Court by the United States Attorney for the District or one of\nthe Assistant United States Attorneys.\n(5) Payment of Annual Fees.\n(A) In addition to the fee paid upon admission to the bar of this Court, every attorney\nso admitted shall pay to the Clerk of Court an annual fee in an amount to be\ndetermined by the Court. The fee shall be paid triennially not later than January 31 \nof the calendar year in which such payment is due.\n(B) At the time of admission, the attorney must make the initial triennial payment. \nSuch fee will not be prorated within any calendar year, but an attorney first\nadmitted in the second or third year of any triennial period will be required to make\nproportionate payment only for those years of such period in which the attorney’s\nmembership in the bar is effective.\n(C) Any attorney who fails to pay the annual fee shall be summarily suspended, \nprovided a notice of delinquency has been sent to the attorney’s last address\nknown to this Court at least thirty days prior to such suspension.\n(D) Any attorney suspended under the provisions above shall be automatically \nreinstated without further order upon payment of all arrears.",
+          "pages": [
+            40
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-42",
+          "path": [],
+          "type": "paragraph",
+          "text": "36\n(E) An attorney who has retired or is not engaged in the practice of law before this\nCourt may advise the Clerk of Court in writing of the desire to assume inactive\nstatus and discontinue the practice of law before this Court. Upon the filing of such \nnotice, the attorney shall no longer be eligible to practice law in this Court and\nshall not be obligated for further payment of the fee prescribed herein.\n(F) Upon a filing of a notice to assume inactive status, the attorney shall be removed\nfrom the roll of those classified as active until and unless the attorney requests\nand is granted reinstatement to the active rolls. Reinstatement shall be granted\n(unless the attorney is then subject to an outstanding order of suspension or\ndisbarment) upon the payment of any fees due as prescribed by this Rule.\n(6) Rules of Conduct. This Court hereby adopts the Rules of Professional Conduct of the\nLouisiana State Bar Association, as hereafter may be amended from time to time by the\nLouisiana Supreme Court, except as otherwise provided by a specific rule or general\norder of a court.\n(7) Attorney Representation. In all cases before this Court, any party who does not \nappear in proper person must be represented by a member of the bar of this Court, except\nas set forth below.\n(8) Visiting Attorneys.\n(A) Any member in good standing of the bar of any court of the United States or of\nthe highest court of any state and who is not a member of the bar of this Court,\nmay, upon written motion of counsel of record who is a member of the bar of this\nCourt, by ex parte order, be permitted to appear and participate as co-counsel\nin a particular case. Those attorneys authorized to appear pursuant to Fed. R. \nCiv. P. 45(f) are excluded from this Rule.\n(B) The motion must have attached to it a certificate from the presiding Judge or Clerk\nof the highest court of the state, or court of the United States, issued within six\nmonths of filing of the motion, where the attorney has been so admitted to practice,",
+          "pages": [
+            41
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-43",
+          "path": [],
+          "type": "paragraph",
+          "text": "37\nshowing that the applicant attorney has been so admitted in such court, and that\nthe applicant is in good standing.\n(C) The applicant attorney shall state under oath whether any disciplinary \nproceedings or criminal charges have been instituted against the applicant, and if\nso, shall disclose full information about the proceeding or charges and the ultimate\ndetermination, if any.\n(D) The applicant attorney shall pay a fee to the Clerk of Court in an amount to be \ndetermined by the Court and shall submit the following oath:\nI DO SOLEMNLY SWEAR (OR AFFIRM OR PROMISE) that I will conduct \nmyself as an attorney and counselor of this Court, uprightly and according \nto law; and that I will support the Constitution of the United States.\n(E) An attorney permitted to appear may participate in a particular action or \nproceeding in all respects, except that all documents requiring signature of counsel\nfor a party may not be signed solely by such attorney, but must bear the signature \nalso of local counsel with whom the visiting attorney is associated.\n(F) Local counsel shall be responsible to the Court at all stages of the proceedings.\n(G) Designation of the visiting attorney as “Lead Attorney” pursuant to LR11(b)(1)\nherein shall not relieve the local counsel of the responsibilities imposed by this\nRule.\n(H) The fee described in thisRule is applicable in each case in which the visiting attorney\nseeks recognition as qualified counsel.\n(9) Waiver by Court Order of Requirements for Local Counsel. In any civil action a\ncounsel who is ineligible to become a member of the bar of this Court under \nLR83.2(b)(2), may be authorized by court order to appear and act for any party without\njoinder of local co-counsel when it is shown that:\n(A) The party would suffer hardship by joinder of local counsel; and",
+          "pages": [
+            42
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-44",
+          "path": [],
+          "type": "paragraph",
+          "text": "38\n(B) The obligations and duties of counsel in the particular litigation will be \nfulfilled.\n(10) Familiarity With and Compliance With Rules. Everyone who appears in Court in\nproper person and every attorney permitted to practice in this Court shall be familiar with\nthese Rules. Willful failure to comply with any of them, or a false certificate of\ncompliance, shall be cause for such disciplinary action as the Court may see fit, after\nnotice and hearing.\n(11) Revocation of Admission.\n(A) Any person admitted to practice before the Court shall give written notice to the\nClerk of Court of:\n(i) Disbarment or suspension by any court or bar association; and\n(ii) Conviction of any felony violation of any laws, misdemeanors, or \nmunicipal ordinances, other than traffic violations.\n(B) Pending any appeal of the conviction, suspension, or disbarment, a member of the\nbar of this Court may be suspended from further practice before this Court.\n(C) Any member of the bar of this Court may be disbarred or otherwise disciplined\nafter such hearing as the Court may in each particular instance direct, but any\nmember of the bar of this Court who has been disbarred or removed, or hereafter\nmay be disbarred or removed, from the Bar of the State of Louisiana, shall be\nremoved from the bar of this Court and the member’s name stricken from the roll. \nUpon notification from the Eastern or Western District of Louisiana or the Fifth \nCircuit Court of Appeals of an attorney’s suspension in that court, that attorney\nbeing a member of the bar of this Court may be suspended from further practice\nbefore this Court.\n(12) Attorney Discipline.\n(A) After notice and an opportunity to show cause to the contrary, any Judge ",
+          "pages": [
+            43
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-45",
+          "path": [],
+          "type": "paragraph",
+          "text": "39\nincluding active Judges, Senior Judges, Bankruptcy Court Judges, and \nMagistrate Judges may sanction any attorney for failure to comply with these\nrules, the Louisiana Rules of Professional Conduct, or any other rule of court.\n(B) A Judge initiating disciplinary proceedings against an attorney shall provide written\nnotice in the form of an Order to Show Cause. The Order to Show Cause shall (1)\nstate the alleged grounds for discipline, (2) state the range of possible sanctions to\nbe imposed, and (3) inform the attorney of the right to counsel throughout the\ndisciplinary proceedings. The Clerk of Court shall assign the Order to Show Cause\na miscellaneous action number, and shall forward a copy of the Order to Show\nCause to the attorney named in the Order, and to the Chief Judge.\n(C) Unless otherwise indicated in the Order to Show Cause, the attorney named in the\nOrder to Show Cause shall have fourteen days to file a response, if any. After\nthe period for filing a response has elapsed, the Court shall conduct a hearing\non the disciplinary action. The hearing shall be public and on the record.\n(D) If, after a hearing, it is shown by clear and convincing evidence that the attorney\ncommitted the violations that are the basis of the Order to Show Cause, the\ninitiating Judge shall have discretion to impose such disciplinary action as the\nJudge may see fit. Possible sanctions include, but are not limited to, reprimand,\nethics training, suspension from practice in the Middle District, and/or civil fines.\nHowever, before an attorney may be suspended from practice in the Middle\nDistrict for a period exceeding sixty days, the approval of the Chief Judge or the\napproval of the active Judges of the Middle District must be obtained.\n(E) Upon imposition of any sanction which includes suspension from practice in the\nMiddle District, the Clerk of Court shall report the attorney and the sanction(s)\nimposed to the Clerks of Court for the U.S. Fifth Circuit Court of Appeals, the\nEastern District of Louisiana, the Western District of Louisiana, and the Bar of the\nState of Louisiana.",
+          "pages": [
+            44
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-46",
+          "path": [],
+          "type": "paragraph",
+          "text": "40\n(13) Continuing Representation, Withdrawals, Substitution of Counsel. All counsel of\nrecord shall be held to represent the party for whom counsel appears unless the Court\npermits said counsel to withdraw from the case. Counsel may obtain permission to \nwithdraw only upon filing: 1) a motion to withdraw filed by the counsel seeking to withdraw \nor 2) a motion to withdraw filed by the client’s other counsel of record, which includes \neither the withdrawing counsel’s signature or a certification that the withdrawing counsel’s \nconsent to file the motion has been obtained. If new counsel is not substituted and no \ncounsel of record will remain to represent the client, the motion to withdraw shall contain: \n1) the present address of the client and the client's telephone number if the client can be\nreached by telephone and 2) a certification by counsel that the client has been notified of\nall deadlines and pending court appearances. The certificate of service accompanying\nthe motion shall indicate that it was served on the client by certified mail or an affidavit shall\nbe included stating why such service has not been made. If the motion to withdraw \nincludes a request for substitution of new counsel, then the motion must also be signed \nby counsel seeking to be enrolled in substitution for the withdrawing counsel or include a \ncertification that the enrolling counsel’s consent to file the motion has been obtained. \n(14) Additional Counsel. Where counsel has appeared for any party, other counsel may\nappear for the same party only:\n(A) Upon motion of counsel of record for that party or motion by counsel seeking to be \nenrolled as additional counsel, which includes either counsel of record’s signature or a \ncertification by the filer that counsel of record’s consent to file the motion has been \nobtained; or\n(B) Upon motion of counsel seeking to be enrolled, after counsel of record for the party\nhas been permitted to withdraw or has died, or is incapacitated, or cannot be found \nas established in the motion; or\n(C) Upon motion of a party after notice to counsel of record and a hearing thereon.\n(15) Appearances by Law Students.",
+          "pages": [
+            45
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-47",
+          "path": [],
+          "type": "paragraph",
+          "text": "41\n(A) Limited appearances by law students, if the person on whose behalf the student\nis appearing has consented to that appearance in writing and the supervising\nlawyer has also approved the appearance in writing, are allowed in any civil matter\nin which a fee is not provided for or could not reasonably be anticipated.\n(B) The written consent and approval referred to above shall be filed in the record\nof the case and shall be brought to the attention of the Judge.\n(C) The supervising lawyer must personally be present throughout the proceedings \nand shall be responsible for the manner in which they are conducted.\n(D) Prerequisites to Law Student Appearances\nIn order to make an appearance pursuant to this rule, the law student must:\n(i) Be duly enrolled in a law school in this state approved by the American\nBar Association;\n(ii) Have completed four full-time semesters of legal studies or the \nequivalent if the school is on some basis other than a semester basis;\n(iii) Be certified by the dean or chancellor of the student’s law school as being\nof good moral character, competent legal ability, and adequately trained\nto perform as a legal intern;\n(iv) Be introduced to the Court by an attorney admitted to practice in this Court;\n(v) Neither ask for nor receive remuneration of any kind for services;\n(vi) Take the following oath:\n\"I, , do solemnly swear that I will support the\nConstitution of the United States and of the State of Louisiana and\nhave read and am familiar with the Code of Professional\nResponsibility of the Louisiana State Bar Association, and I\nunderstand that I am bound by the precepts therein contained as \nfully as if I were admitted to the practice of law in Louisiana; and",
+          "pages": [
+            46
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-48",
+          "path": [],
+          "type": "paragraph",
+          "text": "42\nthat I further accept the privileges granted to me as well as the\nresponsibilities which will devolve upon me, so that I may be more\nuseful through my clinical education in the service of justice.\"\n(E) Certification of Students\nThe certification of a student by the law school dean or chancellor:\n(i) Shall be filed with the Clerk of Court and, unless sooner withdrawn, it shall\nremain in effect for twelve months after it is filed, or until the announcement\nof the results of the first bar examination following the student's\ngraduation, whichever comes earlier. For any student who passes that\nexamination, the certification shall continue in effect until the date one is\nadmitted to the bar;\n(ii) May be withdrawn by the dean or chancellor at any time by mailing a notice \nto that effect to the Clerk of Court. The notice need not state the cause\nfor withdrawal;\n(iii) May be terminated by this Court at any time without notice or hearing\nand without any showing of cause. Notice of the termination may be filed\nwith the Clerk of Court.\n(F) Supervision of Students\nThe member of the bar under whose supervision an eligible law student works\nshall:\n(i) Be admitted to practice before this Court, and be approved by the dean\nor chancellor of the law school in which the law student is enrolled for \nservice as a supervising lawyer for this program;\n(ii) Assume personal professional responsibility and liability for the student's\nguidance in any work undertaken and for supervising the quality of the\nstudent's work;",
+          "pages": [
+            47
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-49",
+          "path": [],
+          "type": "paragraph",
+          "text": "43\n(iii) Assist the student in the student’s preparation.\n(16) Courtroom Decorum. The purpose of this Rule is to emphasize, not to supplant, certain\nportions of those ethical principles applicable to the lawyer's conduct in the courtroom. In\naddition to the other requirements, therefore, lawyers appearing in this Court, unless\notherwise directed by the presiding Judge, shall:\n(A) Stand as court is opened, recessed, or adjourned.\n(B) Stand when the jury enters or retires from the courtroom.\n(C) Stand when addressing, or being addressed by, the Court.\n(D) Stand at the lectern while examining any witness; except that counsel may \napproach the clerk's desk or the witness for purposes of handling or tendering\nexhibits.\n(E) Stand at the lectern while making opening statements or closing arguments.\n(F) Address all remarks to the Court, not to opposing counsel.\n(G) Avoid disparaging personal remarks or acrimony toward opposing counsel and\nremain wholly detached from any ill feeling between the litigants or witnesses.\n(H) Refer to all persons, including witnesses, other counsel, and the parties by their\nsurnames and not by their first or given names.\n(I) Only one attorney for each party shall examine, or cross examine, each witness.\n(J) Counsel should request permission before approaching the bench; and any \ndocuments counsel wish to have the Court examine should be handed to the clerk.\n(K) Any paper or exhibit not previously marked for identification should first be handed\nto the clerk before it is tendered to a witness for the person’s examination;\nand any exhibit offered in evidence should, at the time of such offer, be handed to \nopposing counsel.\n(L) In making objections, counsel should state only the legal grounds for the objection \nand should withhold all further comment or argument unless elaboration is",
+          "pages": [
+            48
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-50",
+          "path": [],
+          "type": "paragraph",
+          "text": "44\nrequested by the Court.\n(M) In examining a witness, counsel shall not repeat or echo the answer given by the\nwitness.\n(N) Offers of, or requests for, a stipulation should be made privately, not within hearing\nof the jury.\n(O) In opening statements and in arguments to the jury, counsel shall not express\npersonal knowledge or opinion concerning any matter in issue, and shall not\nsuggest to the jury, directly or indirectly, that it may or should request transcripts\nor the reading of any testimony by the reporter.\n(P) Counsel shall admonish all persons at counsel table, including the client, as well as\nothers present in court, including but not limited to the client’s representatives,\nwitnesses, friends and family of parties that gestures, facial expressions, audible\ncomments, or the like, as manifestations of approval or disapproval during the\ntestimony of witnesses, or at any other time, are absolutely prohibited.\n(Q) At all times Judicial Officers shall be addressed as Judge (Surname), or\nYour Honor.\n(R) All attorneys shall dress appropriately when appearing or observing in court or\nchambers. Male attorneys shall wear coats and ties; female attorneys shall wear\nbusiness attire. This attire is required regardless of whether the attorney is\nappearing as attorney of record. Litigants, witnesses, jurors, and spectators shall\nbe neatly, cleanly, and appropriately attired.\n(c) Building Security\n(1) Reasons for Building Security. The purpose of these rules is to minimize \ninterference with and disruptions of the Court's business, to preserve decorum in \nconducting the Court's business and to provide effective security in the buildings wherein\nproceedings governed by these Rules are held. These buildings are hereinafter\ncollectively referred to as \"the premises\".",
+          "pages": [
+            49
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-51",
+          "path": [],
+          "type": "paragraph",
+          "text": "45\n(2) Security Personnel. The term \"Security Personnel\" means the U.S. Marshal or Deputy\nMarshal, Federal Protective Service Inspectors or a deputized Court Security Officer.\n(3) Entering the Building. All persons entering the courthouse shall be required to present\nvalid government issued identification.\n(4) Carrying of Parcels, Bags, and Other Objects. Security personnel shall inspect all\nobjects carried by persons entering the premises. No one shall enter or remain in the\npremises without submitting to such an inspection.\n(5) Search of Persons. Security personnel may search the person of anyone entering the\npremises or any space in it. Anyone who refuses to permit such a search shall be denied\nentry. Should any defendant in a criminal case whose appearance is required refuse to \npermit such a search, security personnel shall deny the person entry and shall\nimmediately notify the Judge before whom the appearance is required. The Judge\nmay take the appropriate action, including, but not limited to, detention and search, and\norder of revocation of bond, if the defendant is on bond.\n(6) Unseemly Conduct.\nNo person shall:\n(A) Loiter, sleep, or conduct oneself in an unseemly or disorderly manner in the \npremises or on court grounds;\n(B) Interfere with or disturb the conduct of the Court's business in any manner; \n(C) Eat or drink in the halls of the premises or in the courtrooms, unless\nauthorized by the Court;\n(D) Block any entrance to or exit from the premises or interfere in any person's entry\ninto or exit from the premises.\n(7) Entering and Leaving. All persons shall enter and leave courtrooms only through such\ndoorways and at such times as shall be designated by the security personnel.\n(8) Spectators. Spectators shall enter or depart courtrooms only at such times as the ",
+          "pages": [
+            50
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-52",
+          "path": [],
+          "type": "paragraph",
+          "text": "46\npresiding Judge may direct. No spectator shall enter or remain in any courtroom unless\nspectator seating is available. Spectators shall sit in that portion of the courtroom\ndesignated by the U.S. Marshal. Spectators excluded because of lack of seating and\nspectators leaving the courtroom while court is in session or at any recess shall not loiter\nor remain in the area adjacent to the courtroom. All persons present in a courtroom shall\nconduct themselves in a manner demonstrating respect for the Court and all persons must\ndress with dignity.\n(9) Cameras and Electronic Equipment.\n(A) Unless authorized by the Court, no camera, recording equipment, cellular \ntelephone, tablet, pager, laptop computer or other type of electrical or electronic \ndevice shall be brought into the premises. No person shall introduce or attempt\nto introduce any type of camera, recording equipment, or other type of electrical or\nelectronic device into the premises without court permission. No person shall\nintroduce any type of camera, recording equipment or other type of electric or\nelectronic device into the premises while, or immediately before or after, the grand\njury is in session.\n(B) Attorneys appearing before the Court and serving as counsel of record and law\nenforcement officers are allowed to enter the courthouse with a cell phone, pager, \nsmart phone, laptop, or tablet without seeking permission from the Chief Judge or\nany other judicial officer. While in the courtroom or chambers the use of the cell\nphone is limited to accessing the calendar feature, provided the Judge has so\ndirected. Attorneys and law enforcement officers seated in the courtroom may not\nuse cell phones, pagers, smart phones, laptops or tablets, unless otherwise\npermitted by the presiding Judge.\n(C) The permission to bring a cell phone, pager, smart phone, laptop or tablet into the\nbuilding is subject to the following sanction: Any cell phone, pager, smart phone,",
+          "pages": [
+            51
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-53",
+          "path": [],
+          "type": "paragraph",
+          "text": "47\nlaptop or tablet which rings or makes any other noise in the courtroom, chambers\nor in the hallways outside of a courtroom shall be subject to seizure and may not \nbe returned to the owner.\n(10) Photographs, Radio, or Television Broadcasting.\n(A) The taking of photographs in the courtroom or its environs, or radio or television\nbroadcasting from the courtroom or its environs, during the progress of or in\nconnectionwithjudicialproceedings, includingproceedings before a judicial officer,\nwhether or not court is actually in session, is prohibited.\n(B) As used in these rules the term \"environs\" means any place within any United\nStates Courthouse wherein these Rules apply, and any place wherein a Judicial\nOfficer may conduct judicial proceedings and any public place immediately\nadjacent thereto.\n(C) Use of audio, video and photographic recording equipment is banned from all \nareas of the courthouse grounds other than the areas expressly\npermitted in this paragraph. Permitted areas consists of the area located east and\ndirectly adjacent to the south half of the front courthouse steps, referred to as the\n“media bullpen,” and the public sidewalks and flagpoles area located on the\nperimeter of the courthouse block (see diagram posted on the Court’s website).\n(D) No area within the bullpen may be reserved for exclusive use of any one or more\nentities.\n(E) Media interviews on the courthouse grounds shall be conducted only in the media\nbullpen, the flagpoles area, and the portion of the public sidewalks. Media\ninterviews shall occur solely at the discretion and convenience of the parties,\nwitnesses, attorneys, and others.\n(F) No member of the media may be present at any time in the restricted area located\non the west side of the rear of the courthouse property (located on",
+          "pages": [
+            52
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-54",
+          "path": [],
+          "type": "paragraph",
+          "text": "48\n7th Street between Florida and Laurel Streets).\n(G) The media are prohibited from interfering with the orderly entrance or exit of any\nperson to or from the courthouse.\n(H) Members of the media should visibly display their Louisiana State Police media\nidentification card or its equivalent on the outside of the holder’s clothing at all\ntimes.\n(11) Unauthorized Presence When Grand Jury Is in Session. No person, except grand\njurors, witnesses, government attorneys, agents or employees, court personnel\nconcerned with any grand jury proceeding, private attorneys whose clients have been\ncalled to appear as witnesses at a session of the grand jury then in progress or about to\ncommence, and others specifically authorized, shall be allowed to remain in the hall\nadjacent to the grand jury space beyond the entrance door.\n(12) Interviewing Witnesses Before Grand Jury. No person shall attempt to question,\ninterview, or interfere with any person who may testify or who has testified before any\ngrand jury within the premises.\n(13) Weapons. No person shall be admitted to or allowed to remain in the premises with any\nobject that might be employed as a weapon unless the person has been authorized \nin writing by the Chief Judge to do so, or unless the person is a U.S. Marshal, Federal\nProtective Service Inspector, Court Security Officer, U. S. Probation Officer, or person\ndesignated by the Court to assist U.S. Marshals or Federal Protective Service Inspectors.\n(14) Enforcement. Security personnel shall enforce the whole of Rule 83.3. In addition to\nsuch other penalties as may be prescribed by law, violators of this rule may be held in\ncontempt of court and subject to the imposition of sanctions.\n(d) Bankruptcy\n(1) Reference to Bankruptcy Judge. Under the authority of 28 U.S.C. § 157 the\nDistrict Court refers to the Bankruptcy Judges of this District all cases under Title 11 and",
+          "pages": [
+            53
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-55",
+          "path": [],
+          "type": "paragraph",
+          "text": "49\nall proceedings arising under Title 11 or arising in or related to a case under Title 11. As\nset forth in 28 U.S.C. § 157(b)(5), personal injury tort and wrongful death claims shall\nbe tried in the District Court.\n(2) Appeal to the District Court. Appeals from judgments, orders, or decrees of a\n Bankruptcy Judge shall be governed by Part VIII of the Bankruptcy Rules (Section 8001, et\nseq.) and the applicable local rules of the District and Bankruptcy Courts.\n(3) Motion Seeking Relief From a District Judge. Motions filed seeking relief from a\nDistrict Judge, including motions under 28 U.S.C. § 157(d) (for withdrawal of reference),\n28 U.S.C. § 157(c)(1) (objections to proposed findings of fact and conclusions of law),\nand Bankruptcy Rule 8005 (for stay pending appeal), shall be governed by the Rules set \nout below.\n(A) Original Motion\n(i) Applicable Rules. The Local Rules for the District Court shall be \napplicable to all motions filed in bankruptcy cases or proceedings seeking\nrelief from a District Judge. In those instances where the Bankruptcy\nRules require a report from the Bankruptcy Judge, (e.g., Bankruptcy Rules\n5011(b) and 9027(e)), the local Bankruptcy Rules shall apply until such\nreport is issued.\n(ii) Place of Filing. All motions described in this section above shall be filed\nwith the Clerk of the Bankruptcy Court.\n(iii) Contents of Motion. In addition to the normal requirements of papers\nfiled in the Bankruptcy Court, motions described in this section above shall\ninclude:\n(a) A clear and conspicuous statement opposite the title of the action\nthat \"RELIEF IS SOUGHT FROM A UNITED STATES DISTRICT\nJUDGE.\"",
+          "pages": [
+            54
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-56",
+          "path": [],
+          "type": "paragraph",
+          "text": "50\n(b) A designation of the portions of the record of the proceedings in\nthe Bankruptcy Court that will reasonably be necessary or pertinent\nfor consideration of the motion by the District Court.\n(c) A list showing each party with an interest in the motion and for each\nparty shown, their attorney along with such attorney's mailing\naddress.\n(iv) Subsequent Filings. Any filing in a matter under this section subsequent\nto the \"Original Motion\" set forth above shall be filed with the Clerk of the\nDistrict Court and shall comply with all rules of such court.\n(v) Duties of the Clerk of the Bankruptcy Court. Upon filing of an original\nmotion, as set forth above, the Clerk of the Bankruptcy Court shall promptly\ntransmit to the Clerk of the District Court:\n(a) The original motion and all attachments to the motion, and\n(b) The portion of the bankruptcy court record designated in \naccordance with Rule (3)(b) above.\n(B) No Automatic Stay. There shall be no automatic stay of Bankruptcy Court \nproceedings as a result of the filing of any motion under the above. Any stay of\nproceedings will result only from an order of the Bankruptcy Court or the District\nCourt.\n(C) Obligation of the Parties. It shall be the obligation of each and every party and\ntheir attorney to apprise the Bankruptcy Court and the United States District Court\nof orders entered in either forum which significantly affect matters pending in\neither forum.\n(4) Record Transmitted to the District Court.\n(A) The authority to retain any portion of the record on appeal or in connection with a\nmotion seeking relief from a District Judge is delegated to the Clerk of the",
+          "pages": [
+            55
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-57",
+          "path": [],
+          "type": "paragraph",
+          "text": "51\nBankruptcy Court. The Clerk of the Bankruptcy Court will transmit an email to the\nDistrict Court listing the documents pertaining to the appeal or motion. The District\nClerk will obtain those documents via the PACER [Public Access to Court\nElectronic Records] system.\n(B) In the event that papers are retained in the Bankruptcy Court and certified copies\nare transmitted to the District Court, the Bankruptcy Court may order the party upon \nwhose instance the papers were required to reimburse the Clerk of the Bankruptcy\nCourt for the cost of making the copies.",
+          "pages": [
+            56
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "lamd-civil-parsed-v1-cdcfeeed1072e6fb",
+      "sourceDocumentId": "parsed-lamd-cdcfeeed1072e6fb",
+      "sourceUrl": "https://www.lamd.uscourts.gov/sites/default/files/pdf/2022%20Local%20Rules%20Revisions%208-18-2022.pdf",
+      "pageIndex": 39,
+      "pageSpan": [
+        39,
+        56
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    }
+  ],
+  "evidence": [
+    {
+      "number": "3",
+      "heading": "LOCAL CIVIL RULE 3 - COMMENCEMENT OF ACTION",
+      "page": 7,
+      "offset": 20,
+      "slices": [
+        {
+          "page": 7,
+          "start": 20,
+          "end": 1372,
+          "sha256": "30bce83f25180115752919702d606a4fdcabe40adb3286421b15559553da5d8e"
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "heading": "LOCAL CIVIL RULE 4 – SUMMONS",
+      "page": 7,
+      "offset": 1372,
+      "slices": [
+        {
+          "page": 7,
+          "start": 1372,
+          "end": 1740,
+          "sha256": "40b63b4a69856c0872d0f0ace34734549810a75fff7c0a048cedae113fb9d67d"
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "heading": "LOCAL CIVIL RULE 5 - SERVICE AND FILING OF PLEADINGS AND OTHER PAPERS",
+      "page": 7,
+      "offset": 1740,
+      "slices": [
+        {
+          "page": 7,
+          "start": 1740,
+          "end": 1841,
+          "sha256": "e9a2e0bae8db49a14cac7f61ad44c2a1b90860be11a618eb1b94597e11e8f4a2"
+        },
+        {
+          "page": 8,
+          "start": 0,
+          "end": 2085,
+          "sha256": "5a1eed0528cf9485e7fb2ffdb710c28f3e4a5c10e952d78671d02f713ca1d851"
+        },
+        {
+          "page": 9,
+          "start": 0,
+          "end": 2013,
+          "sha256": "9493ce4822fd6e7d79de43d2294072ae23d773c69da53d64d17a669635be3ae6"
+        },
+        {
+          "page": 10,
+          "start": 0,
+          "end": 215,
+          "sha256": "fd17d30792f964e5ac05f164c68e0f6814990cf84cce6d2685dca2d31efda809"
+        }
+      ]
+    },
+    {
+      "number": "5.2",
+      "heading": "LOCAL CIVIL RULE 5.2 – PROTECTION OF PERSONAL AND SENSITIVE INFORMATION;",
+      "page": 10,
+      "offset": 215,
+      "slices": [
+        {
+          "page": 10,
+          "start": 215,
+          "end": 1485,
+          "sha256": "36ea7f938d1e834975f33b5d395aa7712690d5d901e2bc04b6b7228b4ce8328a"
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "heading": "LOCAL CIVIL RULE 7 - PLEADINGS ALLOWED; FORM OF MOTIONS",
+      "page": 10,
+      "offset": 1485,
+      "slices": [
+        {
+          "page": 10,
+          "start": 1485,
+          "end": 2100,
+          "sha256": "da3be21a0fbddd26595100149cec3d3fc3c23143ebe11bcd432081c97fea7d1d"
+        },
+        {
+          "page": 11,
+          "start": 0,
+          "end": 2328,
+          "sha256": "d7f32220b0c97f3975bfcbc50470000187341c75430ce8576b62cf9868217429"
+        },
+        {
+          "page": 12,
+          "start": 0,
+          "end": 2432,
+          "sha256": "56cc70f3a4fa7ef5f27f16fbc0ed24e484ab95442ab9a1d4c1341a336fdef163"
+        },
+        {
+          "page": 13,
+          "start": 0,
+          "end": 381,
+          "sha256": "2149b3d835efa4570c0d94ed5e026bf470d4f5ddc8513694574b0ea6c6c1fd63"
+        }
+      ]
+    },
+    {
+      "number": "7.1",
+      "heading": "LOCAL CIVIL RULE 7.1 – CERTIFICATE OF INTERESTED PERSONS",
+      "page": 13,
+      "offset": 381,
+      "slices": [
+        {
+          "page": 13,
+          "start": 381,
+          "end": 1500,
+          "sha256": "c3422a5651a3fdef54825860204c5f95bf0d3e68d6f9b337cac1040f49211e0b"
+        }
+      ]
+    },
+    {
+      "number": "9",
+      "heading": "LOCAL CIVIL RULE 9 - PLEADING SPECIAL MATTERS",
+      "page": 13,
+      "offset": 1500,
+      "slices": [
+        {
+          "page": 13,
+          "start": 1500,
+          "end": 2232,
+          "sha256": "10491d0bb0933c99e6fdd066338ab74bec926456a1f9e853bad1ffeaebc8576f"
+        },
+        {
+          "page": 14,
+          "start": 0,
+          "end": 2,
+          "sha256": "aa67a169b0bba217aa0aa88a65346920c84c42447c36ba5f7ea65f422c1fe5d8"
+        }
+      ]
+    },
+    {
+      "number": "10",
+      "heading": "LOCAL CIVIL RULE 10 - FORM OF PLEADINGS",
+      "page": 14,
+      "offset": 2,
+      "slices": [
+        {
+          "page": 14,
+          "start": 2,
+          "end": 2194,
+          "sha256": "4c1590f3955609346bb70b60d5b8f2533db577c0069fadb8818a8067df88ca06"
+        },
+        {
+          "page": 15,
+          "start": 0,
+          "end": 2199,
+          "sha256": "13efcb870e9cdfcb2b9a2cfa63c62e820e670f8770488da75f81986a7e3bc565"
+        },
+        {
+          "page": 16,
+          "start": 0,
+          "end": 3,
+          "sha256": "917df3320d778ddbaa5c5c7742bc4046bf803c36ed2b050f30844ed206783469"
+        }
+      ]
+    },
+    {
+      "number": "11",
+      "heading": "LOCAL CIVIL RULE 11 - SIGNING OF PLEADINGS, MOTIONS, AND OTHER PAPERS;",
+      "page": 16,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 16,
+          "start": 3,
+          "end": 1944,
+          "sha256": "c591bcf4ea7e5dfd32fa834f55da448654145c71ebab1f6fbcf367f9a2d8445c"
+        },
+        {
+          "page": 17,
+          "start": 0,
+          "end": 24,
+          "sha256": "c6f1e8ea9ac8a70092208a0aa3386bbe82d612b95aea70525ac9e222a611c071"
+        }
+      ]
+    },
+    {
+      "number": "12",
+      "heading": "LOCAL CIVIL RULE 12 – DEFENSES AND OBJECTIONS",
+      "page": 17,
+      "offset": 24,
+      "slices": [
+        {
+          "page": 17,
+          "start": 24,
+          "end": 400,
+          "sha256": "f69bbcd2683b67bd2f568e0f630114b836fe2c5f3306fb2bb8138da7671139fb"
+        }
+      ]
+    },
+    {
+      "number": "16",
+      "heading": "LOCAL CIVIL RULE 16 - PRETRIAL CONFERENCES; SCHEDULING; MANAGEMENT",
+      "page": 17,
+      "offset": 400,
+      "slices": [
+        {
+          "page": 17,
+          "start": 400,
+          "end": 1559,
+          "sha256": "408fd051de93bec75e291544e8b519914fb9d1c220b32413ca9e6ed6a17c7e3c"
+        },
+        {
+          "page": 18,
+          "start": 0,
+          "end": 940,
+          "sha256": "9ebf9a76016d42b4c72edbd3a5a31166f1f22d27d07d5ca28f2b381f19dbfa54"
+        }
+      ]
+    },
+    {
+      "number": "23",
+      "heading": "LOCAL CIVIL RULE 23 - CLASS ACTIONS",
+      "page": 18,
+      "offset": 940,
+      "slices": [
+        {
+          "page": 18,
+          "start": 940,
+          "end": 1863,
+          "sha256": "46e99dfd17f453127e685b9da9086447d135b4dd91c31e16f91a5cb0d6ffdbb8"
+        },
+        {
+          "page": 19,
+          "start": 0,
+          "end": 1403,
+          "sha256": "555f930a720de97fb302e3b9e5846b5f2a770eaa138dfd6bd08d423667e7a3b0"
+        }
+      ]
+    },
+    {
+      "number": "26",
+      "heading": "LOCAL CIVIL RULE 26 - GENERAL PROVISIONS GOVERNING DISCOVERY; DUTY OF",
+      "page": 19,
+      "offset": 1403,
+      "slices": [
+        {
+          "page": 19,
+          "start": 1403,
+          "end": 1981,
+          "sha256": "0e1b3641755246f964d93e9296299c64c37139c92cd0f23c2ca9dc5fb129d607"
+        },
+        {
+          "page": 20,
+          "start": 0,
+          "end": 2225,
+          "sha256": "a87f4461535871c45c1fc106defca710829a27a28a3c6f119e1c643a41e7fedf"
+        },
+        {
+          "page": 21,
+          "start": 0,
+          "end": 137,
+          "sha256": "eddd83cc3b9af5da41a830ad0a162b5a9ec57f0f9dd0f2337536700ba8824c3c"
+        }
+      ]
+    },
+    {
+      "number": "33",
+      "heading": "LOCAL CIVIL RULE 33 - INTERROGATORIES TO PARTIES",
+      "page": 21,
+      "offset": 137,
+      "slices": [
+        {
+          "page": 21,
+          "start": 137,
+          "end": 305,
+          "sha256": "2a8ef068960e8d47a0b090ad175400b170d23f3514af3bde1a2d20e7ea73d3f6"
+        }
+      ]
+    },
+    {
+      "number": "34",
+      "heading": "LOCAL CIVIL RULE 34 – REQUESTS FOR PRODUCTION",
+      "page": 21,
+      "offset": 305,
+      "slices": [
+        {
+          "page": 21,
+          "start": 305,
+          "end": 499,
+          "sha256": "b19739840a80f6f43268d5f85cc630b26ce1d989a2705fb1451fc1549b68fcbc"
+        }
+      ]
+    },
+    {
+      "number": "35",
+      "heading": "LOCAL CIVIL RULE 35 - MOTIONS FOR PHYSICAL OR MENTAL EXAMINATION",
+      "page": 21,
+      "offset": 499,
+      "slices": [
+        {
+          "page": 21,
+          "start": 499,
+          "end": 1128,
+          "sha256": "0c35c6ac87c548fdf5623e47dbd7899340b5c30f609ad1d5ff997c5c11ee9d58"
+        }
+      ]
+    },
+    {
+      "number": "36",
+      "heading": "LOCAL CIVIL RULE 36 - REQUESTS FOR ADMISSION",
+      "page": 21,
+      "offset": 1128,
+      "slices": [
+        {
+          "page": 21,
+          "start": 1128,
+          "end": 1546,
+          "sha256": "01d2140d613b8345d1e714e879f60007a3552dbd668ebbd224099633b409df44"
+        },
+        {
+          "page": 22,
+          "start": 0,
+          "end": 270,
+          "sha256": "f984e6d295a9c8b5e18db4a11bd689fb7d1d323b9eafbf0298bb48d967419466"
+        }
+      ]
+    },
+    {
+      "number": "37",
+      "heading": "LOCAL CIVIL RULE 37 - DISCOVERY VIOLATIONS",
+      "page": 22,
+      "offset": 270,
+      "slices": [
+        {
+          "page": 22,
+          "start": 270,
+          "end": 619,
+          "sha256": "a4e9f34751cba0cca5fab5776138762fb34559397259b107697abb2089471f57"
+        }
+      ]
+    },
+    {
+      "number": "38",
+      "heading": "LOCAL CIVIL RULE 38 - JURY TRIAL OF RIGHT",
+      "page": 22,
+      "offset": 619,
+      "slices": [
+        {
+          "page": 22,
+          "start": 619,
+          "end": 798,
+          "sha256": "e7607525fb3b5fb72f9d659087c33a78ecb71f2427ef6481fec6857353b3f298"
+        }
+      ]
+    },
+    {
+      "number": "39",
+      "heading": "LOCAL CIVIL RULE 39 - TRIAL BY JURY OR BY THE COURT",
+      "page": 22,
+      "offset": 798,
+      "slices": [
+        {
+          "page": 22,
+          "start": 798,
+          "end": 1008,
+          "sha256": "8754bc82535ba017bff3eaaf0370b1f290d1f333d8364b8d76fd9dc6308330ab"
+        }
+      ]
+    },
+    {
+      "number": "41",
+      "heading": "LOCAL CIVIL RULE 41 - DISMISSAL OF ACTIONS",
+      "page": 22,
+      "offset": 1008,
+      "slices": [
+        {
+          "page": 22,
+          "start": 1008,
+          "end": 1693,
+          "sha256": "f92145c03ad3480947540cbdc9e378855c63b8f33c7b78302a55f2d3709746bf"
+        },
+        {
+          "page": 23,
+          "start": 0,
+          "end": 1328,
+          "sha256": "55eab17182e4a479893d361c37d0b1b8e51fb9647dd19b6969b4a0145615bfba"
+        }
+      ]
+    },
+    {
+      "number": "43",
+      "heading": "LOCAL CIVIL RULE 43 - TAKING OF TESTIMONY",
+      "page": 23,
+      "offset": 1328,
+      "slices": [
+        {
+          "page": 23,
+          "start": 1328,
+          "end": 1994,
+          "sha256": "34c5c8c2f87384ee9f75dd44f1707cdf2c4fa174aa29b908b63fadc418ca4809"
+        },
+        {
+          "page": 24,
+          "start": 0,
+          "end": 3,
+          "sha256": "7ee29791fc17e986b97128845622b077fb45e349fdb80523fac9dba879b4ad60"
+        }
+      ]
+    },
+    {
+      "number": "45",
+      "heading": "LOCAL CIVIL RULE 45 - SUBPOENA",
+      "page": 24,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 24,
+          "start": 3,
+          "end": 2256,
+          "sha256": "7a4f703f45a7e6b1ef19d7ada27c73530ed78c30671157c6b551fe33b9844a10"
+        },
+        {
+          "page": 25,
+          "start": 0,
+          "end": 867,
+          "sha256": "56d5303a52ebecee60e57c64931121814b862e43b154bb7f99cc6e517875a029"
+        }
+      ]
+    },
+    {
+      "number": "47",
+      "heading": "LOCAL CIVIL RULE 47 - JURORS",
+      "page": 25,
+      "offset": 867,
+      "slices": [
+        {
+          "page": 25,
+          "start": 867,
+          "end": 1794,
+          "sha256": "d1e94f5627afaa328aa02e488c1254aa4ee37fdd2495fc3cf924c8294c47f29a"
+        },
+        {
+          "page": 26,
+          "start": 0,
+          "end": 2639,
+          "sha256": "8c73b384681f84e60393a31100e7af17b285e1ae5d49f14390130a291360e54a"
+        },
+        {
+          "page": 27,
+          "start": 0,
+          "end": 674,
+          "sha256": "8d4bf2479bf37806e323399bd1ee0cb32e9c31a1167b17e8e68d5254ee0da6a1"
+        }
+      ]
+    },
+    {
+      "number": "54",
+      "heading": "LOCAL CIVIL RULE 54 - JUDGMENTS; COSTS",
+      "page": 27,
+      "offset": 674,
+      "slices": [
+        {
+          "page": 27,
+          "start": 674,
+          "end": 1758,
+          "sha256": "b16def242bf77199180e26399973ad8464f6131714d35d3fe96d7f715cc0ce19"
+        },
+        {
+          "page": 28,
+          "start": 0,
+          "end": 2185,
+          "sha256": "9e366f5f40cdb918deb391fb1fac14fd450e3b256e3a4f191f0c7e2918e9e3e5"
+        },
+        {
+          "page": 29,
+          "start": 0,
+          "end": 263,
+          "sha256": "d04bf7aa1fa7eb9aaa58f9b685853f4ee6b7991dcb8056944c534a6bcab7bf10"
+        }
+      ]
+    },
+    {
+      "number": "55",
+      "heading": "LOCAL CIVIL RULE 55 - DEFAULT",
+      "page": 29,
+      "offset": 263,
+      "slices": [
+        {
+          "page": 29,
+          "start": 263,
+          "end": 694,
+          "sha256": "ea6b510251c91e3e5ed349589760ed2c60e8721cff8229dc3d27836d346f758b"
+        }
+      ]
+    },
+    {
+      "number": "56",
+      "heading": "LOCAL CIVIL RULE 56 - SUMMARY JUDGMENT",
+      "page": 29,
+      "offset": 694,
+      "slices": [
+        {
+          "page": 29,
+          "start": 694,
+          "end": 1837,
+          "sha256": "17351d8efe8c0e9edd7b20db3f37414087399da6d4da59c6469dd1357afe7a0b"
+        },
+        {
+          "page": 30,
+          "start": 0,
+          "end": 2530,
+          "sha256": "78b90ff64f885cd04579af7b1df123b989f4d0e902051e5a6e6d029d777141fe"
+        },
+        {
+          "page": 31,
+          "start": 0,
+          "end": 1406,
+          "sha256": "b638748fcc50466dc6224a6ac5a4cc9bd53c2e9ca36a336c3e3a1b34bcf46a5a"
+        }
+      ]
+    },
+    {
+      "number": "58",
+      "heading": "LOCAL CIVIL RULE 58 – ENTRY OF JUDGMENT",
+      "page": 31,
+      "offset": 1406,
+      "slices": [
+        {
+          "page": 31,
+          "start": 1406,
+          "end": 1917,
+          "sha256": "6099a2674fb9a8b4a55298f95f02c7034b65be7410a27297c511aa0a64995e8f"
+        },
+        {
+          "page": 32,
+          "start": 0,
+          "end": 1305,
+          "sha256": "c7d1f1b72d50782a668dfd399461e98f916b53d3b3022c6f5ea04999b5508a81"
+        }
+      ]
+    },
+    {
+      "number": "62",
+      "heading": "LOCAL CIVIL RULE 62 – STAY OF PROCEEDINGS TO ENFORCE A JUDGMENT",
+      "page": 32,
+      "offset": 1305,
+      "slices": [
+        {
+          "page": 32,
+          "start": 1305,
+          "end": 1776,
+          "sha256": "896ccd9a39f60aed973c060fc04dec7c31d86115e25b65ab691bcd948222968a"
+        },
+        {
+          "page": 33,
+          "start": 0,
+          "end": 659,
+          "sha256": "dd48c21784c04eaee89e7e523ed674eddae65f8e3d489010d828bb15554ea7dc"
+        }
+      ]
+    },
+    {
+      "number": "65",
+      "heading": "LOCAL CIVIL RULE 65 - INJUNCTIONS AND RESTRAINING ORDERS",
+      "page": 33,
+      "offset": 659,
+      "slices": [
+        {
+          "page": 33,
+          "start": 659,
+          "end": 1466,
+          "sha256": "8d69846a8d77566ab88241da32228665058d5c19d8a9299b50438d116af1c4e3"
+        }
+      ]
+    },
+    {
+      "number": "65.1",
+      "heading": "LOCAL CIVIL RULE 65.1 - SECURITY: PROCEEDINGS AGAINST SURETIES",
+      "page": 33,
+      "offset": 1466,
+      "slices": [
+        {
+          "page": 33,
+          "start": 1466,
+          "end": 2090,
+          "sha256": "dc87c902b9e31929cdae88b2c3e1149ce1332c9f3d7ebba3cf1355308a134b01"
+        },
+        {
+          "page": 34,
+          "start": 0,
+          "end": 382,
+          "sha256": "f4fb369c7148e70dde53370fe2cd853ffbf4bc435e1c1875b52cd477fe99bc39"
+        }
+      ]
+    },
+    {
+      "number": "67",
+      "heading": "LOCAL CIVIL RULE 67 - DEPOSIT IN COURT",
+      "page": 34,
+      "offset": 382,
+      "slices": [
+        {
+          "page": 34,
+          "start": 382,
+          "end": 1949,
+          "sha256": "4a6e269bbcd605f87cfc118853a08c8dc299fc74b31735ed42c9c5a6cb442426"
+        },
+        {
+          "page": 35,
+          "start": 0,
+          "end": 1757,
+          "sha256": "9897b57ee115b56419d72c67545506cc17bf78cf06f7d4bd48eb80f4de1d8e87"
+        }
+      ]
+    },
+    {
+      "number": "72",
+      "heading": "LOCAL CIVIL RULE 72 - MAGISTRATE JUDGES; PRETRIAL ORDERS",
+      "page": 35,
+      "offset": 1757,
+      "slices": [
+        {
+          "page": 35,
+          "start": 1757,
+          "end": 2092,
+          "sha256": "67dd452e2b2ec235c7ae4a9bc6961b0782a71fe4ca62bd6e5ddc996709491357"
+        },
+        {
+          "page": 36,
+          "start": 0,
+          "end": 377,
+          "sha256": "3b863acaa3232e5f36991c9dd1fbe5448acc4f4254ee40a3983ab2b95f93aad9"
+        }
+      ]
+    },
+    {
+      "number": "73",
+      "heading": "LOCAL CIVIL RULE 73 - MAGISTRATE JUDGES; TRIAL BY CONSENT AND APPEAL",
+      "page": 36,
+      "offset": 377,
+      "slices": [
+        {
+          "page": 36,
+          "start": 377,
+          "end": 1984,
+          "sha256": "141938f3a9fe5f5009d8ba44909ca76e347bf1b5ce299614660b4a8ceb034eaa"
+        },
+        {
+          "page": 37,
+          "start": 0,
+          "end": 1771,
+          "sha256": "d001be5318b7519efcaca71072cb23887e885221f654aa9a6cf9b4356f870e0c"
+        },
+        {
+          "page": 38,
+          "start": 0,
+          "end": 441,
+          "sha256": "76027e071425cfc59e308573a83c63bee42a6f0ca75992688e4d5e4da687a1cb"
+        }
+      ]
+    },
+    {
+      "number": "77",
+      "heading": "LOCAL CIVIL RULE 77 - DISTRICT COURTS AND CLERKS",
+      "page": 38,
+      "offset": 441,
+      "slices": [
+        {
+          "page": 38,
+          "start": 441,
+          "end": 795,
+          "sha256": "c951a0f787d0cdbc3c67ff08b22464224445c19caebec92d15c9213102f69eac"
+        }
+      ]
+    },
+    {
+      "number": "78",
+      "heading": "LOCAL CIVIL RULE 78 - MOTION DAY",
+      "page": 38,
+      "offset": 795,
+      "slices": [
+        {
+          "page": 38,
+          "start": 795,
+          "end": 1576,
+          "sha256": "226d650f341e746c15d19b347a061c935f42cd214614a5a4cf2bfd619c6ed2a3"
+        }
+      ]
+    },
+    {
+      "number": "79",
+      "heading": "LOCAL CIVIL RULE 79 - BOOKS AND RECORDS KEPT BY THE CLERK OF COURT AND",
+      "page": 38,
+      "offset": 1576,
+      "slices": [
+        {
+          "page": 38,
+          "start": 1576,
+          "end": 1663,
+          "sha256": "accad5af1a165c70746f2f200f58774ec86454a9a523be6c87ed06be97beba3e"
+        },
+        {
+          "page": 39,
+          "start": 0,
+          "end": 2068,
+          "sha256": "63ff6dab615c3cd44b4915c2557616eeb2f99173c4f420b14292a9be283afa37"
+        },
+        {
+          "page": 40,
+          "start": 0,
+          "end": 492,
+          "sha256": "912a31f535d3e079b10fcc966426d6620bbcfb557ce4d506f3a5e8a2a7dbdad1"
+        }
+      ]
+    },
+    {
+      "number": "83",
+      "heading": "LOCAL CIVIL RULE 83 - RULES BY DISTRICT COURTS; JUDGES' DIRECTIVES",
+      "page": 40,
+      "offset": 492,
+      "slices": [
+        {
+          "page": 40,
+          "start": 492,
+          "end": 1852,
+          "sha256": "391fc80d078cf579cafe636838dbe0bb0da285b5555b5e05b58794a7b7df6e29"
+        },
+        {
+          "page": 41,
+          "start": 0,
+          "end": 1995,
+          "sha256": "884c879180aed8a9cff4e4f28cfe3196c246c85e70f536c8f041434970fce071"
+        },
+        {
+          "page": 42,
+          "start": 0,
+          "end": 2010,
+          "sha256": "0ebf1ecddd186c7d3aee02dd8dc46c0580493045a687dfa821bce5f88e8b4972"
+        },
+        {
+          "page": 43,
+          "start": 0,
+          "end": 1816,
+          "sha256": "b8bb0f3a9e5dbd62c554e8a498ffee5a8007e21a517bc1f9af22fce6b310082c"
+        },
+        {
+          "page": 44,
+          "start": 0,
+          "end": 1712,
+          "sha256": "0672a14a29dd116375323ee7561d3f8f0334bab2cb5809a9287defeff0bb5649"
+        },
+        {
+          "page": 45,
+          "start": 0,
+          "end": 2099,
+          "sha256": "4b0a7f36610b6deb128a04922ec204ea56851becb663f37fe2d5e76b8a5bad00"
+        },
+        {
+          "page": 46,
+          "start": 0,
+          "end": 2158,
+          "sha256": "355ec63fef14509e85443f05f9808fa498bfebba12b26ca2d278eed2cd5c7983"
+        },
+        {
+          "page": 47,
+          "start": 0,
+          "end": 1711,
+          "sha256": "87fa0f24761b66892fb4bd1d020e76c96c97851720cb22954ea8054d942b366f"
+        },
+        {
+          "page": 48,
+          "start": 0,
+          "end": 1520,
+          "sha256": "c7507a717ca59d8cebb2f4b792a211bc83c5261ce1b25c2ac4ffabdeb3438ff5"
+        },
+        {
+          "page": 49,
+          "start": 0,
+          "end": 1833,
+          "sha256": "a844360d83c38960ab0da6da7dce9e750d25990ddbdf8c5c0212bddfebc0e17b"
+        },
+        {
+          "page": 50,
+          "start": 0,
+          "end": 1787,
+          "sha256": "c89c1e9b0ebc1793a76106257d02b497b97351a7d8478bb7ee08d8ed210d4b67"
+        },
+        {
+          "page": 51,
+          "start": 0,
+          "end": 1804,
+          "sha256": "63b805497c3c7fd256bf29d3562cc1ad94d1679f888f014d64ce76969b9bae8d"
+        },
+        {
+          "page": 52,
+          "start": 0,
+          "end": 1948,
+          "sha256": "789b93b5498a19eac0b1e45f5f848525cca31be27c99ade3e4ee307d7f63d55f"
+        },
+        {
+          "page": 53,
+          "start": 0,
+          "end": 1793,
+          "sha256": "a3b3410ca5af24031f28fed0dae4b38274f45e7921e98b3ca8da3da17ee2b60a"
+        },
+        {
+          "page": 54,
+          "start": 0,
+          "end": 1893,
+          "sha256": "00f22dcfa2f905d539d695d106a4d844b9cf73cadc0c7e6e250c55b8860add59"
+        },
+        {
+          "page": 55,
+          "start": 0,
+          "end": 1641,
+          "sha256": "4467e0c3e87b081c05e9c132e9f5d7b741fbded62042434a0b1604fc663f53af"
+        },
+        {
+          "page": 56,
+          "start": 0,
+          "end": 1640,
+          "sha256": "258a297e581f98c1496a456f76a4c57f6bd7f103914765b7b8462f50b129d8b6"
+        },
+        {
+          "page": 57,
+          "start": 0,
+          "end": 565,
+          "sha256": "4f2fc4c3e3d575268a2a24e42caf0a3d4d327156814277f6ab3107c922be0453"
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "startPage": 7,
+    "startOffset": 20,
+    "endPage": 57,
+    "endOffset": 565,
+    "ruleCount": 38,
+    "tocReconciled": false,
+    "editorialReviewComplete": false,
+    "currencyReviewed": false,
+    "flags": [
+      "Source extraction contains unresolved characters; consult the original publication."
+    ],
+    "excluded": "Source material outside the recorded range remains available in the district source library."
+  },
+  "transcriptionSha256": "de7c4532bf4d3067e123163375e8bde37e77fb7d04013f1a926134254a4e3808"
+}

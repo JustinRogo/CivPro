@@ -1,0 +1,2227 @@
+{
+  "version": 1,
+  "reviewStatus": "parsed-draft",
+  "districtId": "arwd",
+  "sourceDocument": {
+    "id": "d096db6d77a0e2ec",
+    "title": "Local Rules",
+    "format": "pdf",
+    "role": "primary",
+    "sourceUrl": "https://www.arwd.uscourts.gov/sites/arwd/files/ARWD%20Local%20Rules.pdf",
+    "sha256": "d096db6d77a0e2ec96e0140013005bfe99c69ba778180a20f71f683c423b4c41",
+    "bytes": 376307,
+    "retrievedAt": "2026-09-07T00:00:53.459608+00:00",
+    "snapshotPath": "sources/district-snapshots/d096db6d77a0e2ec96e0140013005bfe99c69ba778180a20f71f683c423b4c41.pdf",
+    "textPath": "data/source-library/d096db6d77a0e2ec96e0140013005bfe99c69ba778180a20f71f683c423b4c41.json",
+    "pdfPath": "data/source-pdfs/d096db6d77a0e2ec96e0140013005bfe99c69ba778180a20f71f683c423b4c41.pdf",
+    "pageCount": 66,
+    "reviewStatus": "source-document-only",
+    "blankTextPages": 0
+  },
+  "collection": {
+    "id": "arwd-civil",
+    "name": "Western District of Arkansas Local Rules",
+    "shortName": "Local rules · draft",
+    "districtId": "arwd",
+    "scopeNote": "Civil and generally applicable local rules; unparsed supplements remain in the source library. Rule boundaries and transcription are drafts. Embedded notes, forms, and running headers may remain within rule text; subsection anchors and field-separated notes are not yet reviewed."
+  },
+  "provisions": [
+    {
+      "id": "arwd-civil:4.1",
+      "collectionId": "arwd-civil",
+      "districtId": "arwd",
+      "number": "4.1",
+      "citation": "Western District of Arkansas · Rule 4.1",
+      "title": "SERVICE OF PROCESS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-4",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 4.1\nSERVICE OF PROCESS\n(a) Counsel must prepare summons on the form provided by the Clerk. Counsel must prepare any\nprocess that will be served by the United States Marshal, such as a writ of execution, and present\nthat document to the Clerk.\n(b) After service of any pleading accompanied by a summons, counsel must promptly file proof of\nservice using either the affidavit at the end of the Clerk's summons form or a separate affidavit of\nservice. If service has been made by mail, counsel must attach the document showing receipt,\nsuch as the green card. When the United States Marshal serves any process, the Marshal must\npromptly file a return of service, including the document showing receipt if service was made by\nmail.\nAdopted March 2, 1981, and effective May 1, 1981\nAmended May 1, 1985\nAmended January 2, 1990\nAmended September 21, 2017",
+          "pages": [
+            3
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "arwd-civil-parsed-v1-d096db6d77a0e2ec",
+      "sourceDocumentId": "parsed-arwd-d096db6d77a0e2ec",
+      "sourceUrl": "https://www.arwd.uscourts.gov/sites/arwd/files/ARWD%20Local%20Rules.pdf",
+      "pageIndex": 3,
+      "pageSpan": [
+        3,
+        3
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "arwd-civil:4.2",
+      "collectionId": "arwd-civil",
+      "districtId": "arwd",
+      "number": "4.2",
+      "citation": "Western District of Arkansas · Rule 4.2",
+      "title": "COSTS AND BONDS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-5",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 4.2\nCOSTS AND BONDS\n(a) Costs. Parties instituting any civil action, suit, or proceeding, whether by original action,removal\nor otherwise,shall pay to theClerk the filing fee asrequired by the Judicial Conference of the United\nStates. The Clerk will not accept for filing any tendered pleading for the institution of a civil action\nwithout advance payment of the filing fee, unless the court shall order otherwise.\n(b) Bond for Costs. The Court, on motion or of its own initiative, may order any party plaintiff, either\nresident or nonresident, to file an original bond for costs or additional security for costs in such an\namount and so conditioned as the Court by its Order may designate.\nAdopted and effective May 1, 1980\nAmended July 1, 1988\nAmended January 2, 1990",
+          "pages": [
+            4
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "arwd-civil-parsed-v1-d096db6d77a0e2ec",
+      "sourceDocumentId": "parsed-arwd-d096db6d77a0e2ec",
+      "sourceUrl": "https://www.arwd.uscourts.gov/sites/arwd/files/ARWD%20Local%20Rules.pdf",
+      "pageIndex": 4,
+      "pageSpan": [
+        4,
+        4
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "arwd-civil:4.3",
+      "collectionId": "arwd-civil",
+      "districtId": "arwd",
+      "number": "4.3",
+      "citation": "Western District of Arkansas · Rule 4.3",
+      "title": "BONDSMEN",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-6",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 4.3\nBONDSMEN\nNo officer of either DistrictCourt, employee oftheDepartment ofJustice, or attorney at law shall be\naccepted as surety on any bond or undertaking in any action or proceeding in either District Court.\nAdopted and effective May 1, 1980",
+          "pages": [
+            5
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "arwd-civil-parsed-v1-d096db6d77a0e2ec",
+      "sourceDocumentId": "parsed-arwd-d096db6d77a0e2ec",
+      "sourceUrl": "https://www.arwd.uscourts.gov/sites/arwd/files/ARWD%20Local%20Rules.pdf",
+      "pageIndex": 5,
+      "pageSpan": [
+        5,
+        5
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "arwd-civil:5.1",
+      "collectionId": "arwd-civil",
+      "districtId": "arwd",
+      "number": "5.1",
+      "citation": "Western District of Arkansas · Rule 5.1",
+      "title": "FILING OF DOCUMENTS BY ELECTRONIC MEANS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-7",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 5.1\nFILING OF DOCUMENTS BY ELECTRONIC MEANS\nA person represented by an attorney must file electronically, unless nonelectronic filing is allowed\nby the court for good cause.\nGenerally, the only exception to the mandatory electronic filing requirement are case initiating\ndocuments (complaints, petitions, notices of removal and indictments). Additional exceptions in the\nEastern District are sealed records, Social Security Administrative Transcripts and any document that adds\na party to an action.\nA person not represented by an attorney is generally not allowed to electronically file and must\nsubmit paper for filing. Electronic filing is only permitted by court order.\nAdopted and effective May 26, 2005\nAmended December 1, 2018",
+          "pages": [
+            6
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "arwd-civil-parsed-v1-d096db6d77a0e2ec",
+      "sourceDocumentId": "parsed-arwd-d096db6d77a0e2ec",
+      "sourceUrl": "https://www.arwd.uscourts.gov/sites/arwd/files/ARWD%20Local%20Rules.pdf",
+      "pageIndex": 6,
+      "pageSpan": [
+        6,
+        6
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "arwd-civil:5.4",
+      "collectionId": "arwd-civil",
+      "districtId": "arwd",
+      "number": "5.4",
+      "citation": "Western District of Arkansas · Rule 5.4",
+      "title": "TIME FOR FILING UNDER FEDERAL RULES OF CIVIL PROCEDURE 5 (d)",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-8",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 5.4\nTIME FOR FILING UNDER FEDERAL RULES OF CIVIL PROCEDURE 5 (d)\nSeven days is hereby construed to be a \"reasonable time\" after service within which papersshall\nbe filed underthe provisions of FederalRules ofCivil Procedure 5(d).\nAdopted and effective May 1, 1980\nAmended November 10, 2009",
+          "pages": [
+            7
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "arwd-civil-parsed-v1-d096db6d77a0e2ec",
+      "sourceDocumentId": "parsed-arwd-d096db6d77a0e2ec",
+      "sourceUrl": "https://www.arwd.uscourts.gov/sites/arwd/files/ARWD%20Local%20Rules.pdf",
+      "pageIndex": 7,
+      "pageSpan": [
+        7,
+        7
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "arwd-civil:5.5",
+      "collectionId": "arwd-civil",
+      "districtId": "arwd",
+      "number": "5.5",
+      "citation": "Western District of Arkansas · Rule 5.5",
+      "title": "PLEADINGS AND FILINGS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-9",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 5.5\nPLEADINGS AND FILINGS\n(a) The original of all pleadings, motions, and other papers, together with two copies thereof, shall\nbe filed with the Clerk. All pleadings, motions, and other papers shall be typewritten, photocopied,\nmimeographed, or printed in type not lessthan elite, in double space, letter size, using only one side\nof the page, and shall be filed by the Clerk unfolded and without manuscript covers. Attorneys\nshall take notice of case numbers assigned to each case and shall note such numbers upon all\npleadings, orders, and judgments.\n(b) Pleadings, motions, and other papers are to be filed as follows:\n(1) In the Eastern District, the Clerk maintains staffed offices at Little Rock, Pine Bluff, and\nJonesboro. In the Western District, the Clerk maintains offices at Fort Smith, Fayetteville,\nEl Dorado, Texarkana, and Hot Springs. In civil matters, pleadings, motions, and other\npapers should be filed in the office of the Clerk designated in Local Rule 77.1 for the\nDivision in which the case is pending, but when a Clerk is unavailable, they may be filed in\nany office of the Clerk in the appropriate district.\n(2) Criminal matters in the Eastern District. All pleadings, motions, and other papers in all\ncriminal matters are to be filed in Little Rock.\n(3) Criminal matters in the Western District. All pleadings, motions and other papers in\ncriminal matters in the Harrison Division shall be filed in Fayetteville. Otherwise, all\npleadings, motions, and other papers in criminal matters for a particular division are to be\nfiled in that division.\n(c) (1) Parties represented by counsel. Every pleading, motion, or other paper (except a pro se\nmotion to discharge an attorney) filed in behalf of a party represented by counselshall be\nsigned by at least one attorney of record in his or her individual name, and the attorney's\naddress, zip code, and telephone number, and Arkansas Supreme Court identification\nnumber, or other Supreme Court identification number, if applicable, shall be stated. It is\nthe duty of each attorney to promptly notify theClerk and the other parties to the proceedings\nof any change in his or her address.\n(2) Parties appearing pro se. It is the duty of any party not represented by counsel to promptly\nnotify the Clerk and the other parties to the proceedings of any change in his or her address,\nto monitor the progress of the case, and to prosecute or defend the action diligently. A\nparty appearing for himself/herself shall sign his/her pleadings and state his/her address,\nzip code, and telephone number. If any communication from the Court to a pro se plaintiff\nis not responded to within thirty (30) days, the case may be dismissed without prejudice. \nAny party proceeding pro se shall be expected to be familiar with and follow the Federal\nRules of Civil Procedure.\n(d) At the time of filing a civil action, the plaintiff shall complete and submit a cover sheet statement\non Federal Form No. JS44.\n(e) A party who moves to amend a pleading shall attach a copy of the amendment to the motion. The\nmotion must contain a concise statement setting out what exactly is being amended in the new\npleading – e.g. added defendant X, adding a claim for X, corrected spelling. Any amendment\nto a pleading, whether filed as a matter of course or upon a motion to amend, must, except by",
+          "pages": [
+            8
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-10",
+          "path": [],
+          "type": "paragraph",
+          "text": "leave of Court, reproduce the entire pleading as amended, and may not incorporate any prior\npleading by reference. The party amending shall file the original of the amended pleading within\nseven (7) days of the entry of the order granting leave to amend unless otherwise ordered by\nthe Court. The requirements for amending pleadings set forth in this subsection of Rule 5.5\nshall not apply to parties proceeding pro se.\nProposed findings of fact and conclusions of law, trial briefs, and proposed jury instructionsshall\nbe submitted to the judge to whom the case is assigned, with copiesserved upon all other parties.\n(a)(b) and (d) Adopted and effective May 1, 1980\n(c) Adopted and effective March 14, 1984\n(e) Adopted and effective July 16, 1980\n(f) through (j) Adopted and effective June 26, 1981\n(g) Amended October 27, 1986 Amended July 1, 1988\nAmended January 2, 1990\nAmended and effective December 1, 2000\nAmended and effective April 30, 2007\nAmended and effective September 20, 2007\nAmended November 10, 2009",
+          "pages": [
+            9
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "arwd-civil-parsed-v1-d096db6d77a0e2ec",
+      "sourceDocumentId": "parsed-arwd-d096db6d77a0e2ec",
+      "sourceUrl": "https://www.arwd.uscourts.gov/sites/arwd/files/ARWD%20Local%20Rules.pdf",
+      "pageIndex": 8,
+      "pageSpan": [
+        8,
+        9
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "arwd-civil:6.2",
+      "collectionId": "arwd-civil",
+      "districtId": "arwd",
+      "number": "6.2",
+      "citation": "Western District of Arkansas · Rule 6.2",
+      "title": "EXTENSION OF TIME TO PLEAD",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-11",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 6.2\nEXTENSION OF TIME TO PLEAD\n(a) If the time originally prescribed has not expired and if all counsel consent in writing, the Clerk may\nenter an order extending for not more than twenty-one (21) days the time to file a responsive\npleading or to respond to discovery. The Court may suspend, alter, or rescind the order on its own\nmotion or upon the motion of a party. All other extensions of time shall require approval by the\nCourt, except that when the appropriate judge is not available, approval may be granted by\nanother judge or a magistrate judge.\n(b) In every motion for a continuance, every motion for any extension of time, or for leave to do any\nact out of time, the motion shall state that the movant has contacted the adverse party (or\nparties) with regard to the motion, and also state whether the adverse party opposes or does not\noppose same. If any such motion does not contain the statements required by this rule or,\nalternatively, a statement setting forth extraordinary circumstances which make it impracticable to\ncontact the adverse party (or parties), the motion may be dismissed summarily for failure to comply\nwith this rule. Repeated failures to comply will be considered an adequate basis for the\nimposition of sanctions.\n(a) Adopted and effective May 1, 1980\n(b) Effective April 15, 1989\nAmended November 10, 2009",
+          "pages": [
+            10
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "arwd-civil-parsed-v1-d096db6d77a0e2ec",
+      "sourceDocumentId": "parsed-arwd-d096db6d77a0e2ec",
+      "sourceUrl": "https://www.arwd.uscourts.gov/sites/arwd/files/ARWD%20Local%20Rules.pdf",
+      "pageIndex": 10,
+      "pageSpan": [
+        10,
+        10
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "arwd-civil:7.2",
+      "collectionId": "arwd-civil",
+      "districtId": "arwd",
+      "number": "7.2",
+      "citation": "Western District of Arkansas · Rule 7.2",
+      "title": "MOTIONS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-12",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 7.2\nMOTIONS\n(a) All motions except those mentioned in paragraph (d) shall be accompanied by a brief consisting of\na concise statement of relevant facts and applicable law. Both documents shall be filed with the\nClerk, and copies shall be served on all other parties affected by the motion.\n(b) Within fourteen (14) days from the date of service of copies of a motion and supporting papers,\nany party opposing a motion shall serve and file with the Clerk a concise statement in opposition\nto the motion with supporting authorities. A party moving for summary judgment will have seven\n(7) days to file a reply in further support of the motion. A party seeking relief under 28 U.S.C. § \n2254 or 28 U.S.C. § 2255 may file a reply within seven (7) days of the response. For cause shown,\nthe court may by order shorten or lengthen the time for the filing of responses and replies. Fed. R. \nCiv. P. 6, including subparagraph 6(d), determines how the days are counted under this local rule,\nunless the court specifies otherwise.\n(c) If a motion requires consideration of facts not appearing of record, the parties may serve and file\ncopies of all photographs, documents, or other evidence deemed necessary in support of or in\nopposition to the motion, in addition to affidavits required or permitted by the Federal Rules of\nCivil Procedure.\n(d) No brief is required from any party, unless otherwise directed by the Court, with respect to the\nfollowing motions:\n(1) To extend time for the performance of an act required or allowed to be done, provided\nrequest is made before the expiration of the period originally prescribed, or as extended by\nprevious order.\n(2) To obtain leave to file supplemental or amended pleadings.\n(3) To appoint an attorney or guardian ad litem.\n(4) To permit substitution of parties or attorneys.\n(e) Pretrial motionsfor temporary restraining orders, motionsfor preliminary injunctions, and motions\nto dismiss,shall not be taken up and considered unless set forth in a separate pleading accompanied\nby a separate brief.\n(f) The failure to timely respond to any nondispositive motion, as required by the Federal Rules of\nCivil Procedure, the Federal Rules of Criminal Procedure, or by any local rule, shall be an adequate\nbasis, without more, for granting the relief sought in said motion.\n(g) All motions to compel discovery and all other discovery-enforcement motions and all motions for\nprotective orders shall contain a statement by the moving party that the parties have conferred in\ngood faith on the specific issue or issues in dispute and that they are not able to resolve their\ndisagreements without the intervention of the Court. If any such motion lacks such a statement,\nthat motion may be dismissed summarily for failure to comply with this rule. Repeated failures to\ncomply will be considered an adequate basis for the imposition of sanctions.\n(a) through (d) Adopted and effective May 1, 1980\n(b) Amended to change to eleven days effective July 1, 1988\n(e) Adopted and effective July 14, 1986",
+          "pages": [
+            11
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-13",
+          "path": [],
+          "type": "paragraph",
+          "text": "(f) Adopted and effective July 1, 1988\n(g) Effective April 15, 1989\nAmended January 2, 1990\nAmended November 10, 2009\nAmended May 20, 2010\nAmended December 1, 2019",
+          "pages": [
+            12
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "arwd-civil-parsed-v1-d096db6d77a0e2ec",
+      "sourceDocumentId": "parsed-arwd-d096db6d77a0e2ec",
+      "sourceUrl": "https://www.arwd.uscourts.gov/sites/arwd/files/ARWD%20Local%20Rules.pdf",
+      "pageIndex": 11,
+      "pageSpan": [
+        11,
+        12
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "arwd-civil:7.3",
+      "collectionId": "arwd-civil",
+      "districtId": "arwd",
+      "number": "7.3",
+      "citation": "Western District of Arkansas · Rule 7.3",
+      "title": "COMMUNICATIONS WITH COURT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-14",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 7.3\nCOMMUNICATIONS WITH COURT\n(a) Attorneys shall not communicate in writing with the Court concerning any pending case unless\ncopies of the writing are served on all attorneys for all other parties in the case. Attorneysshall not\nfurnish the Court copies of correspondence among themselves relating to matters in dispute which\nare not then before the Court for resolution. Such dispute should either be settled by counsel or\nmade the subject of a formal motion. This rule has special application to correspondence relating\nto specific money demands and offers in settlement.\n(b) Exparteoral communicationswiththeCourt on substantivematters by counsel or a party concerning\na pending action are prohibited except when permitted by Federal Rules of Civil or Criminal\nProcedure.\nAdopted and effective May 1, 1980",
+          "pages": [
+            13
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "arwd-civil-parsed-v1-d096db6d77a0e2ec",
+      "sourceDocumentId": "parsed-arwd-d096db6d77a0e2ec",
+      "sourceUrl": "https://www.arwd.uscourts.gov/sites/arwd/files/ARWD%20Local%20Rules.pdf",
+      "pageIndex": 13,
+      "pageSpan": [
+        13,
+        13
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "arwd-civil:7.4",
+      "collectionId": "arwd-civil",
+      "districtId": "arwd",
+      "number": "7.4",
+      "citation": "Western District of Arkansas · Rule 7.4",
+      "title": "STIPULATIONS BY COUNSEL",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-15",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 7.4\nSTIPULATIONS BY COUNSEL\nThe court will not recognize any agreement between counsel, if counsel differ as to its terms,\nunless the agreement has been reduced to writing.\nAdopted and effective May 1, 1980",
+          "pages": [
+            14
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "arwd-civil-parsed-v1-d096db6d77a0e2ec",
+      "sourceDocumentId": "parsed-arwd-d096db6d77a0e2ec",
+      "sourceUrl": "https://www.arwd.uscourts.gov/sites/arwd/files/ARWD%20Local%20Rules.pdf",
+      "pageIndex": 14,
+      "pageSpan": [
+        14,
+        14
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "arwd-civil:7.5",
+      "collectionId": "arwd-civil",
+      "districtId": "arwd",
+      "number": "7.5",
+      "citation": "Western District of Arkansas · Rule 7.5",
+      "title": "CONTINUANCES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 7.5\nCONTINUANCES\n(a) No motion for continuance of any hearing will be granted except for good cause.\n(b) In no case will an agreement by counsel for a continuance be recognized except by consent of the\nCourt.\n(c) Cases set for trial but not reached on that day shall retain their relative position on the trial\ncalendar to the extent practicable.\n(d) The Court may condition a continuance upon the payment of the expenses caused to the other\nparties and of jury fees incurred by the Court.\nAdopted and effective May 1, 1980",
+          "pages": [
+            15
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "arwd-civil-parsed-v1-d096db6d77a0e2ec",
+      "sourceDocumentId": "parsed-arwd-d096db6d77a0e2ec",
+      "sourceUrl": "https://www.arwd.uscourts.gov/sites/arwd/files/ARWD%20Local%20Rules.pdf",
+      "pageIndex": 15,
+      "pageSpan": [
+        15,
+        15
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "arwd-civil:9.1",
+      "collectionId": "arwd-civil",
+      "districtId": "arwd",
+      "number": "9.1",
+      "citation": "Western District of Arkansas · Rule 9.1",
+      "title": "COMPLAINT FORMS FOR ACTIONS BY INCARCERATED PERSONS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 9.1\nCOMPLAINT FORMS FOR ACTIONS BY INCARCERATED PERSONS\nAll actions under 42 U.S.C. §1983, 28 U.S.C. §2241, or 28 U.S.C. §2254 filed in this district\nby incarcerated persons shall be submitted on the court-approved forms supplied by the Court unless a\ndistrict judge or magistrate judge, upon finding that the complaint is understandable and that it conforms\nwith local rules and the Federal Rules of Civil Procedure, in his or her discretion, accepts for filing a\ncomplaint that is not submitted on the approved form.\nAdopted and effective May 1, 1980\nRevised and effective January 1-2, 1988\nRevised and approved April 1, 1999",
+          "pages": [
+            16
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "arwd-civil-parsed-v1-d096db6d77a0e2ec",
+      "sourceDocumentId": "parsed-arwd-d096db6d77a0e2ec",
+      "sourceUrl": "https://www.arwd.uscourts.gov/sites/arwd/files/ARWD%20Local%20Rules.pdf",
+      "pageIndex": 16,
+      "pageSpan": [
+        16,
+        16
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "arwd-civil:16.1",
+      "collectionId": "arwd-civil",
+      "districtId": "arwd",
+      "number": "16.1",
+      "citation": "Western District of Arkansas · Rule 16.1",
+      "title": "INITIAL SCHEDULING ORDER",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 16.1\nINITIAL SCHEDULING ORDER\nIn all civil actions except those exempted by Local Rule 16.2, an Initial Scheduling Order will\nissue setting forth the date by which the parties must hold their Fed.R.Civ.P. 26(f) conference, the date by\nwhich the parties must submit their Fed.R.Civ.P. 26(f) report, a tentative date for a Fed.R.Civ.P. 16(b)\nconference, and a proposed trial date.\nAfter the court receives the parties’ 26(f) report and, if necessary, holds the 16(b) conference,\nthe court will issue a Final Scheduling Order.\nThe requirements for the Fed.R.Civ.P. 26(f) report are set out in Local Rule 26.1.\nThe requirements for the Fed.R.Civ.P. 26(a)(3) pretrial disclosure sheet are set out in Local Rule\n26.2.\nEffective December 1, 2000.",
+          "pages": [
+            17
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "arwd-civil-parsed-v1-d096db6d77a0e2ec",
+      "sourceDocumentId": "parsed-arwd-d096db6d77a0e2ec",
+      "sourceUrl": "https://www.arwd.uscourts.gov/sites/arwd/files/ARWD%20Local%20Rules.pdf",
+      "pageIndex": 17,
+      "pageSpan": [
+        17,
+        17
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "arwd-civil:16.2",
+      "collectionId": "arwd-civil",
+      "districtId": "arwd",
+      "number": "16.2",
+      "citation": "Western District of Arkansas · Rule 16.2",
+      "title": "EXEMPT ACTIONS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 16.2\nEXEMPT ACTIONS\nThe following categories of cases are exempt from the Fed.R.Civ.P. 16(b) Scheduling Order:\n(1) Actions for review of an administrative record;\n(2) Habeas corpus petitions;\n(3) Pro se actions brought by persons in federal, state or local custody;\n(4) Actions to enforce or quash administrative summons or subpoena;\n(5) Actions by the United States to recover benefit payments or to collect on student\nloans;\n(6) Proceedings ancillary to proceedings in other courts;\n(7) Actions to enforce arbitration awards; and\n(8) Eminent domain and foreclosure actions.\nEffective December 1, 2000.\nAmended and effective December 3, 2002.",
+          "pages": [
+            18
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "arwd-civil-parsed-v1-d096db6d77a0e2ec",
+      "sourceDocumentId": "parsed-arwd-d096db6d77a0e2ec",
+      "sourceUrl": "https://www.arwd.uscourts.gov/sites/arwd/files/ARWD%20Local%20Rules.pdf",
+      "pageIndex": 18,
+      "pageSpan": [
+        18,
+        18
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "arwd-civil:23.1",
+      "collectionId": "arwd-civil",
+      "districtId": "arwd",
+      "number": "23.1",
+      "citation": "Western District of Arkansas · Rule 23.1",
+      "title": "CLASS ACTIONS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 23.1\nCLASS ACTIONS\nCaption andClass Action Allegations. In any case sought to be maintained as a class action:\n(1) The complaint shall bear the caption \"Complaint - Class Action\" next to, or under, the style\nof the case.\n(2) The complaint shall contain a separate paragraph captioned \"Class Action Allegations\"\nwhich shall set forth, inter alia:\n(a) A reference to the portion or portions of Fed.R.Civ.P. 23 under which it is claimed\nthat the suit is properly maintainable as a class action; and\n(b) Allegations in support of this claim, including, but not necessarily limited to:\n(i) the size (in numbers) or approximate size and definition of the alleged and\nproposed class;\n(ii) the basis upon which the plaintiff claims (a) to be an adequate\nrepresentative of the class, or (b) if the class is composed of defendants,\nthe basis upon which plaintiff claims that the named defendant (or\ndefendants) is an adequate representative of the class;\n(iii) the specific questions of law and fact claimed to be common to any class\nalleged; and\n(iv) in actions claimed to be maintainable as class actions under Fed.R.Civ.P. \n23(b)(3), allegations in support of the findingsrequired by thatsubdivision.\n(3) The deadline for filing a motion for class certification will be set in the Final Scheduling\nOrder (see Local Rule 26.1(13)). The motion shall particularize the facts believed to\nwarrant class or subclass certification and indicate if those facts have been established by\nstipulations, admissions, or discovery. If a hearing is believed necessary, the motion shall\nso state. The other partiesshallrespond to said motion within fourteen (14) daysspecifically\nadmitting or denying the facts alleged and setting forth any additional or contrary facts\nbelieved pertinent to the class action determinations required. Such responses shall also\nstate whether a hearing is believed necessary. Both the motion and responses shall be\naccompanied by a memorandumoflaw covering all issuesrelating to class certification. In\nruling upon such a motion, the Court may allow the action to be so maintained, strike the\nclass action allegations, or postpone the determination pending further discovery or other\npreliminary proceedings. Whenever possible, where it is held that the determination should\nbe postponed, a date will be fixed by the Court for renewal of the motion.\nFailure to move for class determination and certification by the deadline set in the Final\nScheduling Order shall constitute and signify an intentional abandonment and waiver\nof all class action allegations contained in the complaint and same shall proceed as an\nindividual, non-class action thereafter and shall be transferred by the Clerk from the Class\nAction Docket to the regular civil docket. If any motion for class determination or\ncertification is filed after the deadline provided in the Final Scheduling Order, itshall not\nhave the effect ofreinstating the class allegations unless and until it is acted upon favorably\nby the Court upon a finding of excusable neglect and good cause.",
+          "pages": [
+            19
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "(4) The foregoing provisions shall apply, with appropriate adaptations, to any counterclaim\nor cross-claim alleged to be brought for or against a class.\nAdopted and effective May 1, 1980\nAmended and effective May 1, 2002\nAmended November 10, 2009",
+          "pages": [
+            20
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "arwd-civil-parsed-v1-d096db6d77a0e2ec",
+      "sourceDocumentId": "parsed-arwd-d096db6d77a0e2ec",
+      "sourceUrl": "https://www.arwd.uscourts.gov/sites/arwd/files/ARWD%20Local%20Rules.pdf",
+      "pageIndex": 19,
+      "pageSpan": [
+        19,
+        20
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "arwd-civil:26.1",
+      "collectionId": "arwd-civil",
+      "districtId": "arwd",
+      "number": "26.1",
+      "citation": "Western District of Arkansas · Rule 26.1",
+      "title": "OUTLINE FOR FED.R.CIV.P. 26(f) REPORT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 26.1\nOUTLINE FOR FED.R.CIV.P. 26(f) REPORT\nThe Fed.R.Civ.P. 26(f) report filed with the court must contain the parties’ views and proposals\nregarding the following:\n(1) Any changes in timing, form, or requirements of mandatory disclosures under\nFed.R.Civ.P. 26(a).\n(2) Date when mandatory disclosures were or will be made.\n(3) Subjects on which discovery may be needed.\n(4) Whether any party will likely be requested to disclose or produce information from\nelectronic or computer-based media. If so:\n(a) whether disclosure or production will be limited to data reasonably available to\nthe parties in the ordinary course of business;\n(b) the anticipated scope, cost and time required for disclosure or production of data\nbeyond what is reasonably available to the parties in the ordinary course of\nbusiness;\n(c) the format and media agreed to by the parties for the production of such data as\nwell as agreed procedures for such production;\n(d) whether reasonable measures have been taken to preserve potentially discoverable\ndata fromalteration or destruction in the ordinary course of business or otherwise;\n(e) other problems which the parties anticipate may arise in connection with electronic\nor computer-based discovery.\n(5) Date by which discovery should be completed.\n(6) Any needed changes in limitations imposed by the Federal Rules of Civil Procedure.\n(7) Any orders, e.g. protective orders, which should be entered.\n(8) Any objections to initial disclosures on the ground that mandatory disclosures are not\nappropriate in the circumstances of the action.\n(9) Any objections to the proposed trial date.\n(10) Proposed deadline for joining other parties and amending the pleadings.\n(11) Proposed deadline for completing discovery. (Note: In the typical case, the deadline for\ncompleting discovery should be no laterthan sixty (60) days before trial.)\n(12) Proposed deadline for filing motions other than motionsfor class certification. (Note:In the\ntypical case, the deadline for filing motions should be no later than sixty (60) days before\ntrial.)\n(13) Class certification: In the case of a class action complaint, the proposed deadline for\nthe parties to file a motion for class certification. (Note: In the typical case, the deadline\nfor filing motions for class certification should be no later than ninety (90) days after the\nFed.R.Civ.P. 26(f) conference.)\nEffective December 1, 2000.\nAmended and effective May 1, 2002",
+          "pages": [
+            21
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "arwd-civil-parsed-v1-d096db6d77a0e2ec",
+      "sourceDocumentId": "parsed-arwd-d096db6d77a0e2ec",
+      "sourceUrl": "https://www.arwd.uscourts.gov/sites/arwd/files/ARWD%20Local%20Rules.pdf",
+      "pageIndex": 21,
+      "pageSpan": [
+        21,
+        21
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "arwd-civil:26.2",
+      "collectionId": "arwd-civil",
+      "districtId": "arwd",
+      "number": "26.2",
+      "citation": "Western District of Arkansas · Rule 26.2",
+      "title": "OUTLINE FOR FED.R.CIV.P. 26(a)(3) PRETRIAL DISCLOSURE SHEET",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 26.2\nOUTLINE FOR FED.R.CIV.P. 26(a)(3) PRETRIAL DISCLOSURE SHEET\nThe Fed.R.Civ.P. 26(a)(3) Pretrial Disclosure Sheet filed with the court must contain:\n(1) The identity of the party submitting information.\n(2) The names, addresses, and telephone numbers of all counsel for the party.\n(3) A brief summary of claims and relief sought.\n(4) Prospects for settlement. (Note: The Court expects attorneys to confer and explore the\npossibility of settlement prior to answering these inquiries.)\n(5) The basis for jurisdiction and objections to jurisdiction.\n(6) A list of pending motions.\n(7) A concise summary of the facts\n(8) All proposed stipulations.\n(9) The issues of fact expected to be contested.\n(10) The issues of law expected to be contested.\n(11) A list and brief description of exhibits, documents, charts, graphs, models, schematic\ndiagrams, summaries, and similar objects which may be used in opening statement,\nclosing argument, or any other part of the trial, other than solely for impeachment\npurposes, whether or not they will be offered in evidence. Separately designate those\ndocuments and exhibits which the party expects to offer and those which the party may\noffer.\n(12) The names, addresses and telephone numbers of witnesses for the party. Separately\nidentify witnesses whom the party expects to present and those whom the party may\ncall. Designate witnesses whose testimony is expected to be presented via deposition and,\nif not taken stenographically, a transcript of the pertinent portion of the deposition\ntestimony.\n(13) The currentstatus of discovery, a precise statement of the remaining discovery and an\nestimate of the time required to complete discovery.\n(14) An estimate of the length of trial and suggestions for expediting disposition of the action.\n(15) The signature of the attorney.\n(16) Proof of service.\nEffective December 1, 2000.",
+          "pages": [
+            22
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "arwd-civil-parsed-v1-d096db6d77a0e2ec",
+      "sourceDocumentId": "parsed-arwd-d096db6d77a0e2ec",
+      "sourceUrl": "https://www.arwd.uscourts.gov/sites/arwd/files/ARWD%20Local%20Rules.pdf",
+      "pageIndex": 22,
+      "pageSpan": [
+        22,
+        22
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "arwd-civil:33.1",
+      "collectionId": "arwd-civil",
+      "districtId": "arwd",
+      "number": "33.1",
+      "citation": "Western District of Arkansas · Rule 33.1",
+      "title": "INTERROGATORIES AND REQUESTS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-24",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 33.1\nINTERROGATORIES AND REQUESTS\n(a) Parties answering interrogatories under Fed.R.Civ.P. 33, requests for production under\nFed.R.Civ.P. 34, or requests for admissions under Fed.R.Civ.P. 36, shall repeat the interrogatories\nor requests being answered immediately preceding the answers.\n(b) A blanket objection to a set of interrogatories, requests for admissions, or requests for\nproduction will not be recognized. Objections must be made to the specific interrogatory or\nrequest, or to a part thereof if it is compound. It is not sufficient to state that the interrogatory or\nrequest is burdensome, improper, or not relevant. The ground or grounds for the objection must be\nstated with particularity.\n(c) Requestsfor admissions will not be combined with other discovery material or documents.\nAdopted and effective May 1, 1980\n(c) Amended May 1, 1985\nAmended January 2, 1990\nAmended and effective December 1, 2000\nAmended and effective May 1, 2002",
+          "pages": [
+            23
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "arwd-civil-parsed-v1-d096db6d77a0e2ec",
+      "sourceDocumentId": "parsed-arwd-d096db6d77a0e2ec",
+      "sourceUrl": "https://www.arwd.uscourts.gov/sites/arwd/files/ARWD%20Local%20Rules.pdf",
+      "pageIndex": 23,
+      "pageSpan": [
+        23,
+        23
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "arwd-civil:40.1",
+      "collectionId": "arwd-civil",
+      "districtId": "arwd",
+      "number": "40.1",
+      "citation": "Western District of Arkansas · Rule 40.1",
+      "title": "ASSIGNMENT OF ACTIONS AND PROCEEDINGS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 40.1\nASSIGNMENT OF ACTIONS AND PROCEEDINGS\n(a) All civil and criminal actions and proceedings shall be assigned by a random selection process as\nthe judges from time to time direct.\n(b) No person shall take any action designed to cause the assignment of any proceeding to a\nparticular judge. The method of assignment shall assure that the identity of the assigned judge will\nnot be disclosed by the Clerk, nor by any member of his staff, nor by any other person, until after\nfiling. It shall also be designed to prevent any litigant from choosing the judge to whom an action\nor proceeding is to be assigned. Any attempt by any attorney to vary this intent shall constitute\ngrounds for discipline, including disbarment.\n(c) Voluntary Nonsuits. When the plaintiff takes a voluntary nonsuit in a case and subsequently refiles\nthat same case, the Clerk will assign it to the judge who handled it at the time of the entry of the\nnonsuit order.\nTo assist the Court and the Clerk's office in carrying out the provision of this rule, the refiled\ncomplaint shall contain a brief paragraph identifying, by style and case number, the former proceeding in\nwhich the voluntary nonsuitwas entered and the name ofthe judge handling the case at the time of the entry\nof said voluntary nonsuit order.\nNOTE: Attorneys practicing in theEastern District of Arkansasshould consult General Order 39\n(attached) for further details on the application of this rule in special situations.\n(a) and (b) Adopted and effective May 1, 1980\n(c) Adopted and effective July 16, 1980\nNote Adopted and effective September 24, 1992",
+          "pages": [
+            24
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "IN THE UNITED STATES DISTRICT COURT\nEASTERN DISTRICT OF ARKANSAS\nIN THE MATTER OF IMPLEMENTATION\nOF LOCAL RULE 6 ON CASE ASSIGNMENTS\nIN THE EASTERN DISTRICT OF ARKANSAS\nGENERAL ORDER NO. 39\n(a) All actions and proceedings shall be assigned by a random selection process, except as\nspecifically set out in section (b) of this rule.\n(b) Civil cases shall be assigned directly to a particular judge only in the following\ncircumstances:\n(1) Voluntary Nonsuit. When the plaintiff takes a voluntary nonsuit in a case and\nsubsequently refiles that same case, the clerk will assign it to the judge who handled it at the\ntime of the entry of the nonsuit order. The refiled complaint shall contain a brief paragraph\nidentifying, by style and case number, the former proceedings in which the voluntary nonsuit was\nentered and the name of the judge handling the case when the voluntary nonsuit order was entered.\n(2) Bankruptcy Jury Trials. When a party to a bankruptcy case demands a jury trial,\nthe randomly drawn district judge who determines that there is a bona fide jury issue shall be\nassigned the case directly.\n(3) Habeas Corpus Petitions. Once a habeas corpus petition has been randomly\nassigned, all successive petitions emanating from the same state criminal proceeding on\nwhich the first petition was based shall be assigned directly to the judge/magistrate who\nhandled the first petition.\n(4) Civil Cases Attacking Federal Sentence. Civil cases, filed pursuant to 28 U.S.C. \n§ 2255, attacking a sentence imposed by a federal court shall be assigned directly to the\nsentencing judge in the criminal case.\n(5) Related Cases. There may be rare situations in which a party believes a new civil\ncase should be directly assigned to a particular judge because the new case is closely related to a prior\nclosed case and the assignment thereof to a different judge would result in a significant waste of\njudicial time. If a plaintiff believes judicial economy requires such a direct assignment, he or she\nshould so indicate by a separate pleading to be entitled “Notice of Related Case” to be filed\ncontemporaneously with the complaint and served with the complaint upon the defendant(s).\nThe Notice of Related Case shall identify, by style and case number, the prior case and shall\ncontain a brief statement setting out why judicial economy dictates direct assignment to a\nparticular judge. When a plaintiff filessuch a pleading, the new case shall be tentatively assigned to\nthe judge who handled the prior case. The adverse party(ies) shall have fourteen days after\nreceiving the “Notice of Related Case” within which to file a brief statement opposing such “related\ncase” assignment. After reviewing the cases and the submissions of the parties to determine\nwhether the cases are closely related and whether such non-random assignment is likely to result\nin significant savings of judicial resources, the judge assigned the new case may, in his or her sole\ndiscretion, decide either to keep the new case or to notify the clerk to assign the new case by random",
+          "pages": [
+            25
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "draw. The decision of the judge is final and not subject to review.\nIf a party other than the plaintiff believes a new case should be directly assigned to a judge\nwho handled a prior closely related case, that party should file a “Notice ofRelated Case” with its first\npleading and serve a copy thereof on all other parties. Such other parties shall have fourteen\ndays after receiving such “Notice of Related Case” within which to file a brief statement opposing\nsuch “related case assignment. The clerk shall submit a copy of the complaint, the first pleading\ntogether with the Notice of Related Case and any responses thereto to the judge who presided over\nthe prior case. After reviewing the cases and the submissions of the parties to determine whether\nthey are closely related and whether such non-random assignment is likely to result in significant\nsavings of judicial resources, the judge in the prior case may, in his or her sole discretion, notify the\nclerk to leave the random case assignment as it is, or to transfer the case to his or her docket as\na related case. The decision of the judge is final and not subject to review.\n(6) Civil Forfeiture. When a civil forfeiture action arises out of a previously filed\ncriminal case, the clerk shall directly assign the civil forfeiture action to the judge who handled the\ncriminal case.\n(c) Consolidation of Civil Cases. Any party to a civil case may move for consolidation of\npending cases. If such motion is granted, the consolidation cases will be assigned to the judge with\nthe lower (lowest) case number.\n(d) Criminal Cases. Criminal cases shall be assigned solely on a random election basis. In no\nevent shall any criminal case or proceeding be directly assigned to a judge as a related case. However, any\nparty to a criminal case may move for consolidation of pending cases. If such motion is granted, the\nconsolidated cases will be assigned to the judge with the lower (lowest) case number.\n(e) No person shall take any action designed to cause the assignment of any proceeding to a\nparticular judge contrary to the provisions of this rule. The method of assignment shall assure the identity\nof the assigned judge will not be disclosed by the clerk, the clerk’s staff, nor by any other person, until\nafter filing. It shall also be designed to prevent any litigant from choosing the judge to whom an action\nor proceeding is to be assigned. Any attempt by any attorney to vary this intent shall constitute grounds\nfor discipline, including disbarment. Any act by any employee of this Court done for the purpose of\ncausing the assignment of any case or proceeding contrary to the provisions ofthisrule shall be considered\na proper basisfor immediate discharge.\nIt is hereby ORDERED this 4th day of May, 2001.\n/s/ Susan Webber Wright SUSAN\nWEBBER WRIGHT, CHIEF JUDGE UNITED STATES\nDISTRICT COURT\nAmended November 10, 2009",
+          "pages": [
+            26
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "arwd-civil-parsed-v1-d096db6d77a0e2ec",
+      "sourceDocumentId": "parsed-arwd-d096db6d77a0e2ec",
+      "sourceUrl": "https://www.arwd.uscourts.gov/sites/arwd/files/ARWD%20Local%20Rules.pdf",
+      "pageIndex": 24,
+      "pageSpan": [
+        24,
+        26
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "arwd-civil:41.1",
+      "collectionId": "arwd-civil",
+      "districtId": "arwd",
+      "number": "41.1",
+      "citation": "Western District of Arkansas · Rule 41.1",
+      "title": "NOTICE OF SETTLEMENT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 41.1\nNOTICE OF SETTLEMENT\nWhen a case set for trial is settled out of court, it shall be the duty of counsel to so inform the Clerk\nand the Court as soon as practicable. In a civil case, the court may require counsel who violate this rule to\npay the per diem of all jurors who attend court unnecessarily because of counsel's delay in notifying\nthe Clerk of the settlement.\nAdopted and effective May 1, 1980",
+          "pages": [
+            27
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "arwd-civil-parsed-v1-d096db6d77a0e2ec",
+      "sourceDocumentId": "parsed-arwd-d096db6d77a0e2ec",
+      "sourceUrl": "https://www.arwd.uscourts.gov/sites/arwd/files/ARWD%20Local%20Rules.pdf",
+      "pageIndex": 27,
+      "pageSpan": [
+        27,
+        27
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "arwd-civil:47.1",
+      "collectionId": "arwd-civil",
+      "districtId": "arwd",
+      "number": "47.1",
+      "citation": "Western District of Arkansas · Rule 47.1",
+      "title": "CONDITIONS FOR JUROR CONTACT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 47.1\nCONDITIONS FOR JUROR CONTACT\nNo juror shall be contacted without express permission of the Court and under such\nconditions as the Court may prescribe.\nPrevious Rule 25 adopted 1-2-81 is rescinded and this new Rule 47.1 is adopted effective July 1, 1988",
+          "pages": [
+            28
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "arwd-civil-parsed-v1-d096db6d77a0e2ec",
+      "sourceDocumentId": "parsed-arwd-d096db6d77a0e2ec",
+      "sourceUrl": "https://www.arwd.uscourts.gov/sites/arwd/files/ARWD%20Local%20Rules.pdf",
+      "pageIndex": 28,
+      "pageSpan": [
+        28,
+        28
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "arwd-civil:54.1",
+      "collectionId": "arwd-civil",
+      "districtId": "arwd",
+      "number": "54.1",
+      "citation": "Western District of Arkansas · Rule 54.1",
+      "title": "ATTORNEY'S FEES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 54.1\nATTORNEY'S FEES\n(a) In any case in which an attorney's fees are recoverable under the law applicable to that case, a\nmotion for attorney's fees shall be filed with the Clerk, with proof of service, within fourteen (14)\ndays after the entry of judgment or an order of dismissal under circumstances permitting the\nallowance of attorney's fees. In the event a post-trial motion is filed, this 14-day period shall not\ncommence until entry of the order granting or denying the post-trial motion. Objections to an\nallowance of fees must be filed within fourteen (14) days after service on the party against whom\nthe award to attorney's fees is sought. A failure to present a timely petition for an award of\nattorney's fees may be considered by the Court to be a waiver of any claim for attorney's fees.\n(b) On its own motion, the Court may grant an allowance of reasonable attorney's fees to a prevailing\nparty in appropriate cases.\n(c) The petitioner shall attach to his motion an affidavit setting out the time spent in the litigation and\nfactual matters pertinent to the petition for attorney's fees. The respondent may, by counter\naffidavit, controvert any of the factual matters contained in the petition and may assert any factual\nmatters bearing on the award of attorney's fees.\n(d) The 14-day period set forth in subsection (a) shall not apply to cases wherein the statute creating\nthe right to attorney's fees also provides its own limitation period for filing such motions.\nAdopted and effective September 1, 1982\nAmended January 2, 1990\nAmended November 10, 2009",
+          "pages": [
+            29
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "arwd-civil-parsed-v1-d096db6d77a0e2ec",
+      "sourceDocumentId": "parsed-arwd-d096db6d77a0e2ec",
+      "sourceUrl": "https://www.arwd.uscourts.gov/sites/arwd/files/ARWD%20Local%20Rules.pdf",
+      "pageIndex": 29,
+      "pageSpan": [
+        29,
+        29
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "arwd-civil:56.1",
+      "collectionId": "arwd-civil",
+      "districtId": "arwd",
+      "number": "56.1",
+      "citation": "Western District of Arkansas · Rule 56.1",
+      "title": "SUMMARY JUDGMENT MOTION",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 56.1\nSUMMARY JUDGMENT MOTION\nIn addition to the requirements set forth in Local Rule 7.2, the following requirements shall\napply in the case of motions for summary judgment.\n(a) Any party moving for summary judgment pursuant to Rule 56 of the Federal Rules of\nCivil Procedure, shall annex to the notice of motion a separate, short and concise\nstatement of the material facts as to which it contends there is no genuine dispute to be\ntried.\n(b) If the non-moving party opposes the motion, it shall file, in addition to any response and\nbrief, a separate, short and concise statement of the material facts as to which it contends\na genuine dispute exists to be tried.\n(c) All material facts set forth in the statement filed by the moving party pursuant to\nparagraph (a) shall be deemed admitted unless controverted by the statement filed by the\nnon-moving party under paragraph (b).\n(d) The time for filing a response and a reply is governed by Local Rule 7.2 (b).\nAdopted and effective March 14, 1984\nAmended May 20, 2010\nAmended February 22, 2011",
+          "pages": [
+            30
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "arwd-civil-parsed-v1-d096db6d77a0e2ec",
+      "sourceDocumentId": "parsed-arwd-d096db6d77a0e2ec",
+      "sourceUrl": "https://www.arwd.uscourts.gov/sites/arwd/files/ARWD%20Local%20Rules.pdf",
+      "pageIndex": 30,
+      "pageSpan": [
+        30,
+        30
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "arwd-civil:58.2",
+      "collectionId": "arwd-civil",
+      "districtId": "arwd",
+      "number": "58.2",
+      "citation": "Western District of Arkansas · Rule 58.2",
+      "title": "SATISFACTION OF JUDGMENTS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 58.2\nSATISFACTION OF JUDGMENTS\n(a) Satisfaction of a judgment shall be noted by the Clerk on the margin of the record of the civil\njudgment book upon the happening of any of the following:\n(1) The filing with the Clerk of a written satisfaction of judgment executed by the judgment\ncreditor or his attorney of record.\n(2) The filing with the Clerk of a return to an execution by the United States Marshal\nshowing the judgment collected by the Marshal.\n(3) The payment of the judgment or the fine imposed into the Registry of the Court.\n(b) A judgment creditor or his attorney of record may also note satisfaction of judgment on the margin\nof record of the civil judgment book. The Clerk shall attest such notation.\nAdopted and effective May 1, 1980",
+          "pages": [
+            31
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "arwd-civil-parsed-v1-d096db6d77a0e2ec",
+      "sourceDocumentId": "parsed-arwd-d096db6d77a0e2ec",
+      "sourceUrl": "https://www.arwd.uscourts.gov/sites/arwd/files/ARWD%20Local%20Rules.pdf",
+      "pageIndex": 31,
+      "pageSpan": [
+        31,
+        31
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "arwd-civil:67.1",
+      "collectionId": "arwd-civil",
+      "districtId": "arwd",
+      "number": "67.1",
+      "citation": "Western District of Arkansas · Rule 67.1",
+      "title": "DEPOSIT OF REGISTRY FUNDS BY THE CLERK",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 67.1\nDEPOSIT OF REGISTRY FUNDS BY THE CLERK\nIN INTEREST-BEARING ACCOUNTS\n(a) All funds deposited in the Registry of this Court, pursuant to 28 U.S.C. §2041 shall be deposited\nwith the Treasurer of the United States through the Federal Reserve Bank or a depository\ndesignated by him to receive the Registry funds. Thereafter the investment of any such funds in\ninterest-bearing instruments in accordance with the following provisions shall be at the initiative\nof the interested party or parties through counsel of record. It is counsel's responsibility to see that\nthe provisions of this rule are complied with.\n(b) Pursuant to Rule 67, Fed.R.Civ.P., counselshall apply to the judge to whom the case is assigned for\nan order directing the Clerk to accept the funds for deposit and to invest the funds in an interest￾bearing instrument in a financial institution insured by the FDIC. The Order will include the\nfollowing:\n(1) The amount to be invested;\n(2) The type of account or instrument in which funds are to be invested (i.e., certificate of\ndeposit or treasury bills, etc.);\n(3) The length of the term of investment; and\n(4) Wording which directs the Clerk to deduct from the income earned on the investment a fee,\nnot exceeding that authorized by the Judicial Conference of the United States and set by the\nDirector of the Administrative Office.\n(c) Whenever an Order is entered directing the investment of funds deposited in the Registry of the\nCourt, it shall be the responsibility of counsel to cause a copy of such Order to be served personally\nupon the Clerk of the Court, or on the Chief Deputy Clerk, in the absence of the Clerk, AND on the\nFinancial Deputy.\n(d) The Clerk shall take all reasonable steps to assure that the funds are invested as quickly as the\nbusiness of the Clerk's office will allow.\n(e) The party obtaining the Order directing the investment of funds at interest will verify that the Clerk\nhas invested the funds as directed.\n(f) Failure of the party to personally serve a copy of the Order to invest funds as specified in this\nRule, or failure to verify that the funds have been invested pursuant to this Rule, shall release the\nClerk and any of his deputies from any liability for loss of interest which could have been earned\non the funds.\n(g) Early withdrawal of funds from interest-bearing instruments which result in a loss of interest\npenalty will be the sole responsibility of counsel making the request.\n(h) Under no circumstancesshall counsel purchase an interest-bearing instrument in his own name or in\nthe name of the Clerk for subsequent deposit into the Registry. This is the sole responsibility of\nthe Clerk of the Court or his designated deputy.",
+          "pages": [
+            32
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "(i) Interest-bearing instruments shall not, under any circumstances, be endorsed by the Clerk of the\nCourt to a payee. Prior to disbursement, interest-bearing instruments must be converted to a\ncashier's check and deposited with the Treasurer ofthe United Statesforsubsequent payment.\n(j) Funds deposited in the Registry Account by personal or corporate check, whether or not the funds\nare to be invested in an interest-bearing account, shall be received subject to collection. Said\nmonies shall not be paid from the Registry for a period of three (3) weeks after receipt therefor.\n(k) Pursuant to 28 U.S.C. §2042, disbursement of funds held in the Registry of the Court will be made\nonly upon Order of the Court.\n(l) The Clerk shall be allowed seven (7) business days following receipt of an order for disbursement\nof funds from the Registry Account, subject to the above paragraph (j).\n(m) Pursuant to notice published in theOctober 24, 1990, edition oftheFederalRegister, the Clerk of the\ndistrict court is required to assess a fee for handling funds deposited with the court in criminal\nand non-criminal proceedings held in interest-bearing accounts. The fee will be a charge of 10%\nof the income earned regardless of the nature of the case underlying the investment. The fee is\neffective with deposit of funds received on or after December 1, 1990.\nThe Clerks of the United States District Court for the Eastern and Western Districts of Arkansas\nshall deduct the 10% fee1 on interest earned prior to any distribution without further order of the\nCourt for subsequent deposit to the Treasurer of the United States.\nAdopted and effective July 14, 1986\nAmended March 26, 1992\nAmended November 10, 2009\n1 Interpleader funds under U.S.C. §1335 meet the IRS definition of a “Disputed Ownership Fund” (DOF), \na taxable entity that requires tax administration. Unless otherwise ordered by the court, interpleader funds \nshall be deposited in the DOF established within the Courts Registry Investment System (CRIS) and \nadministered by the Administrative Office of the United States Courts (Director is the Custodian). The \nCustodian is responsible for meeting all DOF tax administration requirements and, effective December 1, \n2016, is authorized to deduct a fee of 20 basis points on assets on deposit in the DOF, assessed from \ninterest earnings. See District Court Miscellaneous Fee Schedule.",
+          "pages": [
+            33
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "arwd-civil-parsed-v1-d096db6d77a0e2ec",
+      "sourceDocumentId": "parsed-arwd-d096db6d77a0e2ec",
+      "sourceUrl": "https://www.arwd.uscourts.gov/sites/arwd/files/ARWD%20Local%20Rules.pdf",
+      "pageIndex": 32,
+      "pageSpan": [
+        32,
+        33
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "arwd-civil:71A.1",
+      "collectionId": "arwd-civil",
+      "districtId": "arwd",
+      "number": "71A.1",
+      "citation": "Western District of Arkansas · Rule 71A.1",
+      "title": "LAND CONDEMNATION PROCEEDINGS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 71A.1\nLAND CONDEMNATION PROCEEDINGS\n(a) For each trial unit (that is, an ownership or economic unit for which just compensation is required\nby substantive law to be separately determined in a single sum), there shall be a separate civil\naction. The condemning authority shall make the initial determination of the identity of such trial\nunits but this determination shall be subject to revision by the Court as the interests of justice and\nthe convenient administration of this business of the Court may require. A single declaration of\ntaking, complaint, or notice of condemnation may include one or more tracts, trial units or\nownerships. Where a complaint, declaration of taking and notice of condemnation including\nmore than one trial unit are filed, the Clerk shall establish a civil action file for each trial unit and\nshall file the initial pleadings in the lowest numbered civil action file. Higher numbered civil action\nfilesshallbear anotationindicatingtheplacewhere suchdocuments are filed. Any pleading,motion,\norder, or other document filed at the time of or after the filing of the complaint, notice of\ncondemnation or declaration of taking which affects all trial units may be filed by the Clerk in such\nfile only, but the condemning authority may, and at the direction of the Court shall, furnish to the\nClerk additional copies for filing in the other civil action files. Condemnation civil action files\nshall be numbered consecutively in the same sequence with other civil actions. The complaint and\nnotice of condemnation shall indicate, by tabulation or otherwise, what lands are included in each\ncivil action. When a condemnation complaint, declaration of taking and notice of condemnation\ninvolve more than one civil action, all of the civil action numbers involved shall be included in\nthe captions of those documents.\n(b) At the request of the attorney for the condemning authority, upon the filing of a declaration of\ntaking, the Clerk shall forthwith assign civil action numbers as may be required for each trial unit,\nand the condemning authority shall proceed to file the complaint, notice of condemnation, and\nother initial pleadings expeditiously and in any event within seven days.\n(c) Pleadings and other documents in a condemnation case need not be typed but may be produced\nby any process which produces documents substantially equivalent in size and legibility to\ntypewriter ribbon copy prepared in conformity with Rule 5.5 of these rules. When a pleading so\nproduced is filed, the original shall be signed by the attorney for the party filing it and the signed\noriginal shall be labeled as such on its face in some conspicuous manner.\n(d) When a condemnation case involving more than one civil action is filed, each civil action shall be\nassigned randomly to a judge in the manner of assignment of ordinary civil actions; but any motion\naffecting all or several of such civil actions may be presented to the judge to whom is assigned the\nfirst of such civil actions affected, or in the absence of that judge to the judge to whom the second\nis assigned, and so on until a judge is available.\n(e) Civil actions in condemnation cases may be set for trial of the issue of just compensation,\nor for hearings or trials of other issues, singly or in groups as may be convenient to the Court and\nparties. When set in groups, no consolidation isrequired, but theCourtshall give such instructions,\nrequire such forms or numbers of verdicts, and make such findings and orders as shall preserve the",
+          "pages": [
+            34
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "rights of all the parties under substantive law.\nAdopted and effective May 1, 1980\nRevised effective August 3, 1981\nAmended November 10, 2009",
+          "pages": [
+            35
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "arwd-civil-parsed-v1-d096db6d77a0e2ec",
+      "sourceDocumentId": "parsed-arwd-d096db6d77a0e2ec",
+      "sourceUrl": "https://www.arwd.uscourts.gov/sites/arwd/files/ARWD%20Local%20Rules.pdf",
+      "pageIndex": 34,
+      "pageSpan": [
+        34,
+        35
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "arwd-civil:72.1",
+      "collectionId": "arwd-civil",
+      "districtId": "arwd",
+      "number": "72.1",
+      "citation": "Western District of Arkansas · Rule 72.1",
+      "title": "UNITED STATES MAGISTRATE JUDGES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-37",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 72.1\nUNITED STATES MAGISTRATE JUDGES\nThe duties and jurisdiction of United States Magistrate Judgesshall be as provided for in 28 U.S.C. \nSec. 636 and inRules 5 and 5.1 oftheFederalRules ofCriminal Procedure.\nI. MISDEMEANOR JURISDICTION\nUnder the conditionsrequired by law, the full-time Magistrate Judges are designated to try persons\naccusedof, andtosentencepersons convictedof,misdemeanors asdefined by U.S.C. Sec. 3401. They are\nauthorizedtodirecttheUnitedStateProbationOfficeto conduct presentence investigations, render reports, and\nprovide other necessary services. TheClerk shall automatically refer allmisdemeanor casesthat are initiated\nby information or indictment or are transferred to this district under Rule 20 of the Federal Rules of Criminal\nProcedure to a Magistrate Judge for plea and arraignment. If the defendant in such cases consentsto the\nMagistrateJudge'sjurisdiction,furtherproceedingsshallbeconducted before theMagistrate Judge. Allpart￾timeMagistrate Judgesinboth districts are also designatedto trymisdemeanor cases. IntheEasternDistrict,\nthe part-timeMagistrate Judgesshall exercise thisjurisdiction when specifically referred a case by a District\nJudge orafull-timeMagistrateJudge.\nII. FORFEITURE OF COLLATERAL\nThefull-timeMagistrateJudgeshalloverseetheForfeitureofCollateralsystem. (Also,see a general\norder oftheCourtof each districtformore details.)\nIII. COMMITMENT TO ANOTHER DISTRICT\nTheMagistrateJudgeshallconductproceedingspursuanttoFederalRulesof Criminal Procedure 40.\nIV. CRIMINAL PRETRIAL\nAMagistrate Judgemay conduct post-indictment arraignments. In felony cases, he shall accept not\nguilty pleas and refer pleas of guilty to a District Judge, or if no District Judge isimmediately available, the\nMagistrate Judge shall enter a not guilty plea forthe defendant and schedule a time forthe defendantto appear\nbefore aDistrictJudge and enter a changeofplea.\nV. SUBPOENAS AND WRITS\nA Magistrate Judge may issue subpoenas, writs of habeas corpus ad testificandum or ad\nprosequendumor other orders necessary to obtain the presence of partiesorwitnesses or evidence needed for\ncourtproceedings,eithercivilorcriminal.\nVI. MOTIONS TO DISMISS\nA Magistrate Judge may hear and decide motions by the government to dismiss an indictment,\ninformation or complaint without prejudice to further proceedings.\nVII. REFERENCE OF NON-DISPOSITIVE MATTERS\nA. Reference\nWhen designated by a District Judge, and as limited by 28 U.S.C. Sec. 636(b)(1)(A), a\nMagistrateJudgemayhearanddetermineanypretrialmatterspending before theCourt,including, but\nnot limited to, procedural and discovery motions, pretrial conferences, omnibus hearings, docket\ncalls,settlementconferences,and related proceedings.\nB. Appeal\nInallmattersdelegatedunderauthorityof28U.S.C. Sec. 636(b)(1)(A),a MagistrateJudge's",
+          "pages": [
+            36
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-38",
+          "path": [],
+          "type": "paragraph",
+          "text": "decision isfinal and binding and issubject only to a right of appeal to the DistrictJudge to whom the\ncase has been assigned. A party may appeal the Magistrate Judge'sruling by filing a motion within\nfourteen(14)daysofthe MagistrateJudge'sdecisionunlessashorterperiodissetbytheDistrictJudge\nor Magistrate Judge. Copiesshall be served on all other parties and theMagistrate Judge fromwhom\nthe appeal istaken. The motion shallspecifically state the rulings excepted to and the basisfor the\nexceptions. The Court may reconsider any matter sua sponte. The DistrictJudge shall affirm the\nMagistrate Judge'sfindings unless he finds them to be clearly erroneous or contrary to law. In all\nmatters referred to the Magistrate Judge pursuant to 28 U.S.C. § 636(c) (consent jurisdiction), an\naggrieved party may appeal only to the Court of Appealsin the same manner as on appeal from any\notherjudgment of a district court.\nVIII. DISPOSITIVE MATTERS\nA. Reference - General\nADistrictJudgemay designate aMagistrate Judgetoconducthearings, includingevidentiary\nhearings, and to submit proposed findings of fact and recommendations for the resolution of any\ndispositivematters,including,butnot limited to, the following:\n1. Motionsbythedefendanttodismissorquashan indictmentorinformation;\n2. Motions to suppress evidence;\n3. Applications to revoke probation, including the conduct of the \"final\" probation\nrevocation hearing;\n4. Motions for temporary restraining orders and preliminary injunctions;\n5. Motionsto dismissforfailure to state a claimuponwhich reliefmay be granted;\n6. Motionstodismiss anactionandtoreviewdefaultjudgment;\n7. Motionstodismissortopermitthemaintenanceofaclass-action;\n8. Motionsforjudgmentonthepleadingsorforsummaryjudgment;\n9. CasesinvolvingthegrantingofbenefitstoclaimantsundertheSocial SecurityActand\nthe\"blacklung\"benefitlaws;\n10. CasesinvolvingtheadjudicationbytheCivilService Commission of adverse employee\nactions, retirement eligibility and benefits questions; and the rights of employees in\nsituationssuchasreductionsinforce.\nB. Reference - Prisoner Petitions\nA MagistrateJudgeshallhavethefollowingresponsibilitieswithregard to prisoner petitions:\n1. Review of prisoner correspondence and petitions concerning 28 U.S.C. Sec. 2241,28\nU.S.C. Sec. 2254and42U.S.C. Sec. 1983matters;\n2. Review of prisoner correspondence and petitions concerning conditions of confinement\nwhich are submitted by federal prisoners;\n3. PreparationanddistributionofformsrequiredbytheRulesGoverningSec. 2254Cases\n(28U.S.C. Sec. 2254);\n4. Entry of orders authorizing the petitioner to proceed in forma pauperis without the\nprepaymentofcostsorfees;\n5. Issuance of all necessary orders to answer or to show cause or any other necessary\nordersorwritstoobtainacompleterecord;",
+          "pages": [
+            37
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "6. Taking of depositions, conducting pretrial conferences, and conducting evidentiary\nhearingsorothernecessaryproceedingsinordertoobtaina complete record.\nC. Objection\nWhenaMagistrateJudgefilesproposedfindingsorrecommendationswiththe Court, he shall\nmail a copy to all parties. Within fourteen (14) days after being served with a copy, any party may\nserve and file written objectionsto such proposed findings,recommendations or order. The District\nJudgemustmake a de novo determinationof anymatterswhich havebeenspecificallyobjected toby\nthelitigants, butthisdoesnotnecessarilyrequiretheJudgetoconductahearingoncontested issues. In\nsome instances, it may be necessary for the District Judge to modify or reject the findings of the\nMagistrateJudge,totakeadditionalevidence,recall witnesses,orrecommitthemattertotheMagistrate\nJudgeforfurtherproceedings.\nD. Statement of Necessity\nA party objecting to the Magistrate Judge's proposed findings and recommendations who\ndesirestosubmitnew,different,oradditionalevidenceandto haveahearingforthispurposebeforethe\nDistrictJudge willfile a \"statement of necessity\" at the time he files his written objections, andwhich\nshallstate:\n1. whytherecordmadebeforetheMagistrateJudgeisinadequate;\n2. why the evidence to be proffered (ifsuch a hearing is granted) was not offered at the\nhearingbeforetheMagistrateJudge; and\n3. the details of any testimony desired to be introduced in the form of an offer of proof,\nand a copy, or the original, of any documentary or other non- testimonial evidence\ndesired to be introduced.\nFrom this submission, the District Judge shall determine the necessity for an additional\nevidentiaryhearing,eitherbeforetheMagistrateJudgeorbeforethe District Judge.\nIX. MASTER REFERENCES\nWhendesignatedbyaDistrictJudge,aMagistrateJudgemay:\nA. serve as a special master in accordance with the provisions of Rule 53 of the Federal\nRules ofCivil Procedure, or, upon consent ofthe parties,withoutregard to the provisions of Rule 53. \nHemay alsoheartestimonyandsubmit a report and findingsoncomplicatedissuesinjuryandnon-jury\ncases;\nB. conduct evidentiary hearings and prepare findings in employment discriminationcases\nasamasterunder42U.S.C. Sec. 2000(e)(5);and\nC. conduct hearings and resolve specific issues in patent, antitrust and other complex\ncaseswherethereareagreatmanyissues,claimsanddocuments,orin multiple disaster and class-action\ncases where there are numerous claimants and diverse claims.\nX. CIVIL CONSENT JURISDICTION\nA. Special Designation\nThefull-timeMagistrateJudgesofbothdistrictsarespeciallydesignated bytheDistrictCourtto\nconduct any or all proceedingsin jury or non-jury civilmatters uponthe consentoftheparties.\nB. Reference\n(1) Notice. The clerk shall give the plaintiff notice of the Magistrate Judge's",
+          "pages": [
+            38
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-40",
+          "path": [],
+          "type": "paragraph",
+          "text": "consentjurisdiction,inaformapprovedbytheCourt,whenacivilsuitis filed. TheClerkshall\nalso attach the same notice to the summonsforservice on the defendant.\n(2) Consent. Anypartymayobtaina\"ConsenttoMagistrateJudge's Jurisdiction\"\nform from the Clerk's office.\nThe Clerk shall furnish the party with Consent Form A, which shall provide that any\nappealin the case shall be taken directlyto theCircuitCourt ofAppeals.\n(3) Transfer. Once the completed forms have been returned to theClerk, he shall\nthen draw by lot the name of the Magistrate Judge and forward the Consent forms for final\napproval to the District Judge to whom the case is assigned. When the District Judge has\napproved the transfer and returned theConsentformsto the Clerk's office for filing, theClerk\nshallforwarda copyoftheConsentformstothe MagistrateJudgetowhomthecaseisassigned. \nTheClerkshall alsoindicateonthe file thatthe case hasbeenassignedtotheMagistrateJudge.\nC. Appeal\nAppeal to the Court of Appeals. The final judgment, although ordered by the Magistrate\nJudge, is deemed a final judgment oftheDistrictCourt andwill be entered by theClerk underRule 58\nFed.R.Civ.P. Anyappealshall be taken to theCourt of Appealsin the samemanner as an appealfrom\nanyotherjudgmentoftheDistrict Court.\nXI. OTHER REVIEWABLE MATTERS\nRulings,orders,orother actionsbyaMagistrateJudgeintheDistrict,reviewofwhich isnototherwise\nspecificallyprovidedforbylawortheserules,shall,nevertheless,be subjecttoreviewby theDistrictCourt as\nfollows:\nA. Anypartymayfile andserve,notlaterthanfourteen(14)daysthereafter an application\nforreviewoftheMagistrate Judge's action by theDistrictJudge having jurisdiction. Copies ofsuch\napplicationshallbeservedpromptlyupontheparties, theDistrictJudge,andtheMagistrateJudge.\nB. After conducting whatever further proceedings he or she deems appropriate, the\nDistrictJudgemayadopt orreject,inwholeorinpart,the action takenby theMagistrate Judge,ortake\nsuch other actionhe orshe deems appropriate.\nXII. REFERRALS\nNotwithstanding any provision in thisLocalRule, theDistrictCourtmay byGeneral Order authorize\nreferraltoMagistrateJudgesof anymatters consistentwith28U.S.C. §636.\nNote: Attorneys practicing in the Western District of Arkansas should consult General Order 40 for\ninstructionsforthe acceptanceof guiltypleasbymagistrate judges.\nIthroughXAdoptedand effectiveMay 1,1980\nXIAdoptedandeffectiveJune26,1981\nVIII(B)(6)AdoptedandeffectiveOctober1,1982\nXRevisedandeffectiveJanuary1-2,1988\nAmended January 2, 1990\nVIII(B)(1)RevisedandapprovedApril1,1999",
+          "pages": [
+            39
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-41",
+          "path": [],
+          "type": "paragraph",
+          "text": "Amended effective November 10, 2009\nAmended effective August 5, 2010\nAmended effective November 1, 2012",
+          "pages": [
+            40
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "arwd-civil-parsed-v1-d096db6d77a0e2ec",
+      "sourceDocumentId": "parsed-arwd-d096db6d77a0e2ec",
+      "sourceUrl": "https://www.arwd.uscourts.gov/sites/arwd/files/ARWD%20Local%20Rules.pdf",
+      "pageIndex": 36,
+      "pageSpan": [
+        36,
+        40
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "arwd-civil:77.1",
+      "collectionId": "arwd-civil",
+      "districtId": "arwd",
+      "number": "77.1",
+      "citation": "Western District of Arkansas · Rule 77.1",
+      "title": "LOCATION AND OFFICE HOURS OF CLERKS' OFFICES,",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-42",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 77.1\nLOCATION AND OFFICE HOURS OF CLERKS' OFFICES,\nAND DESIGNATION OF FILING OFFICES\nEASTERN DISTRICT OF ARKANSAS\nDivision\nEastern\nCourt Held\nHelena\nOffice Hours\nUnstaffed\nFiling Office\n600 West Capitol Ave., Room A￾149\nTelephone\n870-338-6321\nLittle Rock, AR 72201\nWestern Little Rock 8:00 - 5:00 600 West Capitol Ave., Room A￾149 Little Rock, AR 72201\n501-604-5351\nNorthern Batesville Unstaffed 600 West Capitol Ave., Room A￾149 Little Rock, AR 72201\n870-793-4330\nPine Bluff Pine Bluff* 8:00 - Noon\n1:00 - 5:00\n100 East 8th St., Room 3103 Pine\nBluff, AR 71611-8307\n870-536-1190\nJonesboro Jonesboro* 8:00 - Noon\n1:00 - 5:00\n615 South Main St., Room 312\nJonesboro, AR 72401\n870-972-4610\nWESTERN DISTRICT OF ARKANSAS\nDivision\nFort Smith\nCourt Held\nFort Smith\nOffice Hours\n8:00 - 5:00\nFiling Office\n30 South Sixth Street, Room 1038\nTelephone\n479-783-6833\nFort Smith, AR 72901-2437\nHarrison Harrison Unstaffed 34 East Mountain, Room 510\nFayetteville, AR 72701-5354\n479-521-6980\nTexarkana Texarkana 8:00 - Noon\n12:30 - 4:30\n500 North State Line Ave., Room\n302 Texarkana, AR 71854-5961\n870-773-3381\nEl Dorado El Dorado 8:00 - Noon\n12:30 - 4:30\n101 South Jackson Ave., Room 205\nEl Dorado, AR 71730-6133\n870-862-1202\nFayetteville Fayetteville 8:00 - 5:00 35 East Mountain, Room 510\nFayetteville, AR 72701-5354\n479-521-6980\nHot Springs Hot Springs 8:00 - Noon\n12:30 - 4:30\n100 Reserve St., Room 347 Hot\nSprings, AR 71901-4141\n501-623-6411\n*All Clerks' offices are closed for legal holidays (see Fed.R.Civ.P.77(c)). The offices noted by an\nasterisk may be temporarily closed for vacations or due to unexpected absences.\nAmended July 1, 1988\nAmended effective April 15, 1989\nAmended effective November 10, 2009",
+          "pages": [
+            41
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-43",
+          "path": [],
+          "type": "paragraph",
+          "text": "Amended effective August 5, 2010",
+          "pages": [
+            42
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "arwd-civil-parsed-v1-d096db6d77a0e2ec",
+      "sourceDocumentId": "parsed-arwd-d096db6d77a0e2ec",
+      "sourceUrl": "https://www.arwd.uscourts.gov/sites/arwd/files/ARWD%20Local%20Rules.pdf",
+      "pageIndex": 41,
+      "pageSpan": [
+        41,
+        42
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "arwd-civil:79.1",
+      "collectionId": "arwd-civil",
+      "districtId": "arwd",
+      "number": "79.1",
+      "citation": "Western District of Arkansas · Rule 79.1",
+      "title": "REMOVAL OF FILES OR WITHDRAWAL OF PAPERS AND EXHIBITS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-44",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 79.1\nREMOVAL OF FILES OR WITHDRAWAL OF PAPERS AND EXHIBITS\n(a) Temporary Removal. No record or material may be removed from the Clerk's office without\nwritten leave of the Court previously obtained except by a master, auditor, or other person to whom\nthe record or material has been referred. Any person withdrawing any record or material shall give\nto the Clerk at the time of withdrawal a receipt specifying the items withdrawn, the date of\nwithdrawal and the date the item is to be returned.\n(b) Permanent Withdrawal. The Court may by prior order permit a document or exhibit to be\npermanently withdrawn from the file maintained by the Clerk, but the party requesting the same\nshall furnish the Clerk a receipt and an appropriate replacement for the original. The replacement\nshall then be filed in lieu of the withdrawn original.\n(c) Judge's Files. In no eventshall the Judge'sfiles be removed or examined without order of the Court.\n(d) Custody of Exhibits.\n(1) All exhibits offered in evidence, whether admitted or excluded, shall be held in the custody\nof the Clerk until the trial of the cause is completed. Exhibits offered at trial shall be\nmarked for identification by the Clerk. During the course of the trial, the Court may permit\ncounsel to withdraw or substitute exhibits. At the end of the trial the Clerk or the\ncourtroom deputy acting for the Clerk is directed to return to respective counsel all exhibits\nintroduced during the trial, and to obtain a receipt therefor from counsel. The exhibits are\nto be retained by counsel until the time for filing notice of appeal has expired.\n(2) Upon the filing of a notice of appeal, or at any other time, counselshall, upon request by the\nClerk, return the exhibits to the Clerk within 24 hours after such request is made. Sensitive\nexhibits such as firearms, explosive devices, untaxed whiskey, counterfeit money, and\nnarcotics are excluded from this portion of the order pertaining to returning exhibits to\nthe Clerk. During the trial of a cause the sensitive exhibits named above shall be retained\nby the United States Attorney or the representative of the agency of the United States\ninvolved in that particular cause.\n(3) Upon the return of a not guilty verdict in a case in which a sensitive exhibit has been\nintroduced and it is questionable whether the exhibit should be returned to the defendant,\nthe Clerk is directed to take custody of the exhibit pending an order from the Court for its\ndisposition.\n(4) In the event of a mistrial, it shall be the responsibility of counsel to preserve and protect the\nexhibits which will be needed for the retrial.\n(5) If a case is taken under advisement by the Court and the Court is of the opinion that the\nexhibits will be needed in preparing its findings of fact and conclusions of law, or in the\nwriting of its memorandum opinion, the Court shall then direct that the exhibits be retained\nby the courtroom deputy.\n(a) through (c) adopted and effective May 1, 1980\n(d) Adopted and effective November 22, 1982",
+          "pages": [
+            43
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "arwd-civil-parsed-v1-d096db6d77a0e2ec",
+      "sourceDocumentId": "parsed-arwd-d096db6d77a0e2ec",
+      "sourceUrl": "https://www.arwd.uscourts.gov/sites/arwd/files/ARWD%20Local%20Rules.pdf",
+      "pageIndex": 43,
+      "pageSpan": [
+        43,
+        43
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "arwd-civil:83.1",
+      "collectionId": "arwd-civil",
+      "districtId": "arwd",
+      "number": "83.1",
+      "citation": "Western District of Arkansas · Rule 83.1",
+      "title": "UNITED STATES BANKRUPTCY JUDGES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-45",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 83.1\nUNITED STATES BANKRUPTCY JUDGES\nI. REFERENCES\nAll cases and proceedings arising under Title 11 of the United States Code or arising in or related\nto a case under Title 11, brought pursuant to 28 U.S.C.§1334, §1412, or §1452, except personal\ninjury or wrongful death tort claims, are referred to the bankruptcy judges for this district as\nprovided in 28 U.S.C. §157(a).\nII. PROCEEDINGS\n(a) The bankruptcy judge shall hear and determine all cases under Title 11 and all core\nproceedings arising under Title 11, or arising in a case under Title 11, which are referred\nunder this Rule and shall enter appropriate orders and judgments.\n(b) If the bankruptcy judge determines that a matter is a related proceeding as provided in\n28 U.S.C. § 157(c)(1), the bankruptcy judge shall hear all proceedings therein and submit\nproposed findings of fact and conclusions of law for determination and entry of any final\norder or judgment by a district judge, unless the parties consent to the entry of a final order\nby the bankruptcy judge pursuant to Bankruptcy Rule 7012(b).\n(c) All papers in bankruptcy cases and proceedings which are referred under this Rule shall\nbe filed with the Bankruptcy Clerk for this district. Motions to withdraw a reference\nfiled with the Bankruptcy Clerk shall be forwarded to the Clerk of the District Court for a\ndetermination by the District Court pursuant to Bankruptcy Rule 5011.\n(d) Bankruptcy Appeals. Bankruptcy appeals to the district court are governed by the\nbankruptcy rules, particularly Bankruptcy Rules 8001 through 8019. Pursuant to the\nauthority grantedbyRule8018,the rules governing appealsto district court are supplemented\nas follows:\nA. The Bankruptcy Court is authorized to dismiss an appeal filed after the time\nprovided by the applicable rules and any appeal in which the appellant has failed\nto file a designation of the items for the record, or the transcript designated for\ninclusion in the record or a statement of the issues as required by the applicable\nrules. Bankruptcy Court orders entered under this subsection shall be reviewed by\nthe district court on motion filed within fourteen days after entry of the ordersought\nto be reviewed.\nAmended July 1, 1988\nRevised and effective November 1, 1996\nAmended November 10, 2009",
+          "pages": [
+            44
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "arwd-civil-parsed-v1-d096db6d77a0e2ec",
+      "sourceDocumentId": "parsed-arwd-d096db6d77a0e2ec",
+      "sourceUrl": "https://www.arwd.uscourts.gov/sites/arwd/files/ARWD%20Local%20Rules.pdf",
+      "pageIndex": 44,
+      "pageSpan": [
+        44,
+        44
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "arwd-civil:83.2",
+      "collectionId": "arwd-civil",
+      "districtId": "arwd",
+      "number": "83.2",
+      "citation": "Western District of Arkansas · Rule 83.2",
+      "title": "PHOTOGRAPHING, BROADCASTING, TELEVISING, AND",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-46",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 83.2\nPHOTOGRAPHING, BROADCASTING, TELEVISING, AND\nRECORDING IN COURTROOM AND ENVIRONS\n(a) The taking of photographs, the recording by any means other than the official court reporter or\nthe radio or television broadcasting (or making of audio or video tapes) in any courtroom or its\nenvirons, utilized by either United States District Court in Arkansas during the progress of or in\nconnection with any judicial proceedings, including proceedings before a United States Magistrate\nJudge, is PROHIBITED, except as hereinafter provided, and regardless whether such hearing or\nproceeding takes place on public or private property or in the office or chambers of a judge or\nmagistrate judge or otherwise.\n(b) The taking of photographs, still or motion pictures, and audio and video tapes, of ceremonies and\ninterviews, including administration of oaths of applicants for citizenship and to executive and\njudicial officers, may be permitted with leave of the Court or the officer in charge thereof; provided\nthat the ceremonies and interviews are not connected with any judicial proceedings. \"Judicial\nproceedings\", as used herein, shall include all judicial proceedings, whether civil or criminal,\nand whether pending, on appeal, or terminated.\n(c) \"Environs\", as used in this Rule, shall include the part of any Federal Building with the District\nset apart for the United States District Court and its facilities, including chambers of the Court,\nother facilities of court officials and adjacent hallways.\n(d) Exception for Media Representatives to make Audio Tapes. Duly identified and authorized\nrepresentatives of the print, radio, and television media may unobtrusively make audio tapes during\ntrials and hearings in open court solely for the purpose of assuring the accuracy of reports. The\nonly official record of such proceedings shall continue to be that made by the official court\nreporter and the Clerk in accordance with law. Proper prior arrangementsfor the making ofsuch\naudio tape recordingsshall be made where necessary to avoid any interruption or interference with\nsuch proceedings. Audio tape recordings made pursuant to this exception may not be broadcast or\nrebroadcast to the public, transferred or sold, or used as such for commercial purposes.\nAdopted and effective May 1, 1980\nSubparagraph (d) adopted and effective September 1, 1986",
+          "pages": [
+            45
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "arwd-civil-parsed-v1-d096db6d77a0e2ec",
+      "sourceDocumentId": "parsed-arwd-d096db6d77a0e2ec",
+      "sourceUrl": "https://www.arwd.uscourts.gov/sites/arwd/files/ARWD%20Local%20Rules.pdf",
+      "pageIndex": 45,
+      "pageSpan": [
+        45,
+        45
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "arwd-civil:83.3",
+      "collectionId": "arwd-civil",
+      "districtId": "arwd",
+      "number": "83.3",
+      "citation": "Western District of Arkansas · Rule 83.3",
+      "title": "WEAPONS IN COURTROOMS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-47",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 83.3\nWEAPONS IN COURTROOMS\nThe possession of firearms or other weapons in any federal courtroom in the state of Arkansasis\nprohibited. This prohibition shall apply to allfederal courtrooms or places where federal court proceedings\nare conducted wherever located and, including without limitation, all federal district courtrooms, U. S. \nMagistrate Judges' courtrooms, and U. S. Bankruptcy courtrooms. PROVIDED HOWEVER this\nprohibition shall not apply to the U. S. Marshal, any deputy U. S. Marshal, or any state or federal law\nenforcement officer or guard specifically excepted by the U. S. Marshal from the provisions of this rule. \nAnd PROVIDED FURTHER, this rule shall not apply to federal law enforcement officers having the\ncustody of a person or persons who must come before the Court for an initial appearance. And\nPROVIDED FURTHER, any federal judge, bankruptcy judge, or U. S. magistrate judge may make such\nfurther exceptionsto thisrule with respect to matters coming before him or her assaid judge may determine\nappropriate.\nEffective April 15, 1989",
+          "pages": [
+            46
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "arwd-civil-parsed-v1-d096db6d77a0e2ec",
+      "sourceDocumentId": "parsed-arwd-d096db6d77a0e2ec",
+      "sourceUrl": "https://www.arwd.uscourts.gov/sites/arwd/files/ARWD%20Local%20Rules.pdf",
+      "pageIndex": 46,
+      "pageSpan": [
+        46,
+        46
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "arwd-civil:83.4",
+      "collectionId": "arwd-civil",
+      "districtId": "arwd",
+      "number": "83.4",
+      "citation": "Western District of Arkansas · Rule 83.4",
+      "title": "MANDATE OF AN APPELLATE COURT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-48",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 83.4\nMANDATE OF AN APPELLATE COURT\nWhen a cause is remanded by an appellate court and further proceedings are not required, the\norder of the appellate court shall be the order of the District Court and shall be entered by the Clerk.\nAdopted and effective May 1, 1980",
+          "pages": [
+            47
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "arwd-civil-parsed-v1-d096db6d77a0e2ec",
+      "sourceDocumentId": "parsed-arwd-d096db6d77a0e2ec",
+      "sourceUrl": "https://www.arwd.uscourts.gov/sites/arwd/files/ARWD%20Local%20Rules.pdf",
+      "pageIndex": 47,
+      "pageSpan": [
+        47,
+        47
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "arwd-civil:83.5",
+      "collectionId": "arwd-civil",
+      "districtId": "arwd",
+      "number": "83.5",
+      "citation": "Western District of Arkansas · Rule 83.5",
+      "title": "ATTORNEYS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-49",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 83.5\nATTORNEYS\n(a) Bar of the Court. The Bar of the Arkansas district court shall consist of those persons admitted to\npractice in either district.\n(b) Eligibility.\n1. All persons who are on the roll of attorneysfor either district of Arkansas upon the effective\ndate of these Rules shall continue to be enrolled.\n2. Any person is eligible for enrollment who is licensed to practice in the jurisdiction where\nthat person’s principal law office is located and where that person principally practices\nlaw. In the case of a nonresident of Arkansas, an applicant also must previously have been\nauthorized to practice in another United States District Court.\n3. Any attorney who is enrolled in the United States District Court for either district of\nArkansas is automatically enrolled in the other district.\n(c) Procedure for Admission.\n1. Each applicant for admission to the Bar of this Court shall file with the Clerk a written\npetition setting forth his residence and office address and telephone numbers, his legal\neducation, any criminal record other than traffic offenses the applicant may have, and the\ncourts to which he has been admitted to practice. The petition shall be accompanied by a\ncurrent certificate of good standing from the clerk of the highest court in the state where\nthe applicant principally practices law.\n2. The Clerk shall examine the petition and accompanying certificates and, if these comply\nwith this Rule, the petition shall be presented to a judge of these courts who shall determine\nits sufficiency. If approved, the applicant shall make suitable arrangements thereafter with\nthe Clerk for his appearance and admission.\n(d) Special or Limited Appearance (Pro Hac Vice). Any attorney who is a member in good standing\nof the Bar of any United States District Court, or of the highest court of any state or territory or\ninsular possession of the United States, but is not admitted to practice in the District Courts in\nArkansas, may, upon oral or written application, be permitted to appear and participate in a\nparticular case.\nThe application shall designate a member of the Bar of these Courts who maintains an office in\nArkansas for the practice of law with whom the court and opposing counsel may readily\ncommunicate regarding the conduct of the case. There shall also be filed with such application the\naddress and telephone number of the named designee.\nNotwithstanding these provisions, the Court, upon written motion, may waive these requirements\nof this designation and permit the non-enrolled attorney to proceed without designating local\ncounsel, for the limited purposes of the pending litigation. In support of the motion, non-enrolled\ncounsel must affirm to these Local Rules and to the jurisdiction of the Court in matters of\ndiscipline.\nAppearances under this provision are limited and may be withdrawn by the presiding judge. \nPleadings tendered to the Clerk for filing by an attorney who is not admitted to practice shall be",
+          "pages": [
+            48
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-50",
+          "path": [],
+          "type": "paragraph",
+          "text": "accepted and filed by the Clerk and the Clerk shall call this Rule to the attention of the attorney. \nAfter the rule has been called to the attention of an attorney and a period of 30 days has elapsed,\nany additional pleadings tendered by the attorney shall not be accepted and filed by the Clerk until\nthe requirements of this Rule are met. The Rule shall not apply to any attorney for the United\nStates appearing in his official capacity.\n(e) Disbarment and Discipline. All persons enrolled as attorneys in either of these courts or appearing\npro hac vice under the provisions of Rule 83.5(d), shall be subject to the Uniform Federal Rules\nof Disciplinary Enforcement, which are hereby adopted and included in the Appendix to these\nrules.\n(f) Withdrawal. No attorney shall withdraw from an action or proceeding except by leave of Court\nafter reasonable notice has been given to the client and opposing counsel.\nAdopted and effective May 1, 1980\nAmended effective January 2, 1990\nAmended and effective December 3, 2002\nAmended May 20, 2010\nAmended January 9, 2012",
+          "pages": [
+            49
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "arwd-civil-parsed-v1-d096db6d77a0e2ec",
+      "sourceDocumentId": "parsed-arwd-d096db6d77a0e2ec",
+      "sourceUrl": "https://www.arwd.uscourts.gov/sites/arwd/files/ARWD%20Local%20Rules.pdf",
+      "pageIndex": 48,
+      "pageSpan": [
+        48,
+        49
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "arwd-civil:83.6",
+      "collectionId": "arwd-civil",
+      "districtId": "arwd",
+      "number": "83.6",
+      "citation": "Western District of Arkansas · Rule 83.6",
+      "title": "ASSESSMENT FOR OUT-OF-POCKET EXPENSES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-51",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 83.6\nASSESSMENT FOR OUT-OF-POCKET EXPENSES\nCOLLECTION OF BIENNIAL ASSESSMENT SUSPENDED UNTIL FURTHER NOTICE\nRule XI(A) of the Appendix to these rules is hereby amended as follows:\n(1) The $5.00 assessmentfee authorized inRuleXI(A)may be used to establish a \"Library Fund\"\nto reimburse attorneys for out-of-pocket expenses when the attorney has been appointed\nunder Title 28, United States Code, Section 1915. These funds shall be used to pay only\nthose expenses where no funds are available from other sources to cover the out-of-pocket\nexpenses.\n(2) It shall be the sole discretion of the judges if the fund collected shall be deposited to the\n\"Appendix Rule XI(A) Fund\" or to the \"Library Fund.\" There will be a separate “Library\nFund” maintained for the Eastern and Western Districts of Arkansas. Funds will be divided\nbetween the districts following each assessment. The manner for deciding the division of\nfunds will be based upon the residence of attorneys in the court’s database. Additional\nfunds may be transferred from one district to another based upon the demonstration of\nneed. Those fees which have been heretofore collected pursuant to Rule XI(A) of the\nAppendix have been deposited to the \"Appendix Rule XI(A) Fund\" and shall remain so\ndeposited in an interest bearing account, to be used exclusively for the payment of\ncosts incurred in attorney discipline matters.\n(3) Until otherwise ordered by the Court, the Clerk for the Eastern District of Arkansas shall\ncollect the $5.00 assessment fee from attorneys and deposit it into an interest bearing\nchecking account for the reimbursement of unusual expenses of appointed attorneys in\nactions where counsel was appointed under 28 U.S.C. Sec. 1915, or for transfer to the\n“Library Fund” for the Western District of Arkansas.\n(4) CUSTODIAN.\nThe custodian of the “Appendix Rule XI(A) Fund” shall be the Clerk for the Eastern\nDistrict of Arkansas. The custodians of the “Library Fund” shall be the Clerk for each\nrespective district, whose responsibilities shall be those set out in the Accounting\nStandards established by these courts. A copy of the Accounting Standards shall be\nmaintained on file in the Clerk's office in each district.\n(5) APPLICATION AND DISBURSEMENT.\n(a) Application. Application for disbursement from this fund shall be made in\naccordance with the policies and guidelines (which is Exhibit A to this Rule)\nestablished by these courts. The application will contain the information prescribed\nin paragraph 3 of policy guidelines.\n(b) Disbursement. The custodians of the “Library Fund” shall make disbursement\nfrom the respective Fundsin accordance with the policies and guidelines(Exhibit A)\nestablished by these courts. Disbursement shall be made only upon order of the\nproper court in the form attached hereto as Exhibit B.\n(6) All other provisions pertaining to the collection of this fee pursuant to Rule XI(A) of the\nAppendix are made applicable to the collection of the fee for the “Library Fund.”",
+          "pages": [
+            50
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-52",
+          "path": [],
+          "type": "paragraph",
+          "text": "(7) CRITERIA FOR OTHER USES FOR THE FUND.\nWhen the “Library Fund” or the “Appendix Rule XI(A) Fund” exceeds $50,000.00, the\nportion in each fund in excess of that figure may be used, to the extent specifically\nauthorized by the Court for the advancement of the courts of the United States, the\nlegal profession, jurisprudence, or other aspects of the systems of justice in the United\nStates. Upon the approval of a majority of the judgesfrom the district holding the funds, an\norder may be entered on behalf ofthe Courts by the Chief District Judge directing the Clerk\nof Court to disburse such excess funds for such purposes.\nAdopted and effective July 1, 1985\n(7) Amended and approved November 8, 1990 Amended and approved April 30, 2007",
+          "pages": [
+            51
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-53",
+          "path": [],
+          "type": "paragraph",
+          "text": "EXHIBIT A TO LOCAL RULE 83.6\nREIMBURSEMENT OF OUT-OF-POCKET EXPENSES OF APPOINTED COUNSEL\nPOLICY GUIDELINES\nThis Court has determined that monies derived from the annual fees paid by attorneys admitted to\npractice before this Court may be used to reimburse attorneys appointed pursuant to 28 U.S.C. Sec. 1915\nfor out-of-pocket expenses and to pay any court-appointed experts when necessary. With respect to these\npurposes, the following guidelines are established:\n(1) The Clerk of Court for each respective district shall monitor the fund and make a written\nreport of the use of the fund and the fund balance to the Judges and Magistrate Judges of\ntheir district by the fourteenth day in each month.\n(2) Before an attorney expends an amount above $500.00, for which that attorney intends to\nseek reimbursement from the fund, written approval must be obtained from a District\nCourt Judge or a Magistrate Judge.\n(3) Before any single expenditure from the fund in excess of $500.00 is authorized, or approval\nof a request by an attorney to expend in excess of $500.00, the District Court Judge or\nMagistrate Judge shall inquire of the Clerk of Court for the respective district as to the\nimpact of that expenditure on the fund.\n(4) All requests by attorneys for disbursements or requests for approval of expenditures shall\nbe by written application, containing the following information:\n(a) The date of the application;\n(b) The caption of the cause of action;\n(c) The name and address of the attorney requesting the disbursement or approval\nof expenditure;\n(d) A detailed itemization of all costs and expenses for which the disbursement or\nexpenditure is requested; and\n(e) A brief explanation of how the requested disbursement or expenditure complies\nwith the guidelines and policies established by the Court for disbursements\nfrom the fund.\n(5) All disbursements, pursuant to requests by attorneys, from the fund shall be made only by\norder of a United States District Judge or a United States Magistrate Judge in the form\nattached as Exhibit B.\nRevised and effective February 22, 1994\nRevised and effective April 30, 2007\nAmended November 10, 2009",
+          "pages": [
+            52
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-54",
+          "path": [],
+          "type": "paragraph",
+          "text": "EXHIBIT B TO\nLOCAL RULE 83.6\nIN THE UNITED STATES DISTRICT COURT\nEASTERN DISTRICT OF ARKANSAS\nWESTERN DIVISION\nPlaintiff )\nv. )\n)\nDefendant ) Case No. \nORDER\nPending before the Court is the Application of [Date] by [Attorney] for\nthe reimbursement of out-of-pocket expenses. Having considered the application pursuant to the\nguidelines and policies of the Library Fund, the Court orders that the Clerk of the Court disburse money\nfrom the Library Fund in the amount of ($ ) and distribute it to the\nnamed applicant. A copy of this Order, together with the application, shall be placed in the Library Fund\nfile maintained by the Clerk of the Court.\nIT IS SO ORDERED this ____ day of ____, 20__.\nUNITED STATES DISTRICT JUDGE OR\nUNITED STATES MAGISTRATE JUDGE\nRevised and effective January 1-2, 1988\nRevised and effective April 30, 2007",
+          "pages": [
+            53
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "arwd-civil-parsed-v1-d096db6d77a0e2ec",
+      "sourceDocumentId": "parsed-arwd-d096db6d77a0e2ec",
+      "sourceUrl": "https://www.arwd.uscourts.gov/sites/arwd/files/ARWD%20Local%20Rules.pdf",
+      "pageIndex": 50,
+      "pageSpan": [
+        50,
+        53
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "arwd-civil:83.7",
+      "collectionId": "arwd-civil",
+      "districtId": "arwd",
+      "number": "83.7",
+      "citation": "Western District of Arkansas · Rule 83.7",
+      "title": "APPOINTMENT OF COUNSEL",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-55",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 83.7\nAPPOINTMENT OF COUNSEL\nIn those civil cases in which the Court deems it necessary to appoint counsel to represent a party\nproceeding in forma pauperis(see 28 U.S.C. §1915),such appointmentshall be accomplished by random\nselection from a list of all actively practicing private attorneys enrolled in the District in which the case\nis pending. Prospective appointees will be informed by telephone of their selection, when possible,\nso as to avoid appointment of an attorney who is not actively engaged in the private practice of law. \nHowever, in the event an enrolled attorney not actively engaged in the private practice oflawis appointed,\nsuch attorney may request leave to withdraw within twenty-one\n(21) days of such appointment. The Court will depart from this random appointment procedure when\nthe extraordinary nature or exigency of the circumstances suggests that an alternate means of selection is\nnecessary. These appointments shall be mandatory.\nThe original attorney appointed may arrange forsubstitute counsel to appear in behalf of the party,\nbutsuch substitution must be made in writing and filed with the Court not later than twenty- one (21) days\nafter the entry of the original appointment order. This substitution will not relieve the substituted counsel\nfrom serving as appointed counsel in any subsequent case when he/she would otherwise be selected at\nrandom.\nUpon written application filed within twenty-one (21) days of the original appointment order, an\nattorney may request leave of the Court to withdraw if he/she represents (1) that he/she has actively\nparticipated in furnishing pro bono legal services (e.g., membership in a pro bono legal organization);\nand (2) that he/she has, in the last twelve (12) months, actually represented a pro bono client(s) in either (a)\nlitigation, or (b) a non-litigation matter which the attorney can certify required the expenditure of a\nminimum of twenty (20) hours of time.\nIf, after interviewing the client, investigating the facts, and researching the applicable law, an\nappointed attorney is convinced that the party's legal position is non-meritorious, the appointed attorney\nmay petition the Court for leave to withdraw. Such petition to withdraw must be filed within sixty (60)\ndays of the appointment order. Ifthe attorney is allowed to withdraw, his/her name may be restored to the\nlist of enrolled attorneys subject to future appointment.\nFor good cause shown (e.g., geographic, time, or expertise factors), an appointed attorney may\nrequest the Court to select an additional attorney to serve as co-counsel in an investigative or trial capacity.\nIn the event attorneys enrolled in the Eastern and Western Districts of Arkansas desire to volunteer\ntheirservices prior to receiving notification of an actual appointment, they may do so by writing the Clerk's\nOffice, 600 W. Capitol Avenue, Room A-149, Little Rock, Arkansas, 72201- 3325, or the Clerk's Office,\nP. O. Box 1547, Fort Smith, Arkansas, 72902-1547, and notifying the Court of their willingness to have\ntheir names advanced on the list of attorneys to be appointed. Attorneys volunteering in this manner will\nbe exempt from future appointments under this Local Rule for two years from the date of any actual\nappointment received.\nAdopted and effective May 5, 1987\nAmended November 10, 2009",
+          "pages": [
+            54
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "arwd-civil-parsed-v1-d096db6d77a0e2ec",
+      "sourceDocumentId": "parsed-arwd-d096db6d77a0e2ec",
+      "sourceUrl": "https://www.arwd.uscourts.gov/sites/arwd/files/ARWD%20Local%20Rules.pdf",
+      "pageIndex": 54,
+      "pageSpan": [
+        54,
+        54
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "arwd-civil:83.8",
+      "collectionId": "arwd-civil",
+      "districtId": "arwd",
+      "number": "83.8",
+      "citation": "Western District of Arkansas · Rule 83.8",
+      "title": "COMMUNICATIONS BY UNITED STATES ATTORNEY REGARDING PERSONS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-56",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL RULE 83.8\nCOMMUNICATIONS BY UNITED STATES ATTORNEY REGARDING PERSONS\nSENTENCED BY THIS COURT\nThe United States Attorney and his staff shall not communicate in writing with the United States\nBureau of Prisons, the United States Parole Commission, or the United States Probation Office\nconcerning any person remanded to the custody of the Attorney General by this court following the\nsentencing of that person unlessthe United States Attorney shall furnish copies of the communication to the\nsentencing judge. IftheUnitedStatesAttorney communicates orallywith the Bureau of Prisons, the Parole\nCommission, or the Probation Office concerning such a person, he shall reduce the substance of the\ncommunication to writing and furnish copies to the sentencing judge. The sentencing judge shall then\ndetermine whether such communications should also be transmitted to the defendant and/or his attorney.\nAdopted and effective February 1, 1982\nRevised September 1, 1982",
+          "pages": [
+            55
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "arwd-civil-parsed-v1-d096db6d77a0e2ec",
+      "sourceDocumentId": "parsed-arwd-d096db6d77a0e2ec",
+      "sourceUrl": "https://www.arwd.uscourts.gov/sites/arwd/files/ARWD%20Local%20Rules.pdf",
+      "pageIndex": 55,
+      "pageSpan": [
+        55,
+        55
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    }
+  ],
+  "evidence": [
+    {
+      "number": "4.1",
+      "heading": "LOCAL RULE 4.1",
+      "page": 4,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 4,
+          "start": 0,
+          "end": 858,
+          "sha256": "d5b1616ab869586dd10efc2d7136b5cbac2a555e812ec01548df5d73b84924c9"
+        }
+      ]
+    },
+    {
+      "number": "4.2",
+      "heading": "LOCAL RULE 4.2",
+      "page": 5,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 5,
+          "start": 0,
+          "end": 780,
+          "sha256": "0740529b426c130715a5b10984e1b5f59be4a856a8236f409fe2762a7da2bc18"
+        }
+      ]
+    },
+    {
+      "number": "4.3",
+      "heading": "LOCAL RULE 4.3",
+      "page": 6,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 6,
+          "start": 0,
+          "end": 257,
+          "sha256": "7c53d9699b386c5597649bdd468aba5b9751561e449c056290d01ed90e86a93c"
+        }
+      ]
+    },
+    {
+      "number": "5.1",
+      "heading": "LOCAL RULE 5.1",
+      "page": 7,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 7,
+          "start": 0,
+          "end": 744,
+          "sha256": "9ac91226a846beb59eb16e72a95c4b3bd0606adac88725576d0082b255c51b3a"
+        }
+      ]
+    },
+    {
+      "number": "5.4",
+      "heading": "LOCAL RULE 5.4",
+      "page": 8,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 8,
+          "start": 0,
+          "end": 300,
+          "sha256": "b0c6dadacebfc0a01a8f7e5ccb2dc3cdaa345b64c95dda719634733edb90e668"
+        }
+      ]
+    },
+    {
+      "number": "5.5",
+      "heading": "LOCAL RULE 5.5",
+      "page": 9,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 9,
+          "start": 0,
+          "end": 3345,
+          "sha256": "793921e804d09d3cb62d10f4680923c600cd8d7350537f0fb1b68979ee2b4e86"
+        },
+        {
+          "page": 10,
+          "start": 0,
+          "end": 1016,
+          "sha256": "6725871e64d9223fa4857c781579613ea451853f3a341ad4ca3c1828c6238964"
+        }
+      ]
+    },
+    {
+      "number": "6.2",
+      "heading": "LOCAL RULE 6.2",
+      "page": 11,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 11,
+          "start": 0,
+          "end": 1354,
+          "sha256": "69c9b387eec286c44b23754f2831ef8202784aa1b1449cf3591d33d5fbc19bcb"
+        }
+      ]
+    },
+    {
+      "number": "7.2",
+      "heading": "LOCAL RULE 7.2",
+      "page": 12,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 12,
+          "start": 0,
+          "end": 3036,
+          "sha256": "bc12869469e1795f7f9ec58f5aa8c6a03ae31d707c8f4e5309713059eea72d76"
+        },
+        {
+          "page": 13,
+          "start": 0,
+          "end": 163,
+          "sha256": "5028f45083f2d3b0c9a3e9bc0fb53c7e699a9a11899f2dae56b7e161bf89f89e"
+        }
+      ]
+    },
+    {
+      "number": "7.3",
+      "heading": "LOCAL RULE 7.3",
+      "page": 14,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 14,
+          "start": 0,
+          "end": 821,
+          "sha256": "42014e49bb525275385220b8ad2bebdab44090584f5648b2aed556d12eab12c1"
+        }
+      ]
+    },
+    {
+      "number": "7.4",
+      "heading": "LOCAL RULE 7.4",
+      "page": 15,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 15,
+          "start": 0,
+          "end": 217,
+          "sha256": "3983f1da4660fb5308780c94b84f9cd88787b09a1ca077ab935cbc6c40c98af6"
+        }
+      ]
+    },
+    {
+      "number": "7.5",
+      "heading": "LOCAL RULE 7.5",
+      "page": 16,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 16,
+          "start": 0,
+          "end": 534,
+          "sha256": "ecf68e4ea1cf6edec7cd0fa2e33e0af1038b46bafd1d17649a01d7e96181b3bf"
+        }
+      ]
+    },
+    {
+      "number": "9.1",
+      "heading": "LOCAL RULE 9.1",
+      "page": 17,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 17,
+          "start": 0,
+          "end": 638,
+          "sha256": "61767035eb9963444f45ecb12fd21ab1199a31cc8bc22e8ecf8953c1b17661b8"
+        }
+      ]
+    },
+    {
+      "number": "16.1",
+      "heading": "LOCAL RULE 16.1",
+      "page": 18,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 18,
+          "start": 0,
+          "end": 750,
+          "sha256": "9634380de4c96bc6931bd5a8e25f4f3467feaa1133f0f5aaea44c523d3237310"
+        }
+      ]
+    },
+    {
+      "number": "16.2",
+      "heading": "LOCAL RULE 16.2",
+      "page": 19,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 19,
+          "start": 0,
+          "end": 654,
+          "sha256": "998edcf9d72b714de04aa76f13174b476b8d44d90a0b586892cb1077cc2d022f"
+        }
+      ]
+    },
+    {
+      "number": "23.1",
+      "heading": "LOCAL RULE 23.1",
+      "page": 20,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 20,
+          "start": 0,
+          "end": 3062,
+          "sha256": "9209fe5383ebe7d6db4c5be91a0def403daa5969b6c70c4420dec10b5baf3a7a"
+        },
+        {
+          "page": 21,
+          "start": 0,
+          "end": 246,
+          "sha256": "b21fc37a8395ca06f67a9862bdf69722bfdf916a9ef516d69ded87e9287648f9"
+        }
+      ]
+    },
+    {
+      "number": "26.1",
+      "heading": "LOCAL RULE 26.1",
+      "page": 22,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 22,
+          "start": 0,
+          "end": 2443,
+          "sha256": "b23ceddfb946dcb3b2ef9c9f79e6f0feee0b52f0de8f1f1c48ef414a24ed87b3"
+        }
+      ]
+    },
+    {
+      "number": "26.2",
+      "heading": "LOCAL RULE 26.2",
+      "page": 23,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 23,
+          "start": 0,
+          "end": 1877,
+          "sha256": "502602d266e885a8db7da6714031b84334b48f09f035ac5463a03831e677f71e"
+        }
+      ]
+    },
+    {
+      "number": "33.1",
+      "heading": "LOCAL RULE 33.1",
+      "page": 24,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 24,
+          "start": 0,
+          "end": 960,
+          "sha256": "42dc953744ae0eba056d6fa974f59fd311ec6ff4a84ef1821df6acc5c571e31d"
+        }
+      ]
+    },
+    {
+      "number": "40.1",
+      "heading": "LOCAL RULE 40.1",
+      "page": 25,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 25,
+          "start": 0,
+          "end": 1605,
+          "sha256": "895a44476fb4c61e429e5dc775ebb1af6d49266031d969b58e05f33be953eb5e"
+        },
+        {
+          "page": 26,
+          "start": 0,
+          "end": 3056,
+          "sha256": "1add40944b1e8941cee2dbaea6e90faf9877931b99e062ebfa23afa3fa1ea063"
+        },
+        {
+          "page": 27,
+          "start": 0,
+          "end": 2883,
+          "sha256": "4a604d9b742beb037478426ce98930811f14c1cdae8dad9bef3ffe81b4274f59"
+        }
+      ]
+    },
+    {
+      "number": "41.1",
+      "heading": "LOCAL RULE 41.1",
+      "page": 28,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 28,
+          "start": 0,
+          "end": 417,
+          "sha256": "8f713c4a0c6151e22160cac0d0f8c7de4166d3364710d83c627ddaa37a31a28f"
+        }
+      ]
+    },
+    {
+      "number": "47.1",
+      "heading": "LOCAL RULE 47.1",
+      "page": 29,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 29,
+          "start": 0,
+          "end": 268,
+          "sha256": "57c2aa7ecef6ef051a5d4fa80343fdcc64bfd7c4105b4c5ea7e6449f25d35a21"
+        }
+      ]
+    },
+    {
+      "number": "54.1",
+      "heading": "LOCAL RULE 54.1",
+      "page": 30,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 30,
+          "start": 0,
+          "end": 1583,
+          "sha256": "95518e1c6ce7733a690a6a68788322a7f4769227f79eb01634efb294722a169f"
+        }
+      ]
+    },
+    {
+      "number": "56.1",
+      "heading": "LOCAL RULE 56.1",
+      "page": 31,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 31,
+          "start": 0,
+          "end": 1057,
+          "sha256": "b068d15a05d4ac63eaeaa69604d5fba3472f1aa232443a6ad6cb7644904edbc1"
+        }
+      ]
+    },
+    {
+      "number": "58.2",
+      "heading": "LOCAL RULE 58.2",
+      "page": 32,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 32,
+          "start": 0,
+          "end": 759,
+          "sha256": "2d8b8d7092ba665cedc4cf50ce6cc277d8b7be2bee3d21822dd7900b94adffa9"
+        }
+      ]
+    },
+    {
+      "number": "67.1",
+      "heading": "LOCAL RULE 67.1",
+      "page": 33,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 33,
+          "start": 0,
+          "end": 2707,
+          "sha256": "61b34dd9bc26f79d5096b994d208aad04d6fbed64ed7cae9dd97e6931d607ad4"
+        },
+        {
+          "page": 34,
+          "start": 0,
+          "end": 2393,
+          "sha256": "c9f097b52090efb4c19d95b6f9b69f4593b6bf6c84e2c1046b9601fde2372bf2"
+        }
+      ]
+    },
+    {
+      "number": "71A.1",
+      "heading": "LOCAL RULE 71A.1",
+      "page": 35,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 35,
+          "start": 0,
+          "end": 3532,
+          "sha256": "5946d7d67debd88ff3e5db746c16ac9fdd91c151efd7a2c9e5288587c88d9c06"
+        },
+        {
+          "page": 36,
+          "start": 0,
+          "end": 141,
+          "sha256": "c7b5ce66b733afc6e32d53ce2a6af9fd0cff9b372bf8e40ec95b75379ffef623"
+        }
+      ]
+    },
+    {
+      "number": "72.1",
+      "heading": "LOCAL RULE 72.1",
+      "page": 37,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 37,
+          "start": 0,
+          "end": 2820,
+          "sha256": "2462bd862033d2875dd2efc04ba07bdc99b5a6acbe5e0ee5efe49bb88d87bc85"
+        },
+        {
+          "page": 38,
+          "start": 0,
+          "end": 2763,
+          "sha256": "e2b4869c5c9ebe0b3aac8158a34a7c4348656a0e381cec7e74e131f33435acb2"
+        },
+        {
+          "page": 39,
+          "start": 0,
+          "end": 2778,
+          "sha256": "d11c39fa8d458612c16d32ee55463db52953bd498c2d1461b7deac2b6ad1d419"
+        },
+        {
+          "page": 40,
+          "start": 0,
+          "end": 2530,
+          "sha256": "4045f0c4a0335c03868fd77f6b844b6355e581f431923b9c731bc6c49865669c"
+        },
+        {
+          "page": 41,
+          "start": 0,
+          "end": 103,
+          "sha256": "5dd5781e4764eb55632cea63e90d272f6c5f096d18b021fbc8a97e46ce3df4b6"
+        }
+      ]
+    },
+    {
+      "number": "77.1",
+      "heading": "LOCAL RULE 77.1",
+      "page": 42,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 42,
+          "start": 0,
+          "end": 1710,
+          "sha256": "479c5bba2995133284ed6e8ec53c1e1e97a2b8d71251753bc41cd7e8edda9249"
+        },
+        {
+          "page": 43,
+          "start": 0,
+          "end": 32,
+          "sha256": "bdcaaa3fa6dce56de1c8fe8280eb3c8b446f20b07c6e442b81b7ba77bfd7de88"
+        }
+      ]
+    },
+    {
+      "number": "79.1",
+      "heading": "LOCAL RULE 79.1",
+      "page": 44,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 44,
+          "start": 0,
+          "end": 3028,
+          "sha256": "63119711e46d7f45ec02d519f838ed009f8177318aaaaaa03183617a0d5ad8c8"
+        }
+      ]
+    },
+    {
+      "number": "83.1",
+      "heading": "LOCAL RULE 83.1",
+      "page": 45,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 45,
+          "start": 0,
+          "end": 2285,
+          "sha256": "b79f26be91f3b68d813e308ffd5a5a5d21c395376b45b5278fac8ebf864b2cb7"
+        }
+      ]
+    },
+    {
+      "number": "83.2",
+      "heading": "LOCAL RULE 83.2",
+      "page": 46,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 46,
+          "start": 0,
+          "end": 2364,
+          "sha256": "9f20994fc7aed8819935cf32ade6ab662feaad5e3ad91ea16be2fcde3cda2c8b"
+        }
+      ]
+    },
+    {
+      "number": "83.3",
+      "heading": "LOCAL RULE 83.3",
+      "page": 47,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 47,
+          "start": 0,
+          "end": 1071,
+          "sha256": "c9a0eaaeb7443c8e4d789003297935fd1733e85880c4b8d316f056b678b3ada6"
+        }
+      ]
+    },
+    {
+      "number": "83.4",
+      "heading": "LOCAL RULE 83.4",
+      "page": 48,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 48,
+          "start": 0,
+          "end": 277,
+          "sha256": "7d2bab00644ce7ad75a3301e64fd8ded4b996aae63c99de6e9829c65de5638ca"
+        }
+      ]
+    },
+    {
+      "number": "83.5",
+      "heading": "LOCAL RULE 83.5",
+      "page": 49,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 49,
+          "start": 0,
+          "end": 2981,
+          "sha256": "bfa054d8067cbfec2b4f3ea64daaac51120ee7ee94d3b83d49666bca0348ef3d"
+        },
+        {
+          "page": 50,
+          "start": 0,
+          "end": 1064,
+          "sha256": "5f7392c37e239a4b7a7ace54ddabeaf6270edb53548836b781871b3a322566fc"
+        }
+      ]
+    },
+    {
+      "number": "83.6",
+      "heading": "LOCAL RULE 83.6",
+      "page": 51,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 51,
+          "start": 0,
+          "end": 2998,
+          "sha256": "8d2fe6a265ac7a989856a14dbd6573ca86a99e9f83fed5bbe54ef36b138a23a0"
+        },
+        {
+          "page": 52,
+          "start": 0,
+          "end": 739,
+          "sha256": "79ff99ce99ce3b64a7ff752176fea09328d636bbee675435ef32863c3d70366d"
+        },
+        {
+          "page": 53,
+          "start": 0,
+          "end": 2149,
+          "sha256": "ca0189c2ab253419824574bc9418380951633c098f34a55b358a715990fe3219"
+        },
+        {
+          "page": 54,
+          "start": 0,
+          "end": 833,
+          "sha256": "4765b7977c8807b0d0afa809fda8ef3397357da1429eca82ae014039c1e23a7b"
+        }
+      ]
+    },
+    {
+      "number": "83.7",
+      "heading": "LOCAL RULE 83.7",
+      "page": 55,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 55,
+          "start": 0,
+          "end": 3339,
+          "sha256": "ee2f6c63cfcc54a8a82b2e6a6a71840f10c1f0ed24b9353e97187ef60e04ebea"
+        }
+      ]
+    },
+    {
+      "number": "83.8",
+      "heading": "LOCAL RULE 83.8",
+      "page": 56,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 56,
+          "start": 0,
+          "end": 965,
+          "sha256": "50e5bc691f586d9b859e962b3be3865f182c9bf8e33d57b4f63edc588b87858d"
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "startPage": 4,
+    "startOffset": 0,
+    "endPage": 56,
+    "endOffset": 965,
+    "ruleCount": 37,
+    "tocReconciled": false,
+    "editorialReviewComplete": false,
+    "currencyReviewed": false,
+    "flags": [
+      "Source extraction contains unresolved characters; consult the original publication."
+    ],
+    "excluded": "Source material outside the recorded range remains available in the district source library."
+  },
+  "transcriptionSha256": "6a76cb74ebbf7a2a36aa4b0bea67d21c4ebb006e9044a9b1cd5f891ad47f01b4"
+}

@@ -1,0 +1,3175 @@
+{
+  "version": 1,
+  "reviewStatus": "parsed-draft",
+  "districtId": "nmid",
+  "sourceDocument": {
+    "id": "501739f4579d2e6c",
+    "title": "Local Rules",
+    "format": "pdf",
+    "role": "primary",
+    "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+    "sha256": "501739f4579d2e6c7db27e0c29393b091d3a8247e75c7cd36260ee2109ee5b3b",
+    "bytes": 596628,
+    "retrievedAt": "2026-09-07T00:01:55.699520+00:00",
+    "snapshotPath": "sources/district-snapshots/501739f4579d2e6c7db27e0c29393b091d3a8247e75c7cd36260ee2109ee5b3b.pdf",
+    "textPath": "data/source-library/501739f4579d2e6c7db27e0c29393b091d3a8247e75c7cd36260ee2109ee5b3b.json",
+    "pdfPath": "data/source-pdfs/501739f4579d2e6c7db27e0c29393b091d3a8247e75c7cd36260ee2109ee5b3b.pdf",
+    "pageCount": 62,
+    "reviewStatus": "source-document-only",
+    "blankTextPages": 0
+  },
+  "collection": {
+    "id": "nmid-civil",
+    "name": "District of the Northern Mariana Islands Local Rules",
+    "shortName": "Local rules · draft",
+    "districtId": "nmid",
+    "scopeNote": "Civil and generally applicable local rules; unparsed supplements remain in the source library. Rule boundaries and transcription are drafts. Embedded notes, forms, and running headers may remain within rule text; subsection anchors and field-separated notes are not yet reviewed."
+  },
+  "provisions": [
+    {
+      "id": "nmid-civil:1.1",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "1.1",
+      "citation": "District of the Northern Mariana Islands · Rule 1.1",
+      "title": "Scope of the Rules",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-6",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 1.1 - Scope of the Rules\na. Title and Citation. These are the Local Rules of the United States District Court \nfor the Northern Mariana Islands. They should be cited as “LR ____.”\nb. Effective Date. These Rules become effective November 1, 2017.\nc. Scope of the Rules. These Rules apply in all actions and proceedings in this Court. \nThey supplement the Federal Rules of Civil Procedure and will be construed to be \nconsistent with those rules and to promote the just, efficient, and economical \ndetermination of every action and proceeding. If any local rule is or becomes in \nconflict with a federal rule or statute, the federal rule or statute applies. These Rules \napply in all actions and proceedings, including criminal, admiralty and bankruptcy \nactions, except if inconsistent with rules or provisions of law specifically applicable \nthereto. \nd. Relationship to Prior Rules; Actions Pending on Effective Date. These Rules \nsupersede all previous Rules promulgated by this Court or any judge of this Court. \nWhen justice requires, a judge may order that an action or proceeding pending \nbefore the Court prior to the effective date be governed by the prior practice of \nthe Court.\ne. Rule of Construction and Definitions.\n1. United States Code, Title 1, Chapter 1, will, as far as applicable, govern the \nconstruction of these rules.\n2. The following definitions will apply:\nA. The word “court” refers to the United States District Court for the \nNorthern Mariana Islands, and not to any particular judge of the \nCourt.\nB. The word “judge” refers to any United States district judge, or to a \ndesignated judge assigned pursuant to 48 U.S.C. § 1821(b)(2), or to \na part-time or full-time United States magistrate judge who exercises \njurisdiction in a particular proceeding.",
+          "pages": [
+            5
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-7",
+          "path": [],
+          "type": "paragraph",
+          "text": "53\nC. The word “clerk” means the clerk of court or a deputy clerk of court \nfor the United States District Court for the Northern Mariana \nIslands.\nD. “CM/ECF” means “Case Management/Electronic Case Files” and \nrefers to the electronic case management and filing system \ndeveloped by the Administrative Office of the United States Courts \nand implemented by this Court in the District for the Northern \nMariana Islands. Any references in these rules to an electronic filing \nsystem mean the Court’s CM/ECF system.\n",
+          "pages": [
+            6
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 5,
+      "pageSpan": [
+        5,
+        6
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmid-civil:1.2",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "1.2",
+      "citation": "District of the Northern Mariana Islands · Rule 1.2",
+      "title": "Availability of the Local Rules",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-7",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 1.2 - Availability of the Local Rules\nThese Rules are available for public viewing and downloading free of charge from the \nCourt’s web site, www.nmid.uscourts.gov. Hardcopy of the rules may be purchased from \nthe clerk during regular business hours.\nWhen amendments to these rules are proposed, notice of such proposals and of the \nperiod for the public to comment will be posted in the Clerk’s Office and on the Court’s \npublic website, and will be given to the CNMI Bar Association.\nWhen amendments to these rules are adopted, notice of such amendments will be posted \nin the Clerk’s Office and on the Court’s public website, and will be given to the CNMI \nBar Association.\n",
+          "pages": [
+            6
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 6,
+      "pageSpan": [
+        6,
+        6
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmid-civil:1.3",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "1.3",
+      "citation": "District of the Northern Mariana Islands · Rule 1.3",
+      "title": "Sanctions",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-7",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 1.3 - Sanctions\nFailure of counsel or of a party to comply with any of these rules or with any order of the \nCourt may be grounds for the Court to impose any and all sanctions authorized by statute \nor rule or within the inherent power of the Court.\n",
+          "pages": [
+            6
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 6,
+      "pageSpan": [
+        6,
+        6
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmid-civil:1.4",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "1.4",
+      "citation": "District of the Northern Mariana Islands · Rule 1.4",
+      "title": "Calendaring Conflicts",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-7",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 1.4 - Calendaring Conflicts\na. Counsel’s Duty to Notify Court. Within 48 hours of learning of a scheduling \nconflict between this Court and any other court, counsel must notify the presiding \njudge or a clerk of this Court. The judge may confer with judges of the other court \nin an effort to resolve the conflict. While neither this Court nor any other court \nhas priority in scheduling, the judge may consider the following factors in resolving \nthe conflict:",
+          "pages": [
+            6
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-8",
+          "path": [],
+          "type": "paragraph",
+          "text": "54\n1. whether a case is criminal, with attendant speedy trial concerns, or civil;\n2. whether off-island witnesses, parties, or counsel are scheduled to attend a \nhearing;\n3. the age of the case;\n4. which matter was set first; and,\n5. any other factor that weighs in favor of one court or case over the other.\n",
+          "pages": [
+            7
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 6,
+      "pageSpan": [
+        6,
+        7
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmid-civil:1.5",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "1.5",
+      "citation": "District of the Northern Mariana Islands · Rule 1.5",
+      "title": "Standards of Professional Conduct",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-8",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 1.5 - Standards of Professional Conduct\nEvery member of this Court’s bar and any attorney permitted to practice in this Court\nwill be governed by and must observe the Model Rules of Professional Conduct of the \nAmerican Bar Association as adopted in 1983 and as thereafter amended or judicially \nconstrued, these Local Rules, and this Court’s “Standards of Professional Conduct,” supra.\nII. Commencement of Action; Electronic Filing; \nService of Process; Pleadings, Motions, and Orders\n",
+          "pages": [
+            7
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 7,
+      "pageSpan": [
+        7,
+        7
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmid-civil:3.1",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "3.1",
+      "citation": "District of the Northern Mariana Islands · Rule 3.1",
+      "title": "Civil Cover Sheet",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-8",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 3.1 - Civil Cover Sheet\nEvery complaint or other document initiating a civil action must be accompanied by a \ncompleted civil cover sheet, on a form JS 44 available from the clerk and on the Court’s \nwebsite. This requirement is solely for administrative purposes; information appearing \nonly on the civil cover sheet has no legal effect in the action.\nIf the complaint or other document is filed without a civil cover sheet or with an \nincomplete civil cover sheet, the clerk will mark the complaint or other document as to \nthe date received and promptly give notice of the deficiency to the filing party. When the \ndeficiency has been corrected, the clerk will file the complaint or other document nunc pro \ntunc as of the date of the original receipt.",
+          "pages": [
+            7
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-9",
+          "path": [],
+          "type": "paragraph",
+          "text": "55\n",
+          "pages": [
+            8
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 7,
+      "pageSpan": [
+        7,
+        8
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmid-civil:5.1",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "5.1",
+      "citation": "District of the Northern Mariana Islands · Rule 5.1",
+      "title": "Electronic Filing",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-9",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 5.1 - Electronic Filing\nThe Court will accept for filing all documents submitted, signed or verified by electronic \nmeans that comply with procedures established by the Court.\nWhen a document has been filed electronically, the official record is the electronic \nrecording of the document as stored by the Court, and the filing party is bound by the \ndocument as filed. Except in the case of documents first filed in paper form and \nsubsequently submitted electronically, a document filed electronically is deemed filed at \nthe date and time stated on the Notice of Electronic Filing from the Court.\nAll bar members of the Court must register to use the Court’s electronic filing system and \nmust submit documents by electronic means in accordance with procedures established \nby the Court, as described in Appendix A, “Administrative Procedures for Electronic \nFiling and Electronic Service.”\n",
+          "pages": [
+            8
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 8,
+      "pageSpan": [
+        8,
+        8
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmid-civil:5.2",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "5.2",
+      "citation": "District of the Northern Mariana Islands · Rule 5.2",
+      "title": "General Format of Documents Presented for Filing",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-9",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 5.2 - General Format of Documents Presented for Filing\na. General Requirements. All pleadings, motions, and other documents presented \nfor filing must be on 8.5 x 11 inch white paper or plain background, with double￾spaced numbering running the length of the left margin, and must be plainly \ntypewritten, printed, or prepared by a clearly legible duplication process. Block \nquotations, footnotes, and headings may be single-spaced; all other text must be \ndouble-spaced. All text must be in 12-point type or larger and in a serif font. Pages\nmust be one-sided and numbered consecutively. \nThree inches of the upper right-hand corner of the first page of all documents\nmust be left blank for the clerk’s use.\nUnless otherwise required by this Rule, each page must have a margin of not less \nthan 1.5 inches on the top, one inch on the bottom, one-half inch on the right \nhand margin, and one inch on the left hand side of the page.\nThe text of all documents filed in CM/ECF must be searchable, in conformity \nwith Appendix A.3 of these Rules.\nThis rule does not apply to: (1) exhibits submitted for filing, except that pages from \ndepositions, trial transcripts, or any other sources may not be reduced in size so as \nto fit more than one page of transcription or other material on to one page of an ",
+          "pages": [
+            8
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-10",
+          "path": [],
+          "type": "paragraph",
+          "text": "56\nexhibit; (2) documents filed in removed actions prior to removal from the \nCommonwealth courts; and (3) forms furnished by the Court.\nb. Citations to Authority. All citations to legal authority must be in a generally \nrecognized form that enables both the Court and all parties to locate the cited \nwork. If a cited case or other authority is not available on LexisNexis or Westlaw, \nthe citing party must attach a copy of the authority to the pleading as an exhibit.\nc. Counsel Identification. The name, mailing address, e-mail address, and telephone \nnumber of counsel (or, if proceeding without counsel, of the party), and the \nspecific identification of each party represented by name and interest in the \nlitigation (i.e., plaintiff, defendant, etc.), must appear in the upper left-hand corner \nof the first page of each paper presented for filing, except that in multiparty \nproceedings reference may be made to the signature page for the complete list of \nparties represented.\nd. Caption and Title.\n1. “IN THE UNITED STATES DISTRICT COURT / FOR THE NORTHERN \nMARIANA ISLANDS” must appear on two lines, single-spaced and centered,\non the first page of all documents, at least 1.5 inches from the top of the \npage.\n2. The title of the proceeding must appear on the first page of all documents\nbelow the title of the Court and to the left of the center of the page. In a \ncomplaint, the title of the proceeding must contain the names of all parties. \nIn all documents other than a complaint, the title of the proceeding may be \nappropriately abbreviated.\n3. The file number of the proceeding, a designation of the proceeding (i.e., as \ncivil, criminal, bankruptcy, etc.), and a title describing the paper(s) presented \nfor filing must appear on the first page of all documents below the title of \nthe Court and to the right of the title of the proceeding.\n4. Every pleading must be specifically and particularly identified (e.g.,\n“Plaintiff’s Opposition to Defendant’s Motion for Partial Summary \nJudgment”).",
+          "pages": [
+            9
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-11",
+          "path": [],
+          "type": "paragraph",
+          "text": "57\ne. Hearing Date and Time. The first page of every motion, opposition, reply, or \nother filing directed to a matter for which a hearing will be held must indicate the \ndate and time of the hearing (e.g., “Defendant’s Opposition to Plaintiff’s Motion \nfor Summary Judgment” and, below that, “Hearing: June 29, 2017 / Time: 9:00 \na.m.”).\n \nf. Information to be Redacted. All parties must strictly observe the privacy \nprotection for filings made with the Court as set forth in Rule 5.2 of the Federal \nRules of Civil Procedure and Appendix A.14 of these Local Rules. Failure to redact \ninformation as required by Fed. R. Civ. P. 5.2 and Appendix A.14 may result in \nthe striking of a filing from the record and the imposition of other sanctions. A \nparty wishing to file a document containing such personal information may file an \nunredacted copy under seal. This document will be retained by the Court as part \nof the record. The Court may, however, still require the party to file a redacted \ncopy for the public file.\nThe responsibility for redacting these personal identifiers rests solely with counsel \nand the parties. The Clerk’s Office will not review each pleading for compliance \nwith this Rule.\n g. Deficiency Notice. The clerk may notify a party of any format nonconformity and \nrequire the party to submit a conforming document. Failure to correct a \nnonconformity within two business days after notification by the clerk is grounds \nfor the Court, in its discretion, to strike the nonconforming document. \n",
+          "pages": [
+            10
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 8,
+      "pageSpan": [
+        8,
+        10
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmid-civil:5.3",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "5.3",
+      "citation": "District of the Northern Mariana Islands · Rule 5.3",
+      "title": "Filing by E-mail",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-11",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 5.3 - Filing by E-mail \nThe Clerk’s Office will accept filings by e-mail from pro se parties except for the filing of \nthe initial documents, including the complaint and the service of summons. See Section \n1 of Appendix A. Any party who wishes to e-mail filings must review Appendix A and \nsubmit a “User Agreement for E-mail Filing.” E-mail filings from attorneys will only be \naccepted when an attorney is prohibited from CM/ECF access such as a sealed matter, \nor with prior approval from the Court when good cause is shown. E-mailed filings will \nbe deemed filed on the day and time received by the Clerk’s Office. E-mail filings must \nbe sent to prosefiling@nmid.uscourts.gov and specify in the subject line “For Docketing \nin Case No. _____ and ____________ (Title of the motion or document for filing. For \nexample, “Motion to Dismiss and Exhibits A-D”).",
+          "pages": [
+            10
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-12",
+          "path": [],
+          "type": "paragraph",
+          "text": "58\n",
+          "pages": [
+            11
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 10,
+      "pageSpan": [
+        10,
+        11
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmid-civil:6.1",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "6.1",
+      "citation": "District of the Northern Mariana Islands · Rule 6.1",
+      "title": "Time Computation",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-12",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 6.1 - Time Computation\nRule 6(a) of the Federal Rules of Civil Procedure will govern computation of time under \nthese Local Rules.\nIII. Pleadings and Motions\n",
+          "pages": [
+            11
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 11,
+      "pageSpan": [
+        11,
+        11
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmid-civil:7.1",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "7.1",
+      "citation": "District of the Northern Mariana Islands · Rule 7.1",
+      "title": "Motion Practice",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-12",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 7.1 - Motion Practice\na. Oral Argument.\n1. Motion day will be Thursday of each week. Unless the judge orders \notherwise, the clerk will calendar motions in accordance with this Rule.\n2. Oral argument is at the discretion of the Court but will normally be heard \nunless the Court enters an order indicating otherwise or the motion is a \nnon-hearing motion.\n3. The following motions will be non-hearing motions to be decided on the \ndocuments:\nA. motions to alter, amend, or reconsider a judgment or order;\nB. motions for judgment as a matter of law or for a new trial;\nC. motions for clarification of a judgment or order;\nD. motions to proceed in forma pauperis;\nE. motions for appointment of counsel;\nF. motions to appear by telephone or video teleconference;\nG. motions to exceed page limits;\nH. motions to extend or shorten time;\nI. stipulated motions;\nJ. motions for certification of finality under Fed. R. Civ. P. 54(b);\nK. appeals from a magistrate judge’s decision or order; and\nL. objections to a magistrate judge’s report and recommendation.\nThe Court, in its discretion, may set any of the foregoing motions for \nhearing sua sponte or upon application by a party.",
+          "pages": [
+            11
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-13",
+          "path": [],
+          "type": "paragraph",
+          "text": "59\nb. Notice and Supporting Documents. \n1. All motions, except for non-hearing motions, applications for a temporary \nrestraining order and motions made during a trial or hearing, must be \nnoticed in writing on the motion calendar for hearing not less than thirty￾four (34) days after filing. \n2. Each notice of motion must be accompanied, where appropriate, by \naffidavits or declarations under penalty of perjury (in conformity with 28 \nU.S.C. § 1746) sufficient to support any material factual contentions, and \nby an appropriate legal memorandum or brief, including, where \nappropriate, citations to these Rules.\n3. An exhibit in a foreign language, when offered in support of or opposition \nto a motion, must be accompanied by a translation that complies with LR \n16.5(a)(4). \n4. Proposed orders must be e-mailed to usdcnmi@nmid.uscourts.gov in a \nword processing format (e.g., Microsoft Office Word® or Corel \nWordPerfect®) and copied or otherwise served on each party that has \nappeared in the action.\nc. Hearing Date; Opposition, and Reply.\n1. Hearing Date. Unless the parties arrange with the docket clerk for a \ndifferent hearing date, a motion will be heard on the first Thursday not less \nthan thirty-four (34) days after the motion is filed. \n2. Opposition. The opposing party must file an opposition (or statement of \nnon-opposition) to a motion no later than fourteen (14) days after the \nmotion is served. An opposition that is untimely filed may be disregarded \nby the Court and stricken from the record. Failure to timely file an \nopposition may be deemed an admission that the motion is meritorious.\n3. Reply. The movant must serve and file any reply to the opposition no later \nthan seven (7) days after the opposition is served. A reply that is untimely \nfiled may be disregarded by the Court and stricken from the record.",
+          "pages": [
+            12
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-14",
+          "path": [],
+          "type": "paragraph",
+          "text": "60\n4. No Further Filings Allowed. No further filings or replies will be accepted \nwithout leave having first been obtained from the Court. Any filing made \nin violation of this rule will be stricken.\nd. Briefs and Memoranda: General Requirements and Sanctions.\n1. Length. Briefs and memoranda supporting or opposing a motion must not \nexceed twenty-five (25) pages in length. Reply memoranda must not exceed \nten (10) pages in length. Briefs or memoranda exceeding ten (10) pages \nmust have a table of contents and a table of authorities cited. A party \nwishing to exceed the page limit must first move to do so, without attaching \nthe brief or memorandum. If the motion is granted, the party will then file \nits brief or memorandum. Any pages in excess of the number allowed by \nlocal rule or court order will be stricken.\n2. Format. All briefs and memoranda supporting or opposing a motion must \nconform to the requirements of LR 5.2.\ne. Continuance of Scheduled Motion Hearings.\nIn accordance with the procedure set forth in LR 7.1(f) for extending time, a party \nor parties may move, in writing, to continue a motion hearing at any time prior to \nthe scheduled hearing for good cause.\nf. Extending or Shortening Time and Emergency Motions.\n1. Caption. The caption to any motion under this section must include, in \ncapital letters and boldface type: \nA. MOTION TO EXTEND (OR SHORTEN) TIME UNDER LOCAL RULE \n7.1(f), or\nB. EMERGENCY MOTION UNDER LOCAL RULE 7.1(f)\n2. Extending Time. A motion for relief from a deadline should, whenever \npossible, be filed by stipulation sufficiently in advance of the deadline to \nallow the Court to rule on the motion prior to the deadline. Parties should \nnot assume that the motion will be granted and must comply with the \nexisting deadline unless the Court orders otherwise.",
+          "pages": [
+            13
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-15",
+          "path": [],
+          "type": "paragraph",
+          "text": "61\n3. Motion Content. Every stipulation or duly noticed motion to extend or \nshorten time or for court resolution of any emergency dispute must:\nA. Inform the Court of any previous extensions granted if an extension is \nrequested;\nB. State the reasons and any legal basis for the request;\nC. Indicate the effect, if any, on any deadlines previously set; \nD. Include a request to continue the hearing if a request for an extension \nto file a brief would leave less than 7 days between the last filing date \nand the hearing date; and\nE. In the absence of a stipulation, the moving party must include a \nstatement certifying that, after participation in a meet-and-confer \nprocess to resolve the dispute, the movant has been unable to resolve \nthe matter without court action. The statement also must state when \nand how the other affected people or entities were notified of the \nmotion or, if not notified, why it was not practicable to do so. \n4. Emergencies. \nA. When a motion requests immediate court action (within forty-eight\n(48) hours or less), the movant must provide notice to the opposing \nparties (unless filed ex parte) and the Clerk’s Office by telephone and \ne-mail. \nB. An emergency motion may be granted upon a satisfactory showing \nwhy the requested action could not be obtained by stipulation or duly \nnoticed motion.\ng. Ex Parte Motions.\n1. A motion or application that is permitted to be filed ex parte by statute, \nrule, or other legal authority must cite to that authority in the caption.\n2. The caption to any ex parte motion must include, in capital letters and \nboldface type, the phrase EX PARTE MOTION PURSUANT TO________.",
+          "pages": [
+            14
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "62\nh. Failure to Comply. The Court may not consider motions, oppositions to motions, \nor briefs or memoranda that do not comply with the requirements set forth in \nthese Rules.\n",
+          "pages": [
+            15
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 11,
+      "pageSpan": [
+        11,
+        15
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmid-civil:7.2",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "7.2",
+      "citation": "District of the Northern Mariana Islands · Rule 7.2",
+      "title": "Stipulations",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 7.2 - Stipulations\nA stipulation, other than one made by the parties in open court, must be in writing and \nsigned by all affected parties or their counsel. \n",
+          "pages": [
+            15
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 15,
+      "pageSpan": [
+        15,
+        15
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmid-civil:15.1",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "15.1",
+      "citation": "District of the Northern Mariana Islands · Rule 15.1",
+      "title": "Form of a Motion to Amend and Its Supporting Documents",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 15.1 - Form of a Motion to Amend and Its Supporting Documents\nA party who moves to amend a pleading must attach the amendment to the motion. Any \namendment to a pleading, whether filed as a matter of course or upon a motion to amend, \nmust, except by leave of court, reproduce the entire pleading as amended, and may not \nincorporate any prior pleading by reference. A failure to comply with this rule is not \ngrounds for denial of the motion but may be grounds for imposition of sanctions.\n",
+          "pages": [
+            15
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 15,
+      "pageSpan": [
+        15,
+        15
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmid-civil:16.1",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "16.1",
+      "citation": "District of the Northern Mariana Islands · Rule 16.1",
+      "title": "Case Management and Track Assignment",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 16.1 - Case Management and Track Assignment\na. Case Management.\nThis Court follows a system of differentiated case management which provides\nfor the management of cases based on case characteristics to ensure an appropriate \nlevel of judicial, staff, and attorney attention. This system requires the Court and \nattorneys for the parties to assess the complexity of the case and necessary \ndiscovery and assign a track as set forth in LR 16.1(b). Each track employs a case \nmanagement plan tailored to the general requirements of similarly situated cases\nand allows for the adjustment of the initial track assignment, if needed. \nb. Tracks, Evaluation, and Assignment of Cases.\n1. Types of Tracks.\nA. “Expedited” - Cases on the Expedited Track are expected to be \ncompleted within six (6) months or less after CMC, and will have a \ndiscovery cut-off no later than sixty (60) days prior to trial. \nDiscovery guidelines for this track include interrogatories limited to \nfifteen (15) single-part questions; fifteen (15) requests for admission; \ndepositions of the parties; depositions on written questions of ",
+          "pages": [
+            15
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "63\ncustodians of business records for non-parties; no more than one \n(1) fact witness deposition per party without prior approval of the \nCourt; and such other discovery, if any, as may be provided for in \nthe Case Management Scheduling Order.\nB. “Standard” - Cases on the Standard Track are expected to be \ncompleted within twelve (12) months or less after CMC, and will\nhave a discovery cut-off no later than sixty (60) days prior to trial. \nDiscovery guidelines for this track include interrogatories limited to \nthirty (30) single-part questions; thirty (30) requests for admission; \ndepositions of the parties; depositions on written questions of \ncustodians of business records for non-parties; no more than three \n(3) fact witness depositions per party without prior approval of the \nCourt; and such other discovery, if any, as may be provided for in \nthe Case Management Scheduling Order.\nC. “Complex” - Cases on the Complex Track will have the discovery \ncut-off established in the Case Management Scheduling Order and \nare expected to be completed within eighteen (18) months. \nDiscovery guidelines for this track include interrogatories limited to \nfifty (50) single-part questions; fifty (50) requests for admission; \ndepositions of the parties; depositions on written questions of \ncustodians of business records for non-parties; and such additional \ndepositions and discovery to be set at the case management \nconference.\n2. Evaluation and Assignment of Cases; Criteria. The Court will consider and apply \nthe following factors in assigning cases to a particular track:\nA. Expedited Track:\ni. Legal Issues: Few and clear\nii. Required Discovery: Limited\niii. Number of Real Parties in Interest: Few\niv. Number of Fact Witnesses: Up to five (5)\nv. Expert Witnesses: None\nvi. Likely Trial Days: Less than five (5)",
+          "pages": [
+            16
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "64\nvii. Suitability for ADR: High\nviii. Character and Nature of Damage Claims: Usually a fixed \namount.\nB. Standard Track:\ni. Legal Issues: More than a few, some unsettled\nii. Required Discovery: Routine\niii. Number of Real Parties in Interest: Up to five (5)\niv. Number of Fact Witnesses: Up to ten (10)\nv. Expert Witnesses: Two (2) or three (3)\nvi. Likely Trial Days: Five (5) to ten (10)\nvii. Suitability for ADR: Moderate to high\nviii. Character and Nature of Damage Claims: Routine\nC. Complex Track:\ni. Legal Issues: Numerous, complicated, and possibly unique\nii. Required Discovery: Extensive\niii. Number of Real Parties in Interest: More than five (5)\niv. Number of Fact Witnesses: More than ten (10)\nv. Expert Witnesses: More than three (3)\nvi. Likely Trial Days: More than ten (10)\nvii. Suitability for ADR: Moderate\nviii. Character and Nature of Damage Claims: Usually requiring \nexpert testimony.\nc. Assertive Judicial Management.\nThe judge will manage the pretrial activity of the case through direct involvement \nin the establishment, supervision, and enforcement of a Case Management \nScheduling Order and by setting status conferences as deemed necessary. See LR \n16.3. The judge will:",
+          "pages": [
+            17
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "65\n1. Timely convene and conduct a case management conference (CMC). See \n",
+          "pages": [
+            18
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 15,
+      "pageSpan": [
+        15,
+        18
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmid-civil:16.2",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "16.2",
+      "citation": "District of the Northern Mariana Islands · Rule 16.2",
+      "title": "During the conference, the Court will address motion deadlines,",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 16.2. During the conference, the Court will address motion deadlines, \nconference dates, track assignment, alternative dispute resolution (“ADR”) \nand discovery.\n2. Following the CMC, the Court will issue a Case Management Scheduling \nOrder, which establishes the trial date, conference dates, track assignments \nand deadlines. See LR 16.3. \nLR 16.2 - Case Management Conference \na. Order Setting Case Management Conference (“CMC”). \nExcept for cases listed in subsection (e) of this rule or when there is good cause \nfor delay, the Court will issue an order, within fourteen (14) days, after any \ndefendant has appeared, setting a CMC which will take place approximately thirty￾five (35) days after the order is issued. When appropriate, the order setting the \nCMC will include the Court’s tentative track assignment. \nb. Pre-CMC Requirements. \nIn accordance with Fed. R. Civ. P. 26(f), the parties must confer at least 21 days \nbefore the CMC and must file a joint case management statement not less than \nseven (7) days prior to the date set for the Case Management Conference. \nc. Joint Case Management Statement; Content. \nCounsel for all parties will be required to file a joint written statement that \nspecifically addresses all matters critical to the development of a realistic and \nefficient case management plan, including:\n1. whether any issue exists regarding venue or jurisdiction over the subject \nmatter or the person;\n2. whether all parties have been properly designated and served; \n3. whether any party expects to add additional parties or claims or otherwise \namend the pleadings; \n4. whether any question exists concerning appointment of a guardian ad litem, \nnext friend, administrator, executor, receiver, or trustee;",
+          "pages": [
+            18
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "66\n5. the parties’ discovery plan, specifically all subjects listed in Fed R. Civ. P. \n26(f)(3);\n6. the advisability of the use of a court-appointed expert or master to aid in \nthe administration of the case;\n7. the status of settlement negotiations, including the prospect of disposition \nwithout trial through any process, and the advisability of formal mediation \nor an early dispute resolution conference (see LR 16.4(a)-(b)); \n8. whether a trial by jury has been demanded in a timely fashion;\n9. any other matter which may be conducive to the just, efficient, and \neconomical determination of the proceedings, including the definition or \nlimitation of the issues.\nd. Representation at CMC by Attorney with Authority to Bind. Pursuant to Fed. R. \nCiv. P. 16(c), the attorney for a party participating in a Case Management \nConference or any other pretrial conference must have authority to enter into \nstipulations and to make admissions for the efficient administration of the case \nincluding all matters listed in Fed. R. Civ. P. 16(c)(2). \ne. Exemptions from Case Management Conference and Scheduling Orders\nAt the discretion of the judge assigned to the case, case management conferences \ngenerally will not be set and scheduling orders will not issue for the following \ncategories of cases:\n1. Habeas corpus petitions;\n2. Cases reviewing administrative rulings;\n3. Social security cases;\n4. Default proceedings;\n5. Actions to enforce judgments;\n6. Cases in which a number of defendants have not yet appeared; and",
+          "pages": [
+            19
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "67\n7. Cases in which there is a pending motion and the Court determines that a \nCMC will not promote expeditious and economical litigation (good cause) \nuntil the Court rules on the motion. \n",
+          "pages": [
+            20
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 18,
+      "pageSpan": [
+        18,
+        20
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmid-civil:16.3",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "16.3",
+      "citation": "District of the Northern Mariana Islands · Rule 16.3",
+      "title": "Case Management Scheduling Order",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 16.3 - Case Management Scheduling Order \nFollowing the CMC, the Court will issue a Case Management Scheduling Order,\nconsistent with the requirements in Fed. R. Civ. P. 16(b), that will assign a track, establish \ndeadlines and set conference and hearing dates. Specifically, the order will set:\n1. Deadlines for joining other parties and amending pleadings.\n2. Status conferences. At least one status conference will be scheduled approximately \nmidway between the date of the CMC and the discovery cut-off date.\n3. Discovery cutoff. This is the date by which all responses to written discovery will \nbe due and by which all depositions will be concluded. \nA. Counsel must initiate discovery requests and notice or subpoena \ndepositions sufficiently in advance of the discovery cut-off date to meet the \ncutoff. \nB. Discovery requests that seek responses or schedule depositions after the \ndiscovery cut-off are not enforceable except by order of the Court for \ngood cause shown. \n4. Discovery motions deadlines, including expert discovery deadlines, if applicable.\n5. Dates for early dispute resolution and/or settlement conference(s).\n6. Dispositive motions deadlines. A dispositive motion is a motion to dismiss \npursuant to Fed. R. Civ. P. 12(b), a motion for judgment on the pleadings pursuant \nto Fed. R. Civ. P. 12(c), a motion for summary judgment pursuant to Fed. R. Civ. \nP. 56, or any other motion which, if granted, would result in the entry of judgment \nor dismissal, would dispose of any claims or defenses, or would terminate the \nlitigation.\n7. Daubert-type motions deadlines, if applicable.",
+          "pages": [
+            20
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "68\n8. Proposed pretrial order deadline.\n9. Final Pretrial Conference.\n10. Trial date.\n",
+          "pages": [
+            21
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 20,
+      "pageSpan": [
+        20,
+        21
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmid-civil:16.4",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "16.4",
+      "citation": "District of the Northern Mariana Islands · Rule 16.4",
+      "title": "Alternative Dispute Resolution",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 16.4 - Alternative Dispute Resolution \nThe district court encourages the use of alternative dispute resolution (ADR), including \nearly dispute resolution, arbitration, mediation, settlement conference and other ADR \nprocesses, to reduce the expense and the stress of litigation. The parties must actively \ndiscuss alternate dispute resolution before the CMC and inform the Court of settlement \nprospects during the CMC. \na. Mediation.\nThe parties may agree to mediate and select a private mediator to assist with the\nresolution of their dispute(s). During the CMC, the parties will inform the Court\nif a mediator has been selected and mediation scheduled.\nb. Judicial Participation in Dispute Resolution.\n1. Judge Assignment. If mediation is not scheduled by the CMC, the Court will\nschedule a settlement conference before a judge to facilitate\ncommunication and negotiation between the parties in order to reach a\nresolution of their dispute(s). As a general rule, the judge assigned to try\nthe matter will not participate in dispute resolution with the parties. Upon\nwritten stipulation of all parties, however, the assigned judge in the\nexercise of his or her discretion, may preside over an early dispute\nresolution or settlement conference.\n2. Early Dispute Resolution (EDR) Conference. Upon request of the parties or by\norder of the Court, an early dispute resolution conference before a judge\nwill be scheduled shortly after the CMC. This conference, which takes\nplace early in the discovery process, will allow each party to present a\nsummary of legal theories and evidence in an effort to negotiate a prompt\ncost-savings resolution. The EDR judge may require the presence of the\nparties and counsel or allow attendance by telephone or video￾teleconference.",
+          "pages": [
+            21
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "69\n3. Settlement Conference.\nA. The Court will routinely set at least one settlement conference in its \nCase Management Scheduling Order to take place after substantial \ndiscovery has taken place. However, the parties may agree at any \ntime to private mediation or any party may request an earlier\nsettlement conference. \nB. Unless specifically excused by the settlement judge for good cause, \neach party and counsel will be required to attend the settlement \nconference, either personally or through a representative with full \nauthority to participate in settlement negotiations.\nC. By order, the settlement judge may require the submission and/or \nexchange of settlement offers and statements, which will not be \nmade part of the case file. Such statements should address \nundisputed and disputed factual and legal issues, remedy sought and \nany other matter that may further a just, speedy, and inexpensive \nresolution of the case, including estimated fees and expenses likely \nto be incurred if the matter proceeds to trial. \n",
+          "pages": [
+            22
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 21,
+      "pageSpan": [
+        21,
+        22
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmid-civil:16.5",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "16.5",
+      "citation": "District of the Northern Mariana Islands · Rule 16.5",
+      "title": "Pretrial Preparation; Duty of Parties",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 16.5 - Pretrial Preparation; Duty of Parties\na. Unless the judge otherwise orders, not less than fourteen (14) days before the \nscheduled trial date each party must:\n1. Serve and file briefs on all significant disputed issues of law, including \nforeseeable procedural and evidentiary issues, setting forth briefly the \nparty’s position and supporting authorities;\n2. For jury trials, plaintiff shall file and serve proposed voir dire questions\nand jury instructions; and defendant shall file and serve any additional or \ndifferent proposed jury instructions seven (7) days after;\n3. Exchange copies of all exhibits to be offered and all schedules, summaries, \ndiagrams, and charts to be used at trial other than for impeachment or \nrebuttal. Each proposed exhibit must be pre-marked for identification in a \nmanner clearly distinguishing plaintiff’s exhibits from defendant’s exhibits. ",
+          "pages": [
+            22
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-24",
+          "path": [],
+          "type": "paragraph",
+          "text": "70\nUpon request, a party must make the original of any exhibit available for \ninspection and copying.\n4. Foreign language documents.\nA. An exhibit in a language other than English must be accompanied \nby an English translation certified by a qualified translator as true \nand correct.\nB. Submitting a Translation. At least 28 days before trial commences, the \nproponent of a foreign language document must serve on all parties:\ni. the translation and the underlying foreign language document, \nand\nii. an affidavit setting forth the translator’s qualifications and \ncertifying the accuracy of the translation.\nC. Objecting to a Translation. At least 14 days before trial commences, a \nparty must serve on all other parties, in writing, any objections to \nthe accuracy of the translation. Objections must specify the alleged \ninaccuracies and offer an alternative translation.\nD. Effect of Failure to Comply.\ni. A proponent’s failure to comply with subsections (A) and (B), \nabsent a showing of good cause, renders the foreign language \ndocument and the English translation inadmissible.\nii. A party’s failure to comply with subsection (C), absent a showing \nof good cause, waives objection to the accuracy of the \ntranslation.\n5. Objections to Proposed Testimony and Exhibits. Promptly after receiving \nstatements and exhibits pursuant to this rule, any party objecting to the \nadmission in evidence of any proposed testimony or exhibit will advise the \nopposing party of the objection. The parties will meet and confer in \nadvance of trial with respect to any objections and attempt to resolve them. \nThey must advise the Court of any unresolved objections and make \nreasonable efforts to present the matters to the Court in advance of trial \nfor ruling.",
+          "pages": [
+            23
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "71\n6. For bench trials, the parties may file and serve proposed findings of fact \nand conclusions of law in addition to the material required by subsection \n(a) of this Rule. The Court may also direct that findings and conclusions \nbe filed.\n",
+          "pages": [
+            24
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 22,
+      "pageSpan": [
+        22,
+        24
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmid-civil:16.6",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "16.6",
+      "citation": "District of the Northern Mariana Islands · Rule 16.6",
+      "title": "Final Pretrial Conference and Order",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 16.6 - Final Pretrial Conference and Order\na. Final Pretrial Conference. Pursuant to Fed. R. Civ. P. 16(e), a final pretrial \nconference will be held not later than seven (7) days before the scheduled trial \ndate, unless deemed unnecessary by the Court and counsel.\n1. Individuals Attending. Unless excused by the judge, each unrepresented party \nmust be present at the final pretrial conference and a party with counsel \nmust be represented by at least one attorney who will conduct the trial. \nCounsel must have full authority from their clients with respect to \nsettlement and will be prepared to advise the judge as to the prospects of \nsettlement.\nb. Final Pretrial Order. The following issues will be discussed at the final pretrial \nconference and will be included in the final pretrial order, which order will be \nprepared jointly by the parties for the signature of the judge:\n1. The firm trial date;\n2. Stipulated and uncontroverted facts;\n3. List of issues to be tried;\n4. Disclosure of all witnesses;\n5. Listing and exchange of copies of all exhibits;\n6. Pretrial rulings, where possible, on objections to evidence;\n7. Disposition of all outstanding motions;\n8. Elimination of unnecessary or redundant proof, including limitations on \nexpert witnesses;\n9. Itemized statements of all damages by all parties;",
+          "pages": [
+            24
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "72\n10. Bifurcation of the trial;\n11. Limits on the length of trial;\n12. Jury selection issues; and\n13. Any issue that in the judge’s opinion may facilitate and expedite the trial, \nfor example the feasibility of presenting testimony by a summary written \nstatement.\n",
+          "pages": [
+            25
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 24,
+      "pageSpan": [
+        24,
+        25
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmid-civil:16.7",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "16.7",
+      "citation": "District of the Northern Mariana Islands · Rule 16.7",
+      "title": "Final Pretrial Conference and Order",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 16.7 - Final Pretrial Conference and Order\nAn established trial date will not be vacated unless there exists a compelling reason \nnecessitating a continuance. When the presiding judge is unable to convene trial as \nscheduled, the Court will, as soon as practicable, take the following action: \na. Determine if another judge would be available to preside over the trial on the date \nscheduled; or\nb. Convene a status conference for the purpose of advising counsel and the parties \nof the necessity to consider vacating the trial date; or\nc. Establish a new trial date, which will not unnecessarily inconvenience either \ncounsel or the parties.\n",
+          "pages": [
+            25
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 25,
+      "pageSpan": [
+        25,
+        25
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmid-civil:16.8",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "16.8",
+      "citation": "District of the Northern Mariana Islands · Rule 16.8",
+      "title": "Presence During Trial Days",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 16.8 - Presence During Trial Days\nOn every day during a trial, the attorneys, their clients, and any interpreter or translator \nmust be present in the courtroom or the immediate environs of the District Court at \nleast fifteen (15) minutes before the time the trial is scheduled to begin.\nIV. Parties\n",
+          "pages": [
+            25
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 25,
+      "pageSpan": [
+        25,
+        25
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmid-civil:17.1",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "17.1",
+      "citation": "District of the Northern Mariana Islands · Rule 17.1",
+      "title": "Infants and Incompetent Persons",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 17.1 - Infants and Incompetent Persons\na. Guardians Ad Litem. The judge will have broad discretion to appoint a guardian \nad litem pursuant to Fed. R. Civ. P. 17(c)(2).",
+          "pages": [
+            25
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "73\n1. Appointment Procedure. Guardians ad litem may be appointed ex parte, at any \ntime upon the presentation to the judge of a sworn petition showing good \ncause for the appointment. An appointment order will be submitted with \nthe petition.\n2. Person Ineligible to be a Guardian Ad Litem. Except in the discretion of the \njudge, no person will be appointed guardian ad litem if the person has an \ninterest adverse to that of the minor or incompetent; or if the person is \nconnected in business with an adverse party or with the attorney of the \nadverse party; or if the person has insufficient pecuniary ability to answer \nto the minor or incompetent for any injury which the minor or incompetent \nmay sustain as a result of the person’s negligence or misconduct.\n3. Bond of Guardian Ad Litem. Ordinarily, no bond will be necessary from a \nguardian ad litem; provided, that no guardian will receive any money or \nother property of the minor or incompetent until the guardian has filed \nwith the clerk a bond in an amount fixed by the judge, conditioned for the \nfaithful performance of the guardian’s duties. If the guardian does not \ndesire to receive any money or property of the minor or incompetent, the \nmoney or property will be paid or delivered to the clerk or to a person \ndirected by the Court. Under these circumstances, the payment or delivery \nof the money or property to the clerk will have the same effect as if the \nmoney or property had been paid or delivered to the guardian.\n4. Order of Judgment Required. No action by or on behalf of a minor or \nincompetent will be dismissed, discontinued, or terminated without the \nCourt’s approval. When required by Commonwealth law, court approval \nmust also be obtained from the appropriate Commonwealth court having \njurisdiction over the matter for any settlement or other disposition of \nlitigation involving a minor or incompetent.\n",
+          "pages": [
+            26
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 25,
+      "pageSpan": [
+        25,
+        26
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmid-civil:23.1",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "23.1",
+      "citation": "District of the Northern Mariana Islands · Rule 23.1",
+      "title": "Designation of “Class” in the Caption.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 23.1 - Designation of “Class” in the Caption.\nIn any case sought to be maintained as a class action, the complaint or other pleading \nasserting a class action must include next to its caption, the legend “Class Action.”",
+          "pages": [
+            26
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "74\nV. Depositions and Discovery\n",
+          "pages": [
+            27
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 26,
+      "pageSpan": [
+        26,
+        27
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmid-civil:26.1",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "26.1",
+      "citation": "District of the Northern Mariana Islands · Rule 26.1",
+      "title": "General Provisions",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 26.1 - General Provisions \n[RESERVED]\n",
+          "pages": [
+            27
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 27,
+      "pageSpan": [
+        27,
+        27
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmid-civil:26.2",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "26.2",
+      "citation": "District of the Northern Mariana Islands · Rule 26.2",
+      "title": "Discovery Disputes",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 26.2 - Discovery Disputes\na. Procedures for Minor Disputes. The procedures described in the following \nsubsections are intended to assist the parties in resolving minor discovery \ndisputes. While they do not replace regular motion practice which addresses\nsignificant and substantial discovery disputes, parties are encouraged to use the \nprocedures in subsections (1)-(4) to resolve most discovery disputes.\n1. Meet and Confer. A party with a discovery dispute must first meet and confer \nwith the opposing party in a good-faith effort to resolve by agreement the \nissues in dispute. Whenever possible, counsel will meet in person. If \nmeeting in person is not possible then counsel will confer by telephone. \nUnder no circumstances may counsel satisfy the obligation to meet and \nconfer by e-mail or other written correspondence. \n2. Conference with Court. At the option of the moving party or the Court, a \ndiscovery dispute may be resolved by conference with the Court. If the \nmeet and confer is unsuccessful, the parties may promptly contact \nchambers and request a telephone conference with a judicial officer. The \nrequest carries with it a professional representation by the lawyer that a \nmeet and confer has taken place. The recording of telephone conferences \nwith the Court is prohibited, except with prior permission of the Court. \nThe lawyers or unrepresented parties will supply the judicial officer with \nthe particular discovery materials (such as objectionable answers to \ninterrogatories) that are needed to understand the dispute. \n3. Disputes Arising During Depositions. If the dispute arises during a deposition \nregarding an issue of privilege, enforcement of a court-ordered limitation \non evidence, or pursuant to Fed. R. Civ. P. 30(d), counsel may contact \nchambers. If the judge is unavailable, counsel will mark the deposition at \nthe point of the dispute and continue with the deposition. Thereafter, \ncounsel will meet and confer regarding all disputed issues. If counsel have ",
+          "pages": [
+            27
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "75\nnot resolved their disputes through the meet and confer process, they may \nproceed in accordance with LR 26.2(a)(4) or 26.2(b).\n4. Written Motion.\nA. At the option of the moving party or the Court, discovery disputes \nmay be decided on oral motion, or on the basis of memoranda not \nto exceed two typewritten, double-spaced pages. The Court will act \npromptly upon a motion so made. Such action may include a ruling \nupon the motion, or such other orders as may be appropriate, \nincluding but not limited to an order requiring the parties to file \nadditional briefs and granting additional time to respond. The \nmoving party is responsible for coordinating the date and time of \nthe hearing with the Court and opposing parties. The Court will, \nupon oral or written motion, resolve any disputes regarding the date \nand time of the hearing.\nB. Written discovery motions must include a statement by the \npropounding party as to why the discovery is within the scope of \nFed.R.Civ.Pro. 26(b)(1), and must quote in full each interrogatory, \nquestion at deposition, request for admission or request for \nproduction to which the motion is addressed, or otherwise identify \nspecifically and succinctly the discovery to which objection is taken \nor from which a protective order is sought; and the response or \nobjection and grounds therefor, if any, as stated by the opposing \nparty. Unless otherwise ordered by the Court, the complete \ntranscripts or discovery documents need not be filed with the Court\nunless the motion cannot be fairly decided without reference to the \ncomplete original.\nb. Significant Discovery Disputes. In the event of a significant and substantial \ndiscovery dispute that cannot be adequately addressed by the subsections above, \nthe procedures set forth in LR 7.1 will be followed. ",
+          "pages": [
+            28
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "76\nVI. Trials\n",
+          "pages": [
+            29
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 27,
+      "pageSpan": [
+        27,
+        29
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmid-civil:41.1",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "41.1",
+      "citation": "District of the Northern Mariana Islands · Rule 41.1",
+      "title": "Dismissal of Actions",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 41.1 - Dismissal of Actions\nIn addition to dismissals pursuant to Fed. R. Civ. P. 41, if a proceeding has been pending for \nmore than six (6) months without any action taken by the parties during that period, the \nCourt may order the parties to show cause why the proceeding should not be dismissed for \nlack of prosecution. \nVII. Judgment\n",
+          "pages": [
+            29
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 29,
+      "pageSpan": [
+        29,
+        29
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmid-civil:54.2",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "54.2",
+      "citation": "District of the Northern Mariana Islands · Rule 54.2",
+      "title": "Jury Cost Assessment; Settlement Immediately Prior to Trial",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 54.2 - Jury Cost Assessment; Settlement Immediately Prior to Trial\nPursuant to the Court’s authority under 28 U.S.C. § 2071 and Fed. R. Civ. P. 83, whenever \nany civil action scheduled for jury trial is settled or otherwise disposed of in advance of \nthe date set for trial, then, except for good cause shown, juror costs, including marshal’s \nfees, mileage, air fare, per diem, and other related costs will be assessed equally against the \nparties or otherwise assessed as directed by the Court, unless the Clerk’s Office has been \nnotified in writing at least fourteen (14) days prior to the day on which the action is \nscheduled for trial, in time to advise the jurors that it will not be necessary for them to \nattend. Failure to notify the Clerk’s Office may subject counsel, in addition to the costs \nset forth above, to such sanctions as may be deemed appropriate by the Court under the \ncircumstances.\n",
+          "pages": [
+            29
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 29,
+      "pageSpan": [
+        29,
+        29
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmid-civil:62.1",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "62.1",
+      "citation": "District of the Northern Mariana Islands · Rule 62.1",
+      "title": "Supersedeas Bonds.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 62.1 - Supersedeas Bonds.\na. Nonresidents. Every nonresident filing a complaint must within ten (10) days after \ndemand of an adverse party file with the complaint a bond for costs in the sum of \n$500 unless for good cause, on motion (which may be made ex parte), the Court\ndispenses with the bond or fixes a different amount. The bond must have \nsufficient surety and will be conditioned to secure the payment of all costs of the \naction which the party ultimately may be required to pay to any other party. After \nthe bond is filed, any opposing party may raise objections to its form or to the \nsufficiency of the surety for determination by the clerk. If the bond is found to be \ninsufficient, the Court may order the filing of a sufficient bond within a specified ",
+          "pages": [
+            29
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "77\ntime. If the order is not complied with, the clerk will enter dismissal of the action \nas in a case of dismissal for want of prosecution.\nb. Other Parties. On its own motion or a party’s motion, the Court may order any \nparty to file a bond for costs in an amount and under conditions designated by the \nCourt.\nc. Qualifications of Surety. Every bond for costs under these Rules must have as \nsurety either (1) a cash deposit equal to the amount of the bond, or (2) a \ncorporation authorized by the Secretary of the Treasury of the United States to act \nas surety on official bonds, or (3) two individual residents of the Northern Mariana \nIslands, each of whom owns real or personal property within the Northern \nMariana Islands sufficient in value above encumbrances to justify the full amount \nof the suretyship, or (4) any insurance, surety, or bonding company licensed to do \nbusiness in the Northern Mariana Islands.\n \nd. Suits by Indigent Persons. At the time application is made, under laws allowing \nindigent persons leave to commence civil proceedings without pre-paying fees and \ncosts or giving security for them, the applicant must file a written consent that any \nrecovery in the proceeding will, as the Court may direct, be paid to the clerk, who \nmay pay unpaid fees and costs taxed against the plaintiff and, to plaintiff’s attorney, \nthe amount which the Court allows or approves as compensation for the attorney’s \nservices. \nVIII. Provisional and Final Remedies and Special \nProceedings\n",
+          "pages": [
+            30
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 29,
+      "pageSpan": [
+        29,
+        30
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmid-civil:63.1",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "63.1",
+      "citation": "District of the Northern Mariana Islands · Rule 63.1",
+      "title": "Receiverships",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 63.1 - Receiverships\na. Appointment of Receivers. Application for the appointment of a receiver may be \nmade after the complaint has been filed and the summons issued.\n1. Emergency Receivers. An emergency receiver may be appointed without notice \nto the party sought to be subjected to a receivership. As soon thereafter as \nmay be practicable, the party who obtained the emergency receivership \nmust seek appointment of a permanent receiver.\n2. Permanent Receivers. A permanent receiver may be appointed after notice and \nhearing upon an order to show cause. This order will be issued by a judge ",
+          "pages": [
+            30
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "78\nupon appointment of a temporary receiver or upon application of the \nplaintiff and will be served on all parties. The defendant must provide to \nthe temporary receiver (or, if there is no temporary receiver, the plaintiff) \nwithin seven (7) days after being served with the order a list of defendant’s \ncreditors and their addresses. Not less than five (5) days before the hearing, \nthe temporary receiver (or, if none, the plaintiff) must mail to the creditors \nlisted a notice of hearing, and file proof of mailing.\nb. Bond. A judge may require any receiver appointed to furnish a bond in an amount \nwhich the judge deems reasonable.\nc. Employment of Experts. The receiver must not employ an attorney, accountant, \nor investigator without an order of a judge. The compensation of all such persons \nwill be fixed by the judge.\nd. Application for Receiver’s Fees. An application for receiver’s fees must be made \nby a petition setting forth in reasonable detail the nature of the services rendered. \nProceedings on fee applications will be heard in open court, unless all parties waive \ntheir appearance in writing.\ne. Deposit of Funds. A receiver must deposit all funds received in a depository \ndesignated by the judge, entitling the account with the name and number of the \naction. At the end of each month, the receiver must deliver to the clerk a statement \nof account and the canceled checks.\nf. Reports by Receiver. Within twenty-eight (28) days of appointment, a permanent\nreceiver must file with the Court a verified report and petition for instructions. \nThe petition will be heard on seven (7) days’ notice to all known creditors and \nparties. The report must contain a summary of the operations of the receiver, an \ninventory of the assets and their appraised value, a schedule of all receipts and \ndisbursements, and a list of all creditors, their addresses, and the amount of their \nclaims. The petition must contain the receiver’s recommendation as to the \ncontinuance of the receivership and reason for the recommendations. At the \nhearing, the judge will determine whether the receivership will be continued and, \nif so, the judge will fix the time for future reports of the receiver.\ng. Notice of Hearings. The receiver must give all interested parties at least ten (10) \ndays’ notice of the time and place of hearings concerning:",
+          "pages": [
+            31
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "79\n1. Petitions for the payment of dividends to creditors;\n2. Petitions for confirmation of sales of property;\n3. Reports of the receiver;\n4. Applications for fees of the receiver or of any attorney, accountant or \ninvestigator, with a statement of services performed and the fee sought; and\n5. Applications for discharge of the receiver.\nIX. Proceedings before Magistrate Judges\n",
+          "pages": [
+            32
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 30,
+      "pageSpan": [
+        30,
+        32
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmid-civil:72.1",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "72.1",
+      "citation": "District of the Northern Mariana Islands · Rule 72.1",
+      "title": "Authority of United States Magistrate Judges",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 72.1 - Authority of United States Magistrate Judges\na. Duties Under 28 U.S.C. § 636(a). A United States magistrate judge of this Court \nis authorized to perform the duties prescribed by 28 U.S.C. § 636(a), and may:\n1. Conduct scheduling, settlement and pretrial conferences, and related \npretrial proceedings in civil cases;\n2. Issue summonses, warrants, and search warrants; appoint attorneys; \nconduct proceedings under Fed. R. Crim. P. 5 and 32.1 and under 18 \nU.S.C. § 3141 et seq., including initial appearances, detention hearings and \narraignments;\n3. Issue subpoenas or other orders necessary to obtain the presence of \nparties, witnesses, or evidence needed for court proceedings;\n4. Receive grand jury returns in accordance with Fed. R. Crim. P. 6(f);\n5. Accept waivers of indictments pursuant to Fed. R. Crim. P. 7(b);\n6. Conduct voir dire and select petit and grand juries for the Court;\n7. Accept petit jury verdicts when the district judge is unavailable, in a \nmanner consistent with the Constitution and laws of the United States;",
+          "pages": [
+            32
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "80\n8. Take a felony guilty plea when the defendant consents;\n9. Order the exoneration or forfeiture of bonds;\n10. Conduct naturalization ceremonies;\n11. Conduct extradition proceedings in accordance with 18 U.S.C. § 3184;\n12. Conduct proceedings for the collection of civil penalties of not more than \n$200 assessed under the Federal Boat Safety Act of 1971 in accordance \nwith 46 U.S.C. § 12309(c);\n13. Conduct examinations of judgment debtors in accordance with Fed. R. \nCiv. P. 69;\n14. Perform the functions specified in 18 U.S.C. §§ 4107, 4108, and 4109\nregarding proceedings for verification of appointment of counsel therein;\n15. Conduct hearings to modify, revoke, or terminate supervised release, \nincluding evidentiary hearings, and to submit to the district judge proposed \nfindings of fact and recommendations for such modification, revocation, \nor termination by the district judge, including, in the case of revocation, a \nrecommended disposition under section 18 U.S.C. § 3583(e); and \n16. Perform any additional duty not inconsistent with the Constitution and \nLaws of the United States.\nb. Disposition of Misdemeanor Cases.\nA magistrate judge may:\n1. Try persons accused of, and sentence persons convicted of, misdemeanors \nin accordance with 18 U.S.C. § 3401 and Fed. R. Crim. P. 58;\n2. Direct the probation office of the Court to conduct a presentence \ninvestigation in any misdemeanor case; \n3. Conduct jury trials in misdemeanor cases when the defendant consents and \nis entitled to trial by jury under the Constitution and laws of the United \nStates; and",
+          "pages": [
+            33
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "81\n4. Grant probation and revoke, modify, reinstate or terminate the probation of any \nperson granted probation by a magistrate judge in a misdemeanor case.\nc. Conduct of Trials and Disposition of Civil Cases Upon Consent of the Parties.\nUpon the consent of the parties, a magistrate judge may conduct any or all \nproceedings in any civil case, including the conduct of a jury or nonjury trial, and \nmay order the entry of a final judgment, in accordance with 28 U.S.C. § 636(c). In \nthe course of conducting such proceedings, a magistrate judge may hear and \ndetermine any and all pretrial and post-trial motions that are filed by the parties, \nincluding case-dispositive motions.\nd. Recommendations Regarding Case-Dispositive Motions. In accordance with 28 \nU.S.C. § 636(b)(1)(B), a magistrate judge may submit to a district judge a report \ncontaining proposed findings of fact and recommendations for disposition by the \ndistrict judge of the following pretrial motions in civil and criminal cases:\n1. Motions for injunctive relief, including temporary restraining orders and \npreliminary and permanent injunctions;\n2. Motions for judgment on the pleadings;\n3. Motions for summary judgment;\n4. Motions to dismiss or permit the maintenance of a class action;\n5. Motions to dismiss for failure to state a claim upon which relief may be \ngranted;\n6. Motions to involuntarily dismiss an action;\n7. Motions for review of default judgment;\n8. Motions to dismiss or quash an indictment or information made by a \ndefendant; and\n9. Motions to suppress evidence in a criminal case. A magistrate judge may \ndetermine any preliminary matters and conduct any necessary evidentiary \nhearings or other proceedings arising in the exercise of the authority \nconferred by this subsection.\ne. Prisoner Cases Under 28 U.S.C. §§ 2241, 2254, and 2255. A magistrate judge may \nperform any or all of the duties imposed upon a judge by the rules governing \nproceedings in the United States District Courts under 28 U.S.C. §§ 2241, 2254, \nand 2255. A magistrate judge may issue any preliminary orders and conduct any ",
+          "pages": [
+            34
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "82\nnecessary evidentiary hearing or other appropriate proceeding and submit to a \ndistrict judge a report containing proposed findings of fact and recommendations \nfor disposition of the petition by the judge. Upon the consent of the parties, a \nmagistrate judge may conduct any or all proceedings in such cases and may order \nthe entry of a final judgment, in accordance with 28 U.S.C. § 636(c).\nf. Prisoner Cases Under 42 U.S.C. § 1983 and Bivens Cases. A magistrate judge may \nissue any preliminary orders and conduct any necessary evidentiary hearing or \nother appropriate proceeding, and submit to a district judge a report containing \nproposed findings of fact and recommendations for the disposition of petitions \nfiled by prisoners pursuant to 42 U.S.C. § 1983 and Bivens v. Six Unknown Named \nAgents of Federal Bureau of Narcotics, 402 U.S. 388, 91 S.Ct. 1999, 29 L. Ed. 2d 619 \n(1971). Upon the consent of the parties, a magistrate judge may conduct any or all \nproceedings in such cases, including the conduct of a jury or nonjury trial, and may \norder the entry of a final judgment, in accordance with 28 U.S.C. § 636(c).\ng. Special Master References. A magistrate judge may be designated by a district judge \nto serve as a special master in appropriate civil cases in accordance with 28 U.S.C. \n§ 636(b)(2) and Fed. R. Civ. P. 53. \n",
+          "pages": [
+            35
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 32,
+      "pageSpan": [
+        32,
+        35
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmid-civil:72.2",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "72.2",
+      "citation": "District of the Northern Mariana Islands · Rule 72.2",
+      "title": "Assignment of Matters to Magistrate Judges",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 72.2 - Assignment of Matters to Magistrate Judges \na. Criminal Cases. A district court judge may assign any pre-trial felony case \nproceeding or misdemeanor case to a magistrate judge consistent with LR 72.1. \nb. Civil Cases. A district court judge may assign any civil matter to a magistrate judge\nconsistent with LR 72.1. The Clerk’s Office will schedule all settlement \nconferences and all non-dispositive matters before a magistrate judge in cases \nassigned to designated judges unless the designated judge directs otherwise. Where \nthe parties consent to the trial and disposition of a case by a magistrate judge, such \ncase will be reassigned to a magistrate judge for the conduct of all further \nproceedings and the entry of judgment.\nc. Reservation of Proceedings by Judges. Nothing in these rules precludes a district \njudge from reserving any proceeding for conduct by a district judge, rather than \nby a magistrate judge.",
+          "pages": [
+            35
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-37",
+          "path": [],
+          "type": "paragraph",
+          "text": "83\n",
+          "pages": [
+            36
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 35,
+      "pageSpan": [
+        35,
+        36
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmid-civil:72.3",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "72.3",
+      "citation": "District of the Northern Mariana Islands · Rule 72.3",
+      "title": "Consent to Civil Trial Jurisdiction",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-37",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 72.3 - Consent to Civil Trial Jurisdiction \na. Consent to Exercise of Civil Trial Jurisdiction.\n1. In General. Cases will be assigned to the Chief Judge of the District Court. \nUpon recusal of the Chief Judge or when the Chief Judge is unavailable, \nparties will be notified of the availability of a magistrate judge to preside \nover the civil trial as authorized in 28 U.S.C. § 636(c)(1). With consent of \nthe parties, a magistrate judge may conduct any or all proceedings in any \ncivil case, including motions to dismiss, motions for summary judgment, a \njury or non-jury trial, and entry of a final judgment. The judgment may then \nbe appealed directly to the United States Court of Appeals like any other \njudgment of this Court.\n2. Consent. A magistrate judge may exercise case-dispositive authority only \nwhen the parties voluntarily consent. Parties may, without adverse \nsubstantive consequences, withhold their consent, but this will prevent the \nCourt’s case-dispositive jurisdiction from being exercised by a magistrate \njudge and the case will be assigned to a designated judge. Parties may \nconsent to have a magistrate judge hear all or any portion of a case and may \nconsent to a trial by a magistrate judge up to the date of trial even though \nthey may have previously declined to stipulate to such a consent.\n3. Confer Requirement and Stipulation. After receiving notification of the \navailability of a magistrate judge, parties must confer and jointly complete \nand file a form stipulation signed by the party or his or her attorney.\n4. Assignment of Magistrate Judge. When the joint stipulation indicates the \nconsent of the parties to magistrate judge jurisdiction, the Clerk’s Office \nwill assign the case to a magistrate judge. \nb. Withdrawal of Consent. After a case has been assigned to a magistrate judge, no \nparty may withdraw its consent to the exercise of a magistrate judge’s jurisdiction \nwithout court approval.\nc. Referral. A district court judge may refer matters pursuant to 28 U.S.C §636(a) and \n(b) to a magistrate judge irrespective of consent.",
+          "pages": [
+            36
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-38",
+          "path": [],
+          "type": "paragraph",
+          "text": "84\n",
+          "pages": [
+            37
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 36,
+      "pageSpan": [
+        36,
+        37
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmid-civil:72.4",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "72.4",
+      "citation": "District of the Northern Mariana Islands · Rule 72.4",
+      "title": "Objections; Appeals; Stay of Magistrate Judge’s Orders",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-38",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 72.4 - Objections; Appeals; Stay of Magistrate Judge’s Orders\na. Objections to Magistrate Judge’s Order. The procedure for filing objections to an \norder of a magistrate judge in a non-dispositive matter follows Fed. R. Civ. P. 72(a). \nb. Objections to Magistrate Judge’s Recommendation. The procedure for filing \nobjections to the recommendation of a magistrate judge on a dispositive matter \nfollows Fed. R. Civ. P. 72(b).\nc. Appeal from Judgment. The procedure for appeal from a judgment in an action \ntried by consent to a magistrate judge follows Fed. R. Civ. P. 73.\nd. Application for Stay of Magistrate Judge’s Order. Application for stay of a \nmagistrate judge’s order pending review of objections must first be made to the \nmagistrate judge.\ne. Application in Criminal Cases. In criminal cases, motions for a judge to review a \nmagistrate judge’s order must be filed within 14 days of the date the magistrate \njudge’s order is filed.\nX. District Courts and Clerks\n",
+          "pages": [
+            37
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 37,
+      "pageSpan": [
+        37,
+        37
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmid-civil:77.1",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "77.1",
+      "citation": "District of the Northern Mariana Islands · Rule 77.1",
+      "title": "Location and Hours of Court",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-38",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 77.1 - Location and Hours of Court\nThe Office of the Clerk of Court is located on the second floor of the Horiguchi Building,\nBeach Road, Garapan, Saipan. The mailing address is Post Office Box 500687, Saipan, \nMP 96950. The telephone number is (670) 237-1200; the facsimile number is (670) 237-\n1201. The Chambers telephone number is (670) 237-1230; the chambers facsimile\nnumber is (670) 237-1231.\nThe regular hours will be from 8:00 a.m. to 12:00 p.m. and 1:00 p.m. to 4:30 p.m. each \nday except Saturdays, Sundays, legal holidays and other days or times ordered by the \nCourt. ",
+          "pages": [
+            37
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "85\n",
+          "pages": [
+            38
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 37,
+      "pageSpan": [
+        37,
+        38
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmid-civil:77.2",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "77.2",
+      "citation": "District of the Northern Mariana Islands · Rule 77.2",
+      "title": "Sessions of the Court",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 77.2 - Sessions of the Court\nThe Court will be in continuous session on the island of Saipan, Commonwealth of the \nNorthern Mariana Islands. The Court may order sessions to be held at places within the \nCommonwealth other than Saipan.\n",
+          "pages": [
+            38
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 38,
+      "pageSpan": [
+        38,
+        38
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmid-civil:77.3",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "77.3",
+      "citation": "District of the Northern Mariana Islands · Rule 77.3",
+      "title": "Court Library",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 77.3 - Court Library\nThe Chief Judge’s chambers library is primarily for the use of judges and court personnel. \nAttorneys and pro se litigants may use the library in accordance with such rules and \nregulations as may be adopted by the Court. No books or other research materials may \nbe removed from the law library.\n",
+          "pages": [
+            38
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 38,
+      "pageSpan": [
+        38,
+        38
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmid-civil:77.4",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "77.4",
+      "citation": "District of the Northern Mariana Islands · Rule 77.4",
+      "title": "Ex Parte Communication With Judges",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 77.4 - Ex Parte Communication With Judges\nThe Court will not receive letters or other communications from counsel which do not \nindicate on their face that copies have been sent to opposing counsel. Ex parte \napplications for orders are to be made in accordance with LR 7.1(g).\n",
+          "pages": [
+            38
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 38,
+      "pageSpan": [
+        38,
+        38
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmid-civil:79.1",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "79.1",
+      "citation": "District of the Northern Mariana Islands · Rule 79.1",
+      "title": "Custody of Files and Exhibits",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 79.1 - Custody of Files and Exhibits\na. Custody of Exhibits During Trial or Evidentiary Hearing. Unless the Court\ndirects otherwise, each exhibit admitted into evidence during a trial or other \nevidentiary proceeding will be held in the custody of the clerk.\nb. Removal of Exhibits Upon Conclusion of Proceeding. At the conclusion of a \nproceeding in this Court, any exhibit placed in the custody of the clerk pursuant \nto subsection (a) must be removed by the party that submitted it into evidence.\nUnless otherwise permitted by the Court, no exhibit may be removed earlier than: \n1. 14 days after expiration of the time for filing a notice of appeal, if no notice \nof appeal is filed in the proceeding by any party; or\n2. 14 days after a mandate issues from the Court of Appeals, if an appeal was \ntaken by any party to the proceeding. ",
+          "pages": [
+            38
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-40",
+          "path": [],
+          "type": "paragraph",
+          "text": "86\nc. Disposition of Unclaimed Exhibits. Unless otherwise directed by the Court, the \nclerk may destroy or otherwise dispose of exhibits not reclaimed within 21 days \nafter the time set for removal under this rule.\n",
+          "pages": [
+            39
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 38,
+      "pageSpan": [
+        38,
+        39
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmid-civil:79.2",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "79.2",
+      "citation": "District of the Northern Mariana Islands · Rule 79.2",
+      "title": "Filing of Documents Under Seal",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-40",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 79.2 - Filing of Documents Under Seal \nThe following procedures govern documents under seal in civil and criminal cases for all \ndocuments filed after the effective date of these rules.\na. Procedures for Filing a Sealed Document.\n1. Format. Any sealed document must be conspicuously labeled “SEALED.”\n2. Motion to Seal. To obtain a sealing order, a party must file in CM/ECF an \nunsealed written motion containing: (A) a generic, non-confidential \nidentification of the document to be sealed; (B) the legal bases upon which \nthe party seeks the order, including the reasons why alternatives to sealing \nare inadequate; and (C) the duration for which sealing is requested. The \nmoving party also must send a proposed unsealed order granting the \nmotion and setting forth the bases for the Court’s action to chambers \nconsistent with chambers procedures. \n3. Document Proposed to be Sealed. The moving party must tender to the Court, \nin camera, the document proposed to be sealed. The document may be sent \nto chambers by e-mail consistent with chambers procedures or a hard copy \nmay be filed with the Clerk’s Office. The document will be kept under seal \npending a decision by the Court on the motion. If a party wishes to file a \ndocument under seal in CM/ECF, the party will contact the Clerk’s Office \nfor instructions regarding how to file the document, which must be filed \nseparately from the motion. If the motion to seal is denied, the document \nwill be returned by the clerk to the party tendering it, unless the Court\norders otherwise. The motion will be decided without a hearing, unless the \nCourt orders otherwise.\n4. Public Notice of Motion to Seal or Sealing Order. A motion to seal and any order \nto seal must be docketed according to the administrative procedures of the \nCourt.",
+          "pages": [
+            39
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-41",
+          "path": [],
+          "type": "paragraph",
+          "text": "87\n5. Objection to Sealing. Any person or entity, whether a party or not, may object \nto a motion to seal a document or may file a motion to unseal a document \npreviously sealed.\n6. Extension of Sealing. No order to seal will be extended except upon a \nsubsequent order of the Court obtained in accordance with this rule.\n7. Sealed Case. No case may be sealed in its entirety except by order of the \nCourt for cause shown, obtained in accordance with this rule.\nb. Exceptions.\n1. No motion or order is required to file the following under seal:\nA. An unredacted version of a pleading, paper, exhibit, reference list or \nother document containing personal data identifiers, in compliance \nwith these rules, the federal rules of procedure, or the E￾Government Act;\nB. An ex parte motion or application where sealing is permitted or \nrequired by law;\nC. Presentence investigation reports, pretrial services reports, \npsychiatric or psychological evaluations in criminal cases, including \ndocuments incorporating the content of the foregoing documents;\nD. Affidavits submitted in support of a motion for in forma pauperis\nstatus;\nE. Motions, orders, notices, and other matters occurring before the \ngrand jury, subject to the provisions of Fed. R. Crim. P. 6;\nF. Applications and orders for the disclosure of tax information (26 \nU.S.C. § 6103);\nG. Motions and orders involving the Classified Information \nProcedures Act (18 U.S.C. app. 3 §§ 1–16) or Foreign Intelligence \nSurveillance Act (50 U.S.C. § 1801);\nH. Pleadings and documents involving the Juvenile Delinquency Act;\nI. Requests and orders for authorization of investigative, expert, or \nother services pursuant to the Criminal Justice Act; or\nJ. Other documents required by law to be filed under seal.\n2. No publicly filed motion or order under this Rule is required for sealing \nthe following: \nA. Motion by the United States for a downward departure or \nreduction of sentence in a criminal case, with leave of Court upon ",
+          "pages": [
+            40
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-42",
+          "path": [],
+          "type": "paragraph",
+          "text": "88\na showing of particular need in an individual case to prevent \nserious harm; or \nB. Search, seizure, and arrest warrants and affidavits.\n3. A publicly filed motion and order citing only the statutory authority for \nsealing is required for the following:\nA. Applications and orders for pen/trap devices (18 U.S.C. § 2703);\nand\nB. Applications and orders for wire, oral, or electronic \ncommunication interception (18 U.S.C. § 2516).\nc. Unsealing. Unless the Court orders otherwise, the clerk will unseal the following \nsealed documents when indicated:\n1. Search warrant. After the search is executed and the warrant is returned to \nthe clerk;\n2. Arrest warrant, and in a violation case, any violation report. After the arrest is made;\n3. Indictment. Upon the arrest or appearance of a single defendant. In multi￾defendant cases, and unless the Court orders otherwise, upon the earliest \nof any of the following:\nA. 10 days following the arrest of any defendant;\nB. 30 days after return of the indictment; or\nC. when all defendants have been arrested or summoned.\nIn criminal cases, each defendant must be provided with a copy of the \ncharges against that defendant (with other portions redacted, if necessary), \neven if the indictment or complaint is otherwise sealed. In multi-defendant \ncases in which the indictment is to remain sealed, the government is \nresponsible for submitting to the magistrate judge for approval, reasonably \nin advance of the initial appearance, an appropriately redacted indictment \nfor disclosure to the defendant and to the public.\n4. Criminal Complaint. 30 days after issuance or when all defendants named \nare in custody or have been summoned, whichever is the earliest.\n5. Other sealed documents. All other sealed documents will be unsealed 120 \ndays from the date of entry of the sealing order, unless the sealing order \nprovides otherwise.",
+          "pages": [
+            41
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-43",
+          "path": [],
+          "type": "paragraph",
+          "text": "89\n",
+          "pages": [
+            42
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 39,
+      "pageSpan": [
+        39,
+        42
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmid-civil:79.3",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "79.3",
+      "citation": "District of the Northern Mariana Islands · Rule 79.3",
+      "title": "Use of Jury Electronic Evidence Presentation System (JEEPS)",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-43",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 79.3 - Use of Jury Electronic Evidence Presentation System (JEEPS)\na. Definition. This Court technology system allows a deliberating jury to review trial \nexhibits, such as documentary, photographic or video exhibits, on a large monitor \nusing a touch screen kiosk. \nb. Production of Exhibits in Electronic Format. In addition to submitting their \nexhibits in paper, the parties must simultaneously exchange and submit their \nexhibits in an electronic format. Exhibits will be described using neutral and non￾adversarial terms. To the extent practicable, the parties should endeavor to have \navailable at trial an electronic copy of any unlisted exhibit that is used to impeach \na witness and is admitted into evidence. Exhibits that cannot practically be reduced \nto electronic format, such as large physical exhibits, or exhibits that the parties \nhave agreed should not be submitted to the deliberating jury in electronic format \nneed not be submitted electronically.\nc. Confirmation of Exhibits Released to Jury for Deliberations. Before the jury \nbegins to deliberate, the parties will confer with the courtroom deputy and will:\n1. agree on the exhibits that will be released to the jury, \n2. confirm that the exhibits in electronic format are identical to the exhibits \nadmitted into evidence, and \n3. agree what restrictions, if any, may apply to each exhibit (e.g. audio only, \nvideo only). \nAny disagreements will be resolved by the presiding judge.\nd. Integrity of Deliberation Process. No court personnel will enter the jury room \nonce deliberations have commenced without the Court’s permission. Any request \nby the jury for technical assistance will have to be made in writing for court to \ndetermine whether the matter is administrative or whether it must be presented to \nthe parties for their consideration, before any court staff member will be permitted \nto provide assistance. In the event court staff must assist with a technical problem, \njurors will be escorted to another room while court staff resolves the problem.",
+          "pages": [
+            42
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-44",
+          "path": [],
+          "type": "paragraph",
+          "text": "90\nXI. General Provisions; Admission to Bar; Appearances\n",
+          "pages": [
+            43
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 42,
+      "pageSpan": [
+        42,
+        43
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmid-civil:83.1",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "83.1",
+      "citation": "District of the Northern Mariana Islands · Rule 83.1",
+      "title": "Local Rulemaking",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-44",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 83.1 - Local Rulemaking\nThese Rules have been promulgated pursuant to the authority granted the Court by 28 \nU.S.C. § 2071.\n",
+          "pages": [
+            43
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 43,
+      "pageSpan": [
+        43,
+        43
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmid-civil:83.2",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "83.2",
+      "citation": "District of the Northern Mariana Islands · Rule 83.2",
+      "title": "Cameras and Recording Devices",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-44",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 83.2 - Cameras and Recording Devices\na. Cameras Generally Prohibited. Unless authorized by a judicial officer, and except \nas permitted in subparagraph (b), a device whose exclusive or principal use is as a \ncamera or video recorder may not be brought into or used in the courthouse of \nthe District Court for the Northern Mariana Islands. “Courthouse” includes all \ncourtrooms, the grand jury room, and the entire first and second floors of the \nHoriguchi Building. \nb. Exception for Ceremonies. A device whose exclusive or principal use is as a \ncamera or video recorder may be brought into the courthouse and used in the \ncourtrooms during naturalization ceremonies, weddings, and other such events, as \nauthorized by a judicial officer and subject to any restrictions deemed necessary by \ncourt security.\nc. Permissible Devices. After a person has cleared court security, an electronic device, \nincluding but not limited to a cellular telephone, a smartphone, a laptop computer, \nan electronic tablet, or a personal data assistant (PDA), regardless of the \ntechnology used or the name by which the device is marketed, may be brought \ninto the courthouse, including the public areas of the courtrooms.\nd. Impermissible Uses of Permissible Devices. A person must not use a permissible \ndevice defined in subparagraph (c) to take photographs or to make audio or video \nrecordings in the courthouse, including the public areas of the courtrooms. A \nperson must not use a permissible device defined in subdivision (c) to take \nphotographs or to make audio or video recordings in any courtroom or chambers \nexcept as authorized by the judicial officer having direct control of that space.\ne. Sanctions for Violations. Violation of this rule may constitute contempt of court \npunishable by incarceration and the imposition of fines, costs, and attorney fees. \nThe Court authorizes the following agencies and those under contract employment \nof such agencies to maintain the security of district court spaces:",
+          "pages": [
+            43
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-45",
+          "path": [],
+          "type": "paragraph",
+          "text": "91\n1. United States Marshals Service;\n2. United States Department of Homeland Security Federal Protective \nService; and\n3. United States General Services Administration.\nThe authority to maintain security through the enforcement of this rule may involve \ntaking possession of the device, searching the device and its contents, and preserving, \ncopying, transferring, or deleting unauthorized video or audio recordings or photographs \nof court operations, proceedings, or facility space from electronic devices with or without \nthe cooperation of a person found to be in possession of the device. A judicial officer \nmay take action to enforce this rule or to sanction a violator.\n",
+          "pages": [
+            44
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 43,
+      "pageSpan": [
+        43,
+        44
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmid-civil:83.3",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "83.3",
+      "citation": "District of the Northern Mariana Islands · Rule 83.3",
+      "title": "Practice in this Court",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-45",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 83.3 - Practice in this Court\nExcept as otherwise provided by these Rules, only members of this Court’s bar or an \nattorney otherwise authorized by these Rules to practice before this Court may appear \nfor a party, sign stipulations, receive payment or enter satisfaction of a judgment, decree \nor order. Nothing in these Rules will prohibit an individual from appearing on his or \nher own behalf.\n",
+          "pages": [
+            44
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 44,
+      "pageSpan": [
+        44,
+        44
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmid-civil:83.4",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "83.4",
+      "citation": "District of the Northern Mariana Islands · Rule 83.4",
+      "title": "Appearances",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-45",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 83.4 - Appearances \na. Persons Appearing Without An Attorney (Pro Se). \n1. Any person representing himself or herself without an attorney must appear \npersonally for such purpose and may not delegate that duty to any other \nperson, including a spouse. Any person so representing himself or herself is \nbound by these Rules, and by the Federal Rules of Civil and Criminal \nProcedure. Failure to comply may be ground for dismissal or judgment by \ndefault.\n2. Unless the Court orders otherwise, a party who has appeared through counsel \nin a proceeding may not thereafter appear or act in his or her own behalf in \nthe proceeding unless the Court first enters an order of substitution after \nnotice to the party’s attorney and to all other parties. The Court may in its \ndiscretion hear a party in open court notwithstanding the fact that the party \nhas appeared or is represented by an attorney.",
+          "pages": [
+            44
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-46",
+          "path": [],
+          "type": "paragraph",
+          "text": "92\nb. Appearances by phone or video. Upon request (made at least two business days \nprior to the hearing date) of any attorney who does not reside on the island of \nSaipan, or who is temporarily absent from Saipan, the Court, in its discretion, may \nallow an attorney’s or a party’s appearance by telephone or by video-teleconference \n(preferred method) for conferences and arguments on motions. Telephone \nconferencing is encouraged when that practice will save the attorneys, parties, or \ncourt time and money.\nc. Substitutions. When counsel for any party ceases to act for the party, the party \nwill appear personally or appoint another attorney either: (1) by a written \nsubstitution of attorney signed by the party, the attorney ceasing to act, and the \nnewly-appointed attorney; or (2) by a written designation filed with the clerk and \nserved upon the attorney ceasing to act unless counsel of record is deceased, in \nwhich event the designation of new counsel must so state. The authority and \nresponsibility of counsel of record will continue for other purposes, until the Court\napproves the substitution.\nd. Withdrawal from Case. An attorney may withdraw from a civil or criminal case \nonly after order of the Court upon motion and for good cause shown, and after \nserving notice upon his or her client and opposing counsel.\ne. Proper Attire. All attorneys appearing in open court must be suitably dressed. \nMinimum acceptable dress for male practitioners will consist of a jacket, dress \nshirt, necktie, dress slacks, socks and shoes. Minimum acceptable dress for female \npractitioners will consist of a dress or suit, slacks or skirt and blouse, and shoes. \nThe Court may refuse to hear attorneys whose appearance does not conform to \nthis Rule.\n",
+          "pages": [
+            45
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 44,
+      "pageSpan": [
+        44,
+        45
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmid-civil:83.5",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "83.5",
+      "citation": "District of the Northern Mariana Islands · Rule 83.5",
+      "title": "Admission to the Bar of this Court",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-46",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 83.5 - Admission to the Bar of this Court \na. Admission to Practice. \nAdmission to and continuing membership in the bar of this Court is limited to \nattorneys of good moral character who are active members in good standing of\nthe Commonwealth Supreme Court Bar or, if admitted temporarily or pro hac \nvice, of any United States Court or the highest court of any State, Territory, or \nCommonwealth of the United States.\nb. Procedure for Admission. ",
+          "pages": [
+            45
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-47",
+          "path": [],
+          "type": "paragraph",
+          "text": "93\n1. Each applicant for admission must present to the clerk a written petition \nfor admission stating the applicant’s full name, residence address, office \naddress, the applicant’s law school and date of graduation, the names of the \nCourts before which the applicant is admitted to practice, and the \nrespective dates of admission to those courts.\n2. The application for admission must be accompanied by:\nA. A certificate from the Supreme Court of the Northern \nMariana Islands evidencing the fact that the applicant is an \nactive member in good standing, \nB. A certificate from all other states or territories in which the \napplicant is admitted to practice evidencing the fact that the \napplicant is in good standing.\n3. If the clerk finds that the petition for admission complies with these \nrequirements, a judge or his or her designee will administer the\nfollowing oath of admission to the applicant:\nI solemnly swear (or affirm) that I will support \nand abide by the Constitution and laws of the \nUnited States and the Commonwealth of the \nNorthern Mariana Islands; that I will maintain \ndue respect for the United States Courts and \nJudicial Officers; that I will conduct myself \nconscientiously as an attorney of this Court, \nand that I will abide by the Model Rules of \nProfessional Conduct of the American Bar \nAssociation.\n4. Before the clerk issues a certificate of admission to the applicant and \nenters the applicant into the roll of attorneys, the applicant must:\nA. sign the prescribed oath;\nB. pay an attorney admission fee fixed by the Judicial Conference\nof the United States, together with an assessment in an amount \nto be set by the Court made payable to Clerk, District Court of\nthe Northern Mariana Islands.",
+          "pages": [
+            46
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-48",
+          "path": [],
+          "type": "paragraph",
+          "text": "94\n5. Any attorney so admitted and any attorney previously admitted who\nremains eligible for admission under subsection (a) of this Rule will be\ndeemed to be a local member of this Court’s bar while residing in and\nhaving an office in the Northern Mariana Islands.\n6. Any attorney admitted to practice before this Court, but who does not\nreside in and have a full-time, staffed office in the Northern Mariana\nIslands, may practice only by associating local counsel as required by\nsubsection (f) of this Rule, unless the requirement is waived for good\ncause shown.\nc. Biennial Renewal Fee.\nEffective 2018,1 any attorney, other than pro hac vice, admitted the District Court\nfor the NMI, must pay a fee every two years in an amount set by the Court, which\nwill be due on or before February 15 payable to Clerk, District Court for the\nNorthern Mariana Islands. Upon failure to pay the renewal fee, a member will be\ngiven thirty (30) days’ notice by the Court that the renewal fee has not been\nreceived and that a late fee is due. If the attorney fails to pay the fees within thirty\n(30) days after the notice is sent, a second thirty-day notice will be sent and if the\nattorney fails to pay within this period, the Court will enter an order removing his\nor her name from the roll of attorneys admitted to the bar of this Court and the\nattorney will be required to qualify anew pursuant to subsections (a) and (b) of this\nRule before being re-registered as an active member of the bar of this Court.\nd. Temporary Admission.\n1. Any attorney who is a member in good standing of the bar of the\nhighest court of any state and who is employed by the United States,\nthe Commonwealth government, the Northern Mariana Islands\nProtection and Advocacy Systems, Inc., or Micronesian Legal Services\nCorporation will be eligible to practice before this Court within the\nscope of the attorney’s employment while so employed. Every attorney\nallowed to appear in this Court under this subsection must comply with\nthe requirements of subsection (b), above, except that attorneys\nemployed by the United States need not comply with subsection\n(b)(2)(A), (b)(4)(B), (b)(5), (b)(6) and (c).\n1 The renewal fee for 2018 will not apply to attorneys admitted between January 1, 2016 and February 15, 2018.",
+          "pages": [
+            47
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-49",
+          "path": [],
+          "type": "paragraph",
+          "text": "95\n2. Attorneys permitted to practice in this Court under this section are\nsubject to the jurisdiction of the Court with respect to their conduct to \nthe same extent as members of the bar of this Court.\n3. Upon termination of employment with any of the entities listed in \nsubsection (d)(1), the attorney so temporarily admitted will notify, in \nwriting, the clerk of such termination within fourteen (14) days. Once \nnotified, the clerk will strike the temporarily admitted government \nattorney from the roll of attorneys. If the temporarily admitted attorney\nmeets the requirements for full admission while still employed as an \nattorney for the entities listed in subsection (d)(1), and complies with all \nof the requirements set forth in subsection (b) herein, the admission fee\nwill be waived.\ne. Pro Hac Vice. \n1. Upon written application approved in the judge’s discretion, an attorney \nwho is a member in good standing of the bar of any United States court or \nof the highest court of any State, Territory, or Commonwealth of the \nUnited States, who is of good moral character, and who has been retained \nto appear in this Court, may appear and participate in a particular case \nsubject to the conditions of this Rule.\n2. Unless otherwise authorized by the United States Constitution or Acts of \nCongress, an attorney is ineligible to practice under this section if:\nA. The attorney resides in the Northern Mariana Islands; \nB. The attorney is regularly employed in the Northern Mariana Islands; \nor \nC. The attorney regularly engages in business, professional, or other \nactivities in the Northern Mariana Islands.\n3. The pro hac vice application will be presented to the clerk and must state \nunder penalty of perjury: \nA. The attorney’s residence and office address; \nB. The attorney’s law school and date of graduation; \nC. By what court(s) the attorney has been admitted to practice and the \ndate(s) of admission; ",
+          "pages": [
+            48
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-50",
+          "path": [],
+          "type": "paragraph",
+          "text": "96\nD. That the attorney is in good standing and eligible to practice in all \ncourt(s) to which the attorney has been admitted; \nE. That the attorney is not currently suspended or disbarred in any \ncourt; and \nF. If the attorney has concurrently or within the year preceding the \ncurrent application made any pro hac vice application in this Court, \nthe attorney must state: \ni. The title and the number of each matter wherein the attorney \nmade application, \nii. The date of application, and \niii. Whether or not the application was granted. \n4. The pro hac vice applicant will file with the application: \nA. Fee. Applicant must pay a fee fixed by the Judicial Conference of\nthe United States, together with an assessment in an amount to be\nset by the Court made payable to Clerk, District Court for the \nNorthern Mariana Islands. If the pro hac vice application is \ndenied, the Court may refund any or all of the fee or assessment \npaid by the attorney. If the application is granted, the attorney is\nsubject to the jurisdiction of the Court with respect to his conduct \nto the same extent as a member of the bar of this Court.\nB. Designation of Local Counsel. The applicant must designate local \ncounsel pursuant to section (f) of this rule. \ni. The pro hac vice applicant must file the address, telephone \nnumber, and a written consent from the attorney’s local \ncounsel with the application.\nii. The associated local counsel must at all times meaningfully \nparticipate in the preparation and trial of the case with the \nfull authority and responsibility to act as attorney of record \nfor all purposes. \niii. Local counsel must attend all proceedings related to the \ncase for which counsel is associated unless excused by this \nCourt.",
+          "pages": [
+            49
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-51",
+          "path": [],
+          "type": "paragraph",
+          "text": "97\niv. Any document required or authorized to be served on \ncounsel by the Federal Rules of Civil or Criminal \nProcedure, or by these Rules, may be served upon the \nassociated local counsel and such service will be as effective \nas if served on the off-island counsel. Service upon \nassociated local counsel will be deemed proper and \neffective service unless excused by the judge. \n5. Attorneys permitted to practice in this Court under this section are\nsubject to the jurisdiction of the Court with respect to their conduct to \nthe same extent as members of the bar of this Court.\n6. Notice of Change of Status. An attorney who is a member of this Court’s bar \nor who practices in this Court under subsection (e) of this Rule must\npromptly notify the Court of any change or potential for a change in his \nor her status in another jurisdiction which could make the attorney \nineligible either for membership in this Court’s bar or to practice in this \nCourt. \nf. Local Counsel for Non-Resident Attorneys and Pro Hac Vice Applicants.\nDue to the remoteness of this district, any attorney admitted to practice before this \nCourt who does not reside in and have a full-time, staffed office in the Northern \nMariana Islands, and any attorney seeking admission pro hac vice must associate \nwith an attorney with a local office who is an active member in good standing of \nthis Court’s bar. This requirement may be waived for good cause, at the Court’s \ndiscretion, upon a showing that the attorney has made diligent efforts to associate \nwith local counsel and has been unable to do so. \n",
+          "pages": [
+            50
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 45,
+      "pageSpan": [
+        45,
+        50
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "nmid-civil:83.6",
+      "collectionId": "nmid-civil",
+      "districtId": "nmid",
+      "number": "83.6",
+      "citation": "District of the Northern Mariana Islands · Rule 83.6",
+      "title": "Discipline; Sanctions for Unauthorized Practice",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-51",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 83.6 - Discipline; Sanctions for Unauthorized Practice\na. Discipline. Disciplinary matters will be conducted in accordance with the \nDisciplinary Rules of this Court.\nb. Prohibition of Unauthorized Practice. A person must neither exercise the \nprivileges of a member of this Court’s bar nor otherwise represent entitlement to \nexercise those privileges if that person:\n1. is not admitted to this Court’s bar; or\n2. has not obtained leave of court to appear in a proceeding; or\n3. is disbarred or suspended from practice before this Court.",
+          "pages": [
+            50
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-52",
+          "path": [],
+          "type": "paragraph",
+          "text": "98\nc. Sanctions. A person who violates subsection (b) of this Rule may be held in \ncontempt of court and appropriately sanctioned.",
+          "pages": [
+            51
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "nmid-civil-parsed-v1-501739f4579d2e6c",
+      "sourceDocumentId": "parsed-nmid-501739f4579d2e6c",
+      "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+      "pageIndex": 50,
+      "pageSpan": [
+        50,
+        51
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    }
+  ],
+  "evidence": [
+    {
+      "number": "1.1",
+      "heading": "LR 1.1 - Scope of the Rules",
+      "page": 6,
+      "offset": 21,
+      "slices": [
+        {
+          "page": 6,
+          "start": 21,
+          "end": 1805,
+          "sha256": "cf86078caa4499a87449767ca0fae4ecded27df6db3d22d6aea4eea1a34af5a7"
+        },
+        {
+          "page": 7,
+          "start": 0,
+          "end": 514,
+          "sha256": "1aec512a1623436c01c5c1f854a390849abb0c3691cc9e98715503f2b677d35d"
+        }
+      ]
+    },
+    {
+      "number": "1.2",
+      "heading": "LR 1.2 - Availability of the Local Rules",
+      "page": 7,
+      "offset": 514,
+      "slices": [
+        {
+          "page": 7,
+          "start": 514,
+          "end": 1194,
+          "sha256": "14ee3482d692dd71bf033a2686b9672db82e7fd33040b8200e8e607ebdb1f621"
+        }
+      ]
+    },
+    {
+      "number": "1.3",
+      "heading": "LR 1.3 - Sanctions",
+      "page": 7,
+      "offset": 1194,
+      "slices": [
+        {
+          "page": 7,
+          "start": 1194,
+          "end": 1447,
+          "sha256": "cda106ab0bb783c655e37615ac826254b72a8d97a002d4b9198f59e1d364dac6"
+        }
+      ]
+    },
+    {
+      "number": "1.4",
+      "heading": "LR 1.4 - Calendaring Conflicts",
+      "page": 7,
+      "offset": 1447,
+      "slices": [
+        {
+          "page": 7,
+          "start": 1447,
+          "end": 1911,
+          "sha256": "bc57c26a3a5e233459f88ec0be7571fc44644e5c95f605c67d863541568e6491"
+        },
+        {
+          "page": 8,
+          "start": 0,
+          "end": 309,
+          "sha256": "4ec28dc28a250a11f5c09b8826b0b80b2de78bafd3f6037805d7007e57de1b10"
+        }
+      ]
+    },
+    {
+      "number": "1.5",
+      "heading": "LR 1.5 - Standards of Professional Conduct",
+      "page": 8,
+      "offset": 309,
+      "slices": [
+        {
+          "page": 8,
+          "start": 309,
+          "end": 798,
+          "sha256": "3f099e78ebf871ef2fb5eb46defa2cd7d3257330f160607e94df5ebf3d6d11d1"
+        }
+      ]
+    },
+    {
+      "number": "3.1",
+      "heading": "LR 3.1 - Civil Cover Sheet",
+      "page": 8,
+      "offset": 798,
+      "slices": [
+        {
+          "page": 8,
+          "start": 798,
+          "end": 1556,
+          "sha256": "fb081a10767e427e147649559c12cd42f3b12f74710b7997030e1090b897938d"
+        },
+        {
+          "page": 9,
+          "start": 0,
+          "end": 3,
+          "sha256": "4c82a221b575ce7fe118b2e8cdf0764bf4ef570a3017e80b6d3438af9095f376"
+        }
+      ]
+    },
+    {
+      "number": "5.1",
+      "heading": "LR 5.1 - Electronic Filing",
+      "page": 9,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 9,
+          "start": 3,
+          "end": 899,
+          "sha256": "52d5737df807681b19cdfc9231bd69f598a18bb78b9950436d0dc39cd738205b"
+        }
+      ]
+    },
+    {
+      "number": "5.2",
+      "heading": "LR 5.2 - General Format of Documents Presented for Filing",
+      "page": 9,
+      "offset": 899,
+      "slices": [
+        {
+          "page": 9,
+          "start": 899,
+          "end": 2203,
+          "sha256": "0dfbc7fdb8bc15198b7a759b17a633ada5d124cb5768c0dc8d5c3f9fb7370bdd"
+        },
+        {
+          "page": 10,
+          "start": 0,
+          "end": 2015,
+          "sha256": "dcbef1c5df4bb2e5cad68ec17ae56f306fdce3786aaade0ec101e4dc8ca790a2"
+        },
+        {
+          "page": 11,
+          "start": 0,
+          "end": 1521,
+          "sha256": "e2284fccc206b11847ccbe577cf23d0c1262276d6fc3c0987c79b419c9269926"
+        }
+      ]
+    },
+    {
+      "number": "5.3",
+      "heading": "LR 5.3 - Filing by E-mail",
+      "page": 11,
+      "offset": 1521,
+      "slices": [
+        {
+          "page": 11,
+          "start": 1521,
+          "end": 2386,
+          "sha256": "b02f8409dc5bba83814ebbc73f1c407ed510fa28e9554382519af791b28bd778"
+        },
+        {
+          "page": 12,
+          "start": 0,
+          "end": 3,
+          "sha256": "1a62e878f334291869f88f4b71f8c157ee774b6bdb11d2ca86cccf2b48cef87b"
+        }
+      ]
+    },
+    {
+      "number": "6.1",
+      "heading": "LR 6.1 - Time Computation",
+      "page": 12,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 12,
+          "start": 3,
+          "end": 164,
+          "sha256": "fc118a657fa7a84534ba320b8a3a237e7d0b40bb0b61c7a5699f5d20deee2b6f"
+        }
+      ]
+    },
+    {
+      "number": "7.1",
+      "heading": "LR 7.1 - Motion Practice",
+      "page": 12,
+      "offset": 164,
+      "slices": [
+        {
+          "page": 12,
+          "start": 164,
+          "end": 1339,
+          "sha256": "6085fc9f75b26ad52fc55cd16f30c15534563dd122890aee0ffb583a1f092931"
+        },
+        {
+          "page": 13,
+          "start": 0,
+          "end": 1843,
+          "sha256": "aff453ad10d97db703804253e2de1d3ed95257e2271a103bbc1c1bcb02abc248"
+        },
+        {
+          "page": 14,
+          "start": 0,
+          "end": 1815,
+          "sha256": "e15db86aa2f21f8dc84481c8c149104b9250cea6222f54c668df4cf087999d82"
+        },
+        {
+          "page": 15,
+          "start": 0,
+          "end": 1648,
+          "sha256": "98f8187891cb719f5da6d5ff9a339485ae4713b1f35ce3558f9fa726b2fed29a"
+        },
+        {
+          "page": 16,
+          "start": 0,
+          "end": 177,
+          "sha256": "449123571ce41b7ae22036243216b1655a8b493e7f3cdc1e9de3a0dd6b673059"
+        }
+      ]
+    },
+    {
+      "number": "7.2",
+      "heading": "LR 7.2 - Stipulations",
+      "page": 16,
+      "offset": 177,
+      "slices": [
+        {
+          "page": 16,
+          "start": 177,
+          "end": 338,
+          "sha256": "854acdddad368226534b9fde39f1a2ddd25c131e1753cab267bae531a7cfeb9c"
+        }
+      ]
+    },
+    {
+      "number": "15.1",
+      "heading": "LR 15.1 - Form of a Motion to Amend and Its Supporting Documents",
+      "page": 16,
+      "offset": 338,
+      "slices": [
+        {
+          "page": 16,
+          "start": 338,
+          "end": 832,
+          "sha256": "e3c7f1f782749cfcac75b1acc115959dbac93de8ceda3003d136c644ddaeadd5"
+        }
+      ]
+    },
+    {
+      "number": "16.1",
+      "heading": "LR 16.1 - Case Management and Track Assignment",
+      "page": 16,
+      "offset": 832,
+      "slices": [
+        {
+          "page": 16,
+          "start": 832,
+          "end": 1941,
+          "sha256": "a67812b59933f3c3a20a7523ec8f9aba09364b3c6b14bf13fd185325d6b3d275"
+        },
+        {
+          "page": 17,
+          "start": 0,
+          "end": 1824,
+          "sha256": "5fcdc5c8db5ab55d1543fafc7e2691f82fb032ee5c13de85a6150ac9acf83af9"
+        },
+        {
+          "page": 18,
+          "start": 0,
+          "end": 1200,
+          "sha256": "c622749e2834c8a0fc13684ba65c248c048679476eeb86fbe433aef00acc0d6b"
+        },
+        {
+          "page": 19,
+          "start": 0,
+          "end": 74,
+          "sha256": "285854733f5323ed1ae53094ffff4d43da1f0cf9bbe9c658362a2056b265147f"
+        }
+      ]
+    },
+    {
+      "number": "16.2",
+      "heading": "LR 16.2. During the conference, the Court will address motion deadlines,",
+      "page": 19,
+      "offset": 74,
+      "slices": [
+        {
+          "page": 19,
+          "start": 74,
+          "end": 1817,
+          "sha256": "2cf08cbcd45bfe008da370d5dc810f0c878c7435ac467392e5d5562ad545f5ea"
+        },
+        {
+          "page": 20,
+          "start": 0,
+          "end": 1522,
+          "sha256": "09eb4ee5c623cdab2b5f87810bdb4fd72133d757ad3b3e58928e8e0eefb1fccd"
+        },
+        {
+          "page": 21,
+          "start": 0,
+          "end": 191,
+          "sha256": "f166810f6c4248782bff2b5fa61c9ea4abf44b7ac174bf03bd7f59c8ae3d9c0a"
+        }
+      ]
+    },
+    {
+      "number": "16.3",
+      "heading": "LR 16.3 - Case Management Scheduling Order",
+      "page": 21,
+      "offset": 191,
+      "slices": [
+        {
+          "page": 21,
+          "start": 191,
+          "end": 1800,
+          "sha256": "a221816587f7d3a152c885314e8297f37062fe71b092b4eae0278925af5d50a7"
+        },
+        {
+          "page": 22,
+          "start": 0,
+          "end": 86,
+          "sha256": "fb85d734d0cb63ca8589320b06c902eed7a0863059843e1444e8f53e3691c681"
+        }
+      ]
+    },
+    {
+      "number": "16.4",
+      "heading": "LR 16.4 - Alternative Dispute Resolution",
+      "page": 22,
+      "offset": 86,
+      "slices": [
+        {
+          "page": 22,
+          "start": 86,
+          "end": 1854,
+          "sha256": "c280111b029e730c04b357edc7f901ac29e01e47840be59acb214db88a517a12"
+        },
+        {
+          "page": 23,
+          "start": 0,
+          "end": 1031,
+          "sha256": "6235769f390db0dd583033b8f7cd38dd7329785265faa7651869ae2bd1fb18fa"
+        }
+      ]
+    },
+    {
+      "number": "16.5",
+      "heading": "LR 16.5 - Pretrial Preparation; Duty of Parties",
+      "page": 23,
+      "offset": 1031,
+      "slices": [
+        {
+          "page": 23,
+          "start": 1031,
+          "end": 1920,
+          "sha256": "c815176d7e5ab899358605752da91c00463b78ae8658de255dabde298099a54b"
+        },
+        {
+          "page": 24,
+          "start": 0,
+          "end": 1755,
+          "sha256": "d44c3d069b30b31fad43a01bd32dc56371288167817a7849a910196dbf672bbe"
+        },
+        {
+          "page": 25,
+          "start": 0,
+          "end": 242,
+          "sha256": "15467b9303f284ea3a5b7a6bc7c8446612a9118cf619b561e273a6e3cefe3eac"
+        }
+      ]
+    },
+    {
+      "number": "16.6",
+      "heading": "LR 16.6 - Final Pretrial Conference and Order",
+      "page": 25,
+      "offset": 242,
+      "slices": [
+        {
+          "page": 25,
+          "start": 242,
+          "end": 1563,
+          "sha256": "169cc984068359401746d601c07f2ba08da00427ad2a58d4d5db04804ec41c9d"
+        },
+        {
+          "page": 26,
+          "start": 0,
+          "end": 266,
+          "sha256": "a561eb6e64cd40039ef269f4a12844a6c00f641d629f5107ff6c464192ba3a88"
+        }
+      ]
+    },
+    {
+      "number": "16.7",
+      "heading": "LR 16.7 - Final Pretrial Conference and Order",
+      "page": 26,
+      "offset": 266,
+      "slices": [
+        {
+          "page": 26,
+          "start": 266,
+          "end": 912,
+          "sha256": "11981b793d903d3a1400b7551d6a329f224ab2cb8deb9e48fe06c2ee486ed750"
+        }
+      ]
+    },
+    {
+      "number": "16.8",
+      "heading": "LR 16.8 - Presence During Trial Days",
+      "page": 26,
+      "offset": 912,
+      "slices": [
+        {
+          "page": 26,
+          "start": 912,
+          "end": 1216,
+          "sha256": "3a8b5cd2ccc057d2c8af27fd0e012d498fdb45720ab04bf929a1295c3421318e"
+        }
+      ]
+    },
+    {
+      "number": "17.1",
+      "heading": "LR 17.1 - Infants and Incompetent Persons",
+      "page": 26,
+      "offset": 1216,
+      "slices": [
+        {
+          "page": 26,
+          "start": 1216,
+          "end": 1387,
+          "sha256": "0e3e0729794e73b8b8f1803e2e98eabe0b41ee69417f0a718284a4711c337f18"
+        },
+        {
+          "page": 27,
+          "start": 0,
+          "end": 1897,
+          "sha256": "adc65771f10013540a6758859584b72dfcd4b49be81c458d1131cfb5613f9eec"
+        }
+      ]
+    },
+    {
+      "number": "23.1",
+      "heading": "LR 23.1 - Designation of “Class” in the Caption.",
+      "page": 27,
+      "offset": 1897,
+      "slices": [
+        {
+          "page": 27,
+          "start": 1897,
+          "end": 2119,
+          "sha256": "c9a27305a473f94691ea3607bd815238a1c602327afde94fa6336103c2092f4e"
+        },
+        {
+          "page": 28,
+          "start": 0,
+          "end": 32,
+          "sha256": "f3c8703700ca295afb797c536af8e006f4b013585aa20e87c6720464d4486a5d"
+        }
+      ]
+    },
+    {
+      "number": "26.1",
+      "heading": "LR 26.1 - General Provisions",
+      "page": 28,
+      "offset": 32,
+      "slices": [
+        {
+          "page": 28,
+          "start": 32,
+          "end": 73,
+          "sha256": "8b0998783da99c2e7609cb00120220d7901c189cfe11d1d0cb5e33540469f373"
+        }
+      ]
+    },
+    {
+      "number": "26.2",
+      "heading": "LR 26.2 - Discovery Disputes",
+      "page": 28,
+      "offset": 73,
+      "slices": [
+        {
+          "page": 28,
+          "start": 73,
+          "end": 2084,
+          "sha256": "4ed2b46257d4d92e433141735830cc0cc67a6de971d6a28d18103fafa6982209"
+        },
+        {
+          "page": 29,
+          "start": 0,
+          "end": 1805,
+          "sha256": "69bf88c08f77b4eaadc529f6cf75bf0802f1d6af98e3eca3838d3e98a1cb38d7"
+        },
+        {
+          "page": 30,
+          "start": 0,
+          "end": 14,
+          "sha256": "6aa230f4e5b0e7c96ac534e7dc54d3039032be6366c9b57beae99cc71fafb8e7"
+        }
+      ]
+    },
+    {
+      "number": "41.1",
+      "heading": "LR 41.1 - Dismissal of Actions",
+      "page": 30,
+      "offset": 14,
+      "slices": [
+        {
+          "page": 30,
+          "start": 14,
+          "end": 357,
+          "sha256": "6ca067deb9559b21694488e781a1e387ade7bebdcdf106956539d13d8a1b234b"
+        }
+      ]
+    },
+    {
+      "number": "54.2",
+      "heading": "LR 54.2 - Jury Cost Assessment; Settlement Immediately Prior to Trial",
+      "page": 30,
+      "offset": 357,
+      "slices": [
+        {
+          "page": 30,
+          "start": 357,
+          "end": 1270,
+          "sha256": "e91c65c7cf7a41b0f1e6c265373c55643ed6a0e3d15b25243cd8f1c794bcb272"
+        }
+      ]
+    },
+    {
+      "number": "62.1",
+      "heading": "LR 62.1 - Supersedeas Bonds.",
+      "page": 30,
+      "offset": 1270,
+      "slices": [
+        {
+          "page": 30,
+          "start": 1270,
+          "end": 2042,
+          "sha256": "c59ce3bd8eed8683bf38c857076a77c99d04bb3bc516383c38bc456f8fc84772"
+        },
+        {
+          "page": 31,
+          "start": 0,
+          "end": 1510,
+          "sha256": "7817b48996ab32f2d6a5056b4bd0193afbe6aa11e345a44c271b738ef39206cf"
+        }
+      ]
+    },
+    {
+      "number": "63.1",
+      "heading": "LR 63.1 - Receiverships",
+      "page": 31,
+      "offset": 1510,
+      "slices": [
+        {
+          "page": 31,
+          "start": 1510,
+          "end": 2110,
+          "sha256": "d7fe9562ee2f6526bc10ea64e78c599224ddaa0b0b40163c1d834a0690f63a10"
+        },
+        {
+          "page": 32,
+          "start": 0,
+          "end": 2351,
+          "sha256": "7ec5ec2135f5660ef697fc632a73f6858591b502120dc9db3c33cb97c394fc09"
+        },
+        {
+          "page": 33,
+          "start": 0,
+          "end": 380,
+          "sha256": "b0727c52633b358dede00f533f18d6bf406ab61518e269a49c646b50e921c682"
+        }
+      ]
+    },
+    {
+      "number": "72.1",
+      "heading": "LR 72.1 - Authority of United States Magistrate Judges",
+      "page": 33,
+      "offset": 380,
+      "slices": [
+        {
+          "page": 33,
+          "start": 380,
+          "end": 1429,
+          "sha256": "7230fb994162cf50c10119e5039860aa3989027e96dc7558727183b7a9fe8696"
+        },
+        {
+          "page": 34,
+          "start": 0,
+          "end": 1575,
+          "sha256": "33b2e4647e42c5b96f1ecaa0791639dffbf25765ca3b3f6540ef30136e0c3d6f"
+        },
+        {
+          "page": 35,
+          "start": 0,
+          "end": 2094,
+          "sha256": "a7f7d6573b4c9f2672f91b3ab4bb0172653354c5b32f9fa87eec5a7b06ed5b77"
+        },
+        {
+          "page": 36,
+          "start": 0,
+          "end": 1345,
+          "sha256": "4def44d058b60ecf9e4bbff4f773fe01485496ce28cb73fbfc0dae5814562628"
+        }
+      ]
+    },
+    {
+      "number": "72.2",
+      "heading": "LR 72.2 - Assignment of Matters to Magistrate Judges",
+      "page": 36,
+      "offset": 1345,
+      "slices": [
+        {
+          "page": 36,
+          "start": 1345,
+          "end": 2280,
+          "sha256": "d89441f8b6a0f06765449fcd24dc90cbc6c5a0acd3b18ee3452056bb2adc4d5a"
+        },
+        {
+          "page": 37,
+          "start": 0,
+          "end": 3,
+          "sha256": "f1769867b0abc7068f5cb7dd41574a420b3cfa4553856f459857ff8e5a525b13"
+        }
+      ]
+    },
+    {
+      "number": "72.3",
+      "heading": "LR 72.3 - Consent to Civil Trial Jurisdiction",
+      "page": 37,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 37,
+          "start": 3,
+          "end": 2088,
+          "sha256": "ad72b785f53b9c150c9fe8778fa71f74e1e742f38ad8ddcb5c6c80726b782897"
+        },
+        {
+          "page": 38,
+          "start": 0,
+          "end": 3,
+          "sha256": "4b9258d432ecb4511cfe5471a58f3feea9e8aa513e1d32294894693827d3b0d4"
+        }
+      ]
+    },
+    {
+      "number": "72.4",
+      "heading": "LR 72.4 - Objections; Appeals; Stay of Magistrate Judge’s Orders",
+      "page": 38,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 38,
+          "start": 3,
+          "end": 979,
+          "sha256": "0870f6807fb19e1e250558461fd8b3b9499959c2fe28d42c1b1b78d7962b2137"
+        }
+      ]
+    },
+    {
+      "number": "77.1",
+      "heading": "LR 77.1 - Location and Hours of Court",
+      "page": 38,
+      "offset": 979,
+      "slices": [
+        {
+          "page": 38,
+          "start": 979,
+          "end": 1563,
+          "sha256": "9928c0510a203b51c399e6e444c95a02f3d807a09d4514a6e7deb25ab6131c51"
+        },
+        {
+          "page": 39,
+          "start": 0,
+          "end": 3,
+          "sha256": "ff393127b5a059b172af9b9eed820368071cf24d46df1b8326623c8e79178379"
+        }
+      ]
+    },
+    {
+      "number": "77.2",
+      "heading": "LR 77.2 - Sessions of the Court",
+      "page": 39,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 39,
+          "start": 3,
+          "end": 241,
+          "sha256": "b59a4bf82d6e5578d72c8d8783fc573e112e4da7ada959f86ff223b0cdc0030a"
+        }
+      ]
+    },
+    {
+      "number": "77.3",
+      "heading": "LR 77.3 - Court Library",
+      "page": 39,
+      "offset": 241,
+      "slices": [
+        {
+          "page": 39,
+          "start": 241,
+          "end": 562,
+          "sha256": "a0140e0442901d312a3f2f32200d971c89e67318476a250edcff4865de82e062"
+        }
+      ]
+    },
+    {
+      "number": "77.4",
+      "heading": "LR 77.4 - Ex Parte Communication With Judges",
+      "page": 39,
+      "offset": 562,
+      "slices": [
+        {
+          "page": 39,
+          "start": 562,
+          "end": 843,
+          "sha256": "83922af0a9edf805fe2a83690933d30d2ed68ac58feadf77b7fd5521bdbe8136"
+        }
+      ]
+    },
+    {
+      "number": "79.1",
+      "heading": "LR 79.1 - Custody of Files and Exhibits",
+      "page": 39,
+      "offset": 843,
+      "slices": [
+        {
+          "page": 39,
+          "start": 843,
+          "end": 1684,
+          "sha256": "7fe5d284effea6073b0f86a5f2f3d46620794ef5dae8326bc6b65858df9a3171"
+        },
+        {
+          "page": 40,
+          "start": 0,
+          "end": 215,
+          "sha256": "5ad61a26b7464df605cdffdeff729bc82a6f0c85db53de79ed124f332996748a"
+        }
+      ]
+    },
+    {
+      "number": "79.2",
+      "heading": "LR 79.2 - Filing of Documents Under Seal",
+      "page": 40,
+      "offset": 215,
+      "slices": [
+        {
+          "page": 40,
+          "start": 215,
+          "end": 2014,
+          "sha256": "609984fe19b2c02e1020e2e7a38d3819bb2f729c1ed3231a1a237ca0aff6de08"
+        },
+        {
+          "page": 41,
+          "start": 0,
+          "end": 1980,
+          "sha256": "f755677ef69e9051101c2e368e2465fb6eeea49d1c248bfe318cd03f247e9f5a"
+        },
+        {
+          "page": 42,
+          "start": 0,
+          "end": 1876,
+          "sha256": "0c8af6de2a5b40069c272c0953b0767e3ce03b9f988ab82619c290bb04f0ef7b"
+        },
+        {
+          "page": 43,
+          "start": 0,
+          "end": 3,
+          "sha256": "69a9cd8a9e12b122cdf59392131bf6c83e7360c2f745921e76f48a16f1cc541a"
+        }
+      ]
+    },
+    {
+      "number": "79.3",
+      "heading": "LR 79.3 - Use of Jury Electronic Evidence Presentation System (JEEPS)",
+      "page": 43,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 43,
+          "start": 3,
+          "end": 2045,
+          "sha256": "37ef8b7fed574deaf43d0435c9c664f12fc23e6ba7939c4df9bf9099567a2992"
+        },
+        {
+          "page": 44,
+          "start": 0,
+          "end": 57,
+          "sha256": "a54c361d8c714e594b3ed53d57750ce5ea5d0b2891e907261096bb6d68f65994"
+        }
+      ]
+    },
+    {
+      "number": "83.1",
+      "heading": "LR 83.1 - Local Rulemaking",
+      "page": 44,
+      "offset": 57,
+      "slices": [
+        {
+          "page": 44,
+          "start": 57,
+          "end": 184,
+          "sha256": "9ca7060fed2b02a06572dd0b13124bd2d94398f3def9e9a6bda61ebc16cb19c4"
+        }
+      ]
+    },
+    {
+      "number": "83.2",
+      "heading": "LR 83.2 - Cameras and Recording Devices",
+      "page": 44,
+      "offset": 184,
+      "slices": [
+        {
+          "page": 44,
+          "start": 184,
+          "end": 2192,
+          "sha256": "d680feff1461e2425b9712e9c4cd1398a2565257d05274832f6d07237daf7d48"
+        },
+        {
+          "page": 45,
+          "start": 0,
+          "end": 680,
+          "sha256": "cc4f3e27e827706bd2bcc7ec2077f68b0207c0e588d6121d0680f75fad38c4fa"
+        }
+      ]
+    },
+    {
+      "number": "83.3",
+      "heading": "LR 83.3 - Practice in this Court",
+      "page": 45,
+      "offset": 680,
+      "slices": [
+        {
+          "page": 45,
+          "start": 680,
+          "end": 1081,
+          "sha256": "1d748bd9fd9671ee785619f87b8ee171707ce967b01bded4293d42ddb737d564"
+        }
+      ]
+    },
+    {
+      "number": "83.4",
+      "heading": "LR 83.4 - Appearances",
+      "page": 45,
+      "offset": 1081,
+      "slices": [
+        {
+          "page": 45,
+          "start": 1081,
+          "end": 1977,
+          "sha256": "41ce441a331c02a472284e738022fd387a6c107820a1dd2a882486dc94101547"
+        },
+        {
+          "page": 46,
+          "start": 0,
+          "end": 1758,
+          "sha256": "9b0ac780952ee5864c068415d1116d263bd1a43831df0b5d1b304c5f73dc91dc"
+        }
+      ]
+    },
+    {
+      "number": "83.5",
+      "heading": "LR 83.5 - Admission to the Bar of this Court",
+      "page": 46,
+      "offset": 1758,
+      "slices": [
+        {
+          "page": 46,
+          "start": 1758,
+          "end": 2208,
+          "sha256": "f3d270f3b9e5715f1b0af4856f13670eb02c3c2dfcab954cf81360e25c570724"
+        },
+        {
+          "page": 47,
+          "start": 0,
+          "end": 1733,
+          "sha256": "98f9e9db9a4deb77db31fd04534c84c8974e36ce563e5bd5c93935456364392e"
+        },
+        {
+          "page": 48,
+          "start": 0,
+          "end": 2276,
+          "sha256": "d7df2748d85fb54fa305315b18bbe62d40fb006e4d21f0783485393e79e25268"
+        },
+        {
+          "page": 49,
+          "start": 0,
+          "end": 1927,
+          "sha256": "e100589f4728739329d9f71c4f3970aa14333622dea2dffb0c46ad0a0ab904de"
+        },
+        {
+          "page": 50,
+          "start": 0,
+          "end": 1737,
+          "sha256": "54ac3d28774d40fbfa60f75e6c66ca15f7ed921a4d00490531002d548a079588"
+        },
+        {
+          "page": 51,
+          "start": 0,
+          "end": 1583,
+          "sha256": "cc09990a4e8db55e8f3310d427947fb497a0e0fae187920938192590e2fb7ed1"
+        }
+      ]
+    },
+    {
+      "number": "83.6",
+      "heading": "LR 83.6 - Discipline; Sanctions for Unauthorized Practice",
+      "page": 51,
+      "offset": 1583,
+      "slices": [
+        {
+          "page": 51,
+          "start": 1583,
+          "end": 2124,
+          "sha256": "37be29d6bcdfeb55afa4706bd2148b559fd051c9ea83ea9275c192f439ef50b1"
+        },
+        {
+          "page": 52,
+          "start": 0,
+          "end": 130,
+          "sha256": "c0c2e3e46ba015273936f8dd2c9603053fe46aad83e9c812f78118e5a7ab01d9"
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "startPage": 6,
+    "startOffset": 21,
+    "endPage": 52,
+    "endOffset": 130,
+    "ruleCount": 46,
+    "tocReconciled": false,
+    "editorialReviewComplete": false,
+    "currencyReviewed": false,
+    "flags": [
+      "Source extraction contains unresolved characters; consult the original publication."
+    ],
+    "excluded": "Source material outside the recorded range remains available in the district source library."
+  },
+  "transcriptionSha256": "b5750ff3d272d30daa9aaf84aed4bb360bc59b407381f9a7beb20e52cf78bf7d"
+}

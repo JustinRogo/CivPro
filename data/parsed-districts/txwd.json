@@ -1,0 +1,1501 @@
+{
+  "version": 1,
+  "reviewStatus": "parsed-draft",
+  "districtId": "txwd",
+  "sourceDocument": {
+    "id": "475cd12040bc439f",
+    "title": "Download a complete copy of the Local Rules",
+    "format": "pdf",
+    "role": "primary",
+    "sourceUrl": "https://www.txwd.uscourts.gov/wp-content/uploads/2026/08/TXWD-Local-Rules-Full-Copy-081926.pdf",
+    "sha256": "475cd12040bc439f1f9041a6e17fe38845025076bba29546e8b67046ec52b647",
+    "bytes": 2232502,
+    "retrievedAt": "2026-09-07T00:02:27.257889+00:00",
+    "snapshotPath": "sources/district-snapshots/475cd12040bc439f1f9041a6e17fe38845025076bba29546e8b67046ec52b647.pdf",
+    "textPath": "data/source-library/475cd12040bc439f1f9041a6e17fe38845025076bba29546e8b67046ec52b647.json",
+    "pdfPath": "data/source-pdfs/475cd12040bc439f1f9041a6e17fe38845025076bba29546e8b67046ec52b647.pdf",
+    "pageCount": 245,
+    "reviewStatus": "source-document-only",
+    "blankTextPages": 0
+  },
+  "collection": {
+    "id": "txwd-civil",
+    "name": "Western District of Texas Local Rules",
+    "shortName": "Local rules · draft",
+    "districtId": "txwd",
+    "scopeNote": "Civil and generally applicable local rules; unparsed supplements remain in the source library. Rule boundaries and transcription are drafts. Embedded notes, forms, and running headers may remain within rule text; subsection anchors and field-separated notes are not yet reviewed."
+  },
+  "provisions": [
+    {
+      "id": "txwd-civil:1",
+      "collectionId": "txwd-civil",
+      "districtId": "txwd",
+      "number": "1",
+      "citation": "Western District of Texas · Rule 1",
+      "title": "SCOPE OF RULES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-12",
+          "path": [],
+          "type": "paragraph",
+          "text": "RULE CV-1. SCOPE OF RULES\n(a) The rules of procedure in any proceeding in this court shall be prescribed by the \nlaws of the United States, the rules of the Supreme Court of the United States, any applicable \nrules of the United States Court of Appeals for the Fifth Circuit, and these rules.\n(b) Where in any proceeding or in any instance there is no applicable rule of procedure, \na judge may prescribe one.\n(c) These rules may be cited as Local Court Rules.\n(d) Unless otherwise provided, any revision to these rules applies to all cases pending \non or filed after the date of the revision.\n(e) Any judge of this court may waive any requirement of these rules regarding the \nadministration of that judge’s docket.\n(f) All parties are encouraged to review the materials from the clerk’s office for any rules \nor requirements adopted by any judge pursuant to this provision. The clerk must post any such \nrules or requirements on the court website.",
+          "pages": [
+            11
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-13",
+          "path": [],
+          "type": "paragraph",
+          "text": "2\n",
+          "pages": [
+            12
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txwd-civil-parsed-v1-475cd12040bc439f",
+      "sourceDocumentId": "parsed-txwd-475cd12040bc439f",
+      "sourceUrl": "https://www.txwd.uscourts.gov/wp-content/uploads/2026/08/TXWD-Local-Rules-Full-Copy-081926.pdf",
+      "pageIndex": 11,
+      "pageSpan": [
+        11,
+        12
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txwd-civil:3",
+      "collectionId": "txwd-civil",
+      "districtId": "txwd",
+      "number": "3",
+      "citation": "Western District of Texas · Rule 3",
+      "title": "COMMENCEMENT OF ACTION",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-13",
+          "path": [],
+          "type": "paragraph",
+          "text": "RULE CV-3. COMMENCEMENT OF ACTION\n(a) Civil Cover Sheet. The clerk is authorized and instructed to require a complete and \nexecuted AO Form JS 44, Civil Cover Sheet, which shall accompany each civil case to be filed. If \nthe filing of a civil case is not accompanied by a complete and executed Civil Cover Sheet, the \nclerk must accept the case for filing, but must promptly inform the filing party that the filing party \nmust complete and execute the Civil Cover Sheet. If the filing party fails to do so not later than 7 \ndays after being informed, the clerk must so advise the court. An unrepresented person who files a \ncivil case or a person who, when filing a civil case, is in the custody of a civil, state, or federal \ninstitution, need not complete and execute the Civil Cover Sheet. All parties are required to advise \nthe court of any related cases, through means of the Civil Cover Sheet or otherwise.\n(b) Habeas Corpus Petitions Under 28 U.S.C. §§ 2241 and 2254 and Post-Conviction \nMotions Under 28 U.S.C. § 2255.\n(1) Petitions for writs of habeas corpus filed under 28 U.S.C. §§ 2241 and 2254 and \npost-conviction motions filed under 28 U.S.C. § 2255 shall be in writing, signed, and \nverified under penalty of perjury. See 28 U.S.C. § 2242.\n(2) Such petitions and motions shall be made on forms supplied by the court or set \nforth in detail all the information requested in the court’s forms.\n(3) A § 2241 petition must be filed in the division that includes the county in which \nthe petitioner is in custody. A § 2254 petition must be filed in the division that \nincludes the county in which the petitioner was convicted and sentenced or is in \ncustody. A § 2255 motion must be filed in the division in which the movant was tried \nand sentenced. A list of divisions and the counties they cover appears in the \nIntroduction to these Local Court Rules.",
+          "pages": [
+            12
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-14",
+          "path": [],
+          "type": "paragraph",
+          "text": "3\n",
+          "pages": [
+            13
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txwd-civil-parsed-v1-475cd12040bc439f",
+      "sourceDocumentId": "parsed-txwd-475cd12040bc439f",
+      "sourceUrl": "https://www.txwd.uscourts.gov/wp-content/uploads/2026/08/TXWD-Local-Rules-Full-Copy-081926.pdf",
+      "pageIndex": 12,
+      "pageSpan": [
+        12,
+        13
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txwd-civil:5",
+      "collectionId": "txwd-civil",
+      "districtId": "txwd",
+      "number": "5",
+      "citation": "Western District of Texas · Rule 5",
+      "title": "FILING REQUIREMENTS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-14",
+          "path": [],
+          "type": "paragraph",
+          "text": "RULE CV-5. FILING REQUIREMENTS\n(a) Filing Requirements. Documents filed by electronic means must comply with the \nAdministrative Policies and Procedures for Electronic Filing in Civil and Criminal Cases, \navailable on the court website.\n(b) Proposed Orders. Proposed orders must be filed through the clerk’s office and not \nsent directly to the judge.\n(c) Nonconforming Documents. If a document that fails to conform with these rules is \nsubmitted, the clerk shall file the document and promptly inform the filing party that the document \nis not in compliance with these rules.",
+          "pages": [
+            13
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-15",
+          "path": [],
+          "type": "paragraph",
+          "text": "4\n",
+          "pages": [
+            14
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txwd-civil-parsed-v1-475cd12040bc439f",
+      "sourceDocumentId": "parsed-txwd-475cd12040bc439f",
+      "sourceUrl": "https://www.txwd.uscourts.gov/wp-content/uploads/2026/08/TXWD-Local-Rules-Full-Copy-081926.pdf",
+      "pageIndex": 13,
+      "pageSpan": [
+        13,
+        14
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txwd-civil:5.2",
+      "collectionId": "txwd-civil",
+      "districtId": "txwd",
+      "number": "5.2",
+      "citation": "Western District of Texas · Rule 5.2",
+      "title": "DOCUMENTS FILED UNDER SEAL",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-15",
+          "path": [],
+          "type": "paragraph",
+          "text": "RULE CV-5.2. DOCUMENTS FILED UNDER SEAL\n(a) In limited circumstances, a party may need to submit a sealed document for \nconsideration by the court. For purposes of this rule, the term “sealed document” may include \nany pleading, motion, paper, physical item, or other submission that the Federal Rules of Civil \nProcedure or these rules permit or require to be filed. If the sealed document is associated with a \npleading, motion, or other submission requesting or opposing relief from the court, as in the case \nof an exhibit to such submission, the sealed document must not be filed with the submission. \nInstead, the sealed document must be separately filed as an exhibit to a motion requesting \npermission to keep the document under seal (a “sealing motion”). All documents intended to be \nkept under seal must be filed as an exhibit to a sealing motion.\n(b) Motions to keep pleadings, motions, or other submissions requesting or opposing \nrelief from the court under seal are disfavored. The court expects parties to draft such \nsubmissions in a manner that does not disclose confidential information. Parties should consider \nredacting confidential information not critical to the filing. When it is necessary to support the \nfiling, confidential information should be included in an appendix filed underseal and generally \nreferenced, without being revealed, in the filing.\n(c) The sealing motion must identify the submission the sealed document is associated \nwith, if applicable. The sealing motion and the accompanying sealed document must be filed under \nseal, state the factual basis for the requested sealing order, and otherwise comply with the \nrequirements of Rules CV-7 and CV-10 and the procedures governing electronic or paper filings, \nas applicable to the submission. The court expects parties to draft sealing motions in a manner that \ndoes not disclose confidential information because the sealing motion, without the sealed \ndocument, may subsequently be unsealed by court order.\n(d) If the court grants a sealing motion, the clerk will keep the sealed document under seal \nunless otherwise ordered by the court, and, if appropriate, the clerk shall link the sealed document \nto its associated pleading, motion, or other submission. The court may order that the sealing \nmotion, without the sealed document, be unsealed. If the court denies a sealing motion, the clerk, \non order of the court, shall delete the sealed document.\n(e) Counsel for a party moving to keep any document under seal is responsible for \nserving a copy of the sealed document on all counsel of record. Counsel for a party submitting \ndocuments containing redactions is responsible for serving an unredacted copy of the document \non all counsel of record, except that material may be left redacted if it is protected from \ndisclosure by an applicable statute or order. Counsel may not use the court’s electronic notice \nfacilities to serve the sealed or unredacted document.",
+          "pages": [
+            14
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "5\nCV-6\n[RULE DELETED]",
+          "pages": [
+            15
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "6\n",
+          "pages": [
+            16
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txwd-civil-parsed-v1-475cd12040bc439f",
+      "sourceDocumentId": "parsed-txwd-475cd12040bc439f",
+      "sourceUrl": "https://www.txwd.uscourts.gov/wp-content/uploads/2026/08/TXWD-Local-Rules-Full-Copy-081926.pdf",
+      "pageIndex": 14,
+      "pageSpan": [
+        14,
+        16
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txwd-civil:7",
+      "collectionId": "txwd-civil",
+      "districtId": "txwd",
+      "number": "7",
+      "citation": "Western District of Texas · Rule 7",
+      "title": "PLEADINGS ALLOWED; FORM OF MOTIONS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "RULE CV-7. PLEADINGS ALLOWED; FORM OF MOTIONS\n(a) Generally. Unless made during a hearing or trial, a pleading, motion, or other \nsubmission must meet the requirements of Rule CV-10.\n(b) Leave to File. When a motion for leave to file a pleading, motion, or other submission \nis required, an executed copy of the proposed pleading, motion, or other submission shall be filed \nas an exhibit to the motion for leave. Unless otherwise ordered, if the motion for leave is granted, \nthe clerk shall promptly file the pleading, motion, or other submission. After leave is granted, any \napplicable time limits triggered by the pleading, motion, or other submission shall run from the \nfiling of the pleading, motion, or other submission by the clerk or otherwise.\n(c) Motions.\n(1) Generally. Any legal authority in support of a motion must be cited in the motion, \nand not in a separate brief. An appendix may be filed with the motion specifying any \nfactual basis relied upon. If filed, the appendix must include all affidavits, deposition \ntranscripts, or other documents supporting the relied upon facts. All motions must state \nthe grounds therefor and cite any applicable rule, statute, or other authority justifying \nthe relief sought.\n(2) Page Limits. Unless otherwise authorized by the court, discovery and case \nmanagement motions are limited to 10 pages, and other motions are limited to 20 pages. \nThese page limits are exclusive of the caption, the signature block, any certificate, and \nany accompanying documents.\n(d) Responses.\n(1) Generally. Any party opposing a motion shall file a response and supporting \ndocuments as are then available. The response must contain a concise statement of the \nreasons for opposition to the motion and citations of the legal authorities on which the \nparty relies.\n(2) Time Limits. A response to a discovery or case management motion shall be filed \nnot later than 7 days after the filing of the motion. A response to other motions shall be \nfiled not later than 14 days after the filing of the motion, except as provided by Rule \nCV-15. If there is no response filed within the time period prescribed by this rule, the \ncourt may grant the motion as unopposed.\n(3) Page Limits. Unless otherwise authorized by the court, a response to a discovery or \ncase management motion is limited to 10 pages and a response to other motions is \nlimited to 20 pages. These page limits are exclusive of the caption, the signature block, \nany certificate, and any accompanying documents.\n(e) Replies.\n(1) Generally. A party may file a reply in support of a motion. Absent leave of court, no \nfurther submissions on the motion are allowed.",
+          "pages": [
+            16
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "7\n(2) Time Limit. A reply in support of a motion shall be filed not later than 7 days after \nthe filing of the response to the motion. The court need not wait for a reply before ruling \non a motion.\n(3) Page Limits. Unless otherwise authorized by the court, a reply in support of a \ndiscovery or case management motion is limited to 5 pages and a reply in support of \nother motions is limited to 10 pages. These page limits are exclusive of the caption, the \nsignature block, any certificate, and any accompanying documents.\n(f) Proposed Orders. A proposed order is required for all discovery and case management \nmotions.\n(g) Conference Required. The court may refuse to hear or may deny a nondispositive \nmotion unless the movant advises the court within the body of the motion that counsel for the \nparties have conferred in a good-faith attempt to resolve the matter by agreement and certifies the \nspecific reason that no agreement could be made. If there is any ambiguity about whether a motion \nis dispositive or nondispositive, the parties should confer. Movants are encouraged to indicate in \nthe title of the motion whether the motion is opposed. A motion is unopposed only if there has been \nan actual conference with opposing counsel and there is no opposition to any of the relief requested \nin the motion.",
+          "pages": [
+            17
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "8\n",
+          "pages": [
+            18
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txwd-civil-parsed-v1-475cd12040bc439f",
+      "sourceDocumentId": "parsed-txwd-475cd12040bc439f",
+      "sourceUrl": "https://www.txwd.uscourts.gov/wp-content/uploads/2026/08/TXWD-Local-Rules-Full-Copy-081926.pdf",
+      "pageIndex": 16,
+      "pageSpan": [
+        16,
+        18
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txwd-civil:10",
+      "collectionId": "txwd-civil",
+      "districtId": "txwd",
+      "number": "10",
+      "citation": "Western District of Texas · Rule 10",
+      "title": "FORM OF PLEADINGS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "RULE CV-10.FORM OF PLEADINGS\n(a) A pleading, motion, or other submission shall be typed or printed in 12-point or larger \nfont (including footnotes), double-spaced, on paper sized 8½” x 11” with one-inch margins on all \nsides and shall be endorsed with the style of the case and the descriptive name of the document. \nHeadings, footnotes, and quotations more than two lines long may be single-spaced.\n(b) A pleading, motion, or other submission filed by a represented party shall contain the \nmailing address, e-mail address, signature, state bar card number, and telephone and fax numbers, \nincluding area code, of the attorney.\n(c) A pleading, motion, or other submission filed by an unrepresented party shall contain \nthe party’s mailing address, e-mail address, signature, and telephone and fax numbers, including \narea code.\n(d) An unrepresented party and any attorney representing a party must promptly file a \nnotice of any change in the party’s or attorney’s name, mailing address, e-mail address, or \ntelephone or fax number. The court may sanction a party for the party’s or the attorney’s failure to \ndo so, including dismissal of the party’s claims or defenses.",
+          "pages": [
+            18
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "9\n",
+          "pages": [
+            19
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txwd-civil-parsed-v1-475cd12040bc439f",
+      "sourceDocumentId": "parsed-txwd-475cd12040bc439f",
+      "sourceUrl": "https://www.txwd.uscourts.gov/wp-content/uploads/2026/08/TXWD-Local-Rules-Full-Copy-081926.pdf",
+      "pageIndex": 18,
+      "pageSpan": [
+        18,
+        19
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txwd-civil:15",
+      "collectionId": "txwd-civil",
+      "districtId": "txwd",
+      "number": "15",
+      "citation": "Western District of Texas · Rule 15",
+      "title": "AMENDMENT OF PLEADINGS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "RULE CV-15. AMENDMENT OF PLEADINGS\n(a) Notwithstanding the time limits provided in Rule CV-7, a party may respond to a first \nmotion under Federal Rule of Civil Procedure 12(b) by filing an amended pleading as a matter of \ncourse not later than 21 days after the filing of the motion. See Fed. R. Civ. P. 15.\n(b) A party that is entitled to amend its pleadings as a matter of course pursuant to Federal \nRule of Civil Procedure 15 may do so without the necessity of filing a motion for leave to amend.\n[NEW RULE]",
+          "pages": [
+            19
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "10\n",
+          "pages": [
+            20
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txwd-civil-parsed-v1-475cd12040bc439f",
+      "sourceDocumentId": "parsed-txwd-475cd12040bc439f",
+      "sourceUrl": "https://www.txwd.uscourts.gov/wp-content/uploads/2026/08/TXWD-Local-Rules-Full-Copy-081926.pdf",
+      "pageIndex": 19,
+      "pageSpan": [
+        19,
+        20
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txwd-civil:16",
+      "collectionId": "txwd-civil",
+      "districtId": "txwd",
+      "number": "16",
+      "citation": "Western District of Texas · Rule 16",
+      "title": "PRETRIAL CONFERENCES; SCHEDULING; MANAGEMENT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "RULE CV-16. PRETRIAL CONFERENCES; SCHEDULING; MANAGEMENT\n(a) A scheduling order must be entered in every case except those exempted in subdivision\n(b) of this rule. The form of the scheduling order should conform to the form prescribed by the \njudge and posted on the court website. If the judge has not posted a form scheduling order on the \nwebsite, the scheduling order may conform to the form set out in Appendix B of these rules.\n(b) The same types of cases that are exempt from mandatory disclosure requirements under \nFederal Rule of Civil Procedure 26 are exempt from the scheduling order requirement of Rule 16. \nIn addition, the following categories of cases are also exempt from the scheduling order \nrequirement: (1) bankruptcy appeals; (2) civil forfeiture cases; (3) land condemnation cases; (4) \nnaturalization proceedings filed as civil cases; (5) interpleader cases; and (6) any other case where \nthe judge finds that the ends of justice would not be served by using the scheduling order procedure \nof Rule 16.\n(c) Not later than 60 days after any appearance of any defendant, the parties shall submit a \nproposed scheduling order to the court in the form described in subdivision (a). The parties first \nshall confer as required by Rule 26(f). The content of the proposed scheduling order shall include \nproposals for all deadlines set out in the described form. The parties shall endeavor to agree \nconcerning the contents of the proposed order, but in the event they are unable to do so, each \nparty’s position and the reasons for the disagreement shall be included in the proposed schedule \nsubmitted to the court. In the event the plaintiff has not yet obtained service on all defendants, the \nplaintiff shall include an explanation of why all parties have not been served. The scheduling \nproposals of the parties shall be considered by the court, but the setting of all dates is within the \ndiscretion of the court.\n(d) Filing a report that substantially conforms to Appendix N satisfies the provisions of \nRule 26(f).\n(e) Unopposed discovery may continue after the deadline for discovery contained in the \nscheduling order, provided that discovery does not delay other pretrial preparations or the trial \nsetting. Absent exceptional circumstances, no motions relating to discovery, including motions \nunder Rules 26(c), 29, and 37, shall be filed after the expiration of the discovery deadline, unless \nthey are filed within 14 days after the discovery deadline and pertain to conduct occurring during \nthe final 7 days of discovery. Written discovery is not timely unless the response to that discovery \nwould be due before the discovery deadline. The responding party has no obligation to respond and \nobject to written discovery if the response and objection would not be due until after the discovery \ndeadline. Notices served before the discovery deadline that purport to schedule depositions after \nthe discovery deadline will not be enforced.\n(f) Unless otherwise ordered by the court, each party shall serve and file the following \ninformation at least 14 days before the scheduled date for trial, jury selection, docket call, or the \nfinal pretrial conference, whichever is first:\n(1) A list of questions the party desires the court to ask prospective jurors.\n(2) In cases to be tried to a jury, a statement of the party’s claims or defenses to be \nused by the court in conducting voir dire. The statement shall be no longer than ½ page \nwith type double-spaced.",
+          "pages": [
+            20
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "11\n(3) A list of stipulated facts.\n(4) An appropriate identification of each exhibit as specified in this rule (except those \nto be used for impeachment only), separately identifying those that the party expects to \noffer and those that the party may offer if the need arises.\n(5) The name and, if not previously provided, the address and telephone number of \neach witness (except those to be used for impeachment only), separately identifying \nthose whom the party expects to present and those whom the party may call if the need \narises.\n(6) The name of those witnesses whose testimony is expected to be presented by \nmeans of a deposition and designation by reference to page and line of the testimony to \nbe offered (except those to be used for impeachment only) and, if not taken \nstenographically, a transcript of the pertinent portions of the deposition testimony.\n(7) Proposed jury instructions and verdict forms.\n(8) In nonjury trials, Proposed Findings of Fact and Conclusions of Law.\n(9) Any motions in limine.\n(10) An estimate of the probable length of trial.\n(g) At least 7 days prior to the scheduled date for trial, jury selection, docket call, or the \nfinal pretrial conference, whichever is first, each party shall serve and file the following:\n(1) A list disclosing any objections to the use under Rule 32 of deposition testimony \ndesignated by the other party.\n(2) A list disclosing any objection, together with the grounds therefore, that may be \nmade to the admissibility of any exhibits. Objections not so disclosed, other than \nobjections under Federal Rules of Evidence 402 and 403 shall be deemed waived \nunless excused by the court for good cause shown.\n(3) Responses to any motion in limine.\n(h) All trial exhibits must be marked with an identifying sequence, followed by a dash, \nfollowed by a number; for example, Exhibit P-1 and Exhibit D-1. The identifying sequence (e.g., \n“P” and “D”) will identify the party who will offer the exhibit. Parties will assign numbers to their \nexhibits consecutively, beginning with the number 1. The letter “G” will be assigned to the \ngovernment for identification purposes. In cases involving more complex pleading relationships \n(e.g., consolidated cases, intervenors, and third party actions), it is the responsibility of counsel for \nthe plaintiff, in consultation with the judge’s courtroom deputy clerk, to coordinate the assignment \nof the unique identification sequences.",
+          "pages": [
+            21
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "12\n",
+          "pages": [
+            22
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txwd-civil-parsed-v1-475cd12040bc439f",
+      "sourceDocumentId": "parsed-txwd-475cd12040bc439f",
+      "sourceUrl": "https://www.txwd.uscourts.gov/wp-content/uploads/2026/08/TXWD-Local-Rules-Full-Copy-081926.pdf",
+      "pageIndex": 20,
+      "pageSpan": [
+        20,
+        22
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txwd-civil:23",
+      "collectionId": "txwd-civil",
+      "districtId": "txwd",
+      "number": "23",
+      "citation": "Western District of Texas · Rule 23",
+      "title": "CLASS ACTIONS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "RULE CV-23. CLASS ACTIONS\nA motion to certify a Federal Rule of Civil Procedure 23 class must include the information \nenumerated in Appendix A to these rules.",
+          "pages": [
+            22
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-24",
+          "path": [],
+          "type": "paragraph",
+          "text": "13\n",
+          "pages": [
+            23
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txwd-civil-parsed-v1-475cd12040bc439f",
+      "sourceDocumentId": "parsed-txwd-475cd12040bc439f",
+      "sourceUrl": "https://www.txwd.uscourts.gov/wp-content/uploads/2026/08/TXWD-Local-Rules-Full-Copy-081926.pdf",
+      "pageIndex": 22,
+      "pageSpan": [
+        22,
+        23
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txwd-civil:26",
+      "collectionId": "txwd-civil",
+      "districtId": "txwd",
+      "number": "26",
+      "citation": "Western District of Texas · Rule 26",
+      "title": "GENERAL PROVISIONS GOVERNING DISCOVERY",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-24",
+          "path": [],
+          "type": "paragraph",
+          "text": "RULE CV-26. GENERAL PROVISIONS GOVERNING DISCOVERY\n(a) Relief. If relief is sought under Federal Rules of Civil Procedure 26(c) or 37, \nconcerning any interrogatories, requests for production or inspection, requests for admissions, \nanswers to interrogatories, or responses to requests for admissions, copies of the portions of the \ninterrogatories, requests, answers, or responses in dispute shall be attached to the motion.\n(b) Definitions and Rules of Construction. The full text of the definitions and rules of \nconstruction set forth in this paragraph is deemed incorporated by reference into all discovery \nrequests, but shall not preclude (i) the definition of other terms specific to the particular litigation,\n(ii) the use of abbreviations, or (iii) a more narrow definition of a term defined in this paragraph. \nThis rule is not intended to broaden or narrow the scope of discovery permitted by the Federal \nRules of Civil Procedure. The following definitions apply to all discovery requests:\n(1) Communication. The term “communication” means the transmittal of information \n(in the form of facts, ideas, inquiries, or otherwise).\n(2) Document. The term “document” means any document or electronically stored \ninformation as described in Federal Rule of Civil Procedure 34(a). A draft of a \nnonidentical copy is a separate document within the meaning of this term.\n(3) Identify (With Respect to Persons). When referring to a person, to “identify” \nmeans to give, to the extent known, the person’s full name, present or last known \naddress, e-mail address, and telephone number, and when referring to a natural person, \nadditionally, the present or last known place of employment. Once a person has been \nidentified in accordance with this paragraph, only the name of that person need be listed \nin response to subsequent discovery requesting the identification of that person.\n(4) Identify (With Respect to Documents). When referring to documents, “to identify” \nmeans to give, to the extent known, the (i) type of document; (ii) general subject matter;\n(iii) date of the document; and (iv) author(s), addressee(s), and recipient(s).\n(5) Parties. The terms “plaintiff” and “defendant” as well as a party’s full or \nabbreviated name or pronoun referring to a party mean the party and, where applicable, \nits officers, directors, employees, partners, corporate parent, subsidiaries, or affiliates. \nThis definition is not intended to impose a discovery obligation on any person who is \nnot a party to the litigation.\n(6) Person. The term “person” means any natural person or business, legal, or \ngovernmental entity or association.\n(7) Concerning. The term “concerning” means relating to, referring to, describing, \nevidencing, or constituting.\n(c) Protective Orders. Upon motion by any party demonstrating good cause, the court may \nenter a protective order in the form set out in Appendix H-1, or, in more complex cases, in \nAppendix H-2, or any other appropriate form. In cases where the parties agree to a protective order, \nthe forms set out in Appendix H-1 and Appendix H-2 are approved.",
+          "pages": [
+            23
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "14\n(d) Authentication of Documents.\n(1) Generally. Unless the party timely objects, a party’s production of a document in \nresponse to written discovery authenticates the document for use against the party in \nany pretrial proceeding or at trial.\n(2) Time for Objection. Once the producing party has actual notice that the document \nwill be used, the party must object to the document’s authenticity within the time period \nordered by the court or specified by Rule CV-16. If neither the court nor Rule CV-16 \nspecifies a time period, the party must object within 14 days.\n(3) Manner of Objection. A party may object to the authenticity of the document, or \nany part of it, and must state the specific basis for the objection. An objection must be \nmade either on the record or in writing and must have a good faith factual and legal \nbasis. An objection made to the authenticity of only part of a document does not affect \nthe authenticity of the remainder.\n(4) Response. If the producing party objects to a document’s authenticity, the party \nattempting to use the document should be given a reasonable opportunity to establish its \nauthenticity.",
+          "pages": [
+            24
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "15\n",
+          "pages": [
+            25
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txwd-civil-parsed-v1-475cd12040bc439f",
+      "sourceDocumentId": "parsed-txwd-475cd12040bc439f",
+      "sourceUrl": "https://www.txwd.uscourts.gov/wp-content/uploads/2026/08/TXWD-Local-Rules-Full-Copy-081926.pdf",
+      "pageIndex": 23,
+      "pageSpan": [
+        23,
+        25
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txwd-civil:30",
+      "collectionId": "txwd-civil",
+      "districtId": "txwd",
+      "number": "30",
+      "citation": "Western District of Texas · Rule 30",
+      "title": "DEPOSITIONS UPON ORAL EXAMINATION",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "RULE CV-30. DEPOSITIONS UPON ORAL EXAMINATION\n(a) Notice. The notice for a deposition shall be in the form prescribed in Federal Rule of \nCivil Procedure 30, and in addition shall state the identity of persons who will attend other than the \nwitness, parties, spouses of parties, counsel, employees of counsel, and the officer taking the \ndeposition. If any party intends to have any other persons attend, that party must give reasonable \nnotice to all parties of the identity of such other persons.\n(b) Procedures,Examinations and Objections. The parties are permitted to stipulate on the \nrecord of a deposition any agreement regarding the rules for the deposition. Absent an agreement by \nthe parties, objections to questions during a deposition are limited to “Objection, leading” and \n“Objection, form.” Objections to testimony during a deposition are limited to “Objection, \nnonresponsive.” Any objections to the form of the question or responsiveness of the answer are \nwaived if not properly stated during a deposition. All other objections need not be made or recorded \nduring a deposition to be later raised with the court. An attorney shall not, in the presence of a \ndeponent, make objections or statements that might suggest an answer to the deponent. An attorney \nfor a deponentshall not initiate a private conference with the deponent regarding a pending question, \nexcept for the purpose of determining whether a claim of privilege should be asserted. An attorney \nwho instructs a deponent not to answer a question shall state, on the record, the legal basis for the \ninstruction consistent with Federal Rule of Civil Procedure 30. If a claim of privilege has been \nasserted as a basis for an instruction not to answer, the attorney seeking discovery shall have \nreasonable latitude during the deposition to question the deponent and establish relevant information \nconcerning the appropriateness of the assertion of privilege, including (i) the applicability of the \nprivilege being asserted, (ii) the circumstances that may result in the privilege having been waived, \nand (iii) circumstancesthat may overcome a claim of qualified privilege. A violation of the provisions \nof this Rule may be deemed to be a violation of a court order and may subject the violator to sanctions \nunder Federal Rule of Civil Procedure 37.\n(c) Recorded Depositions. If a deposition is to be recorded, the party requesting the \nrecording shall be responsible for ensuring that the equipment used is adequate to produce a clear \nrecord. If the deposition is to be video recorded, the procedures set out in Appendix I shall govern \nthe deposition proceedings, except upon stipulation of the parties or order of the court upon motion \nand showing of good cause.",
+          "pages": [
+            25
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "16\n",
+          "pages": [
+            26
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txwd-civil-parsed-v1-475cd12040bc439f",
+      "sourceDocumentId": "parsed-txwd-475cd12040bc439f",
+      "sourceUrl": "https://www.txwd.uscourts.gov/wp-content/uploads/2026/08/TXWD-Local-Rules-Full-Copy-081926.pdf",
+      "pageIndex": 25,
+      "pageSpan": [
+        25,
+        26
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txwd-civil:33",
+      "collectionId": "txwd-civil",
+      "districtId": "txwd",
+      "number": "33",
+      "citation": "Western District of Texas · Rule 33",
+      "title": "INTERROGATORIES TO PARTIES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "RULE CV-33. INTERROGATORIES TO PARTIES\n(a) All answers to interrogatories must be signed under oath by the party to whom they are \ndirected. If circumstances prevent a party from signing the answers, the party’s attorney may serve \nthe answers without the party’s signature with a statement that properly executed answers will be \nserved on the requesting party not later than 21 days after serving the unexecuted answers. This \ntime may be extended by order of the court.\n(b) A party that serves written interrogatories under Federal Rule of Civil Procedure 33 \nmay use any of the following approved interrogatories. The court will not consider objections to \nthese interrogatories, except upon a showing of exceptional circumstances. Each approved \ninterrogatory counts as one question. Other interrogatories are counted in accordance with Federal \nRule of Civil Procedure 33.\n(1) Identify all persons who you believe have knowledge of relevant facts and identify \nthe issues upon which you believe they have knowledge.\n(2) Identify all persons or legal entities who have a subrogation interest in the cause of \naction set forth in your complaint [or counterclaim], and state the basis and extent of \nsaid interest.\n(3) If [name of party to whom the interrogatory is directed] is a partner, a partnership, \nor a subsidiary or affiliate of a publicly owned corporation that has a financial interest in \nthe outcome of this lawsuit, list the identity of the parent corporation, affiliate, partner, \nor partnership and the relationship between it and [the named party]. If there is a \npublicly owned corporation or a holding company not a party to the case that has a \nfinancial interest in the outcome, list the identity of such corporation and the nature of \nthe financial interest.\n(4) If the defendant is improperly identified, give its proper identification and state \nwhether you will accept service of an amended summons and complaint reflecting the \ninformation furnished by you in answer hereto.\n(5) If you contend that some other person or legal entity is, in whole or in part, liable \nto [the plaintiff or defendant] in this matter, identify that person or legal entity and \ndescribe in detail the basis of said liability.",
+          "pages": [
+            26
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "17\n",
+          "pages": [
+            27
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txwd-civil-parsed-v1-475cd12040bc439f",
+      "sourceDocumentId": "parsed-txwd-475cd12040bc439f",
+      "sourceUrl": "https://www.txwd.uscourts.gov/wp-content/uploads/2026/08/TXWD-Local-Rules-Full-Copy-081926.pdf",
+      "pageIndex": 26,
+      "pageSpan": [
+        26,
+        27
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txwd-civil:36",
+      "collectionId": "txwd-civil",
+      "districtId": "txwd",
+      "number": "36",
+      "citation": "Western District of Texas · Rule 36",
+      "title": "REQUESTS FOR ADMISSIONS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "RULE CV-36. REQUESTS FOR ADMISSIONS\nRequests for admissions made pursuant to Federal Rule of Civil Procedure 36 are limited to \n30 requests. The court may permit further requests upon a showing of good cause.",
+          "pages": [
+            27
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "18\n",
+          "pages": [
+            28
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txwd-civil-parsed-v1-475cd12040bc439f",
+      "sourceDocumentId": "parsed-txwd-475cd12040bc439f",
+      "sourceUrl": "https://www.txwd.uscourts.gov/wp-content/uploads/2026/08/TXWD-Local-Rules-Full-Copy-081926.pdf",
+      "pageIndex": 27,
+      "pageSpan": [
+        27,
+        28
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txwd-civil:54",
+      "collectionId": "txwd-civil",
+      "districtId": "txwd",
+      "number": "54",
+      "citation": "Western District of Texas · Rule 54",
+      "title": "COSTS AND ATTORNEY’S FEES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "RULE CV-54. COSTS AND ATTORNEY’S FEES\n(a) Bill of Costs.\n(1) Unless otherwise determined by the court, costs will be assessed in the final \njudgment in a case. A party awarded costs shall prepare and file a proposed bill of costs \non Form AO 133 not later than 14 days after the entry of judgment. The proposed bill of \ncosts shall be served on all parties.\n(2) Any party opposing a proposed bill of costs must notify the party requesting costs \nnot later than 7 days after the filing of the proposed bill of costs. The parties must then \nconfer in an effort to resolve the dispute.\n(3) If a dispute remains:\n(A) the parties may file a joint motion indicating the areas of agreement and the \nareas of disagreement; or\n(B) the party requesting costs may file a motion indicating the areas of \nagreement and the areas of disagreement, to which the opposing party may file a \nresponse.\nEither type of motion must be filed not later than 21 days after the filing of the proposed \nbill of costs. The motion must contain a certificate confirming compliance with the \nconference requirements of this rule.\n(4) The clerk shall not tax costs until the expiration of 21 days after the filing of the \nproposed bill of costs. If no motion is filed in that time period, the clerk shall proceed to \ntax costs. In a case involving an uncontested bill of costs, if the clerk fails to tax costs \nwithin 28 days after the proposed bill of costs is filed, costs will be deemed taxed as \nproposed.\n(5) A party dissatisfied with the clerk’s action may file a motion to review the clerk’s \naction not later than 7 days after the clerk has taxed costs.\n(b) Claim for Attorney’s Fees.\n(1) Unless the substantive law requires a claim for attorney’s fees and related \nnontaxable expenses to be proved at trial as an element of damages to be determined by \na jury, a claim for fees shall be made by motion in accordance with paragraph (b)(2) not \nlater than 14 days after entry of judgment pursuant to Federal Rule of Civil Procedure\n54. A motion for award of attorney’s fees filed beyond the 14-day period may be \ndeemed untimely and a waiver of entitlement to fees.\n(2) A claim for fees shall be made as follows. Counsel for the parties shall meet and \nconfer for the purpose of resolving all disputed issues relating to attorney’s fees prior to \nmaking application. The application shall certify that such a conference has occurred. If \nno agreement is reached, the applicant shall certify the specific reason why the matter \ncould not be resolved by agreement. The motion shall include a supporting document",
+          "pages": [
+            28
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "19\norganized chronologically by activity or project, listing attorney name, date, and hours \nexpended on the particular activity or project, as well as an affidavit certifying (1) that \nthe hours expended were actually expended on the topics stated, and (2) that the hours \nexpended and rate claimed were reasonable. Such application shall also be accompanied \nby a brief memo setting forth the method by which the amount of fees was computed, \nwith sufficient citation of authority to permit the reviewing court the opportunity to \ndetermine whether such computation is correct. The request shall include reference to \nthe statutory authorization or other authority for the request.\n(3) A response or reply to a motion for attorney’s fees must be filed in accordance \nwith the provisions of Rule CV-7.",
+          "pages": [
+            29
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "20\nCV-55\n[RULE DELETED]",
+          "pages": [
+            30
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "21\n",
+          "pages": [
+            31
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txwd-civil-parsed-v1-475cd12040bc439f",
+      "sourceDocumentId": "parsed-txwd-475cd12040bc439f",
+      "sourceUrl": "https://www.txwd.uscourts.gov/wp-content/uploads/2026/08/TXWD-Local-Rules-Full-Copy-081926.pdf",
+      "pageIndex": 28,
+      "pageSpan": [
+        28,
+        31
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txwd-civil:65",
+      "collectionId": "txwd-civil",
+      "districtId": "txwd",
+      "number": "65",
+      "citation": "Western District of Texas · Rule 65",
+      "title": "INJUNCTIONS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "RULE CV-65. INJUNCTIONS\nAn application for a temporary restraining order or preliminary injunction shall be made in an \ninstrument separate from the complaint.",
+          "pages": [
+            31
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "22\n",
+          "pages": [
+            32
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txwd-civil-parsed-v1-475cd12040bc439f",
+      "sourceDocumentId": "parsed-txwd-475cd12040bc439f",
+      "sourceUrl": "https://www.txwd.uscourts.gov/wp-content/uploads/2026/08/TXWD-Local-Rules-Full-Copy-081926.pdf",
+      "pageIndex": 31,
+      "pageSpan": [
+        31,
+        32
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txwd-civil:65.1",
+      "collectionId": "txwd-civil",
+      "districtId": "txwd",
+      "number": "65.1",
+      "citation": "Western District of Texas · Rule 65.1",
+      "title": "SECURITY; PROCEEDINGS AGAINSTSURETIES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "RULE CV-65.1. SECURITY; PROCEEDINGS AGAINSTSURETIES\n(a) No clerk, marshal, attorney, or officer of this court will be accepted as surety, either \ndirectly or indirectly, on any bond or undertaking in any action or proceeding in this court, nor \nshall any such person advance or provide money or other thing of value for any cost, bail, \nattachment, or replevy bond taken in this court.\n(b) The clerk shall make available a list of corporations or other entities authorized by the \nSecretary of the Treasury to act as surety on official bonds on the district’s website, or in such other \nmanner as the clerk deems sufficient public notice.\n(c) Unless the court otherwise directs, every bond furnished in connection with any matter \nmust be done in one of the following manners, either:\n(1) Cash or United States Government Bonds deposited in the registry of the court in \nlieu of sureties; or\n(2) Surety bonds that have:\n(A) A corporation authorized by the Secretary of the Treasury of the United \nStates to act as surety on official bonds that either satisfies 31 C.F.R. § 224.3 or \nhas appointed an agent for service of process in the Western District of Texas in \naccordance with 31 C.F.R. § 224.4; or\n(B) An individual resident of the Western District of Texas who satisfied the \ncourt that he owns real or personal property not exempt by law within the district \nsufficient to justify the full amount of the suretyship.\n(d) Each person who is to act as a principal or as a surety on an official bond shall \nundertake to:\n(1) Prosecute the claim or action with effect;\n(2) Abide by the decision of the court; and\n(3) Pay the damages sustained, to the full extent of the face amount of the bond, if the \ncourt finds that the order secured by the bond was wrongfully applied for or wrongfully \nmade.",
+          "pages": [
+            32
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "23\n",
+          "pages": [
+            33
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txwd-civil-parsed-v1-475cd12040bc439f",
+      "sourceDocumentId": "parsed-txwd-475cd12040bc439f",
+      "sourceUrl": "https://www.txwd.uscourts.gov/wp-content/uploads/2026/08/TXWD-Local-Rules-Full-Copy-081926.pdf",
+      "pageIndex": 32,
+      "pageSpan": [
+        32,
+        33
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txwd-civil:67",
+      "collectionId": "txwd-civil",
+      "districtId": "txwd",
+      "number": "67",
+      "citation": "Western District of Texas · Rule 67",
+      "title": "DEPOSIT AND DISBURSEMENT OF REGISTRY FUNDS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "RULE CV-67. DEPOSIT AND DISBURSEMENT OF REGISTRY FUNDS\nDeposits into and disbursements from the registry of the court must be made in compliance \nwith Federal Rule of Civil Procedure 67 and 28 U.S.C. §§ 2041 and 2042. A motion requesting \nleave of court to deposit or disburse funds into or out of the registry must be filed and served on all \ninterested parties to the proceeding. Attorneys should contact the financial deputy clerk in the \ndivision where the case is pending regarding financial language to be included in the motion and \nproposed order.",
+          "pages": [
+            33
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "24\n",
+          "pages": [
+            34
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txwd-civil-parsed-v1-475cd12040bc439f",
+      "sourceDocumentId": "parsed-txwd-475cd12040bc439f",
+      "sourceUrl": "https://www.txwd.uscourts.gov/wp-content/uploads/2026/08/TXWD-Local-Rules-Full-Copy-081926.pdf",
+      "pageIndex": 33,
+      "pageSpan": [
+        33,
+        34
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txwd-civil:72",
+      "collectionId": "txwd-civil",
+      "districtId": "txwd",
+      "number": "72",
+      "citation": "Western District of Texas · Rule 72",
+      "title": "MAGISTRATEJUDGES, PRETRIAL MATTERS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "RULE CV-72. MAGISTRATEJUDGES, PRETRIAL MATTERS\nThe magistrate judges of this court are authorized to perform all the duties allowed to \nmagistrate judges under the Federal Magistrates Act as amended in 28 U.S.C. § 636. The \nmagistrate judges of this court are designated to exercise civil jurisdiction under section 636(c)(1) \nupon consent of the parties. Whenever applicable, the “Local Rules of the Assignment of Duties to \nUnited States Magistrate Judges” found at Appendix C shall apply to proceedings before the \nmagistrate judges.",
+          "pages": [
+            34
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "25\n",
+          "pages": [
+            35
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txwd-civil-parsed-v1-475cd12040bc439f",
+      "sourceDocumentId": "parsed-txwd-475cd12040bc439f",
+      "sourceUrl": "https://www.txwd.uscourts.gov/wp-content/uploads/2026/08/TXWD-Local-Rules-Full-Copy-081926.pdf",
+      "pageIndex": 34,
+      "pageSpan": [
+        34,
+        35
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txwd-civil:79",
+      "collectionId": "txwd-civil",
+      "districtId": "txwd",
+      "number": "79",
+      "citation": "Western District of Texas · Rule 79",
+      "title": "REMOVAL AND DESTRUCTION OF RECORDS AND",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "RULE CV-79. REMOVAL AND DESTRUCTION OF RECORDS AND \nEXHIBITS\n(a) Nothing in the files of the court shall be taken from the office or custody of the clerk, \nexcept on written order of the court. The party offering any exhibit or deposition shall be \nresponsible for its removal from the clerk’s office within 60 days after the final disposition of the \ncase, including appeal thereof. A detailed receipt shall be given by the party to the clerk. Any \nexhibit or deposition remaining more than 60 days after final disposition of the case, including \nappeal, may be destroyed or otherwise disposed of by the clerk.\n(b) Prior to their destruction, documents filed under seal in civil actions must remain sealed \nwith the clerk, unless otherwise ordered by the court.",
+          "pages": [
+            35
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-37",
+          "path": [],
+          "type": "paragraph",
+          "text": "26\n",
+          "pages": [
+            36
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txwd-civil-parsed-v1-475cd12040bc439f",
+      "sourceDocumentId": "parsed-txwd-475cd12040bc439f",
+      "sourceUrl": "https://www.txwd.uscourts.gov/wp-content/uploads/2026/08/TXWD-Local-Rules-Full-Copy-081926.pdf",
+      "pageIndex": 35,
+      "pageSpan": [
+        35,
+        36
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "txwd-civil:88",
+      "collectionId": "txwd-civil",
+      "districtId": "txwd",
+      "number": "88",
+      "citation": "Western District of Texas · Rule 88",
+      "title": "ALTERNATIVE DISPUTE RESOLUTION",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-37",
+          "path": [],
+          "type": "paragraph",
+          "text": "RULE CV-88. ALTERNATIVE DISPUTE RESOLUTION\n(a) Use of ADR. In all civil cases, unless specifically ordered otherwise, the parties shall \nagree upon a method of ADR, an ADR provider, the method of compensating the provider, and a \ndate for completing the ADR proceeding. ADR proceedings must be completed not later than 60 \ndays before the date of the trial setting.\n(b) Attendance; Authority to Settle. Counsel, party representatives with authority to \nnegotiate a settlement, and all other persons necessary to negotiate a settlement, including \ninsurance carrier representatives, must attend the ADR session in person, unless the parties agree or \nthe court orders otherwise.\n(c) Fees. The provider and the litigants will determine the fees for the ADR. The court \nreserves the right to review the reasonableness of the fees. If the provider and litigants are unable to \nagree, the court will determine an appropriate fee.\n(d) Disqualification. No person shall serve as a provider if any of the circumstances \nspecified in 28 U.S.C. § 455 of the Judicial Code of Conduct exist, or if the provider believes in \ngood faith that such circumstances exist.\n(e) Relief from ADR. A party opposing ADR must file a motion requesting to be exempt \nfrom ADR.\n(f) Confidentiality. Except as otherwise provided in this rule, or as agreed by the \nparticipants, a communication relating to the subject matter of any civil or criminal dispute made \nby any participant during an ADR procedure, whether before or after the institution of formal \njudicial proceedings, is confidential, may not be disclosed, may not be used as evidence against the \nparticipant in any judicial or administrative proceeding, and does not constitute a waiver of any \nexisting privileges or immunities.\n(1) Any record made at an ADR procedure is confidential, and the participants or the \nthird party facilitating the procedure may not be required to testify in any proceedings \nrelating to or arising out of the matter in dispute or be subject to process requiring the \ndisclosure of confidential information or data relating to or arising out of the matter in \ndispute.\n(2) An oral communication or other information used in or made a part of an ADR \nprocedure is admissible or discoverable if it is admissible or discoverable independent \nof the procedure.\n(3) If this section conflicts with other legal requirements for disclosure of \ncommunications or materials, the issue of confidentiality may be presented to the court \nhaving jurisdiction of the proceedings to determine, in camera, whether the facts, \ncircumstances, and context of the communications or other information sought to be \ndisclosed warrant a protective order of the court or whether the communications or \nother information are subject to disclosure.",
+          "pages": [
+            36
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-38",
+          "path": [],
+          "type": "paragraph",
+          "text": "27\n(g) Final ADR Report. At the conclusion of each ADR proceeding, the provider shall \nsubmit to the court a notice of outcome, including the style and number of the case, the type of \ncase, the method of ADR, and whether the case has settled.",
+          "pages": [
+            37
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "txwd-civil-parsed-v1-475cd12040bc439f",
+      "sourceDocumentId": "parsed-txwd-475cd12040bc439f",
+      "sourceUrl": "https://www.txwd.uscourts.gov/wp-content/uploads/2026/08/TXWD-Local-Rules-Full-Copy-081926.pdf",
+      "pageIndex": 36,
+      "pageSpan": [
+        36,
+        37
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    }
+  ],
+  "evidence": [
+    {
+      "number": "1",
+      "heading": "RULE CV-1. SCOPE OF RULES",
+      "page": 12,
+      "offset": 2,
+      "slices": [
+        {
+          "page": 12,
+          "start": 2,
+          "end": 951,
+          "sha256": "8f22af2a0b95641f24681043bcff1ea275f5224646e10849e22bbd90105a4cda"
+        },
+        {
+          "page": 13,
+          "start": 0,
+          "end": 2,
+          "sha256": "53c234e5e8472b6ac51c1ae1cab3fe06fad053beb8ebfd8977b010655bfdd3c3"
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "heading": "RULE CV-3. COMMENCEMENT OF ACTION",
+      "page": 13,
+      "offset": 2,
+      "slices": [
+        {
+          "page": 13,
+          "start": 2,
+          "end": 1869,
+          "sha256": "ac4edce04fe0734a3228e53ea03bcbb2bc9d75150cafad92e4292e5f791cd839"
+        },
+        {
+          "page": 14,
+          "start": 0,
+          "end": 2,
+          "sha256": "1121cfccd5913f0a63fec40a6ffd44ea64f9dc135c66634ba001d10bcf4302a2"
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "heading": "RULE CV-5. FILING REQUIREMENTS",
+      "page": 14,
+      "offset": 2,
+      "slices": [
+        {
+          "page": 14,
+          "start": 2,
+          "end": 579,
+          "sha256": "a2ee5d0eb13df22b559a87cb9711c8bc03de5d65793e4774743d70f2b2229344"
+        },
+        {
+          "page": 15,
+          "start": 0,
+          "end": 2,
+          "sha256": "7de1555df0c2700329e815b93b32c571c3ea54dc967b89e81ab73b9972b72d1d"
+        }
+      ]
+    },
+    {
+      "number": "5.2",
+      "heading": "RULE CV-5.2. DOCUMENTS FILED UNDER SEAL",
+      "page": 15,
+      "offset": 2,
+      "slices": [
+        {
+          "page": 15,
+          "start": 2,
+          "end": 2972,
+          "sha256": "f96e001406a4440a08184d2bd6221e35575b55efdacdefb918c0db298bd44a26"
+        },
+        {
+          "page": 16,
+          "start": 0,
+          "end": 21,
+          "sha256": "1a0850d30adc203006389c75949c352e809b111f8e3c1cc6c061b798d0ab23e1"
+        },
+        {
+          "page": 17,
+          "start": 0,
+          "end": 2,
+          "sha256": "06e9d52c1720fca412803e3b07c4b228ff113e303f4c7ab94665319d832bbfb7"
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "heading": "RULE CV-7. PLEADINGS ALLOWED; FORM OF MOTIONS",
+      "page": 17,
+      "offset": 2,
+      "slices": [
+        {
+          "page": 17,
+          "start": 2,
+          "end": 2667,
+          "sha256": "5d0f0432fd81057dfdcfeb31c55a5fffaa66372918b0b2436b1a59b638343573"
+        },
+        {
+          "page": 18,
+          "start": 0,
+          "end": 1319,
+          "sha256": "ac7328beb4f1859504c4cedc1885ef7ef5a30538e59b81c0ff600d8715daecea"
+        },
+        {
+          "page": 19,
+          "start": 0,
+          "end": 2,
+          "sha256": "aa67a169b0bba217aa0aa88a65346920c84c42447c36ba5f7ea65f422c1fe5d8"
+        }
+      ]
+    },
+    {
+      "number": "10",
+      "heading": "RULE CV-10.FORM OF PLEADINGS",
+      "page": 19,
+      "offset": 2,
+      "slices": [
+        {
+          "page": 19,
+          "start": 2,
+          "end": 1175,
+          "sha256": "88988b7e7d4e10b014399a8b8b0f64f5268941c9787b32a3b2092d5671864c28"
+        },
+        {
+          "page": 20,
+          "start": 0,
+          "end": 2,
+          "sha256": "2e6d31a5983a91251bfae5aefa1c0a19d8ba3cf601d0e8a706b4cfa9661a6b8a"
+        }
+      ]
+    },
+    {
+      "number": "15",
+      "heading": "RULE CV-15. AMENDMENT OF PLEADINGS",
+      "page": 20,
+      "offset": 2,
+      "slices": [
+        {
+          "page": 20,
+          "start": 2,
+          "end": 514,
+          "sha256": "c779f5b4e9a4100e7601a0ba96eb41cdf314ec0edbbe0235fe90b664cd580864"
+        },
+        {
+          "page": 21,
+          "start": 0,
+          "end": 3,
+          "sha256": "917df3320d778ddbaa5c5c7742bc4046bf803c36ed2b050f30844ed206783469"
+        }
+      ]
+    },
+    {
+      "number": "16",
+      "heading": "RULE CV-16. PRETRIAL CONFERENCES; SCHEDULING; MANAGEMENT",
+      "page": 21,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 21,
+          "start": 3,
+          "end": 3499,
+          "sha256": "9f09ba720fa7a88f7010a6b3771282341cad7d8aeed18a6c10c646bf6b5cd974"
+        },
+        {
+          "page": 22,
+          "start": 0,
+          "end": 2445,
+          "sha256": "9155c5d8c452529dcf906991ac5416cbb6bffc2d9fe7bcf1a95809cf0d9b199c"
+        },
+        {
+          "page": 23,
+          "start": 0,
+          "end": 3,
+          "sha256": "a1fb50e6c86fae1679ef3351296fd6713411a08cf8dd1790a4fd05fae8688164"
+        }
+      ]
+    },
+    {
+      "number": "23",
+      "heading": "RULE CV-23. CLASS ACTIONS",
+      "page": 23,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 23,
+          "start": 3,
+          "end": 162,
+          "sha256": "e5d18a1e07a0dfdd5aaa8cb6121b3327eb720fef8980b256cd6282a0ba63acf3"
+        },
+        {
+          "page": 24,
+          "start": 0,
+          "end": 3,
+          "sha256": "1a252402972f6057fa53cc172b52b9ffca698e18311facd0f3b06ecaaef79e17"
+        }
+      ]
+    },
+    {
+      "number": "26",
+      "heading": "RULE CV-26. GENERAL PROVISIONS GOVERNING DISCOVERY",
+      "page": 24,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 24,
+          "start": 3,
+          "end": 3104,
+          "sha256": "07e7cf0f1baea9bd721bb9545c5964c4a0c7d47552ee1f0b4563f17631178ee3"
+        },
+        {
+          "page": 25,
+          "start": 0,
+          "end": 1148,
+          "sha256": "603f2ca1cb082bf1f6d64262e99dd7c8588cbaa4be3d900589dd2b7a7db15b47"
+        },
+        {
+          "page": 26,
+          "start": 0,
+          "end": 3,
+          "sha256": "238903180cc104ec2c5d8b3f20c5bc61b389ec0a967df8cc208cdc7cd454174f"
+        }
+      ]
+    },
+    {
+      "number": "30",
+      "heading": "RULE CV-30. DEPOSITIONS UPON ORAL EXAMINATION",
+      "page": 26,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 26,
+          "start": 3,
+          "end": 2758,
+          "sha256": "a6daed153ff4a4ffeda2d9bbbe77499fa0988afa577c0e605337f775e4cbe10f"
+        },
+        {
+          "page": 27,
+          "start": 0,
+          "end": 3,
+          "sha256": "e6c21e8d260fe71882debdb339d2402a2ca7648529bc2303f48649bce0380017"
+        }
+      ]
+    },
+    {
+      "number": "33",
+      "heading": "RULE CV-33. INTERROGATORIES TO PARTIES",
+      "page": 27,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 27,
+          "start": 3,
+          "end": 2235,
+          "sha256": "0489a3b821c03fdf1a993dc884548585aec28012dc649d557d361c71893ec6c7"
+        },
+        {
+          "page": 28,
+          "start": 0,
+          "end": 3,
+          "sha256": "54183f4323f377b737433a1e98229ead0fdc686f93bab057ecb612daa94002b5"
+        }
+      ]
+    },
+    {
+      "number": "36",
+      "heading": "RULE CV-36. REQUESTS FOR ADMISSIONS",
+      "page": 28,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 28,
+          "start": 3,
+          "end": 211,
+          "sha256": "a7bc8ad6dc89c544718d707c35cf25449a6adb7571248d0ee45b91dcc1d16b7c"
+        },
+        {
+          "page": 29,
+          "start": 0,
+          "end": 3,
+          "sha256": "7ee29791fc17e986b97128845622b077fb45e349fdb80523fac9dba879b4ad60"
+        }
+      ]
+    },
+    {
+      "number": "54",
+      "heading": "RULE CV-54. COSTS AND ATTORNEY’S FEES",
+      "page": 29,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 29,
+          "start": 3,
+          "end": 2587,
+          "sha256": "f09c7999b80c2bbbdcbfdd296eb7b5ed513808668f10d43f84f082e84f402571"
+        },
+        {
+          "page": 30,
+          "start": 0,
+          "end": 802,
+          "sha256": "f23104dc94101aa5eb907171a5dc4b5b45a64a83b275d371e6cf34b22eecb81d"
+        },
+        {
+          "page": 31,
+          "start": 0,
+          "end": 23,
+          "sha256": "2539541e2d9b44754ca62390bf9bd1ee207dfd022e071ef19ad5eeb248d6c0c5"
+        },
+        {
+          "page": 32,
+          "start": 0,
+          "end": 3,
+          "sha256": "6e2ae11dad0616f66bbb2b6e6556f580bb987fd911d7132aa6bee2bfc7cc7b52"
+        }
+      ]
+    },
+    {
+      "number": "65",
+      "heading": "RULE CV-65. INJUNCTIONS",
+      "page": 32,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 32,
+          "start": 3,
+          "end": 162,
+          "sha256": "07cb6804b95ae862d6cc011a70d64beb11e939fd915eda01d53950ecb0924277"
+        },
+        {
+          "page": 33,
+          "start": 0,
+          "end": 3,
+          "sha256": "f14b4987904bcb5814e4459a057ed4d20f58a633152288a761214dcd28780b56"
+        }
+      ]
+    },
+    {
+      "number": "65.1",
+      "heading": "RULE CV-65.1. SECURITY; PROCEEDINGS AGAINSTSURETIES",
+      "page": 33,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 33,
+          "start": 3,
+          "end": 1803,
+          "sha256": "4b108f4399aa79a52578ab484cdc8a416f75427219d827747d76232635a9b189"
+        },
+        {
+          "page": 34,
+          "start": 0,
+          "end": 3,
+          "sha256": "076320a2a08267b4c026d06573bba408ea68841e73cdc20e62cce59de165ece3"
+        }
+      ]
+    },
+    {
+      "number": "67",
+      "heading": "RULE CV-67. DEPOSIT AND DISBURSEMENT OF REGISTRY FUNDS",
+      "page": 34,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 34,
+          "start": 3,
+          "end": 558,
+          "sha256": "d9bc4ea331b4c3c8152aeccbf659bacab31529c40984ec74891b4b8cb1432665"
+        },
+        {
+          "page": 35,
+          "start": 0,
+          "end": 3,
+          "sha256": "68ca3fba3b7e864770cb61aeb306d4bd4354b68ab4dd38450860c5d823e42a53"
+        }
+      ]
+    },
+    {
+      "number": "72",
+      "heading": "RULE CV-72. MAGISTRATEJUDGES, PRETRIAL MATTERS",
+      "page": 35,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 35,
+          "start": 3,
+          "end": 539,
+          "sha256": "8903637d828b2ee480090b0bd87a971af0157e01dec16bb638045f4c37dd658f"
+        },
+        {
+          "page": 36,
+          "start": 0,
+          "end": 3,
+          "sha256": "64aeb9975f234becd55bb4635e6e2f2da7a6b7bf0a896f0c07763bdfbfb31420"
+        }
+      ]
+    },
+    {
+      "number": "79",
+      "heading": "RULE CV-79. REMOVAL AND DESTRUCTION OF RECORDS AND",
+      "page": 36,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 36,
+          "start": 3,
+          "end": 765,
+          "sha256": "1d7df50cda07c0c4076535554a903fcc55d6762971d8a953888f70dca7f0981d"
+        },
+        {
+          "page": 37,
+          "start": 0,
+          "end": 3,
+          "sha256": "20d2add851bf39edcc6b5e830930f962db7e19dffa2cab8610eed551eda6c302"
+        }
+      ]
+    },
+    {
+      "number": "88",
+      "heading": "RULE CV-88. ALTERNATIVE DISPUTE RESOLUTION",
+      "page": 37,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 37,
+          "start": 3,
+          "end": 2790,
+          "sha256": "2460c609dbc587b439f730b5d0642ce77b66eae0ad90b390ae5f12fed0f761c3"
+        },
+        {
+          "page": 38,
+          "start": 0,
+          "end": 243,
+          "sha256": "1558b01064891b3cdaa2beec070ec40f44bc01d7f304ffceab7def8054ce4b96"
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "startPage": 12,
+    "startOffset": 2,
+    "endPage": 38,
+    "endOffset": 243,
+    "ruleCount": 20,
+    "tocReconciled": false,
+    "editorialReviewComplete": false,
+    "currencyReviewed": false,
+    "flags": [],
+    "excluded": "Source material outside the recorded range remains available in the district source library."
+  },
+  "transcriptionSha256": "b392daee603d94b56d47d6008cb635b83cc52c6931ada5a71ea4fa355cbda337"
+}

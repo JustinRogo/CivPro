@@ -1,0 +1,2195 @@
+{
+  "version": 1,
+  "reviewStatus": "parsed-draft",
+  "districtId": "vaed",
+  "sourceDocument": {
+    "id": "b2f28b233e18ec56",
+    "title": "Local Rules in PDF format",
+    "format": "pdf",
+    "role": "primary",
+    "sourceUrl": "https://www.vaed.uscourts.gov/sites/vaed/files/Local%20Rules%20EDVA%20December%201%202024.pdf",
+    "sha256": "b2f28b233e18ec56ec75dfdf7176716bcd737000d9aabfddb94199272e419c7f",
+    "bytes": 684201,
+    "retrievedAt": "2026-09-07T00:02:29.654547+00:00",
+    "snapshotPath": "sources/district-snapshots/b2f28b233e18ec56ec75dfdf7176716bcd737000d9aabfddb94199272e419c7f.pdf",
+    "textPath": "data/source-library/b2f28b233e18ec56ec75dfdf7176716bcd737000d9aabfddb94199272e419c7f.json",
+    "pdfPath": "data/source-pdfs/b2f28b233e18ec56ec75dfdf7176716bcd737000d9aabfddb94199272e419c7f.pdf",
+    "pageCount": 97,
+    "reviewStatus": "source-document-only",
+    "blankTextPages": 0
+  },
+  "collection": {
+    "id": "vaed-civil",
+    "name": "Eastern District of Virginia Local Rules",
+    "shortName": "Local rules · draft",
+    "districtId": "vaed",
+    "scopeNote": "Civil and generally applicable local rules; unparsed supplements remain in the source library. Rule boundaries and transcription are drafts. Embedded notes, forms, and running headers may remain within rule text; subsection anchors and field-separated notes are not yet reviewed."
+  },
+  "provisions": [
+    {
+      "id": "vaed-civil:1",
+      "collectionId": "vaed-civil",
+      "districtId": "vaed",
+      "number": "1",
+      "citation": "Eastern District of Virginia · Rule 1",
+      "title": "SCOPE OF RULES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-6",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 1\nSCOPE OF RULES\n(A) Application: These Local Rules, made pursuant to the authority granted by Fed. R. Civ. P. 83 for the \nUnited States District Courts, as prescribed by the Supreme Court of the United States, so far as not \ninconsistent therewith, shall apply in all civil actions and civil proceedings in the United States District \nCourt for the Eastern District of Virginia. \nEffective March 26, 2007, all documents filed with the Court must be filed through the Electronic Case \nFiling System, except as provided otherwise in the Court’s Electronic Case Filing Policies and \nProcedures manual (“manual”) which is promulgated and revised by the Clerk. The manual governs if \nthere is a conflict between it and these Local Rules as to the technicalities of electronic case filing. These \nLocal Rules govern where the manual provides for filing paper documents, and in all other matters not \ninvolving electronic case filing.\n(B) Statutory Rules: 1 U.S.C. §§ 1-5, inclusive, shall, as far as applicable, govern the construction of \nthese Local Rules.\n(C) Effective Date of Amendments: Amendments to these Local Rules shall take effect on the date of \nentry of the order authorizing the amendments and shall govern all proceedings thereafter commenced \nand, insofar as just and practicable, all then pending proceedings.",
+          "pages": [
+            5
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-7",
+          "path": [],
+          "type": "paragraph",
+          "text": "7\n",
+          "pages": [
+            6
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vaed-civil-parsed-v1-b2f28b233e18ec56",
+      "sourceDocumentId": "parsed-vaed-b2f28b233e18ec56",
+      "sourceUrl": "https://www.vaed.uscourts.gov/sites/vaed/files/Local%20Rules%20EDVA%20December%201%202024.pdf",
+      "pageIndex": 5,
+      "pageSpan": [
+        5,
+        6
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vaed-civil:3",
+      "collectionId": "vaed-civil",
+      "districtId": "vaed",
+      "number": "3",
+      "citation": "Eastern District of Virginia · Rule 3",
+      "title": "AREA AND DIVISIONS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-7",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 3\nAREA AND DIVISIONS\n(A) Area: The Eastern District of Virginia consists of the counties, cities, and towns specified in 28 \nU.S.C. § 127, and the places for holding Court within the district are prescribed as Alexandria, Newport \nNews, Norfolk, and Richmond. \n(B) Divisions: This district shall be divided into four divisions to be designated as the Alexandria, \nNewport News, Norfolk, and Richmond Divisions; the place for holding Court for each of said divisions \nshall be the city whose name the division bears, and the territory comprising, and embraced in, each of the \nsaid divisions shall be as follows: \n(1) The Alexandria Division shall consist of the City of Alexandria and the Counties of Loudoun, \nFairfax, Fauquier, Arlington, Prince William, and Stafford and any other city or town \ngeographically within the exterior boundaries of said counties. \n(2) The Newport News Division shall consist of the Cities of Newport News, Hampton and \nWilliamsburg, and the Counties of York, James City, Gloucester, Mathews, and any other city or \ntown geographically within the exterior boundaries of said counties. \n(3) The Norfolk Division shall consist of the Cities of Norfolk, Portsmouth, Suffolk, Franklin, \nVirginia Beach, Chesapeake, and Cape Charles, and the Counties of Accomack, Northampton, \nIsle of Wight, Southampton, and any other city or town geographically within the exterior \nboundaries of said counties. \n(4) The Richmond Division shall consist of the Cities of Richmond, Petersburg, Hopewell, \nColonial Heights, and Fredericksburg, and the Counties of Amelia, Brunswick, Caroline, Charles \nCity, Chesterfield, Dinwiddie, Essex, Goochland, Greensville, Hanover, Henrico, King and \nQueen, King George, King William, Lancaster, Lunenburg, Mecklenburg, Middlesex, New Kent, \nNorthumberland, Nottoway, Powhatan, Prince Edward, Prince George, Richmond, Spotsylvania, \nSurry, Sussex, Westmoreland, and any other city or town geographically within the exterior \nboundaries of said counties. \n(5) All of the waters, and the land under such waters, adjacent and opposite to any city, county, or \ntown shall be a part of the division of which said city, county, or town is a part, and wherever \nthere are any waters between any city, county, or town which are in different divisions, then such \nwaters and land under them shall be considered to be in both divisions. \n(6) In the event of any annexation or merger of any cities and/or counties, the land lying within \nthe merged or annexed area shall be deemed within the exterior boundaries of the original city or \ncounty to the same intent and purpose as if the annexation or merger had not occurred, unless \notherwise modified by Local Rule.\n(C) Division in Which Suits are to Be Instituted: Civil actions for which venue is proper in this district \nshall be brought in the proper division, as well. The venue rules stated in 28 U.S.C. § 1391 et seq. also \nshall apply to determine the proper division in which an action shall be filed. For the purpose of \ndetermining the proper division in which to lay venue, the venue rules stated in 28 U.S.C. § 1391 et seq. \nshall be construed as if the terms \"judicial district\" and \"district\" were replaced with the term \"division.\" ",
+          "pages": [
+            6
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-8",
+          "path": [],
+          "type": "paragraph",
+          "text": "8\nHowever, the Clerk's Office in any division shall accept for filing new complaints which, venue excepted, \nare in proper form. Such complaints shall be filed on the day submitted, deemed \"filed\" for all purposes, \nand forwarded to the division where venue lies for further proceedings. ",
+          "pages": [
+            7
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-9",
+          "path": [],
+          "type": "paragraph",
+          "text": "9\n",
+          "pages": [
+            8
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vaed-civil-parsed-v1-b2f28b233e18ec56",
+      "sourceDocumentId": "parsed-vaed-b2f28b233e18ec56",
+      "sourceUrl": "https://www.vaed.uscourts.gov/sites/vaed/files/Local%20Rules%20EDVA%20December%201%202024.pdf",
+      "pageIndex": 6,
+      "pageSpan": [
+        6,
+        8
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vaed-civil:4",
+      "collectionId": "vaed-civil",
+      "districtId": "vaed",
+      "number": "4",
+      "citation": "Eastern District of Virginia · Rule 4",
+      "title": "SERVICE AND RETURN OF SUMMONS – ABATEMENT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-9",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 4\nSERVICE AND RETURN OF SUMMONS – ABATEMENT\n(A) Service and Abatement: If service of a summons and complaint is sought other than under Fed. R. \nCiv. P. 4(d) but is not effected, the Marshal or other person responsible for effecting service shall return \nthe summons and complaint to the Clerk with an endorsement thereon stating the reasons for failure to \neffect service. \nAll waivers of service obtained under Fed. R. Civ. P. 4(d) shall be filed within five (5) days after they are \nreturned to plaintiff. Unless, within ninety (90) days after the complaint is filed, a defendant has been \nserved, or has appeared or has waived service, the Clerk shall abate the action and dismiss it without \nprejudice as to such defendant(s) after having given, but received no response to, the notice required by \nFed. R. Civ. P. 4(m).\nWhere the United States, its officers, corporations, or agencies are served by mail pursuant to Fed. R. Civ. \nP. 4(i)(1)(A), service shall be effective on the date of the postmark or on the date received if there is no \npostmark or it is illegible. The United States Attorney shall file a certificate reporting the postmark and \nreceipt dates.\n(B) Withholding Service: Requests by a party to withhold the service of a summons and complaint, or a \nthird-party summons and complaint upon parties as to whom waiver of service provisions are inapplicable \nshall not be granted by the Clerk without leave of Court first obtained; provided, however, that a party \nmay request the Clerk to withhold the issuance and service of an in rem process upon advising the Clerk \nthat the property subject to arrest or attachment is not within the jurisdiction or that arrangements have \nbeen made for the acceptance of service.\n(C) Civil Cover Sheet: The Clerk shall require a complete and executed AO Form JS 44(a), Civil Cover \nSheet, to accompany each civil action filed except as to actions filed by prisoners and other litigants \nproceeding pro se. ",
+          "pages": [
+            8
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-10",
+          "path": [],
+          "type": "paragraph",
+          "text": "10\n",
+          "pages": [
+            9
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vaed-civil-parsed-v1-b2f28b233e18ec56",
+      "sourceDocumentId": "parsed-vaed-b2f28b233e18ec56",
+      "sourceUrl": "https://www.vaed.uscourts.gov/sites/vaed/files/Local%20Rules%20EDVA%20December%201%202024.pdf",
+      "pageIndex": 8,
+      "pageSpan": [
+        8,
+        9
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vaed-civil:5",
+      "collectionId": "vaed-civil",
+      "districtId": "vaed",
+      "number": "5",
+      "citation": "Eastern District of Virginia · Rule 5",
+      "title": "REQUESTS TO FILE DOCUMENTS UNDER SEAL",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-10",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 5\nREQUESTS TO FILE DOCUMENTS UNDER SEAL\nAND THE HANDLING OF DOCUMENTS UNDER SEAL\n(A) Unless otherwise provided by law, Court rule, or prior order of the Court, no document or portion of \na document may be filed under seal unless the filer has complied with the procedures set forth herein.\n(B) As Provided by Law: A party filing a document or a portion of a document under seal pursuant to \na governing statute, rule, or order shall note on the face of the document that it or a portion of it is being \nfiled under seal pursuant to a statute, rule, or order. Other than in cases filed under seal pursuant to the \nFalse Claims Act, 31 U.S.C. § 3730(b), at the time of the filing, the filer shall also file a notice available \nto the public stating that a filing has been made under seal and identifying the statute, rule, or order \nauthorizing the filing under seal and describing what information is being filed under seal. If the Court \ndetermines that the cited statute, rule, or order does not provide for the filing under seal, the Court may \norder that the document or a portion of it be filed in the public record. \n(C) Motions to File Under Seal: Motions to file documents under seal are disfavored and discouraged. \nAgreement of the parties that a document or other material should be filed under seal or the designation of \na document or other material as confidential during discovery is not, by itself, sufficient justification for \nallowing a document or other material to be filed under seal. Anyone seeking to file a document or other \nmaterial under seal must make a good faith effort to redact or seal only as much as necessary to protect \nlegitimate interests. Blanket sealing of entire briefs, documents, or other papers is rarely appropriate.\nA document or a portion of a document not covered by section (B) may be filed under seal only if a \nmotion to file under seal pursuant to this section is filed contemporaneously with the material for which \nsealing is requested. Failure to file a timely motion to seal may result in the document being placed in the \npublic record. The document or portion of a document that is the subject of a motion to seal and any \nconfidential memorandum submitted therewith will be treated as sealed pending a determination by the \nCourt on the motion to seal. Where sealing is sought for less than an entire document or filing, an \nunsealed, redacted version of the document or filing shall be filed in the public record. \nFailure to file a timely motion to seal may result in the document being placed in the public record.\nThe motion to file under seal shall be accompanied by a non-confidential supporting memorandum, a \nseparate non-confidential notice that specifically identifies the motion as a sealing motion, and a non￾confidential proposed order. The proposed order shall recite the findings required by governing case law \nto support the proposed sealing. The non-confidential memorandum shall include:\n(1) A non-confidential description of what material has been filed under seal;\n(2) A statement why sealing is necessary, and why another procedure will not suffice, as well as \nappropriate evidentiary support for the sealing request;\n(3) References to the governing case law, an analysis of the appropriate standard to be applied \nfor that specific filing, and a description of how that standard has been satisfied;",
+          "pages": [
+            9
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-11",
+          "path": [],
+          "type": "paragraph",
+          "text": "11\n(4) Unless permanent sealing is sought, a statement as to the period of time the party seeks to \nhave the matter maintained under seal and how the matter is to be handled upon unsealing.\nA confidential memorandum may also be submitted. \nWhen a party moves to file material under seal because another party has designated that material as \nconfidential, the party designating the material as confidential must file a response to the motion \ncomplying with requirements (2), (3), and (4) above along with a proposed order. \nThe notice shall be identified as a notice of filing a motion to seal and it shall inform the parties and non￾parties that they may submit memoranda in support of or in opposition to the motion within seven (7) \ndays after the filing of the motion to seal, and that they may designate all or part of such memoranda as \nconfidential. Any information designated as confidential in a supporting or opposing memorandum will \nbe treated as sealed pending a determination by the Court on the motion to seal. The notice shall also \nstate that any person objecting to the motion must file an objection with the Clerk within seven (7) days \nafter the filing of the motion to seal and that if no objection is filed in a timely manner, the Court may \ntreat the motion as uncontested.\nAfter the seven (7) day time period for filing a response or any objection to the motion to seal and any \nfurther briefing ordered by the Court, the Court will determine whether the material should remain under \nseal. The Court may require the filer or the person designating material as confidential to present further \nargument why certain material should remain under seal. If the Court determines that the appropriate \nstandards for filing material under seal have not been satisfied, it may order that the material be filed in \nthe public record.\n(D) Whenever a party files a document under seal, the filer must deliver a paper copy of all pleadings and \ndocuments relating to the motion to seal to the presiding District Judge or Magistrate Judge for review. \nWhen the proceedings are concluded, the Court will either destroy the paper copies containing the \nconfidential material or direct counsel to retrieve them.\n(E) Any document that is delivered to the Clerk’s Office or to a judge’s chambers that contains \ninformation that is the subject of an existing sealing order or is the subject of a motion to seal, shall be \nsecurely sealed with the container clearly labeled “UNDER SEAL.” The case number, case caption, a \nreference to any statute, rule, order, or motion relating to the filing, the corresponding ECF docket \nnumber of the sealed material, and a non-confidential descriptive title of the document shall also be noted \non the container.\n(F) A motion to have an entire case kept under seal shall be subject to the requirements and procedures of \nsections (B) or (C), as applicable.\n(G) Nothing in this Local Civil Rule limits the ability of the parties, by agreement, to restrict access to \ndocuments which are not filed with the Court.\n(H) Trial exhibits, including documents previously filed under seal, and trial transcripts will not be filed \nunder seal except upon a showing of necessity demonstrated to the trial judge.",
+          "pages": [
+            10
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-12",
+          "path": [],
+          "type": "paragraph",
+          "text": "12\n",
+          "pages": [
+            11
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vaed-civil-parsed-v1-b2f28b233e18ec56",
+      "sourceDocumentId": "parsed-vaed-b2f28b233e18ec56",
+      "sourceUrl": "https://www.vaed.uscourts.gov/sites/vaed/files/Local%20Rules%20EDVA%20December%201%202024.pdf",
+      "pageIndex": 9,
+      "pageSpan": [
+        9,
+        11
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vaed-civil:7",
+      "collectionId": "vaed-civil",
+      "districtId": "vaed",
+      "number": "7",
+      "citation": "Eastern District of Virginia · Rule 7",
+      "title": "PLEADINGS – MOTIONS – CONTINUANCES – ORDERS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-12",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 7\nPLEADINGS – MOTIONS – CONTINUANCES – ORDERS\n(A) Grounds and Relief to be Stated: All motions shall state with particularity the grounds\ntherefor and shall set forth the relief or order sought.\n(B) Address and Telephone Number of Attorney and Pro Se Litigants: All pleadings and\nmotions shall include the attorney's office address and telephone number. All pleadings filed\nby non-prisoner litigants proceeding pro se shall contain an address where notice can be\nserved on such person and a telephone number where such person can be reached or a\nmessage left. All pleadings filed by prisoners proceeding pro se shall contain an address\nwhere notice can be served on such person.\n(C) Personal Identifiers: \n(1) Redaction of personal identifiers is governed by Fed.R.Civ.P. 5.2 unless the Court directs \notherwise. In all actions for benefits under the Social Security Act, the government shall file the \nadministrative record under seal in paper form, the Court having found that such administrative \nrecords are by nature confidential and that applicants’ privacy interests outweigh any public \ninterest in disclosure; but this provision does not preclude a motion to unseal in any such action.\n(2) The responsibility for redacting personal identifiers rests solely with counsel and the parties. \nThe Clerk will not review each pleading for compliance with this Local Rule. Counsel and the \nparties are cautioned that failure to redact these personal identifiers may subject them to \nsanctions.\n(D) Use of Forms: Abrogated.\n(E) Return Date: Except as otherwise provided by an order of the Court or by these Local\nRules, all motions shall be made returnable to the time obtained from and scheduled by the\nCourt for a hearing thereon. The moving party shall be responsible to set the motion for\nhearing or to arrange with opposing counsel for submission of the motion without oral\nargument. Unless otherwise ordered, a motion shall be deemed withdrawn if the movant does\nnot set it for hearing (or arrange to submit it without a hearing) within thirty (30) days after the\ndate on which the motion is filed. The non-moving party also may arrange for a hearing.\nBefore endeavoring to secure an appointment for a hearing on any motion, it shall be\nincumbent upon the counsel desiring such hearing to meet and confer in person or by\ntelephone with his or her opposing counsel in a good-faith effort to narrow the area of\ndisagreement. In the absence of any agreement, such conference shall be held in the office of\nthe attorney nearest the Court in the division in which the action is pending. In any division\nthat has a regularly scheduled motions day, the motion should be noticed for the first\npermissible motions day. The hearing date of motions for summary judgment is also governed by Local \nCivil Rule 56.\n(F) Briefs Required:",
+          "pages": [
+            11
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-13",
+          "path": [],
+          "type": "paragraph",
+          "text": "13\n(1) All motions, unless otherwise directed by the Court and except as noted\nherein below in subsection 7(F)(2), shall be accompanied by a written brief setting forth\na concise statement of the facts and supporting reasons, along with a citation of the\nauthorities upon which the movant relies. Unless otherwise directed by the Court, the\nopposing party shall file a response brief and such supporting documents as are\nappropriate, within fourteen (14) calendar days after service and the moving party may file a\nreply brief within six (6) calendar days after the service of the opposing party's response brief.\nThe fourteen (14) and six (6) calendar day periods for response and reply briefs shall apply \nwithout regard to, and are not expanded by, the mode of service used for those briefs, \nnotwithstanding the provisions of Fed. R. Civ. P. 6(d). No further briefs or written \ncommunications may be filed without first obtaining leave of Court.\n(2) Unless the court directs otherwise, briefs need not accompany motions for: (a) a more definite \nstatement; (b) an extension of time to respond to pleadings, unless the time has already expired; \nand (c) a default judgment.\n(3) All briefs, including footnotes, shall be written in 12 point Roman style or 10 pitch\nCourier style with one inch margins. Except for good cause shown in advance of filing,\nopening and responsive briefs, exclusive of affidavits and supporting documentation,\nshall not exceed thirty (30) 8-1/2 inch x 11 inch pages double-spaced and rebuttal\nbriefs shall not exceed twenty (20) such pages.\n(G) Continuances: Motions for continuances of a trial or hearing date shall not be granted by\nthe mere agreement of counsel. No continuance will be granted other than for good cause\nand upon such terms as the Court may impose.\n(H) Filing of Pleadings: After the filing of the complaint, all pleadings, motions, briefs, and\nfilings of any kind must be timely filed with the Clerk's Office of the division in which the case is\npending.\n(I) Extensions: Any requests for an extension of time relating to motions must be in writing and, in \ngeneral, will be looked upon with disfavor.\n(J) Determination of Motions Without Oral Hearing: In accordance with Fed. R. Civ. P. 78,\nthe Court may rule upon motions without an oral hearing.\n(K) Court Orders – Objections Noted: Whenever counsel shall endorse an order and note\nwith such endorsement any objection to the order, unless the grounds of such objection have\nbeen previously stated in the record, or unless the grounds are set forth in writing at the time\nand as a part of the endorsement, or a request made to the Court for a hearing, it will be\nassumed the objection is without effect and waived.",
+          "pages": [
+            12
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-14",
+          "path": [],
+          "type": "paragraph",
+          "text": "14\n",
+          "pages": [
+            13
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vaed-civil-parsed-v1-b2f28b233e18ec56",
+      "sourceDocumentId": "parsed-vaed-b2f28b233e18ec56",
+      "sourceUrl": "https://www.vaed.uscourts.gov/sites/vaed/files/Local%20Rules%20EDVA%20December%201%202024.pdf",
+      "pageIndex": 11,
+      "pageSpan": [
+        11,
+        13
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vaed-civil:7.1",
+      "collectionId": "vaed-civil",
+      "districtId": "vaed",
+      "number": "7.1",
+      "citation": "Eastern District of Virginia · Rule 7.1",
+      "title": "DISCLOSURE STATEMENT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-14",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 7.1\nDISCLOSURE STATEMENT\n(A) Nongovernmental Corporations. A nongovernmental corporation, partnership, trust, or other \nsimilar entity that is a party to, or that appears in, an action or proceeding in this Court shall:\n(1) file a statement that:\na. identifies all its parent, subsidiary, or affiliate entities (corporate or otherwise) that \nhave issued stock or debt securities to the public and also identifies any publicly held \nentity (corporate or otherwise) that owns 10% or more of its stock, and\nb. identifies all parties in the partnerships, general or limited, or owners or members of \nnon-publicly traded entities such as LLCs or other closely held entities, or\nc. states that there is nothing to report under Local Civil Rule 7.1(A)(1)(a) and (b); and\n(2) file a supplemental statement containing such additional information as may be from time to \ntime required by the Judicial Conference of the United States or this Court.\n(B) Parties or Intervenors in a Diversity Case. In an action in which jurisdiction is based on diversity \nunder 28 U.S.C. § 1332(a), a party or intervenor must, unless the Court orders otherwise, file a disclosure \nstatement. The statement must name and identify the citizenship of every individual or entity whose \ncitizenship is attributable to that party or intervenor. This disclosure statement must be filed when the \naction is filed or removed to federal court and when any later event occurs that could affect the Court’s \njurisdiction under § 1332(a).\n(C) Time for Filing. A statement or form required by Local Civil Rule 7.1(A) shall be filed upon the \nparty’s first appearance, pleading, petition, motion, response, or other request addressed to the Court. A \nsupplemental statement or form shall be filed promptly upon any change in the circumstances that Local \nCivil Rule 7.1(A) requires the party to identify.",
+          "pages": [
+            13
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-15",
+          "path": [],
+          "type": "paragraph",
+          "text": "15\n",
+          "pages": [
+            14
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vaed-civil-parsed-v1-b2f28b233e18ec56",
+      "sourceDocumentId": "parsed-vaed-b2f28b233e18ec56",
+      "sourceUrl": "https://www.vaed.uscourts.gov/sites/vaed/files/Local%20Rules%20EDVA%20December%201%202024.pdf",
+      "pageIndex": 13,
+      "pageSpan": [
+        13,
+        14
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vaed-civil:16",
+      "collectionId": "vaed-civil",
+      "districtId": "vaed",
+      "number": "16",
+      "citation": "Eastern District of Virginia · Rule 16",
+      "title": "PRETRIAL CONFERENCE",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-15",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 16\nPRETRIAL CONFERENCE\n(A) Applicability of Rule 16: Proceedings upon a defendant's default and matters involving habeas \ncorpus petitions, other pro se prisoner petitions, bankruptcy proceedings, condemnation cases, forfeitures, \nand reviews from administrative agencies, are not subject to the provisions of this Local Rule, but the \njudge to whom any such case is assigned may, in his or her discretion, follow the procedure outlined \nherein in whole or in part in any case. (See Fed. R. Civ. P. 16(b).)\n(B) Initial Pretrial Conference and Order and Scheduling Order: In all other civil actions, as \npromptly as possible after a complaint or notice of removal has been filed, the Court shall schedule an \ninitial pretrial conference to be conducted in accordance with Fed. R. Civ. P. 16(b). In addition thereto, or \nin lieu thereof, not later than sixty (60) days from first appearance or ninety (90) days after service of the \ncomplaint, the Court shall enter an order fixing the cut-off dates for the respective parties to complete the \nprocesses of discovery, the date for a final pretrial conference and, whenever practicable, the trial date, \nand providing for any other administrative or management matters permitted by Fed. R. Civ. P. 16 or by \nlaw generally.\nThe parties and their counsel are bound by the dates specified in any such orders and no extensions or \ncontinuances thereof shall be granted in the absence of a showing of good cause. Mere failure on the part \nof counsel to proceed promptly with the normal processes of discovery shall not constitute good cause for \nan extension or continuance.",
+          "pages": [
+            14
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "16\n",
+          "pages": [
+            15
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vaed-civil-parsed-v1-b2f28b233e18ec56",
+      "sourceDocumentId": "parsed-vaed-b2f28b233e18ec56",
+      "sourceUrl": "https://www.vaed.uscourts.gov/sites/vaed/files/Local%20Rules%20EDVA%20December%201%202024.pdf",
+      "pageIndex": 14,
+      "pageSpan": [
+        14,
+        15
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vaed-civil:26",
+      "collectionId": "vaed-civil",
+      "districtId": "vaed",
+      "number": "26",
+      "citation": "Eastern District of Virginia · Rule 26",
+      "title": "DISCOVERY AND DISCLOSURE",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 26\nDISCOVERY AND DISCLOSURE\n(A) Discovery:\n(1) In this district, pursuant to Fed. R. Civ. P. 26(f), hereinafter Rule 26(f), it may be required by \norder that:\n(a) the scheduling and planning conference outlined in Fed. R. Civ. P. 16(b) be held \nfewer than twenty-one (21) days after the conference required by Rule 26(f); and\n(b) the written report outlining the discovery plan due under Rule 26(f) be filed fewer \nthan fourteen (14) days after the conference between the parties or the parties be excused \nfrom submitting a written report and be permitted to report orally on their discovery plan \nat the conference required by Fed. R. Civ. P. 16(b).\n(2) In this district, magistrate judges are authorized to conduct the scheduling and planning \nconference and issue the scheduling order for which provision is made in Fed. R. Civ. P. 16(b). \n(3) A deposition taken without leave of Court pursuant to a notice under Fed. R. Civ. P. 30(a)(1) \nbefore the time required by Fed. R. Civ. P. 12 for filing an answer or responsive pleading shall \nnot be used against a party who demonstrates that, when served with the notice, it was unable \nthrough the exercise of diligence to obtain counsel to represent it at the taking of the deposition.\n(B) Requirement of Writing: All objections to interrogatories, depositions, requests, or applications \nunder Fed. R. Civ. P. 26 through 37, as well as all motions and replies thereto concerning discovery \nmatters, shall be in writing. If time does not permit the filing of a written motion, the Court may, in its \ndiscretion, waive this requirement.\n(C) Objections to Discovery Process: Unless otherwise ordered by the Court, an objection to any \ninterrogatory, request, or application under Fed. R. Civ. P. 26 through 37, shall be served within fifteen \n(15) days after the service of the interrogatories, request, or application; or, in a case removed or \ntransferred to this Court after discovery was served, within fifteen (15) days after the date of removal or \ntransfer. The Court may allow a shorter or longer time. Any such objection shall be specifically stated. \nAny such objection shall not extend the time within which the objecting party must otherwise answer or \nrespond to any discovery matter to which no specific objection has been made. \n(D) Expert Disclosures:\n(1) Agreement Upon Disclosure: Counsel are encouraged to agree upon the sequence and timing \nof the expert disclosures required by Fed. R. Civ. P. 26(a)(2). All such agreements must be in the \nform of a consent order entered by the Court.\n(2) Timing of Mandatory Disclosure: Absent such a consent order or unless ordered otherwise, ",
+          "pages": [
+            15
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "17\nthe disclosures required by Fed. R. Civ. P. 26(a)(2) shall be made first by the plaintiff not later \nthan sixty (60) days before the earlier of the date set for completion of discovery or for the final \npretrial conference, if any, then by the defendant thirty (30) days thereafter. Plaintiff shall \ndisclose fifteen (15) days thereafter any evidence that is solely contradictory or rebuttal evidence \nto the defendant's disclosure. \n(3) Completion of Disclosure: Whether accomplished by agreement pursuant to Local Civil Rule \n26(D)(1) or pursuant to the schedule set by Local Civil Rule 26(D)(2), all parties shall complete \nall forms of expert disclosure and discovery not later than thirty (30) days after the date upon \nwhich plaintiff is, or would be, required by Fed. R. Civ. P. 26(a)(2)(C) to disclose contradictory \nor rebuttal evidence. \n(4) General Provisions: For purposes of this Local Rule, counter-claim plaintiffs, cross-claimants, \nand third-party plaintiffs shall be plaintiffs as to all elements of the counter-claim, cross-claim, or \nthird-party claim. Answers to interrogatories directed at clarification of the written reports of \nexpert witnesses disclosed pursuant to Fed. R. Civ. P. 26(a)(2) shall be due fifteen (15) days after \nservice.",
+          "pages": [
+            16
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "18\n",
+          "pages": [
+            17
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vaed-civil-parsed-v1-b2f28b233e18ec56",
+      "sourceDocumentId": "parsed-vaed-b2f28b233e18ec56",
+      "sourceUrl": "https://www.vaed.uscourts.gov/sites/vaed/files/Local%20Rules%20EDVA%20December%201%202024.pdf",
+      "pageIndex": 15,
+      "pageSpan": [
+        15,
+        17
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vaed-civil:30",
+      "collectionId": "vaed-civil",
+      "districtId": "vaed",
+      "number": "30",
+      "citation": "Eastern District of Virginia · Rule 30",
+      "title": "DEPOSITIONS – EXPENSES – SUMMARIES – REVIEWING DEPOSITIONS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 30\nDEPOSITIONS – EXPENSES – SUMMARIES – REVIEWING DEPOSITIONS\n(A) Discovery: Any party, or representative of a party (e.g., officer, director, or managing agent), filing a \ncivil action in the proper division of this Court must ordinarily be required, upon request, to submit to a \ndeposition at a place designated within the division. Exceptions to this general rule may be made on \norder of the Court when the party, or representative of a party, is of such age or physical condition, or \nspecial circumstances exist, as may reasonably interfere with the orderly taking of a deposition at a place \nwithin the division. A defendant, who becomes a counterclaimant, cross-claimant, or third-party plaintiff, \nshall be considered as having filed an action in this Court for the purpose of this Local Rule. This \nsubsection shall not apply to an involuntary plaintiff or an interpleader plaintiff.\n(B) Recording and Transcribing Transcript of Discovery Deposition: The expense of recording a \ndeposition shall be paid by the party seeking to take same. The expense of transcribing the deposition \nshall be paid by any party ordering the preparation of the original. Any other party desiring a copy of said \ndeposition shall pay for same at the copy rate. Parties may, by agreement, equally share the costs of \nattendance and transcribing, including such copies as desired. \n(C) Attorneys' Fees: Unless the services of associate counsel are retained, in lieu of travel expense, it is \nnot the policy of the Court to make an allowance of counsel fees in attending any deposition, except to the \nextent provided by statute and otherwise in this Local Rule, but the Court reserves the right to make a \nreasonable allowance where the circumstances of the case may justify same.\n(D) Security for Travel Expense: Any party desiring to take the deposition of a witness (not a party or \nrepresentative of a party) for discovery or use at trial or a party or representative of a party as ordered by \nthe Court under Local Civil Rule 30(A), beyond a division of the Court in which the action is pending, \nshall, if such testimony cannot be readily procured in another manner, prepay or secure the reasonable \ncost of travel of not more than one opposing counsel to the place of taking the deposition and return \ntherefrom, but in no event shall the reasonable costs of travel exceed an amount which would reasonably \nbe required to be paid to associate counsel in the area in which the deposition is being taken unless \ninsufficient time is allowed in giving the notice to take depositions.\n(E) Travel Expense: The costs of travel as provided in this Local Rule shall consist of the reasonable \ncosts of travel by air or other public transportation, or an allowance for travel by private automobile at the \nprevailing rate per mile as may be provided for federal government employees on official business, or \nwhichever means of transportation is reasonably selected and used, including the cost of transportation \nfrom the office or residence to the terminal of the public transportation and from the destination terminal \nto the place of the taking of the deposition, and reasonable overnight accommodations, if deemed \nreasonably necessary, and return. The Court may, in its discretion, make a reasonable allowance for food.\nThe cost of travel, as herein defined, shall apply to any witness (not a party or the representative of a \nparty) required to attend the taking of a deposition. As to any witness attending a trial or hearing in a civil \naction, pursuant to Fed. R. Civ. P. 45(b)(2), the expense of such cost of travel shall be taxed as costs if \nsaid witness testifies or if it is reasonably necessary for the witness to appear, but said costs of travel shall \nbe limited to what would have been expended if said witness resided within one hundred (100) miles from ",
+          "pages": [
+            17
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "19\nthe place of the trial or hearing, together with such reasonable allowance, if required for the purpose of \nthe witness testifying, for overnight accommodations and food. If the witness resided within one hundred \n(100) miles of the place of trial or hearing, the cost of travel shall be limited to the mileage and attendance \nfees as provided by law.\n(F) Reviewing Depositions: Whenever depositions are expected to be presented in evidence, counsel \nshall, before the final pretrial conference or if same are not then available before the day of trial, review \nsuch depositions and (1) extract therefrom a short statement of the qualifications of any expert witness to \nread to the jury, (2) eliminate unnecessary and/or irrelevant matters, and (3) eliminate all objections and \nstatements of counsel to avoid reading same to a jury. In the event counsel are unable to agree on what \nshall be eliminated, they shall submit to the Court for a ruling thereon before the date of trial. Failure to \ndo so will constitute a waiver of objections.\n(G) Summaries of Depositions: In all nonjury cases, counsel shall attach to any deposition a summary of \nthe examination of the testimony of each witness, thereby pointing out the salient points to be noted by \nthe Court.\n(H) Reasonable Notice: As a general rule, eleven (11) days in advance of the contemplated taking of a \ndeposition shall constitute reasonable notice of the taking of a deposition in the continental United States, \nbut this will vary according to the complexity of the contemplated testimony and the urgency of taking \nthe deposition of a party or witness at a particular time and place.",
+          "pages": [
+            18
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "20\n",
+          "pages": [
+            19
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vaed-civil-parsed-v1-b2f28b233e18ec56",
+      "sourceDocumentId": "parsed-vaed-b2f28b233e18ec56",
+      "sourceUrl": "https://www.vaed.uscourts.gov/sites/vaed/files/Local%20Rules%20EDVA%20December%201%202024.pdf",
+      "pageIndex": 17,
+      "pageSpan": [
+        17,
+        19
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vaed-civil:37",
+      "collectionId": "vaed-civil",
+      "districtId": "vaed",
+      "number": "37",
+      "citation": "Eastern District of Virginia · Rule 37",
+      "title": "MOTIONS TO COMPEL AND SANCTIONS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 37\nMOTIONS TO COMPEL AND SANCTIONS\n(A) Motions to Compel: After a discovery request is objected to, or not complied with, within time, and \nif not otherwise resolved, it is the responsibility of the party initiating discovery to place the matter before \nthe Court by a proper motion pursuant to Fed. R. Civ. P. 37, to compel an answer, production, \ndesignation, or inspection. Such motion must be accompanied by a brief as required by Local Civil Rule \n37(B).\n(B) Briefing of Discovery Motions: Unless otherwise ordered, the scheduling and page limitation \nprovisions of Local Civil Rule 7(E) shall apply to all discovery motions; provided that the Court may \nelect to decide discovery motions without briefing. \n(C) Compliance with Discovery Orders: After the Court has ruled on a discovery motion, any answer, \nproduction, designation, inspection, or examination required by the Court shall be completed within \neleven (11) days after the entry of the order on the motion, unless otherwise ordered by the Court.\n(D) Failure to Comply with Order: A party objecting to the failure of another party to comply with an \norder on a discovery motion shall be responsible for bringing the non-compliance before the Court by a \nproper motion for supplementary relief pursuant to Fed. R. Civ. P. 37.\n(E) Consultation Among Counsel: Counsel shall confer to decrease, in every way possible the filing of \nunnecessary discovery motions. No motion concerning discovery matters may be filed until counsel shall \nhave conferred in person or by telephone to explore with opposing counsel the possibility of resolving the \ndiscovery matters in controversy. The Court will not consider any motion concerning discovery matters \nunless the motion is accompanied by a statement of counsel that a good faith effort has been made \nbetween counsel to resolve the discovery matters at issue.\n(F) Extensions: Depending upon the facts of the particular case, the Court in its discretion may, upon \nappropriate written motion by a party, allow an extension of time in excess of the time provided by the \nFederal Rules of Civil Procedure, these Local Rules, or previous Court order, within which to respond to \nor complete discovery or to reply to discovery motions. Any agreement between counsel relating to any \nextension of time is of no force or effect; only the Court, after appropriate motion directed thereto, may \ngrant leave for any extension of time. Unless otherwise specifically provided, such extension will be upon \nthe specific condition that, regardless of what may be divulged by such discovery, it will not in any \nmanner alter the schedule of dates and procedure previously adopted by the Court in the particular case.\n(G) Unnecessary Discovery Motions or Objections: The presentation to the Court of unnecessary \ndiscovery motions, the presentation to another party or non-party of unnecessary discovery requests of \nany kind, as well as any unwarranted opposition to proper discovery proceedings, will subject such party \nto appropriate remedies and sanctions, including the imposition of costs and counsel fees.\n(H) Sanctions: Should any party or attorney fail to comply with any of the provisions of this Local Rule \n37 or otherwise fail or refuse to meet and confer in good faith in an effort to narrow the areas of ",
+          "pages": [
+            19
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "21\ndisagreement concerning discovery, sanctions provided by Fed. R. Civ. P. 37 may be imposed\n(I) The provisions of Local Civil Rule 37(A) through (H) above also apply to disputes over the \ndisclosures required by Fed. R. Civ. P. 26(a)(1).",
+          "pages": [
+            20
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "22\n",
+          "pages": [
+            21
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vaed-civil-parsed-v1-b2f28b233e18ec56",
+      "sourceDocumentId": "parsed-vaed-b2f28b233e18ec56",
+      "sourceUrl": "https://www.vaed.uscourts.gov/sites/vaed/files/Local%20Rules%20EDVA%20December%201%202024.pdf",
+      "pageIndex": 19,
+      "pageSpan": [
+        19,
+        21
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vaed-civil:38",
+      "collectionId": "vaed-civil",
+      "districtId": "vaed",
+      "number": "38",
+      "citation": "Eastern District of Virginia · Rule 38",
+      "title": "DEMAND FOR JURY TRIAL",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 38\nDEMAND FOR JURY TRIAL\nAny demand for jury in a civil action must be in writing and filed strictly in accordance with Fed. R. Civ. \nP. 38. Removal actions shall be governed by Fed. R. Civ. P. 81(C). In the event another party is added, \nthe additional party may demand trial by jury at any time within twenty-one (21) days after such party is \nserved with process or summons.",
+          "pages": [
+            21
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "23\n",
+          "pages": [
+            22
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vaed-civil-parsed-v1-b2f28b233e18ec56",
+      "sourceDocumentId": "parsed-vaed-b2f28b233e18ec56",
+      "sourceUrl": "https://www.vaed.uscourts.gov/sites/vaed/files/Local%20Rules%20EDVA%20December%201%202024.pdf",
+      "pageIndex": 21,
+      "pageSpan": [
+        21,
+        22
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vaed-civil:45",
+      "collectionId": "vaed-civil",
+      "districtId": "vaed",
+      "number": "45",
+      "citation": "Eastern District of Virginia · Rule 45",
+      "title": "SUBPOENAS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 45\nSUBPOENAS\n(A) Issuance of Subpoenas: Attorneys of record in an action, or associates in firms of record, as officers \nof the Court, shall issue all subpoenas in the action as authorized by Fed. R. Civ. P. 45(a)(3). \nParties appearing pro se may apply for subpoenas in their own behalf. All such requests by such party \nmust be accompanied by a memorandum setting forth the names and addresses of witnesses or the \ndocuments requested and why and for what purpose or purposes. All such requests by pro se parties shall \nbe referred to a judge or magistrate judge of this Court who shall first determine whether the requested \nsubpoena shall issue; provided, however, that such determination shall not preclude any witness or person \nsummoned or other interested party from later contesting the subpoena.\n(B) Return Date of Subpoenas: All subpoenas shall be made returnable to the place, date, and time of \ntrial or hearing, unless otherwise ordered by the Court.\n(C) Proof of Service of Subpoenas: In civil actions, the party issuing a subpoena for a trial, a hearing, or \ncontempt proceedings, or when it is otherwise necessary to file proof of service, shall file proof of service \nin the form required by Fed. R. Civ. P. 45(b)(4). Any such proof of service shall be filed promptly and, in \nany event, within the time during which the person served must respond to the subpoena. Lawyers and \nparties proceeding pro se shall file with the proof of service in civil actions a certificate that all required \nwitness fees and expenses were served with the subpoena requiring the attendance of the witness. \n(D) Subpoenas to Officials: Without first obtaining permission of the Court, no subpoena shall issue for \nthe attendance at any hearing, trial, or deposition of: (1) the Governor, Lieutenant Governor, or Attorney \nGeneral of any State; (2) a judge of any court; (3) the President or Vice-President of the United States; (4) \nany member of the President's Cabinet; (5) any Ambassador or Consul; or (6) any military officer holding \nthe rank of Admiral or General.\n(E) Timely Service of Subpoenas for Trial or Hearings: Except as otherwise ordered by the Court for \ngood cause shown, subpoenas for attendance of witnesses at hearings or trials in civil actions shall be \nserved not later than fourteen (14) days before the date of the hearing or trial. \n(F) Deposition Subpoenas: Proof of service of a notice to take depositions as provided in Fed. R. Civ. P. \n30(b) and 31(b) constitutes sufficient authorization for the issuance of a subpoena by the Clerk for the \ndistrict in which the deposition is to be taken for the attendance of persons named or described therein. \nExcept as otherwise ordered by the Court for good cause shown, subpoenas compelling attendance at a \ndeposition shall be served not later than eleven (11) days before the date of the deposition. No subpoena \nfor the taking of depositions shall be issued by the Clerk unless there be exhibited to the Clerk a copy of \nthe notice to take deposition together with a statement of the date and manner of service and of the names \nof the persons served, certified by the person who made service. \n(G) Civil Actions – Place of Taking Deposition: Except with respect to a witness in a foreign country \n(See 28 U.S.C. § 1783), the Clerk shall, upon request, issue a subpoena for taking a deposition requiring \nthe appearance of any party or witness at any place within the district or 100 miles from the place where ",
+          "pages": [
+            22
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-24",
+          "path": [],
+          "type": "paragraph",
+          "text": "24\nthat person resides, is employed, or transacts business in person, or is served, or at such other convenient \nplace as is fixed by an order of court. \n(H) Subpoenas in Blank: Whenever there is a question as to whether or not a subpoena in blank should \nbe issued by the Clerk, the applicant shall be referred to a judge of this Court for a final determination. \nBefore issuing a subpoena in blank, the Clerk shall determine the actual pendency of the action and the \ndate and time set for hearing or trial. Except for good cause shown, a blank subpoena returnable in one \ndivision will not be issued out of another division. Blank subpoenas shall recite the title and number of \nthe case and shall be completed in every detail except for the name and address of the witness. Returns of \nservice shall be made promptly and filed with the Clerk. Service of subpoenas in blank shall be subject to \nthe requirements of these Local Rules.",
+          "pages": [
+            23
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "25\n",
+          "pages": [
+            24
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vaed-civil-parsed-v1-b2f28b233e18ec56",
+      "sourceDocumentId": "parsed-vaed-b2f28b233e18ec56",
+      "sourceUrl": "https://www.vaed.uscourts.gov/sites/vaed/files/Local%20Rules%20EDVA%20December%201%202024.pdf",
+      "pageIndex": 22,
+      "pageSpan": [
+        22,
+        24
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vaed-civil:47",
+      "collectionId": "vaed-civil",
+      "districtId": "vaed",
+      "number": "47",
+      "citation": "Eastern District of Virginia · Rule 47",
+      "title": "JURORS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 47\nJURORS\n(A) Jury Lists:\n(1) The entire list of names drawn to serve a division of the Court for a particular period and for a \nparticular action or case, together with the questionnaires prepared by the jurors, may be \ndisclosed to counsel for the parties, or to any party acting pro se, unless the Court directs \notherwise. However, no juror shall be approached, either directly or through any member of his \nor her immediate family, in an effort to secure information concerning such juror.\n(2) When the jurors report for duty at a session of Court, the Clerk shall, upon request, make \navailable to counsel for the parties, or to any party acting pro se, a list of such jurors.\n(B) Peremptory Challenges: In civil actions where there are several plaintiffs and/or several defendants, \nthe Court may allow each or both sides more than the usual number of peremptory challenges permitted \nby law upon motion made at least twenty-one (21) days before the date set for commencement of trial. \nUntimely motions will not be entertained. \n(C) Communication with Jurors: No attorney or party litigant shall personally, or through any \ninvestigator or any other person acting for the attorney or party litigant, interview, examine, or question \nany juror or alternate juror with respect to the verdict or deliberations of the jury in any civil action except \non leave of Court granted upon good cause shown and upon such conditions as the Court shall fix.",
+          "pages": [
+            24
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "26\n",
+          "pages": [
+            25
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vaed-civil-parsed-v1-b2f28b233e18ec56",
+      "sourceDocumentId": "parsed-vaed-b2f28b233e18ec56",
+      "sourceUrl": "https://www.vaed.uscourts.gov/sites/vaed/files/Local%20Rules%20EDVA%20December%201%202024.pdf",
+      "pageIndex": 24,
+      "pageSpan": [
+        24,
+        25
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vaed-civil:51",
+      "collectionId": "vaed-civil",
+      "districtId": "vaed",
+      "number": "51",
+      "citation": "Eastern District of Virginia · Rule 51",
+      "title": "PROPOSED JURY INSTRUCTIONS AND VOIR DIRE",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 51\nPROPOSED JURY INSTRUCTIONS AND VOIR DIRE\nExcept as provided otherwise in a pretrial or scheduling order, in all cases tried to a jury the parties shall \nfile proposed instructions and voir dire questions at least seven (7) days before the scheduled trial date. \nEach instruction shall be set forth on a separate page and shall be numbered and identified appropriately \nby the party submitting it. The parties shall file two versions of the proposed jury instructions with one set \ncontaining at its foot a citation of the authority in support of the instruction and the second set without the \ncitation of authority. Each set of instructions shall be filed as a group together with a cover sheet in \npleading form. Instructions filed with the Court must be proffered to the Court during the instruction \nconference and ruled upon by the judge to become a part of the official record for appeal. ",
+          "pages": [
+            25
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "27\n",
+          "pages": [
+            26
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vaed-civil-parsed-v1-b2f28b233e18ec56",
+      "sourceDocumentId": "parsed-vaed-b2f28b233e18ec56",
+      "sourceUrl": "https://www.vaed.uscourts.gov/sites/vaed/files/Local%20Rules%20EDVA%20December%201%202024.pdf",
+      "pageIndex": 25,
+      "pageSpan": [
+        25,
+        26
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vaed-civil:54",
+      "collectionId": "vaed-civil",
+      "districtId": "vaed",
+      "number": "54",
+      "citation": "Eastern District of Virginia · Rule 54",
+      "title": "COSTS – NOTICE OF APPEAL – JURY COSTS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 54\nCOSTS – NOTICE OF APPEAL – JURY COSTS\n(A) Payment in Advance: All fees and costs due the Clerk shall be paid in advance except as otherwise \nprovided by law. \n(B) Stipulation for Costs for Certain Admiralty and Maritime Claims: No stipulation for costs for \ncomplaints, petitions, counterclaims, and cross-claims, and the filing of an answer, appearance, or claim \nshall be required, unless specifically ordered by the Court, except where now or hereafter required by \nstatute, the Federal Rules of Civil Procedure, or the Supplementary Rules for Certain Admiralty and \nMaritime Claims heretofore or hereafter adopted by Congress or through the rule making process.\n(C) Bond Premiums: If costs are awarded by the Court, the reasonable premiums or expense paid on any \nbond or other security given by the prevailing party shall be taxed as part of the costs.\n(D) Taxable Costs And Procedure For Taxing Costs:\n(1) Bill of Costs. The party entitled to costs shall file a bill of costs as provided in 28 U.S.C. §§ \n1920 and 1924 within fourteen (14) days from the entry of judgment, unless such time is \nextended by order of the Court.\nSuch bill of costs shall distinctly set forth each item thereof so that the nature of the charge can be \nreadily understood. An itemization and documentation for requested costs in all categories shall \nbe attached to the cost bill. Costs will be disallowed if proper documentation is not provided.\n(2) Objection to the Bill of Costs. A party from whom costs are sought may file an opposition to\nthe bill of costs within fourteen (14) calendar days after service of the bill of costs. The \nopposition shall identify each item objected to and the grounds for the objection. Within six (6) \ncalendar days thereafter, the prevailing party may file responses to the objections. The fourteen \n(14) and six (6) calendar day periods for objections and reply briefs shall apply without regard to, \nand are not expanded by, the mode of service used for those briefs, notwithstanding the \nprovisions of Fed. R. Civ. P. 6(d). \nIf no objections are filed, the Clerk shall promptly proceed to tax the costs and shall allow such \nitems specified in the bill of costs as are properly chargeable as costs. The Clerk shall give notice \nof such action to the parties or their counsel. The Court shall promptly review the action of the \nClerk upon timely motion under Fed. R. Civ. P. 54(d). In the absence of a timely motion the \naction of the Clerk is final.\nIf objections are filed and the Clerk is unable to determine all or some of the properly chargeable \ncosts, the application for such costs shall be referred to the judge who presided over the trial or, at \nthe discretion of that judge, to a magistrate judge for report and recommendation under 28 U.S.C. \n§ 636(b)(1)(B).\n(E) Excessive and Unnecessary Costs: Any party applying for costs which are not recoverable or which ",
+          "pages": [
+            26
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "28\nare excessive shall be subject to sanction under Fed. R. Civ. P. 11.\n(F) Notice of Appeal – Fees:\n(1) Where there are multiple parties seeking to appeal jointly (e.g., where cases are consolidated \nor tried together or decided by a single judgment or order) and a joint notice of appeal is filed, the \nClerk shall collect only one fee and only one cost bond, if required. Where separate notices of \nappeal are filed, the Clerk shall collect separate fees and require separate bonds.\n(2) Separate notices of appeal, separate fees, and separate bonds are required of a party who \nexercises a right of appeal under Fed. R. App. P. 4(a)(3), within fourteen (14) days of the date on \nwhich the first notice of appeal was filed.\n(G) Jury Costs: Whenever any civil action scheduled for jury trial is settled, or otherwise disposed of in \nadvance of the actual trial, then, except for good cause shown, juror costs, including service fees, mileage, \nand per diem, shall be assessed equally against the parties and their counsel or otherwise assessed as \ndirected by the Court, unless the Clerk is notified at least one (1) full business day prior to the day on \nwhich the action is scheduled for trial in time to advise the jurors that it will not be necessary for them to \nattend.\nLikewise, when any civil action, proceeding as a jury trial, is settled at trial in advance of the verdict, \nthen, except for good cause shown, all jury costs, service fees, mileage, and per diem shall be assessed \nequally against the parties and their counsel, or otherwise assessed as directed by the Court.",
+          "pages": [
+            27
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "29\n",
+          "pages": [
+            28
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vaed-civil-parsed-v1-b2f28b233e18ec56",
+      "sourceDocumentId": "parsed-vaed-b2f28b233e18ec56",
+      "sourceUrl": "https://www.vaed.uscourts.gov/sites/vaed/files/Local%20Rules%20EDVA%20December%201%202024.pdf",
+      "pageIndex": 26,
+      "pageSpan": [
+        26,
+        28
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vaed-civil:56",
+      "collectionId": "vaed-civil",
+      "districtId": "vaed",
+      "number": "56",
+      "citation": "Eastern District of Virginia · Rule 56",
+      "title": "SUMMARY JUDGMENT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 56\nSUMMARY JUDGMENT\n(A) Summary Judgment – Time of Filing: The time provisions of Fed. R. Civ. P. 56(b) shall not apply \nin this District. No motion for summary judgment shall be considered unless it is filed and set for hearing \nor submitted on briefs within a reasonable time before the date of trial, thus permitting a reasonable time \nfor the Court to hear arguments and consider the merits after completion of the briefing schedule specified \nin Local Civil Rule 7(F)(1).\n(B) Summary Judgment – Listing Of Undisputed Facts: Each brief in support of a motion for \nsummary judgment shall include a specifically captioned section listing all material facts as to which the \nmoving party contends there is no genuine issue and citing the parts of the record relied on to support the \nlisted facts as alleged to be undisputed. A brief in response to such a motion shall include a specifically \ncaptioned section listing all material facts as to which it is contended that there exists a genuine issue \nnecessary to be litigated and citing the parts of the record relied on to support the facts alleged to be in \ndispute. In determining a motion for summary judgment, the Court may assume that facts identified by \nthe moving party in its listing of material facts are admitted, unless such a fact is controverted in the \nstatement of genuine issues filed in opposition to the motion.\n(C) Summary Judgment – Separate Motions: Unless permitted by leave of Court, a party shall not file \nseparate motions for summary judgment addressing separate grounds for summary judgment.",
+          "pages": [
+            28
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "30\n",
+          "pages": [
+            29
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vaed-civil-parsed-v1-b2f28b233e18ec56",
+      "sourceDocumentId": "parsed-vaed-b2f28b233e18ec56",
+      "sourceUrl": "https://www.vaed.uscourts.gov/sites/vaed/files/Local%20Rules%20EDVA%20December%201%202024.pdf",
+      "pageIndex": 28,
+      "pageSpan": [
+        28,
+        29
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vaed-civil:62",
+      "collectionId": "vaed-civil",
+      "districtId": "vaed",
+      "number": "62",
+      "citation": "Eastern District of Virginia · Rule 62",
+      "title": "APPEAL BOND – EXEMPTION FROM",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 62\nAPPEAL BOND – EXEMPTION FROM\n(A) Exemption: The Commonwealth of Virginia, or any political subdivision or any office or agent \nthereof, shall not be required, unless otherwise ordered by the Court, to post an appeal bond or other \nundertaking which includes security for the payment of costs on appeal.\n(B) Alternate to Appeal Bond: In lieu of any appeal bond, the parties may stipulate with respect to any \nagreement or undertaking. In lieu of any cost bond, the parties may stipulate with respect to any \nagreement or undertaking on the condition that the monies and properties of the Court are fully protected \nor prepaid. The prevailing party in the District Court should seriously consider this subdivision as, in the \nevent of a reversal, the premium of any bond will be taxed as a part of the costs. All such stipulations \nmust be approved by the Court and filed in the record.",
+          "pages": [
+            29
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "31\n",
+          "pages": [
+            30
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vaed-civil-parsed-v1-b2f28b233e18ec56",
+      "sourceDocumentId": "parsed-vaed-b2f28b233e18ec56",
+      "sourceUrl": "https://www.vaed.uscourts.gov/sites/vaed/files/Local%20Rules%20EDVA%20December%201%202024.pdf",
+      "pageIndex": 29,
+      "pageSpan": [
+        29,
+        30
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vaed-civil:65",
+      "collectionId": "vaed-civil",
+      "districtId": "vaed",
+      "number": "65",
+      "citation": "Eastern District of Virginia · Rule 65",
+      "title": "SURETIES – SECURITY – BONDSMAN",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 65\nSURETIES – SECURITY – BONDSMAN\n(A) Security: Except as otherwise provided by law or by agreement of the parties, every bond, \nundertaking, or stipulation must be secured by (1) the deposit of cash or negotiable government bonds, \nundertaking, or stipulation; (2) the undertaking or guaranty of a corporate surety doing business in \nVirginia and holding a certificate of authority from the Secretary of the Treasury; or (3) the undertaking \nor guaranty of sufficient solvent sureties, residents of Virginia, who own real or personal property within \nthe State of Virginia worth double the amount of the bond, undertaking, or stipulation over all debts and \nliabilities, and over all obligations assumed on other bonds, undertakings or stipulations, and exclusive of \nall legal exemptions. A husband and wife may act as surety on a bond, but they shall be considered as \nonly one surety. If a bond, undertaking, or stipulation is executed by individual sureties, each surety shall \nexecute an affidavit of justification, giving the full name, occupation, residence, and business address, \nshowing that he or she is qualified as an individual surety under the provisions of this Local Rule.\n(B) Prohibited Sureties: Members of the bar, administrative officers or employees of this Court, and the \nUnited States Marshal, his deputies or assistants, shall not act as a surety in any civil action. A member \nof the bar may execute a bond as attorney-in-fact upon presenting a properly executed power of attorney.\n(C) Powers of Clerk: To approve security, the Clerk is authorized to approve all stipulations, bonds, \nguaranties, or undertakings, in the penal sum prescribed by statute or order of the Court, whether the \nsecurity be property or personal or corporate surety. If the bond is offered by a professional bondsman or \na person qualifying under (A)(3) above, approval of the Court, magistrate judge, or bankruptcy judge \nshall be obtained for penal sums in excess of $25,000.00.\n(D) Professional Bondsman: Any person desiring to become surety for compensation (professional \nbondsman) on any bond required to be given in any matter before the Court or any of its magistrate \njudges or bankruptcy judges, or in any other matter under the jurisdiction of this Court, shall, before \nattempting to act, obtain approval of the Court. Application for such approval shall be by petition, duly \nsworn to, setting forth:\n(1) That the applicant is of good moral character, is a citizen of the Commonwealth of Virginia, \nand residing within the boundaries of the Eastern District of Virginia.\n(2) His or her full name, business and home address, marital status, and the nature of any business \nconducted by such person.\n(3) Whether he or she is licensed in Virginia and/or any of the cities or counties of Virginia to act \nas a professional bondsman and, if so, where and whether such person has qualified in any of the \nCourts of Virginia to so act.\n(4) Statement (signed by the owners) of assets (including both real estate and personal estate) and \nliabilities, and as to real estate, its description, location, how titled and any encumbrances \nthereon. If a partnership is involved, a statement of the assets of both the partnership and the \nindividual parties must be included, signed by owners of the assets. Assets owned by third parties \nor jointly with parties who are not partners will not be considered.",
+          "pages": [
+            30
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "32\n(5) A list of any and all bonds on which such person is the surety, the nature of the bond, and \nwhere lodged.\n(6) That such person will quarter-annually file with the Court a list of all bonds upon which he or \nshe is surety, whether any bonds are in default, whether any action on such bond has been \ninstituted, and whether there are any unpaid judgments against such person.\n(7) A certificate from a Court of record, or the Chief of Police of the home city or town, or of two \nother responsible citizens, that such person is of good moral character.\n(8) A list of any and all criminal convictions, except traffic violations, and whether there are any \npending indictments or warrants against such person.\n(9) If the information provided under paragraph (4) above reveals a total net worth of at least \n$200,000.00, and the applicant is otherwise satisfactory, an order may be entered permitting the \napplicant to act until further order of the Court. Should at any time the total net worth stated in \nparagraph (4) fall below $200,000.00 as shown on any quarterly report, or the applicant have \nmore bonds outstanding than can be adequately covered, in the Court's opinion, by the net worth \nshown, or the applicant fail to file on time any quarterly report, or if for any reason the Court \nshould deem the security offered by the applicant to be inadequate or outstanding bonds not \nadequately secured, the Court may terminate the right of the applicant to act as surety on any \nbond, without notice.",
+          "pages": [
+            31
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "33\n",
+          "pages": [
+            32
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vaed-civil-parsed-v1-b2f28b233e18ec56",
+      "sourceDocumentId": "parsed-vaed-b2f28b233e18ec56",
+      "sourceUrl": "https://www.vaed.uscourts.gov/sites/vaed/files/Local%20Rules%20EDVA%20December%201%202024.pdf",
+      "pageIndex": 30,
+      "pageSpan": [
+        30,
+        32
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vaed-civil:67",
+      "collectionId": "vaed-civil",
+      "districtId": "vaed",
+      "number": "67",
+      "citation": "Eastern District of Virginia · Rule 67",
+      "title": "DEPOSIT, WITHDRAWAL AND INVESTMENT OF FUNDS IN THE",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 67\nDEPOSIT, WITHDRAWAL AND INVESTMENT OF FUNDS IN THE\nCOURT REGISTRY INVESTMENT SYSTEM\nWhen the Court is requested to enter an order involving the payment of funds into Court for deposit for \nthe benefit of any party, the parties shall submit a draft order, endorsed by counsel for all parties, and such \ndraft order shall comply with the requirements contained in the Court’s Order Regarding Deposit and \nInvestment of Registry Funds that is posted in the Standing Order section of the Court’s public website \n(www.vaed.uscourts.gov). A draft order submitted on behalf of any party under a legal disability shall be \nendorsed by the party’s guardian ad litem. A party requesting any disbursement of the deposited funds \nshall provide a proposed order for withdrawal of funds held in the Court Registry Investment System \n(CRIS), and such proposed order shall contain the names, addresses, and last four digits of the social \nsecurity or full employer identification numbers of the recipients of the funds.",
+          "pages": [
+            32
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "34\n",
+          "pages": [
+            33
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vaed-civil-parsed-v1-b2f28b233e18ec56",
+      "sourceDocumentId": "parsed-vaed-b2f28b233e18ec56",
+      "sourceUrl": "https://www.vaed.uscourts.gov/sites/vaed/files/Local%20Rules%20EDVA%20December%201%202024.pdf",
+      "pageIndex": 32,
+      "pageSpan": [
+        32,
+        33
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vaed-civil:71A",
+      "collectionId": "vaed-civil",
+      "districtId": "vaed",
+      "number": "71A",
+      "citation": "Eastern District of Virginia · Rule 71A",
+      "title": "LAND CONDEMNATION ACTIONS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 71A\nLAND CONDEMNATION ACTIONS\nThe guidelines for filing, docketing, recording, and reporting land condemnation proceedings approved \nby the Judicial Conference of the United States at its March 1975 session are approved for use in this \njurisdiction and are hereby adopted. The Clerk is directed to implement these guidelines and is \nauthorized, where the United States files separate condemnation actions and a single declaration of taking \nrelating to those separate actions, to establish a master file in which the declaration of taking may be filed. \nThe filing of the declaration of taking therein shall constitute a filing of the same in each of the actions to \nwhich it relates. ",
+          "pages": [
+            33
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "35\n",
+          "pages": [
+            34
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vaed-civil-parsed-v1-b2f28b233e18ec56",
+      "sourceDocumentId": "parsed-vaed-b2f28b233e18ec56",
+      "sourceUrl": "https://www.vaed.uscourts.gov/sites/vaed/files/Local%20Rules%20EDVA%20December%201%202024.pdf",
+      "pageIndex": 33,
+      "pageSpan": [
+        33,
+        34
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vaed-civil:72",
+      "collectionId": "vaed-civil",
+      "districtId": "vaed",
+      "number": "72",
+      "citation": "Eastern District of Virginia · Rule 72",
+      "title": "UNITED STATES MAGISTRATE JUDGES – DUTIES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 72\nUNITED STATES MAGISTRATE JUDGES – DUTIES\nMagistrate judges of this district serve as judicial officers of the Court and are authorized and specially \ndesignated to perform all duties authorized or allowed to be performed by United States magistrate judges \nby the United States Code and any rule governing proceedings in this Court.\nDuties and cases may be assigned or referred to a magistrate judge by an order entered in the action or on \nthe instructions of a district judge.\nAny objection to a magistrate judge’s order on a nondispositive matter pursuant to Fed. R. Civ. P. 72(a) \nshall be considered a motion and is subject to the briefing and notice requirements on Local Civil Rule 7, \nor as otherwise ordered by the Court.",
+          "pages": [
+            34
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "36\n",
+          "pages": [
+            35
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vaed-civil-parsed-v1-b2f28b233e18ec56",
+      "sourceDocumentId": "parsed-vaed-b2f28b233e18ec56",
+      "sourceUrl": "https://www.vaed.uscourts.gov/sites/vaed/files/Local%20Rules%20EDVA%20December%201%202024.pdf",
+      "pageIndex": 34,
+      "pageSpan": [
+        34,
+        35
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vaed-civil:79",
+      "collectionId": "vaed-civil",
+      "districtId": "vaed",
+      "number": "79",
+      "citation": "Eastern District of Virginia · Rule 79",
+      "title": "EXHIBITS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 79\nEXHIBITS\n(A) Submission of Trial Exhibits: In all civil actions, unless otherwise ordered by the Court, the party \nintending to offer exhibits at trial shall place them in a binder, properly tabbed, numbered, and indexed, \nand the original and two (2) copies shall be delivered to the Clerk, with copies in the same form to the \nopposing party, one (1) business day before the trial. The submitting party may substitute photographs \nfor demonstrative or sensitive exhibits. \n(B) Custody and Removal of Exhibits During and After Trial:\n(1) Custody: After being marked for identification, exhibits offered or admitted in evidence in \nany action tried in this Court shall be placed in the custody of the Clerk, unless otherwise ordered \nby the Court. All other exhibits, models, and material not offered and admitted in evidence shall \nbe retained in custody of the attorney or party producing same at trial, unless otherwise directed \nby the Court.\n(2) Removal: Whenever any models, diagrams, exhibits, depositions, transcripts, briefs, tables, \ncharts, paper writings, articles, other items, material, or things have been placed in the custody of \nthe Clerk for introduction into evidence or otherwise, and same are not admitted or marked for \nidentification, or otherwise used, they shall be removed by the party who delivered or filed or \nlodged them with the Clerk immediately following the conclusion of the trial or other disposition \nof the action, unless otherwise directed by the Court. If such items are not withdrawn within ten \n(10) days after the right to withdraw them exists, the Clerk may forward them to counsel or the \nparty entitled to them or destroy or make other disposition of them as the Clerk may deem \nappropriate.\n(3) Substitutions: Unless otherwise ordered by the Court, at the conclusion of the trial of a civil \naction, photographs will be substituted for bulky exhibits and the exhibits shall be returned to the \ntendering party. The tendering party is responsible for furnishing the photographs, which shall \naccurately and fully depict the exhibits for which they are substituted.\n(C) Final Disposition of Exhibits: All exhibits, models, diagrams, depositions, transcripts, \nbriefs, tables, charts, paper writings, articles, other items, material, or things introduced,\ntendered, lodged, or marked in the trial of a civil action or lodged, filed, or delivered to the Clerk in \nanticipation of their introduction into evidence or for use at trial, shall be withdrawn by the parties to the \nlitigation or their counsel upon the expiration of thirty (30) days after the judgment has become final and \nthe time for appeal or application for a rehearing or further hearing shall have passed. If such items, \nmaterial, or things are not so removed within the time aforesaid, the Clerk may forward them to counsel \nor the party entitled thereto or shall destroy or make such other disposition or use of them as the Clerk \nmay deem appropriate. The Court may at any time direct or order one or more counsel to be the \ncustodian of the exhibits and depositions rather than the Clerk.",
+          "pages": [
+            35
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-37",
+          "path": [],
+          "type": "paragraph",
+          "text": "37\n",
+          "pages": [
+            36
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vaed-civil-parsed-v1-b2f28b233e18ec56",
+      "sourceDocumentId": "parsed-vaed-b2f28b233e18ec56",
+      "sourceUrl": "https://www.vaed.uscourts.gov/sites/vaed/files/Local%20Rules%20EDVA%20December%201%202024.pdf",
+      "pageIndex": 35,
+      "pageSpan": [
+        35,
+        36
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vaed-civil:80",
+      "collectionId": "vaed-civil",
+      "districtId": "vaed",
+      "number": "80",
+      "citation": "Eastern District of Virginia · Rule 80",
+      "title": "TRANSCRIPTS – RECORD ON APPEAL",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-37",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 80\nTRANSCRIPTS – RECORD ON APPEAL\n(A) Court Reporter Management Plan: In accordance with the provisions of 28 U.S.C. § 753 and the \nrequirements of a resolution adopted by the Judicial Conference of the United States at its March 1982 \nsession, all district courts have been required to file a Court Reporter Management Plan, which is \navailable for inspection and copying in the Clerk’s Office. This plan provides information about the \nsupervision, duties and assignments, including the work hours, of court reporters and notes the fee \nschedule for transcripts. The transcript rates charged by reporters are governed by rates recommended by \nthe Judicial Conference of the United States, if adopted by this Court. The schedule of maximum fees \nwhich may be charged is posted in the Clerk's Office.\n(B) Release of Transcript: The filing, viewing, and purchasing of transcripts of proceedings is governed \nby the Court’s Electronic Case Filing Policies and Procedures manual.\n(C) Obligation to Pay Court Reporter: The obligation to pay the court reporter for any and all \ntranscripts shall be the joint and several personal obligation of the attorney, and the party for whose \nbenefit the transcript was obtained, when the order is placed, to the extent so ordered. Any charges for a \ntranscript shall be payable upon the completion of the transcript or any segment thereof, when a proper \nbill for same has been submitted by the court reporter. If proper charges for transcripts are not paid \nwithin a reasonable time after submission, the court reporter may refer the matter to a district judge for \nsuch action as may be deemed appropriate.\n(D) Record on Appeal: Unless otherwise directed by the Court, the record on appeal in civil cases shall \nnot include the examination of the jury on voir dire, counsel's opening statements, arguments of counsel, \nincluding arguments of counsel on motions, and the Court's charge to the jury unless there were \nexceptions to the charge.\n(E) Daily or Expedited Copy: All requests for daily or expedited transcripts must be made in writing to \nthe court reporter, if known, and, if not, to the Clerk, with copies to opposing counsel, not later than five \n(5) days before the hearing or trial to be transcribed.",
+          "pages": [
+            36
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-38",
+          "path": [],
+          "type": "paragraph",
+          "text": "38\n",
+          "pages": [
+            37
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vaed-civil-parsed-v1-b2f28b233e18ec56",
+      "sourceDocumentId": "parsed-vaed-b2f28b233e18ec56",
+      "sourceUrl": "https://www.vaed.uscourts.gov/sites/vaed/files/Local%20Rules%20EDVA%20December%201%202024.pdf",
+      "pageIndex": 36,
+      "pageSpan": [
+        36,
+        37
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vaed-civil:83.1",
+      "collectionId": "vaed-civil",
+      "districtId": "vaed",
+      "number": "83.1",
+      "citation": "Eastern District of Virginia · Rule 83.1",
+      "title": "ATTORNEYS AND PRO SE PARTIES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-38",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 83.1\nATTORNEYS AND PRO SE PARTIES\n(A) Eligibility: Any person who is an Active Member of the Virginia State Bar in good standing is \neligible to practice before this Court upon admission. \n(B) Initial Appearance: Any person who meets the requirements of the foregoing paragraph and who \nmaintains a law office outside of Virginia shall set forth his or her Virginia State Bar I.D. Number on any \ninitial pleading or other filing by such person.\n(C) Procedure for Admission: Every person desiring admission to practice in this\nCourt shall file with the Clerk written application therefor accompanied by an endorsement by two (2) \nqualified members of the bar of this Court stating that the applicant is of good moral character and \nprofessional reputation. The form for such application may be obtained from the Clerk’s Office.\nAs a part of the application, the applicant shall certify that applicant has within ninety (90) days prior to \nsubmission of the application read or reread (a) the Federal Rules of Civil Procedure, (b) the Federal \nRules of Evidence, and (c) the Local Rules of the United States District Court for the Eastern District of \nVirginia.\nThe applicant shall thereafter be presented by a qualified practitioner of the Court who shall in open Court \nby oral motion, and upon giving assurance to the Court that the practitioner has examined the credentials \nof the applicant and is satisfied the applicant possesses the necessary qualifications, move the applicant’s \nadmission to practice.\nThe applicant shall in open Court take the oath required for admission, subscribe the roll of the Court, and \npay to the Clerk the required fee. For such payment, the applicant shall be issued a certificate of \nqualification by the Clerk. For good cause shown, the Court may waive payment of the fee. \n(D) Federal Government Attorneys: \n(1) Any federal government attorney appearing pursuant to the authority of the United States \nAttorney’s Office for the Eastern District of Virginia or the Federal Public Defender’s Office for \nthe Eastern District of Virginia may appear and sign pleadings and other filings without \nadmission to practice in this Court as long as such attorney is qualified and licensed to practice \nbefore the Supreme Court of the United States, or before the highest court of any state in the \nUnited States, or before the courts in the District of Columbia.\n(2) Any other federal government attorney representing the United States government, or any \nagency or employee thereof, may appear and sign pleadings and other filings in an action without \nadmission to practice in the Court as long as such attorney is qualified and licensed to practice \nbefore the Supreme Court of the United States, or before the highest court of any state in the \nUnited States, or before the courts in the District of Columbia. However, any such attorney must \nsecure local counsel by either working with an Assistant United States Attorney assigned to the \nEastern District of Virginia or local counsel admitted to practice under subsection (C), who shall ",
+          "pages": [
+            37
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "39\naccompany the attorney in appearances before the Court and also sign all pleadings and other \nfilings. \n(3) A federal government attorney appearing in an official capacity is not required to pay the \nadmission fee.\n(E) Foreign Attorneys: \n(1) Upon written motion by a member of this Court, a practitioner qualified to practice in the \nUnited States District Court of another state or the District of Columbia may apply for pro hac\nvice admission in a specific case and to appear and sign pleadings and other filings, provided that:\n(a) The rules of the United States District Court of the district in which the practitioner \nmaintains an office extend a similar privilege to members of the bar of this Court; and\n(b) That such practitioners from another state or the District of Columbia shall be \naccompanied by a member of the bar of this Court in all appearances before this Court.\nFor purposes of this rule, a member of the bar of this Court shall be a person admitted or \nauthorized to practice under subsections (C) or (D)(1).\n(2) All practitioners admitted before this Court for the purpose of participating in a particular \nproceeding pro hac vice shall be subject to the Local Rules of the United States District Court for \nthe Eastern District of Virginia and the Federal Rules of Disciplinary Enforcement (Appendix B). \nApplicants for pro hac vice admission shall complete a written application certifying that they \nhave read the Local Rules and shall pay the required fee to the Clerk. If the Court finds the \napplication otherwise appropriate, upon payment of the required fee, the Court may order the pro \nhac vice admission of the applicant. Revenues from pro hac vice admission fees shall be \ndeposited in the Court’s non-appropriated funds account and disbursed by order of the chief judge \nof the district for such improvements to the Court’s administration of justice as the chief judge \nfinds appropriate.\n(3) Except where a party conducts his or her own case, no pleading or other filing required to be \nsigned by an attorney shall be filed unless also signed by an attorney who is admitted or \nauthorized to practice in this Court under subsections (C) or (D)(1), with the office address where \nnotice can be served upon said attorney, and who shall have such authority that the Court can deal \nwith the attorney alone in all matters connected with the case. Such appearance shall not be \nwithdrawn without leave of the Court. Service of notice or other proceedings on such an attorney \nshall be equivalent to service on the parties for whom the attorney appeared.\n(F) Western District of Virginia: Any attorney admitted to practice in the Western District of Virginia \nwho is an Active Member of the Virginia State Bar in good standing shall be permitted to practice in the \nEastern District of Virginia upon the filing of a certificate from the Clerk of the Western District of \nVirginia showing that such attorney has been duly admitted to practice in that district. \n(G) Filings and Appearances by Attorneys: Any attorney appearing before, or signing pleadings or \nother filings with the Court, must be admitted or authorized to practice under subsections (C), (D), (E), or ",
+          "pages": [
+            38
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-40",
+          "path": [],
+          "type": "paragraph",
+          "text": "40\n(F). Attorneys admitted pro hac vice or authorized to practice before the Court under subsections (D)(2) \nor (E), must be accompanied at all hearings, pretrial matters, or trials by at least one attorney admitted or \nauthorized to practice under subsections (C) or (D)(1). This obligation may not be avoided or delegated \nwithout leave of Court. Pleadings or other filings submitted by attorneys admitted pro hac vice or \nauthorized to practice under subsections (D)(2) or (E), must also be signed by an attorney admitted or \nauthorized to practice before the Court under subsections (C) or (D)(1). Any attorney who signs a \npleading or other filing with the Court will be held accountable for the case by the Court.\n(H) Withdrawal of Appearance: No attorney who has entered an appearance in any civil action shall \nwithdraw such appearance, or have it stricken from the record, except on order of the Court and after \nreasonable notice to the party on whose behalf said attorney has appeared. \n(I) Practicing Before Admission or While Disbarred or Suspended: Any person who, before \nadmission to the bar of this Court or during any disbarment or suspension, exercises any of the privileges \nof a member of the bar of this Court, or who pretends to be entitled so to do, shall be guilty of contempt \nof court and subject to appropriate punishment therefor.\n(J) Professional Ethics: The ethical standards relating to the practice of law in civil cases in this Court \nshall be Section II of Part Six of the Rules of the Virginia Supreme Court as it may be amended or \nsuperseded from time to time.\n(K) Courtroom Decorum: Counsel shall at all times conduct and demean themselves with dignity and \npropriety. When addressing the Court, counsel shall rise unless excused therefrom by the Court. All \nstatements and communications to the Court shall be clearly and audibly made from a standing position at \nthe counsel table or, if the Court is equipped with an attorney's lectern, from a standing position behind \nthe lectern, facing the Court or the witness. Counsel shall not approach the bench unless requested to do \nso by the Court or unless permission is granted upon the request of counsel.\nExamination of witnesses shall be conducted by counsel standing behind the lectern or, if none, behind \nthe counsel table. Counsel shall not approach the witness except for the purpose of presenting, inquiring \nabout, or examining the witness with respect to an exhibit, unless otherwise permitted by the Court. Only \none attorney for each party may participate in the examination or cross-examination of a witness.\n(L) Third-Year Law Student: An eligible law student qualifying pursuant to Paragraph II of the Plan for \nThird-Year Practice filed in each division of this Court is herewith given leave to participate in any civil \ncase pursuant to said plan and as said plan may, from time to time, be amended. The Plan for Third-Year \nPractice is Appendix A to these Local Rules. \n(M) Federal Rules of Disciplinary Enforcement: All counsel admitted to practice before this Court\npursuant to subsections (C), (D), (E), or (F) shall be subject to the rules, conditions, and provisions set \nforth in full as Appendix B to these Local Rules. For purposes of this rule, “any other court of the United \nStates,” as that phrase is used in Rules II and III of the Federal Rules of Disciplinary Enforcement set \nforth at Appendix B, includes the United States Bankruptcy Court for the Eastern District of Virginia.\n(N) Ghostwriting:\n(1) Any attorney who prepares any document that is to be filed in this Court by a person who is ",
+          "pages": [
+            39
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-41",
+          "path": [],
+          "type": "paragraph",
+          "text": "41\nknown by the attorney, or who is reasonably expected by the attorney, to be proceeding pro se, \nshall be considered to have entered an appearance in the proceeding in which such document is \nfiled and shall be subject to all rules that govern attorneys who have formally appeared in the \nproceeding.\n(2) All litigants who are proceeding pro se shall certify in writing and under penalty of perjury \nthat his or her pleadings or other filings have not been prepared by, or with the aid of, an attorney \nor shall identify any attorney who has prepared, or assisted in preparing, the document.\nEach document filed with the court by a pro se litigant shall bear the following certification:\nCERTIFICATION\nI declare under penalty of perjury that:\n(1) No attorney has prepared, or assisted in the preparation of this document. \n________________________________\n Name of Pro Se Party (Print or Type)\n________________________________\n Signature of Pro Se Party\nExecuted on: _____________________ (Date)\nOR\n(2) ________________________________\n (Name of Attorney)\n________________________________\n (Address of Attorney)\n________________________________\n (Telephone Number of Attorney)\nPrepared, or assisted in the preparation of, this document.\n________________________________\n(Name of Pro Se Party (Print or Type)\n________________________________\n Signature of Pro Se Party\n Executed on: _____________________ (Date) ",
+          "pages": [
+            40
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-42",
+          "path": [],
+          "type": "paragraph",
+          "text": "42\n",
+          "pages": [
+            41
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vaed-civil-parsed-v1-b2f28b233e18ec56",
+      "sourceDocumentId": "parsed-vaed-b2f28b233e18ec56",
+      "sourceUrl": "https://www.vaed.uscourts.gov/sites/vaed/files/Local%20Rules%20EDVA%20December%201%202024.pdf",
+      "pageIndex": 37,
+      "pageSpan": [
+        37,
+        41
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vaed-civil:83.2",
+      "collectionId": "vaed-civil",
+      "districtId": "vaed",
+      "number": "83.2",
+      "citation": "Eastern District of Virginia · Rule 83.2",
+      "title": "SALES AND DISTRIBUTION OF PROCEEDS OF SALES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-42",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 83.2\nSALES AND DISTRIBUTION OF PROCEEDS OF SALES\n(A) General: All sales shall be made by the United States Marshal or an authorized Deputy United States \nMarshal in the name of the Marshal and the provisions of Local Admiralty Rule (e)(15) subparagraphs (b) \nthrough (e) shall apply except as may be modified in this Local Rule.\n(B) Confirmation by Court: All sales shall be subject to confirmation by the Court. The Marshal shall \nfile with the Clerk on the day of sale a report thereof. An interested person may object to the sale by \nfiling written objections with the Clerk within two (2) business days following the sale in conformity with \nLocal Admiralty Rule (e)(15)(c). If no objections are filed, the sale shall stand confirmed unless the \nCourt orders otherwise within said time. If objections are filed within the said two (2) days, the Clerk \nshall forthwith submit the report and objections to the Court for prompt disposition.\n(C) Marshal's Discretion in Certain Instances: The Marshal may decline to knock down a vessel or \nother property to the highest bidder when the highest bid, in his or her opinion, is grossly inadequate.\n(D) Deposit of Sale Proceeds: The proceeds of all sales by the Marshal shall be forthwith paid into the \nregistry of the Court to be disposed of according to law.\n(E) Distributions: All distributions of the proceeds of any sale shall be by order of Court. \n(F) Certain Maritime Liens: Maritime liens filed before sale, including liens filed by leave of Court at \nanytime prior to sale, shall be paid first. Maritime liens filed after sale shall be paid last. Liens in each of \nthe foregoing two classes shall preserve their respective rank as among themselves, except in the case of \nmaritime liens of the first class, the order of priority between such liens shall be that those which have \naccrued within one year prior to the filing of the complaint shall be paid first, and claims which have \naccrued theretofore shall be paid in the inverse order of the years in which they accrued.",
+          "pages": [
+            41
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-43",
+          "path": [],
+          "type": "paragraph",
+          "text": "43\n",
+          "pages": [
+            42
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vaed-civil-parsed-v1-b2f28b233e18ec56",
+      "sourceDocumentId": "parsed-vaed-b2f28b233e18ec56",
+      "sourceUrl": "https://www.vaed.uscourts.gov/sites/vaed/files/Local%20Rules%20EDVA%20December%201%202024.pdf",
+      "pageIndex": 41,
+      "pageSpan": [
+        41,
+        42
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vaed-civil:83.3",
+      "collectionId": "vaed-civil",
+      "districtId": "vaed",
+      "number": "83.3",
+      "citation": "Eastern District of Virginia · Rule 83.3",
+      "title": "PHOTOGRAPHING, RECORDING, BROADCASTING,",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-43",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 83.3\nPHOTOGRAPHING, RECORDING, BROADCASTING,\nOR TRANSMITTING IN THE COURTHOUSE\n(A) General: The taking of photographs and operation of any recording technology (other than by an \nofficial court reporter or employee of the court) in the courthouse, and any broadcasting or transmitting in \nany manner from the courthouse during or in connection with judicial proceedings, including proceedings \nbefore a magistrate judge or bankruptcy judge, whether or not Court is actually in session, is prohibited. \nA judge may, however, permit (1) the use of electronic or photographic means for the presentation of \nevidence or the preservation of a record; and (2) the photographing, recording, broadcasting, or \ntransmitting of investitive, ceremonial, or naturalization proceedings.\n(B) Permitted Photography: The taking of photographs within the courthouse, not otherwise in \nconnection with a judicial proceeding, is permitted when properly authorized by a supervisory courthouse \nemployee and with the consent of the person or persons to be photographed.\n(C) Remote Participation: Any person remotely participating in any court proceeding may not record or \ncause to be recorded any such proceeding without the express consent of the presiding judge.",
+          "pages": [
+            42
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-44",
+          "path": [],
+          "type": "paragraph",
+          "text": "44\n",
+          "pages": [
+            43
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vaed-civil-parsed-v1-b2f28b233e18ec56",
+      "sourceDocumentId": "parsed-vaed-b2f28b233e18ec56",
+      "sourceUrl": "https://www.vaed.uscourts.gov/sites/vaed/files/Local%20Rules%20EDVA%20December%201%202024.pdf",
+      "pageIndex": 42,
+      "pageSpan": [
+        42,
+        43
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vaed-civil:83.4",
+      "collectionId": "vaed-civil",
+      "districtId": "vaed",
+      "number": "83.4",
+      "citation": "Eastern District of Virginia · Rule 83.4",
+      "title": "HABEAS CORPUS AND PROCEEDINGS IN FORMA PAUPERIS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-44",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 83.4\nHABEAS CORPUS AND PROCEEDINGS IN FORMA PAUPERIS\n(A) Standard Forms: All pro se petitions for writs of habeas corpora must be filed on a set of \nstandardized forms to be supplied, upon request, by the Clerk without cost to the petitioner. Counsel filing \na petition for writ of habeas corpus need not use a standardized form, but any petition shall contain \nessentially the same information as set forth on said form.\n(B) Filing of Cases by Prisoners In Forma Pauperis: If a party desires to file a proceeding in forma \npauperis under 28 U.S.C. §§ 1915(a), and if the party desiring to file such proceeding is then confined to \na state or federal penal institution, the party shall, within thirty (30) days of the receipt of any order, \naccomplish one of the following:\n(1) Remit the required filing fee to the Clerk, or\n(2) Request an extension of time within which to pay the required fee and thereafter pay same, or \n(3) Cause to be filed a statement of the prison account of the party showing (a) the amount on \ndeposit in the prison account at the period beginning six months immediately preceding the \nsubmission of the complaint or petition herein, and (b) the deposits to that prison account within \nthe six-month period, including the source of said funds so deposited in said account and the \nreasons for any withdrawal therefrom.\n(C) Effect of Permitting Partial Payment; Reconsideration of Status: Permission to proceed in forma \npauperis by making a partial payment shall not be construed as authorizing the order of successive later \npayments after the order has been entered authorizing the party to proceed in forma pauperis. Whenever \nit appears that there may have been a change in the party's financial condition, the Court may reconsider \nwhether the party may continue to proceed in forma pauperis.\n(D) Site of Evidentiary Hearings – Prisoner Cases: At its discretion, the Court may conduct evidentiary \nhearings in prisoner cases at any penal institution in Virginia.",
+          "pages": [
+            43
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-45",
+          "path": [],
+          "type": "paragraph",
+          "text": "45\n",
+          "pages": [
+            44
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vaed-civil-parsed-v1-b2f28b233e18ec56",
+      "sourceDocumentId": "parsed-vaed-b2f28b233e18ec56",
+      "sourceUrl": "https://www.vaed.uscourts.gov/sites/vaed/files/Local%20Rules%20EDVA%20December%201%202024.pdf",
+      "pageIndex": 43,
+      "pageSpan": [
+        43,
+        44
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vaed-civil:83.5",
+      "collectionId": "vaed-civil",
+      "districtId": "vaed",
+      "number": "83.5",
+      "citation": "Eastern District of Virginia · Rule 83.5",
+      "title": "REVIEW OF ORDERS AS TO ADMISSION, SUSPENSION, OR EXCLUSION OF",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-45",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 83.5\nREVIEW OF ORDERS AS TO ADMISSION, SUSPENSION, OR EXCLUSION OF\nPRACTITIONERS BEFORE THE UNITED STATES PATENT AND TRADEMARK OFFICE\nA person refused recognition to practice or suspended or excluded from practice before the United States \nPatent and Trademark Office (“USPTO”) may seek judicial review of such action by filing in the \nAlexandria Division of this Court a petition against the Under Secretary of Commerce of Intellectual \nProperty and Director of the USPTO (“Director”) within 30 days after the date of the order recording the \nDirector’s action. Service of the petition shall be effected in accordance with Fed. R. Civ. P. 4(i)(2). \nWithin 60 days after service of the summons and petition on the U.S. Attorney, the Director shall respond \nto the petition and file a certified copy of the record and proceedings before the USPTO, which shall \nconstitute the sole basis for the Court’s review. The Court may, in its discretion, require briefing and \nargument prior to making a decision on the petition.",
+          "pages": [
+            44
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-46",
+          "path": [],
+          "type": "paragraph",
+          "text": "46\n",
+          "pages": [
+            45
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vaed-civil-parsed-v1-b2f28b233e18ec56",
+      "sourceDocumentId": "parsed-vaed-b2f28b233e18ec56",
+      "sourceUrl": "https://www.vaed.uscourts.gov/sites/vaed/files/Local%20Rules%20EDVA%20December%201%202024.pdf",
+      "pageIndex": 44,
+      "pageSpan": [
+        44,
+        45
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "vaed-civil:83.6",
+      "collectionId": "vaed-civil",
+      "districtId": "vaed",
+      "number": "83.6",
+      "citation": "Eastern District of Virginia · Rule 83.6",
+      "title": "SETTLEMENT AND ALTERNATIVE DISPUTE RESOLUTION",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-46",
+          "path": [],
+          "type": "paragraph",
+          "text": "LOCAL CIVIL RULE 83.6\nSETTLEMENT AND ALTERNATIVE DISPUTE RESOLUTION\n(A) The Court encourages the parties to meet and consult with each other to achieve settlement. Pursuant \nto 28 U.S.C. §§§ 651, 652, and 653, as amended by the Alternative Dispute Resolution Act of 1998, the \nuse of mediation as an alternative dispute resolution process in all civil actions, including adversary \nproceedings in bankruptcy, is authorized. Litigants in all civil cases shall be advised of the availability of \nmediation and may request it. The continued utilization of settlement conferences as a form of mediation \nis also authorized.\n(B) The parties by consent may select and compensate any mutually acceptable non-judicial mediator or \nneutral. No mediator or neutral may be compensated by contingent fee. \n(C) All district judges, magistrate judges, and bankruptcy judges are authorized to act as mediators or \nneutrals.\n(D) The appointment of a mediator or neutral shall not operate to postpone or stay the scheduling of any \ncase or controversy nor shall such appointment be grounds for the continuance of a previously scheduled \ntrial date or the extension of any deadlines previously scheduled by the Court. \n(E) The substance of communication in the mediation process shall not be disclosed to any person other \nthan participants in the mediation process; provided, however, that nothing herein shall modify the \napplication of Federal Rule of Evidence 408 nor shall use in the mediation process of an otherwise \nadmissible document, object, or statement preclude its use at trial.\n(F) The chief judge of the district court shall appoint an ADR Administrator for the district. Duties of the \nAdministrator shall include the following: implementing, administering, overseeing and evaluating the \nCourt's ADR program. \n(G) By order, a district judge, or a magistrate judge to whom a case has been referred on consent or for \nsettlement conference, may provide that counsel and/or a party representative with full settlement \nauthority shall attend a settlement conference at any time the judge considers appropriate.",
+          "pages": [
+            45
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "vaed-civil-parsed-v1-b2f28b233e18ec56",
+      "sourceDocumentId": "parsed-vaed-b2f28b233e18ec56",
+      "sourceUrl": "https://www.vaed.uscourts.gov/sites/vaed/files/Local%20Rules%20EDVA%20December%201%202024.pdf",
+      "pageIndex": 45,
+      "pageSpan": [
+        45,
+        45
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    }
+  ],
+  "evidence": [
+    {
+      "number": "1",
+      "heading": "LOCAL CIVIL RULE 1",
+      "page": 6,
+      "offset": 20,
+      "slices": [
+        {
+          "page": 6,
+          "start": 20,
+          "end": 1359,
+          "sha256": "a52f53c7a39164a63c6c0106ff4a781048efb1093a405be016ab851faf68406c"
+        },
+        {
+          "page": 7,
+          "start": 0,
+          "end": 2,
+          "sha256": "10159baf262b43a92d95db59dae1f72c645127301661e0a3ce4e38b295a97c58"
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "heading": "LOCAL CIVIL RULE 3",
+      "page": 7,
+      "offset": 2,
+      "slices": [
+        {
+          "page": 7,
+          "start": 2,
+          "end": 3256,
+          "sha256": "2ee841200a9e38887470b0c24f8b1538ed23ea71ec06fc73644444aae371f41d"
+        },
+        {
+          "page": 8,
+          "start": 0,
+          "end": 288,
+          "sha256": "0470da1f920e7469cb3f77fc5de4ce3a370ac407dc0d5f132c4a26b8ba1dcb28"
+        },
+        {
+          "page": 9,
+          "start": 0,
+          "end": 2,
+          "sha256": "2e6d31a5983a91251bfae5aefa1c0a19d8ba3cf601d0e8a706b4cfa9661a6b8a"
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "heading": "LOCAL CIVIL RULE 4",
+      "page": 9,
+      "offset": 2,
+      "slices": [
+        {
+          "page": 9,
+          "start": 2,
+          "end": 1983,
+          "sha256": "5de72af71038af5e08ff28576088325daad2d7128508fd020172de8fdea78c94"
+        },
+        {
+          "page": 10,
+          "start": 0,
+          "end": 3,
+          "sha256": "917df3320d778ddbaa5c5c7742bc4046bf803c36ed2b050f30844ed206783469"
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "heading": "LOCAL CIVIL RULE 5",
+      "page": 10,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 10,
+          "start": 3,
+          "end": 3401,
+          "sha256": "dd1f9faa090e1b04495955ace69b94f468ca50bfc3b76831d67f451b5e823f5a"
+        },
+        {
+          "page": 11,
+          "start": 0,
+          "end": 3244,
+          "sha256": "dcbe1aac76194b767d3dd32a5c5f829b61fe41a6a1c7f78aaf395300badbc450"
+        },
+        {
+          "page": 12,
+          "start": 0,
+          "end": 3,
+          "sha256": "a1fb50e6c86fae1679ef3351296fd6713411a08cf8dd1790a4fd05fae8688164"
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "heading": "LOCAL CIVIL RULE 7",
+      "page": 12,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 12,
+          "start": 3,
+          "end": 2847,
+          "sha256": "3402de8aa3c5c1f8f92327fd181453959149c562375585f75475d32d64dac8da"
+        },
+        {
+          "page": 13,
+          "start": 0,
+          "end": 2714,
+          "sha256": "7877a6f0ba58990361321e1e900fd444316e43d1f4e677c2187f480c38d19a54"
+        },
+        {
+          "page": 14,
+          "start": 0,
+          "end": 3,
+          "sha256": "9a92adbc0cee38ef658c71ce1b1bf8c65668f166bfb213644c895ccb1ad07a25"
+        }
+      ]
+    },
+    {
+      "number": "7.1",
+      "heading": "LOCAL CIVIL RULE 7.1",
+      "page": 14,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 14,
+          "start": 3,
+          "end": 1881,
+          "sha256": "5a694be8b81258d9e85f5f259d3ba01066f8166ee05272d25023548eeff7cda0"
+        },
+        {
+          "page": 15,
+          "start": 0,
+          "end": 3,
+          "sha256": "238903180cc104ec2c5d8b3f20c5bc61b389ec0a967df8cc208cdc7cd454174f"
+        }
+      ]
+    },
+    {
+      "number": "16",
+      "heading": "LOCAL CIVIL RULE 16",
+      "page": 15,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 15,
+          "start": 3,
+          "end": 1636,
+          "sha256": "ce8ed2b71f63faefd1860b9567ef1f310abb82dcb431f5e30e75a58fc433ecef"
+        },
+        {
+          "page": 16,
+          "start": 0,
+          "end": 3,
+          "sha256": "e6c21e8d260fe71882debdb339d2402a2ca7648529bc2303f48649bce0380017"
+        }
+      ]
+    },
+    {
+      "number": "26",
+      "heading": "LOCAL CIVIL RULE 26",
+      "page": 16,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 16,
+          "start": 3,
+          "end": 2669,
+          "sha256": "cc2a4948acf247603dd9c46dc0a338c4abbb8f036cd9f719ac8ca447b3eacd14"
+        },
+        {
+          "page": 17,
+          "start": 0,
+          "end": 1266,
+          "sha256": "f2b357522a8b9f6ce3aa4af845f7c914738df79559254c12db1bb0c37c88f51a"
+        },
+        {
+          "page": 18,
+          "start": 0,
+          "end": 3,
+          "sha256": "7ee29791fc17e986b97128845622b077fb45e349fdb80523fac9dba879b4ad60"
+        }
+      ]
+    },
+    {
+      "number": "30",
+      "heading": "LOCAL CIVIL RULE 30",
+      "page": 18,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 18,
+          "start": 3,
+          "end": 3882,
+          "sha256": "6c5ae5c72a66e160091094834726f5b34fc93dd5dc5b208f951fd719f5e9dcbc"
+        },
+        {
+          "page": 19,
+          "start": 0,
+          "end": 1653,
+          "sha256": "3eb9cbe4979190c23172321f080a3c069b9d0f9b5aef851961f73f82f9e7072b"
+        },
+        {
+          "page": 20,
+          "start": 0,
+          "end": 3,
+          "sha256": "5378796307535df3ec8d8b15a2e2dc5641419c3d3060cfe32238c0fa973f7aa3"
+        }
+      ]
+    },
+    {
+      "number": "37",
+      "heading": "LOCAL CIVIL RULE 37",
+      "page": 20,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 20,
+          "start": 3,
+          "end": 3332,
+          "sha256": "40fc9fd48da5d92b6fa087d7d37b93dbcc5a83ce1d426ecfa9bfa4e1fa6271d3"
+        },
+        {
+          "page": 21,
+          "start": 0,
+          "end": 239,
+          "sha256": "2522bc4f304e7ab8afdd7989f0a36cecab3ec2f07a9d4b920a99e18efac61d14"
+        },
+        {
+          "page": 22,
+          "start": 0,
+          "end": 3,
+          "sha256": "f14b4987904bcb5814e4459a057ed4d20f58a633152288a761214dcd28780b56"
+        }
+      ]
+    },
+    {
+      "number": "38",
+      "heading": "LOCAL CIVIL RULE 38",
+      "page": 22,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 22,
+          "start": 3,
+          "end": 397,
+          "sha256": "2cbe52d251f9f3aa988eab9cf7b8b12694f22bedf994c0c66cfa0dd9881e771a"
+        },
+        {
+          "page": 23,
+          "start": 0,
+          "end": 3,
+          "sha256": "076320a2a08267b4c026d06573bba408ea68841e73cdc20e62cce59de165ece3"
+        }
+      ]
+    },
+    {
+      "number": "45",
+      "heading": "LOCAL CIVIL RULE 45",
+      "page": 23,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 23,
+          "start": 3,
+          "end": 3506,
+          "sha256": "5f387168bc32c48fa77bd09849310a1351e925d07f3ffafd8da5a1432771b21f"
+        },
+        {
+          "page": 24,
+          "start": 0,
+          "end": 936,
+          "sha256": "b02a10db2633cb47f01f60932220083e768c54f5765de2a690c3a8676ef9bf53"
+        },
+        {
+          "page": 25,
+          "start": 0,
+          "end": 3,
+          "sha256": "64aeb9975f234becd55bb4635e6e2f2da7a6b7bf0a896f0c07763bdfbfb31420"
+        }
+      ]
+    },
+    {
+      "number": "47",
+      "heading": "LOCAL CIVIL RULE 47",
+      "page": 25,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 25,
+          "start": 3,
+          "end": 1471,
+          "sha256": "d194cbf11d1ec7e17789b2915c6975b78127fe68fa8584c583e3abbe7b98d2f7"
+        },
+        {
+          "page": 26,
+          "start": 0,
+          "end": 3,
+          "sha256": "20d2add851bf39edcc6b5e830930f962db7e19dffa2cab8610eed551eda6c302"
+        }
+      ]
+    },
+    {
+      "number": "51",
+      "heading": "LOCAL CIVIL RULE 51",
+      "page": 26,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 26,
+          "start": 3,
+          "end": 918,
+          "sha256": "0ee0b046894c8e0020be51a99ec23a220e8a8f6ae8e5fd266af37e723ed8c94f"
+        },
+        {
+          "page": 27,
+          "start": 0,
+          "end": 3,
+          "sha256": "932ab0a0e4191d32c0af7b3f565b7b180dbe9869378abc5816f9add54b806e7f"
+        }
+      ]
+    },
+    {
+      "number": "54",
+      "heading": "LOCAL CIVIL RULE 54",
+      "page": 27,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 27,
+          "start": 3,
+          "end": 2918,
+          "sha256": "8030a1dc0c124a921294db354f9165ce4ffd84370854c7a5b564bbb3c0ab114b"
+        },
+        {
+          "page": 28,
+          "start": 0,
+          "end": 1586,
+          "sha256": "62c39c07a984541f23af0dbcf88692e9868f6071027a40a6266029c0131c73de"
+        },
+        {
+          "page": 29,
+          "start": 0,
+          "end": 3,
+          "sha256": "3840bc236ee03aacbb1ef7d5108ddfa347c59f10b68d4174affbb53140f31273"
+        }
+      ]
+    },
+    {
+      "number": "56",
+      "heading": "LOCAL CIVIL RULE 56",
+      "page": 29,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 29,
+          "start": 3,
+          "end": 1592,
+          "sha256": "da48c7bfbb9c62d0439963092f7a5634c7fe92586cd704c3d475d157acabfeb3"
+        },
+        {
+          "page": 30,
+          "start": 0,
+          "end": 3,
+          "sha256": "f4ccd05b3271c386ee55d9876c7450012a3b361e5065c09dc22075e38b3cc35c"
+        }
+      ]
+    },
+    {
+      "number": "62",
+      "heading": "LOCAL CIVIL RULE 62",
+      "page": 30,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 30,
+          "start": 3,
+          "end": 907,
+          "sha256": "b1bdbd4b080cf7828fe12bb8a4a1b9e6dcdcc4869274be7e5dccf1199bb90bc9"
+        },
+        {
+          "page": 31,
+          "start": 0,
+          "end": 3,
+          "sha256": "32c2643e0dc65524c9f1f6f9f00937322fd68d59986bc381d9ff2285d23e353d"
+        }
+      ]
+    },
+    {
+      "number": "65",
+      "heading": "LOCAL CIVIL RULE 65",
+      "page": 31,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 31,
+          "start": 3,
+          "end": 3429,
+          "sha256": "051cee78ac64db5d890c8b1621b73b611940a29bb02af100f30336d51e1d4f95"
+        },
+        {
+          "page": 32,
+          "start": 0,
+          "end": 1508,
+          "sha256": "f014ebbab681d3ea62ed567c20d44323254775f55010bd92e88c0a47c13494b1"
+        },
+        {
+          "page": 33,
+          "start": 0,
+          "end": 3,
+          "sha256": "19b8d5c59e421f037fe563007c7254eb8d98bc221b278c3db3e5fdbbfd52e273"
+        }
+      ]
+    },
+    {
+      "number": "67",
+      "heading": "LOCAL CIVIL RULE 67",
+      "page": 33,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 33,
+          "start": 3,
+          "end": 1026,
+          "sha256": "7a7f3402471d9040f8822e580934c93c5e9c12e01bb73f8a7d7ed98df99f4056"
+        },
+        {
+          "page": 34,
+          "start": 0,
+          "end": 3,
+          "sha256": "ea243e5457028e97f9bc93b37a72f8e80ea61ae081911bb037765590ee6aa435"
+        }
+      ]
+    },
+    {
+      "number": "71A",
+      "heading": "LOCAL CIVIL RULE 71A",
+      "page": 34,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 34,
+          "start": 3,
+          "end": 706,
+          "sha256": "b7f84b14e64b99ac7ade25d4c5aceae09a20de12aa628f13bfa8a90d5aa56fa3"
+        },
+        {
+          "page": 35,
+          "start": 0,
+          "end": 3,
+          "sha256": "90d7ec0f0acef104d8b6252794295f661a0149634868d02a1ae0c358099638f5"
+        }
+      ]
+    },
+    {
+      "number": "72",
+      "heading": "LOCAL CIVIL RULE 72",
+      "page": 35,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 35,
+          "start": 3,
+          "end": 753,
+          "sha256": "e2378d1762472b7d6c89bcea2dc7632bc15681bbc05ed2307d80c14847506b0b"
+        },
+        {
+          "page": 36,
+          "start": 0,
+          "end": 3,
+          "sha256": "a4b2c5db15348c29451e18b8307e5ef81625ea638e807935f39ceaa8d9ac7758"
+        }
+      ]
+    },
+    {
+      "number": "79",
+      "heading": "LOCAL CIVIL RULE 79",
+      "page": 36,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 36,
+          "start": 3,
+          "end": 3128,
+          "sha256": "0be61ece6dff82bb0e2e025ad5d0873e1e73af5e9e2cb93eaa4826935311833b"
+        },
+        {
+          "page": 37,
+          "start": 0,
+          "end": 3,
+          "sha256": "b58a3da5fde2680191877ec88a1aa7d06927cc3b30cdf0d0db8c39b488891576"
+        }
+      ]
+    },
+    {
+      "number": "80",
+      "heading": "LOCAL CIVIL RULE 80",
+      "page": 37,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 37,
+          "start": 3,
+          "end": 2271,
+          "sha256": "6d8828c8d1c9d203dbe555cb4b81327028dc700913722fcb831e565044b453e5"
+        },
+        {
+          "page": 38,
+          "start": 0,
+          "end": 3,
+          "sha256": "a2c6c14110a317833ac8f2fbae7080ee844af7469b2aa702876548dcf4c58077"
+        }
+      ]
+    },
+    {
+      "number": "83.1",
+      "heading": "LOCAL CIVIL RULE 83.1",
+      "page": 38,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 38,
+          "start": 3,
+          "end": 3092,
+          "sha256": "c2bdffdac9bf19a3f48720691a5e93a75756f67e7aecae230690c928c2cdb77b"
+        },
+        {
+          "page": 39,
+          "start": 0,
+          "end": 3204,
+          "sha256": "e9ea4f8932f9b777f1c62ff9e0dc449c15008f68a52f8c1d54b30a8169295479"
+        },
+        {
+          "page": 40,
+          "start": 0,
+          "end": 3617,
+          "sha256": "40a3910affd431c81d7439b3eb394954641b20834d4e626cfd26b7d014b187e9"
+        },
+        {
+          "page": 41,
+          "start": 0,
+          "end": 1413,
+          "sha256": "836b351380d46dd25d52afaabd3c5f7807de7920c9aa9aebbf4dd2a26d4eff5c"
+        },
+        {
+          "page": 42,
+          "start": 0,
+          "end": 3,
+          "sha256": "084c799cd551dd1d8d5c5f9a5d593b2e931f5e36122ee5c793c1d08a19839cc0"
+        }
+      ]
+    },
+    {
+      "number": "83.2",
+      "heading": "LOCAL CIVIL RULE 83.2",
+      "page": 42,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 42,
+          "start": 3,
+          "end": 2052,
+          "sha256": "9152e9e87aae8f6f60cbaedb82e356101a502d0c0775683260f013a445386a18"
+        },
+        {
+          "page": 43,
+          "start": 0,
+          "end": 3,
+          "sha256": "0e55092af0746630c98d1b2e0d960617c33f8ea7b55739fd18cb7cd5342a28ca"
+        }
+      ]
+    },
+    {
+      "number": "83.3",
+      "heading": "LOCAL CIVIL RULE 83.3",
+      "page": 43,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 43,
+          "start": 3,
+          "end": 1264,
+          "sha256": "98b3ba022385af688f16bc572a77dcd518bd498ec5b3e953253774fab2184b9a"
+        },
+        {
+          "page": 44,
+          "start": 0,
+          "end": 3,
+          "sha256": "b1ce0aa6fdf3cf349d773243dab9fbbe09d30619f38b0c1e8977e28c4f0bc495"
+        }
+      ]
+    },
+    {
+      "number": "83.4",
+      "heading": "LOCAL CIVIL RULE 83.4",
+      "page": 44,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 44,
+          "start": 3,
+          "end": 2013,
+          "sha256": "70d67e2911bc3f862a2bb267575acb4b9b528416e33eb8976592de0aeb0f657e"
+        },
+        {
+          "page": 45,
+          "start": 0,
+          "end": 3,
+          "sha256": "420002158111bff8adb3347d84029e480f45e60e1869b454b6adac3345f9f7d4"
+        }
+      ]
+    },
+    {
+      "number": "83.5",
+      "heading": "LOCAL CIVIL RULE 83.5",
+      "page": 45,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 45,
+          "start": 3,
+          "end": 1038,
+          "sha256": "85841c0b61525740a03cf583f0ef1a241d225f9bfb7d252688a86b687d3cefd3"
+        },
+        {
+          "page": 46,
+          "start": 0,
+          "end": 3,
+          "sha256": "a5331f18877e9e1543361e44b4cb0a1f5f0ed5f8297d850bf1fcc68bd7a3ab5f"
+        }
+      ]
+    },
+    {
+      "number": "83.6",
+      "heading": "LOCAL CIVIL RULE 83.6",
+      "page": 46,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 46,
+          "start": 3,
+          "end": 2110,
+          "sha256": "cc7266d726c0c8129c1e8db54b0a28c50e1830367332489b3eb03ed5eba689be"
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "startPage": 6,
+    "startOffset": 20,
+    "endPage": 46,
+    "endOffset": 2110,
+    "ruleCount": 29,
+    "tocReconciled": false,
+    "editorialReviewComplete": false,
+    "currencyReviewed": false,
+    "flags": [
+      "Source extraction contains unresolved characters; consult the original publication."
+    ],
+    "excluded": "Source material outside the recorded range remains available in the district source library."
+  },
+  "transcriptionSha256": "22638e6f0ea2845be85eea262878f55ddb549153e344d9c54947b1739a47dac5"
+}

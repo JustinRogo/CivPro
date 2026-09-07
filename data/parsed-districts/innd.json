@@ -1,0 +1,3947 @@
+{
+  "version": 1,
+  "reviewStatus": "parsed-draft",
+  "districtId": "innd",
+  "sourceDocument": {
+    "id": "380ac564b7712f18",
+    "title": "Adopted Local Rules effective February 25, 2022",
+    "format": "pdf",
+    "role": "primary",
+    "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+    "sha256": "380ac564b7712f1836d4d0b8a3b89fae0e7de750abb0658d524212dfb016e097",
+    "bytes": 764345,
+    "retrievedAt": "2026-09-07T00:01:10.659640+00:00",
+    "snapshotPath": "sources/district-snapshots/380ac564b7712f1836d4d0b8a3b89fae0e7de750abb0658d524212dfb016e097.pdf",
+    "textPath": "data/source-library/380ac564b7712f1836d4d0b8a3b89fae0e7de750abb0658d524212dfb016e097.json",
+    "pdfPath": "data/source-pdfs/380ac564b7712f1836d4d0b8a3b89fae0e7de750abb0658d524212dfb016e097.pdf",
+    "pageCount": 136,
+    "reviewStatus": "source-document-only",
+    "blankTextPages": 0
+  },
+  "collection": {
+    "id": "innd-civil",
+    "name": "Northern District of Indiana Local Rules",
+    "shortName": "Local rules · draft",
+    "districtId": "innd",
+    "scopeNote": "Civil and generally applicable local rules; unparsed supplements remain in the source library. Rule boundaries and transcription are drafts. Embedded notes, forms, and running headers may remain within rule text; subsection anchors and field-separated notes are not yet reviewed."
+  },
+  "provisions": [
+    {
+      "id": "innd-civil:1-1",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "1-1",
+      "citation": "Northern District of Indiana · Rule 1-1",
+      "title": "N.D.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-4",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 1-1\nN.D. Ind. L.R. 1–1 Scope and Modification of the Civil Rules\n(a) Scope. The local civil rules govern all civil cases pending before the district court. They \nalso govern all criminal cases except where they are inconsistent with the local criminal \nrules. In cases pending when an amendment takes effect, the court may apply the former \nlocal civil rules if it finds that applying the amendment would not be feasible or would be\nunjust.\n(b) Modification or Suspension of Rules. The court may, on its own motion or at the \nrequest of a party, suspend or modify any rule in a particular case in the interest of \njustice.",
+          "pages": [
+            3
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-5",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 5\n",
+          "pages": [
+            4
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 3,
+      "pageSpan": [
+        3,
+        4
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:1-2",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "1-2",
+      "citation": "Northern District of Indiana · Rule 1-2",
+      "title": "N.D.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-5",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 1-2\nN.D. Ind. L.R. 1-2 Availability and Amendments\n(a) Availability. These rules and appendices may be purchased from the clerk’s office or \naccessed for free on the court’s web site at www.innd.uscourts.gov.\n(b) Amendments. These rules may not be amended without public notice and an \nopportunity for public comment. Notice of proposed amendments:\n(1) must be submitted for publication in Res Gestae, the Indiana State Bar \nAssociation’s monthly publication; and\n(2) may also be published elsewhere.",
+          "pages": [
+            4
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-6",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 6\n",
+          "pages": [
+            5
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 4,
+      "pageSpan": [
+        4,
+        5
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:1-3",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "1-3",
+      "citation": "Northern District of Indiana · Rule 1-3",
+      "title": "N.D.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-6",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 1-3\nN.D. Ind. L.R. 1-3 Sanctions for Formatting Errors\n(a) Non-Compliance. If a person files a paper that does not comply with the rules \ngoverning the format of papers filed with the court, the court may:\n(1) strike the paper from the record; or\n(2) fine the person up to $1,000.\n(b) Notice. Before sanctioning a person under subdivision (a)(2), the court must:\n(1) notify the person that the paper is noncompliant; and\n(2) give the person the opportunity either to be heard or to revise the paper.",
+          "pages": [
+            5
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-7",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 7\n",
+          "pages": [
+            6
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 5,
+      "pageSpan": [
+        5,
+        6
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:3-1",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "3-1",
+      "citation": "Northern District of Indiana · Rule 3-1",
+      "title": "N.D.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-7",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 3-1\nN.D. Ind. L.R. 3-1 Divisional Venue\n(a) Proper Venue. Divisional venue is determined by applying the district venue provisions \nof 28 U.S.C. §§ 1391-1413 to the divisions of the Northern District of Indiana as defined \nin 28 U.S.C. §94(a).\n(b) Improper Venue. On its own or the motion of a party, if the court determines a case is \nfiled in a division without proper venue, the court may, pursuant to 28 U.S.C. § 1406:\n(1) dismiss the case; or\n(2) in the interest of justice, transfer the case by issuing an order directing the clerk \nto reopen the case in a proper division. \n(c) Waiver. If a party does not interpose a timely and sufficient objection to divisional \nvenue, the objection is waived.",
+          "pages": [
+            6
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-8",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 8\n",
+          "pages": [
+            7
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 6,
+      "pageSpan": [
+        6,
+        7
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:5-1",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "5-1",
+      "citation": "Northern District of Indiana · Rule 5-1",
+      "title": "N.D.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-8",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 5-1\nN.D. Ind. L.R. 5-1 Electronic Filing Required\nPapers must be filed, signed, served and verified electronically unless excepted by the court’s \nCM/ECF Civil and Criminal User Manual.",
+          "pages": [
+            7
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-9",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 9\n",
+          "pages": [
+            8
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 7,
+      "pageSpan": [
+        7,
+        8
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:5-3",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "5-3",
+      "citation": "Northern District of Indiana · Rule 5-3",
+      "title": "N.D.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-9",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 5-3\nN.D. Ind. L.R. 5-3 Filing Under Seal or Ex Parte\n(a) General Rule. The clerk may not maintain a filing under seal unless authorized to do so \nby statute, court rule, or court order.\n(b) Filing Cases Under Seal.\n(1) Papers Required. To seal a case, a party must:\n(A) simultaneously file directly with the clerk:\n(i) the initial pleadings;\n(ii) a motion requesting that the court seal the case;\n(iii) a proposed order; and\n(B) otherwise comply with the CM/ECF User Manual.\n(2) Treatment of Case Pending Ruling. When the clerk receives a new case with a \nmotion to seal it, the clerk must seal the case pending a ruling on the motion.\n(3) If Motion Is Denied. If the court denies the motion, the clerk must immediately \nunseal the case and may do so without first notifying the filing party.\n(c) Ex Parte and Sealed Filings.\n(1) In a Civil Case. To file a sealed document (other than an initial filing) or a \ndocument ex parte in a civil case, a party must file it electronically as required by \nthe CM/ECF User Manual.\n(2) In a Criminal Case.\n(A) The following documents may be filed under seal without motion or \nfurther order of the court provided counsel has a good faith belief that \nsealing is required to ensure the safety, privacy or cooperation of a \nperson or entity, or to otherwise protect a substantial public interest:\n(i) Documents filed pre-indictment;",
+          "pages": [
+            8
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-10",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 10\nCivil Rule 5-3\n(ii) Documents filed in a sealed case post-indictment and prior to the \nfirst defendant being arrested;\n(iii) Requests for search warrants, including warrants for tracking \ndevices;\n(iv) Requests for interception of communications pursuant to 18\nU.S.C. § 2516;\n(v) Requests for phone record information pursuant to 18 U.S.C. § \n2703;\n(vi) Requests for tax return information pursuant to 26 U.S.C. § 6103;\n(vii) Motions for sentence variance or reduction based on substantial \nassistance pursuant to Fed. R. Crim. P. 35 or U.S.S.G. § 5K1.1, \nincluding supporting documents;\n(viii) Motions for competency exam; and\n(ix) Motions for fees and expenses pursuant to 18 U.S.C. § 3006A.\n(B) When the documents identified above are filed under seal pursuant to \nthis Rule, the filing party must place the words “under seal” below the \ncase number on the document.\n(C) To file a sealed document, other than those specified in N.D. Ind. L.R. 5-\n3(c)(2)(A), a party must file it electronically as required by the CM/ECF \nUser Manual.\nLocal Rules Advisory Committee Comments\nRe: 2022 Amendment\nThe text of Rule 5-3(c)(2)(C) was amended to remove text indicating that sealed criminal filings should be made on \npaper. The revisions clarify that sealed criminal filings must now be made electronically, consistent with the Court’s \nGeneral Order No. 2013-8 and the CM/ECF User Manual. Rule 5-3(c)(2)(A) was revised to reflect that motions for fees \nand expenses under 18 U.S.C. § 3006A can appropriately be filed under seal without motion.",
+          "pages": [
+            9
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-11",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 11\n",
+          "pages": [
+            10
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 8,
+      "pageSpan": [
+        8,
+        10
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:5-4",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "5-4",
+      "citation": "Northern District of Indiana · Rule 5-4",
+      "title": "N.D.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-11",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 5-4\nN.D. Ind. L.R. 5-4 Format of Papers\n(a) Generally. Any pleading, motion, brief, affidavit, notice, or proposed order, whether \nfiled electronically or by delivering it to the clerk, must:\n(1) be plainly typewritten, printed, or prepared by a clearly legible copying process;\n(2) use 8.5” x 11” pages;\n(3) have at least 1-inch margins;\n(4) use at least 12-point type in the body and at least 10-point type in footnotes;\n(5) be double spaced (except for headings, footnotes, and quoted material);\n(6) have consecutively numbered pages;\n(7) include a title on the first page;\n(8) include a separate index identifying and briefly describing each exhibit if there \nare more than four exhibits; and\n(9) except in proposed orders and affidavits, include the filer’s name, address, \ntelephone number, fax number (where available), and e-mail address (where \navailable).\n(b) Manual Filings.\n(1) Form, Style, and Size of Papers. Papers delivered to the clerk for filing must:\n(A) be flat, unfolded, and on good-quality, white paper;\n(B) not have a cover or a back; and\n(C) include the filer’s original signature.\n(2) Rubber-Stamped and Faxed Signatures. An original paper with a rubber￾stamped or faxed signature is unsigned for purposes of Fed. R. Civ. P. 11 and \n26(g).",
+          "pages": [
+            10
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-12",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 12\nCivil Rule 5-4\n(3) Affidavits. Only the affiant need sign an affidavit.\n(4) Filing with Clerk Required. Papers not filed electronically must be filed with the \nclerk, not a judge.\n(5) Where to File. Papers not filed electronically must be filed in the division where \nthe case is pending, unless:\n(A) a person will be prejudiced if the paper is not filed the same day it is \ntendered; and\n(B) it includes an adequately sized envelope addressed to the clerk’s office in \nthe division where the case is pending and with adequate postage.\n(6) Return of File-Stamped Copies. A party who wants a file-stamped copy of a \npaper must include with the filing an additional copy of the paper and a self￾addressed envelope with adequate postage.\n(7) Recycled Paper. The court encourages using recycled paper.\n(8) Form of Notices. Parties manually filing a paper that requires the clerk to give \nothers notice, must give the clerk:\n(A) sufficient copies of the notice; and\n(B) the name and address of each person entitled to receive the notice.\n(c) Forms of Order. Parties filing a paper that requires the judge or clerk to enter a routine \nor uncontested order must include a suitable form of order.\n(d) Notice by Publication. When published notice is required:\n(1) the clerk must send the notice to the party originating the notice; and\n(2) the party must deliver the notice to the appropriate newspapers for publication.",
+          "pages": [
+            11
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-13",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 13\n",
+          "pages": [
+            12
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 10,
+      "pageSpan": [
+        10,
+        12
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:5.1-1",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "5.1-1",
+      "citation": "Northern District of Indiana · Rule 5.1-1",
+      "title": "N.D.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-13",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 5.1-1\nN.D. Ind. L.R. 5.1-1 Constitutional Questions\n(a) When to File the Notice. A party required to file a notice of constitutional question \nunder Fed. R. Civ. P. 5.1 must do so by the later of:\n(1) the day the parties tender their proposed case-management plan (if one is \nrequired); or\n(2) 21 days after filing the pleading, written motion, or other paper questioning the \nconstitutionality of a federal or state statute.\n(b) Service on Government Officials. The party must also serve the notice and the \npleading, written motion, or other paper questioning the constitutionality of a federal \nor state statute on:\n(1) the Attorney General of the United States and the United States Attorney for \nthe Northern District of Indiana, if a federal statute is challenged; or\n(2) the Attorney General for the state if a state statute is challenged.\n(c) Method of Service on Government Officials. Service required under subdivision (b) \nmay be made either by certified or registered mail or by e-mailing it to an address \ndesignated by those officials for this purpose.",
+          "pages": [
+            12
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-14",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 14\n",
+          "pages": [
+            13
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 12,
+      "pageSpan": [
+        12,
+        13
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:6-1",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "6-1",
+      "citation": "Northern District of Indiana · Rule 6-1",
+      "title": "N.D.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-14",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 6-1\nN.D. Ind. L.R. 6-1 Extensions of Time\n(a) By Motion. Ordinarily, requests for an extension of time not made in open court or at a \nconference must:\n(1) be made by written motion;\n(2) state the original deadline and the requested deadline; and\n(3) either:\n(A) state that there is no objection to the extension by any other attorney; or\n(B) describe the requesting attorney’s efforts to obtain an agreement \nfrom opposing attorneys who objected.\n(b) Automatic Initial Extension. The deadline to respond to a pleading or a discovery \nrequest – including requests for admission – is automatically extended when an \nextension notice is filed with the court and:\n(1) the deadline has not been extended before;\n(2) the extension is for 28 or fewer days; and\n(3) the notice states:\n(A) the original deadline;\n(B) the new deadline; and\n(C) that all opposing attorneys the attorney could reach agreed to the \nextension; or that the attorney could not reach any other \nopposing attorneys despite due diligence.\n(c) Cases with Pro Se Parties.\n(1) Neither attorneys nor pro se parties are required to consult with each other \nbefore filing a motion to extend time.\n(2) The automatic initial extension is not available in cases with a pro se party.",
+          "pages": [
+            13
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-15",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 15\nCivil Rule 6-1\nLocal Rules Advisory Committee Comments \nRe: 2022 Amendment\nThe text of Rule 6-1 created some confusion as to what was required to obtain an extension of time in cases with a \npro se party. Edits were made to 6-1(a)(3), 6-1(b)(3)(C), and 6-1(c) to clarify.",
+          "pages": [
+            14
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 16\n",
+          "pages": [
+            15
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 13,
+      "pageSpan": [
+        13,
+        15
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:7-1",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "7-1",
+      "citation": "Northern District of Indiana · Rule 7-1",
+      "title": "N.D.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 7-1\nN.D. Ind. L.R. 7-1 Motion Practice\n(a) Motions Must Be Filed Separately. Motions must be filed separately, but alternative \nmotions may be filed in a single paper if each is named in the title following the caption.\n(b) Brief Required for Certain Motions. Parties must file a supporting brief with any motion \nunder:\n(1) Fed. R. Civ. P. 12;\n(2) Fed. R. Civ. P. 37;\n(3) Fed. R. Civ. P. 56; or\n(4) Fed. R. Civ. P. 65(b).\n(c) Rule 12 Defenses. The court will not rule on a defense under Fed. R. Civ. P. 12 until the \nparty who raised it files a motion and brief.\n(d) Response- and Reply-Brief Deadlines.\n(1) Summary-Judgment Motions. Summary-judgment motions are subject to the \ndeadlines in N.D. Ind. L.R. 56-1(b) and (c).\n(2) Fed. R. Civ. P. 12 Motions.\n(A) Responses. A party must file any response brief to a motion under \nFed. R. Civ. P. 12 within 21 days after the motion is served unless that \nparty is entitled to and first files an amended pleading as a matter of \ncourse under Fed. R. Civ. P. 15(a)(1).\n(B) Replies. The moving party must file any reply brief within 7 days \nafter the response brief is served.\n(3) Other Motions.\n(A) Responses. A party must file any response brief to a motion within 14 \ndays after the motion is served.\n(B) Replies. The moving party must file any reply brief within 7 days ",
+          "pages": [
+            15
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 17\nCivil Rule 7-1\nafter the response brief is served.\n(4) Extensions. The court may extend response- and reply-brief deadlines, but only \nfor good cause.\n(5) Summary Rulings. The court may rule on a motion summarily if an opposing \nparty does not file a response before the deadline.\n(e) Page Limits.\n(1) Rule. Supporting and response briefs (excluding tables of contents, tables of \nauthorities, and appendices) ordinarily must not exceed 25 pages. Reply briefs \nmust not exceed 15 pages.\n(2) Exception. The court may allow a party to file a brief exceeding these page \nlimits for extraordinary and compelling reasons. But if the court permits a brief \nto exceed 25 pages, it must include:\n(A) a table of contents with page references;\n(B) an issue statement; and\n(C) a table of authorities including:\n(i) all cases (alphabetically arranged), statutes, and other authorities \ncited in the brief; and\n(ii) references to where the authorities appear in the brief.\n(f) Authority Not Available Electronically. A copy of any decision, statute, or regulation \ncited in a motion or brief must be attached to the paper if—and only if—it is not \navailable on Westlaw or Lexis. But if a copy of a decision, statute, or regulation is only \navailable electronically, a party must provide it to the court or another party upon \nrequest.\nLocal Rules Advisory Committee Comments\nRe: 2019 Amendment\nA 2009 change to Fed. R. Civ. P. 15(a) permits 21 days to amend a pleading in response to 12(b), (e), and (f) motions \nin cases where a required responsive pleading has not yet been served. The change to Rule 15(a) encourages parties \nto amend the initial pleading in light of the motion, thereby mooting the Rule 12 motion. The amendment to Local \nRule 7-1(d) (2) provides consistency with Fed. R. Civ. P. 15(a) by allowing 21 days to respond to Rule 12(b), (e), and (f) \nmotions. ",
+          "pages": [
+            16
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 18\nCivil Rule 7-1\nRe: 2022 Amendment\nThe text of Rule 7-1 created some confusion as to whether reply briefs were permitted, without leave of court, for \nmotions made pursuant to Fed. R. Civ. P. 12. Language was added in Rule 7-1(d)(2) to clarify that reply briefs are \npermitted for such motions, which reflects existing practice.",
+          "pages": [
+            17
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 19\n",
+          "pages": [
+            18
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 15,
+      "pageSpan": [
+        15,
+        18
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:7-3",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "7-3",
+      "citation": "Northern District of Indiana · Rule 7-3",
+      "title": "N.D.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 7-3\nN.D. Ind. L.R. 7-3 Social Security Appeals\n(a) Answer. The Social Security Administration must respond to a complaint challenging an \nagency determination about Social Security benefits by filing either a motion to dismiss \nor the certified administrative record. The certified administrative record serves as the \nagency’s answer to the complaint.\n(b) Opening Brief. A person challenging an agency determination regarding entitlement to \nSocial Security benefits must file an opening brief within 42 days after the \nadministrative record is filed.\n(c) Response Brief. Any response brief must be filed within 42 days after the opening \nbrief.\n(d) Reply Brief. Any reply brief must be filed within 14 days after the response brief.\n(e) Page Limitations. Briefs under this rule are subject to the page limitations in N.D. \nInd.L.R. 7-1(e).",
+          "pages": [
+            18
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 20\n",
+          "pages": [
+            19
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 18,
+      "pageSpan": [
+        18,
+        19
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:7-5",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "7-5",
+      "citation": "Northern District of Indiana · Rule 7-5",
+      "title": "N.D.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 7-5\nN.D. Ind. L.R. 7-5 Oral Arguments and Evidentiary Hearings\n(a) Oral Argument.\n(1) How to Request. A party may request oral argument on a motion by filing and \nserving a separate document explaining why oral argument is necessary and \nestimating how long the court should allow for the argument.\n(2) When to File Request. The request must be filed and served with the party’s \nsupporting brief, response brief, or reply brief.\n(3) Additional Evidence Forbidden. Parties may not present additional evidence at \noral argument.\n(b) Evidentiary Hearings.\n(1) How to Request. A party may request an evidentiary hearing by filing and \nserving a separate document explaining why the hearing is necessary and \nestimating how long the court should allow for it.\n(2) Authorization Needed to Specify Hearing Date. The party must not specify a \nhearing date in the notice of a motion or petition unless the court or the clerk \nhas authorized it.\n(c) Court’s Authority. The court may:\n(1) grant or deny a request for oral argument or an evidentiary hearing in its \ndiscretion;\n(2) set oral argument or an evidentiary hearing without a request from a party; or\n(3) order any oral argument or evidentiary hearing to be held anywhere within the \ndistrict regardless of where the case will be tried.",
+          "pages": [
+            19
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 21\n",
+          "pages": [
+            20
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 19,
+      "pageSpan": [
+        19,
+        20
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:7-6",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "7-6",
+      "citation": "Northern District of Indiana · Rule 7-6",
+      "title": "N.D.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 7-6\nN.D. Ind. L.R. 7-6 Pro Se Filings\nThe court may require parties representing themselves to use clerk-supplied forms. \nLocal Rules Advisory Committee Comments \nRe: 2022 Amendment\nLocal Rule 8-1 is abrogated by new Local Rule 7-6 to include any pleading, motion, or other paper. Local Rule 7-6 \nencompasses locally adopted complaints as well as any other form the court may choose to supply. It also permits the \nuse of non-clerk-supplied forms when appropriate.",
+          "pages": [
+            20
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 22\n",
+          "pages": [
+            21
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 20,
+      "pageSpan": [
+        20,
+        21
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:9-2",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "9-2",
+      "citation": "Northern District of Indiana · Rule 9-2",
+      "title": "N.D.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 9-2\nN.D. Ind. L.R. 9-2 Request for Three-Judge Court\n(a) Procedure. If a party believes the law requires a three-judge court in a case or \nproceeding, the party must:\n(1) print “Three-Judge District Court Requested” or the equivalent immediately \nfollowing the title on the first pleading asserting a claim requiring a three-judge \ncourt; and\n(2) set forth the basis for the request in the pleading or in a short statement \nattached to the pleading, unless the basis is apparent from the pleading.\n(b) Sufficiency of Request. The words “Three-Judge District Court Requested” or the \nequivalent on a pleading constitutes a “request” under 28 U.S.C. § 2284(b)(1).",
+          "pages": [
+            21
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 23\n",
+          "pages": [
+            22
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 21,
+      "pageSpan": [
+        21,
+        22
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:10-1",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "10-1",
+      "citation": "Northern District of Indiana · Rule 10-1",
+      "title": "N.D.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 10-1\nN.D. Ind. L.R. 10-1 Responsive Pleadings\n(a) Rule. Responsive pleadings under Fed. R. Civ. P. 7(a) must:\n(1) restate verbatim the paragraphs from the pleading they respond to; and\n(2) immediately following each restated paragraph, state the response to that \nparagraph.\n(b) Exception. This rule does not apply to pro se cases.",
+          "pages": [
+            22
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-24",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 24\n",
+          "pages": [
+            23
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 22,
+      "pageSpan": [
+        22,
+        23
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:15-1",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "15-1",
+      "citation": "Northern District of Indiana · Rule 15-1",
+      "title": "N.D.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-24",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 15-1\nN.D. Ind. L.R. 15-1 Amending Pleadings\n(a) Supporting Documents. Motions to amend a pleading must include the original signed \nproposed amendment as an attachment.\n(b) Form of Amended Pleading. Amendments to a pleading:\n(1) must reproduce the entire pleading as amended, unless the court allows \notherwise; and\n(2) must not incorporate another pleading by reference.\n(c) Failure to Comply. Failing to comply with this rule is not grounds to deny the motion.",
+          "pages": [
+            23
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 25\n",
+          "pages": [
+            24
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 23,
+      "pageSpan": [
+        23,
+        24
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:16-1",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "16-1",
+      "citation": "Northern District of Indiana · Rule 16-1",
+      "title": "N.D.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 16-1\nN.D. Ind. L.R. 16-1 Pretrial Procedure\n(a) Notice from Clerk. A clerk-issued notice directing the parties to prepare for and attend \na pretrial conference is a court order for purposes of Fed. R. Civ. P. 16(a).\n(b) Actions with Unrepresented Parties. In actions where a party is unrepresented, the \ncourt may issue a scheduling order after consulting with the parties’ attorneys and the \nunrepresented parties at a scheduling conference or by telephone, mail, or other \nmeans.\n(c) Exemptions. The following categories of actions are exempted from the requirements \nof Fed. R. Civ. P. 16(b):\n(1) an action for review on an administrative record;\n(2) a forfeiture action in rem arising from a federal statute;\n(3) a petition for habeas corpus or any other proceeding to challenge a criminal \nconviction or sentence;\n(4) an action to enforce or quash an administrative summons or subpoena;\n(5) an action by the United States to recover benefits payments;\n(6) an action by the United States to collect on a student loan guaranteed by the \nUnited States;\n(7) a proceeding ancillary to a proceeding in another court;\n(8) an action to enforce an arbitration award; and\n(9) an action for mortgage foreclosure if the United States is a party.\n(d) Planning-Meeting Report. When the court orders an initial pretrial conference, the \nparties must file a Report of the Parties’ Planning Meeting following their Fed. R. Civ. P. \n26(f) planning meeting. The report must be consistent with the form on the court’s \nwebsite (www.innd.uscourts.gov). The court may adopt all or some of the report as part \nof its scheduling order.",
+          "pages": [
+            24
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 26\nCivil Rule 16-1\n(e) Preparation for Pretrial Conferences. Parties must confer before each pretrial \nconference and must be prepared to address the following matters at the conference:\n(1) case-management plan issues;\n(2) alternative-dispute-resolution processes, including mediation, early neutral \nevaluation, and mini-trial;\n(3) settlement, including their present positions on settlement;\n(4) trial readiness; and\n(5) any other matters specifically directed by the court.\n(f) Settlement Negotiations.\n(1) Facilitation at Pretrial Conferences. The court may facilitate settlement \nnegotiations at any pretrial conference after an initial conference. Accordingly, \nattorneys attending a pretrial conference after the initial conference must:\n(A) know their settlement authority; and\n(B) be prepared to negotiate in good faith at the conference.\n(2) Attendance by Parties. To assist settlement discussions, the court may require a \nparty, a corporate party’s agent, or an insurance-company representative to \nappear at a pretrial conference.\n(3) Disclosure Prohibited. The court may not disclose the details of any \nnegotiations at a pretrial conference in an order or docket entry.\n(g) Settlement or Resolution. The parties must immediately notify the court if they \nreasonably expect to settle the case or resolve a pending motion.",
+          "pages": [
+            25
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 27\n",
+          "pages": [
+            26
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 24,
+      "pageSpan": [
+        24,
+        26
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:16-3",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "16-3",
+      "citation": "Northern District of Indiana · Rule 16-3",
+      "title": "N.D.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 16-3\nN.D. Ind. L.R. 16-3 Continuances\n(a) Court’s Discretion. The court may continue proceedings in a civil case on its own or on \nthe motion of one or more parties.\n(b) Consultation with Clients. Attorneys must consult with their clients before asking the \ncourt to continue a trial.\n(c) Unavailable Evidence. A party seeking to continue a trial because evidence is \nunavailable must include with the motion an affidavit showing:\n(1) that the evidence is material;\n(2) that the party has acted diligently to obtain it;\n(3) where the evidence might be; and\n(4) if the evidence is the testimony of an absent witness:\n(A) the name and residence of the witness, if known;\n(B) the likelihood of procuring the testimony within a reasonable time;\n(C) that neither the party nor anyone at the party’s request or with the \nparty’s knowledge procured the witness’s absence;\n(D) the facts the party believes the witness will truthfully testify to; and\n(E) that the party cannot prove the facts by another witness whose \ntestimony can be readily procured.\n(d) Stipulation to Unavailable Evidence. The court may not continue a trial because \nevidence is unavailable if all parties stipulate to the content of the unavailable \nevidence. Despite the stipulation, the parties may contest the stipulated evidence as if \nit had been available at trial.\n(e) Award of Costs. The court may order a party seeking a continuance to reimburse other \nparties for their actual expenses caused by the delay.",
+          "pages": [
+            26
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 28\n",
+          "pages": [
+            27
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 26,
+      "pageSpan": [
+        26,
+        27
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:16-6",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "16-6",
+      "citation": "Northern District of Indiana · Rule 16-6",
+      "title": "N.D.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 16-6\nN.D. Ind. L.R. 16-6 Alternative Dispute Resolution\n(a) Report of Agreement. After they confer as required by Fed. R. Civ. P. 26(f), the parties \nmust advise the court which, if any, alternative-dispute-resolution processes they \nexpect to pursue and when they expect to undertake the process.\n(b) Authority to Order Mediation or Evaluation. The court may order mediation or early \nneutral evaluation in any civil case.\n(c) Rules. The Indiana Rules for Alternative Dispute Resolution (including the rules \nregarding privilege, confidentiality of communications, and disqualification of neutrals) \napply to all alternative-dispute-resolution processes unless the court orders otherwise.\n(d) Judicial Settlement Conference. A settlement conference conducted by a judge is not \nan alternative-dispute-resolution process.\n(e) Immunity of Mediators. Mediators performing their duties under these rules have, to \nthe extent the law allows, the same immunities a judge has.\n(f) List of Neutrals. The clerk must maintain a list of neutrals available for mediation or \nearly neutral evaluation. The list may be purchased from the clerk’s office or accessed \nfor free on the court’s website.",
+          "pages": [
+            27
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 29\n",
+          "pages": [
+            28
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 27,
+      "pageSpan": [
+        27,
+        28
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:23-1",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "23-1",
+      "citation": "Northern District of Indiana · Rule 23-1",
+      "title": "N.D.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 23-1\nN.D. Ind. L.R. 23-1 Class Actions\nA party seeking to maintain a case as a class action (whether for or against a class) must include \nin the complaint, crossclaim, or counterclaim\n(a) the words “Class Action” in the document’s title; and\n(b) a reference to each part of Fed. R. Civ. P. 23 that the party relies on in seeking to \nmaintain the case as a class action.",
+          "pages": [
+            28
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 30\n",
+          "pages": [
+            29
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 28,
+      "pageSpan": [
+        28,
+        29
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:26-1",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "26-1",
+      "citation": "Northern District of Indiana · Rule 26-1",
+      "title": "N.D.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 26-1\nN.D. Ind. L.R. 26-1 Form of Certain Discovery Documents\n(a) Form of Requests. A party propounding written discovery under Fed. R. Civ. P. 33, 34, \nor 36 must number each interrogatory or request sequentially.\n(b) Form of Responses. A party responding (by answer or objection) to written discovery \nmust:\n(1) fully quote each interrogatory or request immediately before the party’s \nresponse; and\n(2) number each response to correspond with the interrogatory or request being \nresponded to.\n(c) Limit on Requests for Admission. Ordinarily, a party may not serve more than 30 \nrequests for admission on another party (not counting requests that relate to the \nauthenticity of a document). A party wanting to serve more requests must file a motion \nsetting forth the proposed additional requests and why they are necessary.",
+          "pages": [
+            29
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 31\n",
+          "pages": [
+            30
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 29,
+      "pageSpan": [
+        29,
+        30
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:26-2",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "26-2",
+      "citation": "Northern District of Indiana · Rule 26-2",
+      "title": "N.D.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 26-2\nN.D. Ind. L.R. 26-2 Filing of Discovery and Other Materials\n(a) Generally.\n(1) Discovery Ordinarily Not Filed. The party who serves a discovery request or \nnotices a deposition is the custodian of the original discovery response or \ndeposition transcript. Except as required under subdivision (a)(2), parties must \nnot file:\n(A) disclosures under Fed. R. Civ. P. 26(a)(1) or (2);\n(B) deposition notices;\n(C) deposition transcripts;\n(D) interrogatories;\n(E) requests for documents, to permit entry upon land, or for admission;\n(F) answers to interrogatories;\n(G) responses to requests for documents, to permit entry upon land, or for \nadmission; or\n(H) service-of-discovery notices.\n(2) Exceptions.\n(A) Pro Se Litigation. All discovery material in cases involving a pro se party \nmust be filed.\n(B) Specific Material. Discovery material must also be filed when:\n(i) the court orders; or\n(ii) the material is used in a proceeding.\n(3) Motions to Publish Not Required. Motions to publish deposition transcripts are \nnot required.",
+          "pages": [
+            30
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 32\nCivil Rule 26-2\n(b) Filing Materials with Motion for Relief. A party who files a motion for relief under Fed.\nR. Civ. P. 26(c) or 37 must file with the motion those parts of the discovery requests or \nresponses that the motion pertains to.\n(c) Materials Necessary for Motion. A party must file those portions of discovery requests \nor responses (including deposition transcripts) that the party relies on to support a \nmotion that could result in a final order on an issue.\n(d) Materials to be Used at Trial. A party who reasonably anticipates using discovery \nrequests or responses—including deposition transcripts—at trial must file the relevant \nportions of the requests or responses with the clerk at the start of the trial.",
+          "pages": [
+            31
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 33\n",
+          "pages": [
+            32
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 30,
+      "pageSpan": [
+        30,
+        32
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:30-1",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "30-1",
+      "citation": "Northern District of Indiana · Rule 30-1",
+      "title": "N.D.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 30-1\nN.D. Ind. L.R. 30-1 Scheduling Depositions\n(a) Avoiding Conflicts. Attorneys must try in good faith to schedule depositions to avoid \ncalendar conflicts.\n(b) Notice. Attorneys must schedule depositions with at least 14-days’ notice, unless \nopposing counsel agrees to shorter notice or the court orders otherwise.",
+          "pages": [
+            32
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 34\n",
+          "pages": [
+            33
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 32,
+      "pageSpan": [
+        32,
+        33
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:37-1",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "37-1",
+      "citation": "Northern District of Indiana · Rule 37-1",
+      "title": "N.D.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 37-1\nN.D. Ind. L.R. 37-1 Resolving Discovery Disputes\n(a) Certification Required. A party filing any discovery motion must file a separate \ncertification that the party has conferred in good faith or attempted to confer with \nother affected parties in an effort to resolve the matter raised in the motion without \ncourt action. The certification must include:\n(1) the date, time, and place of any conference or attempted conference; and\n(2) the names of the parties participating in the conference.\n(b) Failure to File Certification. The court may deny any motion described in subdivision \n(a)—except those motions brought by or against a person appearing pro se—if the \nrequired certification is not filed.",
+          "pages": [
+            33
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 35\n",
+          "pages": [
+            34
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 33,
+      "pageSpan": [
+        33,
+        34
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:37-3",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "37-3",
+      "citation": "Northern District of Indiana · Rule 37-3",
+      "title": "N.D.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 37-3\nN.D. Ind. L.R. 37-3 Dealing with Objections During Depositions\n(a) Attempt to Resolve Dispute. Before contacting the court for a ruling on an objection \nduring a deposition, all parties must confer in good faith or attempt to confer in an \neffort to resolve the matter without court action.\n(b) Raising Objections with the Court. A party may recess a deposition to submit an \nobjection by phone to a judge if:\n(1) a judge is available and willing to address the objection; and\n(2) the objection:\n(A) could cause the deposition to be adjourned; and\n(B) can be resolved without submitting written materials to the court.",
+          "pages": [
+            34
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 36\n",
+          "pages": [
+            35
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 34,
+      "pageSpan": [
+        34,
+        35
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:40-1",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "40-1",
+      "citation": "Northern District of Indiana · Rule 40-1",
+      "title": "N.D.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 40-1\nN.D. Ind. L.R. 40-1 Case Assignment\n(a) Assignment According to Court Order. The clerk’s office must assign cases to judges \naccording to the court’s general orders.\n(b) Assignment Sequence Is Confidential. No one in the clerk’s office may reveal to any \nperson, other than a judge, the sequence in which cases are assigned.\n(c) Punishment for Tampering with Assignments. The court may punish a person for \ncontempt if the person, directly or indirectly, causes or attempts to cause a court \nemployee to:\n(1) reveal the sequence in which cases are assigned; or\n(2) assign a case inconsistent with the court’s order.\n(d) Notice of Related Action. A party must file a notice of related action as soon as it \nappears that the party’s case and another pending case:\n(1) arise out of the same transaction or occurrence;\n(2) involve the same property; or\n(3) involve the validity or infringement of the same patent, trademark, or copyright.\n(e) Transfer of Related Cases. When the court determines that two cases are related, the \ncase filed later must be transferred to the judge handling the earlier-filed case. But a \nmagistrate judge handling an earlier-filed case with consent under Fed. R. Civ. P. 73 \nmust transfer the case to a district judge handling a later-filed case if the parties to the \nlater case have not consented to a magistrate judge handling the entire case.\n(f) Reassignment of Cases.\n(1) Workload. The court may reassign cases among judges if workload and the \nspeedy administration of justice so require.\n(2) Disqualification of District Judge.\n(A) Civil Cases. A civil case must be randomly reassigned to another district",
+          "pages": [
+            35
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-37",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 37\nCivil Rule 40-1\njudge in the district if the presiding district judge is disqualified.\n(B) Criminal Cases. If a district judge presiding over a criminal case is \ndisqualified the case must be randomly assigned to another district judge \nin the same division if there is one. If there is no other district judge in \nthe division, the case must be reassigned to another district judge by:\n(i) the chief judge, if the chief judge is not disqualified; or\n(ii) the district judge with the most seniority on the bench who is not \ndisqualified.\n(3) Disqualification of Magistrate Judge. If a magistrate judge handling a case with \nconsent under Fed. R. Civ. P. 73 is disqualified, the district judge most recently \nassigned to the case will reassign it to another magistrate judge within the \ndistrict.\n(g) Remands for New Trials. Cases remanded for a new trial under Seventh Circuit Rule 36 \nmust be reassigned according to subdivision (f) unless:\n(1) the remand order directs otherwise; or\n(2) within 14 days after the mandate for a new trial is docketed, all parties in the \ncase file a request that the judge previously assigned to the case retry it.",
+          "pages": [
+            36
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-38",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 38\n",
+          "pages": [
+            37
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 35,
+      "pageSpan": [
+        35,
+        37
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:40-4",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "40-4",
+      "citation": "Northern District of Indiana · Rule 40-4",
+      "title": "N.D.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-38",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 40-4\nN.D. Ind. L.R. 40-4 Time-Sensitive Matters\nIf a matter needs to be heard quickly and the judge assigned to the case is unavailable, the \nclerk must notify the district judge in the same division with the most seniority on the bench. \nBut if no district judge is available in that division, the clerk must notify the chief judge or—if \nthe chief judge is unavailable—the district judge with the most seniority on the bench.",
+          "pages": [
+            37
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 39\n",
+          "pages": [
+            38
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 37,
+      "pageSpan": [
+        37,
+        38
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:41-1",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "41-1",
+      "citation": "Northern District of Indiana · Rule 41-1",
+      "title": "N.D.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 41-1\nN.D. Ind. L.R. 41-1 Failure to Prosecute\nThe court may dismiss a civil case with judgment for costs if:\n(a) no activity has occurred in the case for six months;\n(b) the court or clerk has notified the parties that the case will be dismissed for failure to \nprosecute it; and\n(c) at least 28 days have passed since the notice was given.",
+          "pages": [
+            38
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-40",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 40\n",
+          "pages": [
+            39
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 38,
+      "pageSpan": [
+        38,
+        39
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:42-2",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "42-2",
+      "citation": "Northern District of Indiana · Rule 42-2",
+      "title": "N.D.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-40",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 42-2\nN.D. Ind. L.R. 42-2 Consolidation\n(a) Required Filings. A party seeking to consolidate two or more cases must file:\n(1) a motion in the case with the earliest docket number; and\n(2) a notice of the motion in all the other cases.\n(b) Ruling. The judge assigned to the case in which the motion is filed will decide the \nmotion.",
+          "pages": [
+            39
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-41",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 41\n",
+          "pages": [
+            40
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 39,
+      "pageSpan": [
+        39,
+        40
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:47-1",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "47-1",
+      "citation": "Northern District of Indiana · Rule 47-1",
+      "title": "N.D.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-41",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 47-1\nN.D. Ind. L.R. 47-1 Voir Dire\n(a) Voir Dire Conducted by Court. Ordinarily, the court conducts voir dire in jury cases. \nBut consistent with Fed. R. Civ. P. 47, the court may allow attorneys to conduct voir \ndire.\n(b) Requests to Cover Particular Subjects and Questions. At the time set by the court, \nparties may file with the clerk requests for the court to cover particular subjects or to \nask particular questions during voir dire.\n(c) Requests for Additional Questions after Initial Voir Dire. After the court completes its \ninitial voir dire, parties may request that the court ask additional questions that are \nnecessary and could not have been reasonably anticipated before trial.",
+          "pages": [
+            40
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-42",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 42\n",
+          "pages": [
+            41
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 40,
+      "pageSpan": [
+        40,
+        41
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:47-2",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "47-2",
+      "citation": "Northern District of Indiana · Rule 47-2",
+      "title": "N.D.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-42",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 47-2\nN.D. Ind. L.R. 47-2 Communication with Jurors\n(a) Communication Forbidden. Ordinarily, no party or attorney (or any of their employees \nor agents) may communicate off the record with:\n(1) a member of the jury pool; or\n(2) a juror during trial, during deliberations, or after a verdict.\n(b) Exceptions. The court may allow a party or attorney to communicate with jurors if all \nother parties are given notice and if the court sets conditions on allowed \ncommunication.",
+          "pages": [
+            41
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-43",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 43\n",
+          "pages": [
+            42
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 41,
+      "pageSpan": [
+        41,
+        42
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:47-3",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "47-3",
+      "citation": "Northern District of Indiana · Rule 47-3",
+      "title": "N.D.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-43",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 47-3\nN.D. Ind. L.R. 47-3 Assessment of Jury Costs\n(a) Authority of Court. The court may order any party or its counsel to pay juror costs \n(including marshal’s fees, mileage, and per diem) if:\n(1) prospective jurors have reported for voir dire;\n(2) a trial does not start or resume as scheduled; and\n(3) a settlement, change of plea, or other action by the party or its counsel causes \nthe court to incur the costs.\n(b) Safe Harbor. The court may not assess juror costs if at least one full business day \nbefore the trial is set to begin, the clerk is notified of the circumstances causing delay.",
+          "pages": [
+            42
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-44",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 44\n",
+          "pages": [
+            43
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 42,
+      "pageSpan": [
+        42,
+        43
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:51-1",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "51-1",
+      "citation": "Northern District of Indiana · Rule 51-1",
+      "title": "N.D.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-44",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 51-1\nN.D. Ind. L.R. 51-1 Jury Instructions\nIn jury cases, parties must use pattern jury instructions when possible.",
+          "pages": [
+            43
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-45",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 45\n",
+          "pages": [
+            44
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 43,
+      "pageSpan": [
+        43,
+        44
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:54-1",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "54-1",
+      "citation": "Northern District of Indiana · Rule 54-1",
+      "title": "N.D.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-45",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 54-1\nN.D. Ind. L.R. 54-1 Taxation of Costs\n(a) Process. To recover costs, a party must file and serve a completed AO Form 133 \n(available from the clerk or the court’s website) within 14 days after final judgment is \nentered.\n(b) Extensions. The court may extend the 14-day deadline for good cause if, before the \noriginal deadline, the party files a motion requesting an extension.",
+          "pages": [
+            44
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-46",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 46\n",
+          "pages": [
+            45
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 44,
+      "pageSpan": [
+        44,
+        45
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:56-1",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "56-1",
+      "citation": "Northern District of Indiana · Rule 56-1",
+      "title": "N.D.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-46",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 56-1\nN.D. Ind. L.R. 56-1 Summary Judgment Procedure\n(a) Moving Party’s Obligations. A party moving for summary judgment must separately \nfile: \n(1) a motion;\n(2) a supporting brief;\n(3) a Statement of Material Facts with numbered paragraphs for each material \nfact the moving party contends is undisputed which includes:\n(A) a short statement of each fact; and\n(B) a citation to evidence supporting each fact; and\n(4) the Notice in Appendix C, if an opposing party is unrepresented. \n(b) Opposing Party’s Obligations. A party opposing the motion must, within twenty-eight \ndays after the moving party served the motion, separately file:\n(1) A response brief; and\n(2) a Response to Statement of Material Facts which includes:\n(A) a verbatim restatement of the Statement of Material Facts;\n(B) a correspondingly numbered response immediately following each \nparagraph of the Statement of Material Facts;\n(C) a citation to evidence supporting each dispute of fact; and\n(D) additional facts in a section titled Additional Material Facts with numbered \nparagraphs continuing the sequential numbering of the Statement of \nMaterial Facts for each additional material fact the opposing party \ncontends is undisputed which includes:\n(i) a short statement of each fact; and\n(ii) a citation to evidence supporting each fact. ",
+          "pages": [
+            45
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-47",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 47\nCivil Rule 56-1\n(3) In cases where any party is unrepresented, the opposing party is not required to \nrestate verbatim the Statement of Material Facts.\n(c) Reply. The moving party may, within fourteen days after a response is served, separately \nfile:\n(1) A reply brief; and\n(2) A Reply to Statement of Additional Material Facts which includes:\n(A) a verbatim restatement of the Statement of Additional Material Facts;\n(B) a correspondingly numbered response immediately following each \nparagraph of the Statement of Additional Material Facts; and\n(C) a citation to evidence supporting each dispute of additional fact.\n(3) In cases where any party is unrepresented, the moving party is not required to \nrestate verbatim the Statement of Additional Material Facts.\n(d) Additional Briefs. Additional briefs must not be filed without leave of court.\n(e) Citations to the Record. The court may find a fact is not supported if the citation \ndoes not include a page or paragraph number to evidence in the record which can \nbe presented in an admissible form unless the court may take judicial notice of the \nfact.\n(f) Disputes About Evidence. Disputes about the admissibility or materiality of evidence \nmust be raised in the parties’ briefs. A separate motion to strike must not be filed.\n(g) Oral Argument. The court will decide summary-judgment motions without oral \nargument unless a request under L.R. 7-5 is granted or the court directs otherwise.\nLocal Rules Advisory Committee Comments \nRe: 2022 Amendment\nThe amendment assists the court with identifying genuinely disputed facts by requiring facts to be presented in \nseparately numbered paragraphs and for responses to be in correspondingly numbered paragraphs. Normally, a fact \nwill either be admitted or denied with a citation to evidence supporting the dispute unless the fact can be judicially \nnoticed. The Committee recognized that pursuant to Fed. R. Civ. Pro. 56(c)(1)(B), a party need not always point to \nspecific record materials. See also Celotex Corp. v. Catrett, 477 U.S. 317, 323 (1986) (“[W]e find no express or implied \nrequirement in Rule 56 that the moving party support its motion with affidavits or other similar materials negating \nthe opponent’s claim.”). Thus, 56-1(a)(3)(b) only requires a moving party to provide a citation for each fact, not for ",
+          "pages": [
+            46
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-48",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 48\nCivil Rule 56-1\nallegations of the absence of a fact. \nThe amendment removes the provision that disputes about admissibility be addressed in a separate motion. \nConsistent with the 2010 amendment to Fed. R. Civ. P. 56(c)(2), disputes about inadmissibility and immateriality must \nbe presented in a brief. See Rule 56 Advisory Committee Notes 2010 Amendment. \nThe amendment does not require a verbatim restatement in cases with an unrepresented party, but such cases still \nrequire responses with correspondingly numbered paragraphs. \nThe amendment clarifies there is no provision for briefing other than a supporting brief, a response brief, and a reply \nbrief without leave of court. \nThe Committee considered whether the rule should provide for cases with cross-motions for summary judgment, but \nconcluded they would be better addressed in individualized case-management plans. \nThe Committee recognizes that summary judgment motion practice may vary substantially from case to case. The \nCourt always has the option to modify or suspend the application of a particular local rule in the interest of justice.\nParties are encouraged to propose alternative procedures, either in case management plans, by motion, or during \nstatus conferences. \n ",
+          "pages": [
+            47
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-49",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 49\n",
+          "pages": [
+            48
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 45,
+      "pageSpan": [
+        45,
+        48
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:65-1",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "65-1",
+      "citation": "Northern District of Indiana · Rule 65-1",
+      "title": "N.D.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-49",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 65-1\nN.D. Ind. L.R. 65-1 Preliminary Injunctions and Temporary Restraining Orders\n(a) Preliminary Injunctions. The court will consider requests for preliminary injunctions \nonly if the moving party files a separate motion for relief. Supporting and response \nbriefs are not required, but the court may request them.\n(b) Temporary Restraining Orders. The court will consider requests for temporary \nrestraining orders only if the moving party:\n(1) files a separate motion for relief;\n(2) files a supporting brief; and\n(3) complies with Fed. R. Civ. P. 65(b).",
+          "pages": [
+            48
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-50",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 50\n",
+          "pages": [
+            49
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 48,
+      "pageSpan": [
+        48,
+        49
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:66-1",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "66-1",
+      "citation": "Northern District of Indiana · Rule 66-1",
+      "title": "N.D.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-50",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 66-1\nN.D. Ind. L.R. 66-1 Receiverships\n(a) Applicability. This rule applies to the administration of estates (excluding estates in \nbankruptcy) by court-appointed officers such as receivers.\n(b) Officer’s Duties.\n(1) Inventories. Within 28 days after taking possession of an estate, the court￾appointed officer must file:\n(A) an inventory and appraisal of the estate’s property and assets held by \nthe officer or the officer’s agent; and\n(B) on a separate schedule, an inventory of the estate’s property and assets \nheld by others.\n(2) Regular Reports. Within 28 days after the inventory is filed and every three \nmonths after that, the court-appointed officer must file a report:\n(A) describing the acts and transactions the officer undertakes on the \nestate’s behalf; and\n(B) accounting for any monies received by or expended for the estate.\n(c) Compensation of Receiver, Attorneys, and Other Officers.\n(1) Amount. The court, in its discretion, will determine what to pay court￾appointed officers, their attorneys, and others the court appoints to help \nadminister an estate.\n(2) Procedures for Payment. To get paid, persons seeking compensation must \npetition the court and notify:\n(A) the estate’s creditors; and\n(B) any other interested parties the court requires to receive notice.\n(d) Administration Generally. In all other respects the court-appointed officer must—to \nthe extent it is reasonable to do so—administer the estate in the way that bankruptcy",
+          "pages": [
+            49
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-51",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 51\nCivil Rule 66-1\nestates are typically administered unless the court authorizes a different practice.\n(e) Deadlines. The court may alter any deadline imposed by this rule.",
+          "pages": [
+            50
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-52",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 52\n",
+          "pages": [
+            51
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 49,
+      "pageSpan": [
+        49,
+        51
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:69-4",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "69-4",
+      "citation": "Northern District of Indiana · Rule 69-4",
+      "title": "N.D.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-52",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 69-4\nN.D. Ind. L.R. 69-4 Body Attachments; Hearings\n(a) Requirements for Body Attachments. The court may issue a body-attachment warrant \nagainst a judgment debtor only if:\n(1) the debtor was served notice of a proceedings-supplemental hearing;\n(2) the debtor failed to appear for the hearing;\n(3) the judgment creditor filed a petition seeking a hearing for the debtor to show \ncause for failing to appear;\n(4) the debtor was served notice of the show-cause hearing; and\n(5) the debtor failed to appear at the show-cause hearing.\n(b) Hearing after Arrest. When a judgment debtor is arrested on a body attachment, the \ncourt must conduct a hearing at its earliest convenience. The judgment-creditor’s \nattorney will be notified of the hearing by telephone. Attorneys are deemed to have \nconsented to telephonic notice by requesting the body attachment.\n(c) Failure to Respond to Telephonic Notice. If the judgment-creditor’s attorney fails to \nrespond promptly to the telephonic notice, the court may release the judgment debtor \nor take other appropriate action.\n(d) Appearance at Hearing by Creditor’s Attorney. The judgment-creditor’s attorney of \nrecord must personally appear at the hearing; neither clerical nor secretarial personnel \nmay interrogate an attached judgment debtor.",
+          "pages": [
+            51
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-53",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 53\n",
+          "pages": [
+            52
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 51,
+      "pageSpan": [
+        51,
+        52
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:72-1",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "72-1",
+      "citation": "Northern District of Indiana · Rule 72-1",
+      "title": "N.D.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-53",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 72-1\nN.D. Ind. L.R. 72-1 United States Magistrate Judges\n(a) Application. This rule applies to all United States magistrate judges, including full-time \nmagistrate judges, part-time magistrate judges, and magistrate judges recalled under \n28 U.S.C. § 636(h).\n(b) Authority. Magistrate judges are judges. They are authorized—and specially \ndesignated—to perform all duties authorized by the United States Code and any rule \ngoverning proceedings in this court. Magistrate judges are authorized to perform the \nduties enumerated in these rules in cases assigned to the magistrate judge by rule, by \ncourt order, or by order or special designation of any of the court’s district judges.",
+          "pages": [
+            52
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-54",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 54\n",
+          "pages": [
+            53
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 52,
+      "pageSpan": [
+        52,
+        53
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:79-1",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "79-1",
+      "citation": "Northern District of Indiana · Rule 79-1",
+      "title": "N.D.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-54",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 79-1\nN.D. Ind. L.R. 79-1 Custody of Files and Exhibits\n(a) Evidence Placed in Clerk’s Custody. Items offered into evidence during a case are \nplaced in the clerk’s custody.\n(b) Claiming Items.\n(1) Procedure. To claim items from the clerk, a party must give the clerk a detailed \nreceipt. The clerk must file the receipt in the case.\n(2) Timing. A party may claim an item from the clerk only after the case concludes \nunless the court orders otherwise.\n(3) Unclaimable Items.\n(A) Contraband Exhibits. Contraband exhibits (such as controlled substances, \nmoney, and weapons) must be released to the investigative agency \nresponsible for them when the case concludes. The investigative agency \nmust give the clerk a detailed receipt when the contraband exhibits are \nreleased.\n(B) Original Papers. No one may claim an original paper filed in a case \nexcept as ordered by the court.\n(c) When a Case Concludes. A case concludes when:\n(1) the parties notify the court that they have settled the case; or\n(2) the court has resolved all issues before it and:\n(A) the deadline for appeal expires without an appeal being filed; or\n(B) if an appeal is filed, the appellate court’s final mandate is filed in the \nclerk’s office.\n(d) Unclaimed Items.\n(1) Authority. The United States Marshal may dispose of any item that remains \nunclaimed for 28 days after the clerk notifies the party offering the item into",
+          "pages": [
+            53
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-55",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 55\nCivil Rule 79-1\nevidence that it will be disposed of if it is not claimed.\n(2) Issuing Notice. The clerk may issue the notice:\n(A) 28 days after a case concludes, if the case was appealed; or\n(B) 90 days after a case concludes otherwise.\n(3) Methods of Disposal. Unclaimed items may be sold in a public or private sale or \ndisposed of in any other manner the court directs. The net proceeds of a sale \nwill be paid into the court’s registry.",
+          "pages": [
+            54
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-56",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 56\n",
+          "pages": [
+            55
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 53,
+      "pageSpan": [
+        53,
+        55
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:83-3",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "83-3",
+      "citation": "Northern District of Indiana · Rule 83-3",
+      "title": "N.D.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-56",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 83-3\nN.D. Ind. L.R. 83-3 Courtroom and Courthouse Decorum\n(a) Prohibited Activities. The following activities are prohibited anywhere on a floor where \na courtroom, jury assembly room, grand-jury room, or clerk’s office is located when \nthey are done in connection with a judicial proceeding:\n(1) taking photographs;\n(2) making sound recordings (except by court reporters in the performance of their \nduties); and\n(3) broadcasting by radio, television, or any other means.\n(b) Exceptions.\n(1) Ceremonial Proceedings. The court may permit these activities in connection \nwith investiture, ceremonial, or naturalization proceedings.\n(2) U.S. Attorney’s Office Space. The U.S. Attorney may conduct press conferences \nand depositions within its office space.\n(3) Other Depositions. If the court or clerk approves, a deposition may be taken \nand recorded by any means in another space in the courthouse.\n(c) Cell Phones and PDAs.\n(1) Generally Prohibited. Ordinarily, no one may have a cell phone or personal \ndigital assistant (“PDA”) in the courthouse.\n(2) Exceptions.\n(A) Attorneys. Members of the court’s bar may have cell phones and PDAs.\n(B) U.S. Marshals. The U.S. Marshal and all deputy marshals may have cell \nphones. But they may not have a cell phone in a courtroom unless it is \nset so that it cannot ring audibly.\n(C) Building Personnel. Courthouse personnel may have cell phones, but not \nin a courtroom.",
+          "pages": [
+            55
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-57",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 57\nCivil Rule 83-3\n(D) Visiting Federal Law Enforcement Personnel. Visiting federal law￾enforcement personnel may have cell phones if:\n(i) the U.S. Marshal’s Service approves them to carry cell phones;\n(ii) they only carry the cell phones directly to and from the agency \noffice they are visiting; and\n(iii) they leave the cell phones in the office during their visit.\n(3) Restrictions on Use. No one may use a cell phone or PDA in the courthouse for \nan improper purpose, including without limitation taking pictures or videos not \npermitted under subdivision (a). A judge may confiscate a cell phone or PDA or \nfine its user up to $1,500 (or both) if the cell phone or PDA makes an audible \nnoise in the judge’s courtroom while court is in session.",
+          "pages": [
+            56
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-58",
+          "path": [],
+          "type": "paragraph",
+          "text": "Local Rules |Northern District of Indiana Page | 58\n",
+          "pages": [
+            57
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 55,
+      "pageSpan": [
+        55,
+        57
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:83-5",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "83-5",
+      "citation": "Northern District of Indiana · Rule 83-5",
+      "title": "N.D.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-58",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 83-5\nN.D. Ind. L.R. 83-5 Bar Admission\n(a) Authority to Practice Before the Court.\n(1) Rule. Only members of the court’s bar may represent parties before the court.\n(2) Exceptions.\n(A) Pro Se. A nonmember may represent him or herself in a case.\n(B) U.S. Government Attorneys. A nonmember who is an attorney may \nrepresent the United States, or an officer or agency of the United States.\n(C) Pro Hac Vice. A nonmember who is an attorney may represent parties in \na case if the nonmember:\n(i) is admitted to practice as an attorney in another United States \ncourt or the highest court of any state;\n(ii) is a member in good standing of the bar in every jurisdiction \nwhere the attorney is admitted to practice;\n(iii) is not currently suspended from practice;\n(iv) has certified that he or she will abide by the Seventh Circuit \nStandards of Professional Conduct and these rules;\n(v) has paid the required filing fee; and\n(vi) has applied for, and been granted by the court, leave to appear in \nthe case.\n(3) Foreign Legal Consultants. A person admitted as a foreign legal consultant is \nnot “admitted to practice as an attorney” under this rule.\n(b) Bar Membership. The bar consists of those persons who:\n(1) are admitted by the court to practice; and",
+          "pages": [
+            57
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-59",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 83-5\nLocal Rules |Northern District of Indiana Page | 59\n(2) have not resigned or been disbarred or suspended from the bar.\n(c) Admission.\n(1) Who May Be Admitted. An attorney admitted to practice by the United States \nSupreme Court or the highest court in any state may become a member of the \ncourt’s bar on a member’s motion.\n(2) Character. An applicant will be admitted to the bar if the court is satisfied that \nthe applicant:\n(A) has good private and professional character; and\n(B) is a member in good standing of the bar in every jurisdiction where the \napplicant is admitted to practice.\n(3) Entry on Court’s Records. The attorney’s admission will be entered on the \ncourt’s records and the court will issue a certificate to that effect only after the \napplicant:\n(A) takes a prescribed oath or affirmation;\n(B) certifies that he or she has read and will abide by:\n(i) the Seventh Circuit Standards of Professional Conduct; and\n(ii) the court’s local rules;\n(C) pays the required fees (law clerks to the court’s judges are exempt from \nthese fees);\n(D) registers for electronic case filing;\n(E) gives a current address; and\n(F) agrees to notify the clerk promptly of any change in address.\n(d) Local Counsel. The court may require an attorney residing outside the district to retain, \nas local counsel, a member of the court’s bar who resides in the district.",
+          "pages": [
+            58
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-60",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 83-5\nLocal Rules |Northern District of Indiana Page | 60\n(e) Standards. Indiana’s Rules of Professional Conduct and the Seventh Circuit Standards of \nProfessional Conduct (an appendix to these rules) govern the conduct of those \npracticing in the court.",
+          "pages": [
+            59
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 57,
+      "pageSpan": [
+        57,
+        59
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:83-6.1",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "83-6.1",
+      "citation": "Northern District of Indiana · Rule 83-6.1",
+      "title": "Local Rules |Northern District of Indiana Page | 61",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-61",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 83-6.1\nLocal Rules |Northern District of Indiana Page | 61\nN.D. Ind. L.R. 83-6.1 Attorney Discipline\n(a) Who Is Subject to Discipline. Any attorney authorized to represent a party before the \ncourt may be disciplined under N.D. Ind. L.R. 83-6.1 through 83-6.13.\n(b) Scope of Discipline Rules. These discipline rules (N.D. Ind. L.R. 83-6.1 through 83-6.13) \ndo not apply to or limit:\n(1) sanctions or other disciplinary or remedial actions authorized by the Federal \nRules of Civil or Criminal Procedure; or\n(2) the court’s inherent or statutory power to maintain control over the \nproceedings conducted before it, such as contempt proceedings under Title 18 \nUnited States Code or under Fed. R. Crim. P. 42.",
+          "pages": [
+            60
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 60,
+      "pageSpan": [
+        60,
+        60
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:83-6.2",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "83-6.2",
+      "citation": "Northern District of Indiana · Rule 83-6.2",
+      "title": "Local Rules |Northern District of Indiana Page | 62",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-62",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 83-6.2\nLocal Rules |Northern District of Indiana Page | 62\nN.D. Ind. L.R. 83-6.2 Grounds for Discipline\n(a) Court’s Authority. The court may discipline an attorney who:\n(1) engages in misconduct, even if the misconduct occurs outside an attorney-client \nrelationship;\n(2) is convicted of a serious crime; or\n(3) is disciplined by any other court in the United States or its territories, \ncommonwealths, or possessions.\n(b) “Misconduct” Defined. “Misconduct” means a violation of the standards of \nprofessional conduct identified in N.D. Ind. L.R. 83-5(e).\n(c) “Serious Crime” Defined. “Serious crime” includes:\n(1) any felony; and\n(2) any lesser crime that under the law of the jurisdiction that entered the \nconviction has a necessary element involving:\n• false swearing;\n• misrepresentation;\n• fraud;\n• willful failure to file income-tax returns;\n• deceit;\n• bribery;\n• extortion;\n• misappropriation;\n• theft;\n• attempting to commit a serious crime; or\n• conspiring with another or soliciting another to commit a serious crime\n(d) Discipline. Discipline may include:\n(1) a public or private reprimand;\n(2) suspension from the court’s bar;",
+          "pages": [
+            61
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-63",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 83-6.2\nLocal Rules |Northern District of Indiana Page | 63\n(3) disbarment from the court; or\n(4) other disciplinary action taken under the grievance process established in these \nrules.",
+          "pages": [
+            62
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 61,
+      "pageSpan": [
+        61,
+        62
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:83-6.7",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "83-6.7",
+      "citation": "Northern District of Indiana · Rule 83-6.7",
+      "title": "Local Rules |Northern District of Indiana Page | 64",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-64",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 83-6.7\nLocal Rules |Northern District of Indiana Page | 64\nN.D. Ind. L.R. 83-6.7 Attorneys Convicted of Serious Crimes\n(a) Immediate Suspension. An attorney may be suspended immediately if a court in the \nUnited States or its territories, possessions, or commonwealths convicts the attorney of \na serious crime.\n(b) Evidence of Conviction. A certified copy of a judgment or order reflecting conviction of \na serious crime is conclusive evidence that the crime was committed.\n(c) Suspension Process. When conclusive evidence of conviction of a serious crime is filed \nwith the court, the court must immediately suspend the attorney and serve the \nattorney with the suspension order.\n(d) Authority to Set Aside Suspension. The chief judge may lift the suspension for good \ncause.\n(e) Effect of Reversal. If a certificate demonstrating that the conviction has been reversed \nis filed with the court, the court must immediately reinstate the attorney. But:\n(A) any pending disciplinary proceedings against the attorney will continue; \nand\n(B) the court may resolve the pending disciplinary proceedings based on all \navailable evidence pertaining to the attorney’s guilt.\n(f) Effect of Appeals and Manner of Conviction. The court and chief judge’s obligations \nunder this rule do not change:\n(A) because there are pending appeals or other actions attacking the \nconviction; or\n(B) due to the manner of conviction (for example, from a guilty plea, nolo \ncontendere, or a verdict after trial).",
+          "pages": [
+            63
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 63,
+      "pageSpan": [
+        63,
+        63
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:83-6.8",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "83-6.8",
+      "citation": "Northern District of Indiana · Rule 83-6.8",
+      "title": "Local Rules |Northern District of Indiana Page | 65",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-65",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 83-6.8\nLocal Rules |Northern District of Indiana Page | 65\nN.D. Ind. L.R. 83-6.8 Identical Discipline\n(a) Discipline by Another Court. The court may discipline an attorney if another court in \nthe United States or its territories, possessions, or commonwealths disciplines the \nattorney.\n(b) Discipline Process. When a certified or exemplified copy of the judgment or order \nimposing the discipline is filed with this court, the chief judge must promptly order the \ndisciplined attorney to show cause within 30 days after the order is served why the \ncourt should not impose identical discipline (other than a fine).\n(c) Identical Discipline. The court must impose identical discipline (other than a fine) as \nthe other court unless:\n(1) the other court stays its order, in which case this court must defer any identical \ndiscipline until the stay expires; or\n(2) the attorney demonstrates, or the court finds from the record’s face, that:\n(A) the other court’s procedure lacked sufficient notice or opportunity to be \nheard to provide the attorney with due process;\n(B) the proof supporting the misconduct is so lacking that this court cannot, \nconsistent with its duty, accept the other court’s order as final;\n(C) imposing identical discipline would result in a grave injustice; or\n(D) the misconduct warrants substantially different discipline.",
+          "pages": [
+            64
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 64,
+      "pageSpan": [
+        64,
+        64
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:83-6.9",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "83-6.9",
+      "citation": "Northern District of Indiana · Rule 83-6.9",
+      "title": "Local Rules |Northern District of Indiana Page | 66",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-66",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 83-6.9\nLocal Rules |Northern District of Indiana Page | 66\nN.D. Ind. L.R. 83-6.9 Disbarment on Consent or Resignation in Other Courts\nAttorneys may no longer practice in this court if, while being investigated for misconduct, they \nconsent to disbarment or resign from the bar of any other court in the United States or its \nterritories, commonwealths, or possessions.",
+          "pages": [
+            65
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 65,
+      "pageSpan": [
+        65,
+        65
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:83-6.10",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "83-6.10",
+      "citation": "Northern District of Indiana · Rule 83-6.10",
+      "title": "Local Rules |Northern District of Indiana Page | 67",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-67",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 83-6.10\nLocal Rules |Northern District of Indiana Page | 67\nN.D. Ind. L.R. 83-6.10 Disbarment on Consent in this Court\n(a) How to Consent to Disbarment. An attorney who is the subject of pending disciplinary \nproceedings in this court may consent to disbarment from the court’s bar by delivering \nto the clerk an affidavit stating that the attorney:\n(1) freely and voluntarily consents to disbarment;\n(2) is not subject to coercion or duress;\n(3) fully understands the implications of consenting to disbarment;\n(4) knows that he or she is the subject of pending disciplinary proceedings;\n(5) knows the alleged material facts—which must be set forth in the affidavit—that \nprovide the grounds for discipline;\n(6) acknowledges that the material facts are true; and\n(7) consents to disbarment because if required to mount a defense in the \ndisciplinary proceedings, the attorney could not do so successfully.\n(b) Clerk’s Duties. The clerk must submit the affidavit to the chief judge to enter an order \ndisbarring the attorney.\n(c) Access to Order and Affidavit. The order disbarring the attorney is a public record. But \nthe affidavit may only be publicly disclosed or made available for use in another \nproceeding by court order.",
+          "pages": [
+            66
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 66,
+      "pageSpan": [
+        66,
+        66
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:83-6.11",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "83-6.11",
+      "citation": "Northern District of Indiana · Rule 83-6.11",
+      "title": "Local Rules |Northern District of Indiana Page | 68 68",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-68",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 83-6.11\nLocal Rules |Northern District of Indiana Page | 68 68\nN.D. Ind. L.R. 83-6.11 Reinstatement\n(a) Court Order Required. A suspended or disbarred attorney must not resume practice \nuntil reinstated by court order.\n(b) Reinstatement by Affidavit.\n(1) When Permitted. The chief judge may—without a vote of the court’s \njudges—reinstate a suspended attorney after receiving an affidavit of \ncompliance if the suspension was:\n(A) for three months or less; or\n(B) because the attorney had been suspended from a state bar for failing to:\n(i) pay bar dues on time;\n(ii) comply with continuing-legal-education requirements ; or\n(iii) comply with IOLTA program requirements.\n(2) How Raised. To be reinstated without a vote of the court, an attorney must file:\n(A) an affidavit of compliance; and\n(B) a certified copy of the judgment or order reinstating the attorney to the \nstate bar, if applicable.\n(c) Reinstatement by Petition and Court Vote.\n(1) Initiating the Process. An attorney seeking reinstatement from disbarment or \nany suspension not described in subdivision (b)(1) must file:\n(A) a petition with the court; and\n(B) if the attorney was suspended or disbarred because another court \ndisciplined the attorney, a certified copy of the other court’s \nreinstatement order.\n(2) Chief Judge’s Duties. The chief judge must promptly:",
+          "pages": [
+            67
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-69",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 83-6.11\nLocal Rules |Northern District of Indiana Page | 69\n(A) consider whether the petition and any supporting materials—including \nany findings and conclusions from another court’s reinstatement \norder—establish the attorney’s fitness to practice law; and\n(B) based on the review of the petition and supporting materials, \nrecommend a course of action to the other judges.\n(3) Court’s Decision. After considering the petition and the chief judge’s \nrecommendation, the court’s district judges—and bankruptcy judges, if the \nmatter involved an attorney’s conduct before the bankruptcy court—may by \nmajority vote:\n(A) reinstate the attorney unconditionally;\n(B) deny the petition, if they find that the attorney is unfit to resume \npracticing law; or\n(C) reinstate the attorney conditioned on the attorney:\n(i) paying for all or part of the proceeding’s cost;\n(ii) making restitution to parties harmed by the conduct that led to \nthe discipline;\n(iii) providing certification from any jurisdiction’s bar examiners that \nthe attorney has successfully completed an admission \nexamination after the suspension or disbarment took effect;\n(iv) otherwise proving competency and learning in the law (if the \nsuspension or disbarment was for five or more years); or\n(v) meeting any other terms the judges deem appropriate.\n(d) Timing of Petition.\n(1) After Disbarment. A disbarred attorney may not file a reinstatement petition \nuntil five years after disbarment.\n(2) After Previous Unsuccessful Petition. An attorney who has previously filed a",
+          "pages": [
+            68
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-70",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 83-6.11\nLocal Rules |Northern District of Indiana Page | 70\nreinstatement petition that was denied may not file another reinstatement \npetition on the same matter until one year after the denial.\n(e) Fee. Any request for reinstatement, whether by affidavit or petition, must be \naccompanied by a fee in an amount equal to the filing fee for miscellaneous cases.",
+          "pages": [
+            69
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 67,
+      "pageSpan": [
+        67,
+        69
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:83-6.12",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "83-6.12",
+      "citation": "Northern District of Indiana · Rule 83-6.12",
+      "title": "Local Rules |Northern District of Indiana Page | 71",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-71",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 83-6.12\nLocal Rules |Northern District of Indiana Page | 71\nN.D. Ind. L.R. 83-6.12 Service of Show-Cause Order\nA show-cause order related to formal disciplinary proceedings may be served by:\n(a) CM/ECF if the attorney subject to the order is a registered electronic filer; or\n(b) by regular mail addressed to the attorney at the attorney’s last-known address.",
+          "pages": [
+            70
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 70,
+      "pageSpan": [
+        70,
+        70
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:83-6.13",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "83-6.13",
+      "citation": "Northern District of Indiana · Rule 83-6.13",
+      "title": "Local Rules |Northern District of Indiana Page | 72",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-72",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 83-6.13\nLocal Rules |Northern District of Indiana Page | 72\nN.D. Ind. L.R. 83-6.13 Other Disciplinary Duties\n(a) Attorneys’ Duties. Attorneys must promptly notify the clerk when they:\n(1) are convicted of a serious crime;\n(2) have been publicly disciplined by any court in the United States or its territories, \ncommonwealths, or possessions; or\n(3) consent to disbarment or resign from the bar of any court in the United States \nor its territories, commonwealths, or possessions while being investigated for \nmisconduct.\n(b) Clerk’s Duties.\n(1) Conviction or Discipline in Another Court. When the clerk learns that an \nattorney has been convicted of a crime or disciplined in another court, the clerk \nmust promptly obtain the certificate of the conviction or a certified copy of the \ndisciplinary order and file it with the court.\n(2) Conviction or Discipline in This Court. When this court disciplines an attorney, \nthe clerk must promptly notify:\n(A) each appropriate disciplinary agency with jurisdiction over the attorney; \nand\n(B) the American Bar Association’s National Discipline Data Bank if the \ndiscipline was public.",
+          "pages": [
+            71
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 71,
+      "pageSpan": [
+        71,
+        71
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:83-7",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "83-7",
+      "citation": "Northern District of Indiana · Rule 83-7",
+      "title": "Local Rules |Northern District of Indiana Page | 73",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-73",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 83-7\nLocal Rules |Northern District of Indiana Page | 73\nN.D. Ind. L.R. 83-7 Duty of Attorneys to Accept Appointments in Certain Civil Actions\n(a) Duty. Every bar member should be available to represent, or assist in representing, \nindigent parties whenever reasonably possible.\n(b) Procedure. If the judge assigned to a case involving a party proceeding in forma \npauperis determines that representation of the party by an attorney is warranted under \n28 U.S.C. § 1915 (e)(1) or 42 U.S.C. § 2000e-5(f), the judge may direct the clerk to \nrequest that a bar member represent the indigent party.\n(c) Entry of Appearance. An attorney who accepts a request to represent an indigent \nparty must enter an appearance for the party within 14 days after accepting the \nrequest.\n(d) Representation, Relief, and Discharge. The following are subject to the judge’s \ndiscretion:\n(1) whether the attorney should continue representing the party;\n(2) whether to relieve the attorney from the appointment; and\n(3) whether to discharge the attorney.\n(e) Expense Reimbursement.\n(1) Petition. Attorneys may seek reimbursement of reasonable expenses incurred \nrepresenting an indigent party by filing a petition with the court either before \nthe expenses are incurred, or within 90 days after they were incurred. The \npetition:\n(A) may be made ex parte; and\n(B) must be accompanied by documentation sufficient to permit the court to \ndetermine the request’s appropriateness and reasonableness.\n(2) Type of Expenses. The court may approve reimbursement of expenses \nnecessary to prepare and present a civil action in this district. The court will not \napprove payment for appeal-related expenses or for costs or fees taxed as part \nof a judgment against the indigent party.",
+          "pages": [
+            72
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-74",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 83-7\nLocal Rules |Northern District of Indiana Page | 74\n(3) Source. Approved reimbursements are paid from the Library and Court \nAdministration Fund.\n(4) Repayment Upon Recovering Attorney’s Fees. An attorney who receives a fee \naward must promptly repay all reimbursements.",
+          "pages": [
+            73
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 72,
+      "pageSpan": [
+        72,
+        73
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:83-8",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "83-8",
+      "citation": "Northern District of Indiana · Rule 83-8",
+      "title": "Local Rules |Northern District of Indiana Page | 75",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-75",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 83-8\nLocal Rules |Northern District of Indiana Page | 75\nN.D. Ind. L.R. 83-8 Appearance and Withdrawal of Appearance\n(a) Appearances Required. Attorneys not representing the United States or its agencies \nmust file an appearance when they represent (either in person or by filing a paper) a \nparty.\n(b) Removed and Transferred Cases. Attorneys whose names are not on the court’s \ndocket after a case is removed or transferred must file either an appearance or a copy \nof the appearance they filed in the original court. Attorneys who are not bar members \nmust comply with the court’s admission policy (as described in N.D. Ind. L.R. 83-5) \nwithin 21 days of removal or transfer.\n(c) Withdrawal of Appearance. To withdraw an appearance, attorneys must file a motion \nrequesting leave to do so. Unless another attorney has appeared for the party, the \nmotion must include:\n(1) satisfactory evidence that the attorney gave the party written notice of the \nattorney’s intent to withdraw at least seven days before filing the motion; and\n(2) in civil cases, the party’s last known contact information, including an address \nand telephone number.",
+          "pages": [
+            74
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 74,
+      "pageSpan": [
+        74,
+        74
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:83-9",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "83-9",
+      "citation": "Northern District of Indiana · Rule 83-9",
+      "title": "Local Rules |Northern District of Indiana Page | 76",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-76",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 83-9\nLocal Rules |Northern District of Indiana Page | 76\nN.D. Ind. L.R. 83-9 Student Practice\n(a) Generally. A law student or law-school graduate may represent parties (including by \nappearing for, negotiating on behalf of, and advising parties) in civil and criminal \nmatters pending in this district if the student or graduate:\n(1) is supervised by a bar member;\n(2) is either:\n(A) a staff member of a clinic:\n(i) organized by a city or county bar association or an accredited law \nschool; or\n(ii) funded under the Legal Services Corporation Act; or\n(B) participating in a legal-training program organized by:\n(i) the United States Attorney’s office; or\n(ii) the Federal Community Defender’s office; and\n(3) in the case of a law student:\n(A) is in good standing at an accredited law school;\n(B) has completed the first year;\n(C) meets the academic and moral standards established by the school’s \ndean; and\n(D) has been certified by the school as having met these requirements.\n(b) Supervision. The supervising bar member must examine and sign all pleadings filed on \na client’s behalf. But the student or graduate may, without the supervisor present, \nnegotiate on behalf of or advise a client.\n(c) Appearance in Court. A student or graduate may appear in court under this rule \nsubject to the following:",
+          "pages": [
+            75
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-77",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 83-9\nLocal Rules |Northern District of Indiana Page | 77\n(1) the presiding judge must approve the appearance;\n(2) if the case is a criminal or juvenile case carrying a penalty exceeding six months, \nthe supervisor must be in the courtroom; and\n(3) the judge may suspend a trial at any stage if the judge determines that:\n(A) the representation is professionally inadequate; and\n(B) substantial justice requires the suspension.",
+          "pages": [
+            76
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 75,
+      "pageSpan": [
+        75,
+        76
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "innd-civil:200-1",
+      "collectionId": "innd-civil",
+      "districtId": "innd",
+      "number": "200-1",
+      "citation": "Northern District of Indiana · Rule 200-1",
+      "title": "Local Rules |Northern District of Indiana Page | 78",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-78",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 200-1\nLocal Rules |Northern District of Indiana Page | 78\nN.D. Ind. L.R. 200-1 Bankruptcy Cases and Proceedings\n(a) Matters Determined by the Bankruptcy Judges.\n(1) Subject to paragraph (a)(3)(B), all cases under Title 11 of the United States Code, \nand any or all proceedings arising under Title 11 or arising in or related to a case \nunder Title 11 are referred to the bankruptcy judges. It is the intention of this \ncourt that the bankruptcy judges be given the broadest possible authority to \nadminister cases properly within their jurisdiction, and this rule shall be \ninterpreted to achieve this end.\n(2) Pursuant to 28 U.S.C. § 157(b)(1), the bankruptcy judges shall hear and \ndetermine all cases under Title 11 and all core proceedings (including those \ndelineated in 28 U.S.C. § 157(b)(2)) arising under Title 11, or arising in a case \nunder Title 11, and shall enter appropriate orders and judgments, subject to \nreview under 28 U.S.C. § 158.\n(3) The bankruptcy judges shall hear all non-core proceedings related to a case \nunder Title 11.\n(A) By Consent: With the consent of the parties, a bankruptcy judge shall \nconduct hearings and enter appropriate orders or judgments in the \nproceeding, subject only to review under 28 U.S.C. § 158.\n(B) Absent Consent: Absent consent of the parties, a bankruptcy judge shall \nconduct hearings and file proposed findings of fact and conclusions of \nlaw and a proposed order or judgment with the bankruptcy clerk. The \nbankruptcy judge may also file recommendations concerning whether \nthe review of the proceedings should be expedited, and whether or not \nthe basic bankruptcy case should be stayed pending district court \ntermination of the non-core proceedings. The bankruptcy clerk shall \nserve copies of these documents upon the parties. Within 14 days of \nservice, any party to the proceedings may file objections with the \nbankruptcy clerk. Any final order or judgment shall be issued by the \ndistrict judge after considering the bankruptcy judge's proposed findings \nand conclusions and after reviewing de novo those matters to which any \nparty has timely and specifically objected. (Review of interlocutory \norders shall be had following the procedure specified in paragraph (d) of \nthis rule.)\n(C) Signifying Consent: At time of pre-trial, or earlier, upon motion of a party",
+          "pages": [
+            77
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-79",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 200-1\nLocal Rules |Northern District of Indiana Page | 79\nin interest, the parties shall:\n(i) Stipulate in writing that the proceeding is a core proceeding:\n(ii) Stipulate in writing that the proceeding is a non-core proceeding, \nbut that the bankruptcy judge can determine the matter and \nenter a final order subject to review pursuant to 28 U.S.C. § 158;\n(iii) Stipulate that the proceeding is a non-core proceeding, the \nbankruptcy judge finds the matter is a non-core proceeding and \nat least one party refuses to have the bankruptcy judge \ndetermine the matter; or\n(iv) State that there is no agreement between the parties as to \nwhether the proceeding is a core or non-core proceeding and at \nleast one party refuses to have the bankruptcy judge determine \nthe matter if it is determined to be a non-core proceeding;\nAttached as an Appendix to this rule is an example of a stipulated order which may be \nused at the pretrial conference.\n(b) Matters to be Determined or Tried by District Judges.\n(1) Motions to withdraw cases and proceedings to the District Court.\n(A) The district judge shall hear and determine any motion to withdraw any \ncase, contested matter, or adversary proceeding pursuant to 28 U.S.C. § \n157(d).\n(B) All such motions shall be accompanied by a separate supporting brief \nand any appropriate affidavits. The motion shall be filed with the \nbankruptcy court and served upon all appropriate parties in interest. \nUnless the bankruptcy court directs otherwise, any response and \nopposing affidavits shall be served and filed within the time required by\nL.R. 7-1 and the movant may serve and file any reply thereto within the \ntime provided in that rule.\n(C) Upon the expiration of the time for filing briefs concerning the motion, \nthe motion and all materials submitted in support thereof and in \nopposition thereto will be transmitted to the district court for a \ndetermination. The bankruptcy judge may submit a written",
+          "pages": [
+            78
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-80",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 200-1\nLocal Rules |Northern District of Indiana Page | 80\nrecommendation concerning the motion, the effect of withdrawal upon \nthe disposition of the underlying bankruptcy case, and whether the \ndisposition of the motion should be expedited. Any such \nrecommendation shall be served upon the parties in accordance with the \nprocedures set forth in subparagraph (a)(3)(B) of this rule.\n(D) Should the district judge grant the motion to withdraw, the case, \ncontested matter or adversary proceeding may be referred back to the \nbankruptcy judge for proposed findings of fact and conclusions of law \nand a proposed order or judgment in accordance with the procedures set \nforth in subparagraph (a)(3)(B) of this rule.\n(2) Personal Injury or Wrongful Death Tort Claims.\n(A) In proceedings involving an objection to a personal injury or wrongful \ndeath claim, the bankruptcy judge may hold a preliminary pre-trial or \nscheduling conference. At this conference, the parties may agree to the \ntermination of the automatic stay to allow the claim to be determined in \nthe state or federal court that would, absent bankruptcy, have \njurisdiction over the action. In the absence of such an agreement, the \nbankruptcy judge, after consulting with the parties or their counsel, may \nissue a preliminary scheduling order. The matter shall then be \ntransmitted to the clerk of the district court for such proceedings as may \nbe appropriate.\n(c) Jury Trial.\n(1) Jury Trial Before a Bankruptcy Judge: Jury trials before a bankruptcy judge are \nnot permitted. Issues arising under section 303 of Title 11 shall be tried by the \nbankruptcy judge without a jury.\n(2) Jury Trials Before a District Judge:\n(A) Where jury trials are not permitted before a bankruptcy judge, the party \ndemanding a jury trial shall file a motion to withdraw the proceeding to \nthe district court, in accordance with paragraph (b)(1) of this rule. The \nmotion shall be filed at the same time as the demand for a jury trial. \nUnless excused by the district judge, the failure to file a timely motion to \nwithdraw the proceeding shall constitute a waiver of any right to a trial \nby jury.",
+          "pages": [
+            79
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-81",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 200-1\nLocal Rules |Northern District of Indiana Page | 81\n(B) In a personal injury or wrongful death tort claim, parties have the right to \ntrial by jury. The demand for a jury trial must be properly made to \npreserve the right to a trial by jury.\n(d) Appeals to the District Court. All appeals in core cases, in non-core cases heard by \nconsent, and appeals of interlocutory orders entered by the bankruptcy judges in non￾core cases heard by the bankruptcy court under subparagraph (a)(3)(B) of this rule shall \nbe taken in the same manner as appeals in civil proceedings generally are taken to the \ncourts of appeals from the district courts and in the time provided by the Bankruptcy \nRules.\n(e) Mandate Following a Decision on Appeal. The court’s mandate following a decision on \nappeal from the bankruptcy court consists of a certified copy of the court’s judgment \nand the court’s written opinion, if any. Unless the court orders otherwise, the clerk will \nissue the mandate to the clerk of the bankruptcy court:\n(1) immediately, when an appeal is dismissed voluntarily;\n(2) seven days after the expiration of the deadline for filing any notice of appeal \nfrom this court’s decision, unless a notice of appeal is filed; or\n(3) if a notice of appeal is filed, seven days after the conclusion of any proceedings \nundertaken as a result of the Seventh Circuit’s mandate to this court, unless \nthose proceedings result in the entry of an order that could be the subject of a \nfurther appeal.\nThe mandate is effective when issued.\n(f) Filing of Papers. While a case or proceeding is pending before a bankruptcy judge, or \nprior to the docketing of an appeal in the district court as set forth in the Bankruptcy \nRules, all pleadings and other papers shall be filed with the bankruptcy clerk. After the \ncase or non-core proceeding is assigned to a district judge, or after the district clerk has \ngiven notice to all parties of the date on which the appeal was docketed, all pleadings \nshall bear a civil case number in addition to the bankruptcy case number(s) and shall be \nfiled only with the district court clerk.\n(g) Submission of Files to the District Court; Assignment to District Judges. After the \nexpiration of the time for filing objections under subparagraph (a)(3)(B), upon receipt of \nany order by a district judge pursuant to 28 U.S.C. § 157(d) or upon the docketing of an \nappeal in the district court as specified in paragraph (d), the bankruptcy clerk shall \nsubmit the file for the case or proceeding to the district court clerk. The district court",
+          "pages": [
+            80
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-82",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil Rule 200-1\nLocal Rules |Northern District of Indiana Page | 82\nclerk shall affix a civil number to each submission, and shall make the assignment to a \ndistrict judge in accordance with the usual system for assigning civil cases.\n(h) Local Bankruptcy Rules. The bankruptcy judges are authorized to make and amend \nrules governing the practice and procedure in all cases and proceedings within the \ndistrict court's bankruptcy jurisdiction, in accordance with the requirements of \nBankruptcy Rule 9029. Unless the district court orders otherwise, such rules shall also \napply to any bankruptcy case or proceeding in which the order of reference has been \nwithdrawn.",
+          "pages": [
+            81
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "innd-civil-parsed-v1-380ac564b7712f18",
+      "sourceDocumentId": "parsed-innd-380ac564b7712f18",
+      "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+      "pageIndex": 77,
+      "pageSpan": [
+        77,
+        81
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    }
+  ],
+  "evidence": [
+    {
+      "number": "1-1",
+      "heading": "Civil Rule 1-1",
+      "page": 4,
+      "offset": 51,
+      "slices": [
+        {
+          "page": 4,
+          "start": 51,
+          "end": 684,
+          "sha256": "11e34ad4584f87c3bf149ef2105752c3a1d2775cfde2ffbe3df5fd394e5c6d9c"
+        },
+        {
+          "page": 5,
+          "start": 0,
+          "end": 51,
+          "sha256": "44dceacf5b02a18cda5aec7c07c170163c3ecbff0266b02beb9654ce143c7e4d"
+        }
+      ]
+    },
+    {
+      "number": "1-2",
+      "heading": "Civil Rule 1-2",
+      "page": 5,
+      "offset": 51,
+      "slices": [
+        {
+          "page": 5,
+          "start": 51,
+          "end": 562,
+          "sha256": "ea6061f4b76a72c7d32669478e5b5c3b97ad9cf205749f1069eb4702c9e04f89"
+        },
+        {
+          "page": 6,
+          "start": 0,
+          "end": 51,
+          "sha256": "df345a61f45aead9db994c659427e54da45c8d4f3e14175643542ce7b63e06cb"
+        }
+      ]
+    },
+    {
+      "number": "1-3",
+      "heading": "Civil Rule 1-3",
+      "page": 6,
+      "offset": 51,
+      "slices": [
+        {
+          "page": 6,
+          "start": 51,
+          "end": 561,
+          "sha256": "1214dca039db686b26183cc3d04aa22b4f1a8d7046e7b779d1b531e6d9e36b85"
+        },
+        {
+          "page": 7,
+          "start": 0,
+          "end": 51,
+          "sha256": "378aa197f693b4f1c1ace8d18b0e2fa86c72a8eca6d7ceee671c5570be04bb99"
+        }
+      ]
+    },
+    {
+      "number": "3-1",
+      "heading": "Civil Rule 3-1",
+      "page": 7,
+      "offset": 51,
+      "slices": [
+        {
+          "page": 7,
+          "start": 51,
+          "end": 765,
+          "sha256": "255a05ead1318c079c6104633fd65cf48039888997f15c0a8dd564054cd5af8a"
+        },
+        {
+          "page": 8,
+          "start": 0,
+          "end": 51,
+          "sha256": "476f21a8553f2bfa2d200a651e33e42e7924068bb430b59ef9469d4b6dd433fc"
+        }
+      ]
+    },
+    {
+      "number": "5-1",
+      "heading": "Civil Rule 5-1",
+      "page": 8,
+      "offset": 51,
+      "slices": [
+        {
+          "page": 8,
+          "start": 51,
+          "end": 247,
+          "sha256": "dc46457c492ca5e484f564dbd88816446db1852abbdd44908ce6885a6aa29b87"
+        },
+        {
+          "page": 9,
+          "start": 0,
+          "end": 51,
+          "sha256": "8cde4008220735ed502724e1c58925dbbf00e5f2ac24422601f7925fff6a72b9"
+        }
+      ]
+    },
+    {
+      "number": "5-3",
+      "heading": "Civil Rule 5-3",
+      "page": 9,
+      "offset": 51,
+      "slices": [
+        {
+          "page": 9,
+          "start": 51,
+          "end": 1431,
+          "sha256": "ac5f31b37be569ba0c07c302823ab62e24a6582e7a86a466a68f5e4f77dbc98f"
+        },
+        {
+          "page": 10,
+          "start": 0,
+          "end": 1591,
+          "sha256": "0e06707cdfdd81090fe54ec5b4fab2c0c768056106d76b2a8e871c490c0bd8f8"
+        },
+        {
+          "page": 11,
+          "start": 0,
+          "end": 52,
+          "sha256": "d481e5c754e238d78181cb150171c914c6c759b967f4f00f168a1b1bfe0493e9"
+        }
+      ]
+    },
+    {
+      "number": "5-4",
+      "heading": "Civil Rule 5-4",
+      "page": 11,
+      "offset": 52,
+      "slices": [
+        {
+          "page": 11,
+          "start": 52,
+          "end": 1328,
+          "sha256": "a46094fa98554eb39780e9313a91095597ab7d42eb0e2c283e9054c7fd06b606"
+        },
+        {
+          "page": 12,
+          "start": 0,
+          "end": 1463,
+          "sha256": "5b4020c6cdce08d02ace64d5e91ec28eb4693678610f3b505163e8bd0757c82e"
+        },
+        {
+          "page": 13,
+          "start": 0,
+          "end": 52,
+          "sha256": "43c1c61d69217b4eca40f94b289dbde971f7636cdab360adcd3278ef83f238da"
+        }
+      ]
+    },
+    {
+      "number": "5.1-1",
+      "heading": "Civil Rule 5.1-1",
+      "page": 13,
+      "offset": 52,
+      "slices": [
+        {
+          "page": 13,
+          "start": 52,
+          "end": 1129,
+          "sha256": "ec50469a1db4acaa599c1df0c154b51ffbfcb9e06a306995ebd865a321fc84a1"
+        },
+        {
+          "page": 14,
+          "start": 0,
+          "end": 52,
+          "sha256": "506a202dc04cd40c04c2748101e094b0aab12886fffe58e084f6774ee2bc892a"
+        }
+      ]
+    },
+    {
+      "number": "6-1",
+      "heading": "Civil Rule 6-1",
+      "page": 14,
+      "offset": 52,
+      "slices": [
+        {
+          "page": 14,
+          "start": 52,
+          "end": 1301,
+          "sha256": "8c44139fd9be718485e41535f25d620561751dc647da534b9e5c00a6e090c3e1"
+        },
+        {
+          "page": 15,
+          "start": 0,
+          "end": 323,
+          "sha256": "b013be7f8eed2db119b5bc8791a64b93bc2b15b6f583dd7d70105b2ee447146b"
+        },
+        {
+          "page": 16,
+          "start": 0,
+          "end": 52,
+          "sha256": "cda854ff93efd0a0327908513a0afeaae14ecac48877a6484ead9495f70f989b"
+        }
+      ]
+    },
+    {
+      "number": "7-1",
+      "heading": "Civil Rule 7-1",
+      "page": 16,
+      "offset": 52,
+      "slices": [
+        {
+          "page": 16,
+          "start": 52,
+          "end": 1381,
+          "sha256": "e7f2fe77f2f90098a98608e43787fdbfb40d783a2369f621780558c6f8300ed0"
+        },
+        {
+          "page": 17,
+          "start": 0,
+          "end": 1915,
+          "sha256": "12a04a1d87d6bbefba1cc1555a41a263f6af8f9ec0ff1b58dfbbfd7639e29112"
+        },
+        {
+          "page": 18,
+          "start": 0,
+          "end": 379,
+          "sha256": "3a7b5b2cb7cfce5ab38e4319aaa125f26de20f32e80429fb5a034282e8908d51"
+        },
+        {
+          "page": 19,
+          "start": 0,
+          "end": 52,
+          "sha256": "ec67b1ffcf19b1b31fa4b9c00d4012088850643cbe7bb1ed1031ca9967de7912"
+        }
+      ]
+    },
+    {
+      "number": "7-3",
+      "heading": "Civil Rule 7-3",
+      "page": 19,
+      "offset": 52,
+      "slices": [
+        {
+          "page": 19,
+          "start": 52,
+          "end": 904,
+          "sha256": "17a8deb753f9c98dafc833302623c98f2c7acff0f734a390ac71be068ffd4c01"
+        },
+        {
+          "page": 20,
+          "start": 0,
+          "end": 52,
+          "sha256": "2193ab0c160b84747aa9809e9b618fde9afa0bc043f1aa0a048adf2dcc98921f"
+        }
+      ]
+    },
+    {
+      "number": "7-5",
+      "heading": "Civil Rule 7-5",
+      "page": 20,
+      "offset": 52,
+      "slices": [
+        {
+          "page": 20,
+          "start": 52,
+          "end": 1348,
+          "sha256": "f36b33a07086b322928d9874fcd89e1e6bdb232bc7d18dfaa836afb7c427ba4a"
+        },
+        {
+          "page": 21,
+          "start": 0,
+          "end": 52,
+          "sha256": "b9a9d1fc41fe5af927c505322c583d252d124a388d29838e12f23e30a95f775b"
+        }
+      ]
+    },
+    {
+      "number": "7-6",
+      "heading": "Civil Rule 7-6",
+      "page": 21,
+      "offset": 52,
+      "slices": [
+        {
+          "page": 21,
+          "start": 52,
+          "end": 527,
+          "sha256": "3ba1f32973f6f86d7c05702f3b30112ad0c8eb63c8bd49f00013673406c0fc83"
+        },
+        {
+          "page": 22,
+          "start": 0,
+          "end": 52,
+          "sha256": "afba55877e99bf4ab0c30c5ec2327b7938c187713c4df15751a6c3c5069f79f7"
+        }
+      ]
+    },
+    {
+      "number": "9-2",
+      "heading": "Civil Rule 9-2",
+      "page": 22,
+      "offset": 52,
+      "slices": [
+        {
+          "page": 22,
+          "start": 52,
+          "end": 724,
+          "sha256": "f9c94badbd99ca3b9d34e3ed32c939275b566e10c5eb9bc5603cc08514d6432c"
+        },
+        {
+          "page": 23,
+          "start": 0,
+          "end": 52,
+          "sha256": "9980cc0209afa4e8eec989051eb90fafab67e45d5d8e83dcdf7812f5b2107048"
+        }
+      ]
+    },
+    {
+      "number": "10-1",
+      "heading": "Civil Rule 10-1",
+      "page": 23,
+      "offset": 52,
+      "slices": [
+        {
+          "page": 23,
+          "start": 52,
+          "end": 394,
+          "sha256": "28ac078fadbcca9606d28737d84d698906341f603b6754fc43e61444e2f2d64c"
+        },
+        {
+          "page": 24,
+          "start": 0,
+          "end": 52,
+          "sha256": "3c3c8c54a13987b6564f01813d19f405c8c33ada29fafc8955291e70b94a1881"
+        }
+      ]
+    },
+    {
+      "number": "15-1",
+      "heading": "Civil Rule 15-1",
+      "page": 24,
+      "offset": 52,
+      "slices": [
+        {
+          "page": 24,
+          "start": 52,
+          "end": 525,
+          "sha256": "20762944b48824b4ef90c545997c467e1449248ec1451b08e80a36be47e828b0"
+        },
+        {
+          "page": 25,
+          "start": 0,
+          "end": 52,
+          "sha256": "ccf9be2252100dabddb1525b4a5378388576782531d21cdaf5c7f128473f5e73"
+        }
+      ]
+    },
+    {
+      "number": "16-1",
+      "heading": "Civil Rule 16-1",
+      "page": 25,
+      "offset": 52,
+      "slices": [
+        {
+          "page": 25,
+          "start": 52,
+          "end": 1679,
+          "sha256": "19c6fca54f290938bbe5bca4ca6ef18217086502dc2a1825b381f40a138ab223"
+        },
+        {
+          "page": 26,
+          "start": 0,
+          "end": 1385,
+          "sha256": "a038947f83c464235df57c3de2659b78015a8a3c39604986476a539355bb2b47"
+        },
+        {
+          "page": 27,
+          "start": 0,
+          "end": 52,
+          "sha256": "70afbee04a4cac15d9cfde97b2afaafc51d856ca4cbffe0ad7d3cd95241ca94d"
+        }
+      ]
+    },
+    {
+      "number": "16-3",
+      "heading": "Civil Rule 16-3",
+      "page": 27,
+      "offset": 52,
+      "slices": [
+        {
+          "page": 27,
+          "start": 52,
+          "end": 1543,
+          "sha256": "c170ec1c6bb281ce8166c068960264a1fe3758c8c81ce87374525c0427190bb9"
+        },
+        {
+          "page": 28,
+          "start": 0,
+          "end": 52,
+          "sha256": "607e0f4a56ff885886154ee134fa840e5930177b9fa6d5e9eafd5bf7daba7333"
+        }
+      ]
+    },
+    {
+      "number": "16-6",
+      "heading": "Civil Rule 16-6",
+      "page": 28,
+      "offset": 52,
+      "slices": [
+        {
+          "page": 28,
+          "start": 52,
+          "end": 1248,
+          "sha256": "c700c1c8273104e66db28c00b6b4656efefc54f87ca1a64e1cc11629b6ee9d30"
+        },
+        {
+          "page": 29,
+          "start": 0,
+          "end": 52,
+          "sha256": "cf9ef4d86cc189c96e1fc8e9100f08a8518e56e712636e9d76446dd034222662"
+        }
+      ]
+    },
+    {
+      "number": "23-1",
+      "heading": "Civil Rule 23-1",
+      "page": 29,
+      "offset": 52,
+      "slices": [
+        {
+          "page": 29,
+          "start": 52,
+          "end": 433,
+          "sha256": "822b881911248af62d3441d9ec0645bfe356094feeae5a8b96cc10a82014a16a"
+        },
+        {
+          "page": 30,
+          "start": 0,
+          "end": 52,
+          "sha256": "dc1edc4ddcba29a8dfcc20a47e319b303b4d4233721968619ae338789719d96b"
+        }
+      ]
+    },
+    {
+      "number": "26-1",
+      "heading": "Civil Rule 26-1",
+      "page": 30,
+      "offset": 52,
+      "slices": [
+        {
+          "page": 30,
+          "start": 52,
+          "end": 888,
+          "sha256": "977750ad4480480a8c3cbb3c37eb0de70f7fe58477ac13dbdc479c519c7bdf60"
+        },
+        {
+          "page": 31,
+          "start": 0,
+          "end": 52,
+          "sha256": "80098b664cb2fceae51ec08c5fe6cc723315082cd507d80efeffd364db699129"
+        }
+      ]
+    },
+    {
+      "number": "26-2",
+      "heading": "Civil Rule 26-2",
+      "page": 31,
+      "offset": 52,
+      "slices": [
+        {
+          "page": 31,
+          "start": 52,
+          "end": 1094,
+          "sha256": "14a1ca48efee6ab529102f0ff8ecdee164e01617e98da4567e92f37495e59fe5"
+        },
+        {
+          "page": 32,
+          "start": 0,
+          "end": 780,
+          "sha256": "34629f393030d38a530657e9f379f69415f90e303c52b07bf6a49f01cec1c27f"
+        },
+        {
+          "page": 33,
+          "start": 0,
+          "end": 52,
+          "sha256": "9213df829fad5b583afcb97aa242913d4409024531cccd4ee28dfdce695c3d1a"
+        }
+      ]
+    },
+    {
+      "number": "30-1",
+      "heading": "Civil Rule 30-1",
+      "page": 33,
+      "offset": 52,
+      "slices": [
+        {
+          "page": 33,
+          "start": 52,
+          "end": 381,
+          "sha256": "b6919b5aa16fda802037fd802d95dd84218bead4479213687bb5ea74d4bc7b36"
+        },
+        {
+          "page": 34,
+          "start": 0,
+          "end": 52,
+          "sha256": "65c8e1767c63e06d78d2a691e7f8311a6b27622412f36934d1b351551c81bee0"
+        }
+      ]
+    },
+    {
+      "number": "37-1",
+      "heading": "Civil Rule 37-1",
+      "page": 34,
+      "offset": 52,
+      "slices": [
+        {
+          "page": 34,
+          "start": 52,
+          "end": 770,
+          "sha256": "81a2e234729a3166ff7dbc888b38916cbb119a64ad515c58a0b2914fdab7a05e"
+        },
+        {
+          "page": 35,
+          "start": 0,
+          "end": 52,
+          "sha256": "3428959a57669a61befd091822fc5cdd4a7e5a508d232284953322cca11efb9c"
+        }
+      ]
+    },
+    {
+      "number": "37-3",
+      "heading": "Civil Rule 37-3",
+      "page": 35,
+      "offset": 52,
+      "slices": [
+        {
+          "page": 35,
+          "start": 52,
+          "end": 686,
+          "sha256": "4d9ce5f3f5f0be01bdc304eeca18afcd41726733c907837678c90469815243f3"
+        },
+        {
+          "page": 36,
+          "start": 0,
+          "end": 52,
+          "sha256": "fa0cc77899df6503a604eb464d4b26fbf5e847369aa341ebe7526d1753754073"
+        }
+      ]
+    },
+    {
+      "number": "40-1",
+      "heading": "Civil Rule 40-1",
+      "page": 36,
+      "offset": 52,
+      "slices": [
+        {
+          "page": 36,
+          "start": 52,
+          "end": 1708,
+          "sha256": "0365e30de7acc140ad199d5bb167f3f0ca7e088deb3b48a862e1088f9594e4cc"
+        },
+        {
+          "page": 37,
+          "start": 0,
+          "end": 1199,
+          "sha256": "02479ab610999b8941e1b4817197244c3ac695bb3cdf431f04037df00944454c"
+        },
+        {
+          "page": 38,
+          "start": 0,
+          "end": 52,
+          "sha256": "15d8535e24c01731c2374f50ea4d483bd6f930c783bd9197ad728c822b72d614"
+        }
+      ]
+    },
+    {
+      "number": "40-4",
+      "heading": "Civil Rule 40-4",
+      "page": 38,
+      "offset": 52,
+      "slices": [
+        {
+          "page": 38,
+          "start": 52,
+          "end": 490,
+          "sha256": "47de5fe1cfb015e5d9fe15979f4772afe0ddf87cce4d737a762ca5175841df06"
+        },
+        {
+          "page": 39,
+          "start": 0,
+          "end": 52,
+          "sha256": "e92eae29a501916533d061604750e4fccf175220c11de950a024e2af2acdecad"
+        }
+      ]
+    },
+    {
+      "number": "41-1",
+      "heading": "Civil Rule 41-1",
+      "page": 39,
+      "offset": 52,
+      "slices": [
+        {
+          "page": 39,
+          "start": 52,
+          "end": 403,
+          "sha256": "4ea7445c476fb42e12b24e59f811bbfa47c2f32ee2791c51ccd476c6744b48d3"
+        },
+        {
+          "page": 40,
+          "start": 0,
+          "end": 52,
+          "sha256": "29233b8dd54042b8d3fb69133871e2f681c129f2e191db384f6f8bc63f17dc64"
+        }
+      ]
+    },
+    {
+      "number": "42-2",
+      "heading": "Civil Rule 42-2",
+      "page": 40,
+      "offset": 52,
+      "slices": [
+        {
+          "page": 40,
+          "start": 52,
+          "end": 393,
+          "sha256": "a4885b7a2fd85059ed1f2717b460b45ac520fbe441d53538308776d097b886fd"
+        },
+        {
+          "page": 41,
+          "start": 0,
+          "end": 52,
+          "sha256": "9f66249b1199d9411452a3add306667d2464bc465fb8d7fdac67e4041e1c8d76"
+        }
+      ]
+    },
+    {
+      "number": "47-1",
+      "heading": "Civil Rule 47-1",
+      "page": 41,
+      "offset": 52,
+      "slices": [
+        {
+          "page": 41,
+          "start": 52,
+          "end": 757,
+          "sha256": "11efd07c842f5f371c82f043f4c94c462eb43a5e42681b66d68fa27b997f3e0b"
+        },
+        {
+          "page": 42,
+          "start": 0,
+          "end": 52,
+          "sha256": "0147ff7b9d5fd6fb3a64d4dc55c3b41efb9681492c6e8a3936ff0177c75cf601"
+        }
+      ]
+    },
+    {
+      "number": "47-2",
+      "heading": "Civil Rule 47-2",
+      "page": 42,
+      "offset": 52,
+      "slices": [
+        {
+          "page": 42,
+          "start": 52,
+          "end": 535,
+          "sha256": "822cd41923ec8c310897344f11dd90d8f74af43b10185d34dab5ab287fb99707"
+        },
+        {
+          "page": 43,
+          "start": 0,
+          "end": 52,
+          "sha256": "e2f8e84c19950d2109aa76d19ac7338c1c42213a0119338666d000b444b82419"
+        }
+      ]
+    },
+    {
+      "number": "47-3",
+      "heading": "Civil Rule 47-3",
+      "page": 43,
+      "offset": 52,
+      "slices": [
+        {
+          "page": 43,
+          "start": 52,
+          "end": 659,
+          "sha256": "363739f4f5a5409f3942fc7b3d9847ad5f07a7e4d776759105ddf94e8deec9ec"
+        },
+        {
+          "page": 44,
+          "start": 0,
+          "end": 52,
+          "sha256": "961ff3252cb2de0e99055713f6dc92f551351fa7074ca5b22565b7635ea128a8"
+        }
+      ]
+    },
+    {
+      "number": "51-1",
+      "heading": "Civil Rule 51-1",
+      "page": 44,
+      "offset": 52,
+      "slices": [
+        {
+          "page": 44,
+          "start": 52,
+          "end": 178,
+          "sha256": "631b26e106c557c7f5afc14b998a64901c3c40cb517de1263283584c0093632a"
+        },
+        {
+          "page": 45,
+          "start": 0,
+          "end": 52,
+          "sha256": "57c47a32015e42738d53bcd4e451ac81cefb42a311d8f9017bf240e4203f5b2d"
+        }
+      ]
+    },
+    {
+      "number": "54-1",
+      "heading": "Civil Rule 54-1",
+      "page": 45,
+      "offset": 52,
+      "slices": [
+        {
+          "page": 45,
+          "start": 52,
+          "end": 445,
+          "sha256": "1833bfb4e057cd3d3fc9bb369e6999964800d1f035c6e1996dffd2af19b6f0ca"
+        },
+        {
+          "page": 46,
+          "start": 0,
+          "end": 52,
+          "sha256": "11b1fe2b57de8be719e9b78955b6899e557035da58d207ac5abec6fae0bce54f"
+        }
+      ]
+    },
+    {
+      "number": "56-1",
+      "heading": "Civil Rule 56-1",
+      "page": 46,
+      "offset": 52,
+      "slices": [
+        {
+          "page": 46,
+          "start": 52,
+          "end": 1377,
+          "sha256": "29f4fec3ea386c88b2394ce752f8094c3da56a5e3e92a13efec6bf0aefce02ab"
+        },
+        {
+          "page": 47,
+          "start": 0,
+          "end": 2380,
+          "sha256": "e4ad757a1169ff6d080045068546756f7e2a0691809fa5967ae71d32732d244c"
+        },
+        {
+          "page": 48,
+          "start": 0,
+          "end": 1299,
+          "sha256": "98c32190e908aa7663740acc530f0339d806386372858dcedf2c2ce51af29e46"
+        },
+        {
+          "page": 49,
+          "start": 0,
+          "end": 52,
+          "sha256": "2688dcf23d74c85b1292b053b9a4eaf7e613615ac43788f60d31c25e29aa6a67"
+        }
+      ]
+    },
+    {
+      "number": "65-1",
+      "heading": "Civil Rule 65-1",
+      "page": 49,
+      "offset": 52,
+      "slices": [
+        {
+          "page": 49,
+          "start": 52,
+          "end": 620,
+          "sha256": "5355dee7a67346cd4759b84b3e5830937d42b448d10752f05bf981f5e247eaa4"
+        },
+        {
+          "page": 50,
+          "start": 0,
+          "end": 52,
+          "sha256": "5c4d518191fe6f1779c8cd238126c92ebe28193a05cbc385aeed7c8cb666b88b"
+        }
+      ]
+    },
+    {
+      "number": "66-1",
+      "heading": "Civil Rule 66-1",
+      "page": 50,
+      "offset": 52,
+      "slices": [
+        {
+          "page": 50,
+          "start": 52,
+          "end": 1525,
+          "sha256": "0a3c5406cea3054e5555e561c6caa808b1987271cd5315e1c3aae191580995bf"
+        },
+        {
+          "page": 51,
+          "start": 0,
+          "end": 222,
+          "sha256": "52eb953bff879be625b880e1826d935c702ccb3340ad92ee01667860a54b59b1"
+        },
+        {
+          "page": 52,
+          "start": 0,
+          "end": 52,
+          "sha256": "8a4d24ab5c50305042d585d1587f689b61a0c53591abc1fa79a95761d1651c06"
+        }
+      ]
+    },
+    {
+      "number": "69-4",
+      "heading": "Civil Rule 69-4",
+      "page": 52,
+      "offset": 52,
+      "slices": [
+        {
+          "page": 52,
+          "start": 52,
+          "end": 1348,
+          "sha256": "05938d46000ba523d8c06e93549648ec21ef0bd7a5e7837a5b7ae3748dc81924"
+        },
+        {
+          "page": 53,
+          "start": 0,
+          "end": 52,
+          "sha256": "64595efa89d83741d863689a1f37afe0b74afbfba846b041b0b2c92610212c56"
+        }
+      ]
+    },
+    {
+      "number": "72-1",
+      "heading": "Civil Rule 72-1",
+      "page": 53,
+      "offset": 52,
+      "slices": [
+        {
+          "page": 53,
+          "start": 52,
+          "end": 746,
+          "sha256": "ec35442b162d56a032d38c536f6121d371e5b9f6a32cd20486a11cb5d00ffe71"
+        },
+        {
+          "page": 54,
+          "start": 0,
+          "end": 52,
+          "sha256": "56067767e5205f854f57a0f2d60eb8492ce91b3d6102f6670bf58fd0885481b9"
+        }
+      ]
+    },
+    {
+      "number": "79-1",
+      "heading": "Civil Rule 79-1",
+      "page": 54,
+      "offset": 52,
+      "slices": [
+        {
+          "page": 54,
+          "start": 52,
+          "end": 1459,
+          "sha256": "970b4e794800892e2500ee4c10e30855b2d90e0a5dd5f992626a0d8a9cc7de8a"
+        },
+        {
+          "page": 55,
+          "start": 0,
+          "end": 493,
+          "sha256": "931952f9813b7663c87987321b0524fef68a089f9835a3475da0704e56750b2f"
+        },
+        {
+          "page": 56,
+          "start": 0,
+          "end": 52,
+          "sha256": "9532837392b9266c07bd70344bcded7cd1d71111897848be5aa3c18ca1f2aa7f"
+        }
+      ]
+    },
+    {
+      "number": "83-3",
+      "heading": "Civil Rule 83-3",
+      "page": 56,
+      "offset": 52,
+      "slices": [
+        {
+          "page": 56,
+          "start": 52,
+          "end": 1476,
+          "sha256": "110c24a10d363d444b543e733e6f7e21e958e07d537051c6168aa9f7b93eba75"
+        },
+        {
+          "page": 57,
+          "start": 0,
+          "end": 799,
+          "sha256": "c9c731298ecbcd46e056db5cdd430a8813a709e7f15cacbf19f2df8529bf3b48"
+        },
+        {
+          "page": 58,
+          "start": 0,
+          "end": 52,
+          "sha256": "a4e910fdcc30c4778661919baff4be7bca6efa402611a4b00f979428055c8f0d"
+        }
+      ]
+    },
+    {
+      "number": "83-5",
+      "heading": "Civil Rule 83-5",
+      "page": 58,
+      "offset": 52,
+      "slices": [
+        {
+          "page": 58,
+          "start": 52,
+          "end": 1312,
+          "sha256": "cb01c82f4383d44828fd670fd4f1b35f0239df1e8a73d04dbcaba00eb76a03d6"
+        },
+        {
+          "page": 59,
+          "start": 0,
+          "end": 1379,
+          "sha256": "652fc0da4dd9da9e2b5f79313c73f5d723f7b8217b537f6dcf0d97356a34f9a4"
+        },
+        {
+          "page": 60,
+          "start": 0,
+          "end": 264,
+          "sha256": "5b64f65d3d3dc2c8b3f526b7f6df5e64428d2d22abe10841e0e6a6d17f3d7f1b"
+        }
+      ]
+    },
+    {
+      "number": "83-6.1",
+      "heading": "Civil Rule 83-6.1",
+      "page": 61,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 61,
+          "start": 0,
+          "end": 718,
+          "sha256": "ece1a8231ba3b66f0afd7e0d6269af666d7302202387573c166c3c8d0aecb40a"
+        }
+      ]
+    },
+    {
+      "number": "83-6.2",
+      "heading": "Civil Rule 83-6.2",
+      "page": 62,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 62,
+          "start": 0,
+          "end": 1151,
+          "sha256": "ed3449d8b76f6e4977d8053fe097ebec5aee938e0a4c4783606e388d1dc94536"
+        },
+        {
+          "page": 63,
+          "start": 0,
+          "end": 196,
+          "sha256": "600999b7d5582bdb67bc33e46f2d6d7eb187caed08d87fc7337fb3053ab9814c"
+        }
+      ]
+    },
+    {
+      "number": "83-6.7",
+      "heading": "Civil Rule 83-6.7",
+      "page": 64,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 64,
+          "start": 0,
+          "end": 1497,
+          "sha256": "5148eaeec71eb33a7902ce064ef15762c35e2bcb2f8cc4623340d3b6b3704064"
+        }
+      ]
+    },
+    {
+      "number": "83-6.8",
+      "heading": "Civil Rule 83-6.8",
+      "page": 65,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 65,
+          "start": 0,
+          "end": 1359,
+          "sha256": "1fa39cbdcd950bd03c1e6b391edc3df4a7120600d6aa977538b2facfd37d92fe"
+        }
+      ]
+    },
+    {
+      "number": "83-6.9",
+      "heading": "Civil Rule 83-6.9",
+      "page": 66,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 66,
+          "start": 0,
+          "end": 379,
+          "sha256": "bfca3b6408f3ad3877607302678ca45d03ce50e584d85c8d4efae2d93db8abeb"
+        }
+      ]
+    },
+    {
+      "number": "83-6.10",
+      "heading": "Civil Rule 83-6.10",
+      "page": 67,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 67,
+          "start": 0,
+          "end": 1239,
+          "sha256": "9af6baac36fbce6ce1a0a0080de091b0ef697461aa5879304c38ec98bf24b509"
+        }
+      ]
+    },
+    {
+      "number": "83-6.11",
+      "heading": "Civil Rule 83-6.11",
+      "page": 68,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 68,
+          "start": 0,
+          "end": 1345,
+          "sha256": "509e63caf8848cfb49b4af3c76f11c0b9a697de2ec94cf3adb90d93dc39c971d"
+        },
+        {
+          "page": 69,
+          "start": 0,
+          "end": 1549,
+          "sha256": "8ca07617ebe73bb05a3388ad8ebb309013f68f5307b781aa87e0a78deaaf743f"
+        },
+        {
+          "page": 70,
+          "start": 0,
+          "end": 372,
+          "sha256": "91e42674285517dba2e3f68a64c7d511829b5f1dc553f6673e8cf111fbda8bb3"
+        }
+      ]
+    },
+    {
+      "number": "83-6.12",
+      "heading": "Civil Rule 83-6.12",
+      "page": 71,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 71,
+          "start": 0,
+          "end": 370,
+          "sha256": "4e052886f52f7b8b95a136b7787179287500a04897b15fdcdb0a06405b58a8ff"
+        }
+      ]
+    },
+    {
+      "number": "83-6.13",
+      "heading": "Civil Rule 83-6.13",
+      "page": 72,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 72,
+          "start": 0,
+          "end": 1140,
+          "sha256": "f4a1823dddd14a640ab77441180b06b78fc845b912494b73c8863947942b6720"
+        }
+      ]
+    },
+    {
+      "number": "83-7",
+      "heading": "Civil Rule 83-7",
+      "page": 73,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 73,
+          "start": 0,
+          "end": 1763,
+          "sha256": "b5680ed8c6a52842d1a9206b6d73ab688aed9104ba0bae71400bb9c28e0feb9d"
+        },
+        {
+          "page": 74,
+          "start": 0,
+          "end": 286,
+          "sha256": "48f95afb43240b4c026582306f8543d1b1904b273f3b7be59e3637963f89aece"
+        }
+      ]
+    },
+    {
+      "number": "83-8",
+      "heading": "Civil Rule 83-8",
+      "page": 75,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 75,
+          "start": 0,
+          "end": 1151,
+          "sha256": "1dec3b3aa894b857a1232c1b35f03bc2161d10672b5d92b375c06c64f58fe23f"
+        }
+      ]
+    },
+    {
+      "number": "83-9",
+      "heading": "Civil Rule 83-9",
+      "page": 76,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 76,
+          "start": 0,
+          "end": 1318,
+          "sha256": "d4ffa096ac060e690aa9534e366b57f67c1a5e22ac17c3500a3a7993ce7f3779"
+        },
+        {
+          "page": 77,
+          "start": 0,
+          "end": 437,
+          "sha256": "af3e73897b7efe03255bc7f5b4da4cd3da99bfb0e359037870988a1c6636689a"
+        }
+      ]
+    },
+    {
+      "number": "200-1",
+      "heading": "Civil Rule 200-1",
+      "page": 78,
+      "offset": 0,
+      "slices": [
+        {
+          "page": 78,
+          "start": 0,
+          "end": 2344,
+          "sha256": "c1c7e5b3efc788a0c05b9ab1ffc8f0ccdc2f09981706ef47eb79fd6d6c7f436f"
+        },
+        {
+          "page": 79,
+          "start": 0,
+          "end": 1959,
+          "sha256": "c4749b762544865300c97c5e56e3fb5343922ee1b380b8f022f8a5260fd55eaa"
+        },
+        {
+          "page": 80,
+          "start": 0,
+          "end": 2156,
+          "sha256": "642fc0e142d536be4988c372714a4dcdc54b7306a97e4a400fae0268c3574b35"
+        },
+        {
+          "page": 81,
+          "start": 0,
+          "end": 2579,
+          "sha256": "f1278ee1985548935b8d4a353c0a00e85e804c0aa7723521dd5e6dfd34672b00"
+        },
+        {
+          "page": 82,
+          "start": 0,
+          "end": 670,
+          "sha256": "13272c35a2a9457fe5bf40dcea40c1228bae3bbc3af1a040922020d0ca800d8d"
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "startPage": 4,
+    "startOffset": 51,
+    "endPage": 82,
+    "endOffset": 670,
+    "ruleCount": 55,
+    "tocReconciled": false,
+    "editorialReviewComplete": false,
+    "currencyReviewed": false,
+    "flags": [
+      "Source extraction contains unresolved characters; consult the original publication."
+    ],
+    "excluded": "Source material outside the recorded range remains available in the district source library."
+  },
+  "transcriptionSha256": "d99ca0d584c504a2fc6d9835e1226daed2d4532421e80e72ff88c444c5ddff7f"
+}

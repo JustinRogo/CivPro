@@ -1,7 +1,7 @@
 export const normalize = s => String(s).normalize('NFKC').toLowerCase().replace(/[’‘]/g,"'");
 export function citationQuery(query) {
   const q=query.trim();
-  const m=q.match(/^(?:(FRCP|Fed\.?\s*R\.?\s*Civ\.?\s*P\.?|D\.?\s*Conn\.?\s*L\.?\s*Civ\.?\s*R\.?)\s*|Rule\s+)?(\d+(?:\.\d+)?)(\s*(?:\([a-zA-Z0-9]+\))*)$/i);
+  const m=q.match(/^(?:(FRCP|Fed\.?\s*R\.?\s*Civ\.?\s*P\.?|D\.?\s*Conn\.?\s*L\.?\s*Civ\.?\s*R\.?)\s*|Rule\s+)?((?:\d+[a-z]?|[A-Z]|HC)(?:[.\-]\d+[a-z]?)*)(\s*(?:\([a-zA-Z0-9]+\))*)$/i);
   if(!m)return null;
   return {number:m[2],collection:m[1] ? /^D/i.test(m[1])?'ctd-civil':'federal-frcp':null,anchor:[...m[3].matchAll(/\((\w+)\)/g)].map(x=>x[1]).join('/')};
 }
@@ -38,7 +38,7 @@ export function searchDocuments(documents, query, {scope='combined',district='ct
     const terms=query.replace(/"|\b(?:AND|OR|NOT)\b/g,' ').trim().split(/\s+/);
     const at=Math.max(0,...terms.map(t=>normalize(hay).indexOf(normalize(t))).filter(n=>n>=0).slice(0,1));
     const start=Math.max(0,at-65);
-    hits.push({...d, text:undefined, history:undefined, notes:undefined,snippet:(start?'…':'')+hay.slice(start,start+240)+(hay.length>start+240?'…':''), score:citation?100:terms.reduce((n,t)=>n+(normalize(d.title).includes(normalize(t))?10:1),0),anchor:citation?.anchor||null});
+    hits.push({...d, text:undefined, history:undefined, notes:undefined,snippet:(start?'…':'')+hay.slice(start,start+240)+(hay.length>start+240?'…':''), score:citation?100:terms.reduce((n,t)=>n+(normalize(d.title).includes(normalize(t))?10:1),0),anchor:d.editionId.includes('-parsed-v1-')?null:citation?.anchor||null});
   }
   return hits.sort((a,b)=>b.score-a.score||a.collectionId.localeCompare(b.collectionId)||a.number.localeCompare(b.number,undefined,{numeric:true}));
 }

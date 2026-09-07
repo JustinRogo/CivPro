@@ -1,0 +1,1791 @@
+{
+  "version": 1,
+  "reviewStatus": "parsed-draft",
+  "districtId": "wied",
+  "sourceDocument": {
+    "id": "51726fd2dac1b42f",
+    "title": "Local Rules",
+    "format": "pdf",
+    "role": "primary",
+    "sourceUrl": "https://www.wied.uscourts.gov/sites/wied/files/documents/Local%20Rules%202010-0201-Amended%202026-0729.pdf",
+    "sha256": "51726fd2dac1b42fa8943d0ee0755b2a5acddc4b0e030a405f33a41af9c61628",
+    "bytes": 519292,
+    "retrievedAt": "2026-09-07T00:02:38.109235+00:00",
+    "snapshotPath": "sources/district-snapshots/51726fd2dac1b42fa8943d0ee0755b2a5acddc4b0e030a405f33a41af9c61628.pdf",
+    "textPath": "data/source-library/51726fd2dac1b42fa8943d0ee0755b2a5acddc4b0e030a405f33a41af9c61628.json",
+    "pdfPath": "data/source-pdfs/51726fd2dac1b42fa8943d0ee0755b2a5acddc4b0e030a405f33a41af9c61628.pdf",
+    "pageCount": 71,
+    "reviewStatus": "source-document-only",
+    "blankTextPages": 0
+  },
+  "collection": {
+    "id": "wied-civil",
+    "name": "Eastern District of Wisconsin Local Rules",
+    "shortName": "Local rules · draft",
+    "districtId": "wied",
+    "scopeNote": "Civil and generally applicable local rules; unparsed supplements remain in the source library. Rule boundaries and transcription are drafts. Embedded notes, forms, and running headers may remain within rule text; subsection anchors and field-separated notes are not yet reviewed."
+  },
+  "provisions": [
+    {
+      "id": "wied-civil:1",
+      "collectionId": "wied-civil",
+      "districtId": "wied",
+      "number": "1",
+      "citation": "Eastern District of Wisconsin · Rule 1",
+      "title": "Scope of Rules",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-24",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L. R. 1. Scope of Rules\nThe Civil Rules set forth in Part B govern all civil proceedings in this \nDistrict.\nII. COMMENCING AN ACTION; SERVICE OF \nPROCESS AND PAPERS\n",
+          "pages": [
+            23
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wied-civil-parsed-v1-51726fd2dac1b42f",
+      "sourceDocumentId": "parsed-wied-51726fd2dac1b42f",
+      "sourceUrl": "https://www.wied.uscourts.gov/sites/wied/files/documents/Local%20Rules%202010-0201-Amended%202026-0729.pdf",
+      "pageIndex": 23,
+      "pageSpan": [
+        23,
+        23
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wied-civil:3",
+      "collectionId": "wied-civil",
+      "districtId": "wied",
+      "number": "3",
+      "citation": "Eastern District of Wisconsin · Rule 3",
+      "title": "Commencing an Action.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-24",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L. R. 3. Commencing an Action.\n(a) Civil Cover Sheet. A Civil Cover Sheet (AO Form JS 44) must accompany \neach civil action presented for filing.\n(b) Notification of Related Actions.\n(1) Definition. An action is related to another when the actions (i) arise \nfrom substantially the same transaction or events; (ii) involve substantially the \nsame parties or property; (iii) involve the same patent, trademark or copyright; \nor (iv) for other reasons would entail substantial duplication of effort or risk \ninconsistent or contradictory results if heard by different judges.\n(2) Initial Notice of Related Actions. When a civil case is filed or \nremoved, or a motion to withdraw the reference of an adversary proceeding \nfrom the bankruptcy court is filed, the person filing or removing must list on \nthe Civil Cover Sheet all related actions that are pending in this District. The \nparty must also file a Notice of Related Actions. A copy of the Notice of Related \nActions shall be served with the complaint, notice of removal, notice of appeal, \nor motion. The Notice of Related Actions must include a brief factual statement \nthat explains how the cases in question are related under the foregoing factors. \nAll facts that appear relevant to such a determination must be set forth.\n(3) Notice of Prior Related Actions. Whenever an action filed in this \nDistrict is dismissed by a party or by the Court without prejudice and \nthereafter the same or essentially the same claims, involving the same or \nessentially the same parties, are alleged in another action, the filing party in \nthe later-filed action must list the earlier-filed action as a related case on the \nCivil Cover Sheet and file a Notice of Related Actions pursuant to paragraph \n(2) of this subsection.",
+          "pages": [
+            23
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "19\n(4) Assigning Related Actions. Where the Civil Cover Sheet discloses \na pending or previously filed related civil action in this District, the new civil \naction will be assigned to the same judge.\n(5) Continuing Duty. Any party that has appeared in the action must \nnotify the court, by filing and serving a Notice of Related Actions, as soon as \nthe party becomes aware of any related action pending or previously filed in \nthis District that is not listed on the Civil Cover Sheet or any prior Notice of \nRelated Actions. The Notice must be filed as soon thereafter as it reasonably \nshould appear that the action relates to another. The Notice must be served on \nall parties who have appeared in the case.\n(c) Reassignment of Actions.\n(1) Conditions for Reassignment. A case may be reassigned to \nanother judge if it is found to be related to a lower-numbered case assigned to \nthat judge and each of the following criteria is met:\n(A) both cases are pending in this District;\n(B) the handling of both cases by the same judge is likely to result \nin a substantial saving of judicial resources; and\n(C) neither case has progressed to the point where reassigning a \ncase would be likely to substantially delay the proceedings in either case, \nor the Court finds that the assignment of the cases to the same judge \nwould promote consistency in resolution of the cases or otherwise be in \nthe interest of justice.\nA case may be randomly reassigned to a judge pursuant to General L.R. 3(a) if \nit was initially assigned pursuant to Civil L.R. 3(b)(4) and fails to meet each of the \nabove criteria.\n(2) Motion to Reassign.\n(A) A motion for reassignment based on relatedness or a lack of \nrelatedness may be filed by any party to a case. In order that all parties \nto a proceeding be permitted to respond on the questions of relatedness \nand possible reassignment, such motions should not generally be filed \nuntil after the answer or motions in lieu of answer have been filed in \neach of the proceedings involved.\n(B) The motion must be filed in each related case and will be \ndecided by the judge to whom the lowest-numbered case of the claimed \nrelated set is assigned for trial or other final disposition. ",
+          "pages": [
+            24
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "20\n(C) The motion must:\n(i) set forth the points of commonality of the cases in \nsufficient detail to indicate that the cases are or are not related \nwithin the meaning of paragraph (b)(1);\n(ii) indicate the extent to which the conditions required by \nparagraph (c)(1) will or will not be met if the cases are found to be \nrelated; and\n(iii) be accompanied by a copy of the complaint or other \nrelevant pleading in each of the higher-numbered cases that are \nthe subject of the motion.\n(D) Any objection to the motion must be filed within 7 days of the \nfiling of the motion, and served on all parties and on the judges for all of \nthe affected cases.\n(3) Order.\n(A) The judge to whom the motion is presented may consult with \nthe judge or judges before whom the other case or cases are pending, if \nany. The judge must enter an order finding whether or not the cases are \nrelated, and, if they are, whether the higher numbered case or cases \nwere properly assigned, or should be reassigned, to that judge.\n(B) Where the judge finds that reassignment of a case assigned \nto a different judge should occur, the Clerk of Court must reassign the \nhigher-numbered case or cases to the judge deciding the motion and to \nwhom the lowest-numbered case is assigned. \n(C) Where the judge finds that reassignment of a case that was \ninitially assigned to that judge should occur, the Clerk of Court must \nrandomly reassign the case pursuant to Gen. L.R. 3(a).\n(4) Sua Sponte Judicial Determination of Relatedness.\n(A) Whenever a judge believes that a case pending before that \njudge is related to a lower-numbered case pending in this District, the \njudge may refer the case to the judge assigned to the lowest-numbered \ncase with a request that the judge assigned to the lowest-numbered case \nconsider whether the cases are related. The referring judge must file and \nsend a copy of the referral to all parties in all affected cases. The parties \nmay file any opposition to or support for reassigning the cases within 7 \ndays of the filing of the referral, a copy of which must be served on all ",
+          "pages": [
+            25
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "21\nparties and on the judges for all of the affected cases. The judge assigned \nto the lowest-numbered case must then enter an order finding whether \nor not the cases are related, and, if they are, whether the higher \nnumbered case or cases should be reassigned to that judge.\n(B) Whenever a judge concludes that a higher-numbered case has \nbeen assigned to the judge under paragraph (b)(4) based on an incorrect \nassertion of relatedness, or fails to meet the criteria of paragraph (c)(1), \nthe judge must enter an order directing the Clerk of Court to randomly \nreassign the case pursuant to Gen. L.R. 3(a).\n(d) Bankruptcy Appeals. Appeals to the United States District Court for the \nEastern District of Wisconsin from the Bankruptcy Court must be commenced and \nadministered as prescribed in Part VIII of the Federal Rules of Bankruptcy Procedure \n8001-8020.\n(e) Social Security Disability Appeals. Appeals from a decision of the \nCommissioner of Social Security may be administered by special procedures ordered \nby the judges of this District. These procedures may be found on the official website \nof the United States District Court for the Eastern District of Wisconsin.\nCivil L.R. 3(e) was added to alert all practitioners that, apart from the\nprocedures set forth in the formal rules as codified here, the judges of the United States \nDistrict Court for the Eastern District of Wisconsin have adopted and routinely\nfollow discrete practices, including requirements aboutfiling deadlines, with respectto\nthe litigation of the Social Security Disability Appeals docket.\n",
+          "pages": [
+            26
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wied-civil-parsed-v1-51726fd2dac1b42f",
+      "sourceDocumentId": "parsed-wied-51726fd2dac1b42f",
+      "sourceUrl": "https://www.wied.uscourts.gov/sites/wied/files/documents/Local%20Rules%202010-0201-Amended%202026-0729.pdf",
+      "pageIndex": 23,
+      "pageSpan": [
+        23,
+        26
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wied-civil:4",
+      "collectionId": "wied-civil",
+      "districtId": "wied",
+      "number": "4",
+      "citation": "Eastern District of Wisconsin · Rule 4",
+      "title": "Service of Process Upon the State of Wisconsin or Its Employees",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L. R. 4. Service of Process Upon the State of Wisconsin or Its Employees \nWhen Sued by a State Prisoner Pursuant to 42 U.S.C. § 1983.\nWhen service of process upon the State of Wisconsin or its employees is made \nin an action brought by a state prisoner pursuant to 42 U.S.C. § 1983, the process \nserver, in addition to serving the named defendant or defendants, must serve a copy \nof the summons and complaint upon the Secretary of the Wisconsin Department of \nCorrections and the Administrator of the Legal Services Division of the Wisconsin \nDepartment of Justice as provided in Fed. R. Civ. P. 4(j).\n",
+          "pages": [
+            26
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wied-civil-parsed-v1-51726fd2dac1b42f",
+      "sourceDocumentId": "parsed-wied-51726fd2dac1b42f",
+      "sourceUrl": "https://www.wied.uscourts.gov/sites/wied/files/documents/Local%20Rules%202010-0201-Amended%202026-0729.pdf",
+      "pageIndex": 26,
+      "pageSpan": [
+        26,
+        26
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wied-civil:5",
+      "collectionId": "wied-civil",
+      "districtId": "wied",
+      "number": "5",
+      "citation": "Eastern District of Wisconsin · Rule 5",
+      "title": "Service of Papers Through the Court’s Electronic Transmission",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L. R. 5. Service of Papers Through the Court’s Electronic Transmission \nFacilities.\nA separate certificate of service is not required for papers served electronically \nif all parties were served through the Court’s Electronic Case Filing (ECF) system.",
+          "pages": [
+            26
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "22\nIII. PLEADINGS AND MOTIONS\n",
+          "pages": [
+            27
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wied-civil-parsed-v1-51726fd2dac1b42f",
+      "sourceDocumentId": "parsed-wied-51726fd2dac1b42f",
+      "sourceUrl": "https://www.wied.uscourts.gov/sites/wied/files/documents/Local%20Rules%202010-0201-Amended%202026-0729.pdf",
+      "pageIndex": 26,
+      "pageSpan": [
+        26,
+        27
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wied-civil:7",
+      "collectionId": "wied-civil",
+      "districtId": "wied",
+      "number": "7",
+      "citation": "Eastern District of Wisconsin · Rule 7",
+      "title": "Form of Motions and Other Papers",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L. R. 7. Form of Motions and Other Papers\n(a) Form of Motion and Moving Party’s Supporting Papers. Every \nmotion must state the statute or rule pursuant to which it is made and, except for \nthose brought under Civil L. R. 7(h) (Expedited Non-Dispositive Motion Practice), \nmust be accompanied by:\n(1) a supporting memorandum and, when necessary, affidavits, \ndeclarations, or other papers; or\n(2) a certificate stating that no memorandum or other supporting papers \nwill be filed.\n(b) Non-Moving Party’s Response. For all motions other than those for \nsummary judgment or those brought under Civil L. R. 7(h) (Expedited Non￾Dispositive Motion Practice), any memorandum and other papers in opposition must \nbe filed within 21 days of service of the motion. Failure to respond to the motion may \nresult in the Court deciding the motion without further input from the parties.\n(c) Reply. For all motions other than those for summary judgment or those \nbrought under Civil L. R. 7(h) (Expedited Non-Dispositive Motion Practice), the \nmoving party may serve a reply memorandum and other papers within 14 days from \nservice of the response memorandum.\n(d) Sanction for Noncompliance. Failure to comply with the briefing \nrequirements in Civil L. R. 7(a)-(b) may result in sanctions up to and including the \nCourt denying or granting the motion. Sanctions remain available under General L. \nR. 83(f).\n(e) Oral Argument. The Court will hear oral argument at its discretion.\n(f) Length of Memoranda. Subject to the limitations of Civil L. R. 7(h) \n(Expedited Non-Dispositive Motion Practice) and Civil L. R. 56 (Summary Judgment \nMotion Practice), the principal memorandum in support of, or in opposition to, any \nmotion must not exceed 30 pages and reply briefs must not exceed 15 pages (excluding \nany caption, cover page, table of contents, table of authorities, and signature block). \nNo memorandum exceeding the page limitations may be filed unless the Court has \npreviously granted leave to file an oversized memorandum.\n(g) Modification of Provisions in Particular Cases. The Court may \nprovide by order or other notice to the parties that different or additional provisions \nregarding motion practice apply.",
+          "pages": [
+            27
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "23\n(h) Expedited Non-Dispositive Motion Practice.\n(1) Parties in civil actions may seek non-dispositive relief by expedited \nmotion. The motion must be designated as a “Civil L. R. 7(h) Expedited Non￾Dispositive Motion.” The Court may schedule the motion for hearing or may \ndecide the motion without hearing. The Court may designate that the hearing \nbe conducted by telephone conference call. The Court may order an expedited \nbriefing schedule. \n(2) The motion must contain the material facts, argument, and, if \nnecessary, counsel’s certification pursuant to Civil L. R. 37. The motion must \nnot exceed 3 pages excluding any caption and signature block. The movant may \nnot file a separate memorandum with the motion. The movant may file with \nthe motion an affidavit or declaration for purposes of (1) attesting to facts \npertinent to the motion and/or (2) authenticating documents relevant to the \nissue(s) raised in the motion. The movant’s affidavit or declaration may not \nexceed 2 pages. The respondent must file a memorandum in opposition to the \nmotion within 7 days of service of the motion, unless otherwise ordered by the \nCourt. The respondent’s memorandum must not exceed 3 pages. The \nrespondent may file with its memorandum an affidavit or declaration for \npurposes of (1) attesting to facts pertinent to the respondent’s memorandum \nand/or (2) authenticating documents relevant to the issue(s) raised in the \nmotion. The respondent’s affidavit or declaration may not exceed 2 pages. No \nreply brief is permitted absent leave of Court.\n(3) The provisions of subsection (h) do not apply to 42 U.S.C. § 1983 \nactions brought by incarcerated persons proceeding pro se.\n(i) Leave to file paper. Any paper, including any motion, memorandum, or \nbrief, not authorized by the Federal Rules of Civil Procedure, these Local Rules, or a \nCourt order must be filed as an attachment to a motion requesting leave to file it. If \nthe Court grants the motion, the Clerk of Court must then file the paper.\n(j) Citations.\n(1) With the exception of the prohibitions in Seventh Circuit Rule 32.1, \nthis Court does not prohibit the citation of unreported or non-precedential \nopinions, decisions, orders, judgments, or other written dispositions.\n(2) If a party cites an unreported opinion, decision, order, judgment or \nother written disposition that is not available in a publicly accessible electronic \ndatabase, the party must file and serve a copy of that opinion, decision, order, \njudgment, or other written disposition.",
+          "pages": [
+            28
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "24\n(3) Service of Copies on Pro Se Parties. If a party cites an unreported \nopinion, decision, order, judgment or other written disposition, the party must \nfile and serve a copy of that opinion, decision, order, judgment, or other written \ndisposition on pro se parties regardless of whether it is available in a publicly \naccessible electronic database.\n(k) Notice of Supplemental Authority. If pertinent and significant \nauthorities relevant to an issue raised in a pending motion come to a party’s attention \nafter a party’s final brief on the motion has been filed, the party may file a Notice of \nSupplemental Authority, attaching the new authority, without leave of the court. The \nNotice of Supplemental Authority may not contain any argument but may identify \nthe page or section in the filed briefs to which the authority is relevant.\nCommittee Comment: The rule expressly allows the Court to expand the page \ncount if needed, but it does not allow the filing of a memorandum longer than \npermitted by Civil L. R. 7 unless the Court grants leave before the memorandum is \nfiled. See Civil L. R. 7(g) and (i). \nThe rule also makes clear that declarations made in compliance with 28 U.S.C. \n§ 1746 may be used to the same effect as affidavits in supporting motions. \nCivil L. R. 7(d) allows the Court to take adverse action if the Court construes \nthe party’s lack of response as an “intent to abandon suit or as meriting a sanction.” \nMarcure v. Lynn, 992 F.3d 625, 631 (7th Cir. 2021). When the moving party bears the \nburden of proof, a failure to respond to the motion—standing alone—does not provide \nsufficient grounds to grant or deny the motion. Id.; see also Robinson v. Waterman, \nNo. 20-1370, 2021 WL 2350875, *2 (7th Cir. June 9, 2021).\nCivil L. R. 7(i) addresses the filing of papers, including motions or memoranda, \nfor which leave to file is required. The rule provides that any paper, which may not be \nfiled without the Court’s first granting leave to file, must be attached to the motion \nseeking leave to file that paper. If the Court grants leave to file, the Clerk of Court must \nthen file the paper.\nCivil L. R. 7(j) addresses “unreported” or non-precedential authorities. The \nprovision permits the citation of authorities in addition to those reported in printed \nnational reporters, with the exception of orders whose citation and consideration is \nprohibited by Seventh Circuit Rule 32.1. If the authority is publicly accessible (i.e. \nWestlaw, Lexis, Pacer, FastCase), a copy need not be filed and served on all parties, \nunless a party is pro se. If a party is pro se, then “unpublished” or “non-precedential” \nauthority must be served on the pro se litigant. Notably, with the exception of orders \nsubject to Circuit Rule 32.1, this provision does not bar the citation of decisions or \norders even if a rule would bar the citation of the decision to the court that issued the \ndecision or to any other court. The Court may take limitations on the authority’s use \nbefore other courts, as well as the “unpublished” or “non-precedential” nature of the ",
+          "pages": [
+            29
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "25\nauthority, into consideration when deciding the weight, if any, to be afforded to the \nauthority.\nCivil L. R. 7(k) addresses the Notice of Supplemental Authority. The Notice of \nSupplemental Authority should be submitted in the following format: “[Case name \nand citation], is relevant to [page or section] of [title of brief, ECF No __].” The rule \ndoes not contemplate a response by any party absent extraordinary circumstances.\n",
+          "pages": [
+            30
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wied-civil-parsed-v1-51726fd2dac1b42f",
+      "sourceDocumentId": "parsed-wied-51726fd2dac1b42f",
+      "sourceUrl": "https://www.wied.uscourts.gov/sites/wied/files/documents/Local%20Rules%202010-0201-Amended%202026-0729.pdf",
+      "pageIndex": 27,
+      "pageSpan": [
+        27,
+        30
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wied-civil:7.1",
+      "collectionId": "wied-civil",
+      "districtId": "wied",
+      "number": "7.1",
+      "citation": "Eastern District of Wisconsin · Rule 7.1",
+      "title": "Disclosure Statement.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L. R. 7.1. Disclosure Statement.\n(a) Required information. To enable the Court to determine whether \nrecusal is necessary or appropriate, an attorney for a nongovernmental party, an \nintervenor, or an amicus curiae must file a Disclosure Statement that:\n(1) states the full name of every party, intervenor, or amicus the \nattorney represents in the action; and\n(2) if such party, intervenor, or amicus is a corporation:\n(A) identifies any parent corporation and any publicly held \ncorporation owning 10% or more of its stock; or\n(B) states there is no such corporation; and\n(3) states the names of all law firms whose attorneys will appear, or are \nexpected to appear, for the party in this Court.\n(b) Filing and Serving. A party, intervenor, or amicus curiae must:\n(1) file the disclosure statement with its first appearance, pleading, \npetition, motion, response, notice of removal or other request addressed to the \nCourt, or when a case has been removed to this Court, the non-removing party \nmust file within 14 days of the filing of a notice of removal; and\n(2) promptly file a supplemental statement if any required information \nchanges.\n(c) Form. The disclosure statement must be substantially in the following \nform:\n[CAPTION]\nThe undersigned, counsel of record for [John Doe, defendant, or Ruth \nRoe, plaintiff], furnishes the following list in compliance with Civil L. R. 7.1 \nand Fed. R. Civ. P. 7.1:",
+          "pages": [
+            30
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "26\n[Listed by Category]\nDate: ________\nAttorney’s Signature\n(d) Pseudonyms. A party who initiates a civil action using a pseudonym \ninstead of the plaintiff’s actual name must file the disclosure statement in accordance \nwith Civil L. R. 10(c).\n(e) Withdrawal as Counsel. An attorney may withdraw from a case in which \nhe or she has appeared only as follows:\n(1) By Notice of Withdrawal. A party’s attorney may withdraw from \na case by filing and serving a notice of withdrawal, effective upon filing, if:\n(A) multiple attorneys have appeared on behalf of the party; and\n(B) at least one of those attorneys will continue as the party’s \ncounsel of record after the attorney seeking to withdraw does so.\n(2) By Notice of Withdrawal and Substitution. A party’s attorney \nmay withdraw from a case by filing and serving a notice of withdrawal and \nsubstitution, effective upon filing, if the notice includes:\n(A) a statement by successor counsel that serves as successor \ncounsel’s notice of appearance and affirms that he or she represents the \nparty; \n(B) the names, addresses, and signatures of the withdrawing \nattorney and successor counsel; \n(C) a statement that withdrawal and substitution has been \ndiscussed with the party and the party consents; and \n(D) affirmation the withdrawal and substitution will not delay \nthe trial or other progress of the case. \n(3) By Motion. An attorney who seeks to withdraw under \ncircumstances not addressed in Civil L.R. 7.1(e)(1) or (2) must move to \nwithdraw and:\n(A) show good cause for the withdrawal; \n(B) serve a copy of the moving papers on the party; ",
+          "pages": [
+            31
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "27\n(C) advise the party of the date and time of hearing, if the judge \nchooses to schedule a hearing, and whether attendance at the hearing \nwill be in person, by telephone or by zoom conference; and\n(D) advise the party whether the court requires the party’s \nattendance at the hearing, if one is scheduled.\n",
+          "pages": [
+            32
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wied-civil-parsed-v1-51726fd2dac1b42f",
+      "sourceDocumentId": "parsed-wied-51726fd2dac1b42f",
+      "sourceUrl": "https://www.wied.uscourts.gov/sites/wied/files/documents/Local%20Rules%202010-0201-Amended%202026-0729.pdf",
+      "pageIndex": 30,
+      "pageSpan": [
+        30,
+        32
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wied-civil:8",
+      "collectionId": "wied-civil",
+      "districtId": "wied",
+      "number": "8",
+      "citation": "Eastern District of Wisconsin · Rule 8",
+      "title": "Pleading Jurisdiction.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L. R. 8. Pleading Jurisdiction.\nIf a pleading or notice of removal asserts jurisdiction based on diversity of \ncitizenship, the pleading or notice must identify the amount in controversy and the \ncitizenship of each party to the litigation. If any party is a corporation, the pleading \nor notice must identify both the state of incorporation and the state in which the \ncorporation has its principal place of business. If any party is an unincorporated \nassociation, limited liability company, or partnership, the pleading or notice must \nidentify the citizenship of all members.\n",
+          "pages": [
+            32
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wied-civil-parsed-v1-51726fd2dac1b42f",
+      "sourceDocumentId": "parsed-wied-51726fd2dac1b42f",
+      "sourceUrl": "https://www.wied.uscourts.gov/sites/wied/files/documents/Local%20Rules%202010-0201-Amended%202026-0729.pdf",
+      "pageIndex": 32,
+      "pageSpan": [
+        32,
+        32
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wied-civil:9",
+      "collectionId": "wied-civil",
+      "districtId": "wied",
+      "number": "9",
+      "citation": "Eastern District of Wisconsin · Rule 9",
+      "title": "Pleading Special Matters.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L. R. 9. Pleading Special Matters.\n(a) Required Forms for Seeking Release from Custody or Challenging \nSentences, and Rules Applicable to Applications Under 28 U.S.C. § \n2241.\n(1) All persons applying or petitioning for release from custody under 28 \nU.S.C. § 2241 or 28 U.S.C. § 2254, or moving under 28 U.S.C. § 2255 to \nchallenge a sentence imposed by this Court must file their application, petition, \nor motion with the Clerk of Court using forms available from the Court. The \nClerk of Court will provide the forms and directions for their preparation \nwithout charge.\n(2) When an application for release from custody under 28 U.S.C. § 2241 \nis filed, the respondent is not required to file an answer or respond to the \napplication unless directed by the Court. The Court may apply any of the Rules \nGoverning 28 U.S.C. § 2254 Cases in the United States District Courts to \napplications for release from custody under 28 U.S.C. § 2241.\n(b) Required Forms for 42 U.S.C. § 1983 Actions for Deprivations of \nFederal Rights by Persons Acting Under Color of State Law \nCommenced by Prisoners Appearing Pro Se.\nPrisoners appearing pro se who commence an action under 42 U.S.C. \n§ 1983 for deprivations of federal rights by persons acting under color \nof state law must file the complaint with the Clerk of Court using \nthe form available from the Court. The Clerk of Court will provide \nthe forms and directions for their preparation without charge.",
+          "pages": [
+            32
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "28\nCommittee Comment: Civil L. R. 9(a) has been amended to require use of this \nDistrict’s form for applications for relief pursuant to 28 U.S.C. § 2241. Prior to March \n2005, the District did not have a 28 U.S.C. § 2241 form.\nCivil L. R. 9(a)(2) is new. There are no rules explicitly governing 28 U.S.C. § \n2241. Establishing a general principle regarding the respondent’s obligation to answer \nor respond will be helpful to the parties and to the Court. Rule 1(b) of the Rules \nGoverning 28 U.S.C. § 2254 Cases in the United States District Courts provides that \ndistrict courts may apply any or all those rules to a habeas corpus petition not covered \nby 1(a).\n",
+          "pages": [
+            33
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wied-civil-parsed-v1-51726fd2dac1b42f",
+      "sourceDocumentId": "parsed-wied-51726fd2dac1b42f",
+      "sourceUrl": "https://www.wied.uscourts.gov/sites/wied/files/documents/Local%20Rules%202010-0201-Amended%202026-0729.pdf",
+      "pageIndex": 32,
+      "pageSpan": [
+        32,
+        33
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wied-civil:10",
+      "collectionId": "wied-civil",
+      "districtId": "wied",
+      "number": "10",
+      "citation": "Eastern District of Wisconsin · Rule 10",
+      "title": "Form of Pleadings.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L. R. 10. Form of Pleadings.\n(a) Paragraphs. A party, including a party proceeding pro se, must state its \nclaims or defenses in numbered paragraphs, each limited as far as practicable to a \nsingle set of circumstances.\n(b) Answers and Replies. An answer or reply must respond in numbered \nparagraphs corresponding to the paragraphs of the pleading to which it refers.\n(c) Pseudonyms. A party who commences a civil action using a pseudonym \ninstead of the plaintiff’s actual name must indicate in the disclosure statement filed \nwith the Clerk of Court under Civil L. R. 7.1 and served on all other parties that the \nplaintiff is using a pseudonym. At the same time, the party must file, but not serve, \na disclosure statement under seal identifying the plaintiff’s actual name and \nproviding the other information required by Civil L. R. 7.1. Instructions for filing\nthe material under seal are set forth in the Electronic Case Filing Policies and\nProcedures Manual, which may be found on the official website of the United States \nDistrict Court for the Eastern District of Wisconsin. Within 21 days of service of the \ncomplaint, the party must file and serve a motion seeking permission to continue to \nproceed using a pseudonym.\n",
+          "pages": [
+            33
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wied-civil-parsed-v1-51726fd2dac1b42f",
+      "sourceDocumentId": "parsed-wied-51726fd2dac1b42f",
+      "sourceUrl": "https://www.wied.uscourts.gov/sites/wied/files/documents/Local%20Rules%202010-0201-Amended%202026-0729.pdf",
+      "pageIndex": 33,
+      "pageSpan": [
+        33,
+        33
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wied-civil:15",
+      "collectionId": "wied-civil",
+      "districtId": "wied",
+      "number": "15",
+      "citation": "Eastern District of Wisconsin · Rule 15",
+      "title": "Amended and Supplemental Pleadings.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L. R. 15. Amended and Supplemental Pleadings.\n(a) Any amendment to a pleading, whether filed as a matter of course or upon \na motion to amend, must reproduce the entire pleading as amended, and may not \nincorporate any prior pleading by reference.\n(b) A motion to amend a pleading must state specifically what changes are \nsought by the proposed amendments. The proposed amended pleading must be filed \nas an attachment to the motion to amend. \n(c) If the Court grants the motion to amend, the Clerk of Court must then file \nthe amended pleading. For any party who has appeared in the action and was served \nwith the proposed amended pleading, the time period to serve an answer or other ",
+          "pages": [
+            33
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "29\nresponsive pleading begins when the Court grants the motion to amend. The time \nperiod for a party who has not appeared in the action to serve an answer or other \nresponsive pleading begins to run when that party is properly served with the \namended pleading.\nCommittee Comment: Civil L. R. 15 is intended to end confusion surrounding \nthe filing and service requirements in connection with successful motions for leave to \namend pleadings. The proposed amended pleading should be attached to the motion \nto amend. If leave to amend is granted, the Clerk of Court will file the attached \npleading. The time period for filing any response to the amended pleading begins to \nrun from the date the Court grants the motion.\n",
+          "pages": [
+            34
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wied-civil-parsed-v1-51726fd2dac1b42f",
+      "sourceDocumentId": "parsed-wied-51726fd2dac1b42f",
+      "sourceUrl": "https://www.wied.uscourts.gov/sites/wied/files/documents/Local%20Rules%202010-0201-Amended%202026-0729.pdf",
+      "pageIndex": 33,
+      "pageSpan": [
+        33,
+        34
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wied-civil:16",
+      "collectionId": "wied-civil",
+      "districtId": "wied",
+      "number": "16",
+      "citation": "Eastern District of Wisconsin · Rule 16",
+      "title": "Pretrial Conferences; Scheduling; Management; Alternative",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L. R. 16. Pretrial Conferences; Scheduling; Management; Alternative \nDispute Resolution.\n(a) Preliminary Pretrial Conferences.\n(1) A judge may require the parties to appear to consider the future \nconduct of the case. In categories of actions and proceedings not exempted \nunder subsection (a)(3) of this rule, the parties must be prepared to discuss the \nmatters enumerated in Fed. R. Civ. P. 16 and Fed. R. Civ. P. 26(f). The parties \nalso should be prepared to state:\n(A) the nature of the case in 1 or 2 sentences;\n(B) any contemplated motions;\n(C) the parties’ discovery plan, including the amount of further \ndiscovery each party contemplates, the approximate time for completion \nof discovery, and any disputes regarding discovery;\n(D) whether the parties anticipate the disclosure or discovery of \nelectronically stored information;\n(E) whether the parties have reached an agreement for asserting \npost-production claims of privilege or of protection as trial-preparation \nmaterial, and whether the parties request the judge to enter an order \nincluding the agreement;\n(F) whether settlement discussions have occurred;\n(G) the basis for the Court’s subject matter jurisdiction;\n(H) whether the case is included in one of the categories of \nproceedings exempted from initial disclosures and discovery conference ",
+          "pages": [
+            34
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "30\npursuant to Fed. R. Civ. P. 26(a)(1)(B) and 26(f); appeals for review on \nan administrative record are exempted from (C), (D) and (E) above; and\n(I) such other matters as may affect further scheduling of the case \nfor final disposition.\n(2) The judge may enter any orders necessary to aid in further \nscheduling the action, including dates for further conferences, briefing, \nschedules for motions, and cutoff dates for completing discovery. The judge also \nmay enter any orders permitted under Fed. R. Civ. P. 16, Fed. R. Civ. P. 26(f), \nor Civil L. R. 26(e).\n(3) Unless otherwise ordered by the judge, the categories of actions and \nproceedings set forth in Fed. R. Civ. P. 26(a)(1)(B)(i)-(ix) are exempted from the \nscheduling and planning requirements of Fed. R. Civ. P. 16(b).\n(b) Final Pretrial Conference. The judge may require counsel to appear for \na final pretrial conference to consider the subjects specified in Fed. R. Civ. P. 16 or to \nconsider other matters determined by the judge. Unless excused by the judge, \nprincipal trial counsel for each party must appear at the final pretrial conference.\n(c) Pretrial Report.\n(1) Unless otherwise ordered, each party must file a pretrial report at \nleast 14 days before the scheduled start of the trial or, if a final pretrial \nconference is scheduled, 7 days before the final pretrial conference. The report \nmust be signed by the attorney (or a party personally, if not represented by \ncounsel) who will try the case. Sanctions, which may include the dismissal of \nclaims and defenses, may be imposed if a pretrial report is not filed. The report \nmust include the following:\n(A) a short summary, not to exceed 2 pages, of the facts, claims, \nand defenses; \n(B) a statement of the issues;\n(C) the names and addresses of all witnesses expected to testify. \nAny witness not listed will not be permitted to testify absent a showing \nof good cause;\n(D) a statement of the background of all expert witnesses listed;\n(E) a list of exhibits to be offered at trial sequentially numbered \naccording to General L. R. 26 where practicable;",
+          "pages": [
+            35
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-37",
+          "path": [],
+          "type": "paragraph",
+          "text": "31\n(F) a designation of all depositions or portions of transcripts or \nother recordings of depositions to be read into the record or played at \ntrial as substantive evidence. Reading or playing more than 5 pages \nfrom a deposition will not be permitted unless the judge finds good \ncause;\n(G) an estimate of the time needed to try the case;\n(H) if scheduled for a jury trial:\n(i) any proposed voir dire questions;\n(ii) proposed instructions on substantive issues; and\n(iii) a proposed verdict form.\n(I) if scheduled for a bench trial, proposed findings of fact and \nconclusions of law (see Fed. R. Civ. P. 52).\n(2) In addition to completing a pretrial report, counsel are expected to \nconfer and make a good faith effort to settle the case. Counsel are also expected \nto arrive at stipulations that will save time during the trial.\n(d) Alternative Dispute Resolution.\n(1) Participation. Each judge may conduct an alternative dispute \nresolution (ADR) evaluation conference during the early stages of case \ndevelopment to determine whether a civil case is appropriate for ADR. This \nconference may be held in conjunction with a pretrial conference or as a \nseparate conference. If the judge determines that a case is appropriate for \nADR, the judge may encourage the parties to participate in ADR before a \nmagistrate judge or an appropriate neutral evaluator.\n(2) Exemptions. The following types of cases are exempt from this \nprocedure: administrative proceedings, including all Social Security cases; \nhabeas corpus cases or other proceedings to challenge a criminal conviction or \nsentence; pro se prisoner litigation; actions by the United States to recover \nbenefit payments or to collect on a student loan guaranteed by the United \nStates; cases in which the only relief sought is an order compelling arbitration \nor enforcing an arbitration award; actions to enforce or quash an \nadministrative summons or subpoena; proceedings ancillary to proceedings in \nother Courts; and mortgage foreclosure actions in which an agency of the \nUnited States is a secured party.",
+          "pages": [
+            36
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-38",
+          "path": [],
+          "type": "paragraph",
+          "text": "32\n(3) Confidentiality. The Court, the neutral, all counsel and parties, \nand any other persons attending an ADR session under these rules must treat \nas confidential all written and oral communications made in connection with \nor during any ADR session. Except to the extent otherwise stipulated or \nordered, the disclosure of any written or oral communication made by any \nparty, counsel, or other participant in connection with or during any ADR \nsession is prohibited. ADR proceedings pursuant to these rules must be treated \nas compromise negotiations for purposes of the Federal Rules of Evidence and \nstate rules of evidence. \n(4) Early Neutral Evaluation. Early Neutral Evaluation (ENE) is a \nprocedure in which the parties and their counsel, early in the case after an \nopportunity for limited discovery, meet with a neutral evaluator who is \nknowledgeable in the subject matter. The purpose is to reduce the cost and \nduration of litigation by providing an early opportunity for the parties to obtain \na neutral evaluation of their case and to engage in meaningful settlement \nnegotiations.\n(A) Cases Subject to ENE. Any civil case may be referred to \nENE if all parties agree. A case may be selected for ENE at the \npreliminary pretrial conference held pursuant to Civil L. R. 16(a), or at \nany other time by stipulation of the parties.\n(B) ENE Process. Within 30 days of the case being referred to \nENE, the neutral evaluator, an experienced attorney with expertise in \nthe subject matter of the case, hosts a confidential and informal meeting \nof clients (companies are to be represented by someone knowledgeable \nabout the case and with full settlement authority) and lead counsel at \nwhich each side, through counsel, clients or witnesses, presents evidence \nand arguments supporting its case (without regard to the rules of \nevidence and without direct or cross-examination of witnesses). The \nneutral evaluator identifies areas of agreement, clarifies and focuses the \nissues and encourages the parties to enter into procedural and \nsubstantive stipulations. The neutral evaluator in private prepares an \nevaluation that includes an assessment of the case, the reasoning that \nsupports the assessment, and, where feasible, an estimate of the \nlikelihood of liability and range of damages. Before the neutral evaluator \nprovides the evaluation to the parties, the parties may engage in \nsettlement discussions facilitated by the neutral evaluator. If settlement \ndoes not result, the neutral evaluator will present the parties with the \nevaluation. The neutral evaluator’s evaluation is not shared with the \ntrial judge.\n(C) Preservation of Right to Trial. The neutral evaluator has \nno power to impose settlement. The confidential evaluation is ",
+          "pages": [
+            37
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "33\nnonbinding. If no settlement is reached, the case remains on the \nlitigation track.\n(D) The Neutral Evaluator. The neutral evaluator must have \nexperience in the substantive legal area of the lawsuit. The parties must \nattempt to agree upon a neutral evaluator. If the parties cannot agree \nupon a neutral evaluator, the trial judge will appoint an available \nneutral evaluator. The trial judge may, but is not required to, appoint \none of the magistrate judges of this District as the neutral evaluator.\n(E) Compensation of Neutral Evaluators. Neutral evaluators \nvolunteer their preparation time and the first four hours in an ENE \nsession. After four hours in an ENE session, the neutral evaluator may \neither (1) continue to volunteer his or her time, or (2) give the parties \nthe option of concluding the session or paying the neutral evaluator for \nadditional time at 60% of the neutral evaluator’s standard hourly billing \nrate, to be split equally among the parties unless they agree to a \ndifferent apportionment. The ENE session will continue only if all \nparties and the neutral evaluator agree. After eight hours in one or more \nENE sessions, if all the parties agree that further assistance of the \nneutral evaluator is desired, the neutral evaluator may charge his or her \nstandard hourly billing rate or such other rate that is acceptable to the \nneutral evaluator and all parties.\nCommittee Comment: Civil L. R. 16(a) has been updated to expand the list of \ntopics the parties must be expected to discuss at the Rule 16 conference. Counsel for \nthe parties are expected to have good faith and meaningful discussions of all of the \nenumerated topics in advance of the Rule 16 conference.\nNothing in Civil L. R. 16(d)(3) prohibits parties from entering into written \nagreements resolving some or all of the case or entering into and filing procedural or \nfactual stipulations based on suggestions or agreements made in connection with these \nADR processes. Any written agreements or stipulations filed with the Court are public \nrecords, unless otherwise sealed pursuant to General L. R. 79(d)(4). \nCivil L. R. 16(d) has been expanded to include an additional form of alternative \ndispute resolution (ADR)—Early Neutral Evaluation (ENE)—that each judge is to \nconsider at the ADR evaluation conference held during the early stages of the case. As \nwith other forms of ADR, the judge may encourage and even order the parties to \nparticipate in ENE. Unlike some other forms of ADR, which typically take place after \nsubstantial discovery has been completed, ENE is intended to occur early in the \nlitigation, before the parties have invested substantial time and resources in the case \nand before substantial attorney fees have been incurred. ENE is intended to be \ninexpensive and is not a substitute for other forms of ADR. It may be used in addition \nto other forms of ADR that typically occur later in the case.",
+          "pages": [
+            38
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-40",
+          "path": [],
+          "type": "paragraph",
+          "text": "34\nUnder Fed. R. Civ. P. 16(b)(3)(B)(v) effective December 1, 2015, absent contrary \nCongressional action, practitioners are encouraged to seek a pre-motion conference\nwith the court.\nIV. PARTIES [Reserved]\nV. DISCLOSURES AND DISCOVERY\n",
+          "pages": [
+            39
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wied-civil-parsed-v1-51726fd2dac1b42f",
+      "sourceDocumentId": "parsed-wied-51726fd2dac1b42f",
+      "sourceUrl": "https://www.wied.uscourts.gov/sites/wied/files/documents/Local%20Rules%202010-0201-Amended%202026-0729.pdf",
+      "pageIndex": 34,
+      "pageSpan": [
+        34,
+        39
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wied-civil:26",
+      "collectionId": "wied-civil",
+      "districtId": "wied",
+      "number": "26",
+      "citation": "Eastern District of Wisconsin · Rule 26",
+      "title": "Duty to Disclose; General Provisions Governing Discovery.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-40",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L. R. 26. Duty to Disclose; General Provisions Governing Discovery.\n(a) Conference of the Parties; Planning for Discovery. The parties’ \ndiscovery plan must indicate whether they anticipate any party will be required to \ndisclose or be requested to produce electronically stored information. If so the parties \nmust consider:\n(1) the reasonable accessibility of electronically stored information and \nthe burdens and expense of discovery of electronically stored information;\n(2) the format and media for the production of electronically stored \ninformation;\n(3) measures taken to preserve potentially discoverable electronically \nstored information from alteration or destruction; \n(4) procedures for asserting post-production claims of privilege or of \nprotection as trial-preparation material; and\n(5) other issues in connection with the discovery of electronically stored \ninformation.\n(b) Disclosure of Expert Testimony. \n(1) Unless otherwise stipulated or ordered by the Court, each party must \ndisclose to every other party the substance of all evidence under Fed. R. Evid. \n702, 703 or 705 that the party may use at trial, including the evidence of \nwitnesses who have not been retained or specially employed to provide \ntestimony, subject to the following:\n(A) Each party must provide the written report required under \nFed. R. Civ. P. 26(a)(2)(B) for a witness who has been retained or \nspecially employed to provide expert testimony or one whose duties as \nthe party’s employee regularly involve giving expert testimony. \n(B) A person, including a treating physician, who has not been \nretained or specially employed to provide expert testimony, or whose ",
+          "pages": [
+            39
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-41",
+          "path": [],
+          "type": "paragraph",
+          "text": "35\nduties as the party’s employee do not regularly involve giving expert \ntestimony, may be used to present evidence under Fed. R. Evid. 702, 703 \nor 704 only if the party offering the evidence discloses to every other \nparty the information identified in Fed. R. Civ. P. 26(a)(2)(C).\n(2) Absent a stipulation or a Court order, disclosures required under this \nrule must be made in accordance with Fed. R. Civ. P. 26(a)(2)(C).\n(c) Completion of Discovery. Unless the Court orders otherwise, all \ndiscovery must be completed 30 days before the date on which trial is scheduled. \nCompletion of discovery means that discovery (including depositions to preserve \ntestimony for trial) must be scheduled to allow depositions to be completed, \ninterrogatories and requests for admissions to be answered, and documents to be \nproduced before the deadline and in accordance with the provisions of the Federal \nRules of Civil Procedure. For good cause, the Court may extend the time during which \ndiscovery may occur or may reopen discovery.\n(d) Standard Definitions Applicable to All Discovery.\n(1) The full text of the definitions set forth in subparagraph (2) is \ndeemed incorporated by reference in all discovery, and may not be varied by \nlitigants, but does not preclude (i) the definition of other terms specific to the \nparticular litigation, (ii) the use of abbreviations, or (iii) a more narrow \ndefinition of a term defined in paragraph (2).\n(2) Definitions. The following definitions apply to all discovery:\n(A) Communication. The term “communication” means the \ntransmittal of information (in the form of facts, ideas, inquiries, or \notherwise).\n(B) Document. The term “document” is defined to be \nsynonymous in meaning and equal in scope of the usage of this term in \nFed. R. Civ. P. 34(a). A draft or non-identical copy is a separate \ndocument within the meaning of this term.\n(C) To Identify.\n(i) With Respect to Persons. When referring to a person, \n“to identify” means to give, to the extent known, the person’s full \nname, present or last known address, and when referring to a \nnatural person, additionally, the present or last known place of \nemployment. Once a person has been identified in accordance \nwith this subparagraph, only the name of that person need be ",
+          "pages": [
+            40
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-42",
+          "path": [],
+          "type": "paragraph",
+          "text": "36\nlisted in response to subsequent discovery requesting the \nidentification of that person.\n(ii) With Respect to Documents. When referring to \ndocuments, “to identify” means to give, to the extent known, the \n(i) type of document; (ii) general subject matter; (iii) date of the \ndocument; and (iv) author(s), addressee(s), and recipient(s).\n(D) Person. The term “person” is defined as any natural person \nor any business, legal, or governmental entity, or association.\n(e) Confidentiality of Discovery Materials.\n(1) All motions and stipulations requesting a protective order must\ncontain sufficient facts demonstrating good cause. Upon a showing of good\ncause, the Court may enter a protective order regarding confidentiality of all\ndocuments produced in the course of discovery, all answers to interrogatories,\nall answers to requests for admission, and all deposition testimony. A protective\norder template is attached as an Appendix to these Local Rules.\n(2) A party may challenge the designation of confidentiality by motion. \nThe movant must accompany such a motion with the statement required by \nCivil L. R. 37. The party prevailing on any such motion is entitled to recover \nas motion costs its actual attorney fees and costs attributable to the motion.\n(3) At the conclusion of the litigation, all material not received in \nevidence and treated as confidential under this Rule must be returned to the \noriginating party. If the parties so stipulated, the material may be destroyed.\n(f) Filing Papers Under Seal. A party seeking to file a paper under seal \nmust follow the procedure set forth in General L. R. 79(d). This includes the filing of \ninformation covered by a protective order.\nCommittee Comment: The provisions of Civil L. R. 26 do not apply to actions\nfor review on an administrative record.\nThe Committee members disagreed on the question of whether Civil L. R. \n26(b)(1)(A) should require a written report from a treating physician who regularly \ngives expert testimony for the physician’s employer in other contexts. \nThe disclosure obligations relating to witnesses who may be used to present\nevidence under Fed. R. Evid. 702, 703 or 704, but have not been retained or specially \nemployed to provide expert testimony, or whose duties as the party’s employee do not \nregularly involve giving expert testimony, should be discussed at the Rule 16 \nconference.",
+          "pages": [
+            41
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-43",
+          "path": [],
+          "type": "paragraph",
+          "text": "37\nPractitioners shouldreviewBanister v.Burton,636 F.3d 828 (7th Cir. 2011) and \nrelated cases regarding treating physicians.\nThe designation of a paper as confidential under the terms of a protective order \nis not sufficient to establish the basis for filing that document under seal. The party \nseeking to withhold the document from the public record must file a motion to seal in \naccordance with General L. R. 79(d).\n",
+          "pages": [
+            42
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wied-civil-parsed-v1-51726fd2dac1b42f",
+      "sourceDocumentId": "parsed-wied-51726fd2dac1b42f",
+      "sourceUrl": "https://www.wied.uscourts.gov/sites/wied/files/documents/Local%20Rules%202010-0201-Amended%202026-0729.pdf",
+      "pageIndex": 39,
+      "pageSpan": [
+        39,
+        42
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wied-civil:33",
+      "collectionId": "wied-civil",
+      "districtId": "wied",
+      "number": "33",
+      "citation": "Eastern District of Wisconsin · Rule 33",
+      "title": "Interrogatories.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-43",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L. R. 33. Interrogatories.\n(a) Limitation on Interrogatories. \n(1) Any party may serve upon any other party no more than 25 written \ninterrogatories. The 25 permissible interrogatories may not be expanded by \nthe creative use of subparts. \n(2) For the purpose of computing the number of interrogatories served\ninterrogatories inquiring about the names and locations of persons having \nknowledge of discoverable information or about the existence, location, or \ncustodian of documents or physical evidence do not count toward the 25 \ninterrogatory limit.\n(3) More than 25 interrogatories may be served on a party only if that \nparty agrees in writing or the Court so orders. A party seeking to serve more \nthan 25 interrogatories may move the Court for permission only after seeking \nthe agreement of the party on whom the additional interrogatories would be \nserved. If a party desires to serve additional interrogatories, the party must \npromptly consult with the party to whom the additional interrogatories would \nbe propounded and attempt to reach a written stipulation as to a reasonable \nnumber of additional interrogatories. The stipulation allowing additional \ninterrogatories to be served should not be filed with the Court except in \nconnection with a motion to compel answers. If a stipulation cannot be reached, \nthe party seeking to serve additional interrogatories may move the Court for \npermission to serve additional interrogatories. \n(4) The Court will not compel a party to answer any interrogatories \nserved in violation of this rule\n(b) Answering Interrogatories. An objection or an answer to an \ninterrogatory must reproduce the interrogatory to which it refers.\n",
+          "pages": [
+            42
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wied-civil-parsed-v1-51726fd2dac1b42f",
+      "sourceDocumentId": "parsed-wied-51726fd2dac1b42f",
+      "sourceUrl": "https://www.wied.uscourts.gov/sites/wied/files/documents/Local%20Rules%202010-0201-Amended%202026-0729.pdf",
+      "pageIndex": 42,
+      "pageSpan": [
+        42,
+        42
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wied-civil:34",
+      "collectionId": "wied-civil",
+      "districtId": "wied",
+      "number": "34",
+      "citation": "Eastern District of Wisconsin · Rule 34",
+      "title": "Producing Documents.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-43",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L. R. 34. Producing Documents.\nA response or an objection to a request for production of documents must \nreproduce the request to which it refers.",
+          "pages": [
+            42
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-44",
+          "path": [],
+          "type": "paragraph",
+          "text": "38\n",
+          "pages": [
+            43
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wied-civil-parsed-v1-51726fd2dac1b42f",
+      "sourceDocumentId": "parsed-wied-51726fd2dac1b42f",
+      "sourceUrl": "https://www.wied.uscourts.gov/sites/wied/files/documents/Local%20Rules%202010-0201-Amended%202026-0729.pdf",
+      "pageIndex": 42,
+      "pageSpan": [
+        42,
+        43
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wied-civil:36",
+      "collectionId": "wied-civil",
+      "districtId": "wied",
+      "number": "36",
+      "citation": "Eastern District of Wisconsin · Rule 36",
+      "title": "Requests for Admission.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-44",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L. R. 36. Requests for Admission.\n(a) Limitation on Requests for Admission.\n(1) Any party may serve upon any other party no more than 50 written \nrequests for admission. The 50 permissible requests for admission may not be \nexpanded by the creative use of subparts.\n(2) For the purpose of computing the number of requests for admission \nserved, requests for admission relating to the genuineness of any described \ndocuments do not count toward the 50 request for admission limit. \n(3) More than 50 requests for admission may be served on a party only \nif that party agrees in writing or the Court so orders. A party seeking to serve \nmore than 50 requests for admission may move the Court for permission only \nafter seeking the agreement of the party on whom the additional requests for \nadmission would be served. If a party desires to serve additional requests for \nadmission, the party must promptly consult with the party to whom the \nadditional requests for admission would be propounded and attempt to reach \nwritten stipulation as to a reasonable number of additional requests for \nadmission. The stipulation allowing additional requests for admission to be \nserved should not be filed with the Court except in connection with a motion to \ncompel answers. If a stipulation cannot be reached, the party seeking to serve \nadditional requests for admission may move the Court for permission to serve \nadditional requests for admission.\n(4) The Court will not compel a party to answer any requests for \nadmission served in violation of this rule.\n(b) Answering Requests for Admission. A response or an objection to a \nrequest for admission must reproduce the request to which it refers.\n",
+          "pages": [
+            43
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wied-civil-parsed-v1-51726fd2dac1b42f",
+      "sourceDocumentId": "parsed-wied-51726fd2dac1b42f",
+      "sourceUrl": "https://www.wied.uscourts.gov/sites/wied/files/documents/Local%20Rules%202010-0201-Amended%202026-0729.pdf",
+      "pageIndex": 43,
+      "pageSpan": [
+        43,
+        43
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wied-civil:37",
+      "collectionId": "wied-civil",
+      "districtId": "wied",
+      "number": "37",
+      "citation": "Eastern District of Wisconsin · Rule 37",
+      "title": "Discovery Motions.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-44",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L. R. 37. Discovery Motions.\nAll motions to compel disclosure or discovery pursuant to Fed. R. Civ. P. 26 \nthrough 37 must be accompanied by a written certification by the movant that, after \nthe movant in good faith has conferred or attempted to confer with the person or party \nfailing to make disclosure or discovery in an effort to obtain it without court action, \nthe parties are unable to reach an accord. The statement must recite the date and \ntime of the conference or conferences and the names of all parties participating in the \nconference or conferences.\nCommittee Comment: Under Fed. R. Civ. P. 16(b)(3)(B)(v) effective December \n1, 2015, absent contrary Congressional action, practitioners are encouraged to seek a \npre-motion conference with the Court.",
+          "pages": [
+            43
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-45",
+          "path": [],
+          "type": "paragraph",
+          "text": "39\nVI. TRIALS\n",
+          "pages": [
+            44
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wied-civil-parsed-v1-51726fd2dac1b42f",
+      "sourceDocumentId": "parsed-wied-51726fd2dac1b42f",
+      "sourceUrl": "https://www.wied.uscourts.gov/sites/wied/files/documents/Local%20Rules%202010-0201-Amended%202026-0729.pdf",
+      "pageIndex": 43,
+      "pageSpan": [
+        43,
+        44
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wied-civil:41",
+      "collectionId": "wied-civil",
+      "districtId": "wied",
+      "number": "41",
+      "citation": "Eastern District of Wisconsin · Rule 41",
+      "title": "Dismissal of Actions.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-45",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L. R. 41. Dismissal of Actions.\n(a) Dismissal Where No Service of Process. Where the plaintiff has not \neffected service of process within the time required by Fed. R. Civ. P. 4(m), and the \ndefendant has not waived service under Rule 4(d), after 21 days’ notice to the attorney \nof record for the plaintiff, or the plaintiff if pro se, the Court may enter an order \ndismissing the action without prejudice.\n(b) Dismissal Where No Answer or Other Pleading Filed. In all cases in \nwhich a defendant has failed to file an answer or otherwise defend within 6 months \nfrom the filing of the complaint and the plaintiff has not moved for a default \njudgment, the Court may on its own motion, after 21 days’ notice to the attorney of \nrecord for the plaintiff, or to the plaintiff if pro se, enter an order dismissing the action \nfor lack of prosecution. Such dismissal must be without prejudice.\n(c) Dismissal for Lack of Diligence. Whenever it appears to the Court that \nthe plaintiff is not diligently prosecuting the action and Civil L. R. 41(a) or (b) does \nnot apply, the Court may enter an order of dismissal with or without prejudice. \n(d) Dismissal of Frivolous Action or Pleading. Whenever it appears to the \nCourt that the plaintiff’s complaint, the defendant’s answer (including \ncounterclaims), or any other pleading filed by a party is frivolous, without merit, or \ninterposed primarily for any improper purpose, the Court may dismiss or strike the \npleading, or any portion of the pleading, without prejudice after 21 days’ written \nnotice to the parties.\n(e) Improper Refiling of Actions. No party or attorney may dismiss and \nrefile an action for the purpose of obtaining a different judge.\nCommittee Comment: Civil L. R. 41 includes former Civil L. R. 41.1 - 41.4. \nThose provisions have been restyled. Civil L. R. 41(a), former Civil L. R. 41.1, now \nexplicitly incorporates the good cause standard of Fed. R. Civ. P. 4(m).\nCivil L. R. 41(e) is new. It prohibits the filing of an action, followed by the \ndismissal and the refiling of that action in the same district for the purpose of \nobtaining a different judge. The practice has been reported in at least one district in \nthis circuit. The rule does not prohibit the dismissal and the refiling of an action for \nother reasons.\n",
+          "pages": [
+            44
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wied-civil-parsed-v1-51726fd2dac1b42f",
+      "sourceDocumentId": "parsed-wied-51726fd2dac1b42f",
+      "sourceUrl": "https://www.wied.uscourts.gov/sites/wied/files/documents/Local%20Rules%202010-0201-Amended%202026-0729.pdf",
+      "pageIndex": 44,
+      "pageSpan": [
+        44,
+        44
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wied-civil:42",
+      "collectionId": "wied-civil",
+      "districtId": "wied",
+      "number": "42",
+      "citation": "Eastern District of Wisconsin · Rule 42",
+      "title": "Consolidation.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-45",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L. R. 42. Consolidation. \n(a) When a party moves to consolidate two or more cases, whether for a limited \npurpose or for all future proceedings, the motion to consolidate and supporting ",
+          "pages": [
+            44
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-46",
+          "path": [],
+          "type": "paragraph",
+          "text": "40\nmaterials must be captioned with the case names and numbers of all cases sought to \nbe consolidated. Service and filing must be effected in all of the cases sought to be \nconsolidated. The motion must be decided by the judge to whom the lowest numbered \ncase is assigned. If the motion is granted, the judge to whom the lowest numbered \ncase is assigned will handle all future proceedings covered by the consolidation order.\n(b) After two or more cases are consolidated, all papers relevant to the \npurposes for which consolidation was granted will be filed and docketed only in the \nlowest numbered of the consolidated cases. A notation to check the docket sheet for \nthe lowest numbered case will be entered on the docket sheet(s) for the higher \nnumbered case(s).\n(c) If cases are consolidated for some but not all purposes, documents relating \nto a particular case will be docketed on the docket sheet for that case and be filed only \nin that case file.\nVII. JUDGMENT\n",
+          "pages": [
+            45
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wied-civil-parsed-v1-51726fd2dac1b42f",
+      "sourceDocumentId": "parsed-wied-51726fd2dac1b42f",
+      "sourceUrl": "https://www.wied.uscourts.gov/sites/wied/files/documents/Local%20Rules%202010-0201-Amended%202026-0729.pdf",
+      "pageIndex": 44,
+      "pageSpan": [
+        44,
+        45
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wied-civil:54",
+      "collectionId": "wied-civil",
+      "districtId": "wied",
+      "number": "54",
+      "citation": "Eastern District of Wisconsin · Rule 54",
+      "title": "Costs.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-46",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L. R. 54. Costs.\n(a) Bill of Costs. \n(1) Unless otherwise provided by this Rule, no later than 14 days after \nthe entry of the judgment, the party in whose favor a judgment for costs is \nawarded or allowed by law and who claims the party’s costs must file the \nparty’s bill of costs and serve the bill of costs on all opposing parties. The Clerk \nof Court’s office has forms available for this process or the party may use the \nparty’s own forms. If a timely Fed. R. Civ. P. 59 motion for a new trial or \namendment of the judgment has been filed, the time for filing and serving the \nbill of costs commences upon the entry of the order resolving the motion. \n(2) When an appeal is taken, the parties may file a stipulation to delay \nthe filing of the bill of costs until after the appeal is decided. Absent a filed \nstipulation or Court order, the appeal will not delay the taxing of costs.\n(3) Unless otherwise determined by the Clerk of Court, the non-claiming \nparty must serve any objections, accompanied by a short memorandum, within \n14 days of the service of the bill of costs. The party claiming costs must serve \nany response within 7 days of service of the objections. The non-claiming party \nmust serve any reply within 7 days of the service of the response. Costs will be \ntaxed by the Clerk of Court on the basis of the written memoranda.\n(b) Items Taxable as Costs. The following is the practice of the Court \nconcerning items of costs not otherwise allowed or prohibited by statute:",
+          "pages": [
+            45
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-47",
+          "path": [],
+          "type": "paragraph",
+          "text": "41\n(1) Fees of the Court Reporter for All of or Any Part of the \nTranscript Necessarily Obtained for Use in the Case. The costs of the \noriginal transcript, if paid by the taxing party, and the cost of the taxing party's \ncopy are taxable. The costs of a transcript of other court proceedings are \ntaxable if the transcript was necessary for appeal, requested by the Court, or\nprepared pursuant to stipulation of the parties and necessarily obtained for \nuse in the case. In the case of a daily transcript, the parties must follow Civil \nL. R. 54(b)(5). \n(2) Deposition Costs. The court reporter's charge for the original of a \ndeposition, if paid by the taxing party, and the taxing party's copy are taxable \nif the deposition was reasonably necessary for use in the case, whether or not\nit was used at trial. Reasonable expenses of the reporter, the presiding notary \nor other official are taxable. Counsel's fees and expenses in attending and \ntaking the deposition are not taxable. Per diem attendance fees for a witness \nat a deposition are taxable as per 28 U.S.C. § 1821. If a translator is needed to \ntake the deposition, a reasonable translator fee is taxable.\n(3) Witness Fees, Mileage, and Subsistence. The rate for witness \nfees, mileage, and subsistence are fixed by statute. (See 28 U.S.C. § 1821 and \nCivil L. R. 54(b)(5).) Such fees are taxable whether or not the witness attends \nvoluntarily or is under subpoena and whether or not the witness testified at \nthe trial, provided the witness was available and ready to testify and received \na witness fee. No party shall receive witness fees for testifying in his or her \nown behalf. Fees for expert witnesses are not taxable in a greater amount than \nthat statutorily allowable in the case of ordinary witnesses, except in \nexceptional circumstances by order of the Court.\n(4) Copying Costs. Taxable costs include the cost of copying papers \n(including, but not limited to, maps, charts, photographs, summaries, \ncomputations, and statistical comparisons) that are reasonably necessary for \nuse in the case (see 28 U.S.C. § 1920(4)).\n(5) Other Costs. The Clerk of Courts will not tax the cost of \ndemonstrative evidence created for use in the case, daily transcripts, witness \nfees for mileage for trial witnesses coming from outside of the District in excess \nof 100 miles from the place of trial, and expert witness fees in excess of the \nstatutory allowance, unless the party requesting taxation obtained Court \napproval before the costs were incurred, and in the case of demonstrative \nevidence, before the evidence was used at trial.\n(c) Review of Costs. A party may move for review of the Clerk of Court's \ndecision taxing costs pursuant to Fed. R. Civ. P. 54(d) within 7 days from taxation. \nThe motion, supporting papers, and scheduling must conform to Civil L. R. 7.",
+          "pages": [
+            46
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-48",
+          "path": [],
+          "type": "paragraph",
+          "text": "42\nCommittee Comment: The rules governing bills of costs are liberally construed \nto allow permitted costs. Civil L. R. 54 does not list every allowable cost and should be \ninterpreted to accommodate ever-changing technology.\n",
+          "pages": [
+            47
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wied-civil-parsed-v1-51726fd2dac1b42f",
+      "sourceDocumentId": "parsed-wied-51726fd2dac1b42f",
+      "sourceUrl": "https://www.wied.uscourts.gov/sites/wied/files/documents/Local%20Rules%202010-0201-Amended%202026-0729.pdf",
+      "pageIndex": 45,
+      "pageSpan": [
+        45,
+        47
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wied-civil:56",
+      "collectionId": "wied-civil",
+      "districtId": "wied",
+      "number": "56",
+      "citation": "Eastern District of Wisconsin · Rule 56",
+      "title": "Summary Judgment.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-48",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L. R. 56. Summary Judgment.\n(a) Pro Se Litigation. If a party is proceeding pro se in civil litigation and the \nopposing party files a motion for summary judgment, counsel for the movant must \ncomply with the following procedure:\n(1) The motion must include a short and plain statement that any \nfactual assertion in the movant’s affidavit, declaration, or other admissible \ndocumentary evidence will be accepted by the Court as being true unless the \nparty unrepresented by counsel submits the party’s own affidavit, declaration, \nor other admissible documentary evidence contradicting the factual assertion.\n(2) In addition to the statement required by Civil L. R. 56(a)(1), the text \nto Fed. R. Civ. P. 56 (c),(d), and (e), Civil L. R. 56(a), Civil L. R. 56(b), and Civil \nL. R. 7 must be part of the motion.\n(b) Additional Summary Judgment Procedures. Motions for summary \njudgment must comply with Fed. R. Civ. P. 56 and Civil L. R. 7. In addition, with the \nexception of Social Security reviews, other actions for review of administrative agency \ndecisions, and other actions in which a judge relieves the parties of this Rule’s \nrequirements, the following must be met:\n(1) Moving Party’s Principal Materials in Support of Motion. \nWith each motion for summary judgment, the moving party must file:\n(A) a memorandum of law; \n(B) a statement setting forth any material facts to which all \nparties have stipulated;\n(C) a statement of proposed material facts as to which the moving \nparty contends there is no genuine issue and that entitle the moving \nparty to a judgment as a matter of law; \n(i) the statement shall consist of short numbered \nparagraphs, each containing a single material fact, including \nwithin each paragraph specific references to the affidavits, \ndeclarations, parts of the record, and other supporting materials \nrelied upon to support the fact described in that paragraph; ",
+          "pages": [
+            47
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-49",
+          "path": [],
+          "type": "paragraph",
+          "text": "43\n(ii) a moving party may not file more than 150 separately \nnumbered statements of fact;\n(iii) failure to submit such a statement constitutes grounds \nfor denial of the motion; and \n(D) any affidavits, declarations, and other materials referred to \nin Fed. R. Civ. P. 56(c).\n(2) Opposing Party’s Materials in Opposition. Each party opposing \na motion for summary judgment must file within 30 days of service of the \nmotion and the materials required by subsection (b)(1), above:\n(A) a memorandum of law;\n(B) a concise response to the moving party’s statement of facts \nthat must contain:\n(i) a reproduction of each numbered paragraph in the \nmoving party’s statement of facts followed by a response to each \nparagraph, including, in the case of any disagreement, specific \nreferences to the affidavits, declarations, parts of the record, and \nother supporting materials relied upon, and\n(ii) a statement, consisting of short numbered paragraphs, \nof any additional facts that require the denial of summary \njudgment, including references to the affidavits, declarations, \nparts of the record, and other supporting materials relied upon to \nsupport the facts described in that paragraph. A non-moving \nparty may not file more than 100 separately-numbered \nstatements of additional facts. Each separately-numbered\nparagraph shall be limited to one material fact; and\n(C) any opposing affidavits, declarations, and other materials \nreferred to in Fed. R. Civ. P. 56(c). \n(3) Moving Party’s Materials in Reply. A moving party may file \nwithin 14 days of the service of the opposing party’s materials under subsection \n(b)(2), above:\n(A) a reply memorandum;\n(B) a reply to any additional facts submitted by the opposing \nparty pursuant to subsection (b)(2) above, in the form prescribed in \nsection (b)(2)(B)(i) above; and",
+          "pages": [
+            48
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-50",
+          "path": [],
+          "type": "paragraph",
+          "text": "44\n(C) any affidavits, declarations, and other materials referred to \nin Fed. R. Civ. P. 56(c) submitted in reply.\n(4) Effect of Uncontroverted Statements of Fact. The Court will \ndeem uncontroverted statements of material fact admitted solely for the \npurpose of deciding summary judgment.\n(5) Stipulated Facts. Parties are encouraged to stipulate to facts. Facts \nso stipulated will not count against any party’s allotment of proposed facts and \ndo not require references to evidentiary support.\n(6) Citations to Facts in Memoranda. Assertions of fact in the \nparties’ supporting memoranda must refer to the corresponding numbered \nparagraph of the statement of facts, statement of additional facts, or statement \nof stipulated facts.\n(7) Prior Leave of Court Required to Increase the Number of \nStatements of Fact or Statements of Additional Fact. A party may not \nfile any proposed statements of material fact or statements of additional fact \nin excess of the limit set forth in this rule unless the Court previously has \ngranted leave upon a showing that an increase is warranted.\n(8) Length of Memoranda.\n(A) A principal memorandum in support of, or opposition to, \nsummary judgment must not exceed 30 pages and a reply memorandum \nmust not exceed 15 pages (excluding any caption, cover page, table of \ncontents, table of authorities, and signature block). \n(B) No memorandum exceeding the page limitations may be filed \nunless the Court previously has granted leave to file an oversized \nmemorandum.\n(9) Sanction for Noncompliance. Failure to comply with the \nrequirements in this rule may result in sanctions up to and including the Court \ndenying or granting the motion. Sanctions remain available under General L. \nR. 83(f).\n(10) Collateral Motions. Collateral motions, such as motions to strike, \nare disfavored. \nCommittee Comment: New Civil L. R. 56 replaces former Civil L. R. 56.1 and \n56.2. The additional summary judgment procedures have been modified to limit the \nnumber of proposed statements of material fact. Moving parties are limited to 150 \nseparately numbered proposed statements of material fact, and non-moving parties ",
+          "pages": [
+            49
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-51",
+          "path": [],
+          "type": "paragraph",
+          "text": "45\nare limited to 100 separately numbered proposed statements of additional material \nfacts. Stipulated statements of facts are not counted against any party’s allotment and \ndo not require evidentiary support. The rule expressly provides that the Court may \nincrease the allowed number of proposed material facts upon a showing that an \nincrease is warranted. \nCivil L. R. 56(b)(2)(B) anticipates that the parties will respond to each statement \nof proposed material fact by either: (i) admitting the fact; (ii) denying the fact; or (iii) \nstating an objection. The preferred practice is to include arguments in support of \nobjections in the memoranda of law and not in the responses to the proposed \nstatements of material fact. The response should not simply incorporate a response to \nan earlier numbered paragraph.\nCivil L. R. 56(b)(10) clarifies that collateral motions in the summary judgment \nprocess, including motions to strike, are disfavored. Whenever possible all arguments \nrelating to the other party’s submissions should be contained in memoranda. \nCivil L. R. 56, like Civil L. R. 7, also makes clear that declarations made in \ncompliance with 28 U.S.C. § 1746 may be used in the summary judgment process to \nthe same effect as affidavits. \n",
+          "pages": [
+            50
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wied-civil-parsed-v1-51726fd2dac1b42f",
+      "sourceDocumentId": "parsed-wied-51726fd2dac1b42f",
+      "sourceUrl": "https://www.wied.uscourts.gov/sites/wied/files/documents/Local%20Rules%202010-0201-Amended%202026-0729.pdf",
+      "pageIndex": 47,
+      "pageSpan": [
+        47,
+        50
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wied-civil:62",
+      "collectionId": "wied-civil",
+      "districtId": "wied",
+      "number": "62",
+      "citation": "Eastern District of Wisconsin · Rule 62",
+      "title": "Supersedeas Bonds. (deleted September 3, 2019)",
+      "status": "abrogated",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-51",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L. R. 62. Supersedeas Bonds. (deleted September 3, 2019)\nVIII. PROVISIONAL AND FINAL REMEDIES\n",
+          "pages": [
+            50
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wied-civil-parsed-v1-51726fd2dac1b42f",
+      "sourceDocumentId": "parsed-wied-51726fd2dac1b42f",
+      "sourceUrl": "https://www.wied.uscourts.gov/sites/wied/files/documents/Local%20Rules%202010-0201-Amended%202026-0729.pdf",
+      "pageIndex": 50,
+      "pageSpan": [
+        50,
+        50
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wied-civil:67",
+      "collectionId": "wied-civil",
+      "districtId": "wied",
+      "number": "67",
+      "citation": "Eastern District of Wisconsin · Rule 67",
+      "title": "Security; Deposit Into Court; Withdrawal of Monies; Registry",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-51",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L. R. 67. Security; Deposit Into Court; Withdrawal of Monies; Registry \nFee.\n(a) Required Security. In addition to any security required by law, the \nCourt, at any time upon good cause shown, may order that security for costs be given \nby any party.\n(b) Forms of Security. Security for costs must consist of a cash deposit or a \nbond, with surety, in the sum of $250.00 unless otherwise ordered. The security must \nbe conditioned to secure the payment of costs that the posting party may ultimately \nbe ordered to pay to a party. A corporation authorized by the Secretary of the \nTreasury of the United States must be accepted as surety on bonds. A party may raise \nobjections to the form, amount, or sufficiency of security for costs.\n(c) Deposit of Monies. Unless the Court designates a trustee other than the \nClerk of Court or orders other procedures, the following procedure for the deposit of \nmonies applies:\n(1) Upon motion or stipulation and an order of the Court, all monies paid \ninto the Court must be deposited in the United States Treasury. However, the ",
+          "pages": [
+            50
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-52",
+          "path": [],
+          "type": "paragraph",
+          "text": "46\nCourt may direct the Clerk of Court to place the monies in an interest-bearing \naccount in the Court Registry Investment System (“CRIS”). Funds deposited\nwith CRIS are considered to be on deposit in the United States Treasury and\nthus are not subjectto collateralization and insurance requirements applicable\nto funds on deposit with local financial institutions.\n(2) The monies must be invested in the name of the Clerk of Court \n“under order of the United States District Court for the Eastern District of \nWisconsin, Case No. ______.” \n(3) The Clerk of Court must file a certified copy of the Court order for \nthe deposit of the monies with the institution where the monies are invested.\n(d) Withdrawal of Monies. The Clerk of Court may only withdraw deposited \nmonies when directed by a court order. \n(e) Registry Fee. The CRIS Administrator will deduct a registry fee from \nincome earned on registry monies invested in CRIS. The fee will not exceed that \nauthorized by the Judicial Conference of the United States and set by the Director of \nthe Administrative Office in accordance with the schedule published periodically by \nthe Director in the Federal Register. The fee is withdrawn whenever income earned \nbecomes available and is be deposited in the United States Treasury, without further \norder of the Court. This assessment applies to all investments of registry monies. \nCommittee Comment: Civil L. R. 67 includes former Civil L. R. 67.1-67.4. The \nrule has been substantially re-written and unnecessary provisions have been deleted. \nTwo sentences were deleted from former Civil L. R. 67.2 because the Clerk of \nCourt’s Office informed the Committee that the provision authorizing persons to serve \nas surety in civil actions has not been used. The deleted sentences are: “An individual \nresident of the District who owns real or personal property within the District, the \nunencumbered value of which is equal to the amount of the bond, may be accepted by \nthe Court as surety upon a bond. No member of the bar or officer of this Court must be \naccepted as surety upon any bond or similar undertaking.” Former Civil L. R. 67.2 is \nnow designated as Civil L. R. 67(b). \nCivil L. R. 67(c) has been redrafted to replace former Civil L. R. 67.3(a) with a \nprovision that establishes the procedure of former Civil L. R. 67.3(b) as the default \nprocedure. The change was made because the Clerk of Court’s Office informed the \nCommittee that the alternative trustee provision has not been used. However, the \nintroductory clause of Civil L. R. 67(c) continues to provide for designation of an \nalternative trustee or alternative procedures, in the event that option would become \nnecessary or more appropriate in a particular circumstance. ",
+          "pages": [
+            51
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-53",
+          "path": [],
+          "type": "paragraph",
+          "text": "47\nCivil L. R. 67(c) deletes the references to the Federal Savings and Loan \nInsurance Corporation Act, repealed on August 9, 1989, and to Federal Savings and \nLoan Associations. \nThe provision of former Civil L. R. 67.3(a)(3) for the deposit of monies in \ncertificates of deposit has been deleted. To avoid penalties for early withdrawals, the \nClerk of Court does not invest monies in certificates of deposit. \nCivil L. R. 67(e) is new. It has been added based on consideration of 11 GUIDE \nTO JUDICIARY POLICIES AND PROCEDURES, Chap. VII: Financial Management, 2.7.6 \n(Administrative Office of Courts Dec. 1999), encouraging courts to adopt local rules \nauthorizing the Clerk of Court to assess the registry fee and deduct it from the “income \nearnings” without the need for a subsequent court direction in each individual case, \nbecause of the statutory requirement that no money may be withdrawn from the \nregistry without a Court order). The language of Civil L. R. 67(e) is based on the \nsample local rule in Exhibit I-5 in the GUIDE.\nIn 2013, the Clerk’s Office for the Eastern District of Wisconsin enrolled in the\nCourt Registry Investment System “CRIS,” administered by the Administrative\nOffice of the United States Courts. The changes to Civil L. R. 67 are made to effectuate \nparticipation in the CRIS program. Under this program, the Clerk’s Office will\ndeposit registry funds into the United States Treasury in accordance with 13 GUIDE\nTO JUDICIARY POLICY Chap. 3: Receipting & Collections (Administrative Office of the \nCourts Dec. 2014)..\nIX. SPECIAL PROCEEDINGS [Reserved]\nX. DISTRICT COURTS AND CLERKS:\nCONDUCTING BUSINESS; ISSUING ORDERS\n",
+          "pages": [
+            52
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wied-civil-parsed-v1-51726fd2dac1b42f",
+      "sourceDocumentId": "parsed-wied-51726fd2dac1b42f",
+      "sourceUrl": "https://www.wied.uscourts.gov/sites/wied/files/documents/Local%20Rules%202010-0201-Amended%202026-0729.pdf",
+      "pageIndex": 50,
+      "pageSpan": [
+        50,
+        52
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wied-civil:77",
+      "collectionId": "wied-civil",
+      "districtId": "wied",
+      "number": "77",
+      "citation": "Eastern District of Wisconsin · Rule 77",
+      "title": "Clerk’s Authority.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-53",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L. R. 77. Clerk’s Authority. \nPursuant to the provisions of Fed. R. Civ. P. 77(c)(2), the Clerk of Court or \ndeputy clerk may enter the following orders and judgments without further direction \nby the Court, but the Clerk of Court’s action may be suspended, altered or rescinded \nby the Court for cause shown:\n(a) Consent orders for the substitution of attorneys;\n(b) Except as otherwise provided by law, all bonds, undertakings and \nstipulations of corporate sureties holding certificates of authority from the Secretary \nof the Treasury, whether the amount of such bonds or undertakings has been fixed \nby a judge or by a Court rule or statute;",
+          "pages": [
+            52
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-54",
+          "path": [],
+          "type": "paragraph",
+          "text": "48\n(c) Consent orders dismissing an action, except in cases to which Fed. R. Civ. \nP. 23(e) and Fed. R. Civ. P. 66 apply;\n(d) Orders canceling liability on bonds other than orders disbursing funds from \nthe Clerk’s Registry Account; and\nXI. GENERAL PROVISIONS [Reserved]\nXII. ADMIRALTY OR MARITIME CLAIMS AND ASSET \nFORFEITURE ACTIONS\n",
+          "pages": [
+            53
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wied-civil-parsed-v1-51726fd2dac1b42f",
+      "sourceDocumentId": "parsed-wied-51726fd2dac1b42f",
+      "sourceUrl": "https://www.wied.uscourts.gov/sites/wied/files/documents/Local%20Rules%202010-0201-Amended%202026-0729.pdf",
+      "pageIndex": 52,
+      "pageSpan": [
+        52,
+        53
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "wied-civil:100",
+      "collectionId": "wied-civil",
+      "districtId": "wied",
+      "number": "100",
+      "citation": "Eastern District of Wisconsin · Rule 100",
+      "title": "Scope of Rules; General Provisions.",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-54",
+          "path": [],
+          "type": "paragraph",
+          "text": "Civil L. R. 100. Scope of Rules; General Provisions.\n(a) Scope of Rules. Civil L. R. 100 applies to any claim governed by the \nSupplemental Rules for Certain Admiralty or Maritime Claims and Asset Forfeiture \nActions of the Federal Rules of Civil Procedure.\n(b) Pleadings and Parties.\n(1) Every complaint filed under this Local Rule as an action under the \nFederal Rules of Civil Procedure must state “In Admiralty” following the \ndesignation of the Court, in addition to the statement, if any, contained in the \nbody of the complaint, pursuant to such rule. If the complaint contains a claim \nat law, it must state “at Law and in Admiralty.”\n(2) Every complaint in Supplemental Rule B and C actions must state \nthe amount of the debt, damages, or salvage for which the action is brought. \nThis amount must be included in the process, together with a description of \nthe nature of any unliquidated items claimed, such as attorney’s fees. The \ndefendant or claimant may give a bond or stipulation in such amount, plus \ninterest and costs including an amount stipulated to by the parties or fixed by \nthe Court for an unliquidated item, unless a federal statute, procedure or Court \nof applicable state statute requires some other amount.\n(3) In cases of salvage, the complaint must state, to the extent known, \nor estimate the value of the hull, cargo, freight and other property salvors, and \nthat the suit is instituted on their behalf and on behalf of all other persons \ninterested or associated with them. An attachment to the complaint must also \nlist all known salvors, all persons entitled to share in any salvage award, and \na statement as to any agreement of consortship available and known to exist \namong them or any of them, together with a copy of any such agreement.\n(c) Verification of Pleadings, Answers to Interrogatories and Request \nfor Admissions. Complaints in admiralty must be verified when Supplemental Rule \nB, C, D, or G so requires. Verification must be made by a party or by an officer of a ",
+          "pages": [
+            53
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-55",
+          "path": [],
+          "type": "paragraph",
+          "text": "49\ncorporate party. If no party or corporate officer is within the District or readily \navailable, verification of the complaint, claim, answer to interrogatories or request \nfor admission may be made by an agent, attorney-in-fact or attorney of record, who \nmust state the source of his or her knowledge, declare that the document affirmed is \ntrue to the best of his or her knowledge, state the reason why verification is not made \nby a party or a corporate officer, and state that he or she is authorized so to act. Any \ninterested party may move the Court, with or without a request for stay, for the \npersonal oath of a party or all parties, or that of a corporate officer. If required by the \nCourt, such verification must be procured by commission or as otherwise ordered.\n(d) Suits In Forma Pauperis. Unless allowed by the Court, no process in \nrem must issue in forma pauperis suits, except upon proof of 24 hours’ notice of the \nfiling of the complaint to the owner of the res or the owner’s agent.\n(e) Security for Costs. No complaint in Supplemental Rule B, C, D or F \nactions must be filed, except by the United States or by Court order, unless the party \noffering the same filed Security for Cost as prescribed in Civil L. R. 67(b).\n(f) Summons to Show Cause Why Funds May Not Be Paid Into Court. \nA summons issued pursuant to Supplemental Rule C(3), dealing with freight or the \nproceeds of property sold or other intangible property, must direct the person having \ncontrol of the funds, at a date fixed thereby which must be at least 14 days after \nservice thereof (unless the Court, for good cause shown, shortens the period), to show \ncause why the funds may not be paid into Court to abide the judgment. Funds paid \ninto Court are subject to the provisions of Civil L. R. 67(d).\n(g) Publication Where Property Arrested.\n(1) Publication required by Supplemental Rule C(4) must be made once \nin a newspaper of general circulation within the District in which the arrest is \nmade, designated by order of the Court.\n(2) If the property arrested is not released within 14 days after execution \nof process, publication must be made by the plaintiff or intervenor within 21 \ndays after execution of process, unless otherwise ordered by the Court.\n(h) Publication of Notice of Sale. Notice of sale of property in suits in rem \nand quasi in rem, except in suits on behalf of the United States where other notice is \nprescribed by statute, must be caused by the United States Marshal to be published \nin the newspaper of largest general circulation within the District in which the \nseizure was made. Such publication must occur at least twice: the first at least 7 \ncalendar days prior to the date of the sale and the second at least 3 calendar days \nprior to the date of sale, unless otherwise ordered by the Court.",
+          "pages": [
+            54
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "wied-civil-parsed-v1-51726fd2dac1b42f",
+      "sourceDocumentId": "parsed-wied-51726fd2dac1b42f",
+      "sourceUrl": "https://www.wied.uscourts.gov/sites/wied/files/documents/Local%20Rules%202010-0201-Amended%202026-0729.pdf",
+      "pageIndex": 53,
+      "pageSpan": [
+        53,
+        54
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    }
+  ],
+  "evidence": [
+    {
+      "number": "1",
+      "heading": "Civil L. R. 1. Scope of Rules",
+      "page": 24,
+      "offset": 41,
+      "slices": [
+        {
+          "page": 24,
+          "start": 41,
+          "end": 212,
+          "sha256": "1a1d87f665fc7efed7a8b3898fd02cb80267612ccdf814fb0bb672ba3952109e"
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "heading": "Civil L. R. 3. Commencing an Action.",
+      "page": 24,
+      "offset": 212,
+      "slices": [
+        {
+          "page": 24,
+          "start": 212,
+          "end": 1986,
+          "sha256": "f7f73c0f0fd1c0635f577e7de1e42607fa40ec2e35cc42745e6649c8ff833c91"
+        },
+        {
+          "page": 25,
+          "start": 0,
+          "end": 2209,
+          "sha256": "30666fcbbb5c17774c7653409c7c3f9e086f0bdc1627a38ede2aa833af9e1d6c"
+        },
+        {
+          "page": 26,
+          "start": 0,
+          "end": 2086,
+          "sha256": "416f2e3a220bcdbbaabe4506694732e464fa34a94f3298aaf96e76472f1a4f9d"
+        },
+        {
+          "page": 27,
+          "start": 0,
+          "end": 1579,
+          "sha256": "83c636490cb563e3abfabed7aa21dca9f1186d1b2d22a85c52158738461fb132"
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "heading": "Civil L. R. 4. Service of Process Upon the State of Wisconsin or Its Employees",
+      "page": 27,
+      "offset": 1579,
+      "slices": [
+        {
+          "page": 27,
+          "start": 1579,
+          "end": 2188,
+          "sha256": "9a0df023319971463772ca1d350e6c96acfb7c0a716a05adf6c24bd9cacc1787"
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "heading": "Civil L. R. 5. Service of Papers Through the Court’s Electronic Transmission",
+      "page": 27,
+      "offset": 2188,
+      "slices": [
+        {
+          "page": 27,
+          "start": 2188,
+          "end": 2445,
+          "sha256": "1d3f6a2b2c857dbffedec5e5e4e67861f6218d7052199356c8a19aa42235018d"
+        },
+        {
+          "page": 28,
+          "start": 0,
+          "end": 30,
+          "sha256": "197490ef26b205b1596b7eeb827b5e52ef232fe47983aaaf0078ce8a81570c2e"
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "heading": "Civil L. R. 7. Form of Motions and Other Papers",
+      "page": 28,
+      "offset": 30,
+      "slices": [
+        {
+          "page": 28,
+          "start": 30,
+          "end": 2242,
+          "sha256": "86bfdb592f03af05918a9bec40b7f6547255d3fb673e860952700489ef729095"
+        },
+        {
+          "page": 29,
+          "start": 0,
+          "end": 2526,
+          "sha256": "76d75ff788e04834245abbe21a1442bbb1f8ab0c197fbb7d861f5c1c7bcef40c"
+        },
+        {
+          "page": 30,
+          "start": 0,
+          "end": 3088,
+          "sha256": "44d58d5bc0cf649dcba872e7e42eea07f62c1814f394526f92b556dbfbd68209"
+        },
+        {
+          "page": 31,
+          "start": 0,
+          "end": 434,
+          "sha256": "649624ef1f77626bf5f5e223286e076738566362ae3a45f1bcd25f946e260d56"
+        }
+      ]
+    },
+    {
+      "number": "7.1",
+      "heading": "Civil L. R. 7.1. Disclosure Statement.",
+      "page": 31,
+      "offset": 434,
+      "slices": [
+        {
+          "page": 31,
+          "start": 434,
+          "end": 1852,
+          "sha256": "ee289994e945b5c5d2b9ca064c6719581dfcad3d065a06a756afd4456eedd2bc"
+        },
+        {
+          "page": 32,
+          "start": 0,
+          "end": 1599,
+          "sha256": "e7bc70603b384d978c776db2d37d161e785cd603cce155dc5af0b2f759f17e4b"
+        },
+        {
+          "page": 33,
+          "start": 0,
+          "end": 309,
+          "sha256": "49679111dda05f452368a2b04ba0d5a7a04161664e9d51edb7939b161093698a"
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "heading": "Civil L. R. 8. Pleading Jurisdiction.",
+      "page": 33,
+      "offset": 309,
+      "slices": [
+        {
+          "page": 33,
+          "start": 309,
+          "end": 895,
+          "sha256": "5c4df9b1108bb2362d5a09b60bf1d917f99754cf087beacb492d92105057fdab"
+        }
+      ]
+    },
+    {
+      "number": "9",
+      "heading": "Civil L. R. 9. Pleading Special Matters.",
+      "page": 33,
+      "offset": 895,
+      "slices": [
+        {
+          "page": 33,
+          "start": 895,
+          "end": 2350,
+          "sha256": "3194aa5d8bfc3977fa030542957cc786120526e08f8ac0038a338e91edd85e01"
+        },
+        {
+          "page": 34,
+          "start": 0,
+          "end": 664,
+          "sha256": "de2d94587789ce3260f676d14ec2fcd607634bead8b4d2f5422bdd86615818b7"
+        }
+      ]
+    },
+    {
+      "number": "10",
+      "heading": "Civil L. R. 10. Form of Pleadings.",
+      "page": 34,
+      "offset": 664,
+      "slices": [
+        {
+          "page": 34,
+          "start": 664,
+          "end": 1903,
+          "sha256": "1804a1b4d556cb6043ca6b475189b98f5606ddd0762c46d89259d8f6f222f109"
+        }
+      ]
+    },
+    {
+      "number": "15",
+      "heading": "Civil L. R. 15. Amended and Supplemental Pleadings.",
+      "page": 34,
+      "offset": 1903,
+      "slices": [
+        {
+          "page": 34,
+          "start": 1903,
+          "end": 2597,
+          "sha256": "30189f88777d3402a901cc478703a7dd3d0ad23d59ac2376e25a4723f2a7274c"
+        },
+        {
+          "page": 35,
+          "start": 0,
+          "end": 723,
+          "sha256": "1ba710c6cc83c99716638651b432f260bf9d38e9b4322283e12137ac844249d8"
+        }
+      ]
+    },
+    {
+      "number": "16",
+      "heading": "Civil L. R. 16. Pretrial Conferences; Scheduling; Management; Alternative",
+      "page": 35,
+      "offset": 723,
+      "slices": [
+        {
+          "page": 35,
+          "start": 723,
+          "end": 2048,
+          "sha256": "57f8370e56352f85315772b2d6aac96f3a7161ac39c0800ea5aad32433ba49da"
+        },
+        {
+          "page": 36,
+          "start": 0,
+          "end": 2091,
+          "sha256": "b51d57abb29ecbde729e83d5ca946ce48b0e8fa4f1cb85911282b324e4d592c3"
+        },
+        {
+          "page": 37,
+          "start": 0,
+          "end": 2071,
+          "sha256": "2e233f2fdc1f9c717027e04d92ad5cfd67188230197426a5bd159b62e387aaa3"
+        },
+        {
+          "page": 38,
+          "start": 0,
+          "end": 2762,
+          "sha256": "f3afbb2585188ed990ff47e14ac64cfa75292a5b5754c644527723f1faaf6bdf"
+        },
+        {
+          "page": 39,
+          "start": 0,
+          "end": 2930,
+          "sha256": "b24226ff5f6049c1e62c56300303d0ae19e59165896a0115a315280f7702ce9c"
+        },
+        {
+          "page": 40,
+          "start": 0,
+          "end": 236,
+          "sha256": "a5386ab7a3f818bf9067169c1556878e6a9bc4d0d84af22a98c6d0a6f79fd572"
+        }
+      ]
+    },
+    {
+      "number": "26",
+      "heading": "Civil L. R. 26. Duty to Disclose; General Provisions Governing Discovery.",
+      "page": 40,
+      "offset": 236,
+      "slices": [
+        {
+          "page": 40,
+          "start": 236,
+          "end": 1908,
+          "sha256": "3cdfa731697342bf669ef9c2c469536e5da29850ee3a39b17966c43f0f598df1"
+        },
+        {
+          "page": 41,
+          "start": 0,
+          "end": 2276,
+          "sha256": "316f6ca421285e59f40195f00e720b0f90c17163ac589524a0484eedf7d2e7ea"
+        },
+        {
+          "page": 42,
+          "start": 0,
+          "end": 2383,
+          "sha256": "9d60728a7e4903c9a48f4cb98c696c4c3f17e41d65bc9a2e70b1ac3c387cb042"
+        },
+        {
+          "page": 43,
+          "start": 0,
+          "end": 421,
+          "sha256": "c1127be84e3238cf4c7ee068586152a7f111de9a8256a4e168dcba06af1e1649"
+        }
+      ]
+    },
+    {
+      "number": "33",
+      "heading": "Civil L. R. 33. Interrogatories.",
+      "page": 43,
+      "offset": 421,
+      "slices": [
+        {
+          "page": 43,
+          "start": 421,
+          "end": 2112,
+          "sha256": "a5e09e8a81b960cdcb72d14143c8cf874aaed705b42f5567c7a17884fc7320cc"
+        }
+      ]
+    },
+    {
+      "number": "34",
+      "heading": "Civil L. R. 34. Producing Documents.",
+      "page": 43,
+      "offset": 2112,
+      "slices": [
+        {
+          "page": 43,
+          "start": 2112,
+          "end": 2264,
+          "sha256": "918b65cc9ddb49ff8f692892d4de0ab178181f7238ace0dc6f0047feac35d86e"
+        },
+        {
+          "page": 44,
+          "start": 0,
+          "end": 3,
+          "sha256": "a2c6c14110a317833ac8f2fbae7080ee844af7469b2aa702876548dcf4c58077"
+        }
+      ]
+    },
+    {
+      "number": "36",
+      "heading": "Civil L. R. 36. Requests for Admission.",
+      "page": 44,
+      "offset": 3,
+      "slices": [
+        {
+          "page": 44,
+          "start": 3,
+          "end": 1699,
+          "sha256": "2e04a2412eb3dd4427bd5246b3d6cc0c93fdbe2dce394ebac169e3d92a50f949"
+        }
+      ]
+    },
+    {
+      "number": "37",
+      "heading": "Civil L. R. 37. Discovery Motions.",
+      "page": 44,
+      "offset": 1699,
+      "slices": [
+        {
+          "page": 44,
+          "start": 1699,
+          "end": 2473,
+          "sha256": "7b1346743d23a5c69a8d3c656798257448af7a6125268510dea204c65af57f51"
+        },
+        {
+          "page": 45,
+          "start": 0,
+          "end": 14,
+          "sha256": "e81cb87d89f895ac6966a59ece18403ca1794c85da0e9866a8aea16042a8466c"
+        }
+      ]
+    },
+    {
+      "number": "41",
+      "heading": "Civil L. R. 41. Dismissal of Actions.",
+      "page": 45,
+      "offset": 14,
+      "slices": [
+        {
+          "page": 45,
+          "start": 14,
+          "end": 2315,
+          "sha256": "50e9c344766f96900d2b242eb761941f36d39732432ec550a16510c672c9e26b"
+        }
+      ]
+    },
+    {
+      "number": "42",
+      "heading": "Civil L. R. 42. Consolidation.",
+      "page": 45,
+      "offset": 2315,
+      "slices": [
+        {
+          "page": 45,
+          "start": 2315,
+          "end": 2507,
+          "sha256": "726be86e1b1c7c7491aad01309587f6270e647584b331bc7fff4612db418d73a"
+        },
+        {
+          "page": 46,
+          "start": 0,
+          "end": 975,
+          "sha256": "dfdce7f44200b5dbc03407ce4ac05930cee0bc2a2883fea5a37caa3c81f46049"
+        }
+      ]
+    },
+    {
+      "number": "54",
+      "heading": "Civil L. R. 54. Costs.",
+      "page": 46,
+      "offset": 975,
+      "slices": [
+        {
+          "page": 46,
+          "start": 975,
+          "end": 2478,
+          "sha256": "3b447720e5d54148cea2f6478768d14c01736f454ff0e828cc0d4ca8672d4445"
+        },
+        {
+          "page": 47,
+          "start": 0,
+          "end": 2841,
+          "sha256": "ca4cc91ceaa91edf30647ef5ba7df56fe5f879a1f4b5040d6b110af9afe96f43"
+        },
+        {
+          "page": 48,
+          "start": 0,
+          "end": 226,
+          "sha256": "0de5c7ab0e7442445cc562d031fc19d07744bd3791d6e3941acc37c9b555254d"
+        }
+      ]
+    },
+    {
+      "number": "56",
+      "heading": "Civil L. R. 56. Summary Judgment.",
+      "page": 48,
+      "offset": 226,
+      "slices": [
+        {
+          "page": 48,
+          "start": 226,
+          "end": 2134,
+          "sha256": "343d4c1e96c7edeaad5049aee90ec0cc3f0cdb5168c11feeae4eb55b074dc8c1"
+        },
+        {
+          "page": 49,
+          "start": 0,
+          "end": 1819,
+          "sha256": "1f814337aca907ed378007f28c6d51ea30e840c59e8c3486cae3c1c6cde16405"
+        },
+        {
+          "page": 50,
+          "start": 0,
+          "end": 2148,
+          "sha256": "c59a339f42721343a8a99dcc5aaa9c8bcde3caccf07163fee170882a912a7be7"
+        },
+        {
+          "page": 51,
+          "start": 0,
+          "end": 1258,
+          "sha256": "e4ca455fc95a5b3e7c1bef02309c05b52a6f1277f05c8b41b6dca52265d4f2e6"
+        }
+      ]
+    },
+    {
+      "number": "62",
+      "heading": "Civil L. R. 62. Supersedeas Bonds. (deleted September 3, 2019)",
+      "page": 51,
+      "offset": 1258,
+      "slices": [
+        {
+          "page": 51,
+          "start": 1258,
+          "end": 1358,
+          "sha256": "24c47ea1504201b8e1bc115540d0415a0ed7c7f90a23fdebbe87803921641e06"
+        }
+      ]
+    },
+    {
+      "number": "67",
+      "heading": "Civil L. R. 67. Security; Deposit Into Court; Withdrawal of Monies; Registry",
+      "page": 51,
+      "offset": 1358,
+      "slices": [
+        {
+          "page": 51,
+          "start": 1358,
+          "end": 2432,
+          "sha256": "1a10b4cab50dc880fd3da05b607dea1c794134ffc11bf5b6658407edc522e374"
+        },
+        {
+          "page": 52,
+          "start": 0,
+          "end": 2752,
+          "sha256": "e5a24088cb23933a409154e74af20d515a1fd44fd4feb988a217681c2c732de8"
+        },
+        {
+          "page": 53,
+          "start": 0,
+          "end": 1659,
+          "sha256": "fd0e80001b608b286100ea1dc3a0ba6cacbe08a8772ea7361e4a45eafc824b56"
+        }
+      ]
+    },
+    {
+      "number": "77",
+      "heading": "Civil L. R. 77. Clerk’s Authority.",
+      "page": 53,
+      "offset": 1659,
+      "slices": [
+        {
+          "page": 53,
+          "start": 1659,
+          "end": 2311,
+          "sha256": "d5211d34e51f639f6393a5ffab81bf1dc67645bc2d418803ff18f7529157c0a4"
+        },
+        {
+          "page": 54,
+          "start": 0,
+          "end": 335,
+          "sha256": "6a6a9e19ce1f4e46619e2d27ddc333d6888a88c92824f23661375d1a52798b1d"
+        }
+      ]
+    },
+    {
+      "number": "100",
+      "heading": "Civil L. R. 100. Scope of Rules; General Provisions.",
+      "page": 54,
+      "offset": 335,
+      "slices": [
+        {
+          "page": 54,
+          "start": 335,
+          "end": 2353,
+          "sha256": "eb8310a5cc977c14ef06f27815f960dfbba98735d30dcb0adf3dd27487c45a34"
+        },
+        {
+          "page": 55,
+          "start": 0,
+          "end": 2826,
+          "sha256": "abd1aa5deb3dc543ed97667e82b300bd058782bc38d441d36466620286646ac8"
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "startPage": 24,
+    "startOffset": 41,
+    "endPage": 55,
+    "endOffset": 2826,
+    "ruleCount": 24,
+    "tocReconciled": false,
+    "editorialReviewComplete": false,
+    "currencyReviewed": false,
+    "flags": [
+      "Source extraction contains unresolved characters; consult the original publication."
+    ],
+    "excluded": "Source material outside the recorded range remains available in the district source library."
+  },
+  "transcriptionSha256": "36c73dbb900c6ce2ad4a6ad8a1da442521e1255a362f3b41369f74b4d4df3d4d"
+}

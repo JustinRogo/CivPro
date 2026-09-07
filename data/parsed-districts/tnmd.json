@@ -1,0 +1,2571 @@
+{
+  "version": 1,
+  "reviewStatus": "parsed-draft",
+  "districtId": "tnmd",
+  "sourceDocument": {
+    "id": "9ea5870a79cced04",
+    "title": "Local Rules of Court - May 15, 2025",
+    "format": "pdf",
+    "role": "primary",
+    "sourceUrl": "https://www.tnmd.uscourts.gov/sites/tnmd/files/2025.05.15%20TNMD%20Local%20Rules%20of%20Court%20-%202025%20amendments%20_0.pdf",
+    "sha256": "9ea5870a79cced04483aaac496ccd8bc30ebee5ecd8ce46dec00fb62dad51946",
+    "bytes": 627954,
+    "retrievedAt": "2026-09-07T00:02:15.469347+00:00",
+    "snapshotPath": "sources/district-snapshots/9ea5870a79cced04483aaac496ccd8bc30ebee5ecd8ce46dec00fb62dad51946.pdf",
+    "textPath": "data/source-library/9ea5870a79cced04483aaac496ccd8bc30ebee5ecd8ce46dec00fb62dad51946.json",
+    "pdfPath": "data/source-pdfs/9ea5870a79cced04483aaac496ccd8bc30ebee5ecd8ce46dec00fb62dad51946.pdf",
+    "pageCount": 52,
+    "reviewStatus": "source-document-only",
+    "blankTextPages": 0
+  },
+  "collection": {
+    "id": "tnmd-civil",
+    "name": "Middle District of Tennessee Local Rules",
+    "shortName": "Local rules · draft",
+    "districtId": "tnmd",
+    "scopeNote": "Civil and generally applicable local rules; unparsed supplements remain in the source library. Rule boundaries and transcription are drafts. Embedded notes, forms, and running headers may remain within rule text; subsection anchors and field-separated notes are not yet reviewed."
+  },
+  "provisions": [
+    {
+      "id": "tnmd-civil:1.01",
+      "collectionId": "tnmd-civil",
+      "districtId": "tnmd",
+      "number": "1.01",
+      "citation": "Middle District of Tennessee · Rule 1.01",
+      "title": "LOCAL RULES AND CM/ECF REGISTRATION",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-11",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 1.01 – LOCAL RULES AND CM/ECF REGISTRATION \n(a) Deviation from Local Rules. The Court may deviate from any provision of any Local\nRule of this Court, when appropriate for the needs of the case and the administration of\njustice.\n(b) Reference to Local Rules. These Local Civil Rules of Court shall be referred to as the\n“Local Rules” or as “LR.”\n(c) Practice Manuals and Sample Orders. For further guidance in construction and\napplication of these Local Rules, lawyers should consult the practice and procedures\nmanuals and sample orders available for each individual judge on the Court’s website.\n(d) References to Administrative Orders. References to Administrative Orders are by\nassigned order number as of the date of promulgation of these Rules, but shall refer to any\namended, superseding, or renumbered order.\n(e) CM/ECF Registration via PACER. All attorneys practicing in the Middle District of\nTennessee, including those admitted pro hac vice and those authorized to represent the\nUnited States, must, absent good cause shown, register as Filing Users of the Electronic\nFiling System (CM/ECF) via Public Access to Court Electronic Records (PACER) and file\ntheir documents by electronic means. A document filed by electronic means constitutes a\nwritten paper for the purposes of the Local Rules, the Federal Rules of Civil Procedure,\nand the Federal Rules of Criminal Procedure.\n",
+          "pages": [
+            10
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "tnmd-civil-parsed-v1-9ea5870a79cced04",
+      "sourceDocumentId": "parsed-tnmd-9ea5870a79cced04",
+      "sourceUrl": "https://www.tnmd.uscourts.gov/sites/tnmd/files/2025.05.15%20TNMD%20Local%20Rules%20of%20Court%20-%202025%20amendments%20_0.pdf",
+      "pageIndex": 10,
+      "pageSpan": [
+        10,
+        10
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "tnmd-civil:3.01",
+      "collectionId": "tnmd-civil",
+      "districtId": "tnmd",
+      "number": "3.01",
+      "citation": "Middle District of Tennessee · Rule 3.01",
+      "title": "COMMENCING AN ACTION",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-11",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 3.01 – COMMENCING AN ACTION\n(a) Civil Case Initiating Documents - Represented Parties. Civil complaints, petitions,\nnotices of removal from state court, or other civil case initiating documents must be filed\nelectronically except in exceptional circumstances as determined by the Court. In the case\nof removal, a copy of all documents filed in the state court action must be attached to the\nnotice of removal.\n(b) Filing Case Initiating Documents in Hard Copy – Represented Parties. If civil case\ninitiating documents must be filed in hard copy, as determined by the Court, counsel must\ncontact the Clerk’s Office in advance and provide the Clerk's Office with an electronic\nversion in PDF format on a USB storage device or other means approved by the Clerk’s\nOffice. If there is a discrepancy between the paper document and the electronic version,\nthe electronic version is controlling. All subsequent documents must be filed electronically\nvia CM/ECF.\n(c) Civil Case Initiating Documents - Pro Se Parties. Parties not represented by an attorney\n(\"pro se parties\") must file case-initiating documents (e.g. complaints, petitions, notices of\nremoval) in hard copy by delivering the documents to the Clerk's Office by mail or in\nperson. All subsequent documents may be filed by mail, in person, or electronically via the\nCourt’s Pro Se Electronic Filing Portal. Pro se parties may, with the Court's permission,\nregister as a CM/ECF Filing User solely for purposes of filing documents in their case(s).\nInstructions on how to obtain a PACER account and how to request permission to file via\n\u0014",
+          "pages": [
+            10
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-12",
+          "path": [],
+          "type": "paragraph",
+          "text": "2 \nCM/ECF are available on the Court's website. \n(d) Civil Actions by Incarcerated Individuals. The Clerk’s Office shall provide form \npleadings for use by incarcerated individuals filing habeas corpus petitions (Section 2254 \npetitions) and civil rights actions (Section 1983 actions) if requested in writing. These form \npleadings are also available on the Court’s website.\n",
+          "pages": [
+            11
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "tnmd-civil-parsed-v1-9ea5870a79cced04",
+      "sourceDocumentId": "parsed-tnmd-9ea5870a79cced04",
+      "sourceUrl": "https://www.tnmd.uscourts.gov/sites/tnmd/files/2025.05.15%20TNMD%20Local%20Rules%20of%20Court%20-%202025%20amendments%20_0.pdf",
+      "pageIndex": 10,
+      "pageSpan": [
+        10,
+        11
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "tnmd-civil:3.02",
+      "collectionId": "tnmd-civil",
+      "districtId": "tnmd",
+      "number": "3.02",
+      "citation": "Middle District of Tennessee · Rule 3.02",
+      "title": "FILING FEES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-12",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 3.02 – FILING FEES \n(a) Clerk to Require. The Clerk may require advance payment of fees before any civil action \nor other proceeding is initiated (other than those authorized to be brought in forma \npauperis). \n(b) When Fee Not Included. When a pleading is electronically filed or received for filing \nand is unaccompanied by either the required filing fee or an application to proceed in forma \npauperis, or is accompanied by an application to proceed in forma pauperis that has not \nbeen acted upon by the Court, the Clerk shall issue a notice of deficiency instructing \ncounsel or the party who submitted the pleading of the requirement for either payment of \nthe filing fee or an order granting an application to proceed in forma pauperis. \n(c) In Forma Pauperis. In all cases in which the plaintiff or defendant has been allowed to \nproceed in this Court in forma pauperis, the party must, upon filing a notice of appeal, also \nfile a new affidavit of poverty. In all proceedings brought pursuant to 28 U.S.C. § 2254 \nand 28 U.S.C. § 2255 and in all proceedings brought pursuant to 42 U.S.C. § 1983 by an \ninmate of a penal institution, the affidavit of poverty must be on forms supplied by the \nClerk of the Court and approved by this Court. The Clerk may accept for filing a non￾compliant affidavit, but the Clerk or the Court may require the refiling of the affidavit in \nthe approved format. \n",
+          "pages": [
+            11
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "tnmd-civil-parsed-v1-9ea5870a79cced04",
+      "sourceDocumentId": "parsed-tnmd-9ea5870a79cced04",
+      "sourceUrl": "https://www.tnmd.uscourts.gov/sites/tnmd/files/2025.05.15%20TNMD%20Local%20Rules%20of%20Court%20-%202025%20amendments%20_0.pdf",
+      "pageIndex": 11,
+      "pageSpan": [
+        11,
+        11
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "tnmd-civil:3.03",
+      "collectionId": "tnmd-civil",
+      "districtId": "tnmd",
+      "number": "3.03",
+      "citation": "Middle District of Tennessee · Rule 3.03",
+      "title": "CIVIL COVER SHEET",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-12",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 3.03 – CIVIL COVER SHEET \nThe filing attorney must prepare and file a civil cover sheet (Form JS-44) with each civil complaint \nfiled. Civil cover sheets (Form JS-44) and instructions for the preparation thereof are available \nonline and from the Clerk’s Office. \n",
+          "pages": [
+            11
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "tnmd-civil-parsed-v1-9ea5870a79cced04",
+      "sourceDocumentId": "parsed-tnmd-9ea5870a79cced04",
+      "sourceUrl": "https://www.tnmd.uscourts.gov/sites/tnmd/files/2025.05.15%20TNMD%20Local%20Rules%20of%20Court%20-%202025%20amendments%20_0.pdf",
+      "pageIndex": 11,
+      "pageSpan": [
+        11,
+        11
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "tnmd-civil:4.01",
+      "collectionId": "tnmd-civil",
+      "districtId": "tnmd",
+      "number": "4.01",
+      "citation": "Middle District of Tennessee · Rule 4.01",
+      "title": "SUMMONS AND SERVICE OF PROCESS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-12",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 4.01 – SUMMONS AND SERVICE OF PROCESS \n(a) Preparation of Summons. With the filing of the complaint, third-party complaint, or any \nother pleading that requires the issuance of a summons, the filing party must prepare and \nfile as an attachment a completed summons conforming to Fed. R. Civ. P. 4. \n(b) Issuance of Summons. Summons will be issued electronically by the Clerk's Office unless \notherwise requested by counsel when filing the case-initiating documents in CM/ECF. \nCounsel will be responsible for printing and serving electronic summons upon issuance. \n(c) Pro Se Cases. In all cases in which the plaintiff is proceeding both pro se and in forma \npauperis, the Clerk shall provide the plaintiff with blank summons and accompanying \ninstructions for completion of the summons. Upon return of the completed summons by \nthe plaintiff, the Clerk shall issue process for service by the United States Marshals Service. ",
+          "pages": [
+            11
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-13",
+          "path": [],
+          "type": "paragraph",
+          "text": "3 \n(d) Service of Process. \n(1) Service of Case-Initiating Documents. Case-initiating documents, such as a \ncomplaint and summons in a civil case, must be served in accordance with Fed. R. Civ. \nP. 4 and not via CM/ECF. \n(2) Service by the United States Marshals Service. The United States Marshal will not \nserve a summons or other civil process unless required by these Rules, the Federal \nRules of Civil Procedure, or order of the Court. Under appropriate circumstances when \nserving process, the Marshal may do so by certified or registered mail, in accordance \nwith Rule 4.04(10) and (11) of the Tennessee Rules of Civil Procedure, as incorporated \ninto Fed. R. Civ. P. 4(e)(1). The Marshal shall attach to the return on such process the \nreturn receipt from the Postal Service. \n(3) Service of Initial Documents in Social Security Actions. Pleadings in an action for \nreview on the record of a final decision of the Commissioner of Social Security that \npresent only an individual claim will be served upon the Commissioner by the Court \npursuant to Rule 3 of the Supplemental Rules for Social Security Actions under 42 \nU.S.C. §405(g). \n",
+          "pages": [
+            12
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "tnmd-civil-parsed-v1-9ea5870a79cced04",
+      "sourceDocumentId": "parsed-tnmd-9ea5870a79cced04",
+      "sourceUrl": "https://www.tnmd.uscourts.gov/sites/tnmd/files/2025.05.15%20TNMD%20Local%20Rules%20of%20Court%20-%202025%20amendments%20_0.pdf",
+      "pageIndex": 11,
+      "pageSpan": [
+        11,
+        12
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "tnmd-civil:5.01",
+      "collectionId": "tnmd-civil",
+      "districtId": "tnmd",
+      "number": "5.01",
+      "citation": "Middle District of Tennessee · Rule 5.01",
+      "title": "CERTIFICATE OF SERVICE",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-13",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 5.01 – CERTIFICATE OF SERVICE \nAll filings not served through the Court’s CM/ECF filing system must include a certificate of \nservice identifying by name the person (or counsel) served, what was served, method of service, \nand date of service. \n",
+          "pages": [
+            12
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "tnmd-civil-parsed-v1-9ea5870a79cced04",
+      "sourceDocumentId": "parsed-tnmd-9ea5870a79cced04",
+      "sourceUrl": "https://www.tnmd.uscourts.gov/sites/tnmd/files/2025.05.15%20TNMD%20Local%20Rules%20of%20Court%20-%202025%20amendments%20_0.pdf",
+      "pageIndex": 12,
+      "pageSpan": [
+        12,
+        12
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "tnmd-civil:5.02",
+      "collectionId": "tnmd-civil",
+      "districtId": "tnmd",
+      "number": "5.02",
+      "citation": "Middle District of Tennessee · Rule 5.02",
+      "title": "ELECTRONIC FILING AND SERVICE",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-13",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 5.02 – ELECTRONIC FILING AND SERVICE \n(a) Electronic Service of Pleadings and Other Filed Documents. For all electronic filings \nnot required to be served under Fed. R. Civ. P. 4, receipt of the Notice of Electronic Filing \n(NEF) generated by CM/ECF shall constitute service of the electronically filed document \non persons registered as Electronic Filing Users. Electronic service is complete upon \ntransmission. \n(b) Electronic Service Upon Pro Se Parties. Except for documents required to be served \npursuant to Fed. R. Civ. P. 4, pro se parties may consent in writing to receive electronic \nservice of documents from CM/ECF. A pro se party who consents to service via CM/ECF \nmust complete and sign a Consent to Electronic Service form for each case in which the \npro se party consents to electronic service. The Consent to Electronic Service form is \navailable on the Court’s website or from the Clerk’s Office. Consent to electronic service \nwill not be effective until the Clerk’s Office dockets the signed consent form in the \napplicable case. Once a pro se party’s consent to electronic service is docketed and \neffective, the pro se party may be served through CM/ECF. Absent consent under this rule, \na pro se party can be served by any means authorized by Fed. R. Civ. P. 5(b)(2). \n(c) Effect and Timing of Electronic Filing. Each electronically filed document, as stored by \nthe Court, becomes a part of the Court's official record and the filing party is bound by the \ndocument as filed. An electronically filed document is deemed filed as of the date and time \nstated in the NEF generated by the CM/ECF system. Filing a document electronically does \nnot alter the filing deadline for that document. For a document to be considered timely filed ",
+          "pages": [
+            12
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-14",
+          "path": [],
+          "type": "paragraph",
+          "text": "4 \non a deadline date, the filing must be completed on the deadline date before midnight \nCentral Time. \nLR 5.03 − REQUESTS TO SEAL DOCUMENTS OR PORTIONS OF DOCUMENTS\n(a) Motion Required. Any party requesting that documents or portions of documents be \nsealed must file a motion for leave to file the document(s) under seal in accordance with \n",
+          "pages": [
+            13
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "tnmd-civil-parsed-v1-9ea5870a79cced04",
+      "sourceDocumentId": "parsed-tnmd-9ea5870a79cced04",
+      "sourceUrl": "https://www.tnmd.uscourts.gov/sites/tnmd/files/2025.05.15%20TNMD%20Local%20Rules%20of%20Court%20-%202025%20amendments%20_0.pdf",
+      "pageIndex": 12,
+      "pageSpan": [
+        12,
+        13
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "tnmd-civil:7.01",
+      "collectionId": "tnmd-civil",
+      "districtId": "tnmd",
+      "number": "7.01",
+      "citation": "Middle District of Tennessee · Rule 7.01",
+      "title": "Rule 7.01",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-14",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 7.01. \n(b) Procedures for Filing Motions to Seal in CM/ECF. Follow these instructions carefully. \nFailure to do so may result in the documents being immediately accessible to all parties or \nmembers of the public. If documents are erroneously filed not under seal, the Clerk’s office \ncannot correct that error without an order from the Court to seal the documents. \n(1) File a motion for Leave to File Document Under Seal via CM/ECF. DO NOT attach \nthe document to be sealed to this motion at this stage. \n(2) Immediately after filing the motion, file the proposed sealed document by selecting \nthe “Sealed Document” event in CM/ECF. \nAccess to the document will remain restricted until the Court rules on the motion to seal. \nWhen documents are ordered to be placed under seal, such documents will be electronically \naccessible only to the Court. \n(c) Contents of Motion to Seal. The motion for leave to seal or the response to a motion \nunder subsection (d), even if unopposed, must provide compelling reasons to overcome the \npresumption that court records are open to the public. The motion to seal must show that \nthe sealing is narrowly tailored to the stated reasons by specifically analyzing in detail, \ndocument by document, the propriety of secrecy, providing supporting facts and legal \nauthority. Failure to provide sufficiently compelling reasons may result in denial of the \nrequest to seal documents or portions of documents. An unopposed motion or agreed order \nthat does not address the standards for sealing documents does not comply with this rule. \n(d) Use of Document by Party Not Designating Documents as Confidential. The party \nintending to use information or documents designated in discovery as confidential must \nfile a motion to seal under LR 7.01(a). However, the party who designated the materials as \nconfidential or otherwise seeks to restrict access to the materials retains the burden of \nmeeting the requirements set out in subsection (c), either in a joint motion to seal or in a \nresponse under LR 7.01(a)(3). \n(e) Redacted Filing. If practicable, the party requesting that some or all of a filing be sealed \nmust also separately file a redacted version. If the filing of a redacted version is \nimpracticable, the motion to seal must include an affirmative statement to that effect. \n(f) Protective Orders. Proposed protective orders should not provide that documents \nproduced in discovery and designated as “confidential” will be automatically sealed upon \nfiling or if used at trial. Any such language in proposed protective orders may be stricken \nand may result in denial of the motion for entry of the proposed protective order. ",
+          "pages": [
+            13
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-15",
+          "path": [],
+          "type": "paragraph",
+          "text": "5 \nLR 6.01 − COMPUTING AND EXTENDING TIMES\n(a) Extensions of Deadlines Generally. Unless otherwise provided in a case management \norder or other order, a request for an extension of time not made in open court or at a case \nmanagement or status conference must: \n(1) Be made by written motion; \n(2) State the original deadline and the requested deadline; \n(3) Provide the reasons why an extension is requested; and \n(4) If all parties are represented by counsel, either: \n(A)State whether there is any objection to the extension by counsel for any \nother party; or \n(B) If counsel cannot be reached, describe all attempts made to confer with all \nother counsel and the results of such attempts. \n(b) Exception for Discovery Responses. This requirement does not apply to deadlines for \nresponding to discovery, which may be agreed to by the parties without the necessity of an \norder of the Court, provided such extension does not interfere with the case management \nschedule, other case deadlines, or scheduled hearings. \nLR 7.01 – MOTIONS GENERALLY \nAll filings requesting relief from or action by the Court must be in the form of a motion. For \nmotions filed in CM/ECF, the filer must select a “Motion” event. \n(a) Conference with Counsel, Filing, Response and Reply. \n(1) Conference with Counsel. In cases in which all parties are represented by counsel, all \nmotions, except motions under Rules 12, 55, 56, 59, or 60, and motions for admission \npro hac vice, must state that counsel for the moving party has conferred with all other \ncounsel, and whether or not the relief requested in the motion is opposed. In those \ninstances where counsel for the moving party is unable to confer with all other counsel, \nthe motion must describe all attempts made to confer with counsel. \n(2) Motion and Supporting Memorandum. Every motion requiring a determination of \nlaw must be accompanied by a memorandum of law citing supporting authorities and, \nwhere allegations of fact are relied upon, affidavits, depositions, or other exhibits in \nsupport thereof. The memorandum may be separately filed from the motion or may be \nincorporated with the motion. If the memorandum is filed separately, it shall not be \nfiled as an exhibit or addendum to the motion. If the memorandum is incorporated, the \nfiling must be clearly titled as a “MOTION AND MEMORANDUM OF LAW”. No \nmemorandum or combined Motion and Memorandum of Law shall exceed twenty-five \n(25) pages without leave of Court. \n(3) Response. Any party opposing a motion must serve and file a memorandum of law in \nresponse, and, if necessary to support assertions of fact, affidavits and depositions, not \nlater than fourteen (14) days after service of the motion, unless otherwise ordered by \nthe Court. The response in opposition shall not exceed twenty-five (25) pages without ",
+          "pages": [
+            14
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "6 \nleave of Court. If a timely response in opposition is not filed, the motion shall be \ndeemed to be unopposed. \n(4) Reply. An optional reply memorandum may be filed within seven (7) days after service \nof the response, and shall not exceed five (5) pages without leave of Court. \n(b) Action by Court. The Court may act on the motion prior to the time allowed for response. \nIn such event, the affected party may file a motion for relief from the Court’s ruling within \nfourteen (14) days after service of the order reflecting the action of the Judge. The \nprevailing party shall not respond to a motion for relief under this section unless the Court \norders a response. \n(c) Motions to Ascertain Status of Case. At any time, an attorney for any party or any pro \nse party may file a written motion inquiring as to the status of the case or to pending \nmotions. If expedited disposition is sought, the motion must include a detailed statement \nof the grounds warranting an expedited disposition of the case or motion. \n(d) Applicability to Rule 56 Motions. This rule does not apply to motions for summary \njudgment filed under Fed. R. Civ. P. 56, the procedures for which are governed by LR \n56.01. \n",
+          "pages": [
+            15
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "tnmd-civil-parsed-v1-9ea5870a79cced04",
+      "sourceDocumentId": "parsed-tnmd-9ea5870a79cced04",
+      "sourceUrl": "https://www.tnmd.uscourts.gov/sites/tnmd/files/2025.05.15%20TNMD%20Local%20Rules%20of%20Court%20-%202025%20amendments%20_0.pdf",
+      "pageIndex": 13,
+      "pageSpan": [
+        13,
+        15
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "tnmd-civil:7.02",
+      "collectionId": "tnmd-civil",
+      "districtId": "tnmd",
+      "number": "7.02",
+      "citation": "Middle District of Tennessee · Rule 7.02",
+      "title": "MANDATORY DISCLOSURE STATEMENTS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 7.02 – MANDATORY DISCLOSURE STATEMENTS \n(a) Corporate Affiliations and Financial Interests. Unless otherwise ordered by the Court, \nevery non-governmental business entity party, including intervenors, must file a Business \nEntity Disclosure Statement using the “Business Entity Disclosure Statement” form located \non the Court’s website, identifying all its parent, subsidiary, and other affiliate \ncorporations. A party must file the Business Entity Disclosure Statement as a separate \ndocument with its initial pleading, or other initial court filing, and must supplement the \nBusiness Entity Disclosure Statement within a reasonable time of any change in the \ninformation. \n(b) Parties or Intervenors in a Diversity Case. Unless otherwise ordered by the Court, any \nparty or intervenor required by Fed. R. Civ. P. 7.1(a)(2) to file a disclosure statement must \ndo so using the “Rule 7.1(a)(2) Disclosure Statement” form located on the Court’s website. \nA party must file the Rule 7.1(a)(2) Disclosure Statement as a separate document with its \ninitial pleading, or other initial court filing, and must supplement the Rule 7.1(a)(2) \nDisclosure Statement as required by Fed. R. Civ. P. 7.1(b)(2). \n",
+          "pages": [
+            15
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "tnmd-civil-parsed-v1-9ea5870a79cced04",
+      "sourceDocumentId": "parsed-tnmd-9ea5870a79cced04",
+      "sourceUrl": "https://www.tnmd.uscourts.gov/sites/tnmd/files/2025.05.15%20TNMD%20Local%20Rules%20of%20Court%20-%202025%20amendments%20_0.pdf",
+      "pageIndex": 15,
+      "pageSpan": [
+        15,
+        15
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "tnmd-civil:7.03",
+      "collectionId": "tnmd-civil",
+      "districtId": "tnmd",
+      "number": "7.03",
+      "citation": "Middle District of Tennessee · Rule 7.03",
+      "title": "GENERAL FORM OF PAPERS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 7.03 – GENERAL FORM OF PAPERS \n(a) Form. All pleadings, motions, briefs, and all other papers filed in CM/ECF or presented \nfor filing must be formatted to 8-1/2\" x 11\" paper, with one-inch margins and at least 12-\npoint font. If the filing is made in paper format, the filing must also be one sided. All \nmaterial, except headings, footnotes, and quoted material, must be double spaced. \nFootnotes must also be at least 12-point font but must be single-spaced. Documents \npresented to the Clerk for filing must be typed, printed, or prepared by a clearly legible \nduplicating process and all pages must be numbered at the bottom. The name of the District \nJudge and the Magistrate Judge must be placed below the case number on all filings \nsubsequent to the initial filing. All pleadings must be signed as required by Fed. R. Civ. P. ",
+          "pages": [
+            15
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "7 \n11, and names must be typed or printed beneath all signature lines. Page limitations are \nexclusive of case caption, signature line(s), and certificate of service. \n(b) Citations of Legal Authorities. Citations of legal authorities in any filing must conform \nto the following: \n(1) United States Supreme Court Decisions. Citations of United States Supreme Court \ndecisions shall be U.S. only, if therein, otherwise S.Ct. or L.Ed., in that order of \npreference. For recent or unreported decisions, Westlaw or Lexis citations are \nacceptable. \n(2) State Cases. Citations of reported state cases must include at least the official state \nreporter citation and the regional reporter citation where available. For recent or \nunreported decisions, Westlaw and Lexis citations are acceptable. \n(3) Federal and State Statutes. Citations of federal statutes must include at least the title \nand section designation as the statute appears in the United States Code. Citations of \nstate statutes must include at least the title and section designation as the statute appears \nin the state’s official code.\n(4) Unreported Decisions or Administrative Opinions. Citations of any unreported \nfederal or state court decisions or administrative opinions must include Westlaw or \nLexis citations. \n(5) Availability of Cited Authority. If a cited authority is not available in any reporter or \nlegal research database, a copy of the decision, order, statute, regulation, or other cited \nauthority must be appended as an exhibit to the memorandum of law. \n(c) Jury Demand. If demand for jury trial is made in the complaint or answer, the phrase \n\"JURY DEMAND\" must appear immediately opposite the style of the case on the first \npage of the pleading and all subsequent filings. \n(d) Exhibits and Attachments. All exhibits or attachments to filed documents must be filed \nelectronically, unless the Court permits filing in paper form. When uploading exhibits and \nattachments in CM/ECF, filers are required to select the appropriate document category \nand enter a brief description of each document. Failure to include the document description \nmay result in the issuance of a deficiency notice \n(e) Signatures. \n(1) Electronically filed documents shall set forth the filer’s name, address, telephone \nnumber, e-mail address, and, in the case of licensed attorneys, their Board of \nProfessional Responsibility registration number. \n(2) Only licensed attorneys may sign documents electronically. \n(3) Pro se parties may not sign documents electronically. Documents submitted by pro se\nparties must contain an original signature. \n(4) Documents requiring an original signature (e.g., affidavits, declarations, filings by pro \nse parties, etc.) shall be filed electronically by transmitting a scanned image of the \ndocument in PDF format. The filing party shall maintain the originally signed ",
+          "pages": [
+            16
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "8 \ndocument for one year after all time periods for all appeals expire. On request of the \nCourt, a filing party must provide the original document for review. \nLR 15.01 − MOTIONS TO AMEND PLEADINGS\n(a) Supporting Papers. A motion to amend a pleading must: \n(1) Describe the reasons supporting the proposed amendments and the substance of the \namendments sought, and include as an appended exhibit the signed proposed amended \npleading; and \n(2) In cases in which all parties are represented by counsel, state that counsel for the \nmoving party has conferred with all opposing counsel about the proposed amendment \nand whether or not the motion to amend is opposed. \n(b) Form of Amended Pleading. Amended pleadings must restate the entirety of the pleading \nwith amendments incorporated, rather than merely reciting the amended sections. \n",
+          "pages": [
+            17
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "tnmd-civil-parsed-v1-9ea5870a79cced04",
+      "sourceDocumentId": "parsed-tnmd-9ea5870a79cced04",
+      "sourceUrl": "https://www.tnmd.uscourts.gov/sites/tnmd/files/2025.05.15%20TNMD%20Local%20Rules%20of%20Court%20-%202025%20amendments%20_0.pdf",
+      "pageIndex": 15,
+      "pageSpan": [
+        15,
+        17
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "tnmd-civil:16.01",
+      "collectionId": "tnmd-civil",
+      "districtId": "tnmd",
+      "number": "16.01",
+      "citation": "Middle District of Tennessee · Rule 16.01",
+      "title": "CASE MANAGEMENT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 16.01 – CASE MANAGEMENT \n(a) Purpose of Case Management. The purpose of case management is to provide \nmandatory, court-supervised, case management tailored to the individual needs of each \ncase. Management of cases is primarily and ultimately the responsibility of the lawyers \nacting in the best interests of their clients. \n(b) Cases Subject to Mandatory Initial Case Management Conferences. \n(1) All civil cases not specifically exempted by section (c) of this Rule are subject to a \nmandatory initial case management conference and case management as determined \nappropriate by the Judge. \n(2) The Judge to whom a case is assigned may subject any of the exempted cases to case \nmanagement conferences and other case management by order or notice. \n(c) Cases Exempt from Mandatory Initial Case Management Conferences. \n(1) All actions in which one of the parties appears pro se; \n(2) All prisoner petitions filed under 42 U.S.C. § 1983, or under 28 U.S.C. § 2254 and § \n2255; \n(3) All actions for judicial review of administrative decisions of government agencies or \ninstrumentalities where the review is conducted on the basis of the administrative \nrecord, including without limitation, Social Security appeals; \n(4) Bankruptcy appeals filed pursuant to 28 U.S.C. § 158 and bankruptcy cases in which \nan Article III Judge is required to review proposed findings of fact and conclusions of \nlaw of the Bankruptcy Judge in non-core proceedings, under 28 U.S.C. § 157; provided, \nhowever, that cases withdrawn from Bankruptcy Court, pursuant to 28 U.S.C. § 157(d), \nare not exempted from the customized case management plan; \n(5) Proceedings for admission to citizenship or to cancel or revoke citizenship; \n(6) Proceedings to compel arbitration or to confirm or set aside arbitration awards; ",
+          "pages": [
+            17
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "9 \n(7) Proceedings to compel testimony or production of documents under a subpoena or \nsummons issued by an officer, agency or instrumentality of the United States not \nprovided with authority to compel compliance; \n(8) Proceedings to compel testimony or production of documents in this District in \nconnection with discovery or for the perpetuation of testimony for use in a matter \npending or contemplated in a United States District Court of another District; \n(9) Proceedings for the temporary enforcement of orders of the National Labor Relations \nBoard; \n(10) Any proceedings assigned a “miscellaneous case” number; and \n(11) Civil actions by Veterans Administration or other government agencies for \nrecovery of erroneously paid educational assistance. \n(d) Discretionary Exclusions from Case Management. Upon motion by any party, or sua \nsponte, the Court may exclude any case from an initial case management conference or \nother case management. The parties may not stipulate or agree to exclude a case from case \nmanagement without Court approval. \n(e) Notice of the Initial Case Management Conference. \n(1) At the time of filing of the complaint or notice of removal, the Clerk shall give notice \nof the date of the initial case management conference to the filing party. \n(2) The filing party (which in a removal case is the party removing the case) must serve \nthe notice of the initial case management conference on all other parties. \n(f) Preparation for and Attendance at Initial Case Management Conference. The parties \nare responsible for preparation for and attendance at the initial case management \nconference as directed in the notice of initial case management conference, and as \notherwise provided for in the applicable practice and procedures manual and/or sample \ninitial case management orders. If both the District Judge and the Magistrate Judge \nassigned to the case utilize a sample initial case management order, the parties must ensure \nthat the proposed initial case management order incorporates the provisions of both sample \norders. \n(g) Discovery Conference, Discovery Plan, and Stays of Discovery. In preparation of their \njoint proposed initial case management order, as directed by the notice of initial case \nmanagement conference, the parties must discuss, and if required by the Judge, provide in \nthe proposed initial case management order for, the matters addressed in Fed. R. Civ. P. \n26(f), including but not limited to matters related to e-discovery as outlined in \nAdministrative Order 174-1. Unless otherwise directed by the Judge, it shall not however \nbe necessary for the parties to file a discovery plan separate from their proposed initial case \nmanagement order. Discovery is not stayed, including during the pendency of dispositive \nmotions, unless specifically authorized by Fed. R. Civ. P. 26(d) or by order of the Court, \nor with regard to e-discovery, as outlined in Administrative Order 174-1. ",
+          "pages": [
+            18
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "10 \n(h) Dispositive Motions and Target Trial Dates. \n(1) Proposed deadlines for any dispositive motions must be sufficiently in advance of the \ntarget trial date to allow for briefing and resolution of the dispositive motions in \nadvance of trial. Absent court order, no dispositive motion deadline, including response \nand reply briefs, shall be later than ninety (90) days in advance of the target trial date. \n(2) If the Magistrate Judge is responsible for case management, the Magistrate Judge shall \nenter an order giving notice to the District Judge and the parties of the filing of a \ndispositive motion. \n(i) Non-dispositive Motions. The case management judge will rule on all matters not \nspecifically excepted from the coverage of 28 U.S.C. § 636(b)(1)(A). \n",
+          "pages": [
+            19
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "tnmd-civil-parsed-v1-9ea5870a79cced04",
+      "sourceDocumentId": "parsed-tnmd-9ea5870a79cced04",
+      "sourceUrl": "https://www.tnmd.uscourts.gov/sites/tnmd/files/2025.05.15%20TNMD%20Local%20Rules%20of%20Court%20-%202025%20amendments%20_0.pdf",
+      "pageIndex": 17,
+      "pageSpan": [
+        17,
+        19
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "tnmd-civil:16.02",
+      "collectionId": "tnmd-civil",
+      "districtId": "tnmd",
+      "number": "16.02",
+      "citation": "Middle District of Tennessee · Rule 16.02",
+      "title": "ADR",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 16.02 – ADR \n(a) Application and Purpose of Alternative Dispute Resolution (ADR). All cases filed in \nthis District are potentially subject to alternative dispute resolution. The Court encourages \nparties in civil cases to consider utilization of ADR. The purpose of alternative dispute \nresolution is to provide a mechanism by which settlements can be facilitated to avoid the \nexpense of protracted pretrial proceedings and of trial, and delay in adjudication. \n(b) Alternative Dispute Resolution Proceedings. \n(1) Court Referral. Upon motion of the parties or at the initiative of the Court, a Judge \nto whom the case is assigned may refer the case for mediation, a judicial settlement \nconference, or other nonbinding method of alternative dispute resolution provided by \nthe Court, with or without the consent of the parties. \n(2) By Agreement. The parties may also participate in mediation or other binding or non￾binding ADR by agreement without an order of referral. Even in that event, however, \nthe Court retains supervisory authority as provided in this rule. \n(c) Supervisory Power of the Court. Notwithstanding any provision of this Rule, the Judge \nto whom a civil action is assigned retains full authority to supervise every action that is \nsubject to this Rule consistent with Title 28 of the United States Code, the Federal Rules \nof Civil Procedure and Local Rules of Court. \n(d) Sanctions. To ensure compliance with these Rules, the Court may impose sanctions upon \nthe party or the party’s counsel, including but not limited to the payment of reasonable \nattorney fees, ADR panel member’s fees and costs incurred by the reason of the failure to \ncomply with these Rules; contempt; or any other lawful sanction. \n(e) Adherence to Schedule. Unless the case is settled at the conclusion of the referral to an \nADR proceeding, the action shall proceed toward final disposition in accordance with the \nschedule provided for in applicable orders of the Court. ",
+          "pages": [
+            19
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "11 \n",
+          "pages": [
+            20
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "tnmd-civil-parsed-v1-9ea5870a79cced04",
+      "sourceDocumentId": "parsed-tnmd-9ea5870a79cced04",
+      "sourceUrl": "https://www.tnmd.uscourts.gov/sites/tnmd/files/2025.05.15%20TNMD%20Local%20Rules%20of%20Court%20-%202025%20amendments%20_0.pdf",
+      "pageIndex": 19,
+      "pageSpan": [
+        19,
+        20
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "tnmd-civil:16.03",
+      "collectionId": "tnmd-civil",
+      "districtId": "tnmd",
+      "number": "16.03",
+      "citation": "Middle District of Tennessee · Rule 16.03",
+      "title": "ADR: DEFINITIONS, PROCEDURES AND ADMINISTRATION",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 16.03 – ADR: DEFINITIONS, PROCEDURES AND ADMINISTRATION \n(a) Definitions. As used in these Rules, the following terms are defined as follows: \n(1) “Judicial Settlement Conference” is ADR set by order of the Court in which a Judge of \nthe Court facilitates the parties’ effort to negotiate a settlement. \n(2) “Mediation” is an informal process in which a neutral mediator conducts discussions \namong the disputing parties to facilitate a mutually acceptable agreement among \nthemselves on all or any part of the issues in dispute. \n(b) Qualifications of ADR Panel Members. An attorney may be approved to serve as an \nADR panel member by order of the Court, if the attorney meets the following \nqualifications: \n(1) Is licensed to practice in the State of Tennessee, and admitted to practice before the \nUnited States District Court for the Middle District of Tennessee; \n(2) Has practiced law at least five years; \n(3) Has had formal training, including at least forty (40) hours of formal ADR training as \napproved by the Court and such additional training as may be provided by the Court; \n(4) Agrees to be available to conduct at least one (1) ADR proceeding per year without \ncompensation; \n(5) Commits to at least one (1) year of service on the ADR Panel; \n(6) Agrees to participate in the reporting and research requirements of the ADR program \nas they may be developed, except that no reporting or research requirement shall \nrequire an ADR panel member to divulge any confidential information; \n(7) Agrees to comply with the provisions of these Rules and any Standing Order that may \nbe entered in any division of this Court for the purpose of implementing this Rule; \n(8) Agrees to provide to the Court such biographical and other information as the Court \nmay require; and \n(9) Agrees to take the oath under 28 U.S.C. § 453 that is required of a judicial officer. \n(c) Selection of Non-Panel ADR Provider. Unless otherwise directed by the Court, the \nparties may select an ADR provider who is not an ADR panel member to provide an ADR \nservice for that case. Any lawyer who has been approved by a federal or state court of this \nstate, for service as a qualified ADR neutral shall be deemed a qualified neutral for ADR \nproceedings in this District. \n(d) List of ADR Panel Members. The Clerk shall maintain a list of court-approved panel \nmembers, which is available on the Court’s website. \n(e) Compensation of ADR Panel Members. All ADR Panel members shall be compensated \nat rates to be agreed upon by the parties and the ADR panel member or as set by the Court. \nCompensation for any panel member’s services shall be shared equally by the parties to \nthe ADR proceeding unless other arrangements are agreed to by the parties or are set by \nthe Court. ",
+          "pages": [
+            20
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "12 \n",
+          "pages": [
+            21
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "tnmd-civil-parsed-v1-9ea5870a79cced04",
+      "sourceDocumentId": "parsed-tnmd-9ea5870a79cced04",
+      "sourceUrl": "https://www.tnmd.uscourts.gov/sites/tnmd/files/2025.05.15%20TNMD%20Local%20Rules%20of%20Court%20-%202025%20amendments%20_0.pdf",
+      "pageIndex": 20,
+      "pageSpan": [
+        20,
+        21
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "tnmd-civil:16.04",
+      "collectionId": "tnmd-civil",
+      "districtId": "tnmd",
+      "number": "16.04",
+      "citation": "Middle District of Tennessee · Rule 16.04",
+      "title": "ADR: JUDICIAL SETTLEMENT CONFERENCES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 16.04 – ADR: JUDICIAL SETTLEMENT CONFERENCES \n(a) Settlement Judge. Settlement conferences will ordinarily be conducted by a Magistrate \nJudge other than the Judge to whom the case is assigned, except when requested and agreed \nupon by the parties that the Magistrate Judge to whom the case is assigned should handle \nthe settlement conference or the Magistrate Judge to whom the case is assigned deems it \nappropriate to preside over the settlement conference because of the exigencies of the case. \nAll district judges, magistrate judges, and bankruptcy judges are authorized to act as \nsettlement judges, mediators, or neutrals. \n(b) Scheduling Settlement Conferences. A Judge who is assigned to the case may schedule \na settlement conference as part of the case management order or as a result of discussions \nduring a case management conference, with or without the consent of any or all parties. A \nparty may file a motion requesting a settlement conference, if a settlement conference is \nnot otherwise provided in the case management order. \n",
+          "pages": [
+            21
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "tnmd-civil-parsed-v1-9ea5870a79cced04",
+      "sourceDocumentId": "parsed-tnmd-9ea5870a79cced04",
+      "sourceUrl": "https://www.tnmd.uscourts.gov/sites/tnmd/files/2025.05.15%20TNMD%20Local%20Rules%20of%20Court%20-%202025%20amendments%20_0.pdf",
+      "pageIndex": 21,
+      "pageSpan": [
+        21,
+        21
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "tnmd-civil:16.05",
+      "collectionId": "tnmd-civil",
+      "districtId": "tnmd",
+      "number": "16.05",
+      "citation": "Middle District of Tennessee · Rule 16.05",
+      "title": "ADR: MEDIATION",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 16.05 –ADR: MEDIATION \n(a) Mediation Procedures. After a case has been referred for mediation or the parties have \nagreed to mediation, the mediation shall be conducted according to procedures directed by \nthe mediator, or as directed by order of the Court. If the parties are unable to agree upon \nselection of a mediator, the Judge may designate a mediator or determine appropriate \nprocedures for selection. Failure of the parties to comply with the required mediation \nprocedures may result in sanctions. \n(b) Mediator’s Report. Within two (2) business days following the mediation, the mediator \nshall file a report on a form available on the Court’s website indicating: \n(1) The date on which the mediation occurred; \n(2) Whether all required parties were present; \n(3) Whether the case settled at the conclusion of the mediation; \n(4) Whether the mediation was continued with the consent of the parties; and \n(5) Whether the mediation was terminated without a settlement. \n",
+          "pages": [
+            21
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "tnmd-civil-parsed-v1-9ea5870a79cced04",
+      "sourceDocumentId": "parsed-tnmd-9ea5870a79cced04",
+      "sourceUrl": "https://www.tnmd.uscourts.gov/sites/tnmd/files/2025.05.15%20TNMD%20Local%20Rules%20of%20Court%20-%202025%20amendments%20_0.pdf",
+      "pageIndex": 21,
+      "pageSpan": [
+        21,
+        21
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "tnmd-civil:26.01",
+      "collectionId": "tnmd-civil",
+      "districtId": "tnmd",
+      "number": "26.01",
+      "citation": "Middle District of Tennessee · Rule 26.01",
+      "title": "EDITABLE COPY OF DISCOVERY REQUESTS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 26.01 – EDITABLE COPY OF DISCOVERY REQUESTS \nWhen written discovery is served on a party, counsel for the requesting party must provide a copy \nof the discovery requests to opposing counsel in an editable electronic format. This requirement \ndoes not apply to pro se parties. \n",
+          "pages": [
+            21
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "tnmd-civil-parsed-v1-9ea5870a79cced04",
+      "sourceDocumentId": "parsed-tnmd-9ea5870a79cced04",
+      "sourceUrl": "https://www.tnmd.uscourts.gov/sites/tnmd/files/2025.05.15%20TNMD%20Local%20Rules%20of%20Court%20-%202025%20amendments%20_0.pdf",
+      "pageIndex": 21,
+      "pageSpan": [
+        21,
+        21
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "tnmd-civil:33.01",
+      "collectionId": "tnmd-civil",
+      "districtId": "tnmd",
+      "number": "33.01",
+      "citation": "Middle District of Tennessee · Rule 33.01",
+      "title": "INTERROGATORIES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 33.01 – INTERROGATORIES \n(a) Answers. When responding to interrogatories, the responding party must, as a part of the \nresponse, set forth immediately preceding the response, the interrogatory with respect to \nwhich response is made. \n(b) Number of Interrogatories. Unless otherwise provided in a case management or other \norder, interrogatories pursuant to Fed. R. Civ. P. 33 shall be limited to twenty-five (25) \nsuch interrogatories. Subparts of a question shall be counted as additional questions for ",
+          "pages": [
+            21
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "13 \npurposes of the overall number. Leave of court must be obtained to submit interrogatories \nin excess of twenty-five (25) in number. The twenty-five (25) interrogatories may be \nsubmitted in successive sets as long as the aggregate number does not exceed twenty-five \n(25). Requests for leave must include copies or the text of such requested additional \ninterrogatories, along with a statement of counsel as to the necessity for such information, \nits relevance, or likelihood to lead to relevant information, and that it cannot be obtained \nfrom other sources. \n",
+          "pages": [
+            22
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "tnmd-civil-parsed-v1-9ea5870a79cced04",
+      "sourceDocumentId": "parsed-tnmd-9ea5870a79cced04",
+      "sourceUrl": "https://www.tnmd.uscourts.gov/sites/tnmd/files/2025.05.15%20TNMD%20Local%20Rules%20of%20Court%20-%202025%20amendments%20_0.pdf",
+      "pageIndex": 21,
+      "pageSpan": [
+        21,
+        22
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "tnmd-civil:37.01",
+      "collectionId": "tnmd-civil",
+      "districtId": "tnmd",
+      "number": "37.01",
+      "citation": "Middle District of Tennessee · Rule 37.01",
+      "title": "DISCOVERY MOTIONS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 37.01 – DISCOVERY MOTIONS \n(a) Good Faith Attempt at Resolution. Unless provided otherwise in a case management \norder or other order, before filing any motion to compel discovery, to quash a subpoena, \nor for a protective order, counsel for the parties must confer in good faith in an effort to \nresolve by agreement the issues raised. \n(b) Joint Statement. If the parties are not able to resolve the discovery issue, they must, in \nconnection with any request for a discovery conference or a discovery motion, file a joint \ndiscovery dispute statement: (1) detailing their attempt at resolution; (2) setting forth \nexactly what discovery is in dispute (either by including the text of the discovery requests \nand responses or by attachment as exhibits); and, (3) detailing the parties’ respective \npositions. This joint statement must be filed before any request for a telephonic discovery \nconference with the Judge is made, and must be attached to any filed discovery motion. \n",
+          "pages": [
+            22
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "tnmd-civil-parsed-v1-9ea5870a79cced04",
+      "sourceDocumentId": "parsed-tnmd-9ea5870a79cced04",
+      "sourceUrl": "https://www.tnmd.uscourts.gov/sites/tnmd/files/2025.05.15%20TNMD%20Local%20Rules%20of%20Court%20-%202025%20amendments%20_0.pdf",
+      "pageIndex": 22,
+      "pageSpan": [
+        22,
+        22
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "tnmd-civil:39.01",
+      "collectionId": "tnmd-civil",
+      "districtId": "tnmd",
+      "number": "39.01",
+      "citation": "Middle District of Tennessee · Rule 39.01",
+      "title": "TRIAL PROCEDURES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 39.01 – TRIAL PROCEDURES \n(a) Presence of Counsel. \n(1) Duty of Counsel. \n(A)Entry of an appearance or otherwise participating as counsel of record is a \nrepresentation that the attorney will be prepared to conduct the trial of the case, \nfrom which the attorney may only be relieved by approval of the Court. \n(B) In all jury cases, all counsel must be present at all portions and phases of trial \nincluding the time during which the jury is considering its verdict unless excused \nby the Court. \n(2) Presumed Present. Unless the contrary affirmatively appears of record, it will be \npresumed that the parties and their counsel are present at all stages of the trial, or if \nabsent, that their absence was voluntary and constituted a waiver of their presence. \n(3) Decorum. \n(A)Only one (1) attorney representing each interest in the litigation may examine or \ncross-examine an individual witness, and not more than two (2) attorneys for each \ninterest in the litigation may argue the merits of an action or proceeding, unless the \nCourt otherwise permits. \n(B) During court proceedings all attorneys must stand when speaking. All objections \nand comments thereon must be addressed to the Court. There shall be no colloquy \nbetween opposing counsel. ",
+          "pages": [
+            22
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-24",
+          "path": [],
+          "type": "paragraph",
+          "text": "14 \n(C)During court proceedings neither counsel nor parties may leave the courtroom \nwithout prior approval of the Court. \n(b) Presence of Parties. All parties, plaintiffs and defendants, must be present at any trial \nunless prior approval of the absence of a party is obtained from the Court. \n(c) Witnesses. \n(1) Witness List. At the beginning of the trial, counsel must deliver to the Courtroom \nDeputy Clerk a list in triplicate of all witnesses expected to testify in the case. In civil \ncases a copy of the list must also be furnished to opposing counsel. The list must contain \nan abbreviated statement of the connection of the witness to the litigation. \n(2) Background Information. When a witness takes the stand, the examining attorney \nmay read such background information as the attorney desires to give concerning the \nwitness and the connection of the witness to the litigation, and then solicit a response \nfrom the witness as to the correctness of the information read. The second question \nshould address the issues in litigation. \n(3) Approaching the Witness. During the testimony of a witness, the attorney may not \napproach the witness box without the Court’s approval. All documents and objects to \nbe shown to the witness shall be passed to the witness by the court officer. \n(4) Deposition Testimony. In jury cases, when a deposition is to be used at trial as the \nbasic testimony of a witness, all counsel offering the deposition must, at least fourteen \n(14) days prior to the trial date, unless directed otherwise by order of the Court, advise \nopposing counsel of those portions of the deposition to be read from a transcript, or \nplayed on video, to the jury. Such portions are to be designated by underlining or \notherwise marking on the deposition transcript, and if such designations are made on \nthe same copy of the deposition transcript by attorneys representing different interests \nin the litigation, contrasting colors shall be used. All repetitious and irrelevant questions \nand answers and all colloquies between counsel—including objections to questions, \ninstruction to the deponent, and all remarks—must be deleted. All objections to \nportions of the depositions thus prepared must be filed, along with any videos, no later \nthan seven (7) days before trial or as otherwise ordered by the Court. All such \nobjections must be accompanied by a statement certifying that all counsel have \nconferred in a good faith effort to resolve by agreement the objections and that counsel \nhave not been able to do so. If certain objections have been resolved by agreement, the \nstatement must specify the objections remaining unresolved. \n(5) Expert and Character Witnesses. \n(A) Limitation on Number of Experts. No more than three (3) witnesses may be \ncalled by any party in a case to give expert testimony as to any subject, or to \nimpeach or sustain the character of a witness, absent prior approval of the Court. \n(B) Stipulation to Qualification as Expert. To obviate the need for qualification of \nexpert witnesses at trial, opposing counsel must, when possible, stipulate prior to \ntrial that an individual who is to testify as an expert witness qualifies as an expert. ",
+          "pages": [
+            23
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "15 \n(C) Expert Disclosures and Supplementation. Expert witness disclosures must be \nmade timely in accordance with any order of the Court, or if none, in accordance \nwith Fed. R. Civ. P. 26(a)(2). Expert witness disclosure statements may not be \nsupplemented after the applicable disclosure deadline, absent leave of Court. \nExpert witnesses may not testify beyond the scope of their expert witness \ndisclosure statement. The Court may exclude the testimony of an expert witness, \nor order other sanctions provided by law, for violation of expert witness disclosure \nrequirements or deadlines. \n(D) Rebuttal Experts. No rebuttal expert witnesses shall be permitted at trial, absent \ntimely disclosure in accordance with these Rules and leave of Court. \n(E) Presentation of Expert Testimony at Trial. The court may require that the direct \ntestimony of an expert witness, other than a treating physician, be reduced to \nwriting and a copy thereof filed and served upon opposing counsel at least seven \n(7) days before trial or as otherwise provided by the Court. If so ordered, the \nfollowing procedures shall apply. Such written statement must contain every \nmaterial fact and opinion to which the witness would testify on direct examination \nif the witness were asked the appropriate questions. When the expert witness is \ncalled to testify at trial, the expert shall be sworn. After the expert witness is sworn \nand seated, the qualifications as an expert shall be recited by the attorney who has \ncalled the expert witness. Thereafter, the attorney may interrogate the witness as \nto the specific qualifications of expertise that have direct bearing on the subject \nmatter of the case. If objection to the witness’s qualifications is raised, the \nobjecting party may conduct a voir dire as to qualifications. Unless objection is \nraised to the qualifications of the witness as an expert, the witness shall then read \nthe written statement aloud to the trier of facts. During the reading of the statement, \nthe witness may refer to a mechanical device, drawing, chart, photograph, or other \nexhibit in order to explain the expert’s testimony. After the witness has read the \nprepared statement, the attorney who called the witness may ask additional \nquestions to further explain his opinion. However, the witness may not proffer any \nopinion not encompassed in the written statement. At the conclusion of the \nwitness’s direct examination in the manner described above, cross-examination \nand redirect will proceed as usual. \n(d) Exhibits. All documentary exhibits on the exhibit list must be prepared in a sufficient \nnumber of copies to provide one copy each for the witness, the Court, each opposing \ncounsel, and the examining attorney. The original exhibit shall be provided to the \nCourtroom Deputy Clerk. \n(e) Supplementation of Discovery Responses. Unless provided otherwise in a pretrial or \nother order, discovery responses must be supplemented no later than thirty (30) days before \ntrial. Failure to timely supplement precludes the proffer at trial of any evidence within the \nscope of the interrogatories or other responses that was not previously brought to the \nattention of opposing counsel, absent Court approval. A violation of this Rule, which \nexpands the duty to supplement imposed by Fed. R. Civ. P. 26(e), may also result in the \nimposition of other sanctions, including taxing of costs to the culpable party for any delays \ncaused. ",
+          "pages": [
+            24
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "16 \n(f) Subpoena of Trial Witnesses. Should an attorney deliver subpoenas for witnesses in civil \ncases to another individual for service, such subpoenas must be delivered along with an \nadvance of such funds as may be required, and otherwise in accordance with the Federal \nRules of Civil Procedure, at least fourteen (14) days prior to the trial date. If this \nrequirement has not been met, a motion for continuance grounded upon failure of a witness \nto be served or to appear will not be granted except upon a showing of extenuating \ncircumstances. \n(g) Jurors. \n(1) Interactions with Jurors. All attempts to curry favor with juries are unprofessional \nand disfavored. Suggestions of counsel regarding the comfort or convenience of jurors, \nincluding without limitation, propositions to dispense with argument or peremptory \nchallenges for the convenience of the jury, must be made to the Court out of the jury’s\nhearing. Before and during the trial, an attorney must avoid conversing or otherwise \ncommunicating with a juror on any subject, whether pertaining to the case or not, and \nmust not make any attempt to identify with any juror. \n(2) Post-Verdict Interview of Jurors. No attorney, party, or representative of either may \ninterview a juror after the verdict has been returned without prior approval of the Court. \nApproval of the Court may be sought only by counsel orally in open court, or upon \nwritten motion that states the grounds and the purpose of the interview. If a post- verdict \ninterview of one or more members of the jury is approved, the scope of the interview \nand other appropriate limitations upon the interview will be determined by the Judge \nprior to the interview. \n",
+          "pages": [
+            25
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "tnmd-civil-parsed-v1-9ea5870a79cced04",
+      "sourceDocumentId": "parsed-tnmd-9ea5870a79cced04",
+      "sourceUrl": "https://www.tnmd.uscourts.gov/sites/tnmd/files/2025.05.15%20TNMD%20Local%20Rules%20of%20Court%20-%202025%20amendments%20_0.pdf",
+      "pageIndex": 22,
+      "pageSpan": [
+        22,
+        25
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "tnmd-civil:41.01",
+      "collectionId": "tnmd-civil",
+      "districtId": "tnmd",
+      "number": "41.01",
+      "citation": "Middle District of Tennessee · Rule 41.01",
+      "title": "DISMISSAL OF INACTIVE CASES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 41.01 – DISMISSAL OF INACTIVE CASES \n(a) Dismissal for Unreasonable Delay. Civil suits that have been pending for an \nunreasonable period of time without any action having been taken by any party may be \nsummarily dismissed, but the dismissal shall be without prejudice to refile or to move the \nCourt to set aside the order of dismissal for just cause. \n(b) Dismissal for Failure of Pro Se Plaintiff to Keep Court Apprised of Current Address. \nA party proceeding pro se must keep the Court and opposing parties apprised of the pro se\nparty’s current address and other contact information, such as telephone number and email \naddress, if any. Failure of a pro se plaintiff to timely notify the Court and opposing parties \nof any change in address may result in dismissal of the action with or without prejudice. \n(c) Reinstatement. If any action dismissed under this rule is reinstated, the Court may impose \nsuch sanctions as are just and reasonable under the circumstances of the case. \nLR 45.01 − SUBPOENAS \n(a) Issuance of Subpoenas to Pro Se Parties. The Clerk shall issue subpoenas to pro se\nparties pursuant to Fed. R. Civ. P. 45 only upon written motion made and order entered by \nthe Court. ",
+          "pages": [
+            25
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "17 \n(b) Service of Subpoenas by United States Marshal. The United States Marshal will not \nserve subpoenas for witnesses in civil cases unless so required by these Rules, the Federal \nRules of Civil Procedure, or by order of the Court. \n(c) Deposition Subpoenas. A notice of deposition must be served under Fed. R. Civ. P. 30 \nprior to service of any subpoena of the deponent. \n(d) Timing of Subpoenas for Production of Documents. Whenever a party issues a \nsubpoena for the production of documents to a person not a party to the action pursuant to \nFed. R. Civ. P. 45, the party issuing the subpoena must serve a copy of the subpoena by \nfacsimile, electronically, or by hand delivery upon counsel for every other party to the \naction at least two (2) business days prior to service of the subpoena. Each party to the \naction in which such a subpoena is served shall have the right to inspect and copy \ndocuments produced pursuant to such a subpoena, absent an order of the Court to the \ncontrary. \n",
+          "pages": [
+            26
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "tnmd-civil-parsed-v1-9ea5870a79cced04",
+      "sourceDocumentId": "parsed-tnmd-9ea5870a79cced04",
+      "sourceUrl": "https://www.tnmd.uscourts.gov/sites/tnmd/files/2025.05.15%20TNMD%20Local%20Rules%20of%20Court%20-%202025%20amendments%20_0.pdf",
+      "pageIndex": 25,
+      "pageSpan": [
+        25,
+        26
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "tnmd-civil:54.01",
+      "collectionId": "tnmd-civil",
+      "districtId": "tnmd",
+      "number": "54.01",
+      "citation": "Middle District of Tennessee · Rule 54.01",
+      "title": "COSTS AND ATTORNEY’S FEES",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 54.01 – COSTS AND ATTORNEY’S FEES \n(a) Costs. If counsel for the litigants in a civil case are able to agree on costs, they need not \nfile a bill of costs with the Clerk. If counsel cannot agree, a bill of costs, with supporting \ndocumentation, must be filed by the prevailing party with the Clerk within thirty (30) days \nfrom the entry of the judgment in the case. A copy of said bill of costs must be served on \nopposing counsel. The filing of a bill of costs in the Court’s CM/ECF system and the \nsubsequent Notice of Electronic Filing (NEF) that is generated and emailed to case \nparticipants, or in the case of a paper filing the filing and service of a Bill of Costs by the \nfiler, shall constitute the commencement of the 14-day notice period required under Fed. \nR. Civ. P. 54(d)(1)for the taxation of costs by the Clerk. Upon expiration of the 14-day \nperiod, the Clerk shall tax costs as sought by the prevailing party unless an objection is \nfiled by the opposing party. If objections are filed within the 14-day period, the Clerk shall \nreview the objections and make a determination as to whether and in what amount the costs \nshould be taxed. Notice of the proposed taxation shall be provided by the Clerk and any \nexceptions to the proposed taxation must be filed within fourteen (14) days from the filing \nof the Notice of Taxation. Following consideration of the exceptions the Clerk shall issue \na Taxation of Costs assessing the costs. Any motion seeking court review of the Clerk’s\ntaxation must be filed within seven (7) days from the date of the filing of the Taxation of \nCosts by the Clerk. \n(b) Attorney’s Fees. \n(1) After Entry of District Court Judgment. Unless otherwise provided by statute or \norder of the Court, a motion for an award of attorney’s fees and related nontaxable \nexpenses must be filed within thirty (30) days from the District Court’s entry of final \njudgment in the case. \n(2) After Any Appeal. Unless otherwise provided by statute or order of the Court, a \nmotion for an award of attorney’s fees and related nontaxable expenses for appellate \nand Supreme Court litigation in the case must be made within thirty (30) days of the \nentry of the Sixth Circuit mandate and, if applicable, thirty (30) days from the denial \nof a petition for certiorari or other final decision of the Supreme Court. ",
+          "pages": [
+            26
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "18 \n(3) Social Security Appeals. \n(A)Any application for attorney’s fees under 28 U.S.C. § 2412(d)(1)(A) must be filed \nwithin thirty (30) days of the order of remand or reversal, and must be accompanied \nby the supporting documents described in this rule. \n(B) Any application for attorney’s fees under 42 U.S.C §406(b) must be filed within \nthirty (30) days after plaintiff's federal court attorney has received all of the Notices \nof Award that are necessary to calculate the total amount of retroactive benefits \npayable. An application submitted beyond the 30-day period will be considered \nonly upon a showing of good cause for the delay. In addition to the required \nsupporting documents described in this rule, a copy of the Notice(s) of Award must \naccompany any application for fees under this section. \n(c) Requirement for Supporting Documents; Deadline for Objections. A motion or \napplication for an award of attorney’s fees must be supported by a separately filed \nmemorandum of law as to the authority of the Court to make such an award, and as to why \nthe movant should be considered the “prevailing party,” if such is required for the award. \nThe motion must also be supported by an accompanying affidavit of counsel setting out in \ndetail the number of hours spent on each aspect of the case, the rate customarily charged \nby counsel for such work, the prevailing rate charged in the community for similar services, \nand any other factors that the Court should consider in making the award. The party or \nparties against whom the award is requested must file any objections within fourteen (14) \ndays of the filing of the motion. The objections must be accompanied by a memorandum \nsetting forth the objecting party’s contentions why the award is excessive, unwarranted, or \nunjust. Failure to file timely objections may be deemed to be no opposition to the requested \nfees. \n",
+          "pages": [
+            27
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "tnmd-civil-parsed-v1-9ea5870a79cced04",
+      "sourceDocumentId": "parsed-tnmd-9ea5870a79cced04",
+      "sourceUrl": "https://www.tnmd.uscourts.gov/sites/tnmd/files/2025.05.15%20TNMD%20Local%20Rules%20of%20Court%20-%202025%20amendments%20_0.pdf",
+      "pageIndex": 26,
+      "pageSpan": [
+        26,
+        27
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "tnmd-civil:55.01",
+      "collectionId": "tnmd-civil",
+      "districtId": "tnmd",
+      "number": "55.01",
+      "citation": "Middle District of Tennessee · Rule 55.01",
+      "title": "ENTRY OF DEFAULT AND DEFAULT JUDGMENT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 55.01 - ENTRY OF DEFAULT AND DEFAULT JUDGMENT \nObtaining a default judgment under Fed. R. Civ. P. 55 involves two steps: \n(1) Filing a motion for entry of default pursuant to Fed. R. Civ. P. 55(a). \n(2) After the Clerk enters default, filing a motion for default judgment pursuant to Fed. R. \nCiv. P. 55(b)(1) or 55(b)(2). \n(a) Entry of Default Pursuant to Fed. R. Civ. P. 55(a). A motion for entry of default must \nbe accompanied by an affidavit or unsworn declaration under penalty of perjury under 28 \nU.S.C. § 1746 verifying the following: \n(1) Proof of service. Provide details on how each alleged defaulting party was served \nunder Fed. R. Civ. P. 4, including the date of service and a citation to the record \nshowing that a proper return of service was filed. \n(2) Failure to plead or otherwise defend. State that the party has failed to plead or \notherwise defend as required by the rules. \n(3) Age and competency. If the party is an individual, state that the party is not a minor \nor incompetent person. \n(4) Military status. If the party is an individual, confirm that the individual is not in the ",
+          "pages": [
+            27
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "19 \nmilitary service, as required by 50 U.S.C. § 3931(b)(1). Attach documentation from the \nDefense Manpower Data Center or another reliable source to support this statement. \n(b) Default Judgment Pursuant to Fed. R. Civ. P. 55(b). Motions for default judgment \npursuant to Fed. R. Civ. P. 55(b) must: \n(1) Specify the applicable rule. Indicate whether the motion is brought under Fed. R. \nCiv. P. 55(b)(1) or Fed. R. Civ. P. 55(b)(2). \n(2) Include supporting evidence. Submit an affidavit or unsworn declaration under \npenalty of perjury, along with any relevant documentation, to support the requested \ndamages or relief. \n(3) Exclude requests for attorneys’ fees. Do not include requests for attorneys’ fees. \nSuch requests must made separately in accordance with LR 54.01. \nLR 56.01 − MOTIONS FOR SUMMARY JUDGMENT \n(a) Generally. Motions for summary judgment must be filed in accordance with the \nprovisions of Fed. R. Civ. P. 56, with the following additional requirements. \n(b) Memorandum of Law. The movant must file a memorandum of law as a separate docket \nentry using the “Memorandum in Support” event in CM/ECF. The memorandum must not \nbe uploaded as an attachment or exhibit to the motion. The memorandum shall not exceed \ntwenty-five (25) pages without leave of Court. \n(c) Statement of Undisputed Material Facts. \n(1) The movant must file a concise, non-argumentative statement of the alleged undisputed \nmaterial facts (not legal conclusions, arguments, or characterizations) that the movant \ncontends supports summary judgment. The statement must be docketed separately \nusing the “Statement of Facts” event in CM/ECF. \n(2) Each individual material fact must be numbered separately and must be supported by a \ncitation to materials permitted by Fed R. Civ. P. 56(c)(1). \n(3) The purpose of the statement of undisputed material facts is to identify for the Court \nthose facts that the movant contends require judgment as a matter of law. Legal \narguments, including as to materiality, must be made in the supporting memorandum, \nnot in the statement of undisputed material facts. \n(4) A copy of the statement of undisputed material facts must also be provided to opposing \ncounsel in an editable electronic format. \n(d) Response to Motion. Unless otherwise ordered by the Court, the respondent must respond \nto the motion for summary judgment within twenty-one (21) days of service of the motion \nwith a memorandum of law that shall not exceed twenty-five (25) pages without leave of \nCourt. \n(e) Response to Statement of Facts. The respondent must also respond to the movant’s\nstatement of undisputed material facts in a separately filed response. The response must be \ndocketed separately using the “Response to Statement of Facts” event in CM/ECF. ",
+          "pages": [
+            28
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "20 \n(1) The response to the statement of undisputed material facts must contain individually \nnumbered, concise, non-argumentative responses corresponding to each of the \nmovant’s numbered undisputed material facts by (A) agreeing that the fact is \nundisputed; (B) agreeing that the fact is undisputed for purposes of summary judgment \nonly; or, (C) disputing the fact on any basis permitted by Fed. R. Civ. P. 56(c). \n(2) Each numbered response must start with “Undisputed,” “Undisputed for Summary \nJudgment Purposes Only,” or “Disputed”. \n(3) If the respondent disputes a fact, the evidentiary citations supporting the respondent’s\nposition must be limited to evidence specific to that particular fact. \n(4) The respondent may state that a fact is not material, but stating that a fact is not material \nshall not excuse the respondent from stating whether the fact is disputed or undisputed. \n(5) Legal arguments, including as to materiality of any fact, must be made in the \nresponding memorandum, not in the response to the statement of undisputed material \nfacts. \n(f) Reply. Unless otherwise ordered by the Court, the movant may file an optional reply \nwithin fourteen (14) days of service of the response. The reply shall not exceed five (5) \npages without leave of Court. \n(g) Failure to Respond. If a timely response to a moving party’s statement of material facts \nis not filed within the time periods provided by these rules, the asserted facts shall be \ndeemed undisputed for purposes of summary judgment. \n(h) Cases with Pro Se Parties. The provisions of this rule, including the requirement that a \nstatement of undisputed material facts must be filed with any motion for summary \njudgment, apply in cases with a pro se party. However, pro se parties are excused from \nproviding a copy of the statement of undisputed material facts to opposing counsel in an \neditable electronic format. \n",
+          "pages": [
+            29
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "tnmd-civil-parsed-v1-9ea5870a79cced04",
+      "sourceDocumentId": "parsed-tnmd-9ea5870a79cced04",
+      "sourceUrl": "https://www.tnmd.uscourts.gov/sites/tnmd/files/2025.05.15%20TNMD%20Local%20Rules%20of%20Court%20-%202025%20amendments%20_0.pdf",
+      "pageIndex": 27,
+      "pageSpan": [
+        27,
+        29
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "tnmd-civil:65.01",
+      "collectionId": "tnmd-civil",
+      "districtId": "tnmd",
+      "number": "65.01",
+      "citation": "Middle District of Tennessee · Rule 65.01",
+      "title": "APPLICATIONS FOR TEMPORARY RESTRAINING ORDER",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 65.01 – APPLICATIONS FOR TEMPORARY RESTRAINING ORDER \n(a) Written Motion. Any request for a Temporary Restraining Order (TRO) must be made \nby written motion separate from the complaint commencing the case. \n(b) Written Complaint and Memorandum. Each motion for a TRO must be accompanied \nby a separately filed affidavit or verified written complaint, a memorandum of law, and a \nproposed order. \n(c) Fed. R. Civ. P. 65. A motion for a TRO must be made in strict compliance with Fed. R. \nCiv. P. 65. If the movant is not represented by counsel, the pro se moving party must certify \nin writing the efforts made to give notice of the request for a TRO and the reasons why \nnotice should not be required. \n(d) Request for a Hearing. If an emergency hearing is requested in connection with a motion \nfor a TRO, counsel for the moving party must contact the Clerk in advance of the filing of \nthe motion to request the scheduling of a hearing. \n(e) Disposition of Motion for TRO. A motion for a TRO is presented to the District Judge ",
+          "pages": [
+            29
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "21 \nassigned to the case if that Judge is available. If the assigned District Judge is not available, \nthe motion for a TRO may be disposed of by some Judge other than the Judge assigned to \nthe case. If the motion for a TRO is decided by a District Judge other than the Judge \nassigned to the case, the District Judge deciding the motion for a TRO may, in that Judge’s\ndiscretion, keep the case or return it to the assigned Judge for all further matters. \n",
+          "pages": [
+            30
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "tnmd-civil-parsed-v1-9ea5870a79cced04",
+      "sourceDocumentId": "parsed-tnmd-9ea5870a79cced04",
+      "sourceUrl": "https://www.tnmd.uscourts.gov/sites/tnmd/files/2025.05.15%20TNMD%20Local%20Rules%20of%20Court%20-%202025%20amendments%20_0.pdf",
+      "pageIndex": 29,
+      "pageSpan": [
+        29,
+        30
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "tnmd-civil:67.01",
+      "collectionId": "tnmd-civil",
+      "districtId": "tnmd",
+      "number": "67.01",
+      "citation": "Middle District of Tennessee · Rule 67.01",
+      "title": "DEPOSIT IN COURT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 67.01 – DEPOSIT IN COURT \n(a) Acceptance by Clerk. Except with respect to garnishments, litigation in which the United \nStates is a party, or matters on the Central Violations Bureau (“CVB”) docket (as provided \nfor in LCrR 58), the Clerk shall not, unless authorized by order of the Court, accept \npayment of judgments. \n(b) Certificate of Receipt of Judgment by Counsel. Counsel shall upon receipt of payment \nof a judgment, file a certificate of receipt of payment and satisfaction of judgment. \n(c) Deposit or Registry Fund Orders. All orders presented to the Court with reference to the \ndeposit or registry funds must contain the following provisions: \nIT IS ORDERED that counsel presenting this order serve a copy thereof on the \nClerk of this Court or his Chief Deputy personally. Absent the aforesaid service, \nthe Clerk is hereby relieved of personal liability relative to compliance with this \norder. \nIT IS FURTHER ORDERED that all funds received shall be deposited in the Court \nRegistry Investment System (CRIS) administered by the Administrative Office of \nthe United States Courts pursuant to 28 U.S.C. § 2045. \nIT IS FURTHER ORDERED that counsel designate the name and address of the \nindividual, or individuals, who are to receive the monies in the order of \ndisbursement of funds. Social Security numbers shall not be included in documents \nto be filed but shall be provided to the Clerk’s Office upon request. Corporations, \nassociations and all others will supply the employer identification number with the \ncorrect title and address upon request of the Clerk’s Office. \n",
+          "pages": [
+            30
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "tnmd-civil-parsed-v1-9ea5870a79cced04",
+      "sourceDocumentId": "parsed-tnmd-9ea5870a79cced04",
+      "sourceUrl": "https://www.tnmd.uscourts.gov/sites/tnmd/files/2025.05.15%20TNMD%20Local%20Rules%20of%20Court%20-%202025%20amendments%20_0.pdf",
+      "pageIndex": 30,
+      "pageSpan": [
+        30,
+        30
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "tnmd-civil:69.01",
+      "collectionId": "tnmd-civil",
+      "districtId": "tnmd",
+      "number": "69.01",
+      "citation": "Middle District of Tennessee · Rule 69.01",
+      "title": "EXECUTION OF JUDGMENTS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 69.01 – EXECUTION OF JUDGMENTS \n(a) Execution Forms. Judgment creditors must follow the instructions and use the forms for \nexecution of judgments found on the Court’s website under Forms – Execution Packet. \n(b) Garnishments. Garnishment procedure conforms with Tennessee state law. It shall be the \nduty of the United States Marshal serving the garnishment summons to obtain on the \nUnited States Marshal Form 285 an acknowledgement of service of the garnishment \nsummons signed by the employer garnishee, if a corporation, company or business entity. \nIf the employer garnishee or officer refuses to sign the Form 285, the Marshal shall sign \nand return to the Court a sworn statement on the Form 285 that the summons was duly \nserved but the employer garnishee refused to sign an acknowledgement of service. ",
+          "pages": [
+            30
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "22 \n",
+          "pages": [
+            31
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "tnmd-civil-parsed-v1-9ea5870a79cced04",
+      "sourceDocumentId": "parsed-tnmd-9ea5870a79cced04",
+      "sourceUrl": "https://www.tnmd.uscourts.gov/sites/tnmd/files/2025.05.15%20TNMD%20Local%20Rules%20of%20Court%20-%202025%20amendments%20_0.pdf",
+      "pageIndex": 30,
+      "pageSpan": [
+        30,
+        31
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "tnmd-civil:72.01",
+      "collectionId": "tnmd-civil",
+      "districtId": "tnmd",
+      "number": "72.01",
+      "citation": "Middle District of Tennessee · Rule 72.01",
+      "title": "MAGISTRATE JUDGES – NONDISPOSITIVE MATTERS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 72.01 – MAGISTRATE JUDGES – NONDISPOSITIVE MATTERS \n(a) Objections to Orders of Magistrate Judges on Nondispositive Matters. Objections to \ndecisions of Magistrate Judges on nondispositive matters in civil cases under Fed. R. Civ. \nP. 72(a) must be formatted and styled as a “Motion for Review of Nondispositive Order of \nMagistrate Judge.” Such motion must be in writing, must state with particularity that \nportion of the Magistrate Judge’s order for which review is sought, and must be \naccompanied by sufficient documentation including, affidavits, pertinent exhibits, and \ntranscripts of the record to apprise the District Judge of the bases for the objections. A \nseparately filed memorandum of law, not exceeding twenty-five (25) pages, must \naccompany the motion for review. \n(b) Response. Any response to the objections raised in the motion for review and \naccompanying memorandum of law must be filed within fourteen (14) days after service \nof the motion for review, and may not exceed twenty-five (25) pages. \n(c) Stay of Order. There shall be no stay of an order entered by a Magistrate Judge, absent a \nstay granted by the Magistrate Judge or the District Judge. \nLR 72.02 − MAGISTRATE JUDGES – DISPOSITIVE MATTERS \n(a) Objections to a Report and Recommendation of a Magistrate Judge. Objections to a \nreport and recommendation of a Magistrate Judge on a dispositive motion must be made \nwithin fourteen (14) days after service of the report and recommendation in accordance \nwith Fed. R. Civ. P. 72(b). Such objections must be written, must state with particularity \nthe specific portions of the Magistrate Judge’s report or proposed findings or \nrecommendations to which an objection is made, and must be accompanied by sufficient \ndocumentation including, but not limited to, affidavits, pertinent exhibits, and if necessary, \ntranscripts of the record to apprise the District Judge of the bases for the objections. A \nseparately filed supporting memorandum of law, not exceeding twenty-five (25) pages, \nmust accompany the objections. \n(b) Response. Any response to the objections must be filed within fourteen (14) days after \nservice of the objections, and may not exceed twenty-five (25) pages. \n",
+          "pages": [
+            31
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "tnmd-civil-parsed-v1-9ea5870a79cced04",
+      "sourceDocumentId": "parsed-tnmd-9ea5870a79cced04",
+      "sourceUrl": "https://www.tnmd.uscourts.gov/sites/tnmd/files/2025.05.15%20TNMD%20Local%20Rules%20of%20Court%20-%202025%20amendments%20_0.pdf",
+      "pageIndex": 31,
+      "pageSpan": [
+        31,
+        31
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "tnmd-civil:72.03",
+      "collectionId": "tnmd-civil",
+      "districtId": "tnmd",
+      "number": "72.03",
+      "citation": "Middle District of Tennessee · Rule 72.03",
+      "title": "WAIVER UNDER THIS RULE",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 72.03 – WAIVER UNDER THIS RULE \nFailure of a party to file a timely motion for review of non-dispositive matters or to timely object \nto a report and recommendation of a Magistrate Judge in dispositive matters may constitute a \nwaiver of any right to raise the matter in further proceedings. \n",
+          "pages": [
+            31
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "tnmd-civil-parsed-v1-9ea5870a79cced04",
+      "sourceDocumentId": "parsed-tnmd-9ea5870a79cced04",
+      "sourceUrl": "https://www.tnmd.uscourts.gov/sites/tnmd/files/2025.05.15%20TNMD%20Local%20Rules%20of%20Court%20-%202025%20amendments%20_0.pdf",
+      "pageIndex": 31,
+      "pageSpan": [
+        31,
+        31
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "tnmd-civil:72.04",
+      "collectionId": "tnmd-civil",
+      "districtId": "tnmd",
+      "number": "72.04",
+      "citation": "Middle District of Tennessee · Rule 72.04",
+      "title": "TRANSCRIPTION OF THE RECORD FOR PURPOSES OF REVIEW",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 72.04 – TRANSCRIPTION OF THE RECORD FOR PURPOSES OF REVIEW \nIf transcripts are necessary for a review under this rule, the moving party must, within fourteen \n(14) days from the service upon opposing counsel of the motion for review, arrange for the \ntranscription of so much of the record as the parties shall designate. The District Judge may direct \nany other portions of the record to be transcribed. ",
+          "pages": [
+            31
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "23 \n",
+          "pages": [
+            32
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "tnmd-civil-parsed-v1-9ea5870a79cced04",
+      "sourceDocumentId": "parsed-tnmd-9ea5870a79cced04",
+      "sourceUrl": "https://www.tnmd.uscourts.gov/sites/tnmd/files/2025.05.15%20TNMD%20Local%20Rules%20of%20Court%20-%202025%20amendments%20_0.pdf",
+      "pageIndex": 31,
+      "pageSpan": [
+        31,
+        32
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "tnmd-civil:73.01",
+      "collectionId": "tnmd-civil",
+      "districtId": "tnmd",
+      "number": "73.01",
+      "citation": "Middle District of Tennessee · Rule 73.01",
+      "title": "CONDUCT OF TRIALS AND DISPOSITION OF CIVIL CASES BY",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 73.01 – CONDUCT OF TRIALS AND DISPOSITION OF CIVIL CASES BY \nMAGISTRATE JUDGES UPON CONSENT OF THE PARTIES \n(a) Consent. Upon the consent of the parties and the entry of an order of transfer by a District \nJudge, Magistrate Judges are hereby specifically designated, pursuant to 28 U.S.C. § \n636(c), to conduct trials and otherwise dispose of any civil case that is filed in this Court. \nIf all parties consent to referral of the case to a Magistrate Judge, all parties should complete \nthe Notice, Consent, and Reference of a Civil Action to a Magistrate Judge form available \non the court’s website under the link to forms. The Notice form should be completed only \nif all parties consent, and one completed form should be filed via CM/ECF. After an order \nof reference is entered in a case, a Magistrate Judge may conduct any and all proceedings \nin the case, including the conduct of a jury or non-jury trial, and may order the entry of a \nfinal judgment in accordance with 28 U.S.C. § 636(c), and Fed. R. Civ. P. 73. In the course \nof conducting such proceedings, a Magistrate Judge may hear and determine any pre- trial \nand post-trial motions, including case-dispositive motions. \n(b) Vacating an Order of Reference. Once an order of reference has been entered, no party \nmay withdraw consent. An order of reference may be vacated by a District Judge upon the \nJudge’s own motion, for good cause shown, or upon motion of a party who can demonstrate \nextraordinary circumstances. \n(c) Additional Party After Reference. \n(1) In the event an additional party is brought in or joined in a civil action referred to a \nMagistrate Judge, the party bringing in or joining an additional party must additionally \ncause a copy of the consent form to be served on each additional party. Counsel for all \nparties must then confer and must file a new consent form, if all parties agree. The new \nform must be filed within thirty (30) days after the appearance of such additional party. \n(2) If the parties fail to timely file a form consenting to further proceedings before the \nMagistrate Judge, the Magistrate Judge shall return the case file to the referring District \nJudge for the entry of an order vacating the order of reference. If all parties consent to \nfurther proceedings before the Magistrate Judge, then the order of reference previously \nentered remains valid and binding without the necessity of entry of another order by \nthe District Judge. \n",
+          "pages": [
+            32
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "tnmd-civil-parsed-v1-9ea5870a79cced04",
+      "sourceDocumentId": "parsed-tnmd-9ea5870a79cced04",
+      "sourceUrl": "https://www.tnmd.uscourts.gov/sites/tnmd/files/2025.05.15%20TNMD%20Local%20Rules%20of%20Court%20-%202025%20amendments%20_0.pdf",
+      "pageIndex": 32,
+      "pageSpan": [
+        32,
+        32
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "tnmd-civil:77.01",
+      "collectionId": "tnmd-civil",
+      "districtId": "tnmd",
+      "number": "77.01",
+      "citation": "Middle District of Tennessee · Rule 77.01",
+      "title": "DIVISIONS OF COURT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 77.01 – DIVISIONS OF COURT \n(a) Three Divisions. The Middle District of Tennessee consists of three (3) divisions as set \nforth in 28 U.S.C. § 123. \n(b) Civil Cases. All civil cases shall be tried in the division where the case is filed unless the \nparties consent to trial in another division, with the Court’s approval. \n",
+          "pages": [
+            32
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "tnmd-civil-parsed-v1-9ea5870a79cced04",
+      "sourceDocumentId": "parsed-tnmd-9ea5870a79cced04",
+      "sourceUrl": "https://www.tnmd.uscourts.gov/sites/tnmd/files/2025.05.15%20TNMD%20Local%20Rules%20of%20Court%20-%202025%20amendments%20_0.pdf",
+      "pageIndex": 32,
+      "pageSpan": [
+        32,
+        32
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "tnmd-civil:77.02",
+      "collectionId": "tnmd-civil",
+      "districtId": "tnmd",
+      "number": "77.02",
+      "citation": "Middle District of Tennessee · Rule 77.02",
+      "title": "LEGAL ADVICE",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 77.02 – LEGAL ADVICE \nThe Clerk and the employees of the Clerk’s Office desire to be of help to litigants and attorneys. \nHowever, interpreting the rules of procedure and giving legal advice are not permitted functions. \nNotice is hereby given to litigants and attorneys that the Clerk and the Clerk’s employees assume ",
+          "pages": [
+            32
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "24 \nno responsibility for information respecting applicable procedural rules, substantive law, or \ninterpretation of Local Rules of Court. \n",
+          "pages": [
+            33
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "tnmd-civil-parsed-v1-9ea5870a79cced04",
+      "sourceDocumentId": "parsed-tnmd-9ea5870a79cced04",
+      "sourceUrl": "https://www.tnmd.uscourts.gov/sites/tnmd/files/2025.05.15%20TNMD%20Local%20Rules%20of%20Court%20-%202025%20amendments%20_0.pdf",
+      "pageIndex": 32,
+      "pageSpan": [
+        32,
+        33
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "tnmd-civil:78.01",
+      "collectionId": "tnmd-civil",
+      "districtId": "tnmd",
+      "number": "78.01",
+      "citation": "Middle District of Tennessee · Rule 78.01",
+      "title": "MOTION DAY",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 78.01 – MOTION DAY \nThere shall be no motion day. All motions must be in writing and will be decided by the Court \nwithout oral hearings unless otherwise ordered by the Court. \n",
+          "pages": [
+            33
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "tnmd-civil-parsed-v1-9ea5870a79cced04",
+      "sourceDocumentId": "parsed-tnmd-9ea5870a79cced04",
+      "sourceUrl": "https://www.tnmd.uscourts.gov/sites/tnmd/files/2025.05.15%20TNMD%20Local%20Rules%20of%20Court%20-%202025%20amendments%20_0.pdf",
+      "pageIndex": 33,
+      "pageSpan": [
+        33,
+        33
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "tnmd-civil:79.01",
+      "collectionId": "tnmd-civil",
+      "districtId": "tnmd",
+      "number": "79.01",
+      "citation": "Middle District of Tennessee · Rule 79.01",
+      "title": "RETRIEVAL OF EXHIBITS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 79.01 – RETRIEVAL OF EXHIBITS \nAfter final determination of any action, including all appeals, counsel or parties shall have thirty \n(30) days within which to retrieve exhibits. In the event the exhibits are not retrieved, the Clerk \nmay, without notice, destroy or otherwise dispose of the exhibits. \nLR 81.01 − BANKRUPTCY APPEALS – SUMMARY AFFIRMANCE \nFailure by an appellant to comply with the provisions of any of Rules 8009, 8010, or 8018 of the \nFederal Rules of Bankruptcy Procedure will result in summary affirmance of the decision of the \nBankruptcy Judge. (These are the bankruptcy rule numbers in effect as of the adoption of these \nLocal Rules. If the Bankruptcy Rules are renumbered, the references shall be to the new numbers.) \n",
+          "pages": [
+            33
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "tnmd-civil-parsed-v1-9ea5870a79cced04",
+      "sourceDocumentId": "parsed-tnmd-9ea5870a79cced04",
+      "sourceUrl": "https://www.tnmd.uscourts.gov/sites/tnmd/files/2025.05.15%20TNMD%20Local%20Rules%20of%20Court%20-%202025%20amendments%20_0.pdf",
+      "pageIndex": 33,
+      "pageSpan": [
+        33,
+        33
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "tnmd-civil:83.00",
+      "collectionId": "tnmd-civil",
+      "districtId": "tnmd",
+      "number": "83.00",
+      "citation": "Middle District of Tennessee · Rule 83.00",
+      "title": "RULES OF PROFESSIONAL CONDUCT",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 83.00 – RULES OF PROFESSIONAL CONDUCT \nLawyers who are admitted to practice in this Court, including admission pro hac vice, are bound \nby the Tennessee Rules of Professional Conduct (“TNRPC”), as may be amended. \n",
+          "pages": [
+            33
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "tnmd-civil-parsed-v1-9ea5870a79cced04",
+      "sourceDocumentId": "parsed-tnmd-9ea5870a79cced04",
+      "sourceUrl": "https://www.tnmd.uscourts.gov/sites/tnmd/files/2025.05.15%20TNMD%20Local%20Rules%20of%20Court%20-%202025%20amendments%20_0.pdf",
+      "pageIndex": 33,
+      "pageSpan": [
+        33,
+        33
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "tnmd-civil:83.01",
+      "collectionId": "tnmd-civil",
+      "districtId": "tnmd",
+      "number": "83.01",
+      "citation": "Middle District of Tennessee · Rule 83.01",
+      "title": "ATTORNEYS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 83.01 – ATTORNEYS \n(a) Eligibility and Procedure for Admission. \n(1) To be eligible for admission to the bar of this Court, an attorney must be a member in \ngood standing of the bar of the State of Tennessee, any other State or Territory of the \nUnited States, or the District of Columbia. If the applicant is not a member of the bar \nof Tennessee, the applicant must be a member in good standing of a United States \nDistrict Court or a United States appellate court. \n(2) Each applicant for admission to the bar must file with the Clerk a written application, \non the form provided by the Clerk, setting forth the information required by the \napplication, including the attorney’s residence and office addresses, general and legal \neducation, the other courts to which the attorney has been admitted to practice, and \nprior or pending criminal charges or disciplinary proceedings against the attorney. The \napplication must be signed by two members in good standing of the bar of this Court \nwho recommend the attorney’s admission. \n(3) The Clerk will examine the application and the accompanying recommendation, and, \nif in compliance with this rule, the application will then be presented to a Judge of this \nCourt. The applicant will make suitable arrangements thereafter with the Clerk for the \napplicant’s appearance and admission in open court or in chambers in accordance with \nthis rule. ",
+          "pages": [
+            33
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "25 \n(4) When an application is called, one of the members of the bar of this Court must move \nthe admission of the petitioner. \n(5) The applicant, after taking the required oath, must then sign the roll of attorneys and \nmust pay to the Clerk the prescribed enrollment fee. \n(6) Any attorney applying for admission to practice must be introduced to the Court, and \nadmitted to practice, within six (6) months from the date on which the attorney’s\napplication is approved. After that time, a new application, in accordance with this rule, \nmust be completed and approved before the attorney may be admitted. \n(7) Any attorney employed in the offices of the United States Attorney or the Federal \nPublic Defender for the Middle District of Tennessee who is admitted to the bar of any \nState or Territory of the United States or the District of Columbia may be admitted to \npractice in this Court and entered on the roll of the Court without the necessity of either \nan application for admission or payment of any admission fee. However, prior to entry \non the roll of the Court, the attorney must provide a certificate of admission or other \nconfirmation of admission to the bar of a State or Territory of the United States or the \nDistrict of Columbia. The fee waiver extended under this rule is effective only during \nthe attorney’s employment with the specified office. When an attorney admitted under \nthis section discontinues employment with the specified office, the attorney must pay \nthe fee for admission then in effect and be otherwise eligible to practice before the \nCourt to remain on the roll of the Court. \n(8) Law clerks in the employ of the United States Courts may be admitted to practice in \nthis Court through the normal application process if such law clerk is admitted to the \nbar of any State or Territory of the United States or the District of Columbia. The law \nclerk must provide with the application a certificate of admission or other confirmation \nof admission to the bar of a State or Territory of the United States or the District of \nColumbia. The admission fee is waived for law clerks in the employ of this Court, or \notherwise as the Chief District Judge may determine to be appropriate. \n(b) Admission Pro Hac Vice. Any member in good standing of the bar of any other District \nCourt of the United States who is not a resident of this District and who does not maintain \nan office in this District for the practice of law, may be permitted to appear and participate \nin a particular case in this Court subject to the following provisions: \n(1) No later than the first pleading filed in this Court, the attorney must certify the \nattorney’s good standing as a member of the bar of another United States District Court \nor a United States appellate court. In cases where an attorney enters an appearance \nsubsequent to the first pleading filed, the certification of good standing must be filed \nno later than the first filing upon which the attorney’s name appears. Certification of \ngood standing must be made by filing a certificate of good standing from a United \nStates District Court or a United States appellate court. The non-resident attorney will \nbe admitted to practice in a particular case on written motion made and order entered \nby the Court, after payment of the required fee. \n(2) The applicant attorney must state under oath whether disciplinary proceedings by any \ndisciplinary authority, a finding of contempt or a sanction under 28 U.S.C. § 1927 by ",
+          "pages": [
+            34
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "26 \nany court, or any criminal charges have been instituted against the attorney, and if so, \nmust disclose full information about the proceeding or charges and the outcome thereof. \n(3) When an attorney applies to be admitted or is admitted to this Court for purposes of a \nparticular proceeding (pro hac vice), the attorney is deemed thereby to have: \n(A)Acknowledged the attorney’s responsibility for compliance with all rules of this \nCourt; and \n(B) Conferred disciplinary jurisdiction upon this Court for any alleged misconduct of \nthat attorney arising in the course of the proceeding. In addition to visiting counsel, \nlocal counsel, if any, remains responsible to the Court at all stages of the \nproceedings. \n(4) All business entities must be represented by an attorney duly admitted or authorized to \npractice before this Court. \n(c) Disbarment and Discipline. \n(1) Except as provided below, any member of the bar of this Court may, for good cause \nshown, and after an opportunity to be heard has been given, be disbarred, suspended \nfrom practice for a definite time, reprimanded, or subjected to such other discipline as \nthe Court may deem proper. \n(2) Any attorney who is administratively suspended from the practice of law, for any \nreasons provided for in Rule 9, Section 30.3, of the Rules of the Supreme Court of the \nState of Tennessee, will be automatically suspended from the practice of law in this \nCourt, without the requirement of a separate order. The Clerk will also suspend the \nattorney’s CM/ECF filing privileges. To reinstate practice privileges in this Court, the \nattorney must notify the Clerk of Court that the attorney has been readmitted to practice \nby the Tennessee Supreme Court. The Clerk will then confirm the attorney’s status \nwith the Tennessee Board of Professional Responsibility. If verified as active, the Clerk \nwill reinstate the attorney’s practice and CM/ECF filing privileges in this Court without \nthe attorney’s reapplication for admission, unless there is another reason to deny the \nprivilege to practice before this Court. \n(3) Any attorney who is disbarred or suspended as a disciplinary sanction by the Tennessee \nSupreme Court under its rules, or by any regulatory authority or tribunal outside \nTennessee, or who is convicted of a crime involving fraud or dishonesty that attorney \nwill be automatically suspended from the practice of law in this Court without the \nrequirement of a separate order. The Clerk will also suspend the attorney’s CM/ECF \nfiling privileges. Any attorney who is disbarred or suspended as a disciplinary sanction \nby the Tennessee Supreme or by any regulatory authority or tribunal outside Tennessee \nor who is convicted of a crime involving fraud or dishonesty must immediately notify \nthis Court, independent of any disciplinary rules or orders that might otherwise apply \nto the attorney’s suspension or disbarment. To reinstate practice privileges, the attorney \nmust reapply for admission under the Court’s rules and procedures for admission to \npractice. In considering applications for readmission, this Court is not bound by the \ndecisions of the Tennessee Supreme Court, the Board of Professional Responsibility of \nthe Tennessee Supreme Court, or any other regulatory authority or tribunal, and in each ",
+          "pages": [
+            35
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-37",
+          "path": [],
+          "type": "paragraph",
+          "text": "27 \ncase this Court will make its own determination as to the attorney’s fitness to practice \nlaw in this Court. If the attorney is readmitted, the Clerk will reinstate the attorney’s\nCM/ECF filing privileges. \n(4) Any attorney who no longer has an active license to practice law, including because the \nlicense has been placed on inactive or disability status, will be automatically suspended \nfrom the practice of law in this Court, without the requirement of a separate order. The \nClerk will also suspend the attorney’s CM/ECF filing privileges. Any attorney whose \nlicense to practice is placed on inactive or disability status must immediately notify this \nCourt, independent of any disciplinary rules or orders that might otherwise apply to the \nattorney’s inactive status. To reinstate practice privileges in this Court, the attorney \nmust notify the Clerk of Court that the attorney has been readmitted to practice by the \nTennessee Supreme Court or other licensing tribunal. The Clerk will then confirm the \nattorney’s status with the Tennessee Board of Professional Responsibility or other \nregulatory tribunal. If verified as active, the Clerk will reinstate the attorney’s practice \nand CM/ECF filing privileges in this Court without the attorney’s reapplication for \nadmission, unless there is another reason to deny the privilege to practice before this \nCourt. \n(5) Except as otherwise provided by these Rules, any person who, before admission to the \nbar of this Court or during any disbarment or suspension proceedings, exercises in this \nCourt any of the privileges as a member of the bar of this Court, or pretends to be \nentitled to do so, is guilty of contempt and subject to appropriate punishment. \n(d) Local Co-Counsel in Civil Proceedings. \n(1) General Requirement. Unless counsel appearing on behalf of a party in a civil case \nis both a member of the Tennessee bar and admitted to the bar of this Court, local co￾counsel must be retained. \n(2) Exception for U.S. Government Attorneys. An attorney representing the United \nStates government or any department or agency thereof, or an attorney with the office \nof the Federal Public Defender, may appear and participate on behalf of a party without \nlocal co-counsel, provided the attorney is a member of the bar of a District Court of the \nUnited States and has been admitted pro hac vice in the case. \n(3) Notification of Tennessee Bar Status. Any attorney who is a member of the \nTennessee bar and admitted to practice in this Court but whose principal office is \noutside the state of Tennessee, must include in the signature line on all filings a notation \nthat they are a member of the Tennessee bar and provide their Tennessee Board of \nProfessional Responsibility number. \n(4) Non-Compliance. Any filings made on behalf of a party that fail to comply with this \nrule in retention of local counsel or notification of Tennessee bar status may be stricken \nor other penalties imposed by the Court, either upon motion or upon the Court’s own \ninitiative. \n(5) Discretion of Court. A Judge assigned to the case has discretion to require, upon \nnotice, that an attorney who resides outside the District designate as local counsel an \nattorney who is admitted to practice in this Court and maintains a law office in this ",
+          "pages": [
+            36
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-38",
+          "path": [],
+          "type": "paragraph",
+          "text": "28 \nDistrict, who shall be prepared to present and argue the party’s position at any hearing \nor status conference. \n(6) Responsibilities of Local Co-Counsel. Local counsel is equally responsible with pro \nhac vice counsel for all aspects of the case. \n(e) Appearance by Attorney. \n(1) Representation of Parties in Civil Cases. Any attorney representing a party in any \ncivil action must file a separate Notice of Appearance, except that an attorney who has \nsigned the original complaint, petition, or notice of removal is not required to file a \nNotice of Appearance. The Notice of Appearance must be filed by the attorney \npromptly upon undertaking the representation and before or contemporaneously with \nthe filing of any paper, other than a complaint, petition, or notice of removal, by such \nattorney. Each attorney who intends to participate in a case is responsible for ensuring \nthat attorney is reflected as counsel of record on the electronic case docket, which may \nrequire the filing of a Notice of Appearance if the attorney’s participation is not \nreflected as a result of any other filing. \n(2) Representation of Witnesses in Civil Actions. An attorney representing a witness in \nany civil action must file a separate Notice of Appearance with the Clerk of the Court. \nThe Notice must be filed by the attorney promptly upon undertaking the representation \nand prior to the attorney’s appearance on behalf of the witness client at any hearing. \nFor the purposes of this rule, an attorney shall be deemed to be appearing for and \nrepresenting a witness if the attorney is present within the courthouse and advising such \nwitness in connection with the witness’s testimony. \n(3) Action by Represented Party. Whenever an attorney has entered an appearance for \na party or individual, that party or individual may not thereafter appear or act in their \nown behalf in the action or proceeding. \n(4) Duty of Counsel. Entry of an appearance or otherwise participating as counsel of \nrecord is a representation that the attorney will be prepared to conduct the trial of the \ncase, from which the attorney may only be relieved by approval of the Court. \n(f) Notice of Tennessee Office Address. Any attorney who has an office address in \nTennessee but whose official mailing address is located outside Tennessee, must include \nthe Tennessee address as a physical location address in addition to the official mailing \naddress. \n(g) Withdrawal as Attorney of Record. Any attorney desiring to withdraw as the attorney \nof record for a party must file a motion to withdraw, which must set forth the reasons for \nthe withdrawal request and must certify that such attorney has given written notice to the \nclient of the attorney’s intention to withdraw from the case. A copy of the notice must be \nappended as an exhibit to the motion to withdraw. Such notice to the client must be given \nat least fourteen (14) days prior to the filing of the motion to withdraw. Ordinarily counsel \nwill not be allowed to withdraw if such withdrawal will delay trial or other pending matters \nin the case. If the party represented by the withdrawing attorney is still being represented \nby another attorney of record from the same law firm, the withdrawing attorney need only \nfile a Notice of Withdrawal. ",
+          "pages": [
+            37
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "29 \n(h) Substitution of Counsel. Any attorney substituting as counsel of record for a party must \npromptly file a motion for substitution of counsel. The substituting attorney’s signature on \nthe motion constitutes a certification that the substitution is made with the party’s consent \nand agreement. \n",
+          "pages": [
+            38
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "tnmd-civil-parsed-v1-9ea5870a79cced04",
+      "sourceDocumentId": "parsed-tnmd-9ea5870a79cced04",
+      "sourceUrl": "https://www.tnmd.uscourts.gov/sites/tnmd/files/2025.05.15%20TNMD%20Local%20Rules%20of%20Court%20-%202025%20amendments%20_0.pdf",
+      "pageIndex": 33,
+      "pageSpan": [
+        33,
+        38
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "tnmd-civil:83.02",
+      "collectionId": "tnmd-civil",
+      "districtId": "tnmd",
+      "number": "83.02",
+      "citation": "Middle District of Tennessee · Rule 83.02",
+      "title": "LAW STUDENT PRACTICE",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 83.02 – LAW STUDENT PRACTICE \nLaw students who are enrolled in a law school's legal clinic or an externship placement with a legal \naid organization or government entity through a law school externship program may be allowed \nto appear on behalf of an indigent person or a government entity under the direct supervision of an \nattorney admitted to practice in this Court and pursuant to the requirements of Administrative \nOrder 155-1. \nLR 83.03 − PHOTOGRAPHY, BROADCASTING, AND ELECTRONIC DEVICES \n(a) General Prohibition. \n(1) No photography, video or audio broadcasting (other than by General Services \nAdministration personnel, Federal Protective Services personnel and United States \nMarshals Service personnel), or video or audio recording (other than by Court \npersonnel) will be permitted on the floors of the courthouse occupied by the Court \n(including inside any petit jury room or grand jury room), or of any conference calls \nconducted by the Court, except by court order. This prohibition also includes \nphotography, video or audio broadcasting, and video or audio recording by remote \nmeans. \n(2) No electronic devices, including without limitation, cellular telephones, pagers, laptop \nor notebook computers, and tablets, will be allowed inside any petit jury room or grand \njury room. \n(3) Excluded from this provision are employees of the United States Courts, the United \nStates Probation Office, the Federal Public Defender’s Office, the United States \nAttorney’s Office, the United States Trustee’s Office, federal law enforcement officers, \nand Court Security Officers. \n(b) Electronic Devices. \n(1) All electronic devices, including without limitation, cellular telephones, pagers, laptop \nor notebook computers, and tablets, are subject to x-ray screening and any other visual \ninspection by designated security officers at the entrances to the federal building. \n(2) Electronic devices may not be used for photography, video or audio broadcasting, or \nvideo or audio recording on the floors of the courthouse occupied by the Court. \n(3) Electronic devices may be used in the courtroom by an attorney, and the attorney’s\nparalegals and assistants under the supervision of the attorney, if necessary to the \nproceeding, including without limitation, for presentation of evidence during the course \nof trial, provided that the attorney ensures that such device is not used for voice \ncommunication, is operated silently, is not used in any manner that will disrupt any \ncourtroom proceeding, and is not used to photograph, record, or broadcast any aspect ",
+          "pages": [
+            38
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-40",
+          "path": [],
+          "type": "paragraph",
+          "text": "30 \nof any proceeding. The presiding Judge retains authority and sole discretion to disallow \nuse of electronic devices at any time. \n(c) Proceedings Other Than Judicial Proceedings. Proceedings other than judicial \nproceedings, designed and conducted as ceremonies, such as administering oaths of office \nto appointed officials of the court, naturalization ceremonies, presentation of portraits and \nsimilar ceremonial occasions, may be photographed in, or broadcast, or televised from the \ncourtroom with the permission of the Court. \n(d) Enforcement. \n(1) The United States Marshal may take necessary steps to enforce this rule. \n(2) Each attorney of record in a case is responsible for notifying the attorney’s staff, client \nand any witnesses of the requirements of this rule and for reasonably ensuring \ncompliance with the rule. \n(3) Violations of this rule may result in the violator being required to remove the electronic \ndevice from the courthouse or confiscation of the device and the violator being reported \nto a judicial officer for appropriate action or other sanction. \nLR 83.04 − RELEASE OF INFORMATION CONCERNING CIVIL PROCEEDINGS \n(a) By Lawyers. To promote fairness and protect the integrity of the judicial process, lawyers’\nconduct in releasing information is subject to TNRPC 3.6, which lawyers are expected to \nthoroughly review. \n(b) By Courthouse Personnel. All court personnel and United States Marshals Service \nemployees and contractors are prohibited from disclosing to any person, without \nauthorization by the Court, information relating to a pending civil proceeding that is not \npart of the public record of the Court and from discussing with the public the merits of such \nproceeding while it is pending before the Court. This Rule specifically forbids the \ndivulging of information concerning arguments and hearings held in chambers or otherwise \noutside the presence of the public. \nLR 83.05 − COURT REPORTERS, AUDIO RECORDINGS, AND TRANSCRIPTS \n(a) Payment for Transcripts. Any attorney ordering a transcript of testimony or other court \nproceeding, whether for appeal or otherwise, is personally obligated for the payment of the \nfee to the court reporter for the transcription, as provided for in Administrative Order 27. \nHowever, this does not apply when the fees are to be paid by the United States of America \npursuant to legislative authority. The court reporter may require prepayment for a transcript \nordered by an attorney. \n(b) Certified Daily Transcripts - Notice Required. Any party requesting to obtain a certified \ndaily transcript of a court proceeding must provide notice to the Court at least fourteen (14) \ndays prior to the scheduled date of the proceeding. Notice must be provided by the filing \nof a Notice of Request for Certified Daily Transcript. The Clerk's office will notify the \nappropriate court reporter following the filing of such a notice and the party will then be \ncontacted by the court reporter to make arrangements for the production of the certified \ndaily transcript. ",
+          "pages": [
+            39
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-41",
+          "path": [],
+          "type": "paragraph",
+          "text": "31 \n(c) Audio Recordings. \n(1) Copies. Copies of audio recordings may be requested from the Clerk. The party \nrequesting the copy must comply with the Clerk’s procedures, including payment of \nany fees. \n(2) Transcripts. Any party requesting a transcript of an audio recording must contact the \nClerk, and comply with procedures set by the Clerk, including payment of any fees. \n(3) Judicial Discretion. Recording of telephonic conferences and other conferences is \nwithin the discretion of the assigned Judge. If an audio recording is made of a \ntelephonic or other conference, availability of a copy or transcript of that recording is \nwithin the discretion of the assigned Judge. \n",
+          "pages": [
+            40
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "tnmd-civil-parsed-v1-9ea5870a79cced04",
+      "sourceDocumentId": "parsed-tnmd-9ea5870a79cced04",
+      "sourceUrl": "https://www.tnmd.uscourts.gov/sites/tnmd/files/2025.05.15%20TNMD%20Local%20Rules%20of%20Court%20-%202025%20amendments%20_0.pdf",
+      "pageIndex": 38,
+      "pageSpan": [
+        38,
+        40
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "tnmd-civil:83.06",
+      "collectionId": "tnmd-civil",
+      "districtId": "tnmd",
+      "number": "83.06",
+      "citation": "Middle District of Tennessee · Rule 83.06",
+      "title": "PRODUCTION OF PRISONERS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-41",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 83.06 – PRODUCTION OF PRISONERS \nAll motions and orders to produce prisoners for testimony, must be filed with the Clerk at least \nfourteen (14) days prior to the date of the hearing. Relief from this rule may be obtained by an \norder of the Court. \n",
+          "pages": [
+            40
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "tnmd-civil-parsed-v1-9ea5870a79cced04",
+      "sourceDocumentId": "parsed-tnmd-9ea5870a79cced04",
+      "sourceUrl": "https://www.tnmd.uscourts.gov/sites/tnmd/files/2025.05.15%20TNMD%20Local%20Rules%20of%20Court%20-%202025%20amendments%20_0.pdf",
+      "pageIndex": 40,
+      "pageSpan": [
+        40,
+        40
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "tnmd-civil:83.07",
+      "collectionId": "tnmd-civil",
+      "districtId": "tnmd",
+      "number": "83.07",
+      "citation": "Middle District of Tennessee · Rule 83.07",
+      "title": "DESTRUCTION OF FILINGS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-41",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 83.07 – DESTRUCTION OF FILINGS \nUnless prohibited by order of the Court, all documents filed manually in a case, either as paper \ndocuments or on data storage devices, may be destroyed by the Clerk, without notice, any time \nafter thirty (30) days following final determination, including appeals. \n",
+          "pages": [
+            40
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "tnmd-civil-parsed-v1-9ea5870a79cced04",
+      "sourceDocumentId": "parsed-tnmd-9ea5870a79cced04",
+      "sourceUrl": "https://www.tnmd.uscourts.gov/sites/tnmd/files/2025.05.15%20TNMD%20Local%20Rules%20of%20Court%20-%202025%20amendments%20_0.pdf",
+      "pageIndex": 40,
+      "pageSpan": [
+        40,
+        40
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "tnmd-civil:83.08",
+      "collectionId": "tnmd-civil",
+      "districtId": "tnmd",
+      "number": "83.08",
+      "citation": "Middle District of Tennessee · Rule 83.08",
+      "title": "AMENDMENTS",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-41",
+          "path": [],
+          "type": "paragraph",
+          "text": "LR 83.08 – AMENDMENTS \nThese Rules may be amended, supplemented or deleted, in whole or in part, at any time by \nappropriate action. \n ",
+          "pages": [
+            40
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-42",
+          "path": [],
+          "type": "paragraph",
+          "text": "32 \nLOCAL CRIMINAL RULES \nLCrR 1.01 – LOCAL CRIMINAL RULES AND CM/ECF REGISTRATION. \n(a) Deviation from Local Rules. The Court may deviate from any provision of any Local \nRule, when appropriate for the needs of the case and the administration of justice. \n(b) Reference to Local Rules. These Local Criminal Rules of Court shall be referred to as \nthe “Local Criminal Rules” or as “LCrR”.\n(c) Practice Manuals and Sample Orders. For further guidance in construction and \napplication of these Local Rules, lawyers should consult the practice and procedures \nmanuals and sample orders available for each individual judge on the Court’s website. \n(d) References to Administrative Orders. References to Administrative Orders are by \nassigned order number as of the date of promulgation of these Rules, but shall refer to any \namended, superseding, or renumbered order. \n(e) CM/ECF Registration via Pacer. All attorneys practicing in the Middle District of \nTennessee, including those admitted pro hac vice and those authorized to represent the \nUnited States, must, absent good cause shown, register as Filing Users of the Electronic \nFiling System (CM/ECF) via Public Access to Court Electronic Records (PACER) and file \ntheir documents by electronic means. A document filed by electronic means constitutes a \nwritten paper for the purposes of the Local Rules, the Federal Rules of Civil Procedure, \nand the Federal Rules of Criminal Procedure. \nLCrR 2.01 – RELEASE OF INFORMATION CONCERNING CRIMINAL \nPROCEEDINGS \n(a) By Attorneys \n(1) Limitation of Extrajudicial Statements. A lawyer who is participating or has \nparticipated in the investigation or litigation of a matter either directly or indirectly \nmust not make an extrajudicial statement (other than a quotation from or reference to \npublic records) that the lawyer knows or reasonably should know will be disseminated \nby public communication, and will have a substantial likelihood of materially \nprejudicing an adjudicative proceeding in the matter, including especially that will \ninterfere with a fair trial. \n(2) Comments More Likely Than Not to Have a Material Prejudicial Effect Even if \nIncluded in the Public Record. A comment relating to the following matters is more \nlikely than not to have a material prejudicial effect on a proceeding, even if included in \nthe public record, and the burden is upon the person commenting upon such matters to \nshow that the comment did not pose such a threat: \n(A)Grand Jury and Pending Investigations. Any extrajudicial statement outside \nthe limitations under (a)(1), including the character, credibility, reputation, or \ncriminal record of a suspect in a criminal investigation except such statement \nas is necessary to inform the public that the investigation is underway, to \ndescribe the general scope of the investigation, to obtain assistance in the ",
+          "pages": [
+            41
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "tnmd-civil-parsed-v1-9ea5870a79cced04",
+      "sourceDocumentId": "parsed-tnmd-9ea5870a79cced04",
+      "sourceUrl": "https://www.tnmd.uscourts.gov/sites/tnmd/files/2025.05.15%20TNMD%20Local%20Rules%20of%20Court%20-%202025%20amendments%20_0.pdf",
+      "pageIndex": 40,
+      "pageSpan": [
+        40,
+        41
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    }
+  ],
+  "evidence": [
+    {
+      "number": "1.01",
+      "heading": "LR 1.01 – LOCAL RULES AND CM/ECF REGISTRATION",
+      "page": 11,
+      "offset": 18,
+      "slices": [
+        {
+          "page": 11,
+          "start": 18,
+          "end": 1407,
+          "sha256": "d21c48ef6576b263541e5b90d2d1983722225e21940013b469d2a78a0f649bb7"
+        }
+      ]
+    },
+    {
+      "number": "3.01",
+      "heading": "LR 3.01 – COMMENCING AN ACTION",
+      "page": 11,
+      "offset": 1407,
+      "slices": [
+        {
+          "page": 11,
+          "start": 1407,
+          "end": 3000,
+          "sha256": "0c4b28075eba4789e1c043bb431292726ff3568b198962805702e0f2a5d9c51e"
+        },
+        {
+          "page": 12,
+          "start": 0,
+          "end": 376,
+          "sha256": "a043afdb6e39cffe3f27a68d9055cbb0ac5bc2bb93320090b5d6a48048aa8816"
+        }
+      ]
+    },
+    {
+      "number": "3.02",
+      "heading": "LR 3.02 – FILING FEES",
+      "page": 12,
+      "offset": 376,
+      "slices": [
+        {
+          "page": 12,
+          "start": 376,
+          "end": 1781,
+          "sha256": "42d4ab2c1492abdedc24839c74982c37a2ed81f106e7e1eef6b629f98c0137d2"
+        }
+      ]
+    },
+    {
+      "number": "3.03",
+      "heading": "LR 3.03 – CIVIL COVER SHEET",
+      "page": 12,
+      "offset": 1781,
+      "slices": [
+        {
+          "page": 12,
+          "start": 1781,
+          "end": 2048,
+          "sha256": "06293dcbda7ac98f725ceb64b7a7f754dd6fb446eafaaac21b3981bf72a67797"
+        }
+      ]
+    },
+    {
+      "number": "4.01",
+      "heading": "LR 4.01 – SUMMONS AND SERVICE OF PROCESS",
+      "page": 12,
+      "offset": 2048,
+      "slices": [
+        {
+          "page": 12,
+          "start": 2048,
+          "end": 2976,
+          "sha256": "f9de3306ab33095d0ebf74362acb695f2efbdc704b6cea6941cfa3bbc1daf356"
+        },
+        {
+          "page": 13,
+          "start": 0,
+          "end": 1144,
+          "sha256": "0c4979fde12a59368ff0174dccc5ac71b6d65498150977fa0ce1067c28379eaf"
+        }
+      ]
+    },
+    {
+      "number": "5.01",
+      "heading": "LR 5.01 – CERTIFICATE OF SERVICE",
+      "page": 13,
+      "offset": 1144,
+      "slices": [
+        {
+          "page": 13,
+          "start": 1144,
+          "end": 1392,
+          "sha256": "cd82cc3e69981870bcf6dc9b024c58890ee5445e6adc07a121d8bfefeb49545e"
+        }
+      ]
+    },
+    {
+      "number": "5.02",
+      "heading": "LR 5.02 – ELECTRONIC FILING AND SERVICE",
+      "page": 13,
+      "offset": 1392,
+      "slices": [
+        {
+          "page": 13,
+          "start": 1392,
+          "end": 3154,
+          "sha256": "f786cc7b7493e4218942962c5f8a8e241fddc11135c7eebab2420ad1aa975be5"
+        },
+        {
+          "page": 14,
+          "start": 0,
+          "end": 344,
+          "sha256": "07b237fcba2f1ba89aa424091b1553d03242fd07d0a6085652dae50223c0dfe5"
+        }
+      ]
+    },
+    {
+      "number": "7.01",
+      "heading": "LR 7.01.",
+      "page": 14,
+      "offset": 344,
+      "slices": [
+        {
+          "page": 14,
+          "start": 344,
+          "end": 3020,
+          "sha256": "8d6bf5e096a0660004eecdd30e8e8971f1a229effc1a35a8b3df022cfb01edb6"
+        },
+        {
+          "page": 15,
+          "start": 0,
+          "end": 2828,
+          "sha256": "792a0799b69af96ea6bd4f4a4d09b5228fd351ca332cf154e40b3e60d376a63f"
+        },
+        {
+          "page": 16,
+          "start": 0,
+          "end": 1201,
+          "sha256": "c95499b496031e39a550c3439585a7a628a673da9898dae2cb7129a0da105373"
+        }
+      ]
+    },
+    {
+      "number": "7.02",
+      "heading": "LR 7.02 – MANDATORY DISCLOSURE STATEMENTS",
+      "page": 16,
+      "offset": 1201,
+      "slices": [
+        {
+          "page": 16,
+          "start": 1201,
+          "end": 2404,
+          "sha256": "ddf259fa2c80ff54e9f4b639da3373ca0cd176322cb41e46449a5291296aab97"
+        }
+      ]
+    },
+    {
+      "number": "7.03",
+      "heading": "LR 7.03 – GENERAL FORM OF PAPERS",
+      "page": 16,
+      "offset": 2404,
+      "slices": [
+        {
+          "page": 16,
+          "start": 2404,
+          "end": 3242,
+          "sha256": "6e4932b72f4a8b6a8e80e42ba016537f376b05006518a794aa9655d5a49c5fc0"
+        },
+        {
+          "page": 17,
+          "start": 0,
+          "end": 2873,
+          "sha256": "d13728c73ff220b0292e070d596ff0e6fe4528a2ab9ce0d889243ad34f5fd411"
+        },
+        {
+          "page": 18,
+          "start": 0,
+          "end": 839,
+          "sha256": "e28d6f2e17d09094fe780e91769328c0a6bfb8eebe475a72ac6e6087ae63e596"
+        }
+      ]
+    },
+    {
+      "number": "16.01",
+      "heading": "LR 16.01 – CASE MANAGEMENT",
+      "page": 18,
+      "offset": 839,
+      "slices": [
+        {
+          "page": 18,
+          "start": 839,
+          "end": 2639,
+          "sha256": "704463399fca3202daf1c6a4863d358626dc0a4a2914e32ae045797b12c31c0d"
+        },
+        {
+          "page": 19,
+          "start": 0,
+          "end": 2957,
+          "sha256": "61f1c277b65c83089c90ffc7c63e2b62eec71790a29fb8c95bcc020f297b32d2"
+        },
+        {
+          "page": 20,
+          "start": 0,
+          "end": 768,
+          "sha256": "d6c6cffc0296beabcf17d523d6c21d73c94db45c83476408c2a7bf0274787b7e"
+        }
+      ]
+    },
+    {
+      "number": "16.02",
+      "heading": "LR 16.02 – ADR",
+      "page": 20,
+      "offset": 768,
+      "slices": [
+        {
+          "page": 20,
+          "start": 768,
+          "end": 2745,
+          "sha256": "392865fe1496c91a159cebbcfd1f300fa5ea1ad651a0940c6a8c97b356488c67"
+        },
+        {
+          "page": 21,
+          "start": 0,
+          "end": 4,
+          "sha256": "4da687c957f9439cc7d1b71dcac54e1e573e90f5502e2329df59cdaaaa3ccdd0"
+        }
+      ]
+    },
+    {
+      "number": "16.03",
+      "heading": "LR 16.03 – ADR: DEFINITIONS, PROCEDURES AND ADMINISTRATION",
+      "page": 21,
+      "offset": 4,
+      "slices": [
+        {
+          "page": 21,
+          "start": 4,
+          "end": 2771,
+          "sha256": "c3df3bb111e75ab94fe6fe132d9aab316d3948f9eda53b101680c21746870d50"
+        },
+        {
+          "page": 22,
+          "start": 0,
+          "end": 4,
+          "sha256": "6cd5dd763dec7b2089cd9b59bd11e23e63438ce9bb2512433b0cca3dd441dfff"
+        }
+      ]
+    },
+    {
+      "number": "16.04",
+      "heading": "LR 16.04 – ADR: JUDICIAL SETTLEMENT CONFERENCES",
+      "page": 22,
+      "offset": 4,
+      "slices": [
+        {
+          "page": 22,
+          "start": 4,
+          "end": 1057,
+          "sha256": "c15cc7a315e7ecf6fe58b97940ac9668433fcd272eb1280468c60743d1ac0884"
+        }
+      ]
+    },
+    {
+      "number": "16.05",
+      "heading": "LR 16.05 –ADR: MEDIATION",
+      "page": 22,
+      "offset": 1057,
+      "slices": [
+        {
+          "page": 22,
+          "start": 1057,
+          "end": 2040,
+          "sha256": "bc6dd779d51bfbc407e4d2d8d62d77328bfdf641f40e216aa4436b1be37565b4"
+        }
+      ]
+    },
+    {
+      "number": "26.01",
+      "heading": "LR 26.01 – EDITABLE COPY OF DISCOVERY REQUESTS",
+      "page": 22,
+      "offset": 2040,
+      "slices": [
+        {
+          "page": 22,
+          "start": 2040,
+          "end": 2320,
+          "sha256": "49ab82eba7a90134622d3ab79bdfc52dc7c1471bd55bdb12dab4d4430809d0d4"
+        }
+      ]
+    },
+    {
+      "number": "33.01",
+      "heading": "LR 33.01 – INTERROGATORIES",
+      "page": 22,
+      "offset": 2320,
+      "slices": [
+        {
+          "page": 22,
+          "start": 2320,
+          "end": 2828,
+          "sha256": "afd8961ec6ed197dd2d71646e3907ab83a130794ba7785e32f2279f2dbbcd63f"
+        },
+        {
+          "page": 23,
+          "start": 0,
+          "end": 567,
+          "sha256": "4d269dacba057322c8a99f0ed93d618727f0f8d4ef1911e1e402f49b2a99e404"
+        }
+      ]
+    },
+    {
+      "number": "37.01",
+      "heading": "LR 37.01 – DISCOVERY MOTIONS",
+      "page": 23,
+      "offset": 567,
+      "slices": [
+        {
+          "page": 23,
+          "start": 567,
+          "end": 1551,
+          "sha256": "c0e1dd8dad6d28e13deba8e7b02c67e5b87b8acec82d686a906855bd2f041347"
+        }
+      ]
+    },
+    {
+      "number": "39.01",
+      "heading": "LR 39.01 – TRIAL PROCEDURES",
+      "page": 23,
+      "offset": 1551,
+      "slices": [
+        {
+          "page": 23,
+          "start": 1551,
+          "end": 2805,
+          "sha256": "b7253074c9e03daa139c20b90fb399ac2d0add73df5a30e87ac6b55e3fc4a8e0"
+        },
+        {
+          "page": 24,
+          "start": 0,
+          "end": 3207,
+          "sha256": "c5411ef1820db8598d3252ca1cab4803f1f2344f69626923ba379c489e25f6a6"
+        },
+        {
+          "page": 25,
+          "start": 0,
+          "end": 3459,
+          "sha256": "32047374b689201b111ba951fb86812da5e1edf4b30e192d4517db528a7d4330"
+        },
+        {
+          "page": 26,
+          "start": 0,
+          "end": 1701,
+          "sha256": "3654e3b78d2927c19be7dd44b506ecb439cad759ff78255da85b4812e148d8b6"
+        }
+      ]
+    },
+    {
+      "number": "41.01",
+      "heading": "LR 41.01 – DISMISSAL OF INACTIVE CASES",
+      "page": 26,
+      "offset": 1701,
+      "slices": [
+        {
+          "page": 26,
+          "start": 1701,
+          "end": 2904,
+          "sha256": "6bdaa4799be25e51cb45aede2be88fe96cc9875c3bdf0a66aa63371ce6215f63"
+        },
+        {
+          "page": 27,
+          "start": 0,
+          "end": 1000,
+          "sha256": "d478135e3e29043d408402e978ee580daf6820683378e9a68bc563d54056a2e8"
+        }
+      ]
+    },
+    {
+      "number": "54.01",
+      "heading": "LR 54.01 – COSTS AND ATTORNEY’S FEES",
+      "page": 27,
+      "offset": 1000,
+      "slices": [
+        {
+          "page": 27,
+          "start": 1000,
+          "end": 3345,
+          "sha256": "5bab25401c2ceb1532959dbcae03ab5cf0e7d2605e9d286d103c07f43d1ebd98"
+        },
+        {
+          "page": 28,
+          "start": 0,
+          "end": 1894,
+          "sha256": "b1568e37d05c2d61dbd0d895911889c4f0d06756c2315fd24d6ea8faea7df7a4"
+        }
+      ]
+    },
+    {
+      "number": "55.01",
+      "heading": "LR 55.01 - ENTRY OF DEFAULT AND DEFAULT JUDGMENT",
+      "page": 28,
+      "offset": 1894,
+      "slices": [
+        {
+          "page": 28,
+          "start": 1894,
+          "end": 3007,
+          "sha256": "c49016f5b94bc30d4ce28ece70ef43dc765176cf86db838054fb5e406587eac2"
+        },
+        {
+          "page": 29,
+          "start": 0,
+          "end": 2767,
+          "sha256": "8416329f179f1d7eb406cbe07021e98169bc0b08b1fa26a63c13e1a7861bbacc"
+        },
+        {
+          "page": 30,
+          "start": 0,
+          "end": 1903,
+          "sha256": "bc64364fc70ce43e0620bcf4c949f9f7f81c49cee14e86e7267c121f9ca68057"
+        }
+      ]
+    },
+    {
+      "number": "65.01",
+      "heading": "LR 65.01 – APPLICATIONS FOR TEMPORARY RESTRAINING ORDER",
+      "page": 30,
+      "offset": 1903,
+      "slices": [
+        {
+          "page": 30,
+          "start": 1903,
+          "end": 2936,
+          "sha256": "9fe2b5f0d3fcd71548a53d825da960530760f195d514d345d9009f422e5721b9"
+        },
+        {
+          "page": 31,
+          "start": 0,
+          "end": 457,
+          "sha256": "2aecf5faa55fd16482ed6241cec9c2d703de77f8e4c1b1f78b950c39ea8b95ce"
+        }
+      ]
+    },
+    {
+      "number": "67.01",
+      "heading": "LR 67.01 – DEPOSIT IN COURT",
+      "page": 31,
+      "offset": 457,
+      "slices": [
+        {
+          "page": 31,
+          "start": 457,
+          "end": 2053,
+          "sha256": "9fe90293fa09c96f64f1f0521d901a742416c5000a97d60554bc757d096f5a8d"
+        }
+      ]
+    },
+    {
+      "number": "69.01",
+      "heading": "LR 69.01 – EXECUTION OF JUDGMENTS",
+      "page": 31,
+      "offset": 2053,
+      "slices": [
+        {
+          "page": 31,
+          "start": 2053,
+          "end": 2868,
+          "sha256": "9b460a3e9247da8f5d55c90e4c8d8fc5e97143888b7d947e65fa8fd9f6d77a85"
+        },
+        {
+          "page": 32,
+          "start": 0,
+          "end": 4,
+          "sha256": "7427c8c51d73d35c52c0e876fcc4dbd3b6ffd34a049561f83496edce8d8454e5"
+        }
+      ]
+    },
+    {
+      "number": "72.01",
+      "heading": "LR 72.01 – MAGISTRATE JUDGES – NONDISPOSITIVE MATTERS",
+      "page": 32,
+      "offset": 4,
+      "slices": [
+        {
+          "page": 32,
+          "start": 4,
+          "end": 2224,
+          "sha256": "2381cffaade5683667b9760efeffc61f69f3e4213d44eed1d745d401afbdca7e"
+        }
+      ]
+    },
+    {
+      "number": "72.03",
+      "heading": "LR 72.03 – WAIVER UNDER THIS RULE",
+      "page": 32,
+      "offset": 2224,
+      "slices": [
+        {
+          "page": 32,
+          "start": 2224,
+          "end": 2520,
+          "sha256": "ff0d9df9929a53ec8bc162099b22a47455649571c82702f1fcb59753e569f5d3"
+        }
+      ]
+    },
+    {
+      "number": "72.04",
+      "heading": "LR 72.04 – TRANSCRIPTION OF THE RECORD FOR PURPOSES OF REVIEW",
+      "page": 32,
+      "offset": 2520,
+      "slices": [
+        {
+          "page": 32,
+          "start": 2520,
+          "end": 2928,
+          "sha256": "63c560c913cacab605c521c4a92b0d1a205546456e126b346ad97d36933862b4"
+        },
+        {
+          "page": 33,
+          "start": 0,
+          "end": 4,
+          "sha256": "559dd0a129926e0ed17e2f453e12e9fa50483c4f312ba7f567ba37fc0e46caa7"
+        }
+      ]
+    },
+    {
+      "number": "73.01",
+      "heading": "LR 73.01 – CONDUCT OF TRIALS AND DISPOSITION OF CIVIL CASES BY",
+      "page": 33,
+      "offset": 4,
+      "slices": [
+        {
+          "page": 33,
+          "start": 4,
+          "end": 2460,
+          "sha256": "d4da4e5bf85ca5eb8c66e2c1489fd4dcaa84f11780eb0479eca1625c3bb9fc4d"
+        }
+      ]
+    },
+    {
+      "number": "77.01",
+      "heading": "LR 77.01 – DIVISIONS OF COURT",
+      "page": 33,
+      "offset": 2460,
+      "slices": [
+        {
+          "page": 33,
+          "start": 2460,
+          "end": 2786,
+          "sha256": "1e9b40c10c4dd320983a1e537315e9b362e65cc686c4dd3d4e0a53d538fb6ed3"
+        }
+      ]
+    },
+    {
+      "number": "77.02",
+      "heading": "LR 77.02 – LEGAL ADVICE",
+      "page": 33,
+      "offset": 2786,
+      "slices": [
+        {
+          "page": 33,
+          "start": 2786,
+          "end": 3108,
+          "sha256": "5639c409985fdb23c5c99d5de37b0bc76bb4cc5d4a5e5522764ab05104053c92"
+        },
+        {
+          "page": 34,
+          "start": 0,
+          "end": 140,
+          "sha256": "b0a272f7bc040bcc01b1c1dbfdd40d55160ed4efef9fd0e6b499960c6c5f7b69"
+        }
+      ]
+    },
+    {
+      "number": "78.01",
+      "heading": "LR 78.01 – MOTION DAY",
+      "page": 34,
+      "offset": 140,
+      "slices": [
+        {
+          "page": 34,
+          "start": 140,
+          "end": 320,
+          "sha256": "be05c70cc47da26c918ac237eece798d4133984ee7c35ddda5ecf1ec7c066c36"
+        }
+      ]
+    },
+    {
+      "number": "79.01",
+      "heading": "LR 79.01 – RETRIEVAL OF EXHIBITS",
+      "page": 34,
+      "offset": 320,
+      "slices": [
+        {
+          "page": 34,
+          "start": 320,
+          "end": 1066,
+          "sha256": "5ac0a36ec78f56034b776483b56a09f829c8f95e0937f05d18a4a97326b55bd9"
+        }
+      ]
+    },
+    {
+      "number": "83.00",
+      "heading": "LR 83.00 – RULES OF PROFESSIONAL CONDUCT",
+      "page": 34,
+      "offset": 1066,
+      "slices": [
+        {
+          "page": 34,
+          "start": 1066,
+          "end": 1283,
+          "sha256": "5de389b1534b5a598986828987272a141cc1b9616ebf8fd2bee248a7eb9708f7"
+        }
+      ]
+    },
+    {
+      "number": "83.01",
+      "heading": "LR 83.01 – ATTORNEYS",
+      "page": 34,
+      "offset": 1283,
+      "slices": [
+        {
+          "page": 34,
+          "start": 1283,
+          "end": 2683,
+          "sha256": "94c876cf249d3c6f5a4f05118cb70ac6252bda9048a64024c002adc4ebf6ae96"
+        },
+        {
+          "page": 35,
+          "start": 0,
+          "end": 3504,
+          "sha256": "ab8b03ed5577478d7b55ff1d42234f2d11ab29cb9ba5f84b5d6ab91f20f592c6"
+        },
+        {
+          "page": 36,
+          "start": 0,
+          "end": 3303,
+          "sha256": "85bf37d56d3d2d6d7756f9df332e6932c3a78661cfc2b0267ce05a895db1408b"
+        },
+        {
+          "page": 37,
+          "start": 0,
+          "end": 3297,
+          "sha256": "b755f727872b94c6eb049911b4c9a1dd94c92a0907e248f6c228712c16995638"
+        },
+        {
+          "page": 38,
+          "start": 0,
+          "end": 3291,
+          "sha256": "b806864616805203340272726939b53dabec5dce789ad4e91f2db6920ff4d192"
+        },
+        {
+          "page": 39,
+          "start": 0,
+          "end": 303,
+          "sha256": "b4f375f00dd8d5f647cd2a06d352414e2345c956dec26e3aec5279f9213e5f5e"
+        }
+      ]
+    },
+    {
+      "number": "83.02",
+      "heading": "LR 83.02 – LAW STUDENT PRACTICE",
+      "page": 39,
+      "offset": 303,
+      "slices": [
+        {
+          "page": 39,
+          "start": 303,
+          "end": 2883,
+          "sha256": "6b7e4e778813edfb8ecbe154428ca4806b3da3ec0e7ef3a7886659f3a4f93f65"
+        },
+        {
+          "page": 40,
+          "start": 0,
+          "end": 3050,
+          "sha256": "18f00fb3d5463648caa2be7050f6cf592f526a4f6191c6938ddbd8155739b861"
+        },
+        {
+          "page": 41,
+          "start": 0,
+          "end": 684,
+          "sha256": "09b58f26646e80ab280a58a9a85d75f1ba96460fc14538b9295dd65834f2affc"
+        }
+      ]
+    },
+    {
+      "number": "83.06",
+      "heading": "LR 83.06 – PRODUCTION OF PRISONERS",
+      "page": 41,
+      "offset": 684,
+      "slices": [
+        {
+          "page": 41,
+          "start": 684,
+          "end": 937,
+          "sha256": "136a98bf7697d45cc4fb166ba0f1b2dda9123f99a6575aaa22d5f6b37de475f9"
+        }
+      ]
+    },
+    {
+      "number": "83.07",
+      "heading": "LR 83.07 – DESTRUCTION OF FILINGS",
+      "page": 41,
+      "offset": 937,
+      "slices": [
+        {
+          "page": 41,
+          "start": 937,
+          "end": 1239,
+          "sha256": "1bc0eb9b4f0924421db2a25f7cb36d24250247a812f78c182e32ddcb049add34"
+        }
+      ]
+    },
+    {
+      "number": "83.08",
+      "heading": "LR 83.08 – AMENDMENTS",
+      "page": 41,
+      "offset": 1239,
+      "slices": [
+        {
+          "page": 41,
+          "start": 1239,
+          "end": 1374,
+          "sha256": "4a5347dd657f34f588a859687fb69dea93749b58dc64baa17a1a75741659da17"
+        },
+        {
+          "page": 42,
+          "start": 0,
+          "end": 2862,
+          "sha256": "24088a5a55284de571abe0c7b3ef1a8f19cdb207da00d3f16e5cd9d51d7cecf6"
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "startPage": 11,
+    "startOffset": 18,
+    "endPage": 42,
+    "endOffset": 2862,
+    "ruleCount": 39,
+    "tocReconciled": false,
+    "editorialReviewComplete": false,
+    "currencyReviewed": false,
+    "flags": [
+      "Source extraction contains unresolved characters; consult the original publication."
+    ],
+    "excluded": "Source material outside the recorded range remains available in the district source library."
+  },
+  "transcriptionSha256": "2512f5dc2f357dbfa40a909b877c36b3aadec42588a27d540a677954bf328d39"
+}

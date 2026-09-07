@@ -1,0 +1,2811 @@
+{
+  "version": 1,
+  "reviewStatus": "parsed-draft",
+  "districtId": "flnd",
+  "sourceDocument": {
+    "id": "735431487ba914dd",
+    "title": "local_rules.pdf",
+    "format": "pdf",
+    "role": "primary",
+    "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/local_rules/local_rules_0.pdf",
+    "sha256": "735431487ba914dd394d074f8e1c86d56a4842d11fef865e237713043d045831",
+    "bytes": 2379540,
+    "retrievedAt": "2026-09-07T00:01:00.470454+00:00",
+    "snapshotPath": "sources/district-snapshots/735431487ba914dd394d074f8e1c86d56a4842d11fef865e237713043d045831.pdf",
+    "textPath": "data/source-library/735431487ba914dd394d074f8e1c86d56a4842d11fef865e237713043d045831.json",
+    "pdfPath": "data/source-pdfs/735431487ba914dd394d074f8e1c86d56a4842d11fef865e237713043d045831.pdf",
+    "pageCount": 82,
+    "reviewStatus": "source-document-only",
+    "blankTextPages": 0
+  },
+  "collection": {
+    "id": "flnd-civil",
+    "name": "Northern District of Florida Local Rules",
+    "shortName": "Local rules · draft",
+    "districtId": "flnd",
+    "scopeNote": "General local rules, which expressly include civil and criminal proceedings. Admiralty supplements remain in the source library. Rule boundaries and transcription are drafts. Embedded notes, forms, and running headers may remain within rule text; subsection anchors and field-separated notes are not yet reviewed."
+  },
+  "provisions": [
+    {
+      "id": "flnd-civil:1.1",
+      "collectionId": "flnd-civil",
+      "districtId": "flnd",
+      "number": "1.1",
+      "citation": "Northern District of Florida · Rule 1.1",
+      "title": "Scope of the Rules; Citation",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-8",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 1.1 Scope of the Rules; Citation\nThese rules apply to all proceedings in the United States District Court for the Northern \nDistrict of Florida. But they apply to proceedings in the Bankruptcy Court only when not \ninconsistent with the Bankruptcy Court’s own local rules. These rules may be cited as “N.D. Fla. \nLoc. R.” Administrative orders that govern matters not addressed in these rules are available on \nthe District’s website.\n",
+          "pages": [
+            7
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flnd-civil-parsed-v1-735431487ba914dd",
+      "sourceDocumentId": "parsed-flnd-735431487ba914dd",
+      "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/local_rules/local_rules_0.pdf",
+      "pageIndex": 7,
+      "pageSpan": [
+        7,
+        7
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flnd-civil:2.1",
+      "collectionId": "flnd-civil",
+      "districtId": "flnd",
+      "number": "2.1",
+      "citation": "Northern District of Florida · Rule 2.1",
+      "title": "Definitions",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-8",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 2.1 Definitions\nIn these rules:\n(A) “this District” or “the District” means the Northern District of Florida;\n(B) “the Clerk” means the Clerk of Court, Northern District of Florida;\n(C) the “Court” means an assigned judge in a case;\n(D) an “assigned judge” includes each judge assigned to a case (and in most cases, this \nincludes both a district judge and a magistrate judge);\n(E) a reference to any kind of written material or any other medium includes \nelectronically stored information; and\n(F) references to an “attorney” include a party proceeding pro se unless the context \nclearly indicates the contrary.\n",
+          "pages": [
+            7
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flnd-civil-parsed-v1-735431487ba914dd",
+      "sourceDocumentId": "parsed-flnd-735431487ba914dd",
+      "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/local_rules/local_rules_0.pdf",
+      "pageIndex": 7,
+      "pageSpan": [
+        7,
+        7
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flnd-civil:3.1",
+      "collectionId": "flnd-civil",
+      "districtId": "flnd",
+      "number": "3.1",
+      "citation": "Northern District of Florida · Rule 3.1",
+      "title": "Divisions",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-8",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 3.1 Divisions \n(A) Boundaries. The District has four divisions:\n(1) the Pensacola Division includes Escambia, Santa Rosa, Okaloosa, and Walton \nCounties;",
+          "pages": [
+            7
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-9",
+          "path": [],
+          "type": "paragraph",
+          "text": "8\n(2) the Panama City Division includes Jackson, Holmes, Washington, Bay, \nCalhoun, and Gulf Counties;\n(3) the Tallahassee Division includes Leon, Gadsden, Liberty, Franklin, Wakulla, \nJefferson, Taylor, and Madison Counties; and\n(4) the Gainesville Division includes Alachua, Lafayette, Dixie, Gilchrist, and \nLevy Counties.\n(B) Place of Filing Original and Removed Cases. An original case must be filed in a \ndivision in which venue would be proper if the division was a stand-alone district. A \nremoved case must be filed in the division that includes the county where the case \nwas pending in state court. \n(C) Transfer; Place of Keeping a File. A case will remain pending in the division \nwhere it was filed unless the Court enters an order transferring it. When there is a \nphysical file, the Clerk may keep it in a division that includes an assigned judge’s \nprincipal office, even if the case is pending in another division. A physical file may \nnot be withdrawn from the Clerk’s office by anyone other than a judge or judge’s \nemployee. \n(D) Place of Trial or Hearing. A trial or hearing will occur in the division where a case \nis pending, unless the Court directs otherwise.\n",
+          "pages": [
+            8
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flnd-civil-parsed-v1-735431487ba914dd",
+      "sourceDocumentId": "parsed-flnd-735431487ba914dd",
+      "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/local_rules/local_rules_0.pdf",
+      "pageIndex": 7,
+      "pageSpan": [
+        7,
+        8
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flnd-civil:4.1",
+      "collectionId": "flnd-civil",
+      "districtId": "flnd",
+      "number": "4.1",
+      "citation": "Northern District of Florida · Rule 4.1",
+      "title": "Serving Process on Behalf of a Party Proceeding In Forma Pauperis",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-9",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 4.1 Serving Process on Behalf of a Party Proceeding In Forma Pauperis\n(A) Court Authorization Required. A party who is not represented by an attorney and \nwho has moved or intends to move for leave to proceed in forma pauperis must not \nserve process—and must not request a waiver of service under Federal Rule of Civil \nProcedure 4(d)(1)—until the Court enters an order authorizing it. The Court may \ndirect the manner of serving process or requesting a waiver.\n(B) Serving a Correctional Officer or Employee. The Court may direct the manner of \npersonal service on a correctional officer or other employee of a correctional facility \nand may require the use of a process server designated for a specific correctional \nfacility.\n",
+          "pages": [
+            8
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flnd-civil-parsed-v1-735431487ba914dd",
+      "sourceDocumentId": "parsed-flnd-735431487ba914dd",
+      "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/local_rules/local_rules_0.pdf",
+      "pageIndex": 8,
+      "pageSpan": [
+        8,
+        8
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flnd-civil:5.1",
+      "collectionId": "flnd-civil",
+      "districtId": "flnd",
+      "number": "5.1",
+      "citation": "Northern District of Florida · Rule 5.1",
+      "title": "Form of Documents",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-9",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 5.1 Form of Documents\n(A) Scope of the Rule. This rule sets out the required form of each document filed in a \ncase other than an exhibit or other material not created for filing in the case.",
+          "pages": [
+            8
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-10",
+          "path": [],
+          "type": "paragraph",
+          "text": "9\n(B) Case Style and Heading. The first page of a document must begin with the case \nstyle. The case style must include the name of the court, the case number (including \nthe initials of any assigned judges), and the name of at least one party on each side of \nthe case (as framed by the first pleading or amended by an order or by substitution of \na party under Federal Rule of Civil Procedure 25(d)). The document must include a \nheading after the case style but before any other content. The heading must clearly \nidentify the document.\n(C) Format. A document must be double spaced with at least 14-point font and at least \none-inch margins on the top, bottom, left, and right of each page. Pages must be \nnumbered. Handwritten documents must be legible with adequate spacing between \nlines. Hard copies should be securely fastened in the upper left-hand corner.\n(D) Signature Block for an Attorney. A document filed by an attorney must include a \nsignature block with the attorney’s handwritten or electronic signature, typed name, \nbar number, street and email addresses, and telephone number. The signature block \nmust identify by name or category the parties on whose behalf the document is filed. \n(E) Signature Block for a Pro Se Party. A document filed by a pro se party must \ninclude a signature block with the party’s handwritten signature, typed or printed \nname, street address, email address if the party has one, and telephone number if the \nparty has one. But the signature may be electronic if an administrative rule or court \norder allows the party to file the document electronically.\n(F) Certificate of Service. A document must include a certificate of service—with an \nelectronic or handwritten signature—setting out the date and method of service. But \na certificate of service is not required if:\n(1) each party on whom the document will be served either (a) is represented by an \nattorney who will be served through the electronic filing system, or (b) has not \nyet appeared and will be served through formal service of process; or\n(2) the document is properly being filed ex parte.\n",
+          "pages": [
+            9
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flnd-civil-parsed-v1-735431487ba914dd",
+      "sourceDocumentId": "parsed-flnd-735431487ba914dd",
+      "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/local_rules/local_rules_0.pdf",
+      "pageIndex": 8,
+      "pageSpan": [
+        8,
+        9
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flnd-civil:5.2",
+      "collectionId": "flnd-civil",
+      "districtId": "flnd",
+      "number": "5.2",
+      "citation": "Northern District of Florida · Rule 5.2",
+      "title": "Civil Cover Sheet",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-10",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 5.2 Civil Cover Sheet\nAn attorney who files or removes a civil case must simultaneously file a civil cover sheet\non a form available without charge from the Clerk or on the District’s website. But the Court may \nallow the civil cover sheet to be filed later. A pro se party need not file a civil cover sheet. \n",
+          "pages": [
+            9
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flnd-civil-parsed-v1-735431487ba914dd",
+      "sourceDocumentId": "parsed-flnd-735431487ba914dd",
+      "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/local_rules/local_rules_0.pdf",
+      "pageIndex": 9,
+      "pageSpan": [
+        9,
+        9
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flnd-civil:5.3",
+      "collectionId": "flnd-civil",
+      "districtId": "flnd",
+      "number": "5.3",
+      "citation": "Northern District of Florida · Rule 5.3",
+      "title": "Paying a Filing Fee or Proceeding In Forma Pauperis",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-10",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 5.3 Paying a Filing Fee or Proceeding In Forma Pauperis\nA party who files or removes a civil case must simultaneously either pay any fee required ",
+          "pages": [
+            9
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-11",
+          "path": [],
+          "type": "paragraph",
+          "text": "10\nunder 28 U.S.C. § 1914 or move for leave to proceed in forma pauperis under 28 U.S.C. § 1915.\nThe Clerk must open the case and refer any motion for leave to proceed in forma pauperis to an \nassigned judge. A party who moves for leave to proceed in forma pauperis must simultaneously \nfile a financial affidavit on a form available without charge from the Clerk or on the District’s \nwebsite. The motion must also be on a form available without charge from the Clerk or the \nDistrict’s website unless filed by an attorney. Unless otherwise ordered, a person in custody will \nnot be excused from paying the $5 fee for filing a habeas petition if the person has a prison \naccount with a balance of $25 or more.\n",
+          "pages": [
+            10
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flnd-civil-parsed-v1-735431487ba914dd",
+      "sourceDocumentId": "parsed-flnd-735431487ba914dd",
+      "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/local_rules/local_rules_0.pdf",
+      "pageIndex": 9,
+      "pageSpan": [
+        9,
+        10
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flnd-civil:5.4",
+      "collectionId": "flnd-civil",
+      "districtId": "flnd",
+      "number": "5.4",
+      "citation": "Northern District of Florida · Rule 5.4",
+      "title": "Electronic Filing",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-11",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 5.4 Electronic Filing\n(A) When Required. Unless the Court orders otherwise, every document submitted for \nfiling must be submitted through the electronic filing system, not in hard copy or by \nfacsimile or other means, except that the following documents may—and if so \nrequired by an administrative order or an order in a case must—be filed in hard \ncopy:\n(1) An exhibit introduced at a trial or hearing;\n(2) A document filed under seal;\n(3) A document filed by a party pro se.\n(B) As Effective as a Hard Copy. An order, sworn document, or other document that is \nelectronically filed in the proper case file has exactly the same effect as would a \nsubstantively identical hard copy.\n(C) Responsibility for Electronically Filed Signatures. An attorney who electronically \nfiles a document with the attorney’s handwritten or electronic signature—or who \nauthorizes another person to electronically file such a document—is responsible for \nthe document just as if it had been filed in hard copy with the attorney’s handwritten \nsignature. And a party is responsible for a document electronically filed on the \nparty’s behalf with the party’s or an attorney’s handwritten or electronic signature, \njust as if the document had been filed in hard copy with the party’s or attorney’s \nhandwritten signature.\n(D) Sworn Documents. By electronically filing a copy of a document with an original \nseal or certification or a sworn original signature, an attorney certifies that the \nattorney has custody of the original. The attorney must make the original available \nfor inspection and copying by any other party or the Court and must file the original \nif the Court so orders. If the original is not filed, the attorney must retain the original \nfor at least two years after the litigation—including all appeals—has ended. \n(E) Effective Date of an Electronic Filing. A document is electronically filed when the \nfiling is accepted by the District’s electronic filing system. A filing is made on a date\nif it is made prior to midnight on that date in local time at the place of holding court ",
+          "pages": [
+            10
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-12",
+          "path": [],
+          "type": "paragraph",
+          "text": "11\nin the division where the case is pending. \n(F) Service on Other Parties. A document that is electronically filed and that is \nelectronically served on a party through the electronic filing system need not be \nserved on that party by any other means, unless the Court so orders. An attorney’s \nparticipation in the electronic filing system constitutes consent to accept service \nthrough the electronic filing system.\n(G) Responsibility for a Filing and for the Accuracy of the Docket. The attorney who \nauthorizes the electronic filing of a document is responsible for it under this rule \nregardless of whether the attorney actually makes the electronic filing or authorizes \nanother person to do so. And the attorney must ensure that the document is \naccurately docketed.\n",
+          "pages": [
+            11
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flnd-civil-parsed-v1-735431487ba914dd",
+      "sourceDocumentId": "parsed-flnd-735431487ba914dd",
+      "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/local_rules/local_rules_0.pdf",
+      "pageIndex": 10,
+      "pageSpan": [
+        10,
+        11
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flnd-civil:5.5",
+      "collectionId": "flnd-civil",
+      "districtId": "flnd",
+      "number": "5.5",
+      "citation": "Northern District of Florida · Rule 5.5",
+      "title": "Sealing Case Files and Documents; Redacting Documents",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-12",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 5.5 Sealing Case Files and Documents; Redacting Documents\n(A) General Rule. Each case file and each document filed in it is public unless one of \nthese provides otherwise: a statute, court rule, administrative order, or order in the \ncase. The Court may, by an order in the case, modify any sealing or redaction \nrequirement set out in an administrative order or this rule.\n(B) Documents That May Be Sealed Without an Order. When a statute, court rule, or \nadministrative order requires the sealing of a category of documents, a party may \nsubmit a document in that category for filing under seal, without moving for leave to \nfile the document under seal. The Clerk must maintain the document under seal \nunless the Court orders otherwise.\n(C) Documents That May Be Sealed Only With an Order. A party who wishes to file \nany other document under seal must, if feasible, move in advance for leave to file the \ndocument under seal. The party may submit the document for filing under seal only \nif the Court authorizes it. If a party submits a document for filing under seal before \nthe Court authorizes it—either because obtaining advance authorization was not \nfeasible or in violation of this rule—the Clerk must promptly refer the sealing issue \nto the Court and must maintain the document under seal until otherwise ordered.\n(D) Filing Redacted Versions of Sealed Documents. When feasible, a party who files a \ndocument under seal must file a redacted version that will become part of the public \nfile. Filing a redacted version is feasible unless (1) a person could infer from the \nredacted version the substance or import of the information that called for sealing the \noriginal or (2) the redacted version would include so little information that publicly \nfiling it would serve no purpose.\n(E) Redacting Documents That Are Improperly Filed with Personal Identifiers. If a \nparty violates Federal Rule of Civil Procedure 5.2 or Federal Rule of Criminal \nProcedure 49.1 by failing to redact a personal identifier, the party must promptly file \na properly redacted substitute. When the substitute is filed, the Clerk must seal the ",
+          "pages": [
+            11
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-13",
+          "path": [],
+          "type": "paragraph",
+          "text": "12\nunredacted original.\n",
+          "pages": [
+            12
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flnd-civil-parsed-v1-735431487ba914dd",
+      "sourceDocumentId": "parsed-flnd-735431487ba914dd",
+      "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/local_rules/local_rules_0.pdf",
+      "pageIndex": 11,
+      "pageSpan": [
+        11,
+        12
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flnd-civil:5.6",
+      "collectionId": "flnd-civil",
+      "districtId": "flnd",
+      "number": "5.6",
+      "citation": "Northern District of Florida · Rule 5.6",
+      "title": "Notice of a Prior or Similar Case",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-13",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 5.6 Notice of a Prior or Similar Case\nA party who files or removes a case must file a notice—and if the party fails to do so any \nother party with knowledge of the circumstances must file a notice—if:\n(A) a case in this District that includes an identical claim—or a similar claim—between\nsome or all of the same or related parties was previously terminated by any means; \nor \n(B) the new case involves issues of fact or law in common with the issues in another \ncase pending in the District. \n",
+          "pages": [
+            12
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flnd-civil-parsed-v1-735431487ba914dd",
+      "sourceDocumentId": "parsed-flnd-735431487ba914dd",
+      "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/local_rules/local_rules_0.pdf",
+      "pageIndex": 12,
+      "pageSpan": [
+        12,
+        12
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flnd-civil:5.7",
+      "collectionId": "flnd-civil",
+      "districtId": "flnd",
+      "number": "5.7",
+      "citation": "Northern District of Florida · Rule 5.7",
+      "title": "Pro Se Civil-Rights Cases and Collateral Attacks on Criminal Convictions",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-13",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 5.7 Pro Se Civil-Rights Cases and Collateral Attacks on Criminal Convictions\n(A) Required Forms. A party not represented by an attorney must file any of these only \non a form available without charge from the Clerk or on the District’s website: a\npetition for a writ of habeas corpus, a motion for relief under 28 U.S.C. § 2255, or a \ncomplaint in a civil-rights case. A case is a civil-rights case if it asserts a claim under \nthe United States Constitution or a statute creating individual rights, including, for \nexample, 42 U.S.C. § 1983 or the Civil Rights Act of 1964. The Court need not—\nand ordinarily will not—consider a petition, motion, or complaint that is not filed on \nthe proper form. \n(B) Requirement to Set Out Claims and Facts as Part of the Form; Memorandum\nOptional. A petition, motion, or complaint described in subdivision (A) must set out \nspecific claims and supporting facts and may not make reference to a memorandum. \nA party may, but need not, also file a memorandum with the petition, motion, or \ncomplaint. A petition, motion, or complaint, together with any memorandum, must \nnot exceed 25 pages, unless the Court authorizes it.\n(C) Applicability of Federal Rules in Collateral Attacks. The Rules Governing \nSection 2254 Cases in the United States District Courts, as adopted by the Supreme \nCourt, apply to all habeas corpus petitions in this District whether or not filed under \nsection 2254. The Rules Governing Section 2255 Proceedings for the United States \nDistrict Courts, as adopted by the Supreme Court, apply to all section 2255 motions.\n",
+          "pages": [
+            12
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flnd-civil-parsed-v1-735431487ba914dd",
+      "sourceDocumentId": "parsed-flnd-735431487ba914dd",
+      "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/local_rules/local_rules_0.pdf",
+      "pageIndex": 12,
+      "pageSpan": [
+        12,
+        12
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flnd-civil:5.8",
+      "collectionId": "flnd-civil",
+      "districtId": "flnd",
+      "number": "5.8",
+      "citation": "Northern District of Florida · Rule 5.8",
+      "title": "Special Procedural and Filing Requirements Applicable to Habeas Corpus",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-13",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 5.8 Special Procedural and Filing Requirements Applicable to Habeas Corpus \nInvolving the Death Penalty\n(A) In habeas corpus cases involving the death penalty, it is the responsibility of the ",
+          "pages": [
+            12
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-14",
+          "path": [],
+          "type": "paragraph",
+          "text": "13\nparty who first makes reference in a pleading or instrument to a deposition or an \nexhibit to:\n(1) Obtain either the original or a certified copy of that deposition and include that \ndeposition or exhibit as an exhibit to their pleading or instrument; or\n(2) To file a certificate indicating why the deposition or exhibit is not included as \nan exhibit to the pleading or instrument.\n(B) It is the responsibility of the party offering for filing any portion of a prior state or \nfederal court record or transcript to:\n(1) Obtain from the Clerk’s office a habeas corpus checklist and review the \nvarious phases of court proceedings identified on the checklist.\n(2) Review each prior state or federal court record to be submitted and identify, \nwithin each record, the first page of every portion of the submitted record \nidentified on the checklist, using the colored tabs and numbering scheme as \nindicated below:\n(a) Petitioner shall use red index tabs and shall sequentially number the \nindex tabs commencing with the number “P-1,” “P-2,” etc.\n(b) Respondent shall employ blue index tabs and shall sequentially number \nthe index tabs commencing with the number “R-1,” “R-2,” etc.\n(c) Amicus curiae or other parties permitted to intervene or otherwise \nparticipate shall employ green index tabs and shall sequentially number \nthe index tabs commencing with the number “X-1,” “X-2,” etc.\n(3) Cross-reference the index tab number to the checklist.\n(4) File a completed checklist concurrently with the filing of the first pleading or \ninstrument which makes reference to any portion of a prior state or federal \ncourt record or transcript.\n(5) Serve a copy of the checklist on all parties and file a certificate of service along \nwith the checklist, indicating service upon all parties.\n(C) In order to facilitate the timely and efficient processing of habeas corpus capital \ncases, checklists and index tabs may be obtained in advance of filing from the \nClerk’s office.\n",
+          "pages": [
+            13
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flnd-civil-parsed-v1-735431487ba914dd",
+      "sourceDocumentId": "parsed-flnd-735431487ba914dd",
+      "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/local_rules/local_rules_0.pdf",
+      "pageIndex": 12,
+      "pageSpan": [
+        12,
+        13
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flnd-civil:5.9",
+      "collectionId": "flnd-civil",
+      "districtId": "flnd",
+      "number": "5.9",
+      "citation": "Northern District of Florida · Rule 5.9",
+      "title": "Trial and Hearing Exhibits",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-14",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 5.9 Trial and Hearing Exhibits\n(A) Tendering and Maintaining Exhibits. An exhibit tendered or received in evidence ",
+          "pages": [
+            13
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-15",
+          "path": [],
+          "type": "paragraph",
+          "text": "14\nduring a trial or hearing must be delivered to the Clerk, and the Clerk must maintain\ncustody of the exhibit, with these exceptions:\n(1) the Court may order otherwise;\n(2) a sensitive exhibit—such as a weapon, drug, cash, pornography, or thing of \nhigh value—may be retained by the law enforcement agency or party who \noffered it, and in that event the agency or party must maintain the integrity of \nthe exhibit; \n(3) the Clerk may release an exhibit temporarily to an assigned judge, the judge’s \nstaff, or the court reporter.\n(B) Retrieving Exhibits After the Litigation. Within 90 days after a case is closed and \nall appeals have been exhausted, the party who offered an exhibit must retrieve it \nfrom the Clerk. The Clerk may destroy an exhibit not timely retrieved. \n",
+          "pages": [
+            14
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flnd-civil-parsed-v1-735431487ba914dd",
+      "sourceDocumentId": "parsed-flnd-735431487ba914dd",
+      "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/local_rules/local_rules_0.pdf",
+      "pageIndex": 13,
+      "pageSpan": [
+        13,
+        14
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flnd-civil:6.1",
+      "collectionId": "flnd-civil",
+      "districtId": "flnd",
+      "number": "6.1",
+      "citation": "Northern District of Florida · Rule 6.1",
+      "title": "Extensions of Time and Continuances",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-15",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 6.1 Extensions of Time and Continuances\nOnly the Court may continue a trial, hearing, or other proceeding. A stipulation to extend \na deadline is effective only with Court approval. But the parties may stipulate, without Court \napproval, to extend a deadline for responding to a specific discovery request or for making a \nFederal Rule of Civil Procedure 26 disclosure if the extension does not interfere with the time set \nfor any of these: completing discovery, submitting or responding to a motion, or trial. \n",
+          "pages": [
+            14
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flnd-civil-parsed-v1-735431487ba914dd",
+      "sourceDocumentId": "parsed-flnd-735431487ba914dd",
+      "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/local_rules/local_rules_0.pdf",
+      "pageIndex": 14,
+      "pageSpan": [
+        14,
+        14
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flnd-civil:7.1",
+      "collectionId": "flnd-civil",
+      "districtId": "flnd",
+      "number": "7.1",
+      "citation": "Northern District of Florida · Rule 7.1",
+      "title": "Motions",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-15",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 7.1 Motions\n(A) How Made. An oral motion may be made during a properly noticed trial or hearing. \nAny other motion must be in writing in the form required by Local Rule 5.1 and this \nLocal Rule 7.1. A request for action of any kind relating to a case can never be made \nby a letter to a judge.\n(B) Attorney Conference Required. Before filing a motion raising an issue, an attorney \nfor the moving party must attempt in good faith to resolve the issue through a \nmeaningful conference with an attorney for the adverse party. The adverse party’s \nattorney must participate in the conference in good faith. The conference may be \nconducted in person, by telephone, in writing, or electronically, but an oral \nconference is encouraged. An email or other writing sent at or near the time of filing \nthe motion is not a meaningful conference. When a conference is conducted in \nwriting or electronically, an attorney ordinarily should be afforded at least 24 \nhours—as calculated under Federal Rule of Civil Procedure 6—to respond to a \ncommunication. This Rule 7.1(B) applies to an unrepresented (pro se) party only if \nthe party is not in custody. ",
+          "pages": [
+            14
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-16",
+          "path": [],
+          "type": "paragraph",
+          "text": "15\n(C) Certificate Required. A motion or supporting memorandum must include a \ncertificate—under a separate heading—confirming that the moving party complied \nwith the attorney-conference requirement of Local Rule 7.1(B) and setting out the \nresults.\n(D) Exceptions: Attorney Conference and Certificate Not Required. An attorney \nconference and certificate are not required for a motion that would determine the \noutcome of a case or a claim, for a motion for leave to proceed in forma pauperis, or \nfor a motion that properly may be submitted ex parte. \n(E) Supporting and Opposing Memoranda Required; Deadline. A party who files a \nwritten motion must file a supporting memorandum in the same document with, or at \nthe same time as, the motion. A party who opposes the motion must file a \nmemorandum in opposition. Unless otherwise ordered, the deadline for a \nmemorandum opposing a motion (other than a summary-judgment motion) is 14 \ndays after service of the motion, without a 3-day extension based on electronic \nservice of the motion. The deadline and other requirements that apply to a summary￾judgment motion are set out in Local Rule 56.1.\n(F) Word Limit. A memorandum must not exceed 8,000 words and must include a \ncertificate stating the number of words in the memorandum. The person preparing \nthe certificate may rely on the word count of the word-processing system used to \nprepare the memorandum. Headings, footnotes, and quotations count toward the \nword limit. The case style, signature block, and any certificate of service do not \ncount toward the word limit. If a motion itself exceeds 500 words, the words in the \nmotion count toward the limitation on words in the supporting memorandum. In \nextraordinary circumstances, the Court may grant leave to file a longer \nmemorandum, but doing so is disfavored. A party who moves for leave to file a \nlonger memorandum may attach the proposed memorandum to the motion if all \nopposing parties consent to the motion; otherwise the party must obtain leave to file \nthe longer memorandum before tendering the longer memorandum.\n(G) Exceptions: Memoranda Not Required. Supporting and opposing memoranda are \nnot required for:\n(1) an unopposed motion; \n(2) a motion for leave to proceed in forma pauperis;\n(3) a motion for leave for an attorney to appear pro hac vice or withdraw or for \nsubstitution of counsel;\n(4) a motion to withdraw or substitute exhibits;\n(5) a motion to exceed a word or page limit or for leave to file a reply\nmemorandum.\n(H) Failing to File a Required Memorandum. The Court may deny a moving party’s ",
+          "pages": [
+            15
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "16\nmotion if the party does not file a memorandum as required by this rule. The Court\nmay grant a motion by default if an opposing party does not file a memorandum as \nrequired by this rule. \n(I) Reply Memoranda. A party ordinarily may not file a reply memorandum in support \nof a motion. But a party may file a reply memorandum in support of a summary￾judgment motion under Local Rule 56.1(D). And in extraordinary circumstances, the \nCourt may grant leave to file a reply memorandum in support of another motion. A \nreply memorandum must not exceed 3200 words (counted and certified as under \nLocal Rule 7.1(F)) unless the Court sets a higher limit. When leave to file a reply \nmemorandum is required, a party must obtain leave before tendering the reply \nmemorandum.\n(J) Notices of Supplemental Authority. If a pertinent and significant authority comes\nto a party’s attention after the party’s memorandum has been filed—or after a \nhearing but before decision—the party may file a notice of supplemental authority. \nThe notice must not exceed 350 words. A copy of the cited authority may be \nattached. Any response must be made promptly and must be similarly limited.\n(K) Oral Argument. The Court may—and most often does—rule on a motion without \noral argument, even if a party requests oral argument. But the Court may set an oral \nargument on its own or at the request of a party. A request may be made as part of \nthe motion or supporting or opposing memorandum, should be set out under a \nseparate heading, and should include an estimate of the required time. \n(L) Emergencies. A motion that requires a ruling more promptly than would occur in \nthe ordinary course of business may be labeled an emergency. The motion or \nsupporting memorandum should explain the emergency. The moving party should \norally advise the Clerk’s office that the emergency motion has been filed. The Court\nmay require an expedited response or otherwise amend the schedule as appropriate.\n(M) Sending Letters—or Copies of Letters—to the Judge. A party or victim may \naddress a letter to the judge about a forthcoming sentencing, but the letter must be \nprovided to the probation office—not directly to the judge. A party must not address \nor send any other letter to the judge. A copy of a letter to and from others—including \na letter between attorneys—may be filed with the Clerk as an exhibit when relevant \nto an issue that is being submitted. But filing letters between attorneys is \ndiscouraged. For purposes of this rule, a “letter” includes correspondence of any \nkind, including email.\n",
+          "pages": [
+            16
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flnd-civil-parsed-v1-735431487ba914dd",
+      "sourceDocumentId": "parsed-flnd-735431487ba914dd",
+      "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/local_rules/local_rules_0.pdf",
+      "pageIndex": 14,
+      "pageSpan": [
+        14,
+        16
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flnd-civil:7.2",
+      "collectionId": "flnd-civil",
+      "districtId": "flnd",
+      "number": "7.2",
+      "citation": "Northern District of Florida · Rule 7.2",
+      "title": "Removing a Case from State Court",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-17",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 7.2 Removing a Case from State Court\n(A) Filing State-Court Papers. At the time of a case’s removal from state court, if \nfeasible, and in any event within 14 days after removal, the removing party must file \na copy of each paper filed or served in the state court. ",
+          "pages": [
+            16
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "17\n(B) Pending Motions. For a motion that was pending in state court at the time of \nremoval, the attorneys must confer and the parties must file supporting and opposing \nmemoranda, unless (1) these steps were already taken in state court or (2) Local Rule \n7.1 would not have required these steps for a motion originally filed in this District. \nThe deadline for a supporting memorandum is 14 days after removal. The deadline \nfor an opposing memorandum is 14 days after the later of the removal or the filing of \nthe supporting memorandum.\n",
+          "pages": [
+            17
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flnd-civil-parsed-v1-735431487ba914dd",
+      "sourceDocumentId": "parsed-flnd-735431487ba914dd",
+      "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/local_rules/local_rules_0.pdf",
+      "pageIndex": 16,
+      "pageSpan": [
+        16,
+        17
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flnd-civil:11.1",
+      "collectionId": "flnd-civil",
+      "districtId": "flnd",
+      "number": "11.1",
+      "citation": "Northern District of Florida · Rule 11.1",
+      "title": "Attorneys",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-18",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 11.1 Attorneys \n(A) Qualification for Admission to the District’s Bar. An attorney is qualified for \nadmission to the District’s bar only if the attorney is a member in good standing of \nThe Florida Bar. But an attorney who was previously admitted to the District’s bar \nmay remain a member so long as (1) the attorney does not violate Florida law on the \nunauthorized practice of law and (2) there are no other grounds for the attorney’s \nremoval from the District’s bar.\n(B) Applying for Admission. An application for admission to the District’s bar must be \nunder oath and must be submitted to the Clerk in the form the Clerk directs. The \napplicant must submit proof of membership in The Florida Bar in the form the Clerk\ndirects. The applicant must pay the fee set by administrative order, except that an \napplicant who is an employee of the United States or a state or local government \nneed not pay the fee.\n(C) Appearing Pro Hac Vice. An attorney who is a member in good standing of the bar \nof a jurisdiction where the attorney resides or regularly practices law may file a \nmotion in a case for leave to appear pro hac vice. The attorney must pay the fee set \nby administrative order and must file proof of bar membership in the form the Clerk\ndirects. Admission pro hac vice does not change the attorney’s obligation to comply \nwith Florida law on the unauthorized practice of law.\n(D) Other Appearances Prohibited; Exceptions for Emergencies and for Attorneys \nRepresenting the United States. An attorney must not file a document or appear at \na trial or hearing unless the attorney is a member of the District’s bar or has been \ngranted leave to appear in the case pro hac vice. But in an emergency, an attorney \nmay file a document or appear while seeking admission to the District’s bar or leave \nto appear pro hac vice. And an attorney may appear for the United States—or for a \nfederal agency or federal employee on matters within the scope of employment—\nwithout being a member of the District’s bar or being admitted pro hac vice.\n(E) Education. By administrative order, the District may require an attorney to \nsuccessfully complete a tutorial on the local rules—or to meet a similar \nrequirement—before being admitted to the District’s bar, appearing pro hac vice, or \nappearing for the United States. By administrative order, the District may require an \nattorney to successfully complete a tutorial on the electronic filing system—or to \nmeet a similar requirement—before filing materials electronically.",
+          "pages": [
+            17
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-19",
+          "path": [],
+          "type": "paragraph",
+          "text": "18\n(F) Participation by a Represented Party Prohibited. A party who is represented by \nan attorney must appear only through the attorney; the party may not file documents\nor participate in a trial or hearing on the party’s own behalf. A party who appears pro \nse may not be represented jointly or intermittently by an attorney. But an attorney \nmay enter an appearance and thus end a party’s pro se status, so long as the \nappearance will not delay a trial or other proceeding, and the Court may allow an \nattorney to withdraw even if doing so will leave the party without an attorney.\n(G) Professional Conduct, Disbarment, and Other Discipline.\n \n(1) Professional Conduct. An attorney must comply with the Rules of \nProfessional Conduct that are part of the Rules Regulating The Florida Bar, as \namended from time to time, or with any set of rules adopted by The Florida \nBar in their place, unless federal law provides otherwise. \n(2) Notifying the District of Any Disbarment or Suspension. An attorney who is \ndisbarred or suspended from any jurisdiction’s bar must immediately notify the \ndistrict by letter to the Clerk or Chief Judge, enclosing a copy of the \ndisbarment or suspension. \n(3) Effect of Disbarment or Suspension by The Florida Bar. An attorney who is \ndisbarred or suspended by The Florida Bar stands automatically disbarred or \nsuspended from the district’s bar, without further action, effective at the same \ntime as disbarment or suspension from The Florida Bar. Reinstatement to The \nFlorida Bar after a suspension automatically reinstates the attorney to the \ndistrict’s bar. An attorney who is readmitted to The Florida Bar after \ndisbarment may become a member of the district’s bar only by reapplying.\n(4) Disbarment or Suspension on Other Grounds. An attorney will be removed \nor suspended from the District’s bar on any other ground only after notice and \nan opportunity to be heard. At the District’s option, the opportunity to be heard \nmay be limited to submitting argument or evidence in writing. The attorney \nmay be prohibited from acting on a case in this District after notice is given \nand while the attorney’s removal or suspension is under consideration. \nGrounds for disbarment or suspension include:\n(a) disbarment or suspension from any jurisdiction’s bar;\n(b) conviction of, entry of a plea of guilty or nolo contendere to, or \ncommission of a felony or misdemeanor;\n(c) a finding of, or conduct constituting, contempt of this or any other court;\n(d) a violation of the professional-conduct standards that apply under this \nrule’s paragraph (G)(1); or\n(e) other conduct inconsistent with the high level of professionalism ",
+          "pages": [
+            18
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-20",
+          "path": [],
+          "type": "paragraph",
+          "text": "19\nexpected in this District. \n(5) Withdrawing from the District’s Bar. An attorney may withdraw from the \nDistrict’s bar by giving notice to the Clerk.\n(6) Reinstatement. The District may reinstate a removed or suspended attorney, \nor an attorney who has withdrawn, with or without conditions. A reinstated \nattorney must pay the admission fee unless the attorney is automatically \nreinstated under Local Rule 11.1(G)(3).\n(7) Contempt. A person may be held in contempt of court if the person (a) acts as \nan attorney in this District in violation of this rule or (b) pretends to be entitled \nto act as an attorney in this District but is not. \n \n(8) Other Restrictions or Discipline. For good cause, the District may limit an \nattorney’s activities in the District or impose other discipline, and the Court\nmay limit an attorney’s activities or impose discipline in a case, after giving \nany appropriate notice and opportunity to be heard.\n(H) Withdrawing in a Case. \n \n(1) When Court Approval Required. An attorney who has appeared in a case \nmay not withdraw unless:\n(a) the Court grants leave to withdraw; or\n(b) the client consents and the withdrawal will leave the client with another \nattorney of record who intends to continue in the case. \n(2) Prior Notice. An attorney must not move for leave to withdraw without first \ngiving 14 days’ notice to the client, unless giving notice is impossible. The \nmotion must set out the client’s position on the motion.\n \n(3) Nonpayment of Fees. An attorney ordinarily will not be allowed to withdraw \nbased on a client’s failure to pay attorney’s fees or expenses if the withdrawal \nwill delay a trial or hearing. And in a criminal case, a motion to withdraw \nbased on a defendant’s failure to pay attorney’s fees or expenses ordinarily will \nbe denied if made more than 7 days after the defendant’s first arraignment.\n(I) Responsibility of Retained Counsel in Criminal Cases.\n \n(1) Unless the Court, within 7 days after arraignment, is notified in writing of \ncounsel’s withdrawal because of the defendant's failure to make satisfactory \nfinancial arrangements, the Court will expect retained criminal defense counsel \nto represent the defendant until the conclusion of the case. Failure of a \ndefendant to pay sums owed for attorney’s fees or failure of counsel to collect \na sum sufficient to compensate for all the services usually required of defense \ncounsel will not constitute good cause for withdrawal after the 7-day period ",
+          "pages": [
+            19
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "20\nhas expired. \n \n(2) If a defendant moves the Court to proceed on appeal in forma pauperis and/or \nfor appointment of Criminal Justice Act appellate counsel, counsel retained for \ntrial will, in addition to the information required under Form 4 of the Rules of \nAppellate Procedure, be required to fully disclose in camera (a) the attorney’s \nfee agreement and the total amount of such fees and costs paid to date, in cash \nor otherwise; (b) by whom fees and costs were paid; (c) any fees and costs \nremaining unpaid and the complete terms of agreements concerning payment \nthereof; (d) the costs actually incurred to date; and (e) a detailed description of \nservices actually rendered to date, including a record of the itemized time (to \nthe nearest 1/10 of an hour) for each service, both in-court and out-of-court, \nand the total time. All such information submitted will be viewed in camera by \nthe Court for the purpose of deciding the defendant's motion and will be a part \nof the record (sealed if requested) in the case. \n",
+          "pages": [
+            20
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flnd-civil-parsed-v1-735431487ba914dd",
+      "sourceDocumentId": "parsed-flnd-735431487ba914dd",
+      "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/local_rules/local_rules_0.pdf",
+      "pageIndex": 17,
+      "pageSpan": [
+        17,
+        20
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flnd-civil:15.1",
+      "collectionId": "flnd-civil",
+      "districtId": "flnd",
+      "number": "15.1",
+      "citation": "Northern District of Florida · Rule 15.1",
+      "title": "Amending a Pleading",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 15.1 Amending a Pleading\n(A) Complete Copy Required. A pleading may be amended only by filing a complete \ncopy of the amended pleading. Allegations in a prior pleading that are not set out in \nthe amended pleading are deemed abandoned, with this exception: if, in a definitive \nruling, the Court has dismissed a claim or struck a defense without leave to amend, \nthe claim or defense must not be included in a later amended pleading.\n(B) Separately Docketing a Motion for Leave and the Amended Pleading. When a \npleading may be amended only by leave of court, the amending party must file a \nmotion for leave to amend and must simultaneously file the proposed amended \npleading itself. The proposed amended pleading will become effective only if the \nCourt grants leave to amend.\n",
+          "pages": [
+            20
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flnd-civil-parsed-v1-735431487ba914dd",
+      "sourceDocumentId": "parsed-flnd-735431487ba914dd",
+      "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/local_rules/local_rules_0.pdf",
+      "pageIndex": 20,
+      "pageSpan": [
+        20,
+        20
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flnd-civil:16.1",
+      "collectionId": "flnd-civil",
+      "districtId": "flnd",
+      "number": "16.1",
+      "citation": "Northern District of Florida · Rule 16.1",
+      "title": "Rule 26(f) Attorney Conference; Prior Discovery",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 16.1 Rule 26(f) Attorney Conference; Prior Discovery\nIn a civil case in which the attorneys must confer under Federal Rule of Civil Procedure \n26(f), the conference must occur as soon as practicable. The Court may—and ordinarily will—\nenter an order modifying the deadline for the conference. If an order has not been entered, the \ndeadline is determined by the Federal Rules and is ordinarily the earlier of 69 days after any \ndefendant has appeared or 99 days after the first service of process on any defendant. A party may \nseek discovery before the conference only when authorized by the Federal Rules, by stipulation, \nor by an order in the case.\n",
+          "pages": [
+            20
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flnd-civil-parsed-v1-735431487ba914dd",
+      "sourceDocumentId": "parsed-flnd-735431487ba914dd",
+      "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/local_rules/local_rules_0.pdf",
+      "pageIndex": 20,
+      "pageSpan": [
+        20,
+        20
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flnd-civil:16.2",
+      "collectionId": "flnd-civil",
+      "districtId": "flnd",
+      "number": "16.2",
+      "citation": "Northern District of Florida · Rule 16.2",
+      "title": "Notice of a Settlement or Intent to Plead Guilty or Motion to Continue; Assessing",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-21",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 16.2 Notice of a Settlement or Intent to Plead Guilty or Motion to Continue; Assessing\nCosts",
+          "pages": [
+            20
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "21\n(A) Duty to Give Notice. Each attorney of record must ensure that the Court is notified \nimmediately when:\n(1) A civil case is settled;\n(2) A defendant elects to enter a guilty plea; \n(3) The parties resolve by agreement a motion or other dispute that is under \nsubmission; or\n(4) A party expects to move for continuance of a trial or hearing.\n(B) Manner of Giving Notice. Actual notice must be given in a manner that ensures that \nthe judge and court personnel do not unnecessarily work on a settled case or issue \nand that jurors are not unnecessarily required to appear. When a trial or hearing is \nimminent or a matter is under submission, filing an electronic notice may not be \nsufficient; telephone notice may be required. A party must give notice to all other \nparties at least as promptly as to the Court. \n(C) Expenses. If a party fails to give notice at least two days—calculated under Federal \nRule of Civil Procedure 6—before a jury panel is scheduled to report for jury \nselection, juror attendance and mileage fees will be assessed against the party or the \nparty’s attorney or both, unless the Court orders otherwise for good cause. Other \nexpenses incurred as a result of any failure to give timely notice under this rule—\nincluding witness fees, travel expenses, and expenses incurred by the United States \nMarshal or for court security—may also be assessed. Expenses assessed against an \nattorney appointed under the Criminal Justice Act may be offset against the \nattorney’s fee.\n",
+          "pages": [
+            21
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flnd-civil-parsed-v1-735431487ba914dd",
+      "sourceDocumentId": "parsed-flnd-735431487ba914dd",
+      "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/local_rules/local_rules_0.pdf",
+      "pageIndex": 20,
+      "pageSpan": [
+        20,
+        21
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flnd-civil:16.3",
+      "collectionId": "flnd-civil",
+      "districtId": "flnd",
+      "number": "16.3",
+      "citation": "Northern District of Florida · Rule 16.3",
+      "title": "Mediation",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 16.3 Mediation\nThe Court may order the parties to mediate a civil case. The parties may agree to mediate \na civil case even when the Court has not ordered them to do so. Mediation must be conducted in \naccordance with the Rules for Certified and Court-Appointed Mediators adopted by the Florida \nSupreme Court, except as otherwise ordered, but this sentence does not apply to a settlement \nconference—even if called “mediation”—conducted by a district or magistrate judge. \nEverything said during a mediation or settlement conference—other than the terms of any \nsettlement agreement itself—is confidential and inadmissible as a settlement negotiation. \n",
+          "pages": [
+            21
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flnd-civil-parsed-v1-735431487ba914dd",
+      "sourceDocumentId": "parsed-flnd-735431487ba914dd",
+      "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/local_rules/local_rules_0.pdf",
+      "pageIndex": 21,
+      "pageSpan": [
+        21,
+        21
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flnd-civil:23.1",
+      "collectionId": "flnd-civil",
+      "districtId": "flnd",
+      "number": "23.1",
+      "citation": "Northern District of Florida · Rule 23.1",
+      "title": "Class Actions",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-22",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 23.1 Class Actions\nA pleading that asserts a claim on behalf of or against a class must set out the proposed \ndefinition of the class and must allege facts showing that the claim or defense may be so ",
+          "pages": [
+            21
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "22\nmaintained. The pleader must file a motion to certify the class, together with a memorandum and \nevidence showing the class certification is appropriate, within 90 days after filing the pleading. \nThe Court may change the deadline by an order in the case. The filing of an amended pleading \ndoes not extend the deadline.\n",
+          "pages": [
+            22
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flnd-civil-parsed-v1-735431487ba914dd",
+      "sourceDocumentId": "parsed-flnd-735431487ba914dd",
+      "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/local_rules/local_rules_0.pdf",
+      "pageIndex": 21,
+      "pageSpan": [
+        21,
+        22
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flnd-civil:24.1",
+      "collectionId": "flnd-civil",
+      "districtId": "flnd",
+      "number": "24.1",
+      "citation": "Northern District of Florida · Rule 24.1",
+      "title": "Constitutional Challenges to Statutes, Rules, and Ordinances",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 24.1 Constitutional Challenges to Statutes, Rules, and Ordinances\nA party who files a pleading, written motion, or other paper drawing into question the \nconstitutionality of a federal or state statute or rule must promptly file and serve a notice under\nFederal Rule of Civil Procedure 5.1(a). A party who files a pleading, written motion, or other \npaper calling into question the constitutionality of a political subdivision’s ordinance or rule must \nfile a notice and serve it on the state attorney general, the state attorney with jurisdiction in the \npolitical subdivision’s geographic area, and the attorney for the political subdivision. \n",
+          "pages": [
+            22
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flnd-civil-parsed-v1-735431487ba914dd",
+      "sourceDocumentId": "parsed-flnd-735431487ba914dd",
+      "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/local_rules/local_rules_0.pdf",
+      "pageIndex": 22,
+      "pageSpan": [
+        22,
+        22
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flnd-civil:26.1",
+      "collectionId": "flnd-civil",
+      "districtId": "flnd",
+      "number": "26.1",
+      "citation": "Northern District of Florida · Rule 26.1",
+      "title": "Discovery in Civil Cases",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-23",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 26.1 Discovery in Civil Cases\n(A) Discovery Materials Not To Be Filed; Exceptions. A party may conduct discovery \nbut must not file a discovery request or response or a deposition transcript unless:\n(1) the Court orders the filing;\n(2) the material is needed for determination of a pending motion or issue; or\n(3) the material is admitted into evidence at a trial or hearing.\n(B) Place of Depositions. Unless the Court orders otherwise for cause,\n(1) a party who asserts a claim for affirmative relief—other than costs and \nattorney’s fees—can be required to appear once in this District for a \ndeposition; and \n(2) any other party can be required to appear for a deposition only where a \nnonparty witness could be required to appear.\n(C) Objections to Written Discovery Requests. An objection to an interrogatory, \nproduction request, or admission request must be set out specifically for the \nindividual interrogatory, production request, or admission request; an objection \ncannot be set out generally for an entire set of discovery requests. Boilerplate \nobjections are strongly disfavored. \n(D) Motions To Compel. A discovery motion must frame the dispute clearly and, if \nfeasible, must, for each discovery request at issue:\n(1) quote the discovery request verbatim;",
+          "pages": [
+            22
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-24",
+          "path": [],
+          "type": "paragraph",
+          "text": "23\n(2) quote each objection specifically directed to the discovery request; and\n(3) set out the reasons why the discovery should be compelled.\n",
+          "pages": [
+            23
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flnd-civil-parsed-v1-735431487ba914dd",
+      "sourceDocumentId": "parsed-flnd-735431487ba914dd",
+      "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/local_rules/local_rules_0.pdf",
+      "pageIndex": 22,
+      "pageSpan": [
+        22,
+        23
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flnd-civil:26.2",
+      "collectionId": "flnd-civil",
+      "districtId": "flnd",
+      "number": "26.2",
+      "citation": "Northern District of Florida · Rule 26.2",
+      "title": "Discovery in Criminal Cases",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-24",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 26.2 Discovery in Criminal Cases\n(A) Policy. It is the District’s policy to rely on the standard discovery procedure as set \nforth in this rule as the sole means for the exchange of discovery in criminal cases \nexcept in extraordinary circumstances. This rule is intended to promote the efficient \nexchange of discovery without altering the rights and obligations of the parties, but \nat the same time eliminating the practice of routinely filing voluminous and \nduplicative discovery motions. Best practices consistent with this rule may be \naddressed by administrative order.\n(B) Discovery Upon Defendant’s Request. At the earliest opportunity and no later than \n7 days after arraignment, the defendant's attorney shall contact the government's \nattorney and make a good faith attempt to have all properly discoverable material \nand information promptly disclosed or provided for inspection or copying. In\naddition, upon request of the defendant, the government shall specifically provide \nthe following within 7 days after the request:\n(1) Defendant’s Statements Under Fed. R. Crim. P. 16(a)(1)(A)(B), and (C). \nAny written or recorded statements made by the defendant; the substance of \nany oral statement made by the defendant before or after the defendant's arrest \nin response to interrogation by a then known-to-be government agent which the \ngovernment intends to offer in evidence at trial; and any recorded grand jury \ntestimony of the defendant relating to the offenses charged.\n(2) Defendant’s Prior Record Under Fed. R. Crim. P. 16(a)(1)(D). The \ndefendant's complete arrest and conviction record, as known to the \ngovernment.\n(3) Documents and Tangible Objects Under Fed. R. Crim. P. 16(a)(1)(E). \nBooks, papers, documents, photographs, tangible objects, buildings or places, \nor copies or portions thereof, which the government intends to use as \nevidence-in-chief at trial, which are material to the preparation of the \ndefendant’s defense, or which were obtained from or belong to the defendant.\n(4) Reports of Examinations and Tests Under Fed. R. Crim. P. 16(a)(1)(F). \nResults or reports of physical or mental examinations and of scientific tests or \nexperiments, or copies thereof, which are material to the preparation of the \ndefendant’s defense or are intended for use by the government as \nevidence-in-chief at trial.\n(5) Expert Witnesses Under Fed. R. Crim. P. 16(a)(1)(G). A written summary",
+          "pages": [
+            23
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-25",
+          "path": [],
+          "type": "paragraph",
+          "text": "24\nof testimony the government intends to use under Rules 702, 703, or 705 of the \nFederal Rules of Evidence.\n(C) Defendant’s Discovery Obligations. If the defendant requests disclosure under \nsubdivisions (a)(1)(C), (D), or (E) of Fed. R. Crim. P. 16, or if the defendant has \ngiven notice under Fed. R. Crim. P. 12.2 of an intent to present expert testimony on \nthe defendant=s mental condition, the government shall make its requests as allowed \nby Fed. R. Crim. P. 16 within 3 days after compliance with the defendant’s request \nor after receipt of defendant’s notice of intent to present expert testimony on the \ndefendant=s mental condition pursuant to Fed. R. Crim. P. 12.2, and the defendant \nshall provide, by the deadline set out below, the following:\n(1) Documents and Tangible Objects Under Fed. R. Crim. P. 16(b)(1)(A). \nWithin 7 days after government’s request, books, papers, documents, \nphotographs, tangible objects, or copies or portions thereof, which the \ndefendant intends to introduce as evidence-in-chief at trial.\n(2) Reports of Examinations and Tests Under Fed. R. Crim. P. 16(b)(1)(B). At \nleast 30 days before the trial, results or reports of physical or mental \nexaminations, and of scientific tests or experiments, or copies thereof, which \nthe defendant intends to introduce as evidence-in-chief at trial, or which were \nprepared by a witness whom the defendant intends to call at trial and which \nrelate to that witness's testimony.\n(3) Expert Witnesses Under Fed. R. Crim. P. 16(b)(1)(C). Within 14 days after \nthe government’s request, a written summary of testimony the defendant \nintends to use under Rules 702, 703, or 705 of the Federal Rules of Evidence.\n(D) Other Disclosure Obligations of the Government. The government's attorney shall \nprovide the following within 7 days after the defendant's arraignment, or promptly \nafter acquiring knowledge thereof:\n(1) Brady Material. All information and material known to the government which \nmay be favorable to the defendant on the issues of guilt or punishment, without \nregard to materiality, that is within the scope of Brady v. Maryland, 373 U.S. \n83 (1963) and United States v. Agurs, 427 U.S. 97 (1976).\n(2) Giglio Material. The existence and substance of any payments, promises of \nimmunity, leniency, preferential treatment, or other inducements made to \nprospective witnesses, within the scope of United States v. Giglio, 405 U.S. \n150 (1972) and Napus v. Illinois, 360 U.S. 264 (1959).\n(3) Testifying Informant’s Convictions. A record of prior convictions of any \nalleged informant who will testify for the government at trial.\n(4) Defendant’s Identification. If a lineup, showup, photo spread or similar \nprocedure was used in attempting to identify the defendant, the exact procedure \nand participants shall be described and the results, together with any pictures ",
+          "pages": [
+            24
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-26",
+          "path": [],
+          "type": "paragraph",
+          "text": "25\nand photographs, shall be disclosed.\n(5) Inspection of Vehicles, Vessels, or Aircraft. If any vehicle, vessel, or aircraft \nwas allegedly utilized in the commission of any offenses charged, the \ngovernment shall permit the defendant’s counsel and any experts selected by \nthe defense to inspect it, if it is in the custody of any governmental authority.\n(6) Defendant’s Latent Prints. If latent fingerprints, or prints of any type, have \nbeen identified by a government expert as those of the defendant, copies \nthereof shall be provided.\n(E) Obligations of the Government.\n(1) The government shall advise all government agents and officers involved in the \ncase to preserve all rough notes and electronically stored information.\n(2) The government shall advise the defendant of its intention to introduce \nevidence at trial, pursuant to Rule 404(b), Federal Rules of Evidence.\n(3) If the defendant was an “aggrieved person” as defined in 18 U.S.C. § 2510(11), \nthe government shall so advise the defendant and set forth the detailed \ncircumstances thereof.\n(4) The government shall anticipate the need for, and arrange for the transcription \nof, the grand jury testimony of all witnesses who will testify in the \ngovernment's case-in-chief, if subject to Fed. R. Crim. P. 26.2 and to 18 U.S.C. \n§ 3500. Jencks Act materials and witnesses’ statements shall be provided as \nrequired by Fed. R. Crim. P. 26.2 and § 3500. However, the government, and \nwhere applicable, the defendant, is requested to make such materials and \nstatements available to the other party sufficiently in advance so as to avoid \nany delays or interruptions at trial.\n(F) Obligations of the Defendant.\n(1) Insanity. If a defendant intends to rely upon the defense of insanity at the time \nof the alleged crime, or intends to introduce expert testimony relating to a \nmental disease, defect, or other mental condition bearing upon the issue of \nguilt, or, in a capital case, punishment, the defendant shall give written notice \nthereof to the government within 14 days after arraignment.\n(2) Alibi. If the attorney for the government makes demand for notice of \ndefendant’s intent to offer a defense of an alibi, the defendant shall respond \nwithin 14 days after the demand.\n(3) Entrapment. If the defendant intends to rely upon the defense of entrapment, \nsuch intention shall be disclosed by written notice to the government’s attorney \nat least 14 days before the trial. See United States v. Webster, 649 F.2d 346 \n(5th Cir. 1981).",
+          "pages": [
+            25
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "26\n(G) Joint Obligations of Attorneys.\n(1) Conference and Joint Report. The attorneys for the government and the \ndefendant shall confer at least 7 days prior to the scheduled date for jury \nselection and shall discuss all discovery requested and provided. They shall \nalso make every possible effort in good faith to stipulate to facts, to points of \nlaw, and to the authenticity of exhibits (particularly regarding those exhibits for \nwhich records custodian witnesses may be avoided). A joint written statement, \nsigned by the attorney for each defendant and the government, shall be \nprepared and filed prior to commencement of trial. It shall generally describe \nall discovery material exchanged and shall set forth all stipulations. No \nstipulation made shall be used against a defendant unless the stipulation is in \nwriting and signed by both the defendant and the defendant’s attorney.\n(2) Newly Discovered Evidence. It shall be the duty of counsel for both sides to \nimmediately reveal to opposing counsel all newly discovered information, \nevidence, or other material within the scope of this rule, and there is a \ncontinuing duty upon each attorney to disclose by the speediest means \navailable.\n(3) Discovery Motions Prohibited. No attorney shall file a discovery motion \nwithout first conferring with opposing counsel, and no motion will be \nconsidered by the Court unless it is accompanied by a certification of such \nconference and a statement of the moving party’s good faith efforts to resolve \nthe subject matter of the motion by agreement with opposing counsel. No \ndiscovery motions should be filed for information or material within the scope \nof this rule.\n(4) Filing of Requests. Discovery requests made pursuant to Fed. R. Crim. P. 16 \nand this local rule require no action on the part of the Court and should not be \nfiled with the Clerk, unless needed for consideration of a motion or to preserve \nan issue for appeal.\n(5) Protected Material. When the government believes that public disclosure of \nGiglio material or testifying-informant convictions poses a danger to a witness, \nit may provide this information in an envelope separate from other discovery \nmaterial and marked “Giglio material/informant convictions—\nDISTRIBUTION OUTSIDE THE DEFENSE TEAM IS PROHIBITED.” \nInformation designated in this manner shall not be distributed by the attorney \nfor the defendant, except to those working on the attorney’s behalf. While it is \ninformation that is necessarily shared with the defendant, copies of this \ninformation shall not be provided to the defendant.\n",
+          "pages": [
+            26
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flnd-civil-parsed-v1-735431487ba914dd",
+      "sourceDocumentId": "parsed-flnd-735431487ba914dd",
+      "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/local_rules/local_rules_0.pdf",
+      "pageIndex": 23,
+      "pageSpan": [
+        23,
+        26
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flnd-civil:41.1",
+      "collectionId": "flnd-civil",
+      "districtId": "flnd",
+      "number": "41.1",
+      "citation": "Northern District of Florida · Rule 41.1",
+      "title": "Dismissal for Failure To Comply With a Rule or Court Order",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-27",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 41.1 Dismissal for Failure To Comply With a Rule or Court Order",
+          "pages": [
+            26
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "27\nIf a party fails to comply with an applicable rule or a court order, the Court may strike a \npleading, dismiss a claim, enter a default on a claim, take other appropriate action, or issue an \norder to show cause why any of these actions should not be taken. \n",
+          "pages": [
+            27
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flnd-civil-parsed-v1-735431487ba914dd",
+      "sourceDocumentId": "parsed-flnd-735431487ba914dd",
+      "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/local_rules/local_rules_0.pdf",
+      "pageIndex": 26,
+      "pageSpan": [
+        26,
+        27
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flnd-civil:54.1",
+      "collectionId": "flnd-civil",
+      "districtId": "flnd",
+      "number": "54.1",
+      "citation": "Northern District of Florida · Rule 54.1",
+      "title": "Motions for Attorney’s Fees",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-28",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 54.1 Motions for Attorney’s Fees\n(A) Bifurcated Procedure. A party who seeks an award of attorney’s fees must first \nmove for a determination of the party’s entitlement to a fee award and may move for \na determination of the amount of an award only after the Court determines the \nparty’s entitlement to an award. Local Rule 7.1, including the requirement for the \nattorneys to confer in a good-faith effort to resolve the dispute, applies in full.\n(B) Deadline for an Entitlement Motion. The deadline for moving for a determination \nof entitlement is 14 days after the entry of the judgment or, if there is no judgment, \n14 days after the case is closed. An appeal does not extend the deadline unless the \nCourt so orders.\n(C) Maintaining Time Records. No award of attorney’s fees will be made based in \nwhole or part on time devoted to a case unless the attorney or other timekeeper made \na contemporaneous, detailed record of the time to the nearest tenth hour. A detailed \nrecord must provide enough information to allow the Court to evaluate \nreasonableness; an entry like “research” or “conference” without a description of the \nsubject will not do. \n(D) Filing and Disclosing Time Records. Unless an assigned judge orders otherwise, \nthe time records must not be filed with the Clerk until necessary for the \ndetermination of a fee motion. But a party must promptly disclose to another \nparty—on a request made at any time—the total number of hours that have been \ndevoted to the case by the party’s attorneys and other timekeepers through the end of \nthe month preceding the request.\n(E) Required Filings in Support of a Motion to Determine the Fee Amount. If the \nCourt determines that a party is entitled to a fee award, the party must file within 30\ndays:\n(1) A declaration setting out the time devoted to the case by date and task, \nspecifically identifying the timekeeper and the timekeeper’s claimed hourly \nrate. The declaration must include sufficient detail to allow a determination of \nreasonableness. And the declaration must include sufficient detail to allow the \nmaximum feasible separation of time devoted to matters that are and are not \ncompensable and matters on which the party did and did not prevail. \n(2) A declaration of an independent attorney addressing the reasonableness of the \nclaimed time and rates. \n(F) Required Filings in Opposition to a Motion to Determine the Fee Amount. A ",
+          "pages": [
+            27
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "28\nparty who opposes a motion to determine the fee amount must file within 30 days \nafter the motion is served a memorandum specifically identifying any objection to \nthe claimed amount. If the party objects to a timekeeper’s claimed hourly rate, the \nmemorandum must set out the rate that the party asserts is reasonable. If the party \nasserts that hours should be reduced or not compensated, the memorandum must \nidentify the hours or otherwise specifically describe the proposed reduction. The \nmemorandum must set out the fee award the party asserts would be reasonable—and \nby doing so the party will not be deemed to waive the party’s objection that fees \nshould not be awarded at all.\n(G) Additional Conference and Notice. After a party files a memorandum in opposition \nto the motion to determine the fee amount, the attorneys must confer again in a \ngood-faith effort to resolve the dispute—on amount if not also on entitlement. The \nparties must file a notice of whether they have reached any agreement. The deadline \nfor the notice is 14 days after the memorandum in opposition was filed.\n",
+          "pages": [
+            28
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flnd-civil-parsed-v1-735431487ba914dd",
+      "sourceDocumentId": "parsed-flnd-735431487ba914dd",
+      "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/local_rules/local_rules_0.pdf",
+      "pageIndex": 27,
+      "pageSpan": [
+        27,
+        28
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flnd-civil:54.2",
+      "collectionId": "flnd-civil",
+      "districtId": "flnd",
+      "number": "54.2",
+      "citation": "Northern District of Florida · Rule 54.2",
+      "title": "Taxation of Costs",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 54.2 Taxation of Costs\n(A) Bill of Costs Required; Objections; Deadlines. A party who seeks taxation of \ncosts—other than attorney’s fees—must file a verified bill of costs on a form \navailable from the Clerk or on the District’s website. The deadline for filing the bill of \ncosts is 14 days after the entry of the judgment or, if there is no judgment, 14 days \nafter the case is closed. The party may simultaneously file a memorandum in support \nof the bill of costs. Any other party may file a memorandum in opposition within 14 \ndays after the bill of costs is filed. An appeal does not extend these deadline unless \nthe Court so orders.\n(B) Taxation by the Clerk or the Court. Unless the Court orders otherwise, the Clerk\nwill review and take appropriate action on the bill of costs, after the deadline for \nfiling objections. \n(C) Review by the Court. On motion filed within 7 days after the Clerk’s action, the \nCourt may review the action. \n(D) Administrative Order. An administrative order may provide guidance to the Clerk\nand parties on the taxation of categories of costs, but the administrative order will \nhave no legal effect in any dispute over whether a cost legally can or should be taxed \nin a case.\n",
+          "pages": [
+            28
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flnd-civil-parsed-v1-735431487ba914dd",
+      "sourceDocumentId": "parsed-flnd-735431487ba914dd",
+      "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/local_rules/local_rules_0.pdf",
+      "pageIndex": 28,
+      "pageSpan": [
+        28,
+        28
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flnd-civil:56.1",
+      "collectionId": "flnd-civil",
+      "districtId": "flnd",
+      "number": "56.1",
+      "citation": "Northern District of Florida · Rule 56.1",
+      "title": "Summary Judgment Motions",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-29",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 56.1 Summary Judgment Motions\n(A) Federal Rule 56. A summary-judgment motion is governed by Federal Rule of Civil \nProcedure 56 and, unless the Court orders otherwise, this rule.",
+          "pages": [
+            28
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "29\n(B) Motion and Supporting Memorandum. A party who moves for summary \njudgment must file at the same time a memorandum of up to 8,000 words and any \nsupporting evidence not already in the record. The memorandum must include a \nstatement of facts generally in the form that would be appropriate in an appellate \nbrief. A statement of facts must not be set out in a separate document.\n(C) Opposing Memorandum. An opposing party must file within 21 days—without a \n3-day extension based on electronic service of the motion—a memorandum of up to \n8,000 words and any opposing evidence not already in the record. The memorandum \nmust respond to the moving party’s statement of facts as would be appropriate in an \nappellate brief. The opposing party must not file a separate document setting out the \nfacts or responding to the moving party’s statement of facts.\n(D) Reply Memorandum. The moving party may file a reply memorandum of up to \n3,200 words. The moving party should do so only if the opposing memorandum \nraised new matters not addressed in the original supporting memorandum. The \ndeadline for a reply memorandum is 7 days after the opposing memorandum is \nfiled—without a 3-day extension based on electronic service of the opposing \nmemorandum. \n(E) Word Limits. Words are counted under this rule, and a certificate of compliance is \nrequired, in the same manner as under Local Rule 7.1(F).\n(F) Pinpoint Record Citations Required. Each memorandum must include pinpoint \ncitations to the record evidence supporting each factual assertion. The Court may, \nbut need not, consider record evidence that has not been properly cited. \n(G) Ruling Without a Hearing; Time for a Ruling. A motion may be resolved against \na party without a hearing—and without further notice—at any time after the party \nhas had an opportunity to file a memorandum and evidence under this rule. \n",
+          "pages": [
+            29
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flnd-civil-parsed-v1-735431487ba914dd",
+      "sourceDocumentId": "parsed-flnd-735431487ba914dd",
+      "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/local_rules/local_rules_0.pdf",
+      "pageIndex": 28,
+      "pageSpan": [
+        28,
+        29
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flnd-civil:72.1",
+      "collectionId": "flnd-civil",
+      "districtId": "flnd",
+      "number": "72.1",
+      "citation": "Northern District of Florida · Rule 72.1",
+      "title": "Authority of United States Magistrate Judges",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-30",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 72.1 Authority of United States Magistrate Judges\n(A) Duties Under 28 U.S.C. § 636; Effect of a Ruling by a Magistrate Judge. \n(1) A magistrate judge is a judicial officer of the district court. All United States \nmagistrate judges serving within the territorial jurisdiction of the Northern \nDistrict of Florida have the authority conferred by 28 U.S.C. § 636 and may \nexercise all other powers and duties conferred or imposed by law and the \nfederal procedure rules.\n(2) A magistrate judge’s ruling or order in a matter heard and determined by a \nmagistrate judge is the court=s ruling and will remain in effect unless and until \nreversed, vacated, modified, or stayed. The filing of a motion for \nreconsideration does not stay the magistrate judge=s ruling or order.",
+          "pages": [
+            29
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "30\n(B) Designation for Trial of Misdemeanor Cases Upon Consent Under 18 U.S.C. \n§ 3401. All United States magistrate judges serving within the territorial jurisdiction \nof the Northern District of Florida are hereby designated to try persons accused of, \nand sentence persons convicted of, misdemeanors and petty offenses committed \nwithin this District, in accordance with 18 U.S.C. § 3401 and Fed. R. Crim. P. 58. \n(C) Designation for Trial of Civil Cases Upon Consent Pursuant to 28 U.S.C. \n§ 636(c). With the consent of the parties, full-time magistrate judges are hereby \ndesignated to conduct civil trials, including the entry of final judgment.\n",
+          "pages": [
+            30
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flnd-civil-parsed-v1-735431487ba914dd",
+      "sourceDocumentId": "parsed-flnd-735431487ba914dd",
+      "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/local_rules/local_rules_0.pdf",
+      "pageIndex": 29,
+      "pageSpan": [
+        29,
+        30
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flnd-civil:72.2",
+      "collectionId": "flnd-civil",
+      "districtId": "flnd",
+      "number": "72.2",
+      "citation": "Northern District of Florida · Rule 72.2",
+      "title": "Referral of Matters to Magistrate Judges by this Rule",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-31",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 72.2 Referral of Matters to Magistrate Judges by this Rule\n(A) Misdemeanor Cases. All misdemeanor cases, including those transferred to this \nDistrict pursuant to Fed. R. Crim. P. 20, shall be assigned by the Clerk, upon the \nfiling of an information, complaint, or violation notice, or the return of an \nindictment, to a magistrate judge, who shall proceed in accordance with the \nprovisions of 18 U.S.C. § 3401 and of Fed. R. Crim. P. 58.\n(B) Applications for Post-Trial Relief by Persons Convicted of Criminal Offenses \nand Other Cases Filed Under 28 U.S.C. §§ 2241, 2254, and 2255. Except in cases \nin which the death penalty has been imposed, all cases seeking post-trial or \npostconviction relief by persons convicted of state or federal offenses and all other \ncases arising under 28 U.S.C. §§ 2241, 2254, or 2255, shall be assigned to a district \njudge and, unless otherwise ordered, shall be referred by the Clerk to a full-time \nmagistrate judge for all proceedings, including preliminary orders, conduct of \nnecessary evidentiary hearings, and filing of a report and recommendation \ncontaining proposed findings of fact and conclusions of law and recommending \ndisposition of the application or petition.\n(C) Civil Rights Cases Filed by Prisoners. All prisoner petitions and complaints \nchallenging conditions of confinement pursuant to 42 U.S.C. § 1983 and 28 U.S.C. §\n1331 (Bivens actions), or pursuant to similar statutes, shall be assigned to a district \njudge and, unless otherwise ordered, shall be referred by the Clerk to a full-time \nmagistrate judge for all proceedings, including preliminary orders, conduct of \nnecessary evidentiary hearings, and filing of a report and recommendation \ncontaining proposed findings of fact and conclusions of law and recommending \ndisposition of the complaint.\n(D) Social Security Cases and Other Administrative Proceedings. All actions brought \nunder section 205(g) of the Social Security Act, 42 U.S.C. § 405(g) and related \nstatutes, and all other actions to review administrative determinations on a developed \nadministrative record shall be assigned to a district judge and, unless otherwise \nordered, shall be referred by the Clerk to a magistrate judge for all proceedings, \nincluding preliminary orders, conduct of necessary hearings, and filing of a report \nand recommendation containing proposed findings of fact and conclusions of law \nand recommending disposition of the petition or complaint.",
+          "pages": [
+            30
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-32",
+          "path": [],
+          "type": "paragraph",
+          "text": "31\n(E) Civil Cases Filed by Non-Prisoner Pro Se Litigants. All civil cases filed where \none or more of the parties is a non-prisoner pro se litigant shall be assigned to a \ndistrict judge and, unless otherwise ordered, shall be referred by the Clerk to a full \ntime magistrate judge for all proceedings, including preliminary orders, conduct of \nnecessary hearings, and filing of a report and recommendation containing proposed \nfindings of fact and conclusions of law and recommending disposition of the case.\n(F) Additional Duties. Absent an order by a district judge in a specific case to the \ncontrary, the following additional matters shall routinely be referred by the Clerk to \nmagistrate judges serving within the territorial jurisdiction of the Northern District of \nFlorida when a magistrate judge is available, and magistrate judges to whom such \nmatters have been referred shall have authority to:\n(1) Issue criminal complaints and issue appropriate arrest warrants or summons;\n(2) Issue search warrants pursuant to Fed. R. Crim. P. 41, and issue administrative \nsearch or inspection warrants;\n(3) Review for probable cause and issue process upon any other application by the \nUnited States (for example, for seizure of real property in rem) for which there \nis evolving legal precedent indicating a need for a judicial finding of probable \ncause before proceeding;\n(4) Issue warrants and orders as authorized by 18 U.S.C. § 2703 (disclosure of \ncustomer communications or records), 18 U.S.C. § 3123 (a pen register or a \ntrap and trace device), or orders and writs pursuant to 28 U.S.C. § 1651(a) (all \nwrits necessary or appropriate in aid of jurisdiction);\n(5) Conduct initial appearances in felony cases, consider and determine motions \nfor detention, impose conditions of release pursuant to 18 U.S.C. § 3142, \nconduct arraignments upon indictments for purposes of taking a not guilty plea, \nand issue scheduling orders setting trial;\n(6) Appoint counsel for indigent persons pursuant to 18 U.S.C. § 3006A;\n(7) Consider and determine motions for detention and impose conditions of release \nfor material witnesses pursuant to 18 U.S.C. § 3144;\n(8) Conduct preliminary hearings upon criminal complaints and determine \nprobable cause;\n(9) Conduct and determine removal hearings and issue warrants of removal;\n(10) Conduct first appearances and preliminary hearings, by whatever name called, \nin proceedings for the revocation of parole, supervised release, mandatory \nrelease, or probation;",
+          "pages": [
+            31
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-33",
+          "path": [],
+          "type": "paragraph",
+          "text": "32\n(11) Receive the return of indictments by the grand jury and issue process thereon;\n(12) Hear and order discharge of indigent prisoners or persons imprisoned for debt \nunder process or execution issued by a federal court pursuant to 18 U.S.C. §\n3569 (repealed 1987) and 28 U.S.C. § 2007;\n(13) Appoint interpreters in cases pending before a magistrate judge initiated by the \nUnited States pursuant to 28 U.S.C. §§ 1827 and 1828;\n(14) Issue warrants and conduct extradition proceedings pursuant to 18 U.S.C. §\n3184;\n(15) Perform the functions specified in 18 U.S.C. §§ 4107, 4108, and 4109, \nregarding proceedings for verification of consent by offenders to transfer to or \nfrom the United States and the appointment of counsel therein;\n(16) Institute proceedings against persons violating certain civil rights statutes under \n42 U.S.C. §§ 1987 and 1989;\n(17) Issue subpoenas, writs of habeas corpus ad testificandum or habeas corpus ad \nprosequendum, or other orders necessary to obtain the presence of parties, \nwitnesses or evidence needed for court proceedings in any civil and criminal \ncases;\n(18) Issue attachment or other orders to enforce obedience to an Internal Revenue \nService summons to produce records or give testimony pursuant to 26 U.S.C. §\n7604(a) and (b);\n(19) Settle and certify the nonpayment of seaman’s wages and conduct proceedings \nfor the disposition of deceased seaman’s effects under 46 U.S.C. § 10101 et \nseq.;\n(20) Enforce awards of foreign consul and arbitrate differences between captains \nand crews of vessels of the consul’s nations under 22 U.S.C. § 358a;\n(21) Review prisoner correspondence;\n(22) Enter court orders to withdraw funds from the registry of the court in matters \nhandled by the magistrate judge;\n(23) Preside at naturalization ceremonies and issue orders granting motions for \nnaturalization;\n(24) Preside at attorney admission ceremonies and issue orders granting \napplications for admission to the District’s bar;\n(25) Adopt schedules for forfeiture of collateral under Fed. R. Crim. P. 58(d)(1);",
+          "pages": [
+            32
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "33\n(26) Issue warrants of arrest in rem, attachment, garnishment, or other process in \nadmiralty; and\n(27) Determine actions to be taken regarding noncomplying documents submitted \nfor filing under N.D. Fla. Loc. R. 5.1, or the Federal Rules of Civil or Criminal \nProcedure.\n",
+          "pages": [
+            33
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flnd-civil-parsed-v1-735431487ba914dd",
+      "sourceDocumentId": "parsed-flnd-735431487ba914dd",
+      "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/local_rules/local_rules_0.pdf",
+      "pageIndex": 30,
+      "pageSpan": [
+        30,
+        33
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flnd-civil:72.3",
+      "collectionId": "flnd-civil",
+      "districtId": "flnd",
+      "number": "72.3",
+      "citation": "Northern District of Florida · Rule 72.3",
+      "title": "Specific Referrals of Matters to Magistrate Judges",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 72.3 Specific Referrals of Matters to Magistrate Judges\nAny district judge may assign any matter, civil or criminal, to a magistrate judge of this \nDistrict to the full extent permitted by 28 U.S.C. § 636. Specifically included is the taking of \nguilty pleas in felony cases with the consent of the defendant and recommending the acceptance \nor rejection of such pleas to the district judge, and ordering a presentence investigation report. \nThe assignment and designation of duties to magistrate judges by district judges may be made by \nwritten standing order entered jointly by the resident district judges of the District or of any \ndivision of the District or through oral directive or written order by any individual district judge in \nany case, cases, or category of cases assigned to that judge.\n",
+          "pages": [
+            33
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flnd-civil-parsed-v1-735431487ba914dd",
+      "sourceDocumentId": "parsed-flnd-735431487ba914dd",
+      "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/local_rules/local_rules_0.pdf",
+      "pageIndex": 33,
+      "pageSpan": [
+        33,
+        33
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flnd-civil:72.4",
+      "collectionId": "flnd-civil",
+      "districtId": "flnd",
+      "number": "72.4",
+      "citation": "Northern District of Florida · Rule 72.4",
+      "title": "Full-time and Part-time Magistrate Judges",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 72.4 Full-time and Part-time Magistrate Judges\nAny reference in these local rules to magistrate judges includes both full-time and part￾time magistrate judges unless otherwise expressly stated in these rules or in the applicable general \nlaw or rules of procedure.\n",
+          "pages": [
+            33
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flnd-civil-parsed-v1-735431487ba914dd",
+      "sourceDocumentId": "parsed-flnd-735431487ba914dd",
+      "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/local_rules/local_rules_0.pdf",
+      "pageIndex": 33,
+      "pageSpan": [
+        33,
+        33
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flnd-civil:73.1",
+      "collectionId": "flnd-civil",
+      "districtId": "flnd",
+      "number": "73.1",
+      "citation": "Northern District of Florida · Rule 73.1",
+      "title": "Procedures for Consent to Trial Before a Magistrate Judge",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-34",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 73.1 Procedures for Consent to Trial Before a Magistrate Judge\n(A) Notice. In all civil cases, as may be provided by Administrative Order, the Clerk\nshall notify the parties that, pursuant to 28 U.S.C. § 636(c), they may consent to have \na full-time magistrate judge conduct any or all proceedings in the case and order the \nentry of a final judgment. The notice shall state that the parties are free to withhold \ntheir consent without adverse substantive consequences.\n(B) Execution of Consent. Any party who consents to trial of any or all of the civil case \nby a magistrate judge must execute a consent form and return it to the office of the \nClerk within 45 days of the date of service of the notice. The form shall not be \nreturned if the party does not consent. No magistrate judge, district judge, or other \ncourt official may attempt to coerce any party to consent to the reference of any \nmatter to a full-time magistrate judge. This rule, however, shall not preclude any \ndistrict judge or magistrate judge from informing the parties that they may have the \noption of having a case referred to a full-time magistrate judge for all proceedings, \nincluding trial.",
+          "pages": [
+            33
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "34\n(C) Reference. Cases in which the parties have timely filed a fully executed consent \nform shall be referred to the full-time magistrate judge assigned to the case, and \nnotice thereof shall be made a part of the file, with copies furnished to the parties.\n",
+          "pages": [
+            34
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flnd-civil-parsed-v1-735431487ba914dd",
+      "sourceDocumentId": "parsed-flnd-735431487ba914dd",
+      "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/local_rules/local_rules_0.pdf",
+      "pageIndex": 33,
+      "pageSpan": [
+        33,
+        34
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flnd-civil:77.1",
+      "collectionId": "flnd-civil",
+      "districtId": "flnd",
+      "number": "77.1",
+      "citation": "Northern District of Florida · Rule 77.1",
+      "title": "Photographing, Recording, and Broadcasting Proceedings",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 77.1 Photographing, Recording, and Broadcasting Proceedings\n(A) Proceedings must not be photographed, recorded, broadcast, or transmitted by any \nmeans, except as authorized by this rule.\n(B) Investitures, naturalizations, and ceremonial proceedings may be photographed or \nrecorded, unless the Court prohibits it.\n(C) Proceedings may be transmitted to or recorded by the United States Marshals \nService for security purposes.\n(D) The court reporter may make an audio recording for use in preparing an official \ntranscript. And other court personnel may make an audio recording when the \nrecording will be the official record of a proceeding.\n(E) The Court may authorize any other photograph, recording, broadcast, or \ntransmission if consistent with any applicable policies of the Judicial Conference of \nthe United States and Eleventh Circuit Judicial Council. \n",
+          "pages": [
+            34
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flnd-civil-parsed-v1-735431487ba914dd",
+      "sourceDocumentId": "parsed-flnd-735431487ba914dd",
+      "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/local_rules/local_rules_0.pdf",
+      "pageIndex": 34,
+      "pageSpan": [
+        34,
+        34
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flnd-civil:77.2",
+      "collectionId": "flnd-civil",
+      "districtId": "flnd",
+      "number": "77.2",
+      "citation": "Northern District of Florida · Rule 77.2",
+      "title": "Electronic Devices",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-35",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 77.2 Electronic Devices\n(A) This rule applies to devices that are capable of remote communication (including \ncellular telephones, laptops, and electronic tablets). This rule also applies to devices \nthat are capable of photographing, recording, broadcasting, or transmitting \nproceedings. Such devices must not be brought into a United States Courthouse in \nthis District, except as authorized by this rule.\n(B) Court employees and employees of an agency with an office in a courthouse may \nbring devices into the courthouse but may not bring devices into a courtroom unless \notherwise authorized by this rule.\n(C) Officers providing security may bring devices into a courtroom.\n(D) The attorneys of record in a case and members of their staffs may bring devices into \nthe courthouse and into a courtroom. While in the courtroom, attorneys and staff \nmembers may use devices only in connection with the proceeding and otherwise \nmust keep devices off or in silent mode. Cellular telephones and other hand-held \ndevices must be kept out of sight while court is in session. Devices may be used \noutside a courtroom or in other parts of the building so long as court proceedings are \nnot disturbed. The Court may change these provisions by an order in a case.",
+          "pages": [
+            34
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "35\n(E) Members of the media may request the same authority to bring in and use devices as \nattorneys and their staffs have under this rule’s paragraph (D). A request may be \nmade orally or in writing to the Clerk. The Clerk may grant the request under \nguidelines established by an administrative order or as authorized by the Court in a \ncase. Unless the Clerk grants such a request or the Court gives greater authority \nunder this rule’s paragraph (G), members of the media have the same rights, and are \nsubject to the same obligations, as members of the public.\n(F) Devices may be brought into a courthouse for photographing, recording, \nbroadcasting, or transmitting proceedings as authorized by Local Rule 77.1.\n(G) The Court may authorize devices to be brought into the courthouse or courtroom on \nother specific occasions and may authorize or restrict their use.\n(H) The United States Marshals Service may agree to store a device that cannot properly \nbe brought into the courthouse under this rule. And as part of its control over the \ncourthouse grounds, the Marshals Service may ban or restrict devices on the \ngrounds.\n",
+          "pages": [
+            35
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flnd-civil-parsed-v1-735431487ba914dd",
+      "sourceDocumentId": "parsed-flnd-735431487ba914dd",
+      "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/local_rules/local_rules_0.pdf",
+      "pageIndex": 34,
+      "pageSpan": [
+        34,
+        35
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flnd-civil:77.3",
+      "collectionId": "flnd-civil",
+      "districtId": "flnd",
+      "number": "77.3",
+      "citation": "Northern District of Florida · Rule 77.3",
+      "title": "Video and Audio Proceedings",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 77.3 Video and Audio Proceedings\nThe Court may conduct a trial or hearing—and may receive testimony and other \nevidence—by video or audio transmission from a remote location, unless contrary to law.\n",
+          "pages": [
+            35
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flnd-civil-parsed-v1-735431487ba914dd",
+      "sourceDocumentId": "parsed-flnd-735431487ba914dd",
+      "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/local_rules/local_rules_0.pdf",
+      "pageIndex": 35,
+      "pageSpan": [
+        35,
+        35
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flnd-civil:77.4",
+      "collectionId": "flnd-civil",
+      "districtId": "flnd",
+      "number": "77.4",
+      "citation": "Northern District of Florida · Rule 77.4",
+      "title": "Release of Information in Criminal and Civil Cases",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-36",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 77.4 Release of Information in Criminal and Civil Cases\n(A) Release of Information by Officials in General. No judicial branch employee \n(including a judge’s staff, clerks, probation officers, and court reporters), no officer, \nemployee or representative of the United States Marshals Service or court security \nofficer, nor any state, local, or federal law enforcement officer or employee \nassociated with or assisting in the preparation or trial of a criminal case, may \ndisseminate by any means of public communication, without authorization by the \nCourt, information relating to an imminent or pending criminal or civil case that is \nnot part of the public records of the court.\n(B) Release of Information by Attorneys in Criminal Cases.\n(1) It is the duty of attorneys, including the United States Attorney, who represent \nparties in criminal cases, and their respective staffs, not to release or authorize \nthe release of information or opinion which a reasonable person would expect \nto be disseminated by means of public communication, in connection with \npending or imminent criminal litigation with which the attorney is associated, \nif there is a substantial likelihood that such dissemination will cause material ",
+          "pages": [
+            35
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-37",
+          "path": [],
+          "type": "paragraph",
+          "text": "36\nprejudice to a fair trial or otherwise cause material prejudice to the due \nadministration of justice.\n(2) With respect to a grand jury or other pending investigation of any criminal \nmatter, an attorney participating in or associated with the investigation shall \nrefrain from making any extrajudicial statement which a reasonable person \nwould expect to be disseminated by means of public communication, that goes \nbeyond the public record or that is not necessary to inform the public that the \ninvestigation is underway, to describe the general scope of the investigation, to \nobtain assistance in the apprehension of a suspect, to warn the public of any \ndangers, or otherwise to aid in the investigation.\n(3) From the time of arrest, issuance of an arrest warrant, or the filing of a \ncomplaint, information, or indictment in any criminal matter until the \ncommencement of trial or disposition without trial, no attorney nor others \nassociated with the prosecution or defense shall release or authorize the release \nof any extrajudicial statement which a reasonable person would expect to be \ndisseminated by means of public communication, relating to that matter and \nconcerning:\n(a) The prior criminal record (including arrests, indictment, or other charges \nof crime) or the character or reputation of the accused, except that the \nattorney may make a factual statement of the accused’s name, age, \nresidence, occupation, and family status. If the accused has not been \napprehended, an attorney associated with the prosecution may release any \ninformation necessary to aid in apprehension of the accused or to warn \nthe public of any dangers the accused may present;\n(b) The existence or contents of any confession, admission, or statement \ngiven by the accused, or the refusal or failure of the accused to make any \nstatement;\n(c) The performance of any examinations or tests or the accused’s refusal or \nfailure to submit to an examination or test;\n(d) The identity, testimony, or credibility of prospective witnesses, except \nthat the attorney may announce the identity of the victim if the \nannouncement is not otherwise prohibited by law;\n(e) The possibility of a plea of guilty to the offense charged or a lesser \noffense;\n(f) Any opinion as to the accused’s guilt or innocence or as to the merits of \nthe case or the evidence in the case.\n(4) These prohibitions shall not be construed to preclude the attorney, in the proper \ndischarge of official or professional obligations, from announcing the fact and \ncircumstances of arrest (including time and place of arrest, resistance, pursuit, ",
+          "pages": [
+            36
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-38",
+          "path": [],
+          "type": "paragraph",
+          "text": "37\nand use of weapons), the identity of the investigating and arresting officer or \nagency, and the length of the investigation; from making an announcement, at \nthe time of seizure of any physical evidence other than a confession, \nadmission, or statement, which is limited to a description of the evidence \nseized; from disclosing the nature, substance, or text of the charge, including a \nbrief description of the offense charged; from quoting or referring without \ncomment to public records of the court in the case; from announcing the \nscheduling or result of any stage in the judicial process; from requesting \nassistance in obtaining evidence; or from announcing without further comment \nthat the accused denies the charges.\n(5) During the trial of any criminal matter, including the period of selection of the \njury, no attorney associated with the prosecution or defense shall give or \nauthorize any extrajudicial statement or interview, relating to the trial or the \nparties or issues in the trial which a reasonable person would expect to be \ndisseminated by means of public communication, except that an attorney may \nquote from or refer without comment to public records of the court in the case.\n(6) After the completion of a trial or disposition without trial of any criminal \nmatter, and prior to the imposition of sentence, an attorney associated with the \nprosecution or defense shall refrain from making or authorizing any extrajudi￾cial statement which a reasonable person would expect to be disseminated by \nmeans of public communication if there is a substantial likelihood that such \ndissemination will materially prejudice the imposition of sentence.\n(7) Nothing in this rule is intended to preclude the formulation or application of \nmore restrictive rules relating to the release of information about juvenile or \nother offenders, to preclude the holding of hearings or the lawful issuance of \nreports by legislative, administrative, or investigative, or to preclude any \nattorney who represented a party from replying to charges, made public, of \nattorney misconduct.\n(C) Release of Information by Attorneys in Civil Cases. An attorney associated with a \ncivil action shall not during its investigation or litigation make or participate in \nmaking an extrajudicial statement, other than a quotation from or reference to public \nrecords, which a reasonable person would expect to be disseminated by means of \npublic communication if there is a substantial likelihood that such dissemination will \ncause material prejudice to a fair trial and which relates to:\n(1) Evidence regarding the occurrence or transaction involved;\n(2) The character, credibility, or criminal record of a party, witness, or prospective \nwitness;\n(3) The performance of results or any examinations or tests or the refusal or failure \nof a party to submit to such;\n(4) An opinion as to the merits of the claims or defenses of a party, except as ",
+          "pages": [
+            37
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "38\nrequired by law or administrative rule; or\n(5) Any other matter reasonably likely to interfere with a fair trial of the action.\n(D) Special Orders in Widely Publicized and Sensational Cases. In a widely \npublicized or sensational case, the Court on motion of either party or on its own \nmotion, may issue a special order governing such matters as: (1) extrajudicial \nstatements by parties and witnesses likely to interfere with the rights of the accused \nto a fair trial by an impartial jury, (2) the seating and conduct in the courtroom of \nspectators and news media representatives, (3) management and sequestration of \njurors and witnesses, and (4) any other matters which the Court may deem \nappropriate for inclusion in such an order.\n(E) Sealed Indictments in Criminal Cases. Sealed indictments will be automatically \nunsealed by the Clerk at the first appearance of any defendant named in that \nindictment unless otherwise ordered by a judicial officer.\n(F) Disposition of Sealed Documents in Civil Cases at the Conclusion of the Case. \nThirty days after the conclusion of a civil case (expiration of the time to appeal, if no \nappeal is filed, or voluntary dismissal of the appeal, or receipt of the mandate after \nan appeal and expiration of the time in which to seek certiorari review in the\nSupreme Court, if an appeal is taken) all sealed documents maintained in paper form \nwill be returned to the party who submitted them, and the party shall retain the \ndocuments for 3 years thereafter.\n",
+          "pages": [
+            38
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flnd-civil-parsed-v1-735431487ba914dd",
+      "sourceDocumentId": "parsed-flnd-735431487ba914dd",
+      "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/local_rules/local_rules_0.pdf",
+      "pageIndex": 35,
+      "pageSpan": [
+        35,
+        38
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flnd-civil:77.5",
+      "collectionId": "flnd-civil",
+      "districtId": "flnd",
+      "number": "77.5",
+      "citation": "Northern District of Florida · Rule 77.5",
+      "title": "Marshal to Attend Court",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 77.5 Marshal to Attend Court\nUnless excused by the presiding judge, the United States Marshal of this District, or \ndeputy, or, as an alternative in civil cases only, a court security officer, shall be in attendance \nduring all sessions of any kind conducted in open court.\n",
+          "pages": [
+            38
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flnd-civil-parsed-v1-735431487ba914dd",
+      "sourceDocumentId": "parsed-flnd-735431487ba914dd",
+      "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/local_rules/local_rules_0.pdf",
+      "pageIndex": 38,
+      "pageSpan": [
+        38,
+        38
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flnd-civil:87.1",
+      "collectionId": "flnd-civil",
+      "districtId": "flnd",
+      "number": "87.1",
+      "citation": "Northern District of Florida · Rule 87.1",
+      "title": "Appeals in Bankruptcy Cases",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 87.1 Appeals in Bankruptcy Cases\nThe Federal Rules of Bankruptcy Procedure govern the schedule for an appeal to the \ndistrict court in a bankruptcy case except as otherwise ordered by the Court.\n",
+          "pages": [
+            38
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flnd-civil-parsed-v1-735431487ba914dd",
+      "sourceDocumentId": "parsed-flnd-735431487ba914dd",
+      "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/local_rules/local_rules_0.pdf",
+      "pageIndex": 38,
+      "pageSpan": [
+        38,
+        38
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flnd-civil:88.1",
+      "collectionId": "flnd-civil",
+      "districtId": "flnd",
+      "number": "88.1",
+      "citation": "Northern District of Florida · Rule 88.1",
+      "title": "Presentence Investigation Reports, Presentencing Procedures, Provisions of",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-39",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 88.1 Presentence Investigation Reports, Presentencing Procedures, Provisions of \nPretrial Services\n(A) Ordinarily, sentencing will occur approximately 70 days following the defendant’s \nplea of guilty or nolo contendere, or upon being found guilty, subject to the time \nlimitations and other provisions of Fed. R. Crim. P. 32, and following the ",
+          "pages": [
+            38
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-40",
+          "path": [],
+          "type": "paragraph",
+          "text": "39\npreparation of a presentence report by the probation officer.\n(B) The presentence report shall be disclosed only as permitted under Fed. R. Crim. P. \n32; however, the probation officer’s recommendation, if any, on the sentence, shall \nbe disclosed only to the sentencing judge.\n(C) The presentence report shall be deemed to have been disclosed (1) when a copy of \nthe report is physically or electronically delivered; or (2) one day after the report’s \navailability for inspection is orally communicated; or (3) three days after a copy of \nthe report or notice of its availability is mailed. A party must make objections or give \nnotice that it has no objections as required by Fed. R. Crim. P. 32(f).\n(D) No confidential records of the court maintained at the probation office, including \npresentence reports and probation supervision reports, shall be sought by any \napplicant except by written request to the Court establishing with particularity the \nneed for specific information believed to be contained in such records. When a \ndemand for disclosure of such information or such records is made by way of \nsubpoena or other judicial process served upon a probation officer of this court, the \nprobation officer may file a petition seeking instruction from the Court with respect \nto the manner in which that officer should respond to such subpoena or such process.\n(E) Any party filing an appeal or cross appeal in any criminal case in which it is \nexpected that an issue will be asserted pursuant to 18 U.S.C. § 3742 concerning the \nsentence imposed by the Court shall immediately notify the probation officer who \nshall then file with the Clerk for inclusion in the record in camera a copy of the \npresentence investigation report. The probation officer shall also furnish, at the same \ntime, a copy of the presentence report to the United States and to the defendant.\n(F) Pretrial services within the purview of 18 U.S.C. § 3152 et seq. shall be supervised \nand provided by the chief probation/pretrial services officer of this court pursuant to \n18 U.S.C. § 3152(a). Any federal officer taking or receiving custody of a defendant \nin the Northern District of Florida shall immediately notify the probation office of \nsuch detention, the name of the defendant, the charge(s) against the defendant, and \nthe place in which the defendant is being detained. A pretrial services officer shall \nthen interview the defendant as soon as practicable at this place of confinement or, if \nthe defendant has been released, at such other places as the pretrial services officer \nshall specify.\n(G) A party may file a sentencing memorandum. The deadline for doing so is three days \nbefore the sentencing hearing.\n",
+          "pages": [
+            39
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flnd-civil-parsed-v1-735431487ba914dd",
+      "sourceDocumentId": "parsed-flnd-735431487ba914dd",
+      "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/local_rules/local_rules_0.pdf",
+      "pageIndex": 38,
+      "pageSpan": [
+        38,
+        39
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flnd-civil:88.2",
+      "collectionId": "flnd-civil",
+      "districtId": "flnd",
+      "number": "88.2",
+      "citation": "Northern District of Florida · Rule 88.2",
+      "title": "Appeal of a Magistrate Judge’s Rulings in Consent Misdemeanor Cases",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-40",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 88.2 Appeal of a Magistrate Judge’s Rulings in Consent Misdemeanor Cases\n(A) Appeals from any decision, order, judgment, or sentence entered by a magistrate ",
+          "pages": [
+            39
+          ],
+          "parent": null
+        },
+        {
+          "id": "page-41",
+          "path": [],
+          "type": "paragraph",
+          "text": "40\njudge in a misdemeanor criminal case, including petty offenses, as to which the \ndefendant has consented to proceed before a magistrate judge shall be governed by \nFed. R. Crim. P. 58.\n(B) Upon receipt of the notice of appeal, the Clerk shall docket the appeal and assign the \ncase to a district judge.\n(C) Unless excused by order of the district judge, every appellant shall be responsible for \npreparation of a typewritten transcript of the proceedings before the magistrate judge \nfrom which an appeal has been taken. If such transcript has been prepared from an \naudio tape recording, the transcript shall be submitted to the magistrate judge for \ncertification of its accuracy. After certification by the magistrate judge, the transcript \nshall be forwarded to the Clerk for filing, and the Clerk shall promptly notify the \nparties of the filing. A copy of the record of such proceedings shall be made \navailable, at the expense of the court, to a person who establishes by affidavit the \ninability to pay or give security therefor.\n(D) Within 15 days of the date on which the transcript is filed in the Clerk’s office, or if \nthere is to be no transcript, within 15 days of the filing of the notice of appeal, the \nappellant shall serve and file a brief which shall enumerate each reversible error \nclaimed to have occurred in the proceedings before the magistrate judge. Within 15\ndays of service of appellant’s brief, the appellee shall serve and file a brief. The \nappellant may serve and file a reply brief within 7 days of service of appellee’s brief.\n(E) The district judge to whom the appeal is assigned may hear oral argument or may \ndecide the appeal on the briefs. Requests for oral argument shall be made at the time \nbriefs are filed and shall be granted at the discretion of the district judge.\n",
+          "pages": [
+            40
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flnd-civil-parsed-v1-735431487ba914dd",
+      "sourceDocumentId": "parsed-flnd-735431487ba914dd",
+      "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/local_rules/local_rules_0.pdf",
+      "pageIndex": 39,
+      "pageSpan": [
+        39,
+        40
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    },
+    {
+      "id": "flnd-civil:88.3",
+      "collectionId": "flnd-civil",
+      "districtId": "flnd",
+      "number": "88.3",
+      "citation": "Northern District of Florida · Rule 88.3",
+      "title": "Patent Rules",
+      "status": "active",
+      "group": "Local rules · parsed draft",
+      "body": [
+        {
+          "id": "page-41",
+          "path": [],
+          "type": "paragraph",
+          "text": "Rule 88.3 Patent Rules\nThe Northern District of Georgia Local Patent Rules, as amended from time to time, apply\nin a patent case unless the Court orders otherwise.",
+          "pages": [
+            40
+          ],
+          "parent": null
+        }
+      ],
+      "history": [],
+      "footnotes": [],
+      "editionId": "flnd-civil-parsed-v1-735431487ba914dd",
+      "sourceDocumentId": "parsed-flnd-735431487ba914dd",
+      "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/local_rules/local_rules_0.pdf",
+      "pageIndex": 40,
+      "pageSpan": [
+        40,
+        40
+      ],
+      "printedPage": "See original source",
+      "dates": {
+        "amendmentDate": null,
+        "effectiveDate": null,
+        "evidence": []
+      }
+    }
+  ],
+  "evidence": [
+    {
+      "number": "1.1",
+      "heading": "Rule 1.1 Scope of the Rules; Citation",
+      "page": 8,
+      "offset": 94,
+      "slices": [
+        {
+          "page": 8,
+          "start": 94,
+          "end": 533,
+          "sha256": "0ca1ee978e031f37f2c1f4f893eaece1e0e0a748f2c9accce078035589eac955"
+        }
+      ]
+    },
+    {
+      "number": "2.1",
+      "heading": "Rule 2.1 Definitions",
+      "page": 8,
+      "offset": 533,
+      "slices": [
+        {
+          "page": 8,
+          "start": 533,
+          "end": 1151,
+          "sha256": "dd85226be8d57c6a46eee175a3b92f7fb5715607a652f50f0b34baca80229036"
+        }
+      ]
+    },
+    {
+      "number": "3.1",
+      "heading": "Rule 3.1 Divisions",
+      "page": 8,
+      "offset": 1151,
+      "slices": [
+        {
+          "page": 8,
+          "start": 1151,
+          "end": 1309,
+          "sha256": "0c745f3292fdbfaf65b2296aa67236d67a3ac304b395ae283798f5cb51d4f22b"
+        },
+        {
+          "page": 9,
+          "start": 0,
+          "end": 1186,
+          "sha256": "c3363d9573260873ec1fb105b46ec0b5667f0192f6d941ef8e159a2adf908fa3"
+        }
+      ]
+    },
+    {
+      "number": "4.1",
+      "heading": "Rule 4.1 Serving Process on Behalf of a Party Proceeding In Forma Pauperis",
+      "page": 9,
+      "offset": 1186,
+      "slices": [
+        {
+          "page": 9,
+          "start": 1186,
+          "end": 1921,
+          "sha256": "50fa104002fa8439c163262a3086fade5ad41008ff37c3db84be6ce0152cadab"
+        }
+      ]
+    },
+    {
+      "number": "5.1",
+      "heading": "Rule 5.1 Form of Documents",
+      "page": 9,
+      "offset": 1921,
+      "slices": [
+        {
+          "page": 9,
+          "start": 1921,
+          "end": 2117,
+          "sha256": "270dccc31fa1b9777f8bcfca90d65f50bbdb0741aaecd59462ffc43b66467370"
+        },
+        {
+          "page": 10,
+          "start": 0,
+          "end": 2108,
+          "sha256": "8cd7d0e31b56d80b5c347791140a142d6ced43e087ce296bb6a1308976bb59ea"
+        }
+      ]
+    },
+    {
+      "number": "5.2",
+      "heading": "Rule 5.2 Civil Cover Sheet",
+      "page": 10,
+      "offset": 2108,
+      "slices": [
+        {
+          "page": 10,
+          "start": 2108,
+          "end": 2423,
+          "sha256": "febf1b18fa4447654bfe12300687cb063e5d62acd1db31f849db121d35471454"
+        }
+      ]
+    },
+    {
+      "number": "5.3",
+      "heading": "Rule 5.3 Paying a Filing Fee or Proceeding In Forma Pauperis",
+      "page": 10,
+      "offset": 2423,
+      "slices": [
+        {
+          "page": 10,
+          "start": 2423,
+          "end": 2574,
+          "sha256": "5e09fcc31675fdf1ef0bfdec043bc9b16f4c280755062a8838b173fabd744177"
+        },
+        {
+          "page": 11,
+          "start": 0,
+          "end": 711,
+          "sha256": "38b86b8c517b91a86fb71f4d3c61a477fc4d8dad4ef2eac4f86524a954e9670c"
+        }
+      ]
+    },
+    {
+      "number": "5.4",
+      "heading": "Rule 5.4 Electronic Filing",
+      "page": 11,
+      "offset": 711,
+      "slices": [
+        {
+          "page": 11,
+          "start": 711,
+          "end": 2800,
+          "sha256": "b79264b852a3fe02e77442cc4e1f475b1a001c00e88561a7af04efb9721f17f6"
+        },
+        {
+          "page": 12,
+          "start": 0,
+          "end": 776,
+          "sha256": "f6442c6105d7b279afa7aefd42f25463938929e4dc5603b62f92fe0219cb6ce6"
+        }
+      ]
+    },
+    {
+      "number": "5.5",
+      "heading": "Rule 5.5 Sealing Case Files and Documents; Redacting Documents",
+      "page": 12,
+      "offset": 776,
+      "slices": [
+        {
+          "page": 12,
+          "start": 776,
+          "end": 2916,
+          "sha256": "4efeba9518ca83f93d4098e924084918df5661f0c848c7e0be910ea54430d3a4"
+        },
+        {
+          "page": 13,
+          "start": 0,
+          "end": 24,
+          "sha256": "027576763001d7b49bf4e6d417dec44c5cd184d86be09b626e624af69255d1a7"
+        }
+      ]
+    },
+    {
+      "number": "5.6",
+      "heading": "Rule 5.6 Notice of a Prior or Similar Case",
+      "page": 13,
+      "offset": 24,
+      "slices": [
+        {
+          "page": 13,
+          "start": 24,
+          "end": 523,
+          "sha256": "87c515feebb918565bf9646963470a091e821c2651df7127b841a24e923bfd49"
+        }
+      ]
+    },
+    {
+      "number": "5.7",
+      "heading": "Rule 5.7 Pro Se Civil-Rights Cases and Collateral Attacks on Criminal Convictions",
+      "page": 13,
+      "offset": 523,
+      "slices": [
+        {
+          "page": 13,
+          "start": 523,
+          "end": 2107,
+          "sha256": "3ce307e70be6c863c805f289f3ac21b05c8680888a3c7964898872905f0f8e14"
+        }
+      ]
+    },
+    {
+      "number": "5.8",
+      "heading": "Rule 5.8 Special Procedural and Filing Requirements Applicable to Habeas Corpus",
+      "page": 13,
+      "offset": 2107,
+      "slices": [
+        {
+          "page": 13,
+          "start": 2107,
+          "end": 2304,
+          "sha256": "3d1e989f4942dd606234869f3b3311e5b014513737b0e56dd07394aa014f8a13"
+        },
+        {
+          "page": 14,
+          "start": 0,
+          "end": 1973,
+          "sha256": "9af7f865f7746c6b0ccaa89ed5bfae0ac5b4fb8c5fbe6758e9342fc475748a48"
+        }
+      ]
+    },
+    {
+      "number": "5.9",
+      "heading": "Rule 5.9 Trial and Hearing Exhibits",
+      "page": 14,
+      "offset": 1973,
+      "slices": [
+        {
+          "page": 14,
+          "start": 1973,
+          "end": 2093,
+          "sha256": "dd6132d966e0416a668ccd3dfdeb4e51dafda8cc4113d51f125adcd4151a5c45"
+        },
+        {
+          "page": 15,
+          "start": 0,
+          "end": 777,
+          "sha256": "dd1393c73945aff66d991dfeb7db66755c5f50d00d566ef861d510f52e34dfb1"
+        }
+      ]
+    },
+    {
+      "number": "6.1",
+      "heading": "Rule 6.1 Extensions of Time and Continuances",
+      "page": 15,
+      "offset": 777,
+      "slices": [
+        {
+          "page": 15,
+          "start": 777,
+          "end": 1295,
+          "sha256": "b527f465584ac29aae16df8fa77f78cf6e290cf712b15720d9f37fe29f565c20"
+        }
+      ]
+    },
+    {
+      "number": "7.1",
+      "heading": "Rule 7.1 Motions",
+      "page": 15,
+      "offset": 1295,
+      "slices": [
+        {
+          "page": 15,
+          "start": 1295,
+          "end": 2444,
+          "sha256": "4e957db13691e042748b289cafa44e922de790c2315fa829616f52cd555fe85a"
+        },
+        {
+          "page": 16,
+          "start": 0,
+          "end": 2587,
+          "sha256": "41de8918c58b271d88fe1e970b258230ccfd3a09a5d6a87404a8628b4707830e"
+        },
+        {
+          "page": 17,
+          "start": 0,
+          "end": 2578,
+          "sha256": "68d07fc4d55e71a2473204ed611297d6c4d11e94edb372ca58fce681137e6450"
+        }
+      ]
+    },
+    {
+      "number": "7.2",
+      "heading": "Rule 7.2 Removing a Case from State Court",
+      "page": 17,
+      "offset": 2578,
+      "slices": [
+        {
+          "page": 17,
+          "start": 2578,
+          "end": 2849,
+          "sha256": "df61bc88452adda28aa0ee81686e26c2836e276cbb6784b5bb9109350642cc20"
+        },
+        {
+          "page": 18,
+          "start": 0,
+          "end": 542,
+          "sha256": "24ec8bc8e081f9a8b6f3f085b7db1ab88e11fc07d63aa09194b5bfef9b7c10b1"
+        }
+      ]
+    },
+    {
+      "number": "11.1",
+      "heading": "Rule 11.1 Attorneys",
+      "page": 18,
+      "offset": 542,
+      "slices": [
+        {
+          "page": 18,
+          "start": 542,
+          "end": 3074,
+          "sha256": "b0cd6747c1966f65627145675e8b5c964c03b35c89812c4ce3c43d12b742ebcf"
+        },
+        {
+          "page": 19,
+          "start": 0,
+          "end": 2667,
+          "sha256": "7039974390fe4539d3c9cc9ee510f182ab3890f97cba1e4558a6d0d49d469fa1"
+        },
+        {
+          "page": 20,
+          "start": 0,
+          "end": 2481,
+          "sha256": "2ea18bb2b3b4a582c549f8b979a44972227322da9db5892819feb8f645e74f79"
+        },
+        {
+          "page": 21,
+          "start": 0,
+          "end": 1033,
+          "sha256": "f05efa20373664e1ac1a8407b1d52ef8dbf445b5b8d5adf14dea786f1bbe7fd5"
+        }
+      ]
+    },
+    {
+      "number": "15.1",
+      "heading": "Rule 15.1 Amending a Pleading",
+      "page": 21,
+      "offset": 1033,
+      "slices": [
+        {
+          "page": 21,
+          "start": 1033,
+          "end": 1818,
+          "sha256": "87afdd90d4b248d6903dc8265daa07fbb89248facef230e0eceed4f2901b47fa"
+        }
+      ]
+    },
+    {
+      "number": "16.1",
+      "heading": "Rule 16.1 Rule 26(f) Attorney Conference; Prior Discovery",
+      "page": 21,
+      "offset": 1818,
+      "slices": [
+        {
+          "page": 21,
+          "start": 1818,
+          "end": 2476,
+          "sha256": "68d920dc3e047ca2be4bf54264210177aed0274cf3573433c80497c4b6f0e947"
+        }
+      ]
+    },
+    {
+      "number": "16.2",
+      "heading": "Rule 16.2 Notice of a Settlement or Intent to Plead Guilty or Motion to Continue; Assessing",
+      "page": 21,
+      "offset": 2476,
+      "slices": [
+        {
+          "page": 21,
+          "start": 2476,
+          "end": 2573,
+          "sha256": "04560f9de8cd2a817c4c5fb8b913d5765af5b3caac9fe67c1e8fb9c5d47b4a09"
+        },
+        {
+          "page": 22,
+          "start": 0,
+          "end": 1503,
+          "sha256": "17c3863a7576925e9cad5fb5f712f4b869c1f5051181cf6ff2c33cd74cfba326"
+        }
+      ]
+    },
+    {
+      "number": "16.3",
+      "heading": "Rule 16.3 Mediation",
+      "page": 22,
+      "offset": 1503,
+      "slices": [
+        {
+          "page": 22,
+          "start": 1503,
+          "end": 2162,
+          "sha256": "23570bb471546e86105903f6526eb5aeea7d5e258e26de32d6d0d7a5588019c3"
+        }
+      ]
+    },
+    {
+      "number": "23.1",
+      "heading": "Rule 23.1 Class Actions",
+      "page": 22,
+      "offset": 2162,
+      "slices": [
+        {
+          "page": 22,
+          "start": 2162,
+          "end": 2367,
+          "sha256": "a6af31f8bf47b31872ec92ccf5c6c95e678eaacf614f1f899686162b6a2a758e"
+        },
+        {
+          "page": 23,
+          "start": 0,
+          "end": 324,
+          "sha256": "01a5cf31c5203842d6ccd37853a3aef62476ad78844d3b7d2c4281c7e2dd0c73"
+        }
+      ]
+    },
+    {
+      "number": "24.1",
+      "heading": "Rule 24.1 Constitutional Challenges to Statutes, Rules, and Ordinances",
+      "page": 23,
+      "offset": 324,
+      "slices": [
+        {
+          "page": 23,
+          "start": 324,
+          "end": 975,
+          "sha256": "4f5c70980c387a3df4772d146309253f8c2c2362169e9f5ce086a0f474eaeb4c"
+        }
+      ]
+    },
+    {
+      "number": "26.1",
+      "heading": "Rule 26.1 Discovery in Civil Cases",
+      "page": 23,
+      "offset": 975,
+      "slices": [
+        {
+          "page": 23,
+          "start": 975,
+          "end": 2252,
+          "sha256": "6000790f584e73a2033cc1326a38acf1b0c4fb402033bc5cf5178ca1c5accd05"
+        },
+        {
+          "page": 24,
+          "start": 0,
+          "end": 143,
+          "sha256": "ce0baeabd721f2b396233cd595a4b985a6fa01e3f4604dc6bd8fab14c7262355"
+        }
+      ]
+    },
+    {
+      "number": "26.2",
+      "heading": "Rule 26.2 Discovery in Criminal Cases",
+      "page": 24,
+      "offset": 143,
+      "slices": [
+        {
+          "page": 24,
+          "start": 143,
+          "end": 2565,
+          "sha256": "09646befdf02945bc72b6a381c3710cad9ee3bc38fdb968a214e8d7190e768d9"
+        },
+        {
+          "page": 25,
+          "start": 0,
+          "end": 2863,
+          "sha256": "9880626e35147794d4095cd2650c73dc19144e1624f62b4193f8bade801f2046"
+        },
+        {
+          "page": 26,
+          "start": 0,
+          "end": 2509,
+          "sha256": "dcd6ba043f84857dc70d645ce4e696948d63982a32e7642e844451e5afb428e2"
+        },
+        {
+          "page": 27,
+          "start": 0,
+          "end": 2590,
+          "sha256": "d17cc1291d794a6ea3d8cc70c46a144d9155f2949c84c0574c761aa5765513e4"
+        }
+      ]
+    },
+    {
+      "number": "41.1",
+      "heading": "Rule 41.1 Dismissal for Failure To Comply With a Rule or Court Order",
+      "page": 27,
+      "offset": 2590,
+      "slices": [
+        {
+          "page": 27,
+          "start": 2590,
+          "end": 2658,
+          "sha256": "c36d1f2107b5f299de5681df4d84eb224e80005017f4d90cf7f391d1b419f0b3"
+        },
+        {
+          "page": 28,
+          "start": 0,
+          "end": 262,
+          "sha256": "1d37b0683af0bb3338e5778b69667dec6e30f799bdf62b4276baceadee24e896"
+        }
+      ]
+    },
+    {
+      "number": "54.1",
+      "heading": "Rule 54.1 Motions for Attorney’s Fees",
+      "page": 28,
+      "offset": 262,
+      "slices": [
+        {
+          "page": 28,
+          "start": 262,
+          "end": 2684,
+          "sha256": "136f151cca1b8bdb1e13b2c900bf64d2fac0446cc374c9c685db71cbebb59be6"
+        },
+        {
+          "page": 29,
+          "start": 0,
+          "end": 1100,
+          "sha256": "8f1ff4a4edd89b3ecd7b7651a91284b35f4dc37df681a21df9d2816d36b6984e"
+        }
+      ]
+    },
+    {
+      "number": "54.2",
+      "heading": "Rule 54.2 Taxation of Costs",
+      "page": 29,
+      "offset": 1100,
+      "slices": [
+        {
+          "page": 29,
+          "start": 1100,
+          "end": 2324,
+          "sha256": "f96b8c6c083dd994f4146388c1153672cf886223730b2d089a332524e9157256"
+        }
+      ]
+    },
+    {
+      "number": "56.1",
+      "heading": "Rule 56.1 Summary Judgment Motions",
+      "page": 29,
+      "offset": 2324,
+      "slices": [
+        {
+          "page": 29,
+          "start": 2324,
+          "end": 2507,
+          "sha256": "556b19424f7391b4fe81e7fddc2990ab890ff4f66d9cbf454b313b29bffeedd5"
+        },
+        {
+          "page": 30,
+          "start": 0,
+          "end": 1878,
+          "sha256": "6104fffd5a9eb9a9964443dd9d0ab739d1a9f72859e9edab6e79bc74af3d30a0"
+        }
+      ]
+    },
+    {
+      "number": "72.1",
+      "heading": "Rule 72.1 Authority of United States Magistrate Judges",
+      "page": 30,
+      "offset": 1878,
+      "slices": [
+        {
+          "page": 30,
+          "start": 1878,
+          "end": 2652,
+          "sha256": "b2b717b4cc365adf57cf9681bf5acd2f45ee690c667cc0682762ed45ce8a5dd1"
+        },
+        {
+          "page": 31,
+          "start": 0,
+          "end": 652,
+          "sha256": "7bb02eb3ac77302f06d60dfb26d70fd8c2df4910d53f73a4789682f06adff83e"
+        }
+      ]
+    },
+    {
+      "number": "72.2",
+      "heading": "Rule 72.2 Referral of Matters to Magistrate Judges by this Rule",
+      "page": 31,
+      "offset": 652,
+      "slices": [
+        {
+          "page": 31,
+          "start": 652,
+          "end": 3118,
+          "sha256": "5f4b7b62ef77bc3b0f6cd779ab7cf0c05d96443f4adbae2a952501343d18c27a"
+        },
+        {
+          "page": 32,
+          "start": 0,
+          "end": 2504,
+          "sha256": "c942b8e2b214dac065a1a1bfe917a5f04cba2784160989e1243fa0ed726dcf37"
+        },
+        {
+          "page": 33,
+          "start": 0,
+          "end": 2051,
+          "sha256": "9753a64314cb2259a7ce955b86ee58ad1dd7fa7c06a864e3542dfa09de0fedea"
+        },
+        {
+          "page": 34,
+          "start": 0,
+          "end": 275,
+          "sha256": "c8a954d69a7913359caacf5068ecc2302653b6cbb36aaea9a38e007c315d96de"
+        }
+      ]
+    },
+    {
+      "number": "72.3",
+      "heading": "Rule 72.3 Specific Referrals of Matters to Magistrate Judges",
+      "page": 34,
+      "offset": 275,
+      "slices": [
+        {
+          "page": 34,
+          "start": 275,
+          "end": 1084,
+          "sha256": "29f1a58075b6b2490f4cebb5a7f67b9557d53a90057c1e9a3aac420a2e6458cc"
+        }
+      ]
+    },
+    {
+      "number": "72.4",
+      "heading": "Rule 72.4 Full-time and Part-time Magistrate Judges",
+      "page": 34,
+      "offset": 1084,
+      "slices": [
+        {
+          "page": 34,
+          "start": 1084,
+          "end": 1354,
+          "sha256": "c016a85caf6efd43854b5955405d4587929cdbed83c585c0ded721d5059c411d"
+        }
+      ]
+    },
+    {
+      "number": "73.1",
+      "heading": "Rule 73.1 Procedures for Consent to Trial Before a Magistrate Judge",
+      "page": 34,
+      "offset": 1354,
+      "slices": [
+        {
+          "page": 34,
+          "start": 1354,
+          "end": 2531,
+          "sha256": "f960ba0d122e0a7dd6240b75ebdcbae883d590b9fb2413bf72dee13b1529a70b"
+        },
+        {
+          "page": 35,
+          "start": 0,
+          "end": 260,
+          "sha256": "301f4e33d0e05b53151e695cf9eb5b9b07cc82f00d76a4516810fe10ea6991ab"
+        }
+      ]
+    },
+    {
+      "number": "77.1",
+      "heading": "Rule 77.1 Photographing, Recording, and Broadcasting Proceedings",
+      "page": 35,
+      "offset": 260,
+      "slices": [
+        {
+          "page": 35,
+          "start": 260,
+          "end": 1129,
+          "sha256": "f4c9e8125cc49f31279b45680da56f7e44e08c10b1aef076d45fc38e02ab3832"
+        }
+      ]
+    },
+    {
+      "number": "77.2",
+      "heading": "Rule 77.2 Electronic Devices",
+      "page": 35,
+      "offset": 1129,
+      "slices": [
+        {
+          "page": 35,
+          "start": 1129,
+          "end": 2391,
+          "sha256": "cb08ffdfb304a3176b106aff6a9aca20c2e4cb83fc04811f66ac039c6176ffa8"
+        },
+        {
+          "page": 36,
+          "start": 0,
+          "end": 1131,
+          "sha256": "05996751cd4d3b265c47e4b9be289b2331dc4f958f769b6f184296d65cb0ff7a"
+        }
+      ]
+    },
+    {
+      "number": "77.3",
+      "heading": "Rule 77.3 Video and Audio Proceedings",
+      "page": 36,
+      "offset": 1131,
+      "slices": [
+        {
+          "page": 36,
+          "start": 1131,
+          "end": 1335,
+          "sha256": "f95dd8005e858225a4f38596d2bc4791cf2355563920f14de4e10db09ce0b95d"
+        }
+      ]
+    },
+    {
+      "number": "77.4",
+      "heading": "Rule 77.4 Release of Information in Criminal and Civil Cases",
+      "page": 36,
+      "offset": 1335,
+      "slices": [
+        {
+          "page": 36,
+          "start": 1335,
+          "end": 2566,
+          "sha256": "bb5a27b9fdf6fb6c5c146c77d3e6af7cc4f1969a6de5eeaab7e5ebd26c0f3b8c"
+        },
+        {
+          "page": 37,
+          "start": 0,
+          "end": 2608,
+          "sha256": "472bdfbfa3f4d900dea6b6a4755d322e2fd0c156bf82f593db796668a5176016"
+        },
+        {
+          "page": 38,
+          "start": 0,
+          "end": 2944,
+          "sha256": "d60532a93b2b4929b97d0f302f8e731dd1b1f110e8b4db85e6a862a9d8f363de"
+        },
+        {
+          "page": 39,
+          "start": 0,
+          "end": 1506,
+          "sha256": "20c331ce07ffd7b0bcde4464b68a6eac586d81379e0d32fc7e073b8422136236"
+        }
+      ]
+    },
+    {
+      "number": "77.5",
+      "heading": "Rule 77.5 Marshal to Attend Court",
+      "page": 39,
+      "offset": 1506,
+      "slices": [
+        {
+          "page": 39,
+          "start": 1506,
+          "end": 1785,
+          "sha256": "865586b92b8637953d213a37585366207e91396d0e77d84f0da95ed3f2fb8b6d"
+        }
+      ]
+    },
+    {
+      "number": "87.1",
+      "heading": "Rule 87.1 Appeals in Bankruptcy Cases",
+      "page": 39,
+      "offset": 1785,
+      "slices": [
+        {
+          "page": 39,
+          "start": 1785,
+          "end": 1985,
+          "sha256": "05c0d313399fafedb12f2efe5b8d289af1102fcdf925ea0305e9d2343d4df74d"
+        }
+      ]
+    },
+    {
+      "number": "88.1",
+      "heading": "Rule 88.1 Presentence Investigation Reports, Presentencing Procedures, Provisions of",
+      "page": 39,
+      "offset": 1985,
+      "slices": [
+        {
+          "page": 39,
+          "start": 1985,
+          "end": 2335,
+          "sha256": "1c01cebe57162e393bef3a9f4525b47fac6a800c6a6f91b54072eb5af8d9c3f6"
+        },
+        {
+          "page": 40,
+          "start": 0,
+          "end": 2712,
+          "sha256": "ab4ea53605bf9dafaba5c56ece34fe7341ba1077698b191e646037ce03b69974"
+        }
+      ]
+    },
+    {
+      "number": "88.2",
+      "heading": "Rule 88.2 Appeal of a Magistrate Judge’s Rulings in Consent Misdemeanor Cases",
+      "page": 40,
+      "offset": 2712,
+      "slices": [
+        {
+          "page": 40,
+          "start": 2712,
+          "end": 2874,
+          "sha256": "1eca168fa0b0d56a993445933b41063a87fcc2fc6abf94179d3686336f74ac92"
+        },
+        {
+          "page": 41,
+          "start": 0,
+          "end": 1817,
+          "sha256": "f9837697db953361157e43385caa852c115a70a85a76377a7bbe7cc70fb9648c"
+        }
+      ]
+    },
+    {
+      "number": "88.3",
+      "heading": "Rule 88.3 Patent Rules",
+      "page": 41,
+      "offset": 1817,
+      "slices": [
+        {
+          "page": 41,
+          "start": 1817,
+          "end": 1980,
+          "sha256": "016a6cbf7385e1d7303c0bc26c0a8e30de90b87191ba5251c667e626b1070196"
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "startPage": 8,
+    "startOffset": 94,
+    "endPage": 41,
+    "endOffset": 1980,
+    "ruleCount": 43,
+    "tocReconciled": false,
+    "editorialReviewComplete": false,
+    "currencyReviewed": false,
+    "flags": [
+      "Source extraction contains unresolved characters; consult the original publication."
+    ],
+    "excluded": "Source material outside the recorded range remains available in the district source library."
+  },
+  "transcriptionSha256": "58b53d1cf1d5ada9674449f154a39064abd185c35cd5244958789ca9e990db6f"
+}
