@@ -1,0 +1,2343 @@
+{
+  "version": 1,
+  "districts": [
+    {
+      "id": "almd",
+      "name": "Middle District of Alabama",
+      "discoveryUrl": "https://www.almd.uscourts.gov/forms/local-rules",
+      "notes": [],
+      "documents": [
+        {
+          "id": "39ccde043f3fccdb",
+          "title": "Local Rules",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.almd.uscourts.gov/sites/default/files/forms/ALMD%20Local%20Rules.pdf",
+          "sha256": "39ccde043f3fccdb65241d8ac8eb53deec77a13fc7a6d2a17f5f7e7a94423377",
+          "bytes": 529223,
+          "retrievedAt": "2026-09-07T00:00:53.387097+00:00",
+          "snapshotPath": "sources/district-snapshots/39ccde043f3fccdb65241d8ac8eb53deec77a13fc7a6d2a17f5f7e7a94423377.pdf",
+          "textPath": "data/source-library/39ccde043f3fccdb65241d8ac8eb53deec77a13fc7a6d2a17f5f7e7a94423377.json",
+          "pdfPath": "data/source-pdfs/39ccde043f3fccdb65241d8ac8eb53deec77a13fc7a6d2a17f5f7e7a94423377.pdf",
+          "pageCount": 46,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "alnd",
+      "name": "Northern District of Alabama",
+      "discoveryUrl": "https://www.alnd.uscourts.gov/local-rules",
+      "notes": [],
+      "documents": [
+        {
+          "id": "b9295a56444a7d46",
+          "title": "Local Rules as of December 4, 2019",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.alnd.uscourts.gov/sites/alnd/files/ALND%20Local%20Rules%20Revised%2012-04-2019.pdf",
+          "sha256": "b9295a56444a7d46926807423bca614fae4ae5ce04f5c6031e82a7eb6870e4a2",
+          "bytes": 155281,
+          "retrievedAt": "2026-09-07T00:00:53.388096+00:00",
+          "snapshotPath": "sources/district-snapshots/b9295a56444a7d46926807423bca614fae4ae5ce04f5c6031e82a7eb6870e4a2.pdf",
+          "textPath": "data/source-library/b9295a56444a7d46926807423bca614fae4ae5ce04f5c6031e82a7eb6870e4a2.json",
+          "pdfPath": "data/source-pdfs/b9295a56444a7d46926807423bca614fae4ae5ce04f5c6031e82a7eb6870e4a2.pdf",
+          "pageCount": 14,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "alsd",
+      "name": "Southern District of Alabama",
+      "discoveryUrl": "https://www.alsd.uscourts.gov/court-info/local-rules-and-orders",
+      "notes": [],
+      "documents": [
+        {
+          "id": "e3b7d7c414fe29ce",
+          "title": "Local Rules",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.alsd.uscourts.gov/sites/alsd/files/local-rules.pdf",
+          "sha256": "e3b7d7c414fe29cecc4ca7a26b0a777d34c514f03dfb37fa67cfea986e8bbf06",
+          "bytes": 2793169,
+          "retrievedAt": "2026-09-07T00:00:53.388096+00:00",
+          "snapshotPath": "sources/district-snapshots/e3b7d7c414fe29cecc4ca7a26b0a777d34c514f03dfb37fa67cfea986e8bbf06.pdf",
+          "textPath": "data/source-library/e3b7d7c414fe29cecc4ca7a26b0a777d34c514f03dfb37fa67cfea986e8bbf06.json",
+          "pdfPath": "data/source-pdfs/e3b7d7c414fe29cecc4ca7a26b0a777d34c514f03dfb37fa67cfea986e8bbf06.pdf",
+          "pageCount": 155,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "akd",
+      "name": "District of Alaska",
+      "discoveryUrl": "https://www.akd.uscourts.gov/court-info/local-rules-and-orders/local-rules",
+      "notes": [],
+      "documents": [
+        {
+          "id": "50afcdec4b0ef640",
+          "title": "Civil (effective October 15, 2025)",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.akd.uscourts.gov/sites/akd/files/local_rules/Local_Civil_Rules_10-2025.pdf",
+          "sha256": "50afcdec4b0ef640e65dadd7e755de9d62216e1692ba5bb86a0bbc280997b692",
+          "bytes": 482631,
+          "retrievedAt": "2026-09-07T00:00:53.388096+00:00",
+          "snapshotPath": "sources/district-snapshots/50afcdec4b0ef640e65dadd7e755de9d62216e1692ba5bb86a0bbc280997b692.pdf",
+          "textPath": "data/source-library/50afcdec4b0ef640e65dadd7e755de9d62216e1692ba5bb86a0bbc280997b692.json",
+          "pdfPath": "data/source-pdfs/50afcdec4b0ef640e65dadd7e755de9d62216e1692ba5bb86a0bbc280997b692.pdf",
+          "pageCount": 51,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "azd",
+      "name": "District of Arizona",
+      "discoveryUrl": "https://www.azd.uscourts.gov/local-rules",
+      "notes": [],
+      "documents": [
+        {
+          "id": "614b8b1b8ffa83f2",
+          "title": "Local Rules of Civil Procedure (2025-2026)",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.azd.uscourts.gov/sites/azd/files/local-rules/LRCiv%202025.pdf",
+          "sha256": "614b8b1b8ffa83f23bca8d672c62e1526006f07dd5557dafde38a54256663984",
+          "bytes": 412885,
+          "retrievedAt": "2026-09-07T00:00:53.388096+00:00",
+          "snapshotPath": "sources/district-snapshots/614b8b1b8ffa83f23bca8d672c62e1526006f07dd5557dafde38a54256663984.pdf",
+          "textPath": "data/source-library/614b8b1b8ffa83f23bca8d672c62e1526006f07dd5557dafde38a54256663984.json",
+          "pdfPath": "data/source-pdfs/614b8b1b8ffa83f23bca8d672c62e1526006f07dd5557dafde38a54256663984.pdf",
+          "pageCount": 145,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "ared",
+      "name": "Eastern District of Arkansas",
+      "discoveryUrl": "https://www.are.uscourts.gov/court-info/local-rules-and-orders/local-rules",
+      "notes": [
+        "Eastern/Western Arkansas local rules; retain district-specific amendments and verify whether the two hosted compilations agree."
+      ],
+      "documents": [
+        {
+          "id": "9fc211b94a6b06e7",
+          "title": "Complete Copy of these Local Rules",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.are.uscourts.gov/sites/are/files/local_rules/All_LR.pdf",
+          "sha256": "9fc211b94a6b06e77953f28f1b88c5e61f8d567dc68d71a78a91eee7715fa459",
+          "bytes": 470802,
+          "retrievedAt": "2026-09-07T00:00:53.436605+00:00",
+          "snapshotPath": "sources/district-snapshots/9fc211b94a6b06e77953f28f1b88c5e61f8d567dc68d71a78a91eee7715fa459.pdf",
+          "textPath": "data/source-library/9fc211b94a6b06e77953f28f1b88c5e61f8d567dc68d71a78a91eee7715fa459.json",
+          "pdfPath": "data/source-pdfs/9fc211b94a6b06e77953f28f1b88c5e61f8d567dc68d71a78a91eee7715fa459.pdf",
+          "pageCount": 84,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "arwd",
+      "name": "Western District of Arkansas",
+      "discoveryUrl": "https://www.arwd.uscourts.gov/court-info/local-rules-and-orders",
+      "notes": [
+        "Eastern/Western Arkansas local rules; retain district-specific amendments and verify whether the two hosted compilations agree."
+      ],
+      "documents": [
+        {
+          "id": "d096db6d77a0e2ec",
+          "title": "Local Rules",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.arwd.uscourts.gov/sites/arwd/files/ARWD%20Local%20Rules.pdf",
+          "sha256": "d096db6d77a0e2ec96e0140013005bfe99c69ba778180a20f71f683c423b4c41",
+          "bytes": 376307,
+          "retrievedAt": "2026-09-07T00:00:53.459608+00:00",
+          "snapshotPath": "sources/district-snapshots/d096db6d77a0e2ec96e0140013005bfe99c69ba778180a20f71f683c423b4c41.pdf",
+          "textPath": "data/source-library/d096db6d77a0e2ec96e0140013005bfe99c69ba778180a20f71f683c423b4c41.json",
+          "pdfPath": "data/source-pdfs/d096db6d77a0e2ec96e0140013005bfe99c69ba778180a20f71f683c423b4c41.pdf",
+          "pageCount": 66,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "cacd",
+      "name": "Central District of California",
+      "discoveryUrl": "https://www.cacd.uscourts.gov/court-procedures/local-rules",
+      "notes": [],
+      "documents": [
+        {
+          "id": "d71c1f15e1552ef8",
+          "title": "Chapter I: Local Civil Rules",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.cacd.uscourts.gov/sites/default/files/documents/2026-June-LRs-Chap-1.pdf",
+          "sha256": "d71c1f15e1552ef8d6ea3a22149b7375a40946fe36b325c47973cf00299c9ac6",
+          "bytes": 949548,
+          "retrievedAt": "2026-09-07T00:00:53.471608+00:00",
+          "snapshotPath": "sources/district-snapshots/d71c1f15e1552ef8d6ea3a22149b7375a40946fe36b325c47973cf00299c9ac6.pdf",
+          "textPath": "data/source-library/d71c1f15e1552ef8d6ea3a22149b7375a40946fe36b325c47973cf00299c9ac6.json",
+          "pdfPath": "data/source-pdfs/d71c1f15e1552ef8d6ea3a22149b7375a40946fe36b325c47973cf00299c9ac6.pdf",
+          "pageCount": 166,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "caed",
+      "name": "Eastern District of California",
+      "discoveryUrl": "https://www.caed.uscourts.gov/caednew/index.cfm/rules/local-rules/",
+      "notes": [],
+      "documents": [
+        {
+          "id": "280a7078af778ed2",
+          "title": "Local Rules",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.caed.uscourts.gov/caednew/assets/File/EDCA%20LOCAL%20RULES%20EFF_%2002-23-26.pdf",
+          "sha256": "280a7078af778ed24ce067dd5a9ac0122347b62140c1eca71c49e9f72ffd75f5",
+          "bytes": 1178511,
+          "retrievedAt": "2026-09-07T00:00:54.517156+00:00",
+          "snapshotPath": "sources/district-snapshots/280a7078af778ed24ce067dd5a9ac0122347b62140c1eca71c49e9f72ffd75f5.pdf",
+          "textPath": "data/source-library/280a7078af778ed24ce067dd5a9ac0122347b62140c1eca71c49e9f72ffd75f5.json",
+          "pdfPath": "data/source-pdfs/280a7078af778ed24ce067dd5a9ac0122347b62140c1eca71c49e9f72ffd75f5.pdf",
+          "pageCount": 280,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "cand",
+      "name": "Northern District of California",
+      "discoveryUrl": "https://cand.uscourts.gov/rules-forms-fees/local-rules",
+      "notes": [],
+      "documents": [
+        {
+          "id": "0d3ea5afe31a6af1",
+          "title": "Civil Local Rules pdf, 675.07 KB",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://cand.uscourts.gov/sites/default/files/local-rules/CAND_Civil_Local_Rules_05-26.pdf",
+          "sha256": "0d3ea5afe31a6af145e77fd29d4fde0e1995a1a68b85f6d1d2493c1d2393cb82",
+          "bytes": 691275,
+          "retrievedAt": "2026-09-07T00:00:55.723718+00:00",
+          "snapshotPath": "sources/district-snapshots/0d3ea5afe31a6af145e77fd29d4fde0e1995a1a68b85f6d1d2493c1d2393cb82.pdf",
+          "textPath": "data/source-library/0d3ea5afe31a6af145e77fd29d4fde0e1995a1a68b85f6d1d2493c1d2393cb82.json",
+          "pdfPath": "data/source-pdfs/0d3ea5afe31a6af145e77fd29d4fde0e1995a1a68b85f6d1d2493c1d2393cb82.pdf",
+          "pageCount": 81,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "casd",
+      "name": "Southern District of California",
+      "discoveryUrl": "https://www.casd.uscourts.gov/rules/local-rules.aspx",
+      "notes": [],
+      "documents": [
+        {
+          "id": "a8dcb48ef9e7be52",
+          "title": "2026.06.01 Local Rules",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.casd.uscourts.gov/_assets/pdf/rules/2026.06.01%20Local%20Rules.pdf",
+          "sha256": "a8dcb48ef9e7be52e84f0156bdfce23d4ca58b91411b44cb4e86a9cad6ee6746",
+          "bytes": 1348474,
+          "retrievedAt": "2026-09-07T00:00:56.254110+00:00",
+          "snapshotPath": "sources/district-snapshots/a8dcb48ef9e7be52e84f0156bdfce23d4ca58b91411b44cb4e86a9cad6ee6746.pdf",
+          "textPath": "data/source-library/a8dcb48ef9e7be52e84f0156bdfce23d4ca58b91411b44cb4e86a9cad6ee6746.json",
+          "pdfPath": "data/source-pdfs/a8dcb48ef9e7be52e84f0156bdfce23d4ca58b91411b44cb4e86a9cad6ee6746.pdf",
+          "pageCount": 112,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "cod",
+      "name": "District of Colorado",
+      "discoveryUrl": "https://www.cod.uscourts.gov/CourtOperations/RulesProcedures/LocalRules.aspx",
+      "notes": [],
+      "documents": [
+        {
+          "id": "7606869ea84c0015",
+          "title": "Local Rules eff. 12-1-2025",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "http://www.cod.uscourts.gov/Portals/0/Documents/LocalRules/2025_Final_Local_Rules.pdf?ver=eU9Q-syTo_a8htrloy25uQ%3d%3d",
+          "sha256": "7606869ea84c00157957ee77e6b1d6329ed785ce6723a54a1cfa412ccee2882d",
+          "bytes": 751142,
+          "retrievedAt": "2026-09-07T00:00:56.268091+00:00",
+          "snapshotPath": "sources/district-snapshots/7606869ea84c00157957ee77e6b1d6329ed785ce6723a54a1cfa412ccee2882d.pdf",
+          "textPath": "data/source-library/7606869ea84c00157957ee77e6b1d6329ed785ce6723a54a1cfa412ccee2882d.json",
+          "pdfPath": "data/source-pdfs/7606869ea84c00157957ee77e6b1d6329ed785ce6723a54a1cfa412ccee2882d.pdf",
+          "pageCount": 102,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "ctd",
+      "name": "District of Connecticut",
+      "discoveryUrl": "https://www.ctd.uscourts.gov/court-info/local-rules-and-orders",
+      "notes": [],
+      "documents": [
+        {
+          "id": "0b079332554adb92",
+          "title": "United States District Court of Connecticut Local Rules",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.ctd.uscourts.gov/sites/default/files/Current-Revised-Local-Rules-9.4.26.pdf",
+          "sha256": "0b079332554adb921d257f24e6bc86069fb6b5089de821af3527b766e8a8e703",
+          "bytes": 798957,
+          "retrievedAt": "2026-09-07T00:00:57.052232+00:00",
+          "snapshotPath": "sources/district-snapshots/0b079332554adb921d257f24e6bc86069fb6b5089de821af3527b766e8a8e703.pdf",
+          "textPath": "data/source-library/0b079332554adb921d257f24e6bc86069fb6b5089de821af3527b766e8a8e703.json",
+          "pdfPath": "data/source-pdfs/0b079332554adb921d257f24e6bc86069fb6b5089de821af3527b766e8a8e703.pdf",
+          "pageCount": 174,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "ded",
+      "name": "District of Delaware",
+      "discoveryUrl": "https://www.ded.uscourts.gov/local-rules",
+      "notes": [],
+      "documents": [
+        {
+          "id": "af3b341e6b0c9de4",
+          "title": "2026 Revised Local Rules (Effective September 1, 2026)",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.ded.uscourts.gov/sites/ded/files/2026%20District%20of%20Delaware%20Revised%20Local%20Rules%20Effective%20September%201.pdf",
+          "sha256": "af3b341e6b0c9de46e2de2fb92447d654b44b46d4a82c1f9d1947dbb2270b769",
+          "bytes": 280144,
+          "retrievedAt": "2026-09-07T00:00:57.067204+00:00",
+          "snapshotPath": "sources/district-snapshots/af3b341e6b0c9de46e2de2fb92447d654b44b46d4a82c1f9d1947dbb2270b769.pdf",
+          "textPath": "data/source-library/af3b341e6b0c9de46e2de2fb92447d654b44b46d4a82c1f9d1947dbb2270b769.json",
+          "pdfPath": "data/source-pdfs/af3b341e6b0c9de46e2de2fb92447d654b44b46d4a82c1f9d1947dbb2270b769.pdf",
+          "pageCount": 47,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "dcd",
+      "name": "District of Columbia",
+      "discoveryUrl": "https://www.dcd.uscourts.gov/court-info/local-rules-and-orders/local-rules",
+      "notes": [],
+      "documents": [
+        {
+          "id": "5c90f24810311bd2",
+          "title": "Local Rules of the U.S. District Court for the District of Columbia (August 2025)",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.dcd.uscourts.gov/sites/dcd/files/local_rules/Local%20Rules%20AUG_2025.pdf",
+          "sha256": "5c90f24810311bd20013070a808e4d7681eb41a35d6d93da681ddfd77cd90527",
+          "bytes": 1345909,
+          "retrievedAt": "2026-09-07T00:00:57.754723+00:00",
+          "snapshotPath": "sources/district-snapshots/5c90f24810311bd20013070a808e4d7681eb41a35d6d93da681ddfd77cd90527.pdf",
+          "textPath": "data/source-library/5c90f24810311bd20013070a808e4d7681eb41a35d6d93da681ddfd77cd90527.json",
+          "pdfPath": "data/source-pdfs/5c90f24810311bd20013070a808e4d7681eb41a35d6d93da681ddfd77cd90527.pdf",
+          "pageCount": 212,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "flmd",
+      "name": "Middle District of Florida",
+      "discoveryUrl": "https://www.flmd.uscourts.gov/local-rules",
+      "notes": [],
+      "documents": [
+        {
+          "id": "effa65b4e132c132",
+          "title": "Download a PDF of the Local Rules effective November 1, 2025.",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.flmd.uscourts.gov/sites/flmd/files/flmd-amended-local-rules-effective-november-01-2025.pdf",
+          "sha256": "effa65b4e132c1321e34361626788a232ce8c725cc238d6a7731e344495961ed",
+          "bytes": 372885,
+          "retrievedAt": "2026-09-07T00:01:00.107328+00:00",
+          "snapshotPath": "sources/district-snapshots/effa65b4e132c1321e34361626788a232ce8c725cc238d6a7731e344495961ed.pdf",
+          "textPath": "data/source-library/effa65b4e132c1321e34361626788a232ce8c725cc238d6a7731e344495961ed.json",
+          "pdfPath": "data/source-pdfs/effa65b4e132c1321e34361626788a232ce8c725cc238d6a7731e344495961ed.pdf",
+          "pageCount": 54,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "flnd",
+      "name": "Northern District of Florida",
+      "discoveryUrl": "https://www.flnd.uscourts.gov/local-rules-1",
+      "notes": [],
+      "documents": [
+        {
+          "id": "735431487ba914dd",
+          "title": "local_rules.pdf",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.flnd.uscourts.gov/sites/flnd/files/local_rules/local_rules_0.pdf",
+          "sha256": "735431487ba914dd394d074f8e1c86d56a4842d11fef865e237713043d045831",
+          "bytes": 2379540,
+          "retrievedAt": "2026-09-07T00:01:00.470454+00:00",
+          "snapshotPath": "sources/district-snapshots/735431487ba914dd394d074f8e1c86d56a4842d11fef865e237713043d045831.pdf",
+          "textPath": "data/source-library/735431487ba914dd394d074f8e1c86d56a4842d11fef865e237713043d045831.json",
+          "pdfPath": "data/source-pdfs/735431487ba914dd394d074f8e1c86d56a4842d11fef865e237713043d045831.pdf",
+          "pageCount": 82,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "flsd",
+      "name": "Southern District of Florida",
+      "discoveryUrl": "https://www.flsd.uscourts.gov/local-rules-and-procedures",
+      "notes": [],
+      "documents": [
+        {
+          "id": "bac0fe34c01be93a",
+          "title": "Local Rules",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.flsd.uscourts.gov/sites/flsd/files/25-09-22%202025%20Local%20Rules%20effective%20120125%20-%20FINAL.pdf",
+          "sha256": "bac0fe34c01be93a05af039c967c903f0bd738503483a7aef56c55a93ac8f5df",
+          "bytes": 1505358,
+          "retrievedAt": "2026-09-07T00:01:01.093459+00:00",
+          "snapshotPath": "sources/district-snapshots/bac0fe34c01be93a05af039c967c903f0bd738503483a7aef56c55a93ac8f5df.pdf",
+          "textPath": "data/source-library/bac0fe34c01be93a05af039c967c903f0bd738503483a7aef56c55a93ac8f5df.json",
+          "pdfPath": "data/source-pdfs/bac0fe34c01be93a05af039c967c903f0bd738503483a7aef56c55a93ac8f5df.pdf",
+          "pageCount": 130,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 1
+        }
+      ]
+    },
+    {
+      "id": "gamd",
+      "name": "Middle District of Georgia",
+      "discoveryUrl": "https://www.gamd.uscourts.gov/local-rules",
+      "notes": [],
+      "documents": [
+        {
+          "id": "6a38fa2a50e3cc6a",
+          "title": "Local Rules",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.gamd.uscourts.gov/sites/gamd/files/Local_Rules-12_1_2022.pdf",
+          "sha256": "6a38fa2a50e3cc6a9daea03964a09d50926a8bfd1dd2b186203c2bacbc6401f9",
+          "bytes": 838945,
+          "retrievedAt": "2026-09-07T00:01:01.261228+00:00",
+          "snapshotPath": "sources/district-snapshots/6a38fa2a50e3cc6a9daea03964a09d50926a8bfd1dd2b186203c2bacbc6401f9.pdf",
+          "textPath": "data/source-library/6a38fa2a50e3cc6a9daea03964a09d50926a8bfd1dd2b186203c2bacbc6401f9.json",
+          "pdfPath": "data/source-pdfs/6a38fa2a50e3cc6a9daea03964a09d50926a8bfd1dd2b186203c2bacbc6401f9.pdf",
+          "pageCount": 71,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "gand",
+      "name": "Northern District of Georgia",
+      "discoveryUrl": "https://www.gand.uscourts.gov/court-info/local-rules-and-orders/local-rules",
+      "notes": [],
+      "documents": [
+        {
+          "id": "ab46e4c1538c4341",
+          "title": "Civil Rules",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.gand.uscourts.gov/sites/gand/files/local_rules/NDGARulesCV_4_0_26.pdf",
+          "sha256": "ab46e4c1538c4341a574a8e73d1d4e1fc7a19a3c04c5225278cb82cbe934ed38",
+          "bytes": 508150,
+          "retrievedAt": "2026-09-07T00:01:05.464366+00:00",
+          "snapshotPath": "sources/district-snapshots/ab46e4c1538c4341a574a8e73d1d4e1fc7a19a3c04c5225278cb82cbe934ed38.pdf",
+          "textPath": "data/source-library/ab46e4c1538c4341a574a8e73d1d4e1fc7a19a3c04c5225278cb82cbe934ed38.json",
+          "pdfPath": "data/source-pdfs/ab46e4c1538c4341a574a8e73d1d4e1fc7a19a3c04c5225278cb82cbe934ed38.pdf",
+          "pageCount": 89,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "gasd",
+      "name": "Southern District of Georgia",
+      "discoveryUrl": "https://www.gasd.uscourts.gov/civil-cases-local-rules",
+      "notes": [
+        "The older LocalRules-printable.pdf link returned HTTP 404. An alternate official civil-rules PDF was located and downloaded. Check the court's 2026 revision notice and adoption status before ingestion."
+      ],
+      "documents": [
+        {
+          "id": "b7c18c132da0ddc2",
+          "title": "Local Rules for Civil Actions",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.gasd.uscourts.gov/sites/gasd/files/local_rules/Local%20Rules%20for%20Civil%20Actions.pdf",
+          "sha256": "b7c18c132da0ddc22c7adcab1caf2e6b8e380b311c0c17d370a8c3ebfcd6d5cd",
+          "bytes": 223763,
+          "retrievedAt": "2026-09-07T02:28:09.264714+00:00",
+          "snapshotPath": "sources/district-snapshots/b7c18c132da0ddc22c7adcab1caf2e6b8e380b311c0c17d370a8c3ebfcd6d5cd.pdf",
+          "textPath": "data/source-library/b7c18c132da0ddc22c7adcab1caf2e6b8e380b311c0c17d370a8c3ebfcd6d5cd.json",
+          "pdfPath": "data/source-pdfs/b7c18c132da0ddc22c7adcab1caf2e6b8e380b311c0c17d370a8c3ebfcd6d5cd.pdf",
+          "pageCount": 28,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 1
+        }
+      ]
+    },
+    {
+      "id": "gud",
+      "name": "District of Guam",
+      "discoveryUrl": "https://www.gud.uscourts.gov/Local_Rules_of_Practice",
+      "notes": [],
+      "documents": [
+        {
+          "id": "1fb1637ce3f48ddb",
+          "title": "Civil Rules",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.gud.uscourts.gov/sites/gud/files/civil_rules_effective_20190722_0.pdf",
+          "sha256": "1fb1637ce3f48ddb24269a09105d40de3489e229a38cd3c63a6515e8da6a887c",
+          "bytes": 401295,
+          "retrievedAt": "2026-09-07T00:01:06.924179+00:00",
+          "snapshotPath": "sources/district-snapshots/1fb1637ce3f48ddb24269a09105d40de3489e229a38cd3c63a6515e8da6a887c.pdf",
+          "textPath": "data/source-library/1fb1637ce3f48ddb24269a09105d40de3489e229a38cd3c63a6515e8da6a887c.json",
+          "pdfPath": "data/source-pdfs/1fb1637ce3f48ddb24269a09105d40de3489e229a38cd3c63a6515e8da6a887c.pdf",
+          "pageCount": 28,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        },
+        {
+          "id": "d6fe7075bb7bba21",
+          "title": "General Rules",
+          "format": "pdf",
+          "role": "general-rules",
+          "sourceUrl": "https://www.gud.uscourts.gov/sites/gud/files/General%20Local%20Rules%2020220419%20final_0.pdf",
+          "sha256": "d6fe7075bb7bba215134fbcd423d861f566c9c2f84b05f0077af6dca20ed38df",
+          "bytes": 535006,
+          "retrievedAt": "2026-09-07T00:01:07.531134+00:00",
+          "snapshotPath": "sources/district-snapshots/d6fe7075bb7bba215134fbcd423d861f566c9c2f84b05f0077af6dca20ed38df.pdf",
+          "textPath": "data/source-library/d6fe7075bb7bba215134fbcd423d861f566c9c2f84b05f0077af6dca20ed38df.json",
+          "pdfPath": "data/source-pdfs/d6fe7075bb7bba215134fbcd423d861f566c9c2f84b05f0077af6dca20ed38df.pdf",
+          "pageCount": 24,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "hid",
+      "name": "District of Hawaii",
+      "discoveryUrl": "https://www.hid.uscourts.gov/rules/local-rules",
+      "notes": [],
+      "documents": [
+        {
+          "id": "7d2ec4298f147810",
+          "title": "Civil Local Rules",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.hid.uscourts.gov/files/order532/2019_08_26_administrative_Order%20Amending%20the%20Local%20Rules%20eff%202019_09_01(1).pdf",
+          "sha256": "7d2ec4298f1478105779562485971cc03754b2cbe42c98a832b8fb1de542ef1f",
+          "bytes": 590480,
+          "retrievedAt": "2026-09-07T00:01:07.964039+00:00",
+          "snapshotPath": "sources/district-snapshots/7d2ec4298f1478105779562485971cc03754b2cbe42c98a832b8fb1de542ef1f.pdf",
+          "textPath": "data/source-library/7d2ec4298f1478105779562485971cc03754b2cbe42c98a832b8fb1de542ef1f.json",
+          "pdfPath": "data/source-pdfs/7d2ec4298f1478105779562485971cc03754b2cbe42c98a832b8fb1de542ef1f.pdf",
+          "pageCount": 76,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 1
+        }
+      ]
+    },
+    {
+      "id": "idd",
+      "name": "District of Idaho",
+      "discoveryUrl": "https://www.id.uscourts.gov/district/forms_fees_rules/Civil_Rules.cfm",
+      "notes": [
+        "The court generates a complete civil-rules PDF packet dynamically. Its printed date is a capture date, not a legal effective date."
+      ],
+      "documents": [
+        {
+          "id": "44f1cb18e409ece6",
+          "title": "Get Complete Rule Packet",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.id.uscourts.gov/content_fetcher/print_pdf_packet.cfml?Court_Unit=District&Content_Type=Rule&Content_Sub_Type=Civil",
+          "sha256": "44f1cb18e409ece6cc4ec8cf042c018409965bb91cfbebf0e8a990fac5755832",
+          "bytes": 1207209,
+          "retrievedAt": "2026-09-07T00:01:08.568459+00:00",
+          "snapshotPath": "sources/district-snapshots/44f1cb18e409ece6cc4ec8cf042c018409965bb91cfbebf0e8a990fac5755832.pdf",
+          "textPath": "data/source-library/44f1cb18e409ece6cc4ec8cf042c018409965bb91cfbebf0e8a990fac5755832.json",
+          "pdfPath": "data/source-pdfs/44f1cb18e409ece6cc4ec8cf042c018409965bb91cfbebf0e8a990fac5755832.pdf",
+          "pageCount": 78,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "ilcd",
+      "name": "Central District of Illinois",
+      "discoveryUrl": "https://www.ilcd.uscourts.gov/local-rules",
+      "notes": [
+        "Current edition linked in the September 3, 2026 row of the official rules page."
+      ],
+      "documents": [
+        {
+          "id": "d7135a3d60e8a2cb",
+          "title": "Local Rules effective September 3, 2026",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.ilcd.uscourts.gov/sites/ilcd/files/September%202026%20Version%20.pdf",
+          "sha256": "d7135a3d60e8a2cbfa16f5fe513007602626de34340b0a07815cb3a70d2a8c30",
+          "bytes": 729845,
+          "retrievedAt": "2026-09-07T00:01:08.861530+00:00",
+          "snapshotPath": "sources/district-snapshots/d7135a3d60e8a2cbfa16f5fe513007602626de34340b0a07815cb3a70d2a8c30.pdf",
+          "textPath": "data/source-library/d7135a3d60e8a2cbfa16f5fe513007602626de34340b0a07815cb3a70d2a8c30.json",
+          "pdfPath": "data/source-pdfs/d7135a3d60e8a2cbfa16f5fe513007602626de34340b0a07815cb3a70d2a8c30.pdf",
+          "pageCount": 135,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "ilnd",
+      "name": "Northern District of Illinois",
+      "discoveryUrl": "https://www.ilnd.uscourts.gov/LandingPage.php?page=local_rules",
+      "notes": [],
+      "documents": [
+        {
+          "id": "033bacf6dd51b004",
+          "title": "Local Rules (PDF Version)",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.ilnd.uscourts.gov/_assets/_documents/_rules/LRRULES.pdf",
+          "sha256": "033bacf6dd51b004d9869c1ed25a6dea2c620d8ae0d5c6370c88489b8d9ae96c",
+          "bytes": 1628606,
+          "retrievedAt": "2026-09-07T00:01:09.473375+00:00",
+          "snapshotPath": "sources/district-snapshots/033bacf6dd51b004d9869c1ed25a6dea2c620d8ae0d5c6370c88489b8d9ae96c.pdf",
+          "textPath": "data/source-library/033bacf6dd51b004d9869c1ed25a6dea2c620d8ae0d5c6370c88489b8d9ae96c.json",
+          "pdfPath": "data/source-pdfs/033bacf6dd51b004d9869c1ed25a6dea2c620d8ae0d5c6370c88489b8d9ae96c.pdf",
+          "pageCount": 159,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "ilsd",
+      "name": "Southern District of Illinois",
+      "discoveryUrl": "https://www.ilsd.uscourts.gov/court-info/local-rules-and-orders",
+      "notes": [],
+      "documents": [
+        {
+          "id": "c817fe3ca85e7bd9",
+          "title": "Local Court Rules for the U.S. District Court for the Southern District of Illinois",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.ilsd.uscourts.gov/sites/ilsd/files/LocalRules10-30-2023.pdf",
+          "sha256": "c817fe3ca85e7bd9d469280cb0a40d978f1f391dea0ab7e62b283de5adcb1524",
+          "bytes": 677792,
+          "retrievedAt": "2026-09-07T00:01:09.988873+00:00",
+          "snapshotPath": "sources/district-snapshots/c817fe3ca85e7bd9d469280cb0a40d978f1f391dea0ab7e62b283de5adcb1524.pdf",
+          "textPath": "data/source-library/c817fe3ca85e7bd9d469280cb0a40d978f1f391dea0ab7e62b283de5adcb1524.json",
+          "pdfPath": "data/source-pdfs/c817fe3ca85e7bd9d469280cb0a40d978f1f391dea0ab7e62b283de5adcb1524.pdf",
+          "pageCount": 67,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "innd",
+      "name": "Northern District of Indiana",
+      "discoveryUrl": "https://www.innd.uscourts.gov/court-info/local-rules-and-orders",
+      "notes": [],
+      "documents": [
+        {
+          "id": "380ac564b7712f18",
+          "title": "Adopted Local Rules effective February 25, 2022",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.innd.uscourts.gov/sites/innd/files/CurrentLocalRules.pdf",
+          "sha256": "380ac564b7712f1836d4d0b8a3b89fae0e7de750abb0658d524212dfb016e097",
+          "bytes": 764345,
+          "retrievedAt": "2026-09-07T00:01:10.659640+00:00",
+          "snapshotPath": "sources/district-snapshots/380ac564b7712f1836d4d0b8a3b89fae0e7de750abb0658d524212dfb016e097.pdf",
+          "textPath": "data/source-library/380ac564b7712f1836d4d0b8a3b89fae0e7de750abb0658d524212dfb016e097.json",
+          "pdfPath": "data/source-pdfs/380ac564b7712f1836d4d0b8a3b89fae0e7de750abb0658d524212dfb016e097.pdf",
+          "pageCount": 136,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "insd",
+      "name": "Southern District of Indiana",
+      "discoveryUrl": "https://www.insd.uscourts.gov/local-rules",
+      "notes": [],
+      "documents": [
+        {
+          "id": "1e832484f765290b",
+          "title": "INSD Local Rules",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.insd.uscourts.gov/sites/insd/files/Local%20Rules%207-1-26.pdf",
+          "sha256": "1e832484f765290b64b70b7ceb32c90980b3b071b1ca4690f680778bec1b0149",
+          "bytes": 649945,
+          "retrievedAt": "2026-09-07T00:01:11.003874+00:00",
+          "snapshotPath": "sources/district-snapshots/1e832484f765290b64b70b7ceb32c90980b3b071b1ca4690f680778bec1b0149.pdf",
+          "textPath": "data/source-library/1e832484f765290b64b70b7ceb32c90980b3b071b1ca4690f680778bec1b0149.json",
+          "pdfPath": "data/source-pdfs/1e832484f765290b64b70b7ceb32c90980b3b071b1ca4690f680778bec1b0149.pdf",
+          "pageCount": 121,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "iand",
+      "name": "Northern District of Iowa",
+      "discoveryUrl": "https://www.iand.uscourts.gov/local-rules-federal-rules-administrative-orders",
+      "notes": [
+        "Joint Northern/Southern Iowa local rules; compare the separately hosted PDFs before deduplicating."
+      ],
+      "documents": [
+        {
+          "id": "e810de7fd321eea5",
+          "title": "Iowa Northern & Iowa Southern Districts' Joint Local Rules",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.iand.uscourts.gov/sites/iand/files/Local%20Rules%20-%20Final%20Website%20Version.pdf",
+          "sha256": "e810de7fd321eea597eeaaf97a38bb0f507061f82e5cc771e0991fa964ca5370",
+          "bytes": 607416,
+          "retrievedAt": "2026-09-07T00:01:14.602244+00:00",
+          "snapshotPath": "sources/district-snapshots/e810de7fd321eea597eeaaf97a38bb0f507061f82e5cc771e0991fa964ca5370.pdf",
+          "textPath": "data/source-library/e810de7fd321eea597eeaaf97a38bb0f507061f82e5cc771e0991fa964ca5370.json",
+          "pdfPath": "data/source-pdfs/e810de7fd321eea597eeaaf97a38bb0f507061f82e5cc771e0991fa964ca5370.pdf",
+          "pageCount": 106,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "iasd",
+      "name": "Southern District of Iowa",
+      "discoveryUrl": "https://www.iasd.uscourts.gov/local-rules",
+      "notes": [
+        "Joint Northern/Southern Iowa local rules; compare the separately hosted PDFs before deduplicating."
+      ],
+      "documents": [
+        {
+          "id": "d26e937a074d3b67",
+          "title": "Local Rules",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.iasd.uscourts.gov/sites/iasd/files/Local%20Rules%20-%20Final%2012142020.pdf",
+          "sha256": "d26e937a074d3b6720b485859cfde8493cff55f7ab64cb51fcbbc110e438adf7",
+          "bytes": 600458,
+          "retrievedAt": "2026-09-07T00:01:19.736182+00:00",
+          "snapshotPath": "sources/district-snapshots/d26e937a074d3b6720b485859cfde8493cff55f7ab64cb51fcbbc110e438adf7.pdf",
+          "textPath": "data/source-library/d26e937a074d3b6720b485859cfde8493cff55f7ab64cb51fcbbc110e438adf7.json",
+          "pdfPath": "data/source-pdfs/d26e937a074d3b6720b485859cfde8493cff55f7ab64cb51fcbbc110e438adf7.pdf",
+          "pageCount": 106,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "ksd",
+      "name": "District of Kansas",
+      "discoveryUrl": "https://www.ksd.uscourts.gov/court-info/local-rules-and-orders",
+      "notes": [],
+      "documents": [
+        {
+          "id": "887b23a5a4f9a432",
+          "title": "Local Rules for Kansas District Court Effective April 1, 2026",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.ksd.uscourts.gov/sites/ksd/files/MASTER%20COPY%20updated%204%2027%2026.pdf",
+          "sha256": "887b23a5a4f9a432dd85a828884b0d48482f0ee061d3fc3a5898467a9043aeab",
+          "bytes": 1267219,
+          "retrievedAt": "2026-09-07T00:01:20.733740+00:00",
+          "snapshotPath": "sources/district-snapshots/887b23a5a4f9a432dd85a828884b0d48482f0ee061d3fc3a5898467a9043aeab.pdf",
+          "textPath": "data/source-library/887b23a5a4f9a432dd85a828884b0d48482f0ee061d3fc3a5898467a9043aeab.json",
+          "pdfPath": "data/source-pdfs/887b23a5a4f9a432dd85a828884b0d48482f0ee061d3fc3a5898467a9043aeab.pdf",
+          "pageCount": 99,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "kyed",
+      "name": "Eastern District of Kentucky",
+      "discoveryUrl": "https://www.kyed.uscourts.gov/local-rules",
+      "notes": [
+        "Joint Eastern/Western Kentucky local civil rules."
+      ],
+      "documents": [
+        {
+          "id": "f7942d10800716fe",
+          "title": "Civil Rules",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.kyed.uscourts.gov/sites/kyed/files/KY_Amended_Civil_Rules_August_2026.pdf",
+          "sha256": "f7942d10800716fe5cc62401a47f6ef71d8db68cbc5516a504df2263597d1086",
+          "bytes": 339164,
+          "retrievedAt": "2026-09-07T00:01:20.849977+00:00",
+          "snapshotPath": "sources/district-snapshots/f7942d10800716fe5cc62401a47f6ef71d8db68cbc5516a504df2263597d1086.pdf",
+          "textPath": "data/source-library/f7942d10800716fe5cc62401a47f6ef71d8db68cbc5516a504df2263597d1086.json",
+          "pdfPath": "data/source-pdfs/f7942d10800716fe5cc62401a47f6ef71d8db68cbc5516a504df2263597d1086.pdf",
+          "pageCount": 30,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "kywd",
+      "name": "Western District of Kentucky",
+      "discoveryUrl": "https://www.kywd.uscourts.gov/court-info/local-rules-and-orders/local-rules",
+      "notes": [
+        "Joint Eastern/Western Kentucky local civil rules."
+      ],
+      "documents": [
+        {
+          "id": "4012808535c8a6ea",
+          "title": "Joint Local Rules of Civil Practice",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.kywd.uscourts.gov/sites/kywd/files/local_rules/KY_Amended_Civil_Rules_August_2026-1.pdf",
+          "sha256": "4012808535c8a6ea4c3c6f4c167a93a29c45ea03465f5247ba813de16df2a457",
+          "bytes": 345853,
+          "retrievedAt": "2026-09-07T00:01:21.658711+00:00",
+          "snapshotPath": "sources/district-snapshots/4012808535c8a6ea4c3c6f4c167a93a29c45ea03465f5247ba813de16df2a457.pdf",
+          "textPath": "data/source-library/4012808535c8a6ea4c3c6f4c167a93a29c45ea03465f5247ba813de16df2a457.json",
+          "pdfPath": "data/source-pdfs/4012808535c8a6ea4c3c6f4c167a93a29c45ea03465f5247ba813de16df2a457.pdf",
+          "pageCount": 30,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "laed",
+      "name": "Eastern District of Louisiana",
+      "discoveryUrl": "https://www.laed.uscourts.gov/pro-se/federal-and-local-rules-civil-procedure",
+      "notes": [],
+      "documents": [
+        {
+          "id": "429a9a4f8516ec33",
+          "title": "Local Rules of Civil Procedure",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.laed.uscourts.gov/sites/default/files/local_rules/2022%20CIVIL%20RULES%20LAED%20w%20Amendment%202%204%2025.pdf",
+          "sha256": "429a9a4f8516ec33dd72578520ade3d5be1592da301fd60d66a2b4b40f250725",
+          "bytes": 429265,
+          "retrievedAt": "2026-09-07T00:01:23.605826+00:00",
+          "snapshotPath": "sources/district-snapshots/429a9a4f8516ec33dd72578520ade3d5be1592da301fd60d66a2b4b40f250725.pdf",
+          "textPath": "data/source-library/429a9a4f8516ec33dd72578520ade3d5be1592da301fd60d66a2b4b40f250725.json",
+          "pdfPath": "data/source-pdfs/429a9a4f8516ec33dd72578520ade3d5be1592da301fd60d66a2b4b40f250725.pdf",
+          "pageCount": 54,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "lamd",
+      "name": "Middle District of Louisiana",
+      "discoveryUrl": "https://www.lamd.uscourts.gov/court-info/local-rules-and-orders",
+      "notes": [],
+      "documents": [
+        {
+          "id": "cdcfeeed1072e6fb",
+          "title": "Middle District of Louisiana - Local Rules",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.lamd.uscourts.gov/sites/default/files/pdf/2022%20Local%20Rules%20Revisions%208-18-2022.pdf",
+          "sha256": "cdcfeeed1072e6fb368c5203995f4d247f8735b342a4155ee1762c9087a4e11e",
+          "bytes": 761796,
+          "retrievedAt": "2026-09-07T00:01:23.703974+00:00",
+          "snapshotPath": "sources/district-snapshots/cdcfeeed1072e6fb368c5203995f4d247f8735b342a4155ee1762c9087a4e11e.pdf",
+          "textPath": "data/source-library/cdcfeeed1072e6fb368c5203995f4d247f8735b342a4155ee1762c9087a4e11e.json",
+          "pdfPath": "data/source-pdfs/cdcfeeed1072e6fb368c5203995f4d247f8735b342a4155ee1762c9087a4e11e.pdf",
+          "pageCount": 78,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "lawd",
+      "name": "Western District of Louisiana",
+      "discoveryUrl": "https://www.lawd.uscourts.gov/local-rules",
+      "notes": [],
+      "documents": [
+        {
+          "id": "80e6ba6dcea5200b",
+          "title": "Local Rules (PDF)(Current Version)",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.lawd.uscourts.gov/sites/lawd/files/UPLOADS/CivilCrimLRs.Barbara.updated.Ver3.030526.ppm.pdf",
+          "sha256": "80e6ba6dcea5200b390b51e7ffaff8cf3549f36e5de3786d3b72639bab89fbb5",
+          "bytes": 419747,
+          "retrievedAt": "2026-09-07T00:01:23.721978+00:00",
+          "snapshotPath": "sources/district-snapshots/80e6ba6dcea5200b390b51e7ffaff8cf3549f36e5de3786d3b72639bab89fbb5.pdf",
+          "textPath": "data/source-library/80e6ba6dcea5200b390b51e7ffaff8cf3549f36e5de3786d3b72639bab89fbb5.json",
+          "pdfPath": "data/source-pdfs/80e6ba6dcea5200b390b51e7ffaff8cf3549f36e5de3786d3b72639bab89fbb5.pdf",
+          "pageCount": 45,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "med",
+      "name": "District of Maine",
+      "discoveryUrl": "https://www.med.uscourts.gov/node/53",
+      "notes": [],
+      "documents": [
+        {
+          "id": "131911bfe696ae77",
+          "title": "Local Rules effective April 1, 2025",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.med.uscourts.gov/sites/med/files/LocalRules.pdf",
+          "sha256": "131911bfe696ae77d1d4828385d2f8c83cbc533c2317a5128483d5049f152232",
+          "bytes": 856579,
+          "retrievedAt": "2026-09-07T00:01:23.757984+00:00",
+          "snapshotPath": "sources/district-snapshots/131911bfe696ae77d1d4828385d2f8c83cbc533c2317a5128483d5049f152232.pdf",
+          "textPath": "data/source-library/131911bfe696ae77d1d4828385d2f8c83cbc533c2317a5128483d5049f152232.json",
+          "pdfPath": "data/source-pdfs/131911bfe696ae77d1d4828385d2f8c83cbc533c2317a5128483d5049f152232.pdf",
+          "pageCount": 163,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "mdd",
+      "name": "District of Maryland",
+      "discoveryUrl": "https://www.mdd.uscourts.gov/local-rules",
+      "notes": [],
+      "documents": [
+        {
+          "id": "0548bdddab14f278",
+          "title": "Click here for a full-page view or to download the Local Rules.",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.mdd.uscourts.gov/sites/mdd/files/LocalRules.pdf",
+          "sha256": "0548bdddab14f278b80ad91c2625837e65ad06ddfe9613107a72a0121174cae9",
+          "bytes": 990432,
+          "retrievedAt": "2026-09-07T00:01:24.212810+00:00",
+          "snapshotPath": "sources/district-snapshots/0548bdddab14f278b80ad91c2625837e65ad06ddfe9613107a72a0121174cae9.pdf",
+          "textPath": "data/source-library/0548bdddab14f278b80ad91c2625837e65ad06ddfe9613107a72a0121174cae9.json",
+          "pdfPath": "data/source-pdfs/0548bdddab14f278b80ad91c2625837e65ad06ddfe9613107a72a0121174cae9.pdf",
+          "pageCount": 157,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "mad",
+      "name": "District of Massachusetts",
+      "discoveryUrl": "https://www.mad.uscourts.gov/general/rules-home.htm",
+      "notes": [],
+      "documents": [
+        {
+          "id": "3f1d30bce6bdd9c4",
+          "title": "View our Combined Local Rules",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.mad.uscourts.gov/general/pdf/local-rules/Combined%20Local%20Rules.pdf",
+          "sha256": "3f1d30bce6bdd9c4366e1aafde3a5c2699f1ac69c3df0c384294d1c5a5b9b7c7",
+          "bytes": 1656016,
+          "retrievedAt": "2026-09-07T00:01:24.324318+00:00",
+          "snapshotPath": "sources/district-snapshots/3f1d30bce6bdd9c4366e1aafde3a5c2699f1ac69c3df0c384294d1c5a5b9b7c7.pdf",
+          "textPath": "data/source-library/3f1d30bce6bdd9c4366e1aafde3a5c2699f1ac69c3df0c384294d1c5a5b9b7c7.json",
+          "pdfPath": "data/source-pdfs/3f1d30bce6bdd9c4366e1aafde3a5c2699f1ac69c3df0c384294d1c5a5b9b7c7.pdf",
+          "pageCount": 174,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "mied",
+      "name": "Eastern District of Michigan",
+      "discoveryUrl": "https://www.mied.uscourts.gov/attorneys/localrules/",
+      "notes": [],
+      "documents": [
+        {
+          "id": "a49d2aa2231b3bb0",
+          "title": "Local Rules",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.mied.uscourts.gov/pdffiles/localRulesPackage.pdf",
+          "sha256": "a49d2aa2231b3bb01d8750d82aa76802e8d15d6b4cd6cdd92707282183ac06e7",
+          "bytes": 1831566,
+          "retrievedAt": "2026-09-07T00:01:24.882321+00:00",
+          "snapshotPath": "sources/district-snapshots/a49d2aa2231b3bb01d8750d82aa76802e8d15d6b4cd6cdd92707282183ac06e7.pdf",
+          "textPath": "data/source-library/a49d2aa2231b3bb01d8750d82aa76802e8d15d6b4cd6cdd92707282183ac06e7.json",
+          "pdfPath": "data/source-pdfs/a49d2aa2231b3bb01d8750d82aa76802e8d15d6b4cd6cdd92707282183ac06e7.pdf",
+          "pageCount": 192,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 9
+        }
+      ]
+    },
+    {
+      "id": "miwd",
+      "name": "Western District of Michigan",
+      "discoveryUrl": "https://www.miwd.uscourts.gov/court-info/local-rules-and-orders",
+      "notes": [
+        "Court page says 2026 amendments take effect 60 days after Administrative Order 26-RL-067 dated August 13, 2026. Do not ingest the 2026 PDF as effective on September 6, 2026. Prior civil rules remain available as HTML."
+      ],
+      "documents": [
+        {
+          "id": "7bc299f6d271e802",
+          "title": "2019 edition civil rules",
+          "format": "html",
+          "role": "current-web-edition",
+          "sourceUrl": "https://www.miwd.uscourts.gov/court-info/local-rules-and-orders/local-civil-rules",
+          "sha256": "7bc299f6d271e802b73c38db9d979f5f00be6ba9da0e92a6eed60ae65c4e63af",
+          "bytes": 193504,
+          "retrievedAt": "2026-09-07T04:42:36.702100+00:00",
+          "snapshotPath": "sources/district-snapshots/7bc299f6d271e802b73c38db9d979f5f00be6ba9da0e92a6eed60ae65c4e63af.html",
+          "textPath": "data/source-library/7bc299f6d271e802b73c38db9d979f5f00be6ba9da0e92a6eed60ae65c4e63af.json",
+          "pdfPath": null,
+          "pageCount": 19,
+          "reviewStatus": "source-document-only"
+        },
+        {
+          "id": "61027d97dc83d2d8",
+          "title": "2026 version",
+          "format": "pdf",
+          "role": "upcoming-edition",
+          "sourceUrl": "https://www.miwd.uscourts.gov/sites/miwd/files/MIWD_Local_Rules.pdf",
+          "sha256": "61027d97dc83d2d8ea6c198f285912fa8e47d6dc5ad18b3f1a8d07d252468040",
+          "bytes": 530626,
+          "retrievedAt": "2026-09-07T00:01:25.992561+00:00",
+          "snapshotPath": "sources/district-snapshots/61027d97dc83d2d8ea6c198f285912fa8e47d6dc5ad18b3f1a8d07d252468040.pdf",
+          "textPath": "data/source-library/61027d97dc83d2d8ea6c198f285912fa8e47d6dc5ad18b3f1a8d07d252468040.json",
+          "pdfPath": "data/source-pdfs/61027d97dc83d2d8ea6c198f285912fa8e47d6dc5ad18b3f1a8d07d252468040.pdf",
+          "pageCount": 94,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "mnd",
+      "name": "District of Minnesota",
+      "discoveryUrl": "https://www.mnd.uscourts.gov/local-rules-complete-set",
+      "notes": [],
+      "documents": [
+        {
+          "id": "01aa8892b4d346f9",
+          "title": "Local Rules - Complete Set - PDF Format",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.mnd.uscourts.gov/sites/mnd/files/Local-Rules-Master.pdf",
+          "sha256": "01aa8892b4d346f976b203d66a6739fa8b1bb028d3b005092ddd003da796eda1",
+          "bytes": 1010185,
+          "retrievedAt": "2026-09-07T00:01:29.770067+00:00",
+          "snapshotPath": "sources/district-snapshots/01aa8892b4d346f976b203d66a6739fa8b1bb028d3b005092ddd003da796eda1.pdf",
+          "textPath": "data/source-library/01aa8892b4d346f976b203d66a6739fa8b1bb028d3b005092ddd003da796eda1.json",
+          "pdfPath": "data/source-pdfs/01aa8892b4d346f976b203d66a6739fa8b1bb028d3b005092ddd003da796eda1.pdf",
+          "pageCount": 142,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "msnd",
+      "name": "Northern District of Mississippi",
+      "discoveryUrl": "https://www.msnd.uscourts.gov/forms/uniform-local-civil-rules",
+      "notes": [
+        "Uniform local civil rules for the Northern and Southern Districts of Mississippi."
+      ],
+      "documents": [
+        {
+          "id": "e538403825e3f44c",
+          "title": "2024 Local Civil Rules MSSD MSND.pdf",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.msnd.uscourts.gov/sites/msnd/files/forms/2024%20Local%20Civil%20Rules%20MSSD%20MSND_12.1.2024.pdf",
+          "sha256": "e538403825e3f44c5112e6f929ce266b3f39e31387df9ce57823f76bf9df055d",
+          "bytes": 5180987,
+          "retrievedAt": "2026-09-07T00:01:31.576480+00:00",
+          "snapshotPath": "sources/district-snapshots/e538403825e3f44c5112e6f929ce266b3f39e31387df9ce57823f76bf9df055d.pdf",
+          "textPath": "data/source-library/e538403825e3f44c5112e6f929ce266b3f39e31387df9ce57823f76bf9df055d.json",
+          "pdfPath": "data/source-pdfs/e538403825e3f44c5112e6f929ce266b3f39e31387df9ce57823f76bf9df055d.pdf",
+          "pageCount": 164,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "mssd",
+      "name": "Southern District of Mississippi",
+      "discoveryUrl": "https://www.mssd.uscourts.gov/court-info/local-rules-and-orders",
+      "notes": [
+        "Uniform local civil rules for the Northern and Southern Districts of Mississippi."
+      ],
+      "documents": [
+        {
+          "id": "d19013c471bbe30a",
+          "title": "Adobe PDF",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.mssd.uscourts.gov/sites/mssd/files/2024%20Local%20Civil%20Rules%20MSSD%20MSND%20%28.pdf%29.pdf",
+          "sha256": "d19013c471bbe30a8cf1bb43dc3864c9d5cc030ad34f3edd9742f0c03e3faa58",
+          "bytes": 5180987,
+          "retrievedAt": "2026-09-07T00:01:31.868809+00:00",
+          "snapshotPath": "sources/district-snapshots/d19013c471bbe30a8cf1bb43dc3864c9d5cc030ad34f3edd9742f0c03e3faa58.pdf",
+          "textPath": "data/source-library/d19013c471bbe30a8cf1bb43dc3864c9d5cc030ad34f3edd9742f0c03e3faa58.json",
+          "pdfPath": "data/source-pdfs/d19013c471bbe30a8cf1bb43dc3864c9d5cc030ad34f3edd9742f0c03e3faa58.pdf",
+          "pageCount": 164,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "moed",
+      "name": "Eastern District of Missouri",
+      "discoveryUrl": "https://www.moed.uscourts.gov/local-rules",
+      "notes": [],
+      "documents": [
+        {
+          "id": "af448dc06be9c310",
+          "title": "Click here to download the local rules PDF document",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.moed.uscourts.gov/sites/moed/files/CMECF_localrule.pdf",
+          "sha256": "af448dc06be9c3106694b1eed7e2e19fd134b097bd1b0dddfe29d0f08a89b553",
+          "bytes": 863554,
+          "retrievedAt": "2026-09-07T00:01:37.770144+00:00",
+          "snapshotPath": "sources/district-snapshots/af448dc06be9c3106694b1eed7e2e19fd134b097bd1b0dddfe29d0f08a89b553.pdf",
+          "textPath": "data/source-library/af448dc06be9c3106694b1eed7e2e19fd134b097bd1b0dddfe29d0f08a89b553.json",
+          "pdfPath": "data/source-pdfs/af448dc06be9c3106694b1eed7e2e19fd134b097bd1b0dddfe29d0f08a89b553.pdf",
+          "pageCount": 144,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "mowd",
+      "name": "Western District of Missouri",
+      "discoveryUrl": "https://www.mow.uscourts.gov/district/rules",
+      "notes": [],
+      "documents": [
+        {
+          "id": "03b2fea9f5aa9a65",
+          "title": "Local Rules Complete Copy",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.mow.uscourts.gov/sites/mow/files/DC-Local_Rules-072026.pdf",
+          "sha256": "03b2fea9f5aa9a6588996c8f79df3ab2d961974b36bd9b8913892fdff85fee36",
+          "bytes": 610859,
+          "retrievedAt": "2026-09-07T00:01:38.083484+00:00",
+          "snapshotPath": "sources/district-snapshots/03b2fea9f5aa9a6588996c8f79df3ab2d961974b36bd9b8913892fdff85fee36.pdf",
+          "textPath": "data/source-library/03b2fea9f5aa9a6588996c8f79df3ab2d961974b36bd9b8913892fdff85fee36.json",
+          "pdfPath": "data/source-pdfs/03b2fea9f5aa9a6588996c8f79df3ab2d961974b36bd9b8913892fdff85fee36.pdf",
+          "pageCount": 64,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 1
+        }
+      ]
+    },
+    {
+      "id": "mtd",
+      "name": "District of Montana",
+      "discoveryUrl": "https://www.mtd.uscourts.gov/court-info/local-rules-and-orders",
+      "notes": [],
+      "documents": [
+        {
+          "id": "dcd4f92263c59663",
+          "title": "U.S. District Court Local Rules",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.mtd.uscourts.gov/sites/mtd/files/LocalRules_12012025.pdf",
+          "sha256": "dcd4f92263c596639ca3676c35707ebd54ac37c6763d0778bdc26df25b83a8d3",
+          "bytes": 2079411,
+          "retrievedAt": "2026-09-07T00:01:41.208738+00:00",
+          "snapshotPath": "sources/district-snapshots/dcd4f92263c596639ca3676c35707ebd54ac37c6763d0778bdc26df25b83a8d3.pdf",
+          "textPath": "data/source-library/dcd4f92263c596639ca3676c35707ebd54ac37c6763d0778bdc26df25b83a8d3.json",
+          "pdfPath": "data/source-pdfs/dcd4f92263c596639ca3676c35707ebd54ac37c6763d0778bdc26df25b83a8d3.pdf",
+          "pageCount": 154,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "ned",
+      "name": "District of Nebraska",
+      "discoveryUrl": "https://www.ned.uscourts.gov/attorney/local-rules",
+      "notes": [],
+      "documents": [
+        {
+          "id": "b2016037ba41ec3c",
+          "title": "Nebraska Civil Rules (NECivR)",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.ned.uscourts.gov/internetDocs/localrules/NECivR.2025.pdf",
+          "sha256": "b2016037ba41ec3cd6f161d7d395d23c45c5cc6d1047b674d3bafee6b1e0ea4d",
+          "bytes": 415271,
+          "retrievedAt": "2026-09-07T00:01:41.376955+00:00",
+          "snapshotPath": "sources/district-snapshots/b2016037ba41ec3cd6f161d7d395d23c45c5cc6d1047b674d3bafee6b1e0ea4d.pdf",
+          "textPath": "data/source-library/b2016037ba41ec3cd6f161d7d395d23c45c5cc6d1047b674d3bafee6b1e0ea4d.json",
+          "pdfPath": "data/source-pdfs/b2016037ba41ec3cd6f161d7d395d23c45c5cc6d1047b674d3bafee6b1e0ea4d.pdf",
+          "pageCount": 63,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        },
+        {
+          "id": "7aeb14b6339776dd",
+          "title": "Nebraska General Rules (NEGenR)",
+          "format": "pdf",
+          "role": "general-rules",
+          "sourceUrl": "https://www.ned.uscourts.gov/internetDocs/localrules/NEGenR.2025.pdf",
+          "sha256": "7aeb14b6339776dd5d1a3b9815495c93f12c608b0b1d5c9629d0c22bc40fb361",
+          "bytes": 312134,
+          "retrievedAt": "2026-09-07T00:01:42.644843+00:00",
+          "snapshotPath": "sources/district-snapshots/7aeb14b6339776dd5d1a3b9815495c93f12c608b0b1d5c9629d0c22bc40fb361.pdf",
+          "textPath": "data/source-library/7aeb14b6339776dd5d1a3b9815495c93f12c608b0b1d5c9629d0c22bc40fb361.json",
+          "pdfPath": "data/source-pdfs/7aeb14b6339776dd5d1a3b9815495c93f12c608b0b1d5c9629d0c22bc40fb361.pdf",
+          "pageCount": 38,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "nvd",
+      "name": "District of Nevada",
+      "discoveryUrl": "https://www.nvd.uscourts.gov/",
+      "notes": [],
+      "documents": [
+        {
+          "id": "f90ed909fa5aa88c",
+          "title": "Local Rules",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.nvd.uscourts.gov/wp-content/uploads/2020/04/Local-Rules-of-Practice-Amended-2020.pdf",
+          "sha256": "f90ed909fa5aa88cf17fc97853803b834aa791003d2894707b3fd93c5ae64346",
+          "bytes": 753023,
+          "retrievedAt": "2026-09-07T00:01:42.669844+00:00",
+          "snapshotPath": "sources/district-snapshots/f90ed909fa5aa88cf17fc97853803b834aa791003d2894707b3fd93c5ae64346.pdf",
+          "textPath": "data/source-library/f90ed909fa5aa88cf17fc97853803b834aa791003d2894707b3fd93c5ae64346.json",
+          "pdfPath": "data/source-pdfs/f90ed909fa5aa88cf17fc97853803b834aa791003d2894707b3fd93c5ae64346.pdf",
+          "pageCount": 115,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "nhd",
+      "name": "District of New Hampshire",
+      "discoveryUrl": "https://www.nhd.uscourts.gov/Local-Rules-0",
+      "notes": [],
+      "documents": [
+        {
+          "id": "0c8a71f758a67912",
+          "title": "Local Rules",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.nhd.uscourts.gov/pdf/2025%20Local%20Rules%20-%20District%20of%20New%20Hampshire.pdf",
+          "sha256": "0c8a71f758a67912be5801f49cfdd23f9071dd7799b80c1c4e86a8f3feb94390",
+          "bytes": 1132817,
+          "retrievedAt": "2026-09-07T00:01:43.714478+00:00",
+          "snapshotPath": "sources/district-snapshots/0c8a71f758a67912be5801f49cfdd23f9071dd7799b80c1c4e86a8f3feb94390.pdf",
+          "textPath": "data/source-library/0c8a71f758a67912be5801f49cfdd23f9071dd7799b80c1c4e86a8f3feb94390.json",
+          "pdfPath": "data/source-pdfs/0c8a71f758a67912be5801f49cfdd23f9071dd7799b80c1c4e86a8f3feb94390.pdf",
+          "pageCount": 171,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 1
+        }
+      ]
+    },
+    {
+      "id": "njd",
+      "name": "District of New Jersey",
+      "discoveryUrl": "https://www.njd.uscourts.gov/local-rules-and-appendices",
+      "notes": [],
+      "documents": [
+        {
+          "id": "601f51d7a6f20858",
+          "title": "Local Rules",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.njd.uscourts.gov/sites/njd/files/CompleteLocalRules.pdf",
+          "sha256": "601f51d7a6f208586003cb24b31be45ece4d4fa2fec3e0167a19779050c2d0f5",
+          "bytes": 890038,
+          "retrievedAt": "2026-09-07T00:01:43.746486+00:00",
+          "snapshotPath": "sources/district-snapshots/601f51d7a6f208586003cb24b31be45ece4d4fa2fec3e0167a19779050c2d0f5.pdf",
+          "textPath": "data/source-library/601f51d7a6f208586003cb24b31be45ece4d4fa2fec3e0167a19779050c2d0f5.json",
+          "pdfPath": "data/source-pdfs/601f51d7a6f208586003cb24b31be45ece4d4fa2fec3e0167a19779050c2d0f5.pdf",
+          "pageCount": 122,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "nmd",
+      "name": "District of New Mexico",
+      "discoveryUrl": "https://www.nmd.uscourts.gov/court-info/local-rules-and-orders/local-rules",
+      "notes": [],
+      "documents": [
+        {
+          "id": "f8526a99a16fdf00",
+          "title": "Local Rules of CIVIL Procedure for the District of New Mexico",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.nmd.uscourts.gov/sites/nmd/files/local_rules/Local%20Rules%20of%20Civil%20Procedure%20Adopted%20October%201%2C%202020_0.pdf",
+          "sha256": "f8526a99a16fdf0019d2648b388cc1554df02e8faab433aec9b0304868a1bf6f",
+          "bytes": 504674,
+          "retrievedAt": "2026-09-07T00:01:44.841372+00:00",
+          "snapshotPath": "sources/district-snapshots/f8526a99a16fdf0019d2648b388cc1554df02e8faab433aec9b0304868a1bf6f.pdf",
+          "textPath": "data/source-library/f8526a99a16fdf0019d2648b388cc1554df02e8faab433aec9b0304868a1bf6f.json",
+          "pdfPath": "data/source-pdfs/f8526a99a16fdf0019d2648b388cc1554df02e8faab433aec9b0304868a1bf6f.pdf",
+          "pageCount": 45,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "nyed",
+      "name": "Eastern District of New York",
+      "discoveryUrl": "https://nysd.uscourts.gov/rules",
+      "notes": [
+        "Joint Eastern/Southern Districts of New York rulebook, hosted by the Southern District. District-specific provisions still need separate review."
+      ],
+      "documents": [
+        {
+          "id": "439b9e2c67fd4ca1",
+          "title": "Local Rules of United States District Courts for the Southern and Eastern Districts of New York",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://nysd.uscourts.gov/sites/default/files/local_rules/2026-01-02%20-%20EDNY%20and%20SDNY%20Joint%20Local%20Rules%20As%20Amended.pdf",
+          "sha256": "439b9e2c67fd4ca1d1be65a7f28ca53707820bcbabb4b459323ade1a773607af",
+          "bytes": 801084,
+          "retrievedAt": "2026-09-07T00:01:45.819382+00:00",
+          "snapshotPath": "sources/district-snapshots/439b9e2c67fd4ca1d1be65a7f28ca53707820bcbabb4b459323ade1a773607af.pdf",
+          "textPath": "data/source-library/439b9e2c67fd4ca1d1be65a7f28ca53707820bcbabb4b459323ade1a773607af.json",
+          "pdfPath": "data/source-pdfs/439b9e2c67fd4ca1d1be65a7f28ca53707820bcbabb4b459323ade1a773607af.pdf",
+          "pageCount": 144,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "nynd",
+      "name": "Northern District of New York",
+      "discoveryUrl": "https://www.nynd.uscourts.gov/content/current-local-rules",
+      "notes": [],
+      "documents": [
+        {
+          "id": "707fdaa7e094b33f",
+          "title": "Local Rules 2026_Final.pdf",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.nynd.uscourts.gov/sites/nynd/files/local_rules/Local%20Rules%202026_Final.pdf",
+          "sha256": "707fdaa7e094b33f33ee9a44753473626949234f550a0e726ac9a9c2eb9dea96",
+          "bytes": 1075860,
+          "retrievedAt": "2026-09-07T00:01:46.079258+00:00",
+          "snapshotPath": "sources/district-snapshots/707fdaa7e094b33f33ee9a44753473626949234f550a0e726ac9a9c2eb9dea96.pdf",
+          "textPath": "data/source-library/707fdaa7e094b33f33ee9a44753473626949234f550a0e726ac9a9c2eb9dea96.json",
+          "pdfPath": "data/source-pdfs/707fdaa7e094b33f33ee9a44753473626949234f550a0e726ac9a9c2eb9dea96.pdf",
+          "pageCount": 165,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "nysd",
+      "name": "Southern District of New York",
+      "discoveryUrl": "https://nysd.uscourts.gov/rules",
+      "notes": [],
+      "documents": [
+        {
+          "id": "439b9e2c67fd4ca1",
+          "title": "Local Rules of United States District Courts for the Southern and Eastern Districts of New York",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://nysd.uscourts.gov/sites/default/files/local_rules/2026-01-02%20-%20EDNY%20and%20SDNY%20Joint%20Local%20Rules%20As%20Amended.pdf",
+          "sha256": "439b9e2c67fd4ca1d1be65a7f28ca53707820bcbabb4b459323ade1a773607af",
+          "bytes": 801084,
+          "retrievedAt": "2026-09-07T00:01:45.819382+00:00",
+          "snapshotPath": "sources/district-snapshots/439b9e2c67fd4ca1d1be65a7f28ca53707820bcbabb4b459323ade1a773607af.pdf",
+          "textPath": "data/source-library/439b9e2c67fd4ca1d1be65a7f28ca53707820bcbabb4b459323ade1a773607af.json",
+          "pdfPath": "data/source-pdfs/439b9e2c67fd4ca1d1be65a7f28ca53707820bcbabb4b459323ade1a773607af.pdf",
+          "pageCount": 144,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "nywd",
+      "name": "Western District of New York",
+      "discoveryUrl": "https://www.nywd.uscourts.gov/rules-individual-local-federal",
+      "notes": [],
+      "documents": [
+        {
+          "id": "b32b2c3c52838dbb",
+          "title": "Local Rules of Civil Procedure (Effective January 15, 2026)",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.nywd.uscourts.gov/sites/nywd/files/2025%20Local%20Rules%20of%20Civil%20Procedure%20FINAL%20-%20v3-1.pdf",
+          "sha256": "b32b2c3c52838dbb09e94bf7bac93b17ea9faf7d88fed1dce79d4d4a44be073f",
+          "bytes": 872028,
+          "retrievedAt": "2026-09-07T00:01:49.081090+00:00",
+          "snapshotPath": "sources/district-snapshots/b32b2c3c52838dbb09e94bf7bac93b17ea9faf7d88fed1dce79d4d4a44be073f.pdf",
+          "textPath": "data/source-library/b32b2c3c52838dbb09e94bf7bac93b17ea9faf7d88fed1dce79d4d4a44be073f.json",
+          "pdfPath": "data/source-pdfs/b32b2c3c52838dbb09e94bf7bac93b17ea9faf7d88fed1dce79d4d4a44be073f.pdf",
+          "pageCount": 75,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "nced",
+      "name": "Eastern District of North Carolina",
+      "discoveryUrl": "https://www.nced.uscourts.gov/rules/",
+      "notes": [],
+      "documents": [
+        {
+          "id": "fdfd8a2f25ad587e",
+          "title": "Local Civil Rules",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.nced.uscourts.gov/pdfs/Local%20Civil%20Rules%202023.pdf",
+          "sha256": "fdfd8a2f25ad587e6cdf99c4bcd4f4a238b72f6827ca7251b480c2fb3792e7ea",
+          "bytes": 741612,
+          "retrievedAt": "2026-09-07T00:01:52.543902+00:00",
+          "snapshotPath": "sources/district-snapshots/fdfd8a2f25ad587e6cdf99c4bcd4f4a238b72f6827ca7251b480c2fb3792e7ea.pdf",
+          "textPath": "data/source-library/fdfd8a2f25ad587e6cdf99c4bcd4f4a238b72f6827ca7251b480c2fb3792e7ea.json",
+          "pdfPath": "data/source-pdfs/fdfd8a2f25ad587e6cdf99c4bcd4f4a238b72f6827ca7251b480c2fb3792e7ea.pdf",
+          "pageCount": 98,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "ncmd",
+      "name": "Middle District of North Carolina",
+      "discoveryUrl": "https://www.ncmd.uscourts.gov/local-rules-and-orders",
+      "notes": [],
+      "documents": [
+        {
+          "id": "038c3a7f8b990469",
+          "title": "Local Civil Rules",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.ncmd.uscourts.gov/sites/ncmd/files/mdnc%20local%20civil%20rules%2020260601.pdf",
+          "sha256": "038c3a7f8b990469ed768200dd2f0fc4ed321331b1cb29642b987ef25bb22018",
+          "bytes": 729181,
+          "retrievedAt": "2026-09-07T00:01:53.579322+00:00",
+          "snapshotPath": "sources/district-snapshots/038c3a7f8b990469ed768200dd2f0fc4ed321331b1cb29642b987ef25bb22018.pdf",
+          "textPath": "data/source-library/038c3a7f8b990469ed768200dd2f0fc4ed321331b1cb29642b987ef25bb22018.json",
+          "pdfPath": "data/source-pdfs/038c3a7f8b990469ed768200dd2f0fc4ed321331b1cb29642b987ef25bb22018.pdf",
+          "pageCount": 73,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "ncwd",
+      "name": "Western District of North Carolina",
+      "discoveryUrl": "https://www.ncwd.uscourts.gov/court-info/local-rules-and-orders/local-rules",
+      "notes": [],
+      "documents": [
+        {
+          "id": "042bd955ca07cbc9",
+          "title": "Local Rules (effective 12/01/2022)",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.ncwd.uscourts.gov/sites/default/files/local_rules/Revised%20Local%20Rules%20120122.pdf",
+          "sha256": "042bd955ca07cbc99ab0d52160e254a7d95221cb5408fc81d27f3daa712dc118",
+          "bytes": 541426,
+          "retrievedAt": "2026-09-07T00:01:54.660658+00:00",
+          "snapshotPath": "sources/district-snapshots/042bd955ca07cbc99ab0d52160e254a7d95221cb5408fc81d27f3daa712dc118.pdf",
+          "textPath": "data/source-library/042bd955ca07cbc99ab0d52160e254a7d95221cb5408fc81d27f3daa712dc118.json",
+          "pdfPath": "data/source-pdfs/042bd955ca07cbc99ab0d52160e254a7d95221cb5408fc81d27f3daa712dc118.pdf",
+          "pageCount": 81,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "ndd",
+      "name": "District of North Dakota",
+      "discoveryUrl": "https://www.ndd.uscourts.gov/court-info/local-rules-and-orders",
+      "notes": [],
+      "documents": [
+        {
+          "id": "a5ac31739c05d890",
+          "title": "Local Rules",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.ndd.uscourts.gov/lci/Local_Rules.pdf",
+          "sha256": "a5ac31739c05d89026e64d3656f9fc1fc8b1c6ceeecced44b33d9b3f84a5a119",
+          "bytes": 1103092,
+          "retrievedAt": "2026-09-07T00:01:55.605006+00:00",
+          "snapshotPath": "sources/district-snapshots/a5ac31739c05d89026e64d3656f9fc1fc8b1c6ceeecced44b33d9b3f84a5a119.pdf",
+          "textPath": "data/source-library/a5ac31739c05d89026e64d3656f9fc1fc8b1c6ceeecced44b33d9b3f84a5a119.json",
+          "pdfPath": "data/source-pdfs/a5ac31739c05d89026e64d3656f9fc1fc8b1c6ceeecced44b33d9b3f84a5a119.pdf",
+          "pageCount": 92,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "nmid",
+      "name": "District of the Northern Mariana Islands",
+      "discoveryUrl": "https://www.nmid.uscourts.gov/node/37",
+      "notes": [],
+      "documents": [
+        {
+          "id": "501739f4579d2e6c",
+          "title": "Local Rules",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.nmid.uscourts.gov/sites/nmid/files/documents/localrules/LR20171101.pdf",
+          "sha256": "501739f4579d2e6c7db27e0c29393b091d3a8247e75c7cd36260ee2109ee5b3b",
+          "bytes": 596628,
+          "retrievedAt": "2026-09-07T00:01:55.699520+00:00",
+          "snapshotPath": "sources/district-snapshots/501739f4579d2e6c7db27e0c29393b091d3a8247e75c7cd36260ee2109ee5b3b.pdf",
+          "textPath": "data/source-library/501739f4579d2e6c7db27e0c29393b091d3a8247e75c7cd36260ee2109ee5b3b.json",
+          "pdfPath": "data/source-pdfs/501739f4579d2e6c7db27e0c29393b091d3a8247e75c7cd36260ee2109ee5b3b.pdf",
+          "pageCount": 62,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "ohnd",
+      "name": "Northern District of Ohio",
+      "discoveryUrl": "https://www.ohnd.uscourts.gov/local-civil-rules",
+      "notes": [],
+      "documents": [
+        {
+          "id": "e2a67873799efcb7",
+          "title": "Local Civil Rules",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.ohnd.uscourts.gov/sites/ohnd/files/Civil%20Rules%204-10-2026.pdf",
+          "sha256": "e2a67873799efcb70df8b6ba43b8d850a786a65321863f2d5ff2cb89250f3335",
+          "bytes": 4207904,
+          "retrievedAt": "2026-09-07T00:01:56.317957+00:00",
+          "snapshotPath": "sources/district-snapshots/e2a67873799efcb70df8b6ba43b8d850a786a65321863f2d5ff2cb89250f3335.pdf",
+          "textPath": "data/source-library/e2a67873799efcb70df8b6ba43b8d850a786a65321863f2d5ff2cb89250f3335.json",
+          "pdfPath": "data/source-pdfs/e2a67873799efcb70df8b6ba43b8d850a786a65321863f2d5ff2cb89250f3335.pdf",
+          "pageCount": 193,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 3
+        }
+      ]
+    },
+    {
+      "id": "ohsd",
+      "name": "Southern District of Ohio",
+      "discoveryUrl": "https://www.ohsd.uscourts.gov/local-rules",
+      "notes": [],
+      "documents": [
+        {
+          "id": "9e68d137b17d93a1",
+          "title": "Local Rules as amended October 21, 2024",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.ohsd.uscourts.gov/sites/ohsd/files//2024-10-21%20Local%20Rules.pdf",
+          "sha256": "9e68d137b17d93a176c7d9d0834ad77affa2faa5621dd775590c23aeb5cc0bbf",
+          "bytes": 765016,
+          "retrievedAt": "2026-09-07T00:01:57.547463+00:00",
+          "snapshotPath": "sources/district-snapshots/9e68d137b17d93a176c7d9d0834ad77affa2faa5621dd775590c23aeb5cc0bbf.pdf",
+          "textPath": "data/source-library/9e68d137b17d93a176c7d9d0834ad77affa2faa5621dd775590c23aeb5cc0bbf.json",
+          "pdfPath": "data/source-pdfs/9e68d137b17d93a176c7d9d0834ad77affa2faa5621dd775590c23aeb5cc0bbf.pdf",
+          "pageCount": 58,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "oked",
+      "name": "Eastern District of Oklahoma",
+      "discoveryUrl": "https://www.oked.uscourts.gov/court-info/local-rules-and-orders",
+      "notes": [],
+      "documents": [
+        {
+          "id": "1deded6dcdb897c5",
+          "title": "Local Civil Rules",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.oked.uscourts.gov/sites/oked/files/Local_Civil_Rules.pdf",
+          "sha256": "1deded6dcdb897c5677b75f92ef727f91e850ad26b389296740e4b162cc10152",
+          "bytes": 1318700,
+          "retrievedAt": "2026-09-07T00:01:59.065579+00:00",
+          "snapshotPath": "sources/district-snapshots/1deded6dcdb897c5677b75f92ef727f91e850ad26b389296740e4b162cc10152.pdf",
+          "textPath": "data/source-library/1deded6dcdb897c5677b75f92ef727f91e850ad26b389296740e4b162cc10152.json",
+          "pdfPath": "data/source-pdfs/1deded6dcdb897c5677b75f92ef727f91e850ad26b389296740e4b162cc10152.pdf",
+          "pageCount": 53,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 1
+        }
+      ]
+    },
+    {
+      "id": "oknd",
+      "name": "Northern District of Oklahoma",
+      "discoveryUrl": "https://www.oknd.uscourts.gov/local-rules",
+      "notes": [],
+      "documents": [
+        {
+          "id": "acb17193b5b6a6c0",
+          "title": "Local Rules",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.oknd.uscourts.gov/sites/default/files/2026-07-31%20Local%20Rules.pdf",
+          "sha256": "acb17193b5b6a6c0651484c14fc850f17e8affac0679dbffe4ff5d9b49d69400",
+          "bytes": 809819,
+          "retrievedAt": "2026-09-07T00:01:59.890977+00:00",
+          "snapshotPath": "sources/district-snapshots/acb17193b5b6a6c0651484c14fc850f17e8affac0679dbffe4ff5d9b49d69400.pdf",
+          "textPath": "data/source-library/acb17193b5b6a6c0651484c14fc850f17e8affac0679dbffe4ff5d9b49d69400.json",
+          "pdfPath": "data/source-pdfs/acb17193b5b6a6c0651484c14fc850f17e8affac0679dbffe4ff5d9b49d69400.pdf",
+          "pageCount": 95,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "okwd",
+      "name": "Western District of Oklahoma",
+      "discoveryUrl": "https://www.okwd.uscourts.gov/local-rules",
+      "notes": [],
+      "documents": [
+        {
+          "id": "ec602e29b4e91d0f",
+          "title": "Local Rules",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.okwd.uscourts.gov/sites/okwd/files/LocalRules2026.pdf",
+          "sha256": "ec602e29b4e91d0f87f3a0549dcb0141e0f4cd40cdaecbe6ccd95daf3fdeee81",
+          "bytes": 859738,
+          "retrievedAt": "2026-09-07T00:02:00.587721+00:00",
+          "snapshotPath": "sources/district-snapshots/ec602e29b4e91d0f87f3a0549dcb0141e0f4cd40cdaecbe6ccd95daf3fdeee81.pdf",
+          "textPath": "data/source-library/ec602e29b4e91d0f87f3a0549dcb0141e0f4cd40cdaecbe6ccd95daf3fdeee81.json",
+          "pdfPath": "data/source-pdfs/ec602e29b4e91d0f87f3a0549dcb0141e0f4cd40cdaecbe6ccd95daf3fdeee81.pdf",
+          "pageCount": 108,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "ord",
+      "name": "District of Oregon",
+      "discoveryUrl": "https://www.ord.uscourts.gov/rules",
+      "notes": [
+        "Official civil rules and a consolidated printable HTML edition located. No current court-issued compiled civil-rules PDF located. A browser print-to-PDF would be a derivative, not an official PDF snapshot."
+      ],
+      "documents": [
+        {
+          "id": "6a22d5e3ff0ffb1b",
+          "title": "Printable Civil Procedure",
+          "format": "html",
+          "role": "primary",
+          "sourceUrl": "https://www.ord.uscourts.gov/index.php/printable-civil-procedure?tmpl=component&print=1",
+          "sha256": "6a22d5e3ff0ffb1bdc89d2a6a08ef939b80bbec78cc1dffd8e383bf3975d0290",
+          "bytes": 419753,
+          "retrievedAt": "2026-09-07T04:42:38.890056+00:00",
+          "snapshotPath": "sources/district-snapshots/6a22d5e3ff0ffb1bdc89d2a6a08ef939b80bbec78cc1dffd8e383bf3975d0290.html",
+          "textPath": "data/source-library/6a22d5e3ff0ffb1bdc89d2a6a08ef939b80bbec78cc1dffd8e383bf3975d0290.json",
+          "pdfPath": null,
+          "pageCount": 45,
+          "reviewStatus": "source-document-only"
+        }
+      ]
+    },
+    {
+      "id": "paed",
+      "name": "Eastern District of Pennsylvania",
+      "discoveryUrl": "https://www.paed.uscourts.gov/local-rules/Local%20Civil%20Rules",
+      "notes": [],
+      "documents": [
+        {
+          "id": "ef72f10ec2b6f697",
+          "title": "Local Rules of Civil Procedure",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.paed.uscourts.gov/sites/paed/files/documents/locrules/civil/cvrules.pdf",
+          "sha256": "ef72f10ec2b6f6972ecb782bac0b1464b73b83197ed105158e2916e5c2479db0",
+          "bytes": 1220859,
+          "retrievedAt": "2026-09-07T00:02:01.813571+00:00",
+          "snapshotPath": "sources/district-snapshots/ef72f10ec2b6f6972ecb782bac0b1464b73b83197ed105158e2916e5c2479db0.pdf",
+          "textPath": "data/source-library/ef72f10ec2b6f6972ecb782bac0b1464b73b83197ed105158e2916e5c2479db0.json",
+          "pdfPath": "data/source-pdfs/ef72f10ec2b6f6972ecb782bac0b1464b73b83197ed105158e2916e5c2479db0.pdf",
+          "pageCount": 74,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "pamd",
+      "name": "Middle District of Pennsylvania",
+      "discoveryUrl": "https://www.pamd.uscourts.gov/court-info/local-rules-and-orders",
+      "notes": [],
+      "documents": [
+        {
+          "id": "dc93f968e24b935b",
+          "title": "Local Rules PDF",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.pamd.uscourts.gov/sites/pamd/files/LR120114.pdf",
+          "sha256": "dc93f968e24b935be49f6f3bdcac3febaaec812442deb571f48b547e9deb9611",
+          "bytes": 417639,
+          "retrievedAt": "2026-09-07T00:02:04.294300+00:00",
+          "snapshotPath": "sources/district-snapshots/dc93f968e24b935be49f6f3bdcac3febaaec812442deb571f48b547e9deb9611.pdf",
+          "textPath": "data/source-library/dc93f968e24b935be49f6f3bdcac3febaaec812442deb571f48b547e9deb9611.json",
+          "pdfPath": "data/source-pdfs/dc93f968e24b935be49f6f3bdcac3febaaec812442deb571f48b547e9deb9611.pdf",
+          "pageCount": 112,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 1
+        }
+      ]
+    },
+    {
+      "id": "pawd",
+      "name": "Western District of Pennsylvania",
+      "discoveryUrl": "https://www.pawd.uscourts.gov/court-info/local-rules-and-orders/local-rules",
+      "notes": [],
+      "documents": [
+        {
+          "id": "2c19f7f9d8862a40",
+          "title": "PAWD Local Rules of Court",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.pawd.uscourts.gov/sites/pawd/files/lrmanual20181101.pdf",
+          "sha256": "2c19f7f9d8862a403a87f210a9f0dd8631ca2a9f24e6eec83b8dc750daeaa6fd",
+          "bytes": 1187199,
+          "retrievedAt": "2026-09-07T00:02:04.626492+00:00",
+          "snapshotPath": "sources/district-snapshots/2c19f7f9d8862a403a87f210a9f0dd8631ca2a9f24e6eec83b8dc750daeaa6fd.pdf",
+          "textPath": "data/source-library/2c19f7f9d8862a403a87f210a9f0dd8631ca2a9f24e6eec83b8dc750daeaa6fd.json",
+          "pdfPath": "data/source-pdfs/2c19f7f9d8862a403a87f210a9f0dd8631ca2a9f24e6eec83b8dc750daeaa6fd.pdf",
+          "pageCount": 130,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "prd",
+      "name": "District of Puerto Rico",
+      "discoveryUrl": "https://www.prd.uscourts.gov/court-info/local-rules-and-orders",
+      "notes": [
+        "A separate October 17, 2025 order amending Local Civil Rule 83A is listed on the rules page; reconcile it with the compiled PDF before ingestion."
+      ],
+      "documents": [
+        {
+          "id": "60feba0066bf4a79",
+          "title": "Local Rules",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.prd.uscourts.gov/sites/default/files/local_rules/Local%20Rules%2010-16-2024-amended-rule-83A.pdf",
+          "sha256": "60feba0066bf4a790c5539cbb5f4b3900cc25733e3b842fc4069049052f7a7fb",
+          "bytes": 1116317,
+          "retrievedAt": "2026-09-07T00:02:09.797739+00:00",
+          "snapshotPath": "sources/district-snapshots/60feba0066bf4a790c5539cbb5f4b3900cc25733e3b842fc4069049052f7a7fb.pdf",
+          "textPath": "data/source-library/60feba0066bf4a790c5539cbb5f4b3900cc25733e3b842fc4069049052f7a7fb.json",
+          "pdfPath": "data/source-pdfs/60feba0066bf4a790c5539cbb5f4b3900cc25733e3b842fc4069049052f7a7fb.pdf",
+          "pageCount": 145,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "rid",
+      "name": "District of Rhode Island",
+      "discoveryUrl": "https://www.rid.uscourts.gov/",
+      "notes": [],
+      "documents": [
+        {
+          "id": "7f03a8fca5401c94",
+          "title": "Local Rules",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.rid.uscourts.gov/sites/rid/files/documents/Approved%20Dec%202024%20Rules.pdf",
+          "sha256": "7f03a8fca5401c942b3bbb962180aa9d352237aa3a18be9a89f381d3d98c038e",
+          "bytes": 767720,
+          "retrievedAt": "2026-09-07T00:02:10.957109+00:00",
+          "snapshotPath": "sources/district-snapshots/7f03a8fca5401c942b3bbb962180aa9d352237aa3a18be9a89f381d3d98c038e.pdf",
+          "textPath": "data/source-library/7f03a8fca5401c942b3bbb962180aa9d352237aa3a18be9a89f381d3d98c038e.json",
+          "pdfPath": "data/source-pdfs/7f03a8fca5401c942b3bbb962180aa9d352237aa3a18be9a89f381d3d98c038e.pdf",
+          "pageCount": 179,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 2
+        }
+      ]
+    },
+    {
+      "id": "scd",
+      "name": "District of South Carolina",
+      "discoveryUrl": "https://www.scd.uscourts.gov/navtop/rules.asp",
+      "notes": [],
+      "documents": [
+        {
+          "id": "b605c3567e665b03",
+          "title": "Civil Rules",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.scd.uscourts.gov/Rules/Civil%20Rules%20-%20Current.pdf",
+          "sha256": "b605c3567e665b034281969d9bbcf630820a300c064c981fee6f3af19457a588",
+          "bytes": 512508,
+          "retrievedAt": "2026-09-07T00:02:11.651247+00:00",
+          "snapshotPath": "sources/district-snapshots/b605c3567e665b034281969d9bbcf630820a300c064c981fee6f3af19457a588.pdf",
+          "textPath": "data/source-library/b605c3567e665b034281969d9bbcf630820a300c064c981fee6f3af19457a588.json",
+          "pdfPath": "data/source-pdfs/b605c3567e665b034281969d9bbcf630820a300c064c981fee6f3af19457a588.pdf",
+          "pageCount": 75,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "sdd",
+      "name": "District of South Dakota",
+      "discoveryUrl": "https://www.sdd.uscourts.gov/LocalRulesCivil",
+      "notes": [],
+      "documents": [
+        {
+          "id": "2db6120e6edcc37e",
+          "title": "Civil Local Rules (Complete Set)",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.sdd.uscourts.gov/sites/sdd/files/Civil%20Local%20Rules%20-%20final%2C%20approved.pdf",
+          "sha256": "2db6120e6edcc37e1de5b70ed802e39611a00ef1c4e14b488cfc263587cf257d",
+          "bytes": 402130,
+          "retrievedAt": "2026-09-07T00:02:12.025960+00:00",
+          "snapshotPath": "sources/district-snapshots/2db6120e6edcc37e1de5b70ed802e39611a00ef1c4e14b488cfc263587cf257d.pdf",
+          "textPath": "data/source-library/2db6120e6edcc37e1de5b70ed802e39611a00ef1c4e14b488cfc263587cf257d.json",
+          "pdfPath": "data/source-pdfs/2db6120e6edcc37e1de5b70ed802e39611a00ef1c4e14b488cfc263587cf257d.pdf",
+          "pageCount": 34,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "tned",
+      "name": "Eastern District of Tennessee",
+      "discoveryUrl": "https://www.tned.uscourts.gov/local-rules",
+      "notes": [],
+      "documents": [
+        {
+          "id": "c53178a09c2ffb0c",
+          "title": "Local Rules",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.tned.uscourts.gov/sites/tned/files/Local%20Rules_Active_2026.04.08%20to%20Present.pdf",
+          "sha256": "c53178a09c2ffb0cbb6cb3eafb2c064564fb89fb44a08f5b05b69f73d70b8ecf",
+          "bytes": 551974,
+          "retrievedAt": "2026-09-07T00:02:14.902227+00:00",
+          "snapshotPath": "sources/district-snapshots/c53178a09c2ffb0cbb6cb3eafb2c064564fb89fb44a08f5b05b69f73d70b8ecf.pdf",
+          "textPath": "data/source-library/c53178a09c2ffb0cbb6cb3eafb2c064564fb89fb44a08f5b05b69f73d70b8ecf.json",
+          "pdfPath": "data/source-pdfs/c53178a09c2ffb0cbb6cb3eafb2c064564fb89fb44a08f5b05b69f73d70b8ecf.pdf",
+          "pageCount": 110,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "tnmd",
+      "name": "Middle District of Tennessee",
+      "discoveryUrl": "https://www.tnmd.uscourts.gov/court-info/local-rules-and-orders/local-rules",
+      "notes": [],
+      "documents": [
+        {
+          "id": "9ea5870a79cced04",
+          "title": "Local Rules of Court - May 15, 2025",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.tnmd.uscourts.gov/sites/tnmd/files/2025.05.15%20TNMD%20Local%20Rules%20of%20Court%20-%202025%20amendments%20_0.pdf",
+          "sha256": "9ea5870a79cced04483aaac496ccd8bc30ebee5ecd8ce46dec00fb62dad51946",
+          "bytes": 627954,
+          "retrievedAt": "2026-09-07T00:02:15.469347+00:00",
+          "snapshotPath": "sources/district-snapshots/9ea5870a79cced04483aaac496ccd8bc30ebee5ecd8ce46dec00fb62dad51946.pdf",
+          "textPath": "data/source-library/9ea5870a79cced04483aaac496ccd8bc30ebee5ecd8ce46dec00fb62dad51946.json",
+          "pdfPath": "data/source-pdfs/9ea5870a79cced04483aaac496ccd8bc30ebee5ecd8ce46dec00fb62dad51946.pdf",
+          "pageCount": 52,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "tnwd",
+      "name": "Western District of Tennessee",
+      "discoveryUrl": "https://www.tnwd.uscourts.gov/local-rules",
+      "notes": [],
+      "documents": [
+        {
+          "id": "a6dcdc4ae6458d0a",
+          "title": "Local Rules",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.tnwd.uscourts.gov/sites/tnwd/files/Local%20Rules%20%E2%80%93%20Revised%2011.17.%202025%20%28Addition%20of%20LR%2043.1%28h%29%29.pdf",
+          "sha256": "a6dcdc4ae6458d0a3397f4063af24d6cfd7d00273ae8f4beb14906020078a958",
+          "bytes": 3047189,
+          "retrievedAt": "2026-09-07T00:02:15.593917+00:00",
+          "snapshotPath": "sources/district-snapshots/a6dcdc4ae6458d0a3397f4063af24d6cfd7d00273ae8f4beb14906020078a958.pdf",
+          "textPath": "data/source-library/a6dcdc4ae6458d0a3397f4063af24d6cfd7d00273ae8f4beb14906020078a958.json",
+          "pdfPath": "data/source-pdfs/a6dcdc4ae6458d0a3397f4063af24d6cfd7d00273ae8f4beb14906020078a958.pdf",
+          "pageCount": 174,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "txed",
+      "name": "Eastern District of Texas",
+      "discoveryUrl": "https://www.txed.uscourts.gov/?q=rules-orders",
+      "notes": [],
+      "documents": [
+        {
+          "id": "be1176ce485e76f3",
+          "title": "Complete Local Rules (download linked from Rules & Orders)",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.txed.uscourts.gov/sites/default/files/HR_Docs/TXED%20Local%20Rules%202025%20-%20As%20Amended%202.9.2026%20Updated%206.2.2026.pdf",
+          "sha256": "be1176ce485e76f362660a702a10d548954095c20635f8a1a63af68ff1a59d88",
+          "bytes": 623842,
+          "retrievedAt": "2026-09-07T00:02:24.933022+00:00",
+          "snapshotPath": "sources/district-snapshots/be1176ce485e76f362660a702a10d548954095c20635f8a1a63af68ff1a59d88.pdf",
+          "textPath": "data/source-library/be1176ce485e76f362660a702a10d548954095c20635f8a1a63af68ff1a59d88.json",
+          "pdfPath": "data/source-pdfs/be1176ce485e76f362660a702a10d548954095c20635f8a1a63af68ff1a59d88.pdf",
+          "pageCount": 66,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "txnd",
+      "name": "Northern District of Texas",
+      "discoveryUrl": "https://www.txnd.uscourts.gov/civil-rules",
+      "notes": [],
+      "documents": [
+        {
+          "id": "46a817694c28c417",
+          "title": "Civil Rules (PDF)",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.txnd.uscourts.gov/sites/default/files/documents/CIVRULES.pdf",
+          "sha256": "46a817694c28c41732b91b2b672fe23ee08ad28f8c633a97534312a1b1f29dba",
+          "bytes": 277235,
+          "retrievedAt": "2026-09-07T00:02:25.849638+00:00",
+          "snapshotPath": "sources/district-snapshots/46a817694c28c41732b91b2b672fe23ee08ad28f8c633a97534312a1b1f29dba.pdf",
+          "textPath": "data/source-library/46a817694c28c41732b91b2b672fe23ee08ad28f8c633a97534312a1b1f29dba.json",
+          "pdfPath": "data/source-pdfs/46a817694c28c41732b91b2b672fe23ee08ad28f8c633a97534312a1b1f29dba.pdf",
+          "pageCount": 36,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "txsd",
+      "name": "Southern District of Texas",
+      "discoveryUrl": "https://www.txs.uscourts.gov/page/local-federal-rules",
+      "notes": [],
+      "documents": [
+        {
+          "id": "932940b61024065a",
+          "title": "District Local Rules",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.txs.uscourts.gov/sites/txs/files/LR_March_2026.pdf",
+          "sha256": "932940b61024065adaf0ac67efe16817871cdd41ca2398956352eea808c75eac",
+          "bytes": 415961,
+          "retrievedAt": "2026-09-07T00:02:26.759737+00:00",
+          "snapshotPath": "sources/district-snapshots/932940b61024065adaf0ac67efe16817871cdd41ca2398956352eea808c75eac.pdf",
+          "textPath": "data/source-library/932940b61024065adaf0ac67efe16817871cdd41ca2398956352eea808c75eac.json",
+          "pdfPath": "data/source-pdfs/932940b61024065adaf0ac67efe16817871cdd41ca2398956352eea808c75eac.pdf",
+          "pageCount": 43,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "txwd",
+      "name": "Western District of Texas",
+      "discoveryUrl": "https://www.txwd.uscourts.gov/court-information/lcr-introduction/",
+      "notes": [],
+      "documents": [
+        {
+          "id": "475cd12040bc439f",
+          "title": "Download a complete copy of the Local Rules",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.txwd.uscourts.gov/wp-content/uploads/2026/08/TXWD-Local-Rules-Full-Copy-081926.pdf",
+          "sha256": "475cd12040bc439f1f9041a6e17fe38845025076bba29546e8b67046ec52b647",
+          "bytes": 2232502,
+          "retrievedAt": "2026-09-07T00:02:27.257889+00:00",
+          "snapshotPath": "sources/district-snapshots/475cd12040bc439f1f9041a6e17fe38845025076bba29546e8b67046ec52b647.pdf",
+          "textPath": "data/source-library/475cd12040bc439f1f9041a6e17fe38845025076bba29546e8b67046ec52b647.json",
+          "pdfPath": "data/source-pdfs/475cd12040bc439f1f9041a6e17fe38845025076bba29546e8b67046ec52b647.pdf",
+          "pageCount": 245,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "utd",
+      "name": "District of Utah",
+      "discoveryUrl": "https://www.utd.uscourts.gov/rules-practice",
+      "notes": [
+        "Court page also has proposed amendments with a September 4, 2026 comment deadline. The listed current civil edition is effective December 1, 2025."
+      ],
+      "documents": [
+        {
+          "id": "c50080f9ff8d260e",
+          "title": "Civil rules - effective December 1, 2025",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.utd.uscourts.gov/sites/utd/files/Civil%20Rules%20Final%202025.pdf",
+          "sha256": "c50080f9ff8d260e0ba8096a7bd5142525f24de16015a1a6202e2dae59f22435",
+          "bytes": 821745,
+          "retrievedAt": "2026-09-07T00:02:28.116616+00:00",
+          "snapshotPath": "sources/district-snapshots/c50080f9ff8d260e0ba8096a7bd5142525f24de16015a1a6202e2dae59f22435.pdf",
+          "textPath": "data/source-library/c50080f9ff8d260e0ba8096a7bd5142525f24de16015a1a6202e2dae59f22435.json",
+          "pdfPath": "data/source-pdfs/c50080f9ff8d260e0ba8096a7bd5142525f24de16015a1a6202e2dae59f22435.pdf",
+          "pageCount": 100,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "vtd",
+      "name": "District of Vermont",
+      "discoveryUrl": "https://www.vtd.uscourts.gov/court-info/local-rules-and-orders",
+      "notes": [],
+      "documents": [
+        {
+          "id": "8048666fab25b6a7",
+          "title": "Local Rules of Procedure",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.vtd.uscourts.gov/sites/vtd/files/LocalRules-20260420.pdf",
+          "sha256": "8048666fab25b6a7f9e35bd7fd8f486cca1041c9d5d047fd81c89338630300fa",
+          "bytes": 290057,
+          "retrievedAt": "2026-09-07T00:02:28.847597+00:00",
+          "snapshotPath": "sources/district-snapshots/8048666fab25b6a7f9e35bd7fd8f486cca1041c9d5d047fd81c89338630300fa.pdf",
+          "textPath": "data/source-library/8048666fab25b6a7f9e35bd7fd8f486cca1041c9d5d047fd81c89338630300fa.json",
+          "pdfPath": "data/source-pdfs/8048666fab25b6a7f9e35bd7fd8f486cca1041c9d5d047fd81c89338630300fa.pdf",
+          "pageCount": 60,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "vid",
+      "name": "District of the Virgin Islands",
+      "discoveryUrl": "https://www.vid.uscourts.gov/court-info/local-rules-and-orders/local-rules",
+      "notes": [],
+      "documents": [
+        {
+          "id": "6f409d3c8298ae85",
+          "title": "Local Rules of Civil Procedure",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.vid.uscourts.gov/sites/vid/files/local_rules/DVI%20Local%20Civil%20Revised%20Rules-Docketed.pdf",
+          "sha256": "6f409d3c8298ae85a5b994f1697202cff6248ec16f43d4dfe13dd70bb10ec1cb",
+          "bytes": 437985,
+          "retrievedAt": "2026-09-07T00:02:28.917162+00:00",
+          "snapshotPath": "sources/district-snapshots/6f409d3c8298ae85a5b994f1697202cff6248ec16f43d4dfe13dd70bb10ec1cb.pdf",
+          "textPath": "data/source-library/6f409d3c8298ae85a5b994f1697202cff6248ec16f43d4dfe13dd70bb10ec1cb.json",
+          "pdfPath": "data/source-pdfs/6f409d3c8298ae85a5b994f1697202cff6248ec16f43d4dfe13dd70bb10ec1cb.pdf",
+          "pageCount": 44,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "vaed",
+      "name": "Eastern District of Virginia",
+      "discoveryUrl": "https://www.vaed.uscourts.gov/court-info/local-rules-and-orders",
+      "notes": [],
+      "documents": [
+        {
+          "id": "b2f28b233e18ec56",
+          "title": "Local Rules in PDF format",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.vaed.uscourts.gov/sites/vaed/files/Local%20Rules%20EDVA%20December%201%202024.pdf",
+          "sha256": "b2f28b233e18ec56ec75dfdf7176716bcd737000d9aabfddb94199272e419c7f",
+          "bytes": 684201,
+          "retrievedAt": "2026-09-07T00:02:29.654547+00:00",
+          "snapshotPath": "sources/district-snapshots/b2f28b233e18ec56ec75dfdf7176716bcd737000d9aabfddb94199272e419c7f.pdf",
+          "textPath": "data/source-library/b2f28b233e18ec56ec75dfdf7176716bcd737000d9aabfddb94199272e419c7f.json",
+          "pdfPath": "data/source-pdfs/b2f28b233e18ec56ec75dfdf7176716bcd737000d9aabfddb94199272e419c7f.pdf",
+          "pageCount": 97,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "vawd",
+      "name": "Western District of Virginia",
+      "discoveryUrl": "https://www.vawd.uscourts.gov/court-information/local-rules-and-standing-orders/",
+      "notes": [],
+      "documents": [
+        {
+          "id": "1ffd80a63eaaf3c4",
+          "title": "Local Rules",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.vawd.uscourts.gov/sites/Public/assets/File/court/local_rules.pdf",
+          "sha256": "1ffd80a63eaaf3c4b3ab9e405b4365f43b56ab5d8f8410b58eefb61b707e971c",
+          "bytes": 1175338,
+          "retrievedAt": "2026-09-07T00:02:32.284822+00:00",
+          "snapshotPath": "sources/district-snapshots/1ffd80a63eaaf3c4b3ab9e405b4365f43b56ab5d8f8410b58eefb61b707e971c.pdf",
+          "textPath": "data/source-library/1ffd80a63eaaf3c4b3ab9e405b4365f43b56ab5d8f8410b58eefb61b707e971c.json",
+          "pdfPath": "data/source-pdfs/1ffd80a63eaaf3c4b3ab9e405b4365f43b56ab5d8f8410b58eefb61b707e971c.pdf",
+          "pageCount": 45,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "waed",
+      "name": "Eastern District of Washington",
+      "discoveryUrl": "https://www.waed.uscourts.gov/rules-policies/local-rules",
+      "notes": [],
+      "documents": [
+        {
+          "id": "832f0fbecae7328a",
+          "title": "Local Civil Rules pdf, 454.84 KB",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.waed.uscourts.gov/sites/cst/waed/files/local-rules/LocalCivilRules---November-2025.pdf",
+          "sha256": "832f0fbecae7328a602ebcabe3aef9a2afc9509490cfe471da85cc197f542b42",
+          "bytes": 465759,
+          "retrievedAt": "2026-09-07T00:02:33.261439+00:00",
+          "snapshotPath": "sources/district-snapshots/832f0fbecae7328a602ebcabe3aef9a2afc9509490cfe471da85cc197f542b42.pdf",
+          "textPath": "data/source-library/832f0fbecae7328a602ebcabe3aef9a2afc9509490cfe471da85cc197f542b42.json",
+          "pdfPath": "data/source-pdfs/832f0fbecae7328a602ebcabe3aef9a2afc9509490cfe471da85cc197f542b42.pdf",
+          "pageCount": 40,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "wawd",
+      "name": "Western District of Washington",
+      "discoveryUrl": "https://www.wawd.uscourts.gov/local-rules-and-orders",
+      "notes": [],
+      "documents": [
+        {
+          "id": "d9befea781ff1b8d",
+          "title": "Local Civil Rules",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.wawd.uscourts.gov/sites/wawd/files/WAWD%20Local%20Civil%20Rules%20%282026%29%20-%20Clean.pdf",
+          "sha256": "d9befea781ff1b8d449e6b0bf598097fbf570e64f7234a56fb3de1c9ef704562",
+          "bytes": 749553,
+          "retrievedAt": "2026-09-07T00:02:35.632045+00:00",
+          "snapshotPath": "sources/district-snapshots/d9befea781ff1b8d449e6b0bf598097fbf570e64f7234a56fb3de1c9ef704562.pdf",
+          "textPath": "data/source-library/d9befea781ff1b8d449e6b0bf598097fbf570e64f7234a56fb3de1c9ef704562.json",
+          "pdfPath": "data/source-pdfs/d9befea781ff1b8d449e6b0bf598097fbf570e64f7234a56fb3de1c9ef704562.pdf",
+          "pageCount": 157,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "wvnd",
+      "name": "Northern District of West Virginia",
+      "discoveryUrl": "https://www.wvnd.uscourts.gov/",
+      "notes": [
+        "The homepage also lists amendments effective December 1, 2022. Reconcile later orders with the 2018 compilation before ingestion."
+      ],
+      "documents": [
+        {
+          "id": "7b5520cb858b057c",
+          "title": "Local Rules »",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "http://www.wvnd.uscourts.gov/sites/wvnd/files/NDWV%20Local%20Rules%202018%20MASTER.pdf",
+          "sha256": "7b5520cb858b057cd98a1b54a6954b7e4a9ccf590a8f96934dfbc647abe249e9",
+          "bytes": 655804,
+          "retrievedAt": "2026-09-07T00:02:35.838264+00:00",
+          "snapshotPath": "sources/district-snapshots/7b5520cb858b057cd98a1b54a6954b7e4a9ccf590a8f96934dfbc647abe249e9.pdf",
+          "textPath": "data/source-library/7b5520cb858b057cd98a1b54a6954b7e4a9ccf590a8f96934dfbc647abe249e9.json",
+          "pdfPath": "data/source-pdfs/7b5520cb858b057cd98a1b54a6954b7e4a9ccf590a8f96934dfbc647abe249e9.pdf",
+          "pageCount": 162,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "wvsd",
+      "name": "Southern District of West Virginia",
+      "discoveryUrl": "https://www.wvsd.uscourts.gov/court-info/local-rules-and-orders/local-rules",
+      "notes": [],
+      "documents": [
+        {
+          "id": "3309a2002517b837",
+          "title": "local rules in PDF format",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.wvsd.uscourts.gov/sites/wvsd/files/LocalRulesofProcedure-June2017.pdf",
+          "sha256": "3309a2002517b83741b178802b7885eaa4c9d660fa267ba6d66dd2cbd5c91210",
+          "bytes": 567736,
+          "retrievedAt": "2026-09-07T00:02:37.310488+00:00",
+          "snapshotPath": "sources/district-snapshots/3309a2002517b83741b178802b7885eaa4c9d660fa267ba6d66dd2cbd5c91210.pdf",
+          "textPath": "data/source-library/3309a2002517b83741b178802b7885eaa4c9d660fa267ba6d66dd2cbd5c91210.json",
+          "pdfPath": "data/source-pdfs/3309a2002517b83741b178802b7885eaa4c9d660fa267ba6d66dd2cbd5c91210.pdf",
+          "pageCount": 95,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "wied",
+      "name": "Eastern District of Wisconsin",
+      "discoveryUrl": "https://www.wied.uscourts.gov/local-rules-and-guidance-0",
+      "notes": [],
+      "documents": [
+        {
+          "id": "51726fd2dac1b42f",
+          "title": "Local Rules",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.wied.uscourts.gov/sites/wied/files/documents/Local%20Rules%202010-0201-Amended%202026-0729.pdf",
+          "sha256": "51726fd2dac1b42fa8943d0ee0755b2a5acddc4b0e030a405f33a41af9c61628",
+          "bytes": 519292,
+          "retrievedAt": "2026-09-07T00:02:38.109235+00:00",
+          "snapshotPath": "sources/district-snapshots/51726fd2dac1b42fa8943d0ee0755b2a5acddc4b0e030a405f33a41af9c61628.pdf",
+          "textPath": "data/source-library/51726fd2dac1b42fa8943d0ee0755b2a5acddc4b0e030a405f33a41af9c61628.json",
+          "pdfPath": "data/source-pdfs/51726fd2dac1b42fa8943d0ee0755b2a5acddc4b0e030a405f33a41af9c61628.pdf",
+          "pageCount": 71,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "wiwd",
+      "name": "Western District of Wisconsin",
+      "discoveryUrl": "https://www.wiwd.uscourts.gov/local-rules",
+      "notes": [
+        "The court-listed Local Rules PDF is only two pages. Pretrial and judge-specific procedures need a separate inventory."
+      ],
+      "documents": [
+        {
+          "id": "a538634232b78093",
+          "title": "Local Rules",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.wiwd.uscourts.gov/sites/default/files/Local_Rules.pdf",
+          "sha256": "a538634232b7809314ff7baa9c1947dad3931c8dac4782083eddc2de74880ff9",
+          "bytes": 18016,
+          "retrievedAt": "2026-09-07T00:02:43.269995+00:00",
+          "snapshotPath": "sources/district-snapshots/a538634232b7809314ff7baa9c1947dad3931c8dac4782083eddc2de74880ff9.pdf",
+          "textPath": "data/source-library/a538634232b7809314ff7baa9c1947dad3931c8dac4782083eddc2de74880ff9.json",
+          "pdfPath": "data/source-pdfs/a538634232b7809314ff7baa9c1947dad3931c8dac4782083eddc2de74880ff9.pdf",
+          "pageCount": 2,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    },
+    {
+      "id": "wyd",
+      "name": "District of Wyoming",
+      "discoveryUrl": "https://www.wyd.uscourts.gov/court-info/local-rules-and-orders/local-rules",
+      "notes": [],
+      "documents": [
+        {
+          "id": "babc2b430a2fec44",
+          "title": "Wyoming Local Rules",
+          "format": "pdf",
+          "role": "primary",
+          "sourceUrl": "https://www.wyd.uscourts.gov/sites/wyd/files/local_rules/2022%20Civil%20Local%20Rules%20-%20FINAL.pdf",
+          "sha256": "babc2b430a2fec4469b29c6ef0078a1a6d02b8105348a0691189c64bd373aeda",
+          "bytes": 846988,
+          "retrievedAt": "2026-09-07T00:02:43.653915+00:00",
+          "snapshotPath": "sources/district-snapshots/babc2b430a2fec4469b29c6ef0078a1a6d02b8105348a0691189c64bd373aeda.pdf",
+          "textPath": "data/source-library/babc2b430a2fec4469b29c6ef0078a1a6d02b8105348a0691189c64bd373aeda.json",
+          "pdfPath": "data/source-pdfs/babc2b430a2fec4469b29c6ef0078a1a6d02b8105348a0691189c64bd373aeda.pdf",
+          "pageCount": 95,
+          "reviewStatus": "source-document-only",
+          "blankTextPages": 0
+        }
+      ]
+    }
+  ]
+}

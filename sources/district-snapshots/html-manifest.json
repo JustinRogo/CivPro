@@ -1,0 +1,12 @@
+{
+  "https://www.miwd.uscourts.gov/court-info/local-rules-and-orders/local-civil-rules": {
+    "sha256": "7bc299f6d271e802b73c38db9d979f5f00be6ba9da0e92a6eed60ae65c4e63af",
+    "retrievedAt": "2026-09-07T04:42:36.702100+00:00",
+    "bytes": 193504
+  },
+  "https://www.ord.uscourts.gov/index.php/printable-civil-procedure?tmpl=component&print=1": {
+    "sha256": "6a22d5e3ff0ffb1bdc89d2a6a08ef939b80bbec78cc1dffd8e383bf3975d0290",
+    "retrievedAt": "2026-09-07T04:42:38.890056+00:00",
+    "bytes": 419753
+  }
+}

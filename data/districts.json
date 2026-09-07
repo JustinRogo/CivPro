@@ -1,4 +1,674 @@
 [
-  {"id":"us","name":"Federal only","collections":["federal-frcp","federal-admiralty","federal-social","federal-support"],"supported":true},
-  {"id":"ctd","name":"District of Connecticut","collections":["ctd-civil","ctd-magistrate","ctd-support"],"supported":true}
+  {
+    "id": "us",
+    "name": "Federal only",
+    "collections": [
+      "federal-frcp",
+      "federal-admiralty",
+      "federal-social",
+      "federal-support"
+    ],
+    "supported": true
+  },
+  {
+    "id": "ctd",
+    "name": "District of Connecticut",
+    "collections": [
+      "ctd-civil",
+      "ctd-magistrate",
+      "ctd-support"
+    ],
+    "supported": true
+  },
+  {
+    "id": "almd",
+    "name": "Middle District of Alabama",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "alnd",
+    "name": "Northern District of Alabama",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "alsd",
+    "name": "Southern District of Alabama",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "akd",
+    "name": "District of Alaska",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "azd",
+    "name": "District of Arizona",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "ared",
+    "name": "Eastern District of Arkansas",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "arwd",
+    "name": "Western District of Arkansas",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "cacd",
+    "name": "Central District of California",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "caed",
+    "name": "Eastern District of California",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "cand",
+    "name": "Northern District of California",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "casd",
+    "name": "Southern District of California",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "cod",
+    "name": "District of Colorado",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "ded",
+    "name": "District of Delaware",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "dcd",
+    "name": "District of Columbia",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "flmd",
+    "name": "Middle District of Florida",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "flnd",
+    "name": "Northern District of Florida",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "flsd",
+    "name": "Southern District of Florida",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "gamd",
+    "name": "Middle District of Georgia",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "gand",
+    "name": "Northern District of Georgia",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "gasd",
+    "name": "Southern District of Georgia",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "gud",
+    "name": "District of Guam",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "hid",
+    "name": "District of Hawaii",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "idd",
+    "name": "District of Idaho",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "ilcd",
+    "name": "Central District of Illinois",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "ilnd",
+    "name": "Northern District of Illinois",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "ilsd",
+    "name": "Southern District of Illinois",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "innd",
+    "name": "Northern District of Indiana",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "insd",
+    "name": "Southern District of Indiana",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "iand",
+    "name": "Northern District of Iowa",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "iasd",
+    "name": "Southern District of Iowa",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "ksd",
+    "name": "District of Kansas",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "kyed",
+    "name": "Eastern District of Kentucky",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "kywd",
+    "name": "Western District of Kentucky",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "laed",
+    "name": "Eastern District of Louisiana",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "lamd",
+    "name": "Middle District of Louisiana",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "lawd",
+    "name": "Western District of Louisiana",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "med",
+    "name": "District of Maine",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "mdd",
+    "name": "District of Maryland",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "mad",
+    "name": "District of Massachusetts",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "mied",
+    "name": "Eastern District of Michigan",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "miwd",
+    "name": "Western District of Michigan",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "mnd",
+    "name": "District of Minnesota",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "msnd",
+    "name": "Northern District of Mississippi",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "mssd",
+    "name": "Southern District of Mississippi",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "moed",
+    "name": "Eastern District of Missouri",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "mowd",
+    "name": "Western District of Missouri",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "mtd",
+    "name": "District of Montana",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "ned",
+    "name": "District of Nebraska",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "nvd",
+    "name": "District of Nevada",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "nhd",
+    "name": "District of New Hampshire",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "njd",
+    "name": "District of New Jersey",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "nmd",
+    "name": "District of New Mexico",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "nyed",
+    "name": "Eastern District of New York",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "nynd",
+    "name": "Northern District of New York",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "nysd",
+    "name": "Southern District of New York",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "nywd",
+    "name": "Western District of New York",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "nced",
+    "name": "Eastern District of North Carolina",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "ncmd",
+    "name": "Middle District of North Carolina",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "ncwd",
+    "name": "Western District of North Carolina",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "ndd",
+    "name": "District of North Dakota",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "nmid",
+    "name": "District of the Northern Mariana Islands",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "ohnd",
+    "name": "Northern District of Ohio",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "ohsd",
+    "name": "Southern District of Ohio",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "oked",
+    "name": "Eastern District of Oklahoma",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "oknd",
+    "name": "Northern District of Oklahoma",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "okwd",
+    "name": "Western District of Oklahoma",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "ord",
+    "name": "District of Oregon",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "paed",
+    "name": "Eastern District of Pennsylvania",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "pamd",
+    "name": "Middle District of Pennsylvania",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "pawd",
+    "name": "Western District of Pennsylvania",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "prd",
+    "name": "District of Puerto Rico",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "rid",
+    "name": "District of Rhode Island",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "scd",
+    "name": "District of South Carolina",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "sdd",
+    "name": "District of South Dakota",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "tned",
+    "name": "Eastern District of Tennessee",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "tnmd",
+    "name": "Middle District of Tennessee",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "tnwd",
+    "name": "Western District of Tennessee",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "txed",
+    "name": "Eastern District of Texas",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "txnd",
+    "name": "Northern District of Texas",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "txsd",
+    "name": "Southern District of Texas",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "txwd",
+    "name": "Western District of Texas",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "utd",
+    "name": "District of Utah",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "vtd",
+    "name": "District of Vermont",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "vid",
+    "name": "District of the Virgin Islands",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "vaed",
+    "name": "Eastern District of Virginia",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "vawd",
+    "name": "Western District of Virginia",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "waed",
+    "name": "Eastern District of Washington",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "wawd",
+    "name": "Western District of Washington",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "wvnd",
+    "name": "Northern District of West Virginia",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "wvsd",
+    "name": "Southern District of West Virginia",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "wied",
+    "name": "Eastern District of Wisconsin",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "wiwd",
+    "name": "Western District of Wisconsin",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  },
+  {
+    "id": "wyd",
+    "name": "District of Wyoming",
+    "collections": [],
+    "supported": true,
+    "readerMode": "source"
+  }
 ]

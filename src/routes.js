@@ -14,5 +14,5 @@ export function parseRoute(hash) {
   if(parts[0]==='district' && parts[1] && parts[2]) collectionId=parts[1]+'-'+parts[2];
   const pos=parts.indexOf('rule');
   if(pos>=0) {number=parts[pos+1]; if(parts[pos+2]==='p') anchor=parts.slice(pos+3).join('/')}
-  return {page:parts[0] || 'home', collectionId, number, anchor, params};
+  return {page:parts[0] || 'home', districtId:parts[0]==='district'?parts[1]||null:null, collectionId, number, anchor, params};
 }

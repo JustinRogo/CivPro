@@ -12,7 +12,7 @@ self.addEventListener('fetch',event=>{
   const url=event.request.url;
   if(event.request.method!=='GET'||!url.startsWith(BASE))return;
   event.respondWith((async()=>{
-    const local=url.slice(BASE.length).split('?')[0];
+    const local=new URL(url).pathname.slice(new URL(BASE).pathname.length);
     if(FILES.includes(local)||local==='')return (await(await caches.open(SHELL)).match(new URL(local||'index.html',BASE).href))||fetch(event.request);
     if(local.startsWith('data/')){
       const installed=await loadMeta();
@@ -21,7 +21,7 @@ self.addEventListener('fetch',event=>{
         if(r)return r;
       }
       try {
-        const r=await fetch(event.request);if(r.ok)await(await caches.open(RUNTIME)).put(event.request,r.clone());return r;
+        const r=await fetch(event.request);if(r.status===200)await(await caches.open(RUNTIME)).put(event.request,r.clone());return r;
       }catch{return (await(await caches.open(RUNTIME)).match(event.request))||new Response('Package unavailable offline',{status:503})}
     }
     return fetch(event.request);

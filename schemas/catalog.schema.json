@@ -26,6 +26,12 @@
           },
           "supported": {
             "type": "boolean"
+          },
+          "readerMode": {
+            "enum": [
+              "structured",
+              "source"
+            ]
           }
         },
         "required": [

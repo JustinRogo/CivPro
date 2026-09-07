@@ -2,12 +2,16 @@ import {cp,mkdir,readFile,writeFile,readdir,rm} from 'node:fs/promises';
 import path from 'node:path';
 import Ajv from 'ajv';
 import {validate,json,sha} from './validate.mjs';
+import {validateSourceLibrary} from './validate-source-library.mjs';
+import {packagePaths} from '../src/source-library.js';
+const sourceCorpusSha256=sha(Buffer.concat(await Promise.all(['data/source-library.json',...(await readdir('data/source-library')).sort().map(n=>'data/source-library/'+n)].map(p=>readFile(p)))));
 const {provisions,sources,relationships}=await validate();
 const review=await json('data/review.json');
 const production=process.argv.includes('--production');
 if(process.argv.includes('--candidate')&&!process.env.FCR_SITE_URL)throw Error('Set FCR_SITE_URL to the final HTTPS publication URL.');
 if(process.argv.includes('--production')){
   if(review.status!=='approved'||review.corpusSha256!==sha(await readFile('data/provisions.json')))throw Error('Production publication requires a completed review bound to the canonical corpus hash. See docs/DEPLOYMENT.md.');
+  if(review.sourceCorpusSha256!==sourceCorpusSha256)throw Error('Production publication also requires review of the nationwide source library, bound to its exact index and text bytes. See docs/DEPLOYMENT.md.');
   if(!process.env.FCR_SITE_URL)throw Error('Set FCR_SITE_URL to the final HTTPS publication URL.');
 }
 const root=process.cwd(),output=path.resolve(root,'dist');
@@ -19,6 +23,8 @@ await writeFile(output+'/index.html',(await readFile(output+'/index.html','utf8'
 const write=async(p,v)=>{await mkdir(path.dirname(p),{recursive:true});await writeFile(p,typeof v==='string'?v:JSON.stringify(v)+'\n')};
 const definitions=await json('data/collections.json');
 const catalog={version:1,districts:await json('data/districts.json'),collections:[],provisions:[]},artifacts=[];
+const sourceLibrary=await json('data/source-library.json');
+await validateSourceLibrary(sourceLibrary,catalog.districts);
 const add=async(rel,value)=>{const data=JSON.stringify(value)+'\n';await write(path.join(output,rel),data);artifacts.push({path:rel,bytes:Buffer.byteLength(data),sha256:sha(data)})};
 for(const definition of definitions){
   const items=provisions.filter(p=>p.collectionId===definition.id),editionId=items[0].editionId;
@@ -33,14 +39,22 @@ for(const definition of definitions){
 await add('data/catalog.json',catalog);await add('data/sources.json',sources);
 await add('data/relationships.json',{...relationships,reverse:Object.fromEntries(provisions.map(p=>[p.id,relationships.links.filter(l=>l.from===p.id||l.to===p.id).map(l=>l.id)]))});
 await add('data/inventory.json',await json('data/inventory.json'));
+await add('data/source-library.json',sourceLibrary);
+const sourcePaths=new Set();
+for(const row of sourceLibrary.districts)for(const doc of row.documents){
+  if(sourcePaths.has(doc.textPath))continue;
+  sourcePaths.add(doc.textPath);
+  await add(doc.textPath,await json(doc.textPath));
+  if(doc.pdfPath){const bytes=await readFile(doc.snapshotPath);await mkdir(path.dirname(path.join(output,doc.pdfPath)),{recursive:true});await writeFile(path.join(output,doc.pdfPath),bytes);artifacts.push({path:doc.pdfPath,bytes:bytes.length,sha256:sha(bytes)})}
+}
 const release={version:1,id:sha(JSON.stringify(artifacts)).slice(0,16),reviewStatus:production?'approved':'candidate',artifacts,packages:{}};
-for(const d of catalog.districts.filter(d=>d.supported)){const id=d.id==='us'?'federal':d.id;release.packages[id]={label:d.id==='us'?'Federal collections':d.name+' collections',artifacts:artifacts.filter(a=>!a.path.startsWith('data/editions/')||d.collections.some(c=>a.path.startsWith('data/editions/'+c+'/'))).map(a=>a.path)}};
+for(const d of catalog.districts.filter(d=>d.supported)){const id=d.id==='us'?'federal':d.id;release.packages[id]={label:d.id==='us'?'Federal collections':d.name+(d.readerMode==='source'?' source documents':' collections'),artifacts:packagePaths(artifacts,d,sourceLibrary.districts.find(r=>r.id===d.id))}};
 await write(output+'/data/release.json',release);
 const site=new URL(process.env.FCR_SITE_URL||'https://example.github.io/CivPro/');if(!site.pathname.endsWith('/'))throw Error('FCR_SITE_URL must end in /');
-await write(output+'/manifest.webmanifest',{id:site.pathname,name:'Federal Civil Rules',short_name:'Civil Rules',description:'Federal and Connecticut civil rules, in context.',start_url:site.pathname+'#/',scope:site.pathname,display:'standalone',background_color:'#f8f8f3',theme_color:'#183e35',icons:[{src:'icon-192.png',sizes:'192x192',type:'image/png'},{src:'icon-512.png',sizes:'512x512',type:'image/png',purpose:'any maskable'}]});
+await write(output+'/manifest.webmanifest',{id:site.pathname,name:'Federal Civil Rules',short_name:'Civil Rules',description:'Federal civil rules and source documents for all 94 districts.',start_url:site.pathname+'#/',scope:site.pathname,display:'standalone',background_color:'#f8f8f3',theme_color:'#183e35',icons:[{src:'icon-192.png',sizes:'192x192',type:'image/png'},{src:'icon-512.png',sizes:'512x512',type:'image/png',purpose:'any maskable'}]});
 await write(output+'/.nojekyll','');
 await cp(output+'/index.html',output+'/404.html');
-const shell=(await readdir(output)).filter(n=>!['sw.js','data','.nojekyll'].includes(n));shell.push('data/catalog.json','data/release.json','data/sources.json','data/relationships.json');
+const shell=(await readdir(output)).filter(n=>!['sw.js','data','.nojekyll'].includes(n));shell.push('data/catalog.json','data/release.json','data/sources.json','data/relationships.json','data/source-library.json');
 const buildId=sha((await Promise.all(shell.map(f=>readFile(output+'/'+f)))).map(sha).join('')).slice(0,16);
 const worker=await readFile('src/sw.js','utf8');await write(output+'/sw.js',worker.replace('__BUILD__',buildId).replace('__SHELL_FILES__',JSON.stringify(shell)));
 const ajv=new Ajv();
