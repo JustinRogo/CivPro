@@ -1,5 +1,8 @@
 name: Deploy GitHub Pages
 on:
+  push:
+    branches:
+      - main
   workflow_dispatch:
     inputs:
       release:
@@ -29,7 +32,7 @@ jobs:
       - run: npm ci
       - run: npm run validate && npm test
       - name: Build public preview
-        if: inputs.release == 'candidate'
+        if: github.event_name == 'push' || inputs.release == 'candidate'
         run: npm run build -- --candidate
         env:
           FCR_SITE_URL: ${{ vars.FCR_SITE_URL }}
