@@ -8,7 +8,7 @@ test('library, source citations, federal-only mode, and reverse links',async({pa
   await page.goto('./#/federal/frcp/rule/56?district=ctd');
   await expect(page.getByRole('heading',{name:'Summary Judgment',exact:true})).toBeVisible();
   await expect(page.getByRole('link',{name:/D. Conn. L. Civ. R. 56/})).toBeVisible();
-  await page.getByText('Read alongside',{exact:true}).click();
+  await expect(page.locator('.comparison')).toBeVisible();
   await expect(page.locator('.comparison')).toContainText('twelve (12) double-spaced pages');
   await expect(page.locator('.rule-body')).not.toContainText('twelve (12) double-spaced pages');
   await page.screenshot({path:`test-results/reader-${info.project.name}.png`,fullPage:true});
@@ -58,4 +58,20 @@ test('verified packages support fresh offline reader and search; removal preserv
   await page.goto('./#/settings');await page.locator('[data-delete="ctd"]').click();await expect(page.locator('.package').nth(1)).toContainText('Not downloaded');
   await page.goto('./#/district/ctd/civil/rule/5?district=ctd');await expect(page.getByRole('heading',{name:'This page is unavailable'})).toBeVisible();
   await page.goto('./#/bookmarks');await expect(page.locator('.bookmark-row')).toHaveCount(1);
+});
+
+
+test('same-number district rule is expanded beside federal text and stacks on mobile',async({page},info)=>{
+  await page.goto('./#/federal/frcp/rule/3?district=ctd');
+  const panel=page.locator('.reader-paired .related-panel');
+  await expect(panel).toContainText('D. Conn. L. Civ. R. 3');
+  await expect(panel).toContainText('Same rule number');
+  await expect(panel.locator('.comparison')).toBeVisible();
+  const federal=await page.locator('.reader-paired>article').boundingBox();
+  const local=await panel.boundingBox();
+  if(info.project.name==='mobile')expect(local.y).toBeGreaterThanOrEqual(federal.y+federal.height);
+  else expect(local.x).toBeGreaterThanOrEqual(federal.x+federal.width);
+  await page.locator('#district').selectOption('none');
+  await expect(page.locator('.reader-paired')).toHaveCount(0);
+  await expect(page.locator('.comparison')).toHaveCount(0);
 });
